@@ -1,5 +1,5 @@
 {
-  "actualizado": "08/06/2026 19:35 UTC",
+  "actualizado": "08/06/2026 23:54 UTC",
   "total": 24,
   "noticias": [
     {
@@ -150,28 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concretan sólo 13% de anuncios de IED",
-      "resumen": "Entre enero de 2023 y marzo de 2026, 261 mmdd en anuncios de IED fueron registrados, pero sólo 12.7% de ese monto se encuentra en operación.",
-      "link": "https://www.reforma.com/concretan-solo-13-de-anuncios-de-ied/ar3218351",
-      "fecha": "08 Jun 2026, 13:04 UTC"
+      "titulo": "Identifican cuarto caso de gusano barrenador en EU",
+      "resumen": "El Departamento de Agricultura de EU reportó el segundo caso de gusano barrenador en territorio estadounidense; en total suman cuatro.",
+      "link": "https://www.reforma.com/identifican-cuarto-caso-de-gusano-barrenador-en-eu/ar3218652",
+      "fecha": "08 Jun 2026, 20:15 UTC"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja 3.7% producción de autos en mayo",
-      "resumen": "La producción de vehículos ligeros padeció su peor resultado relativo en seis meses, al caer 3.7% en mayo de 2026.",
-      "link": "https://www.reforma.com/baja-3-7-produccion-de-autos-en-mayo/ar3218512",
-      "fecha": "08 Jun 2026, 16:31 UTC"
+      "titulo": "Ordenan suspensión temporal de MIA de Amigo GLN.- ONGs",
+      "resumen": "Un juzgado federal ordenó suspender temporalmente la autorización de la MIA del proyecto de gas natural licuado Amigo GNL.",
+      "link": "https://www.reforma.com/ordenan-suspension-temporal-de-mia-de-amigo-gln-ongs/ar3218661",
+      "fecha": "08 Jun 2026, 20:43 UTC"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amenazan los aranceles a la siembra de jitomate",
-      "resumen": "Por arancel de EU a jitomate mexicano, cultivo y producción en el País va en declive, agricultores sembrarán este año 17% menos que en 2024.",
-      "link": "https://www.reforma.com/amenazan-los-aranceles-a-la-siembra-de-jitomate/ar3218381",
-      "fecha": "08 Jun 2026, 11:01 UTC"
+      "titulo": "Debuta Credijal en bolsa",
+      "resumen": "La Sofom Credijal se convirtió en la primera nueva emisora en hacer su debut en el mercado bursátil de deuda mexicano en 2026.",
+      "link": "https://www.reforma.com/debuta-credijal-en-bolsa/ar3218668",
+      "fecha": "08 Jun 2026, 20:15 UTC"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amenazan páginas de streaming a aficionados en Mundial",
-      "resumen": "Aficionados que busquen ver las transmisiones de los partidos del Mundial por Internet podrían terminar en una estafa, alertó Kaspersky.",
-      "link": "https://www.reforma.com/amenazan-paginas-de-streaming-a-aficionados-en-mundial/ar3218578",
-      "fecha": "08 Jun 2026, 17:48 UTC"
+      "titulo": "Lanzan Siri-AI y tendrá su app",
+      "resumen": "Apple presentó Siri-AI, que dará al asistente más herramientas de Inteligencia Artificial, y habrá una Siri app dentro de sus dispositivos.",
+      "link": "https://www.reforma.com/lanzan-siri-ai-y-tendra-su-app/ar3218625",
+      "fecha": "08 Jun 2026, 18:47 UTC"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presenta OpenAI confidencialmente petición de salida a bolsa",
+      "resumen": "OpenAI presentó solicitud de OPI de forma confidencial, sentando bases para lo que sería una de las mayores salidas a bolsa de la historia.",
+      "link": "https://www.reforma.com/presenta-openai-confidencialmente-peticion-de-salida-a-bolsa/ar3218714",
+      "fecha": "08 Jun 2026, 21:32 UTC"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Despertará en febrero coloso acerero en NL",
-      "resumen": "Ya avanzó en un 70% la construcción de \"la joya de la corona\" de la tercera fase del Complejo Industrial Ternium.",
-      "link": "https://www.reforma.com/despertara-en-febrero-coloso-acerero-en-nl/ar3218350",
-      "fecha": "08 Jun 2026, 13:04 UTC"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Adjudica Sener a la IP 38 centrales eléctricas",
-      "resumen": "La Secretaría de Energía adjudicó 38 proyectos de centrales eléctricas limpias en alianza con la CFE, con más de 6 mil 600 MW de capacidad.",
-      "link": "https://www.reforma.com/adjudica-sener-a-la-ip-38-centrales-electricas/ar3218339",
-      "fecha": "08 Jun 2026, 13:04 UTC"
+      "titulo": "Baja 3.7% producción de autos en mayo",
+      "resumen": "La producción de vehículos ligeros padeció su peor resultado relativo en seis meses, al caer 3.7% en mayo de 2026.",
+      "link": "https://www.reforma.com/baja-3-7-produccion-de-autos-en-mayo/ar3218512",
+      "fecha": "08 Jun 2026, 16:31 UTC"
     }
   ]
 }
