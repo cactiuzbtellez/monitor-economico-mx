@@ -3,463 +3,494 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Monitor Económico MX</title>
-<link href="https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400&family=DM+Sans:wght@300;400;500;700&display=swap" rel="stylesheet">
+<title>Monitor de Noticias Económicas — Gobierno de Querétaro</title>
+<link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@400;700&family=Source+Sans+3:wght@400;500;600;700&display=swap" rel="stylesheet">
 <style>
-  /* ── Variables ─────────────────────────────────────── */
-  :root {
-    --bg:        #08090d;
-    --surface:   #0f1117;
-    --border:    #1e2130;
-    --border-hi: #2d3352;
-    --text:      #c9cfe0;
-    --text-dim:  #5a6282;
-    --text-hi:   #eef0f8;
-    --accent-r:  #c8102e;
-    --accent-o:  #e87722;
-    --accent-g:  #00c896;
-    --accent-b:  #3d78f5;
-    --mono:      'Space Mono', monospace;
-    --sans:      'DM Sans', sans-serif;
-    --ticker-h:  36px;
-    --header-h:  56px;
-  }
+:root {
+  --bg: #f5f4f0;
+  --white: #ffffff;
+  --text: #1a1a1a;
+  --text-muted: #666666;
+  --border: #e0ddd6;
+  --expansion: #c8102e;
+  --universal: #e87722;
+  --reforma: #1a5fa8;
+  --qro-azul: #1e3a6e;
+  --qro-pink: #e8006e;
+  --tag-bg: #f0ede8;
+  --sans: 'Source Sans 3', sans-serif;
+  --serif: 'Merriweather', serif;
+}
 
-  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
-  html, body {
-    background: var(--bg);
-    color: var(--text);
-    font-family: var(--sans);
-    font-size: 14px;
-    height: 100%;
-    overflow-x: hidden;
-  }
+html, body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--sans);
+  font-size: 17px;
+  line-height: 1.6;
+}
 
-  /* ── Ticker tape ────────────────────────────────────── */
-  .ticker-wrap {
-    position: fixed;
-    top: 0; left: 0; right: 0;
-    height: var(--ticker-h);
-    background: #010204;
-    border-bottom: 1px solid var(--accent-b);
-    overflow: hidden;
-    z-index: 100;
-    display: flex;
-    align-items: center;
-  }
-  .ticker-label {
-    flex-shrink: 0;
-    padding: 0 16px;
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--accent-b);
-    letter-spacing: 2px;
-    border-right: 1px solid var(--border-hi);
-    height: 100%;
-    display: flex;
-    align-items: center;
-    background: #010204;
-    z-index: 2;
-  }
-  .ticker-track {
-    display: flex;
-    white-space: nowrap;
-    animation: ticker 60s linear infinite;
-  }
-  .ticker-track:hover { animation-play-state: paused; }
-  .ticker-item {
-    display: inline-flex;
-    align-items: center;
-    gap: 8px;
-    padding: 0 32px;
-    font-family: var(--mono);
-    font-size: 11px;
-    color: var(--text-dim);
-    border-right: 1px solid var(--border);
-  }
-  .ticker-item .tag {
-    color: var(--accent-b);
-    font-size: 9px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-  }
-  .ticker-title { color: var(--text); max-width: 320px; overflow: hidden; text-overflow: ellipsis; }
-  @keyframes ticker {
-    0%   { transform: translateX(0); }
-    100% { transform: translateX(-50%); }
-  }
+/* ── Header ── */
+header {
+  background: var(--white);
+  border-bottom: 3px solid var(--qro-azul);
+  padding: 0 32px;
+  min-height: 72px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+  position: sticky;
+  top: 0;
+  z-index: 50;
+}
 
-  /* ── Header ─────────────────────────────────────────── */
-  header {
-    position: fixed;
-    top: var(--ticker-h);
-    left: 0; right: 0;
-    height: var(--header-h);
-    background: var(--surface);
-    border-bottom: 1px solid var(--border);
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 0 24px;
-    z-index: 90;
-  }
-  .logo {
-    font-family: var(--mono);
-    font-size: 15px;
-    font-weight: 700;
-    color: var(--text-hi);
-    letter-spacing: -0.5px;
-  }
-  .logo span { color: var(--accent-b); }
-  .header-meta {
-    font-family: var(--mono);
-    font-size: 10px;
-    color: var(--text-dim);
-    text-align: right;
-    line-height: 1.6;
-  }
-  #reloj { color: var(--accent-g); }
+.header-logo {
+  flex-shrink: 0;
+  height: 52px;
+  display: flex;
+  align-items: center;
+}
+.header-logo img {
+  height: 52px;
+  width: auto;
+  /* Si el PNG tiene fondo negro, este filtro lo invierte para fondo blanco */
+  filter: brightness(0) invert(0);
+  object-fit: contain;
+}
 
-  /* ── Layout ─────────────────────────────────────────── */
-  main {
-    padding-top: calc(var(--ticker-h) + var(--header-h) + 20px);
-    padding-bottom: 40px;
-    max-width: 1400px;
-    margin: 0 auto;
-    padding-left: 20px;
-    padding-right: 20px;
-  }
+.header-divider {
+  width: 1px;
+  height: 44px;
+  background: var(--border);
+  flex-shrink: 0;
+}
 
-  /* ── Filtros ─────────────────────────────────────────── */
-  .filtros {
-    display: flex;
-    gap: 8px;
-    flex-wrap: wrap;
-    margin-bottom: 20px;
-    align-items: center;
-  }
-  .filtros-label {
-    font-family: var(--mono);
-    font-size: 9px;
-    letter-spacing: 2px;
-    color: var(--text-dim);
-    margin-right: 4px;
-  }
-  .filtro-btn {
-    padding: 5px 14px;
-    border: 1px solid var(--border-hi);
-    background: transparent;
-    color: var(--text-dim);
-    font-family: var(--mono);
-    font-size: 10px;
-    letter-spacing: 1px;
-    cursor: pointer;
-    transition: all .15s;
-    text-transform: uppercase;
-  }
-  .filtro-btn:hover, .filtro-btn.active {
-    border-color: var(--accent-b);
-    color: var(--accent-b);
-    background: rgba(61,120,245,.08);
-  }
-  .filtro-btn[data-fuente="El Financiero"].active { border-color: var(--accent-r); color: var(--accent-r); background: rgba(200,16,46,.08); }
-  .filtro-btn[data-fuente="El Economista"].active  { border-color: var(--accent-o); color: var(--accent-o); background: rgba(232,119,34,.08); }
+.header-titulo {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+}
+.header-titulo-main {
+  font-family: var(--serif);
+  font-size: 18px;
+  font-weight: 700;
+  color: var(--qro-azul);
+  line-height: 1.2;
+}
+.header-titulo-sub {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
 
-  /* ── Grid de cards ───────────────────────────────────── */
-  .grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
-    gap: 1px;
-    background: var(--border);
-    border: 1px solid var(--border);
-  }
+.header-right {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 2px;
+  flex-shrink: 0;
+}
+.header-fecha {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text);
+}
+.header-act {
+  font-size: 12px;
+  color: var(--text-muted);
+}
 
-  /* ── Card ────────────────────────────────────────────── */
-  .card {
-    background: var(--surface);
-    padding: 18px 20px;
-    display: flex;
-    flex-direction: column;
-    gap: 10px;
-    position: relative;
-    overflow: hidden;
-    transition: background .15s;
-    cursor: pointer;
-    text-decoration: none;
-  }
-  .card::before {
-    content: '';
-    position: absolute;
-    left: 0; top: 0; bottom: 0;
-    width: 3px;
-    background: var(--card-accent, var(--border-hi));
-    transition: width .2s;
-  }
-  .card:hover { background: #13161f; }
-  .card:hover::before { width: 5px; }
+/* ── Franja decorativa Querétaro ── */
+.franja {
+  height: 5px;
+  background: linear-gradient(90deg, var(--qro-azul) 60%, var(--qro-pink) 100%);
+}
 
-  .card-meta {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-  }
-  .card-fuente {
-    font-family: var(--mono);
-    font-size: 9px;
-    letter-spacing: 1.5px;
-    text-transform: uppercase;
-    color: var(--card-accent, var(--text-dim));
-    font-weight: 700;
-  }
-  .card-sep { color: var(--border-hi); font-size: 10px; }
-  .card-seccion {
-    font-family: var(--mono);
-    font-size: 9px;
-    letter-spacing: 1px;
-    text-transform: uppercase;
-    color: var(--text-dim);
-    background: var(--bg);
-    padding: 2px 7px;
-    border: 1px solid var(--border-hi);
-  }
+/* ── Filtros ── */
+.filtros-wrap {
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 14px 32px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  flex-wrap: wrap;
+}
+.filtros-label {
+  font-size: 14px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 1px;
+  margin-right: 4px;
+}
+.filtro-btn {
+  padding: 8px 22px;
+  border: 2px solid var(--border);
+  background: var(--white);
+  color: var(--text-muted);
+  font-family: var(--sans);
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+  border-radius: 4px;
+  transition: all .15s;
+}
+.filtro-btn:hover { border-color: var(--text); color: var(--text); }
+.filtro-btn.act-todos      { border-color: var(--qro-azul); background: var(--qro-azul); color: var(--white); }
+.filtro-btn.act-expansion  { border-color: var(--expansion); background: var(--expansion); color: var(--white); }
+.filtro-btn.act-universal  { border-color: var(--universal); background: var(--universal); color: var(--white); }
+.filtro-btn.act-reforma    { border-color: var(--reforma); background: var(--reforma); color: var(--white); }
 
-  .card-titulo {
-    font-family: var(--sans);
-    font-size: 14px;
-    font-weight: 500;
-    color: var(--text-hi);
-    line-height: 1.45;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
+/* ── Stats ── */
+.stats-wrap {
+  display: flex;
+  background: var(--white);
+  border-bottom: 1px solid var(--border);
+  padding: 0 32px;
+  gap: 0;
+}
+.stat {
+  padding: 14px 32px 14px 0;
+  margin-right: 32px;
+  border-right: 1px solid var(--border);
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+}
+.stat:last-child { border-right: none; }
+.stat-num {
+  font-family: var(--serif);
+  font-size: 28px;
+  font-weight: 700;
+  line-height: 1;
+}
+.stat-lbl {
+  font-size: 14px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
 
-  .card-resumen {
-    font-size: 12px;
-    color: var(--text-dim);
-    line-height: 1.6;
-    display: -webkit-box;
-    -webkit-line-clamp: 2;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-    flex: 1;
-  }
+/* ── Main ── */
+main {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 28px 32px 60px;
+}
 
-  .card-footer {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-    margin-top: 2px;
-  }
-  .card-fecha {
-    font-family: var(--mono);
-    font-size: 9px;
-    color: var(--text-dim);
-    letter-spacing: 0.5px;
-  }
-  .card-link-icon {
-    font-size: 10px;
-    color: var(--text-dim);
-    opacity: 0;
-    transition: opacity .15s;
-  }
-  .card:hover .card-link-icon { opacity: 1; }
+/* ── Sección por fuente ── */
+.seccion-fuente { margin-bottom: 44px; }
+.seccion-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 16px;
+  padding-bottom: 12px;
+  border-bottom: 2px solid var(--border);
+}
+.seccion-linea {
+  width: 5px;
+  height: 28px;
+  border-radius: 2px;
+  flex-shrink: 0;
+}
+.seccion-titulo {
+  font-family: var(--serif);
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--text);
+}
+.seccion-count {
+  margin-left: auto;
+  font-size: 13px;
+  color: var(--text-muted);
+  background: var(--tag-bg);
+  padding: 3px 12px;
+  border-radius: 20px;
+}
 
-  /* ── Estado vacío / carga ────────────────────────────── */
-  .estado {
-    grid-column: 1/-1;
-    padding: 60px 20px;
-    text-align: center;
-    font-family: var(--mono);
-    font-size: 12px;
-    color: var(--text-dim);
-  }
-  .estado .dot {
-    display: inline-block;
-    width: 6px; height: 6px;
-    background: var(--accent-g);
-    border-radius: 50%;
-    animation: pulse 1s infinite;
-    margin-right: 8px;
-  }
-  @keyframes pulse {
-    0%, 100% { opacity: 1; transform: scale(1); }
-    50%       { opacity: .4; transform: scale(.7); }
-  }
+/* ── Grid ── */
+.noticias-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 16px;
+}
 
-  /* ── Resumen stats ───────────────────────────────────── */
-  .stats-bar {
-    display: flex;
-    gap: 24px;
-    margin-bottom: 16px;
-    padding: 12px 16px;
-    background: var(--surface);
-    border: 1px solid var(--border);
-    font-family: var(--mono);
-    font-size: 10px;
-    flex-wrap: wrap;
-  }
-  .stat { display: flex; flex-direction: column; gap: 2px; }
-  .stat-val { font-size: 18px; color: var(--text-hi); font-weight: 700; }
-  .stat-lbl { color: var(--text-dim); letter-spacing: 1px; text-transform: uppercase; font-size: 9px; }
+/* ── Tarjeta ── */
+.card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  border-top: 4px solid var(--card-color, var(--border));
+  padding: 20px 22px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow .15s, transform .15s;
+}
+.card:hover {
+  box-shadow: 0 4px 20px rgba(0,0,0,0.10);
+  transform: translateY(-2px);
+}
+.card-tags {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.tag-fuente {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 0.5px;
+  text-transform: uppercase;
+  color: var(--card-color, var(--text-muted));
+}
+.tag-seccion {
+  font-size: 12px;
+  background: var(--tag-bg);
+  color: var(--text-muted);
+  padding: 2px 8px;
+  border-radius: 3px;
+  font-weight: 500;
+}
+.card-titulo {
+  font-family: var(--serif);
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 1.45;
+  color: var(--text);
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.card-resumen {
+  font-size: 14px;
+  color: var(--text-muted);
+  line-height: 1.6;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  flex: 1;
+}
+.card-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+  border-top: 1px solid var(--border);
+  margin-top: 4px;
+}
+.card-fecha { font-size: 13px; color: var(--text-muted); }
+.card-leer {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--card-color, var(--text));
+  opacity: 0;
+  transition: opacity .15s;
+}
+.card:hover .card-leer { opacity: 1; }
 
-  /* ── Scrollbar ───────────────────────────────────────── */
-  ::-webkit-scrollbar { width: 4px; }
-  ::-webkit-scrollbar-track { background: var(--bg); }
-  ::-webkit-scrollbar-thumb { background: var(--border-hi); }
+/* ── Estados ── */
+.estado {
+  padding: 60px 20px;
+  text-align: center;
+  color: var(--text-muted);
+  font-size: 16px;
+  grid-column: 1/-1;
+}
+.estado-dot {
+  display: inline-block;
+  width: 8px; height: 8px;
+  background: var(--qro-azul);
+  border-radius: 50%;
+  animation: pulso 1s infinite;
+  margin-right: 8px;
+}
+@keyframes pulso {
+  0%,100% { opacity:1; transform:scale(1); }
+  50%      { opacity:.3; transform:scale(.6); }
+}
+
+/* ── Footer ── */
+footer {
+  text-align: center;
+  padding: 24px;
+  font-size: 13px;
+  color: var(--text-muted);
+  border-top: 1px solid var(--border);
+  background: var(--white);
+}
 </style>
 </head>
 <body>
 
-<!-- TICKER -->
-<div class="ticker-wrap">
-  <div class="ticker-label">MONITOR MX</div>
-  <div class="ticker-track" id="tickerTrack">
-    <span class="ticker-item"><span class="tag">Cargando…</span></span>
+<!-- HEADER CON LOGO -->
+<header>
+  <div class="header-logo">
+    <img src="assets/logo.png" alt="Gobierno del Estado de Querétaro"
+         onerror="this.style.display='none'">
+  </div>
+  <div class="header-divider"></div>
+  <div class="header-titulo">
+    <div class="header-titulo-main">Monitor de Noticias Económicas</div>
+    <div class="header-titulo-sub">Resumen de prensa financiera nacional</div>
+  </div>
+  <div class="header-right">
+    <div class="header-fecha" id="fechaHoy"></div>
+    <div class="header-act" id="ultimaAct">Actualizando…</div>
+  </div>
+</header>
+<div class="franja"></div>
+
+<!-- FILTROS -->
+<div class="filtros-wrap">
+  <span class="filtros-label">Filtrar por fuente:</span>
+  <button class="filtro-btn act-todos"   data-f="TODOS">Todas las fuentes</button>
+  <button class="filtro-btn" data-f="Expansión">Expansión</button>
+  <button class="filtro-btn" data-f="El Universal">El Universal</button>
+  <button class="filtro-btn" data-f="Reforma">Reforma</button>
+</div>
+
+<!-- STATS -->
+<div class="stats-wrap">
+  <div class="stat">
+    <span class="stat-num" id="sTotal">–</span>
+    <span class="stat-lbl">noticias totales</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num" style="color:var(--expansion)" id="sExp">–</span>
+    <span class="stat-lbl">Expansión</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num" style="color:var(--universal)" id="sUni">–</span>
+    <span class="stat-lbl">El Universal</span>
+  </div>
+  <div class="stat">
+    <span class="stat-num" style="color:var(--reforma)" id="sRef">–</span>
+    <span class="stat-lbl">Reforma</span>
   </div>
 </div>
 
-<!-- HEADER -->
-<header>
-  <div class="logo">MONITOR <span>//</span> ECO·MX</div>
-  <div class="header-meta">
-    <div id="reloj">--:--:-- UTC</div>
-    <div id="ultima-act">Última actualización: –</div>
-  </div>
-</header>
-
-<!-- MAIN -->
-<main>
-  <!-- Stats -->
-  <div class="stats-bar" id="statsBar">
-    <div class="stat"><div class="stat-val" id="statTotal">–</div><div class="stat-lbl">Noticias</div></div>
-    <div class="stat"><div class="stat-val" id="statFin" style="color:var(--accent-r)">–</div><div class="stat-lbl">El Financiero</div></div>
-    <div class="stat"><div class="stat-val" id="statEco" style="color:var(--accent-o)">–</div><div class="stat-lbl">El Economista</div></div>
-    <div class="stat"><div class="stat-val" id="statSec">–</div><div class="stat-lbl">Secciones</div></div>
-  </div>
-
-  <!-- Filtros -->
-  <div class="filtros">
-    <span class="filtros-label">FILTRAR:</span>
-    <button class="filtro-btn active" data-fuente="TODOS">Todos</button>
-    <button class="filtro-btn" data-fuente="El Financiero">El Financiero</button>
-    <button class="filtro-btn" data-fuente="El Economista">El Economista</button>
-  </div>
-
-  <!-- Grid -->
-  <div class="grid" id="grid">
-    <div class="estado"><span class="dot"></span>Cargando noticias…</div>
+<!-- NOTICIAS -->
+<main id="main">
+  <div class="noticias-grid">
+    <div class="estado"><span class="estado-dot"></span>Cargando las noticias más recientes…</div>
   </div>
 </main>
 
+<footer>
+  Monitor de Noticias Económicas · Gobierno del Estado de Querétaro · Actualización automática cada hora
+</footer>
+
 <script>
-// ── Reloj ──────────────────────────────────────────────────────────────────
-function actualizarReloj() {
-  const ahora = new Date();
-  document.getElementById('reloj').textContent =
-    ahora.toUTCString().slice(17, 25) + ' UTC';
-}
-actualizarReloj();
-setInterval(actualizarReloj, 1000);
-
-// ── Estado global ──────────────────────────────────────────────────────────
-let todasLasNoticias = [];
-let filtroActual = 'TODOS';
-
-// ── Colores por fuente ─────────────────────────────────────────────────────
 const COLORES = {
-  'El Financiero': '#C8102E',
-  'El Economista': '#E87722',
+  'Expansión':    '#c8102e',
+  'El Universal': '#e87722',
+  'Reforma':      '#1a5fa8',
+};
+const CLASES = {
+  'TODOS':        'act-todos',
+  'Expansión':    'act-expansion',
+  'El Universal': 'act-universal',
+  'Reforma':      'act-reforma',
 };
 
-// ── Render cards ───────────────────────────────────────────────────────────
-function renderGrid(noticias) {
-  const grid = document.getElementById('grid');
-  if (!noticias.length) {
-    grid.innerHTML = '<div class="estado">Sin noticias para este filtro.</div>';
-    return;
-  }
-  grid.innerHTML = noticias.map(n => {
-    const color = COLORES[n.fuente] || '#3d78f5';
-    return `
-      <a class="card" href="${n.link}" target="_blank" rel="noopener"
-         style="--card-accent:${color}">
-        <div class="card-meta">
-          <span class="card-fuente">${n.fuente}</span>
-          <span class="card-sep">·</span>
-          <span class="card-seccion">${n.seccion}</span>
-        </div>
-        <div class="card-titulo">${n.titulo}</div>
-        ${n.resumen ? `<div class="card-resumen">${n.resumen}</div>` : ''}
-        <div class="card-footer">
-          <span class="card-fecha">${n.fecha || ''}</span>
-          <span class="card-link-icon">↗</span>
-        </div>
-      </a>`;
-  }).join('');
-}
+let todasLasNoticias = [];
 
-// ── Ticker ─────────────────────────────────────────────────────────────────
-function renderTicker(noticias) {
-  const items = noticias.slice(0, 30).map(n =>
-    `<span class="ticker-item">
-       <span class="tag">${n.fuente.replace('El ', '')}</span>
-       <span class="ticker-title">${n.titulo}</span>
-     </span>`
-  ).join('');
-  // Duplicar para loop continuo
-  document.getElementById('tickerTrack').innerHTML = items + items;
+function fechaLarga() {
+  const f = new Date().toLocaleDateString('es-MX', {
+    weekday:'long', year:'numeric', month:'long', day:'numeric'
+  });
+  return f.charAt(0).toUpperCase() + f.slice(1);
 }
+document.getElementById('fechaHoy').textContent = fechaLarga();
 
-// ── Stats ──────────────────────────────────────────────────────────────────
-function renderStats(noticias, meta) {
-  const fin = noticias.filter(n => n.fuente === 'El Financiero').length;
-  const eco = noticias.filter(n => n.fuente === 'El Economista').length;
-  const sec = [...new Set(noticias.map(n => n.seccion))].length;
-  document.getElementById('statTotal').textContent = noticias.length;
-  document.getElementById('statFin').textContent   = fin;
-  document.getElementById('statEco').textContent   = eco;
-  document.getElementById('statSec').textContent   = sec;
-  if (meta?.actualizado)
-    document.getElementById('ultima-act').textContent = 'Actualizado: ' + meta.actualizado;
-}
-
-// ── Filtros ────────────────────────────────────────────────────────────────
 document.querySelectorAll('.filtro-btn').forEach(btn => {
   btn.addEventListener('click', () => {
-    document.querySelectorAll('.filtro-btn').forEach(b => b.classList.remove('active'));
-    btn.classList.add('active');
-    filtroActual = btn.dataset.fuente;
-    const filtradas = filtroActual === 'TODOS'
-      ? todasLasNoticias
-      : todasLasNoticias.filter(n => n.fuente === filtroActual);
-    renderGrid(filtradas);
+    document.querySelectorAll('.filtro-btn').forEach(b => b.className = 'filtro-btn');
+    const f = btn.dataset.f;
+    btn.classList.add(CLASES[f] || 'act-todos');
+    const lista = f === 'TODOS' ? todasLasNoticias : todasLasNoticias.filter(n => n.fuente === f);
+    renderMain(lista);
   });
 });
 
-// ── Fetch JSON ─────────────────────────────────────────────────────────────
-async function cargarNoticias() {
-  try {
-    const res = await fetch('data/noticias.json?t=' + Date.now());
-    if (!res.ok) throw new Error('HTTP ' + res.status);
-    const datos = await res.json();
-    todasLasNoticias = datos.noticias || [];
+function tarjeta(n) {
+  const color = COLORES[n.fuente] || '#333';
+  return `
+    <a class="card" href="${n.link}" target="_blank" rel="noopener"
+       style="--card-color:${color}">
+      <div class="card-tags">
+        <span class="tag-fuente">${n.fuente}</span>
+        <span class="tag-seccion">${n.seccion}</span>
+      </div>
+      <div class="card-titulo">${n.titulo}</div>
+      ${n.resumen ? `<div class="card-resumen">${n.resumen}</div>` : ''}
+      <div class="card-footer">
+        <span class="card-fecha">${n.fecha || ''}</span>
+        <span class="card-leer">Leer nota →</span>
+      </div>
+    </a>`;
+}
 
-    renderStats(todasLasNoticias, datos);
-    renderTicker(todasLasNoticias);
-    renderGrid(todasLasNoticias);
-  } catch (e) {
-    document.getElementById('grid').innerHTML =
-      `<div class="estado">⚠ No se pudo cargar noticias.json<br><small>${e.message}</small></div>`;
-    console.error(e);
+function renderMain(noticias) {
+  const main = document.getElementById('main');
+  if (!noticias.length) {
+    main.innerHTML = '<div class="noticias-grid"><div class="estado">No hay noticias para este filtro.</div></div>';
+    return;
+  }
+  const grupos = {};
+  noticias.forEach(n => {
+    if (!grupos[n.fuente]) grupos[n.fuente] = [];
+    grupos[n.fuente].push(n);
+  });
+  let html = '';
+  for (const [fuente, items] of Object.entries(grupos)) {
+    const color = COLORES[fuente] || '#333';
+    html += `
+      <div class="seccion-fuente">
+        <div class="seccion-header">
+          <div class="seccion-linea" style="background:${color}"></div>
+          <span class="seccion-titulo">${fuente}</span>
+          <span class="seccion-count">${items.length} noticias</span>
+        </div>
+        <div class="noticias-grid">${items.map(tarjeta).join('')}</div>
+      </div>`;
+  }
+  main.innerHTML = html;
+}
+
+function renderStats(n) {
+  document.getElementById('sTotal').textContent = n.length;
+  document.getElementById('sExp').textContent   = n.filter(x => x.fuente === 'Expansión').length;
+  document.getElementById('sUni').textContent   = n.filter(x => x.fuente === 'El Universal').length;
+  document.getElementById('sRef').textContent   = n.filter(x => x.fuente === 'Reforma').length;
+}
+
+async function cargar() {
+  try {
+    const res  = await fetch('data/noticias.json?t=' + Date.now());
+    const data = await res.json();
+    todasLasNoticias = data.noticias || [];
+    renderStats(todasLasNoticias);
+    renderMain(todasLasNoticias);
+    document.getElementById('ultimaAct').textContent =
+      'Actualizado: ' + (data.actualizado || '–');
+  } catch(e) {
+    document.getElementById('main').innerHTML =
+      `<div class="noticias-grid"><div class="estado">⚠ No se pudo cargar el archivo de noticias.<br><small>${e.message}</small></div></div>`;
   }
 }
 
-cargarNoticias();
-// Auto-refresh cada 15 minutos
-setInterval(cargarNoticias, 15 * 60 * 1000);
+cargar();
+setInterval(cargar, 15 * 60 * 1000);
 </script>
 </body>
 </html>
