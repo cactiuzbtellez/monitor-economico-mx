@@ -1,101 +1,69 @@
-"""
-fetch_rss.py
-Descarga los RSS feeds de El Financiero y El Economista
-y genera data/noticias.json para el dashboard.
-"""
-
-import json
-import os
+import json, os, re
 from datetime import datetime, timezone
 import feedparser
+import urllib.request
 
-# ── Fuentes RSS ────────────────────────────────────────────────────────────────
 FEEDS = [
-    {
-        "fuente": "El Financiero",
-        "seccion": "Economía",
-        "color": "#C8102E",
-        "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/category/economia/",
-    },
-    {
-        "fuente": "El Financiero",
-        "seccion": "Mercados",
-        "color": "#C8102E",
-        "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/category/mercados/",
-    },
-    {
-        "fuente": "El Financiero",
-        "seccion": "Empresas",
-        "color": "#C8102E",
-        "url": "https://www.elfinanciero.com.mx/arc/outboundfeeds/rss/category/empresas/",
-    },
-    {
-        "fuente": "El Economista",
-        "seccion": "Finanzas",
-        "color": "#E87722",
-        "url": "https://www.eleconomista.com.mx/rss/finanzas/",
-    },
-    {
-        "fuente": "El Economista",
-        "seccion": "Mercados",
-        "color": "#E87722",
-        "url": "https://www.eleconomista.com.mx/rss/mercados/",
-    },
-    {
-        "fuente": "El Economista",
-        "seccion": "Tecnología",
-        "color": "#E87722",
-        "url": "https://www.eleconomista.com.mx/rss/tecnologia/",
-    },
+    {"fuente": "Expansión", "seccion": "Economía", "color": "#C8102E",
+     "url": "https://expansion.mx/rss/economia"},
+    {"fuente": "Expansión", "seccion": "Empresas", "color": "#C8102E",
+     "url": "https://expansion.mx/rss/empresas"},
+    {"fuente": "Expansión", "seccion": "Mercados", "color": "#C8102E",
+     "url": "https://expansion.mx/rss/mercados-financieros"},
+    {"fuente": "El Universal", "seccion": "Finanzas", "color": "#E87722",
+     "url": "https://www.eluniversal.com.mx/rss/finanzas.xml"},
+    {"fuente": "El Universal", "seccion": "Cartera", "color": "#E87722",
+     "url": "https://www.eluniversal.com.mx/rss/cartera.xml"},
+    {"fuente": "Reforma", "seccion": "Negocios", "color": "#2563EB",
+     "url": "https://reforma.com/rss/negocios.xml"},
 ]
 
-MAX_POR_FEED = 8   # Noticias máximas por sección
-
+MAX_POR_FEED = 8
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+    "Accept": "application/rss+xml, application/xml, text/xml, */*",
+}
 
 def parsear_fecha(entry):
-    """Extrae fecha legible del entry RSS."""
     try:
         t = entry.get("published_parsed") or entry.get("updated_parsed")
         if t:
             dt = datetime(*t[:6], tzinfo=timezone.utc)
             return dt.strftime("%d %b %Y, %H:%M UTC")
-    except Exception:
-        pass
+    except: pass
     return ""
 
-
-def limpiar_resumen(texto: str) -> str:
-    """Elimina HTML básico y trunca a 200 caracteres."""
-    import re
-    texto = re.sub(r"<[^>]+>", "", texto or "")
-    texto = texto.strip()
+def limpiar(texto):
+    texto = re.sub(r"<[^>]+>", "", texto or "").strip()
     return texto[:200] + "…" if len(texto) > 200 else texto
 
-
-def fetch_feed(feed_cfg: dict) -> list:
+def fetch_feed(cfg):
     noticias = []
     try:
-        d = feedparser.parse(feed_cfg["url"])
+        req = urllib.request.Request(cfg["url"], headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=15) as resp:
+            contenido = resp.read()
+        d = feedparser.parse(contenido)
+        print(f"  status: {d.get('status','?')} | entries: {len(d.entries)}")
         for entry in d.entries[:MAX_POR_FEED]:
             noticias.append({
-                "fuente":  feed_cfg["fuente"],
-                "seccion": feed_cfg["seccion"],
-                "color":   feed_cfg["color"],
-                "titulo":  entry.get("title", "Sin título").strip(),
-                "resumen": limpiar_resumen(entry.get("summary", "")),
+                "fuente":  cfg["fuente"],
+                "seccion": cfg["seccion"],
+                "color":   cfg["color"],
+                "titulo":  entry.get("title", "").strip(),
+                "resumen": limpiar(entry.get("summary", "")),
                 "link":    entry.get("link", ""),
                 "fecha":   parsear_fecha(entry),
             })
-        print(f"  ✓ {feed_cfg['fuente']} / {feed_cfg['seccion']}: {len(noticias)} noticias")
+        print(f"  ✓ {cfg['fuente']} / {cfg['seccion']}: {len(noticias)} noticias")
     except Exception as e:
-        print(f"  ✗ Error en {feed_cfg['url']}: {e}")
+        print(f"  ✗ ERROR {cfg['fuente']} / {cfg['seccion']}: {e}")
     return noticias
-
 
 def main():
     todas = []
-    print("Descargando feeds RSS…")
     for cfg in FEEDS:
+        print(f"\n→ {cfg['fuente']} / {cfg['seccion']}")
         todas.extend(fetch_feed(cfg))
 
     salida = {
@@ -103,13 +71,10 @@ def main():
         "total": len(todas),
         "noticias": todas,
     }
-
     os.makedirs("data", exist_ok=True)
     with open("data/noticias.json", "w", encoding="utf-8") as f:
         json.dump(salida, f, ensure_ascii=False, indent=2)
-
-    print(f"\nGenerado data/noticias.json → {len(todas)} noticias totales")
-
+    print(f"\n✅ noticias.json → {len(todas)} noticias")
 
 if __name__ == "__main__":
     main()
