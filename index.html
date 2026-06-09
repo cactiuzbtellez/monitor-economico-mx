@@ -405,8 +405,15 @@ const CLASES = {
 let todasLasNoticias = [];
 
 function fechaLarga() {
-  const f = new Date().toLocaleDateString('es-MX', {
-    weekday:'long', year:'numeric', month:'long', day:'numeric'
+  const f = new Date().toLocaleString('es-MX', {
+    timeZone: 'America/Mexico_City',
+    weekday: 'long',
+    year: 'numeric',
+    month: 'long',
+    day: 'numeric',
+    hour: '2-digit',
+    minute: '2-digit',
+    hour12: false
   });
   return f.charAt(0).toUpperCase() + f.slice(1);
 }
