@@ -1,7 +1,34 @@
 {
-  "actualizado": "09/06/2026 11:45 UTC",
+  "actualizado": "09/06/2026 19:04 UTC",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Moody's estima 768,000 visitantes al Mundial, una cifra muy por debajo de la oficial",
+      "resumen": "El alto costo de los boletos y la distribución de los partidos limitarían la llegada de aficionados a México. La calificadora descarta que el Mundial genere cambios relevantes en la economía del país.",
+      "link": "https://expansion.mx/economia/2026/06/09/moodys-estima-visitantes-mundial-debajo-proyeccion-oficial",
+      "fecha": "09 Jun 2026, 18:40 UTC"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La electricidad enfría la inflación a 3.94%, pero la subyacente resiste arriba de 4%",
+      "resumen": "La inflación regresó al rango meta de Banxico gracias a menores tarifas eléctricas, aunque la inflación subyacente siguió elevada por el encarecimiento de servicios y alimentos.",
+      "link": "https://expansion.mx/economia/2026/06/09/inflacion-mexico-mayo-2026-electricidad-baja-precios-inegi",
+      "fecha": "09 Jun 2026, 13:11 UTC"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los contribuyentes deben al SAT 3 billones de pesos, pero pelean más de 63% en tribunales",
+      "resumen": "El dinero en disputa son poco más de 2 billones de pesos, una cifra equivalente a toda la recaudación tributaria de enero a abril del 2026, y 1.3 veces el déficit público.",
+      "link": "https://expansion.mx/economia/2026/06/09/contribuyentes-deben-sat-3-billones-pesos",
+      "fecha": "09 Jun 2026, 11:55 UTC"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Economía, SAT y Aduanas eliminan dictaminación de avisos en comercio exterior",
-      "resumen": "De acuerdo con las autoridades mexicanas, el objetivo es agilizar trámites en los centros por donde entran y salen mercancías al extranjero.",
-      "link": "https://expansion.mx/economia/2026/06/05/economia-sat-aduanas-eliminan-dictaminacion-comercio",
-      "fecha": "05 Jun 2026, 16:29 UTC"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La menor deuda externa es una ventaja para México frente a calificadoras",
-      "resumen": "El financiamiento externo reporta su menor proporción respecto al total de la deuda pública; por un peso más fuerte, menores tasas de interés y políticas públicas enfocada en reducir la exposición a f…",
-      "link": "https://expansion.mx/economia/2026/06/05/menor-deuda-externa-ventaja-mexico-calificadoras",
-      "fecha": "05 Jun 2026, 16:01 UTC"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La industria wellness 'mete la pierna' para disputar aficionados durante el Mundial",
-      "resumen": "La economía del bienestar, con un mercado de actividad física de 18,700 mdd, llega al Mundial para pelear un terreno dominado por una industria refresquera que vende más de 26,000 millones de litros a…",
-      "link": "https://expansion.mx/economia/2026/06/05/mundial-2026-abre-nueva-batalla-mexico-imperio-refrescos",
-      "fecha": "05 Jun 2026, 11:55 UTC"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 11:50 UTC"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las empresas familiares no quiebran por dinero, sino por conflictos que nadie quiere enfrentar",
+      "resumen": "Jorge Paoli, CEO de Diestra Hoteles, afirma que las empresas familiares fracasan más por conflictos humanos que por falta de recursos económicos.",
+      "link": "https://expansion.mx/empresas/2026/06/09/empresas-familiares-mexico-no-quiebran-por-dinero-conflictos",
+      "fecha": "09 Jun 2026, 18:54 UTC"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXXO incorpora vehículos eléctricos de BYD para abastecer sus tiendas",
+      "resumen": "La armadora china ha consolidado su presencia en el mercado mexicano de vehículos eléctricos de pasajeros. Sin embargo, el siguiente objetivo es ampliar su participación en el negocio de transporte co…",
+      "link": "https://expansion.mx/empresas/2026/06/09/byd-oxxo-flotillas-electricas-logistica-mexico",
+      "fecha": "09 Jun 2026, 18:50 UTC"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así es el Chengshi Matrix 01, el miniauto eléctrico chino con el que comparan a Olinia",
+      "resumen": "Su diseño detonó comparaciones tras la presentación del vehículo mexicano, pero sus especificaciones muestran diferencias importantes en capacidad, desempeño y objetivo de uso.",
+      "link": "https://expansion.mx/empresas/2026/06/09/chengshi-matrix-01-vs-olinia-diferencias",
+      "fecha": "09 Jun 2026, 18:44 UTC"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,31 @@
       "fecha": "08 Jun 2026, 19:02 UTC"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni Televisa ni Banorte: ¿quién es el verdadero dueño del Estadio Azteca para el Mundial 2026?",
-      "resumen": "Tras su remodelación rumbo a 2026, el recinto estrena nombre, tecnología y un esquema de financiamiento que explica cómo se pagaron las obras.",
-      "link": "https://expansion.mx/empresas/2026/06/08/quien-es-dueno-estadio-azteca-banorte",
-      "fecha": "08 Jun 2026, 18:07 UTC"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se modera inflación más de lo previsto en mayo a 3.94%",
+      "resumen": "El Índice Nacional de Precios al Consumidor de México se desaceleró a 3.94% en mayo , en su segundo mes consecutivo de descenso.",
+      "link": "https://www.reforma.com/se-modera-inflacion-mas-de-lo-previsto-en-mayo-a-3-94/ar3219045",
+      "fecha": "09 Jun 2026, 13:17 UTC"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué tan lejos llega el AIFA? Todas sus rutas nacionales e internacionales por aerolínea",
-      "resumen": "Las personas que deseen viajar desde el AIFA deben conocer las rutas que se ofrecen desde la terminal aérea del AIFA que se inauguró hace cuatro años.",
-      "link": "https://expansion.mx/empresas/2026/06/08/aerolineas-aifa-vuelos-nacionales-e-internacionales",
-      "fecha": "08 Jun 2026, 17:44 UTC"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ajustan reglas sobre slots y saturación en aeropuertos",
+      "resumen": "El Gobierno ajustó las reglas para horarios de despegue y aterrizaje de vuelos y lanzó una clasificación de aeropuertos según su saturación.",
+      "link": "https://www.reforma.com/ajustan-reglas-sobre-slots-y-saturacion-en-aeropuertos/ar3219190",
+      "fecha": "09 Jun 2026, 18:24 UTC"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Más barato que una motocicleta? Olinia promete recorrer un kilómetro por 49 centavos",
-      "resumen": "Sus desarrolladores aseguran que puede generar ahorros significativos frente a un auto convencional y hasta superar en costos de operación a una motocicleta.",
-      "link": "https://expansion.mx/empresas/2026/06/08/auto-olinia-promete-recorrer-un-kilometro-49-centavos",
-      "fecha": "08 Jun 2026, 17:05 UTC"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cuestionan aporte de reinversiones",
+      "resumen": "Si bien las cifras de reinversión de utilidades son las que sacan adelante a la IED en México, éstas no se reflejan en Inversión Fija Bruta.",
+      "link": "https://www.reforma.com/cuestionan-aporte-de-reinversiones/ar3218885",
+      "fecha": "09 Jun 2026, 13:05 UTC"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dificulta vacío legal bajar lonas contra gasolineros",
-      "resumen": "Gasolineros que buscan retirar mantas que coloca Profeco enfrentan problemas al no existir una regulación clara para realizarlo.",
-      "link": "https://www.reforma.com/dificulta-vacio-legal-bajar-lonas-contra-gasolineros/ar3218922",
-      "fecha": "09 Jun 2026, 11:01 UTC"
+      "titulo": "Profundiza crudo pérdidas; WTI y Brent ceden más de 4%",
+      "resumen": "Los precios del petróleo bajaban con fuerza ante el optimismo en los mercados para una rápida resolución de la guerra en Medio Oriente.",
+      "link": "https://www.reforma.com/profundiza-crudo-perdidas-wti-y-brent-ceden-mas-de-4/ar3219066",
+      "fecha": "09 Jun 2026, 14:31 UTC"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destacan mexicanos por compra de propiedades en Florida",
-      "resumen": "Los mexicanos ya ocupan el cuarto lugar en cuanto a la compra de propiedades en Florida, Estados Unidos, aseguró PFS Realty Group.",
-      "link": "https://www.reforma.com/destacan-mexicanos-por-compra-de-propiedades-en-florida/ar3218915",
-      "fecha": "09 Jun 2026, 11:01 UTC"
+      "titulo": "Recauda Fibra E FEXI21 4,300 mdp en oferta subsecuente",
+      "resumen": "La Fibra E FEXI21 recaudó 4,300 mdp a través de una oferta subsecuente, con la que busca amortizar y repagar deuda.",
+      "link": "https://www.reforma.com/recauda-fibra-e-fexi21-4-300-mdp-en-oferta-subsecuente/ar3219140",
+      "fecha": "09 Jun 2026, 16:50 UTC"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube incertidumbre y frena la inversión",
-      "resumen": "Inversión en México enfrenta un entorno de creciente cautela ante una combinación de factores internos y externos, advierten especialistas.",
-      "link": "https://www.reforma.com/sube-incertidumbre-y-frena-la-inversion/ar3218879",
-      "fecha": "09 Jun 2026, 11:01 UTC"
+      "titulo": "Advierte EIA que stocks petroleros rondan mínimo desde 2003",
+      "resumen": "Las reservas petroleras de las principales economías mundiales se encaminan a mínimos desde al menos 2003, dijo la EIA.",
+      "link": "https://www.reforma.com/advierte-eia-que-stocks-petroleros-rondan-minimo-desde-2003/ar3219192",
+      "fecha": "09 Jun 2026, 18:24 UTC"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan por falsas plataformas fiscales con IA",
-      "resumen": "IA está siendo utilizada para crear falsas plataformas de facturación, resultando en costos elevados para las empresas, señala Factura.com.",
-      "link": "https://www.reforma.com/alertan-por-falsas-plataformas-fiscales-con-ia/ar3218881",
-      "fecha": "09 Jun 2026, 11:01 UTC"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ronda 'fantasma' de estacionalidad",
-      "resumen": "Para los negociadores del T-MEC un tema importante será el no permitir el límite al flujo de productos agrícolas por estacionalidad.",
-      "link": "https://www.reforma.com/ronda-fantasma-de-estacionalidad/ar3218897",
-      "fecha": "09 Jun 2026, 11:01 UTC"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ganan 32% más con contrato colectivo",
-      "resumen": "Personas que laboran en centro de trabajo con un contrato colectivo ganan en promedio 32% más que quienes no se encuentran sindicalizados.",
-      "link": "https://www.reforma.com/ganan-32-mas-con-contrato-colectivo/ar3218899",
-      "fecha": "09 Jun 2026, 11:01 UTC"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanzan mercancía mundialista nacional",
-      "resumen": "Ante altos costos de la mercancia oficial para el Mundial de futbol, marcas mexicanas como Panam buscan ofrecer alternativas.",
-      "link": "https://www.reforma.com/lanzan-mercancia-mundialista-nacional/ar3218900",
-      "fecha": "09 Jun 2026, 10:56 UTC"
+      "titulo": "Demanda por OPI de SpaceX se acerca a cuatro veces la oferta",
+      "resumen": "La oferta pública inicial de SpaceX ha suscitado una demanda de inversores de más de 250 mmdd, eclipsando los 75 mmdd que buscaba recaudar.",
+      "link": "https://www.reforma.com/demanda-por-opi-de-spacex-se-acerca-a-cuatro-veces-la-oferta/ar3219221",
+      "fecha": "09 Jun 2026, 18:58 UTC"
     }
   ]
 }
