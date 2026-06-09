@@ -1,7 +1,10 @@
 import json, os, re
 from datetime import datetime, timezone
+from zoneinfo import ZoneInfo
 import feedparser
 import urllib.request
+
+TZ_MX = ZoneInfo("America/Mexico_City")
 
 FEEDS = [
     {"fuente": "Expansión", "seccion": "Economía", "color": "#C8102E",
@@ -28,8 +31,8 @@ def parsear_fecha(entry):
     try:
         t = entry.get("published_parsed") or entry.get("updated_parsed")
         if t:
-            dt = datetime(*t[:6], tzinfo=timezone.utc)
-            return dt.strftime("%d %b %Y, %H:%M UTC")
+            dt = datetime(*t[:6], tzinfo=timezone.utc).astimezone(TZ_MX)
+            return dt.strftime("%d %b %Y, %H:%M hrs")
     except: pass
     return ""
 
@@ -67,7 +70,7 @@ def main():
         todas.extend(fetch_feed(cfg))
 
     salida = {
-        "actualizado": datetime.now(timezone.utc).strftime("%d/%m/%Y %H:%M UTC"),
+        "actualizado": datetime.now(TZ_MX).strftime("%d/%m/%Y %H:%M hrs"),
         "total": len(todas),
         "noticias": todas,
     }
