@@ -1,7 +1,25 @@
 {
-  "actualizado": "10/06/2026 05:03 hrs",
+  "actualizado": "10/06/2026 08:48 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El tomate mexicano pierde terreno en Estados Unidos: cae 12% su participación",
+      "resumen": "El Departamento de Agricultura de Estados Unidos prevé que las exportaciones mexicanas de tomate caerán a 1.8 millones de toneladas en 2026, una reducción de 7% respecto al año anterior.",
+      "link": "https://expansion.mx/economia/2026/06/10/tomate-mexicano-sufre-arancel-antidumping-exportaciones-eu",
+      "fecha": "10 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México necesita más de 580,000 millones de pesos para un sistema integral de cuidados",
+      "resumen": "Actualmente se destinan más de 468,000 millones de pesos para este fin, aunque un 64% de esos recursos es para transferencias a programas sociales, como la beca Rita Cetina.",
+      "link": "https://expansion.mx/economia/2026/06/09/sistema-de-cuidados-inversion-medio-billon-pesos-extra",
+      "fecha": "09 Jun 2026, 15:35 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La CNBV frena lanzamiento de nueva plataforma de inversión de Hey Banco",
-      "resumen": "El banco planeaba estrenar el 15 de junio un servicio que permitiría a sus clientes invertir en acciones de empresas de EU, pero el proyecto quedó en pausa tras observaciones del regulador.",
-      "link": "https://expansion.mx/economia/2026/06/05/cnbv-frena-lanzamiento-nueva-plataforma-inversion-hey-banco",
-      "fecha": "05 Jun 2026, 17:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México encara desaceleración en Norteamérica con más presión que sus socios del T-MEC",
-      "resumen": "Mientras Canadá reduce su dependencia comercial, México concentra 83% de sus exportaciones a EU.",
-      "link": "https://expansion.mx/economia/2026/06/05/mexico-socio-vulnerable-tmec-desaceleracion-eu-y-canada",
-      "fecha": "05 Jun 2026, 12:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Constellation Brands es reconocida por su modelo de negocio de clase mundial",
+      "resumen": "La compañía destaca por su excelencia operativa, generación de valor, talento y compromiso con las comunidades.",
+      "link": "https://expansion.mx/empresas/2026/06/09/constellation-brands-es-reconocida-por-su-modelo-de-negocio-de-clase-mundial",
+      "fecha": "09 Jun 2026, 13:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,22 @@
       "fecha": "08 Jun 2026, 13:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México corre contra reloj para fortalecer redes de telecomunicaciones ante el Mundial más digital de la historia",
-      "resumen": "La CRT autorizó bandas espectrales para que los operadores eviten congestiones en sus redes, pero analistas consideran que la política llegó tarde para el espectro pueda ser habilitado de manera corre…",
-      "link": "https://expansion.mx/empresas/2026/06/08/mexico-fortalecer-redes-de-telecomunicaciones-mundial-2026",
-      "fecha": "08 Jun 2026, 13:02 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reclama México que aranceles favorecen a autos asiáticos",
+      "resumen": "Fabricantes de autos mexicanos tienen una queja sobre el T-MEC actual: están pagando aranceles más elevados que sus competidores asiáticos.",
+      "link": "https://www.reforma.com/reclama-mexico-que-aranceles-favorecen-a-autos-asiaticos/ar3219774",
+      "fecha": "10 Jun 2026, 08:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan: es una trampa el 'mejoralito' al acero",
+      "resumen": "Reducción de aranceles de algunos productos de acero, de 25% a 15% que anunció EU, sería más bien una trampa o \"un dardo envenenado\".",
+      "link": "https://www.reforma.com/alertan-es-una-trampa-el-mejoralito-al-acero/ar3219652",
+      "fecha": "10 Jun 2026, 06:59 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén retrasos en tráfico aéreo por Mundial",
-      "resumen": "Especialistas advierten que, debido al emplazamiento a huelga de SINACTA, las operaciones aéreas podrían sufrir retrasos.",
-      "link": "https://www.reforma.com/preven-retrasos-en-trafico-aereo-por-mundial/ar3219626",
-      "fecha": "09 Jun 2026, 22:12 hrs"
+      "titulo": "Reabre AICM rampa de acceso a la T2 que se había dañado",
+      "resumen": "El Aeropuerto reabrió la rampa de acceso a la planta alta de la T2 luego de que se abriera un socavón en medio de trabajos de mantenimiento.",
+      "link": "https://www.reforma.com/reabre-aicm-rampa-de-acceso-a-la-t2-que-se-habia-danado/ar3219773",
+      "fecha": "10 Jun 2026, 08:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten picos de precios en vuelos, hoteles y restaurantes",
-      "resumen": "Copa Mundial de Futbol 2026 provocará picos temporales de precios durante junio y julio, sobre todo en vuelos y hoteles, anticipa Banamex.",
-      "link": "https://www.reforma.com/advierten-picos-de-precios-en-vuelos-hoteles-y-restaurantes/ar3219570",
-      "fecha": "09 Jun 2026, 20:17 hrs"
+      "titulo": "Adjudica CFE 27% de proyectos a eólicos",
+      "resumen": "Casi una cuarta parte de la capacidad de generación que adjudicó CFE a través de esquemas de desarrollo mixto fue a proyectos eólicos.",
+      "link": "https://www.reforma.com/adjudica-cfe-27-de-proyectos-a-eolicos/ar3219577",
+      "fecha": "10 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Admite Gobierno necesidad de promoción turística",
-      "resumen": "Secretaria de Turismo, Josefina Rodríguez Zamora, anunció una inversión de 100 millones de pesos para una nueva estrategia de promoción.",
-      "link": "https://www.reforma.com/admite-gobierno-necesidad-de-promocion-turistica/ar3219457",
-      "fecha": "09 Jun 2026, 17:55 hrs"
+      "titulo": "Se dispara inflación en EU a 4.2% en mayo",
+      "resumen": "La inflación volvió a dispararse el mes pasado en Estados Unidos hasta un 4.2% interanual, el nivel más alto en casi tres años.",
+      "link": "https://www.reforma.com/se-dispara-inflacion-en-eu-a-4-2-en-mayo/ar3219763",
+      "fecha": "10 Jun 2026, 07:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca IP de EU cooperación, no injerencia",
-      "resumen": "El sector privado de EU busca que ambos gobiernos trabajen de forma binacional contra la inseguridad, pero sin injerir en la soberanía.",
-      "link": "https://www.reforma.com/busca-ip-de-eu-cooperacion-no-injerencia/ar3219388",
-      "fecha": "09 Jun 2026, 17:55 hrs"
+      "titulo": "Aún podría aumentar arancel al tomate",
+      "resumen": "El gravamenal tomate hasta podría aumentar en julio, tras otra evaluación de carácter ordinario.",
+      "link": "https://www.reforma.com/aun-podria-aumentar-arancel-al-tomate/ar3219586",
+      "fecha": "10 Jun 2026, 06:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sobreestiman cifra de visitantes por Mundial.- Moody's",
-      "resumen": "Moody's desestimó la cifra prevista por el Gobierno mexicano en cuanto al numero de visitantes extranjeros por el Mundial de futbol.",
-      "link": "https://www.reforma.com/sobreestiman-cifra-de-visitantes-por-mundial-moody-s/ar3219382",
-      "fecha": "09 Jun 2026, 15:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se registra fuga de combustóleo en Salina Cruz, Oaxaca",
-      "resumen": "Pemex informó que ya atendió un derrame de combustóleo en un ducto de la refinería Antonio Dovali Jaime en Salina Cruz, Oaxaca.",
-      "link": "https://www.reforma.com/se-registra-fuga-de-combustoleo-en-salina-cruz-oaxaca/ar3219369",
-      "fecha": "09 Jun 2026, 15:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Insisten en atender demanda de EU",
-      "resumen": "Secretario de Economía, Marcelo Ebrard enfatizó en atender las demandas estadounidenses en sectores como semiconducotres y farmacéuticos.",
-      "link": "https://www.reforma.com/insisten-en-atender-demanda-de-eu/ar3219362",
-      "fecha": "09 Jun 2026, 15:49 hrs"
+      "titulo": "Detiene EU mercancía por componentes chinos",
+      "resumen": "EU ha puesto el foco en productos exportados por México que contienen componentes provenientes de la Región Uigur de Xinjiang en China.",
+      "link": "https://www.reforma.com/detiene-eu-mercancia-por-componentes-chinos/ar3219614",
+      "fecha": "10 Jun 2026, 05:02 hrs"
     }
   ]
 }
