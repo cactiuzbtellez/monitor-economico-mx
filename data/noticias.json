@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/06/2026 08:59 hrs",
+  "actualizado": "11/06/2026 12:39 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Golean a México por importación de alimentos",
-      "resumen": "En el primer trimestre de 2026, México reportó un déficit comercial de un millón de dólares en conjunto, reveló un análisis de GCMA.",
-      "link": "https://www.reforma.com/golean-a-mexico-por-importacion-de-alimentos/ar3220295",
-      "fecha": "10 Jun 2026, 18:40 hrs"
+      "titulo": "Falla plataforma  Vix en arranque de ceremonia",
+      "resumen": "En medio del arranque la Copa del Mundo 2026, Vix, la plataforma oficial de trasmisión del evento en México, presenta fallas.",
+      "link": "https://www.reforma.com/falla-plataforma-vix-en-arranque-de-ceremonia/ar3220831",
+      "fecha": "11 Jun 2026, 11:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube CFE tope de pensiones y devolverá descuentos",
+      "resumen": "CFE elevó tope de pensiones para jubilados de confianza al equivalente al salario presidencial y compensará recortes aplicados desde abril.",
+      "link": "https://www.reforma.com/sube-cfe-tope-de-pensiones-y-devolvera-descuentos/ar3220714",
+      "fecha": "11 Jun 2026, 10:04 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,28 +177,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mantiene BM proyección de crecimiento de México en 1.3%",
-      "resumen": "El Banco Mundial mantuvo su estimado de crecimiento para la economía mexicana en 1.3% para este año, con respecto a su estimación de enero.",
-      "link": "https://www.reforma.com/mantiene-bm-proyeccion-de-crecimiento-de-mexico-en-1-3/ar3220622",
-      "fecha": "11 Jun 2026, 08:05 hrs"
+      "titulo": "Transmitirán partidos de FIFA 82% de las IMMEX",
+      "resumen": "Empresas afiliadas a Index, así como Lego, Kia México y BAT transmitirán el arranque de la Copa Mundial FIFA.",
+      "link": "https://www.reforma.com/transmitiran-partidos-de-fifa-82-de-las-immex/ar3220804",
+      "fecha": "11 Jun 2026, 11:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Traba Televisa transmisiones en restaurantes",
-      "resumen": "La exclusividad absoluta que tiene Televisa sobre los derechos de transmisión del Mundial complicó al 90% de los restauranteros.",
-      "link": "https://www.reforma.com/traba-televisa-transmisiones-en-restaurantes/ar3220472",
-      "fecha": "11 Jun 2026, 06:57 hrs"
+      "titulo": "Adopta OIT convenio para trabajadores de plataforma",
+      "resumen": "La OIT adoptó un convenio relativo a trabajadores de apps en el que se establecen los derechos de conductores y repartidores a nivel global.",
+      "link": "https://www.reforma.com/adopta-oit-convenio-para-trabajadores-de-plataforma/ar3220872",
+      "fecha": "11 Jun 2026, 12:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evite tarjetas en el Mundial...",
-      "resumen": "Los negocios que buscan captar parte de la derrama económica que traerá la Copa Mundial 2026 deberán cumplir con requisitos legales.",
-      "link": "https://www.reforma.com/evite-tarjetas-en-el-mundial/ar3220470",
-      "fecha": "11 Jun 2026, 06:57 hrs"
+      "titulo": "Aleja costo del Mundial a hinchas",
+      "resumen": "Las multitudes de aficionados al futbol con las que contaban los hoteles aún no han llegado y las reservas de vuelos se han desplomado.",
+      "link": "https://www.reforma.com/aleja-costo-del-mundial-a-hinchas/ar3220854",
+      "fecha": "11 Jun 2026, 12:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae crudo tras cancelar Trump ataques planeados contra Irán",
+      "resumen": "Los precios del petróleo caían bruscamente, después de que el Presidente Donald Trump anunció la cancelación de sus planes de atacar Irán.",
+      "link": "https://www.reforma.com/cae-crudo-tras-cancelar-trump-ataques-planeados-contra-iran/ar3220859",
+      "fecha": "11 Jun 2026, 12:14 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Grupo México Transportes USA alcanzó un acuerdo con Wabtec para presentarse a licitación del tren argentino Belgrano Cargas y Logística.",
       "link": "https://www.reforma.com/alcanza-gmxt-acuerdo-para-licitacion-de-tren-en-argentina/ar3220639",
       "fecha": "11 Jun 2026, 08:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Incursiona Fermaca en fertilizantes",
-      "resumen": "Fermaca Global, anunció que invertirá 20 mil millones de pesos en la construcción de una planta de producción de fertilizantes nitrogenados.",
-      "link": "https://www.reforma.com/incursiona-fermaca-en-fertilizantes/ar3220417",
-      "fecha": "11 Jun 2026, 06:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Proponen impulsar integración energética",
-      "resumen": "México debe impulsar una agenda de integración energética en la próxima renegociación del T-MEC, recomendó Comexi.",
-      "link": "https://www.reforma.com/proponen-impulsar-integracion-energetica/ar3220425",
-      "fecha": "11 Jun 2026, 06:57 hrs"
     }
   ]
 }
