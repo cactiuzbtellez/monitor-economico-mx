@@ -1,7 +1,25 @@
 {
-  "actualizado": "10/06/2026 21:12 hrs",
+  "actualizado": "11/06/2026 06:33 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico destaca mejoras en mecanismos para prevenir el lavado de dinero",
+      "resumen": "A casi un año de señalamientos de lavado de dinero a México, el país ha reforzado mecanismos de revisión de operaciones y clientes, dijo Victoria Rodríguez, gobernadora del banco central.",
+      "link": "https://expansion.mx/economia/2026/06/10/bancos-sofipos-endurecen-medidas-abrir-cuentas-banxico",
+      "fecha": "10 Jun 2026, 15:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump amenaza de nueva cuenta la continuidad del T-MEC: \"No necesitamos nada de México ni Canadá\"",
+      "resumen": "El presidente estadounidense volvió a cuestionar el Tratado en pleno arranque del Mundial 2026, el mayor símbolo de integración entre México, EU y Canadá.",
+      "link": "https://expansion.mx/economia/2026/06/10/trump-amenaza-tmec-no-necesitamos-nada-de-mexico-canada",
+      "fecha": "10 Jun 2026, 11:41 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,24 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "T-MEC conecta a las fábricas de EU con 64% de las exportaciones mexicanas",
-      "resumen": "La industria del país vecino considera que preservar el tratado es esencial para mantener inversiones, empleo y competitividad manufacturera.",
-      "link": "https://expansion.mx/economia/2026/06/08/mexico-irreemplazable-eu-fabricas-exportaciones",
-      "fecha": "08 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda le quita el subsidio a la gasolina Premium y lo baja a la Magna y diésel",
-      "resumen": "Sin estímulo a la gasolina roja, a cada litro se le cobrará una cuota IEPS de 5.66 pesos durante la semana del seis al 12 de junio.",
-      "link": "https://expansion.mx/economia/2026/06/05/hacienda-quita-subsidio-premium-baja-magna-diesel",
-      "fecha": "05 Jun 2026, 17:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
@@ -87,64 +87,64 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Un renovado AICM da la bienvenida a una afluencia de turistas que aún no despega",
-      "resumen": "A horas del inicio del Mundial, el Aeropuerto Internacional de la Ciudad de México luce renovado tras una inversión de 6,500 mdp, pero la llegada masiva de turistas que esperan trabajadores y comercio…",
-      "link": "https://expansion.mx/empresas/2026/06/09/fiebre-mundialista-no-llega-al-aicm-mexicanos-esperaban-mas",
-      "fecha": "10 Jun 2026, 07:27 hrs"
+      "titulo": "Adidas vende más camisetas del Tri que de la selección de Alemania",
+      "resumen": "A casi dos décadas de alianza, el uniforme del Tri lidera las ventas globales de selecciones para la compañía y consolida a México como uno de sus mercados más estratégicos.",
+      "link": "https://expansion.mx/empresas/2026/06/11/adidas-vende-mas-camisetas-del-tri-que-de-la-seleccion-de-alemania",
+      "fecha": "11 Jun 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adidas, Coca-Cola y las otras empresas detrás de la selección mexicana: quién vende y emplea más",
-      "resumen": "Detrás del Tricolor hay bancos, tecnológicas, refresqueras y casas de apuestas. Este es el tamaño de los negocios que patrocinan a la escuadra nacional.",
-      "link": "https://expansion.mx/empresas/2026/06/10/patrocinadores-seleccion-mexicana-quien-vende-emplea-mas",
-      "fecha": "10 Jun 2026, 05:00 hrs"
+      "titulo": "El Aveo se aferra al trono: vuelve a superar al Versa y se mantiene como el auto más vendido de México",
+      "resumen": "Dos de los autos más populares del país protagonizan una de las batallas más cerradas del mercado. Aunque uno domina las ventas del mes, el otro todavía conserva el liderazgo anual.",
+      "link": "https://expansion.mx/empresas/2026/06/10/aveo-supera-versa-auto-mas-vendido-mexico-mayo-2026",
+      "fecha": "10 Jun 2026, 18:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Transmitir el Mundial 2026 sin licencia cuesta más de medio millón, pero el IMPI no puede vigilar todo",
-      "resumen": "No todas las señales ni todas las suscripciones pueden utilizarse dentro de un negocio. Antes del inicio del torneo conviene revisar qué está permitido.",
-      "link": "https://expansion.mx/empresas/2026/06/09/transmitir-mundial2026-sin-permiso-costar-pesos-negocio",
-      "fecha": "09 Jun 2026, 18:03 hrs"
+      "titulo": "Empresas y gobierno recurren al trabajo flexible ante el reto logístico del Mundial",
+      "resumen": "La Coparmex respalda los esquemas de trabajo flexible para facilitar la movilidad, aunque aclara que la decisión dependerá de las necesidades de cada empresa.",
+      "link": "https://expansion.mx/empresas/2026/06/10/mundial-home-office-movilidad-cdmx",
+      "fecha": "10 Jun 2026, 17:07 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Constellation Brands es reconocida por su modelo de negocio de clase mundial",
-      "resumen": "La compañía destaca por su excelencia operativa, generación de valor, talento y compromiso con las comunidades.",
-      "link": "https://expansion.mx/empresas/2026/06/09/constellation-brands-es-reconocida-por-su-modelo-de-negocio-de-clase-mundial",
-      "fecha": "09 Jun 2026, 13:14 hrs"
+      "titulo": "Sener amplía plazos para proyectos de energía ante dificultades de privados y retos para su revisión",
+      "resumen": "Si bien el aplazamiento de las fechas permitirá tener un mejor análisis y resultado de las convocatorias, también implica que la ejecución y entrada en operación de los proyectos tomará más tiempo.",
+      "link": "https://expansion.mx/empresas/2026/06/10/sener-amplia-plazos-para-proyectos-de-energia-ante-dificultades-de-privados-y-retos-para-su-revision",
+      "fecha": "10 Jun 2026, 16:39 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las empresas familiares no quiebran por dinero, sino por conflictos que nadie quiere enfrentar",
-      "resumen": "Jorge Paoli, CEO de Diestra Hoteles, afirma que las empresas familiares fracasan más por conflictos humanos que por falta de recursos económicos.",
-      "link": "https://expansion.mx/empresas/2026/06/09/empresas-familiares-mexico-no-quiebran-por-dinero-conflictos",
-      "fecha": "09 Jun 2026, 12:54 hrs"
+      "titulo": "Liverpool, Chedraui y otras empresas reciben sanciones por 500 millones de pesos por acuerdos sobre rentas",
+      "resumen": "La Comisión Nacional Antimonopolio (CNA) detectó que las empresas establecieron acuerdos para manipular el pago de rentas de locales comerciales.",
+      "link": "https://expansion.mx/empresas/2026/06/10/liverpool-chedraui-multa-por-manipular-rentas",
+      "fecha": "10 Jun 2026, 14:24 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "OXXO incorpora vehículos eléctricos de BYD para abastecer sus tiendas",
-      "resumen": "La armadora china ha consolidado su presencia en el mercado mexicano de vehículos eléctricos de pasajeros. Sin embargo, el siguiente objetivo es ampliar su participación en el negocio de transporte co…",
-      "link": "https://expansion.mx/empresas/2026/06/09/byd-oxxo-flotillas-electricas-logistica-mexico",
-      "fecha": "09 Jun 2026, 12:50 hrs"
+      "titulo": "Además de Acapulco, todos los destinos a los que vuela Mexicana desde el AIFA en 2026",
+      "resumen": "La aerolínea que rescató el gobierno federal y que retomó el vuelo en 2023, está ampliando sus rutas desde el Aeropuerto Internacional Felipe Ángeles.",
+      "link": "https://expansion.mx/empresas/2026/06/10/mexicana-de-aviacion-vuelos-desde-aifa",
+      "fecha": "10 Jun 2026, 12:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Así es el Chengshi Matrix 01, el miniauto eléctrico chino con el que comparan a Olinia",
-      "resumen": "Su diseño detonó comparaciones tras la presentación del vehículo mexicano, pero sus especificaciones muestran diferencias importantes en capacidad, desempeño y objetivo de uso.",
-      "link": "https://expansion.mx/empresas/2026/06/09/chengshi-matrix-01-vs-olinia-diferencias",
-      "fecha": "09 Jun 2026, 12:44 hrs"
+      "titulo": "Por qué Olinia, el miniauto eléctrico de la 4T, necesitará una ley propia para circular en México",
+      "resumen": "Más allá de la autonomía y el precio, el proyecto enfrenta un desafío poco visible que podría definir cuándo y cómo llegará realmente a las calles.",
+      "link": "https://expansion.mx/empresas/2026/06/10/olinia-miniauto-electrico-necesitara-ley-propia-circular",
+      "fecha": "10 Jun 2026, 12:36 hrs"
     },
     {
       "fuente": "Reforma",
