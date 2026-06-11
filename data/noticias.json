@@ -1,7 +1,16 @@
 {
-  "actualizado": "11/06/2026 06:33 hrs",
+  "actualizado": "11/06/2026 08:59 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial 2026 dejará una derrama de 500 mdd en la economía informal de México",
+      "resumen": "El monto equivale a 15.6% del beneficio económico formal que se estima generará la Copa Mundial de Futbol en las tres ciudades sede.",
+      "link": "https://expansion.mx/economia/2026/06/11/informalidad-se-llevara-500-millones-dolares-mundial-mexico",
+      "fecha": "11 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El dinero en disputa son poco más de 2 billones de pesos, una cifra equivalente a toda la recaudación tributaria de enero a abril del 2026, y 1.3 veces el déficit público.",
       "link": "https://expansion.mx/economia/2026/06/09/contribuyentes-deben-sat-3-billones-pesos",
       "fecha": "09 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Envejecimiento y cuidados empujan a 38 millones de mexicanos fuera del mercado laboral",
-      "resumen": "Mientras el desempleo se mantiene cerca de mínimos históricos, 31.8 millones de mexicanos permanecen fuera del mercado laboral por atender otras obligaciones, como cuidados de un familiar.",
-      "link": "https://expansion.mx/economia/2026/06/08/38-millones-personas-no-pueden-trabajar-mexico",
-      "fecha": "08 Jun 2026, 15:32 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,24 +150,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pican ducto de gas LP en Puebla; atiende Pemex problema",
-      "resumen": "Pemex informó que se detectó una fuga de gas LP cerca del poblado San Francisco Tláloc, en Puebla, derivado de una toma clandestina",
-      "link": "https://www.reforma.com/pican-ducto-de-gas-lp-en-puebla-atiende-pemex-problema/ar3220367",
-      "fecha": "10 Jun 2026, 20:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se retira operativo del AICM",
-      "resumen": "Elementos de la Secretaría de Marina y SSC se retiraron del AICM al no cumplirse amenaza por parte de la CNTE.",
-      "link": "https://www.reforma.com/se-retira-operativo-del-aicm/ar3220345",
-      "fecha": "10 Jun 2026, 19:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "'Golean a México por importación de alimentos",
       "resumen": "En el primer trimestre de 2026, México reportó un déficit comercial de un millón de dólares en conjunto, reveló un análisis de GCMA.",
       "link": "https://www.reforma.com/golean-a-mexico-por-importacion-de-alimentos/ar3220295",
@@ -177,46 +159,64 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rechaza IMPI inspecciones para verificar transmisiones",
-      "resumen": "IMPI aseguró que no realizará clausuras en establecimientos que incumplan con los derechos de transmisión del Mundial de futbol.",
-      "link": "https://www.reforma.com/rechaza-impi-inspecciones-para-verificar-transmisiones/ar3220259",
-      "fecha": "10 Jun 2026, 18:14 hrs"
+      "titulo": "Prevé AICM manifestaciones; pide a viajeros anticiparse",
+      "resumen": "El Aeropuerto advirtió probables afectaciones ante posible presencia de manifestantes, por lo que recomendó a usuarios viajar con tiempo.",
+      "link": "https://www.reforma.com/preve-aicm-manifestaciones-pide-a-viajeros-anticiparse/ar3220636",
+      "fecha": "11 Jun 2026, 08:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disminuye productividad 0.12% trimestral",
-      "resumen": "En primer trimestre de 2026, el Índice Global de Productividad Laboral de la Economía descendió 0.12% comparado con el anterior trimestre.",
-      "link": "https://www.reforma.com/disminuye-productividad-0-12-trimestral/ar3220163",
-      "fecha": "10 Jun 2026, 18:14 hrs"
+      "titulo": "Mantiene BM proyección de crecimiento de México en 1.3%",
+      "resumen": "El Banco Mundial mantuvo su estimado de crecimiento para la economía mexicana en 1.3% para este año, con respecto a su estimación de enero.",
+      "link": "https://www.reforma.com/mantiene-bm-proyeccion-de-crecimiento-de-mexico-en-1-3/ar3220622",
+      "fecha": "11 Jun 2026, 08:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impone CNA multas por más de 500 mdp a inmobiliarias",
-      "resumen": "Comisión Nacional Antimonopolio (CNA) sancionó por más de 500 millones de pesos a inmobiliarias como Grupo Danhos, GICSA y Liverpool.",
-      "link": "https://www.reforma.com/impone-cna-multas-por-mas-de-500-mdp-a-inmobiliarias/ar3220146",
-      "fecha": "10 Jun 2026, 18:14 hrs"
+      "titulo": "Traba Televisa transmisiones en restaurantes",
+      "resumen": "La exclusividad absoluta que tiene Televisa sobre los derechos de transmisión del Mundial complicó al 90% de los restauranteros.",
+      "link": "https://www.reforma.com/traba-televisa-transmisiones-en-restaurantes/ar3220472",
+      "fecha": "11 Jun 2026, 06:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta Banxico presiones inflacionarias por Mundial",
-      "resumen": "Banxico descartó que el Mundial de futbol atraiga presiones inflacionarias significativas o persistentes al País.",
-      "link": "https://www.reforma.com/descarta-banxico-presiones-inflacionarias-por-mundial/ar3220132",
-      "fecha": "10 Jun 2026, 18:14 hrs"
+      "titulo": "Evite tarjetas en el Mundial...",
+      "resumen": "Los negocios que buscan captar parte de la derrama económica que traerá la Copa Mundial 2026 deberán cumplir con requisitos legales.",
+      "link": "https://www.reforma.com/evite-tarjetas-en-el-mundial/ar3220470",
+      "fecha": "11 Jun 2026, 06:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Banxico cuidar percepción de riesgo de calificadoras",
-      "resumen": "Banxico pidió cuidar que no haya una mayor percepción de riesgo por parte de las agencias para evitar otro ajuste en calificación soberana.",
-      "link": "https://www.reforma.com/pide-banxico-cuidar-percepcion-de-riesgo-de-calificadoras/ar3220119",
-      "fecha": "10 Jun 2026, 18:14 hrs"
+      "titulo": "Alcanza GMXT acuerdo para licitación de tren en Argentina",
+      "resumen": "Grupo México Transportes USA alcanzó un acuerdo con Wabtec para presentarse a licitación del tren argentino Belgrano Cargas y Logística.",
+      "link": "https://www.reforma.com/alcanza-gmxt-acuerdo-para-licitacion-de-tren-en-argentina/ar3220639",
+      "fecha": "11 Jun 2026, 08:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Incursiona Fermaca en fertilizantes",
+      "resumen": "Fermaca Global, anunció que invertirá 20 mil millones de pesos en la construcción de una planta de producción de fertilizantes nitrogenados.",
+      "link": "https://www.reforma.com/incursiona-fermaca-en-fertilizantes/ar3220417",
+      "fecha": "11 Jun 2026, 06:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Proponen impulsar integración energética",
+      "resumen": "México debe impulsar una agenda de integración energética en la próxima renegociación del T-MEC, recomendó Comexi.",
+      "link": "https://www.reforma.com/proponen-impulsar-integracion-energetica/ar3220425",
+      "fecha": "11 Jun 2026, 06:57 hrs"
     }
   ]
 }
