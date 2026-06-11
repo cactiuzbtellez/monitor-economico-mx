@@ -1,25 +1,7 @@
 {
-  "actualizado": "10/06/2026 15:24 hrs",
+  "actualizado": "10/06/2026 21:12 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico destaca mejoras en mecanismos para prevenir el lavado de dinero",
-      "resumen": "A casi un año de señalamientos de lavado de dinero a México, el país ha reforzado mecanismos de revisión de operaciones y clientes, dijo Victoria Rodríguez, gobernadora del banco central.",
-      "link": "https://expansion.mx/economia/2026/06/10/bancos-sofipos-endurecen-medidas-abrir-cuentas-banxico",
-      "fecha": "10 Jun 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump amenaza de nueva cuenta la continuidad del T-MEC: \"No necesitamos nada de México ni Canadá\"",
-      "resumen": "El presidente estadounidense volvió a cuestionar el Tratado en pleno arranque del Mundial 2026, el mayor símbolo de integración entre México, EU y Canadá.",
-      "link": "https://expansion.mx/economia/2026/06/10/trump-amenaza-tmec-no-necesitamos-nada-de-mexico-canada",
-      "fecha": "10 Jun 2026, 11:41 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +58,30 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "T-MEC conecta a las fábricas de EU con 64% de las exportaciones mexicanas",
+      "resumen": "La industria del país vecino considera que preservar el tratado es esencial para mantener inversiones, empleo y competitividad manufacturera.",
+      "link": "https://expansion.mx/economia/2026/06/08/mexico-irreemplazable-eu-fabricas-exportaciones",
+      "fecha": "08 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda le quita el subsidio a la gasolina Premium y lo baja a la Magna y diésel",
+      "resumen": "Sin estímulo a la gasolina roja, a cada litro se le cobrará una cuota IEPS de 5.66 pesos durante la semana del seis al 12 de junio.",
+      "link": "https://expansion.mx/economia/2026/06/05/hacienda-quita-subsidio-premium-baja-magna-diesel",
+      "fecha": "05 Jun 2026, 17:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liverpool, Chedraui y otras empresas reciben sanciones de 500 mdp por acuerdos sobre rentas",
-      "resumen": "La Comisión Nacional Antimonopolio (CNA) detectó que las empresas establecieron acuerdos para manipular el pago de rentas de locales comerciales.",
-      "link": "https://expansion.mx/empresas/2026/06/10/liverpool-chedraui-multa-por-manipular-rentas",
-      "fecha": "10 Jun 2026, 14:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Además de Acapulco, todos los destinos a los que vuela Mexicana desde el AIFA en 2026",
-      "resumen": "La aerolínea que rescató el gobierno federal y que retomó el vuelo en 2023, está ampliando sus rutas desde el Aeropuerto Internacional Felipe Ángeles.",
-      "link": "https://expansion.mx/empresas/2026/06/10/mexicana-de-aviacion-vuelos-desde-aifa",
-      "fecha": "10 Jun 2026, 12:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Por qué Olinia, el miniauto eléctrico de la 4T, necesitará una ley propia para circular en México",
-      "resumen": "Más allá de la autonomía y el precio, el proyecto enfrenta un desafío poco visible que podría definir cuándo y cómo llegará realmente a las calles.",
-      "link": "https://expansion.mx/empresas/2026/06/10/olinia-miniauto-electrico-necesitara-ley-propia-circular",
-      "fecha": "10 Jun 2026, 12:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +120,103 @@
       "fecha": "09 Jun 2026, 13:14 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Afirma Trump que podría no renovar el T-MEC",
-      "resumen": "El Presidente Donald Trump declaró este miércoles que podría no renovar el acuerdo de libre comercio T-MEC con Canadá y México.",
-      "link": "https://www.reforma.com/afirma-trump-que-podria-no-renovar-el-t-mec/ar3219851",
-      "fecha": "10 Jun 2026, 10:22 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las empresas familiares no quiebran por dinero, sino por conflictos que nadie quiere enfrentar",
+      "resumen": "Jorge Paoli, CEO de Diestra Hoteles, afirma que las empresas familiares fracasan más por conflictos humanos que por falta de recursos económicos.",
+      "link": "https://expansion.mx/empresas/2026/06/09/empresas-familiares-mexico-no-quiebran-por-dinero-conflictos",
+      "fecha": "09 Jun 2026, 12:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXXO incorpora vehículos eléctricos de BYD para abastecer sus tiendas",
+      "resumen": "La armadora china ha consolidado su presencia en el mercado mexicano de vehículos eléctricos de pasajeros. Sin embargo, el siguiente objetivo es ampliar su participación en el negocio de transporte co…",
+      "link": "https://expansion.mx/empresas/2026/06/09/byd-oxxo-flotillas-electricas-logistica-mexico",
+      "fecha": "09 Jun 2026, 12:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así es el Chengshi Matrix 01, el miniauto eléctrico chino con el que comparan a Olinia",
+      "resumen": "Su diseño detonó comparaciones tras la presentación del vehículo mexicano, pero sus especificaciones muestran diferencias importantes en capacidad, desempeño y objetivo de uso.",
+      "link": "https://expansion.mx/empresas/2026/06/09/chengshi-matrix-01-vs-olinia-diferencias",
+      "fecha": "09 Jun 2026, 12:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten por nuevo recorte de calificación",
-      "resumen": "De no lograrse la consolidación fiscal, existe la posibilidad de un nuevo recorte de calificación, advierte Franklin Templeton México.",
-      "link": "https://www.reforma.com/advierten-por-nuevo-recorte-de-calificacion/ar3220036",
-      "fecha": "10 Jun 2026, 14:39 hrs"
+      "titulo": "Pican ducto de gas LP en Puebla; atiende Pemex problema",
+      "resumen": "Pemex informó que se detectó una fuga de gas LP cerca del poblado San Francisco Tláloc, en Puebla, derivado de una toma clandestina",
+      "link": "https://www.reforma.com/pican-ducto-de-gas-lp-en-puebla-atiende-pemex-problema/ar3220367",
+      "fecha": "10 Jun 2026, 20:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "¿Fiebre mundialista? Bancos y SAT operarán con normalidad",
-      "resumen": "Pese a que mañana dará comienzo el Mundial de futbol 2026, tanto SAT como bancos informaron que operarán con normalidad en todo el País.",
-      "link": "https://www.reforma.com/fiebre-mundialista-bancos-y-sat-operaran-con-normalidad/ar3220061",
-      "fecha": "10 Jun 2026, 15:04 hrs"
+      "titulo": "Se retira operativo del AICM",
+      "resumen": "Elementos de la Secretaría de Marina y SSC se retiraron del AICM al no cumplirse amenaza por parte de la CNTE.",
+      "link": "https://www.reforma.com/se-retira-operativo-del-aicm/ar3220345",
+      "fecha": "10 Jun 2026, 19:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Blindan el AICM ante llegada de la CNTE y limitan accesos",
-      "resumen": "Ante el amago de la CNTE de tomar el AICM, autoridades realizan un operativo y sólo permiten entrar a trabajadores y viajeros con boleto.",
-      "link": "https://www.reforma.com/blindan-el-aicm-ante-llegada-de-la-cnte-y-limitan-accesos/ar3219872",
-      "fecha": "10 Jun 2026, 10:45 hrs"
+      "titulo": "'Golean a México por importación de alimentos",
+      "resumen": "En el primer trimestre de 2026, México reportó un déficit comercial de un millón de dólares en conjunto, reveló un análisis de GCMA.",
+      "link": "https://www.reforma.com/golean-a-mexico-por-importacion-de-alimentos/ar3220295",
+      "fecha": "10 Jun 2026, 18:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reclama México que aranceles favorecen a autos asiáticos",
-      "resumen": "Fabricantes de autos mexicanos tienen una queja sobre el T-MEC actual: están pagando aranceles más elevados que sus competidores asiáticos.",
-      "link": "https://www.reforma.com/reclama-mexico-que-aranceles-favorecen-a-autos-asiaticos/ar3219774",
-      "fecha": "10 Jun 2026, 08:19 hrs"
+      "titulo": "Rechaza IMPI inspecciones para verificar transmisiones",
+      "resumen": "IMPI aseguró que no realizará clausuras en establecimientos que incumplan con los derechos de transmisión del Mundial de futbol.",
+      "link": "https://www.reforma.com/rechaza-impi-inspecciones-para-verificar-transmisiones/ar3220259",
+      "fecha": "10 Jun 2026, 18:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retroceden cerca de 2% índices accionarios de EU",
-      "resumen": "El índice Nasdaq perdió 1.98%, el S&amp;P 500 retrocedió 1.62% y el Dow Jones bajó 1.87%, en medio de tensiones EU-Irán y caída de tecnológicas.",
-      "link": "https://www.reforma.com/retroceden-cerca-de-2-indices-accionarios-de-eu/ar3220038",
-      "fecha": "10 Jun 2026, 14:39 hrs"
+      "titulo": "Disminuye productividad 0.12% trimestral",
+      "resumen": "En primer trimestre de 2026, el Índice Global de Productividad Laboral de la Economía descendió 0.12% comparado con el anterior trimestre.",
+      "link": "https://www.reforma.com/disminuye-productividad-0-12-trimestral/ar3220163",
+      "fecha": "10 Jun 2026, 18:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta el precio del petróleo tras amenazas de Trump a Irán",
-      "resumen": "El barril del Brent subió 1.80% hasta los 93.10 dólares, mientras que su equivalente estadounidense, el WTI aumentó 2.08% a 90.03 dólares.",
-      "link": "https://www.reforma.com/aumenta-el-precio-del-petroleo-tras-amenazas-de-trump-a-iran/ar3220013",
-      "fecha": "10 Jun 2026, 14:16 hrs"
+      "titulo": "Impone CNA multas por más de 500 mdp a inmobiliarias",
+      "resumen": "Comisión Nacional Antimonopolio (CNA) sancionó por más de 500 millones de pesos a inmobiliarias como Grupo Danhos, GICSA y Liverpool.",
+      "link": "https://www.reforma.com/impone-cna-multas-por-mas-de-500-mdp-a-inmobiliarias/ar3220146",
+      "fecha": "10 Jun 2026, 18:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé OpenAI salir a bolsa 'en el transcurso de próximo año'",
-      "resumen": "Sam Altman, CEO de OpenAI, comunicó a sus empleados esta semana que espera que la compañía salga a bolsa \"en el transcurso del próximo año\".",
-      "link": "https://www.reforma.com/preve-openai-salir-a-bolsa-en-el-transcurso-de-proximo-ano/ar3219904",
-      "fecha": "10 Jun 2026, 11:14 hrs"
+      "titulo": "Descarta Banxico presiones inflacionarias por Mundial",
+      "resumen": "Banxico descartó que el Mundial de futbol atraiga presiones inflacionarias significativas o persistentes al País.",
+      "link": "https://www.reforma.com/descarta-banxico-presiones-inflacionarias-por-mundial/ar3220132",
+      "fecha": "10 Jun 2026, 18:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide Banxico cuidar percepción de riesgo de calificadoras",
+      "resumen": "Banxico pidió cuidar que no haya una mayor percepción de riesgo por parte de las agencias para evitar otro ajuste en calificación soberana.",
+      "link": "https://www.reforma.com/pide-banxico-cuidar-percepcion-de-riesgo-de-calificadoras/ar3220119",
+      "fecha": "10 Jun 2026, 18:14 hrs"
     }
   ]
 }
