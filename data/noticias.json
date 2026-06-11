@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/06/2026 12:39 hrs",
+  "actualizado": "11/06/2026 15:32 hrs",
   "total": 24,
   "noticias": [
     {
@@ -89,17 +89,8 @@
       "color": "#C8102E",
       "titulo": "Adidas vende más camisetas del Tri que de la selección de Alemania",
       "resumen": "A casi dos décadas de alianza, el uniforme del Tri lidera las ventas globales de selecciones para la compañía y consolida a México como uno de sus mercados más estratégicos.",
-      "link": "https://expansion.mx/empresas/2026/06/11/adidas-vende-mas-camisetas-del-tri-que-de-la-seleccion-de-alemania",
+      "link": "https://expansion.mx/empresas/2026/06/11/seleccion-mexicana-gana-alemania-espana-playeras-mas-vendidas-adidas",
       "fecha": "11 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Aveo se aferra al trono: vuelve a superar al Versa y se mantiene como el auto más vendido de México",
-      "resumen": "Dos de los autos más populares del país protagonizan una de las batallas más cerradas del mercado. Aunque uno domina las ventas del mes, el otro todavía conserva el liderazgo anual.",
-      "link": "https://expansion.mx/empresas/2026/06/10/aveo-supera-versa-auto-mas-vendido-mexico-mayo-2026",
-      "fecha": "10 Jun 2026, 18:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +138,15 @@
       "fecha": "10 Jun 2026, 12:36 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Un renovado AICM da la bienvenida a una afluencia de turistas que aún no despega",
+      "resumen": "A horas del inicio del Mundial, el Aeropuerto Internacional de la Ciudad de México luce renovado tras una inversión de 6,500 mdp, pero la llegada masiva de turistas que esperan trabajadores y comercio…",
+      "link": "https://expansion.mx/empresas/2026/06/09/fiebre-mundialista-no-llega-al-aicm-mexicanos-esperaban-mas",
+      "fecha": "10 Jun 2026, 07:27 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Transmitirán partidos de FIFA 82% de las IMMEX",
-      "resumen": "Empresas afiliadas a Index, así como Lego, Kia México y BAT transmitirán el arranque de la Copa Mundial FIFA.",
-      "link": "https://www.reforma.com/transmitiran-partidos-de-fifa-82-de-las-immex/ar3220804",
-      "fecha": "11 Jun 2026, 11:30 hrs"
+      "titulo": "Adopta OIT convenio para trabajadores de plataforma",
+      "resumen": "La OIT adoptó un convenio relativo a trabajadores de apps en el que se establecen los derechos de conductores y repartidores a nivel global.",
+      "link": "https://www.reforma.com/adopta-oit-convenio-para-trabajadores-de-plataforma/ar3220872",
+      "fecha": "11 Jun 2026, 12:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Adopta OIT convenio para trabajadores de plataforma",
-      "resumen": "La OIT adoptó un convenio relativo a trabajadores de apps en el que se establecen los derechos de conductores y repartidores a nivel global.",
-      "link": "https://www.reforma.com/adopta-oit-convenio-para-trabajadores-de-plataforma/ar3220872",
-      "fecha": "11 Jun 2026, 12:29 hrs"
+      "titulo": "Transmitirán partidos de FIFA 82% de las IMMEX",
+      "resumen": "Empresas afiliadas a Index, así como Lego, Kia México y BAT transmitirán el arranque de la Copa Mundial FIFA.",
+      "link": "https://www.reforma.com/transmitiran-partidos-de-fifa-82-de-las-immex/ar3220804",
+      "fecha": "11 Jun 2026, 11:30 hrs"
     },
     {
       "fuente": "Reforma",
