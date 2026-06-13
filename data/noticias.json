@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/06/2026 12:33 hrs",
+  "actualizado": "12/06/2026 18:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda mantiene en ceros el subsidio para la gasolina Premium",
+      "resumen": "Por segunda semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
+      "link": "https://expansion.mx/economia/2026/06/12/hacienda-quita-subsidios-gasolina-premium-segunda-semana",
+      "fecha": "12 Jun 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Además del Mundial, México enfrenta una prueba laboral clave en el T-MEC",
+      "resumen": "La reforma laboral avanzó en sindicatos y justicia laboral, pero la revisión del tratado comercial pondrá a prueba su consolidación.",
+      "link": "https://expansion.mx/economia/2026/06/12/ademas-mundial-mexico-disputa-partido-laboral-crucial-t-mec",
+      "fecha": "12 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La electricidad enfría la inflación a 3.94%, pero la subyacente resiste arriba de 4%",
-      "resumen": "La inflación regresó al rango meta de Banxico gracias a menores tarifas eléctricas, aunque la inflación subyacente siguió elevada por el encarecimiento de servicios y alimentos.",
-      "link": "https://expansion.mx/economia/2026/06/09/inflacion-mexico-mayo-2026-electricidad-baja-precios-inegi",
-      "fecha": "09 Jun 2026, 07:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los contribuyentes deben al SAT 3 billones de pesos, pero pelean más de 63% en tribunales",
-      "resumen": "El dinero en disputa son poco más de 2 billones de pesos, una cifra equivalente a toda la recaudación tributaria de enero a abril del 2026, y 1.3 veces el déficit público.",
-      "link": "https://expansion.mx/economia/2026/06/09/contribuyentes-deben-sat-3-billones-pesos",
-      "fecha": "09 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Jubilados de Pemex recuperan pensiones de hasta 134,000 pesos mensuales",
+      "resumen": "El acuerdo entre asociaciones de jubilados, Pemex y autoridades federales revierte parcialmente los efectos de la reforma que limitó las pensiones superiores a 70,000 pesos mensuales.",
+      "link": "https://expansion.mx/empresas/2026/06/12/jubilados-pemex-recuperan-pensiones-doradas",
+      "fecha": "12 Jun 2026, 17:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Blim a ViX: cómo Televisa construyó el streaming que hoy domina el Mundial 2026",
+      "resumen": "De una plataforma que nunca pudo competir con Netflix a un negocio que ya aporta una cuarta parte de los ingresos de TelevisaUnivision. Así fue la transformación de Blim en ViX.",
+      "link": "https://expansion.mx/empresas/2026/06/12/de-blim-a-vix-como-televisa-construyo-streaming",
+      "fecha": "12 Jun 2026, 16:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,94 +147,76 @@
       "fecha": "10 Jun 2026, 17:07 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sener amplía plazos para proyectos de energía ante dificultades de privados y retos para su revisión",
-      "resumen": "Si bien el aplazamiento de las fechas permitirá tener un mejor análisis y resultado de las convocatorias, también implica que la ejecución y entrada en operación de los proyectos tomará más tiempo.",
-      "link": "https://expansion.mx/empresas/2026/06/10/sener-amplia-plazos-para-proyectos-de-energia-ante-dificultades-de-privados-y-retos-para-su-revision",
-      "fecha": "10 Jun 2026, 16:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liverpool, Chedraui y otras empresas reciben sanciones por 500 millones de pesos por acuerdos sobre rentas",
-      "resumen": "La Comisión Nacional Antimonopolio (CNA) detectó que las empresas establecieron acuerdos para manipular el pago de rentas de locales comerciales.",
-      "link": "https://expansion.mx/empresas/2026/06/10/liverpool-chedraui-multa-por-manipular-rentas",
-      "fecha": "10 Jun 2026, 14:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar la semana en $17.22",
+      "resumen": "El dólar cerró este viernes con una cotización de $17.22; mientras que a nivel semanal acumuló una caída de 24.60 centavos.",
+      "link": "https://www.reforma.com/cierra-dolar-la-semana-en-17-22/ar3221777",
+      "fecha": "12 Jun 2026, 18:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja primer día del Mundial derrama de 1,200 mdp en CDMX",
-      "resumen": "El primer día del Mundial 2026 dejó una derrama de mil 200 millones de pesos en la Ciudad de México y zonas vinculadas, según Concanaco.",
-      "link": "https://www.reforma.com/deja-primer-dia-del-mundial-derrama-de-1-200-mdp-en-cdmx/ar3221532",
-      "fecha": "12 Jun 2026, 12:02 hrs"
+      "titulo": "Aprueba DOJ el acuerdo de Paramount con Warner Bros",
+      "resumen": "El Departamento de Justicia de EU cerró su investigación antimonopolio sobre la compra de WBD por parte de Paramount Skydance por 110 mmdd.",
+      "link": "https://www.reforma.com/aprueba-doj-el-acuerdo-de-paramount-con-warner-bros/ar3221720",
+      "fecha": "12 Jun 2026, 16:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusa EU trabas en agrotecnología",
-      "resumen": "A través de retrasos de la Cofepris en el otorgamiento de permisos a biotecnología, México falla en garantizar procesos de registro.",
-      "link": "https://www.reforma.com/acusa-eu-trabas-en-agrotecnologia/ar3221283",
-      "fecha": "12 Jun 2026, 06:57 hrs"
+      "titulo": "Rebaja Moody's calificación a Televisa a Ba2",
+      "resumen": "Moody's Ratings rebajó la calificación crediticia de Televisa de Ba1 a Ba2 ante un desempeño operativo por debajo de las expectativas.",
+      "link": "https://www.reforma.com/rebaja-moody-s-calificacion-a-televisa-a-ba2/ar3221713",
+      "fecha": "12 Jun 2026, 15:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estiman fuga económica de 700 mdd en el Mundial",
-      "resumen": "A la derrama económica que dejará la celebración del Mundial en México hay que descontarle una fuga de alrededor de 700 millones de dólares.",
-      "link": "https://www.reforma.com/estiman-fuga-economica-de-700-mdd-en-el-mundial/ar3221222",
-      "fecha": "12 Jun 2026, 04:56 hrs"
+      "titulo": "Interponen queja laboral contra Minera Peñasquito",
+      "resumen": "El Gobierno de Estados Unidos presentó una queja laboral en contra de Minera Peñasquito por violaación a los derechos de sus trabajadores.",
+      "link": "https://www.reforma.com/interponen-queja-laboral-contra-minera-penasquito/ar3221688",
+      "fecha": "12 Jun 2026, 18:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben acciones de SpaceX cerca de 28%",
-      "resumen": "Las acciones de SpaceX, que abrieron en 150 dólares en su debut en el Nasdaq, subían 28.33% hasta los 173.25 dólares.",
-      "link": "https://www.reforma.com/suben-acciones-de-spacex-cerca-de-28/ar3221399",
-      "fecha": "12 Jun 2026, 08:02 hrs"
+      "titulo": "Limita fondo de BlackRock retiros por segundo trimestre",
+      "resumen": "BlackRock volvió a limitar los retiros de su fondo HLEND, luego que inversores solicitaran rescatar cerca del 13% de sus participaciones.",
+      "link": "https://www.reforma.com/limita-fondo-de-blackrock-retiros-por-segundo-trimestre/ar3221679",
+      "fecha": "12 Jun 2026, 15:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Elon Musk se convierte en el primer billonario del mundo",
-      "resumen": "Tras el debut bursátil de SpaceX, Elon Musk se convirtió en el primero en lograr un patrimonio neto de un billón de dólares.",
-      "link": "https://www.reforma.com/elon-musk-se-convierte-en-el-primer-billonario-del-mundo/ar3221454",
-      "fecha": "12 Jun 2026, 10:00 hrs"
+      "titulo": "Pide EU revisar derechos laborales en minera Peñasquito",
+      "resumen": "EU pide se revise si a trabajadores de Minera Peñasquito se les está negando el derecho a la libertad de asociación.",
+      "link": "https://www.reforma.com/pide-eu-revisar-derechos-laborales-en-minera-penasquito/ar3221677",
+      "fecha": "12 Jun 2026, 15:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reportan caída global de los servicios de Meta",
-      "resumen": "Miles de usuarios se vieron afectados por una caída generalizada del servicio de Instagram, Facebook y Messenger, según Downdetector.",
-      "link": "https://www.reforma.com/reportan-caida-global-de-los-servicios-de-meta/ar3221410",
-      "fecha": "12 Jun 2026, 08:19 hrs"
+      "titulo": "Toca Brent mínimo de marzo por expectativa de acuerdo de paz",
+      "resumen": "Los precios del crudo cayeron más de 3%, con el Brent cerrando en 87.33 dólares, un mínimo desde principios de marzo.",
+      "link": "https://www.reforma.com/toca-brent-minimo-de-marzo-por-expectativa-de-acuerdo-de-paz/ar3221663",
+      "fecha": "12 Jun 2026, 14:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde Mundial con Pa'l Norte en reservaciones",
-      "resumen": "El porcentaje de ocupación hotelera reservada para las fechas de los partidos estaba ayer estancado en un 60%.",
-      "link": "https://www.reforma.com/pierde-mundial-con-pa-l-norte-en-reservaciones/ar3221286",
-      "fecha": "12 Jun 2026, 06:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen en evolucionar a la manufactura en NL",
-      "resumen": "Para lograr ser una alternativa de las grandes empresas que buscan sustituir importaciones, es necesario fortalecer al ecosistema industrial",
-      "link": "https://www.reforma.com/urgen-en-evolucionar-a-la-manufactura-en-nl/ar3221281",
-      "fecha": "12 Jun 2026, 06:57 hrs"
+      "titulo": "Cierra SpaceX con alza de 19% en primer día en Wall Street",
+      "resumen": "Los títulos de SpaceX cerraron a 160.95 dólares, un 19.22% más que el precio inicial fijado por la compañía de Elon Musk.",
+      "link": "https://www.reforma.com/cierra-spacex-con-alza-de-19-en-primer-dia-en-wall-street/ar3221639",
+      "fecha": "12 Jun 2026, 14:26 hrs"
     }
   ]
 }
