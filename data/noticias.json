@@ -1,7 +1,52 @@
 {
-  "actualizado": "15/06/2026 10:26 hrs",
+  "actualizado": "15/06/2026 17:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El petróleo aún enfrenta escenarios de inestabilidad tras acuerdo entre Irán y Estados Unidos",
+      "resumen": "El acuerdo EU-Irán reduce el riesgo inflacionario por energía, pero la reserva petrolera de EU cayó a mínimos de más de 40 años.",
+      "link": "https://expansion.mx/economia/2026/06/15/precio-petroleo-en-vilo-a-pesar-acuerdo-iran-estados-unidos",
+      "fecha": "15 Jun 2026, 16:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SAT agrega 903 empresas fantasma a su lista negra en lo que va de 2026",
+      "resumen": "Ante la ofensiva contra las factureras, contadores sugieren verificar proveedores en las listas del SAT y del DOF, además de usar herramientas contables.",
+      "link": "https://expansion.mx/economia/2026/06/15/sat-agrega-903-empresas-fantasma-lista-negra-en-2026",
+      "fecha": "15 Jun 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México da por vivo al T-MEC; la duda es cuánto durará la revisión",
+      "resumen": "Marcelo Ebrard reconoce que el proceso de revisión del tratado puede prolongarse debido a la cantidad de temas pendientes entre los socios.",
+      "link": "https://expansion.mx/economia/2026/06/15/mexico-da-por-vivo-t-mec-duda-cuanto-durara-revision",
+      "fecha": "15 Jun 2026, 13:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Afores crecen 20.7% y logran uno de los mayores rendimientos reales de la OCDE",
+      "resumen": "Las Afores lograron un rendimiento real de 11.1% en 2025, uno de los más altos entre los países medidos por la organización.",
+      "link": "https://expansion.mx/economia/2026/06/15/afores-mexico-se-disparan-ahorro-retiro-crece-ocde",
+      "fecha": "15 Jun 2026, 12:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México aumenta 42% sus importaciones desde Asia pese al T-MEC",
+      "resumen": "Las compras a Asia sumaron 121,054 millones de dólares hasta abril, mientras el comercio con EU y Canadá creció apenas 2.1%, de acuerdo con datos oficiales.",
+      "link": "https://expansion.mx/economia/2026/06/15/mexico-blindar-integracion-t-mec-pero-compras-asia-disparan",
+      "fecha": "15 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,57 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico destaca mejoras en mecanismos para prevenir el lavado de dinero",
-      "resumen": "A casi un año de señalamientos de lavado de dinero a México, el país ha reforzado mecanismos de revisión de operaciones y clientes, dijo Victoria Rodríguez, gobernadora del banco central.",
-      "link": "https://expansion.mx/economia/2026/06/10/bancos-sofipos-endurecen-medidas-abrir-cuentas-banxico",
-      "fecha": "10 Jun 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump amenaza de nueva cuenta la continuidad del T-MEC: \"No necesitamos nada de México ni Canadá\"",
-      "resumen": "El presidente estadounidense volvió a cuestionar el Tratado en pleno arranque del Mundial 2026, el mayor símbolo de integración entre México, EU y Canadá.",
-      "link": "https://expansion.mx/economia/2026/06/10/trump-amenaza-tmec-no-necesitamos-nada-de-mexico-canada",
-      "fecha": "10 Jun 2026, 11:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El tomate mexicano pierde terreno en Estados Unidos: cae 12% su participación",
-      "resumen": "El Departamento de Agricultura de Estados Unidos prevé que las exportaciones mexicanas de tomate caerán a 1.8 millones de toneladas en 2026, una reducción de 7% respecto al año anterior.",
-      "link": "https://expansion.mx/economia/2026/06/10/tomate-mexicano-sufre-arancel-antidumping-exportaciones-eu",
-      "fecha": "10 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México necesita más de 580,000 millones de pesos para un sistema integral de cuidados",
-      "resumen": "Actualmente se destinan más de 468,000 millones de pesos para este fin, aunque un 64% de esos recursos es para transferencias a programas sociales, como la beca Rita Cetina.",
-      "link": "https://expansion.mx/economia/2026/06/09/sistema-de-cuidados-inversion-medio-billon-pesos-extra",
-      "fecha": "09 Jun 2026, 15:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Moody's estima 768,000 visitantes al Mundial, una cifra muy por debajo de la oficial",
-      "resumen": "El alto costo de los boletos y la distribución de los partidos limitarían la llegada de aficionados a México. La calificadora descarta que el Mundial genere cambios relevantes en la economía del país.",
-      "link": "https://expansion.mx/economia/2026/06/09/moodys-estima-visitantes-mundial-debajo-proyeccion-oficial",
-      "fecha": "09 Jun 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ursus Energy, la empresa mexicana que ganará con el gas que Pemex quema",
+      "resumen": "La empresa mexicana invertirá 2,100 millones de dólares en una planta de licuefacción en Veracruz para aprovechar el gas natural contaminado que hoy Pemex quema o ventea y venderlo en Europa, el Carib…",
+      "link": "https://expansion.mx/empresas/2026/06/15/ursus-energy-negocio-donde-pemex-vio-problema-gas-natural",
+      "fecha": "15 Jun 2026, 13:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fox compra a Roku por 22,000 mdd para aumentar su apuesta en el streaming",
+      "resumen": "La transacción permitirá a Fox acceder a datos de Roku y a más de 100 millones de hogares con acceso a streaming en todo el mundo, pero el acuerdo deberá ser analizado por reguladores.",
+      "link": "https://expansion.mx/empresas/2026/06/15/fox-compra-a-roku-por-22-000-mdd-para-aumentar-su-apuesta-en-el-streaming",
+      "fecha": "15 Jun 2026, 10:32 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,94 +147,76 @@
       "fecha": "12 Jun 2026, 12:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CFE ya tiene fecha de ajuste a pensiones doradas",
-      "resumen": "Tras la reciente reforma constitucional aprobada por el Congreso de México, la empresa pública del Estado ya tiene fecha de cómo aplicará a su personal pensionado.",
-      "link": "https://expansion.mx/empresas/2026/06/12/pensiones-doradas-cfe-fecha-de-caducidad",
-      "fecha": "12 Jun 2026, 09:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“Es muy caro, pero valió la pena”: México, el Mundial y una fiesta global",
-      "resumen": "La inauguración del Mundial 2026 se mueve entre el consumo, el espectáculo y el negocio global que domina fuera de la cancha, pero es el gol y la victoria los que sostienen una fiesta que vuelve a uni…",
-      "link": "https://expansion.mx/empresas/2026/06/12/asi-se-vivio-el-partido-inaugural-del-mundial-2026-en-mexico",
-      "fecha": "12 Jun 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sigue revisión T-MEC pese a declaraciones de Trump.- Ebrard",
+      "resumen": "Secretario de Economía, Marcelo Ebrard señaló que, pese a lo dicho por Presidente Donald Trump de no renovar el T-MEC, la revisión continúa.",
+      "link": "https://www.reforma.com/sigue-revision-t-mec-pese-a-declaraciones-de-trump-ebrard/ar3222990",
+      "fecha": "15 Jun 2026, 12:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta presión sobre pensiones",
-      "resumen": "El sistema de pensiones en México enfrenta presión creciente por deterioro en proporción entre trabajadores y pensionados, según expertos.",
-      "link": "https://www.reforma.com/aumenta-presion-sobre-pensiones/ar3222769",
-      "fecha": "15 Jun 2026, 05:01 hrs"
+      "titulo": "Devoluciones detenidas son por verificación de CLABE.- SAT",
+      "resumen": "Devoluciones de impuestos que siguen detenidas son por verificar que la cuenta CLABE realmente pertenezca al contribuyente, reveló SAT.",
+      "link": "https://www.reforma.com/devoluciones-detenidas-son-por-verificacion-de-clabe-sat/ar3223080",
+      "fecha": "15 Jun 2026, 14:52 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Beneficiaría a México inversión en Brownsville",
-      "resumen": "Al menos 60 mil millones de dólares en diversas inversiones tendrá el Puerto de Brownsville en los próximos 10 años.",
-      "link": "https://www.reforma.com/beneficiaria-a-mexico-inversion-en-brownsville/ar3222741",
-      "fecha": "15 Jun 2026, 05:02 hrs"
+      "titulo": "Asegura Infonavit reestructuración de créditos impagables",
+      "resumen": "Infonavit aseguró que en la actual Administración, 4 millones 400 mil créditos \"impagables\" fueron migrados a un nuevo esquema.",
+      "link": "https://www.reforma.com/asegura-infonavit-reestructuracion-de-creditos-impagables/ar3223008",
+      "fecha": "15 Jun 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae valor de envíos automotrices a EU",
-      "resumen": "Afecta una alza de los insumos\ny menor valor en la exportación de camiones en los envíos al exterior de autos.",
-      "link": "https://www.reforma.com/cae-valor-de-envios-automotrices-a-eu/ar3222711",
-      "fecha": "15 Jun 2026, 05:02 hrs"
+      "titulo": "Debaten en EU inclusión del tratado de aguas en T-MEC",
+      "resumen": "La congresista de Texas, Mónica De La Cruz, organizó una mesa redonda para debatir la inclusión del Tratado de Aguas de 1944 en el T-MEC.",
+      "link": "https://www.reforma.com/debaten-en-eu-inclusion-del-tratado-de-aguas-en-t-mec/ar3223117",
+      "fecha": "15 Jun 2026, 15:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Justifica el IMSS baja en empleos y patrones",
-      "resumen": "Aunque el IMSS justificó la pérdida de empleo formal en mayo, expertos cuestionan sus argumentos y piden aclara el tema.",
-      "link": "https://www.reforma.com/justifica-el-imss-baja-en-empleos-y-patrones/ar3222702",
-      "fecha": "15 Jun 2026, 05:02 hrs"
+      "titulo": "Bloquearon 57 streaming ilegales en inauguración del Mundial",
+      "resumen": "IMPI informó que durante la inauguración del Mundial de futbol, bloqueó 57 direcciones de streaming que no contaban con permisos necesarios.",
+      "link": "https://www.reforma.com/bloquearon-57-streaming-ilegales-en-inauguracion-del-mundial/ar3223002",
+      "fecha": "15 Jun 2026, 12:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abren mercados de EU al alza; SpaceX sube 8%",
-      "resumen": "El Dow Jones sumaba 630 puntos, o 1.2%; el S&amp;P 500 subía 1.6%, y el Nasdaq repuntaba un 2.4%, apuntalado por un alza de 8% en SpaceX.",
-      "link": "https://www.reforma.com/abren-mercados-de-eu-al-alza-spacex-sube-8/ar3222833",
-      "fecha": "15 Jun 2026, 07:57 hrs"
+      "titulo": "Busca Fovissste conversión de créditos UMA a pesos",
+      "resumen": "Fovissste señaló que como parte de su programa de créditos impagables, se reestructurarán aquellos bajo el indicador UMA a pesos.",
+      "link": "https://www.reforma.com/busca-fovissste-conversion-de-creditos-uma-a-pesos/ar3223024",
+      "fecha": "15 Jun 2026, 14:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca crudo mínimo en tres meses tras acuerdo EU-Irán",
-      "resumen": "Los futuros del crudo Brent cedían 5.1%, a 82.86 dólares el barril, mientras que el WTI se situaba en 79.98 dólares tras una caída de 5.8%.",
-      "link": "https://www.reforma.com/toca-crudo-minimo-en-tres-meses-tras-acuerdo-eu-iran/ar3222826",
-      "fecha": "15 Jun 2026, 07:18 hrs"
+      "titulo": "Registra Vivienda para el Bienestar avance de 33.6%",
+      "resumen": "El Programa de Vivienda para el Bienestar registra un avance del 33.6% con 274 mil en proceso de edificación, reveló Sedatu.",
+      "link": "https://www.reforma.com/registra-vivienda-para-el-bienestar-avance-de-33-6/ar3223018",
+      "fecha": "15 Jun 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ayuda crudo caro a finanzas e inflación",
-      "resumen": "Los apoyos fiscales para gasolinas y diesel están creando un hoyo en las finanzas que se ha podido tapar por la venta de crudo caro.",
-      "link": "https://www.reforma.com/ayuda-crudo-caro-a-finanzas-e-inflacion/ar3222693",
-      "fecha": "15 Jun 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven en riesgo en T-MEC la integración energética",
-      "resumen": "La política energética de México genera tensiones con el T-MEC, advierte un informe, al señalar riesgos para la inversión.",
-      "link": "https://www.reforma.com/ven-en-riesgo-en-t-mec-la-integracion-energetica/ar3222680",
-      "fecha": "15 Jun 2026, 04:46 hrs"
+      "titulo": "Logra Dow Jones nuevo récord por acuerdo entre EU e Irán",
+      "resumen": "El Dow Jones terminó en un nuevo máximo al cierre, con una ganancia del 0.96%; el índice Nasdaq se disparó 3.07%, y el S&amp;P 500 avanzó 1.67%.",
+      "link": "https://www.reforma.com/logra-dow-jones-nuevo-record-por-acuerdo-entre-eu-e-iran/ar3223089",
+      "fecha": "15 Jun 2026, 14:52 hrs"
     }
   ]
 }
