@@ -1,5 +1,222 @@
 {
-  "actualizado": "15/06/2026 08:30 hrs",
-  "total": 0,
-  "noticias": []
+  "actualizado": "15/06/2026 10:05 hrs",
+  "total": 24,
+  "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México aumenta 42% sus importaciones desde Asia pese al T-MEC",
+      "resumen": "Las compras a Asia sumaron 121,054 millones de dólares hasta abril, mientras el comercio con EU y Canadá creció apenas 2.1%, de acuerdo con datos oficiales.",
+      "link": "https://expansion.mx/economia/2026/06/15/mexico-blindar-integracion-t-mec-pero-compras-asia-disparan",
+      "fecha": "15 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda mantiene en ceros el subsidio para la gasolina Premium",
+      "resumen": "Por segunda semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
+      "link": "https://expansion.mx/economia/2026/06/12/hacienda-quita-subsidios-gasolina-premium-segunda-semana",
+      "fecha": "12 Jun 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Además del Mundial, México enfrenta una prueba laboral clave en el T-MEC",
+      "resumen": "La reforma laboral avanzó en sindicatos y justicia laboral, pero la revisión del tratado comercial pondrá a prueba su consolidación.",
+      "link": "https://expansion.mx/economia/2026/06/12/ademas-mundial-mexico-disputa-partido-laboral-crucial-t-mec",
+      "fecha": "12 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial 2026 dejará una derrama de 500 mdd en la economía informal de México",
+      "resumen": "El monto equivale a 15.6% del beneficio económico formal que se estima generará la Copa Mundial de Futbol en las tres ciudades sede.",
+      "link": "https://expansion.mx/economia/2026/06/11/informalidad-se-llevara-500-millones-dolares-mundial-mexico",
+      "fecha": "11 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico destaca mejoras en mecanismos para prevenir el lavado de dinero",
+      "resumen": "A casi un año de señalamientos de lavado de dinero a México, el país ha reforzado mecanismos de revisión de operaciones y clientes, dijo Victoria Rodríguez, gobernadora del banco central.",
+      "link": "https://expansion.mx/economia/2026/06/10/bancos-sofipos-endurecen-medidas-abrir-cuentas-banxico",
+      "fecha": "10 Jun 2026, 15:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump amenaza de nueva cuenta la continuidad del T-MEC: \"No necesitamos nada de México ni Canadá\"",
+      "resumen": "El presidente estadounidense volvió a cuestionar el Tratado en pleno arranque del Mundial 2026, el mayor símbolo de integración entre México, EU y Canadá.",
+      "link": "https://expansion.mx/economia/2026/06/10/trump-amenaza-tmec-no-necesitamos-nada-de-mexico-canada",
+      "fecha": "10 Jun 2026, 11:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El tomate mexicano pierde terreno en Estados Unidos: cae 12% su participación",
+      "resumen": "El Departamento de Agricultura de Estados Unidos prevé que las exportaciones mexicanas de tomate caerán a 1.8 millones de toneladas en 2026, una reducción de 7% respecto al año anterior.",
+      "link": "https://expansion.mx/economia/2026/06/10/tomate-mexicano-sufre-arancel-antidumping-exportaciones-eu",
+      "fecha": "10 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México necesita más de 580,000 millones de pesos para un sistema integral de cuidados",
+      "resumen": "Actualmente se destinan más de 468,000 millones de pesos para este fin, aunque un 64% de esos recursos es para transferencias a programas sociales, como la beca Rita Cetina.",
+      "link": "https://expansion.mx/economia/2026/06/09/sistema-de-cuidados-inversion-medio-billon-pesos-extra",
+      "fecha": "09 Jun 2026, 15:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
+      "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
+      "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
+      "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La Comer acelera el regreso de Sumesa para competir con Bodega Aurrera Express",
+      "resumen": "El renovado formato de Sumesa busca ganar terreno en el segmento de proximidad con más de 5,000 productos, experiencias de compra temáticas.",
+      "link": "https://expansion.mx/empresas/2026/06/15/sumesa-regresa-decada-en-pausa-plan-la-comer",
+      "fecha": "15 Jun 2026, 08:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
+      "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
+      "link": "https://expansion.mx/empresas/2026/06/12/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
+      "fecha": "12 Jun 2026, 18:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Jubilados de Pemex recuperan pensiones de hasta 134,000 pesos mensuales",
+      "resumen": "El acuerdo entre asociaciones de jubilados, Pemex y autoridades federales revierte parcialmente los efectos de la reforma que limitó las pensiones superiores a 70,000 pesos mensuales.",
+      "link": "https://expansion.mx/empresas/2026/06/12/jubilados-pemex-recuperan-pensiones-doradas",
+      "fecha": "12 Jun 2026, 17:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Blim a ViX: cómo Televisa construyó el streaming que hoy domina el Mundial 2026",
+      "resumen": "De una plataforma que nunca pudo competir con Netflix a un negocio que ya aporta una cuarta parte de los ingresos de TelevisaUnivision. Así fue la transformación de Blim en ViX.",
+      "link": "https://expansion.mx/empresas/2026/06/12/de-blim-a-vix-como-televisa-construyo-streaming",
+      "fecha": "12 Jun 2026, 16:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La estrategia de Geely, la marca de autos china, para entra al top 10 de ventas en México",
+      "resumen": "A dos años y medio de llegar al país, Geely ya vende más de 19,000 vehículos y apuesta por híbridos enchufables, electrificación y servicio posventa para seguir escalando posiciones.",
+      "link": "https://expansion.mx/empresas/2026/06/12/china-geely-quiere-entrar-al-top-10-de-ventas-en-mexico",
+      "fecha": "12 Jun 2026, 12:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CFE ya tiene fecha de ajuste a pensiones doradas",
+      "resumen": "Tras la reciente reforma constitucional aprobada por el Congreso de México, la empresa pública del Estado ya tiene fecha de cómo aplicará a su personal pensionado.",
+      "link": "https://expansion.mx/empresas/2026/06/12/pensiones-doradas-cfe-fecha-de-caducidad",
+      "fecha": "12 Jun 2026, 09:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“Es muy caro, pero valió la pena”: México, el Mundial y una fiesta global",
+      "resumen": "La inauguración del Mundial 2026 se mueve entre el consumo, el espectáculo y el negocio global que domina fuera de la cancha, pero es el gol y la victoria los que sostienen una fiesta que vuelve a uni…",
+      "link": "https://expansion.mx/empresas/2026/06/12/asi-se-vivio-el-partido-inaugural-del-mundial-2026-en-mexico",
+      "fecha": "12 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta presión sobre pensiones",
+      "resumen": "El sistema de pensiones en México enfrenta presión creciente por deterioro en proporción entre trabajadores y pensionados, según expertos.",
+      "link": "https://www.reforma.com/aumenta-presion-sobre-pensiones/ar3222769",
+      "fecha": "15 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Beneficiaría a México inversión en Brownsville",
+      "resumen": "Al menos 60 mil millones de dólares en diversas inversiones tendrá el Puerto de Brownsville en los próximos 10 años.",
+      "link": "https://www.reforma.com/beneficiaria-a-mexico-inversion-en-brownsville/ar3222741",
+      "fecha": "15 Jun 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae valor de envíos automotrices a EU",
+      "resumen": "Afecta una alza de los insumos\ny menor valor en la exportación de camiones en los envíos al exterior de autos.",
+      "link": "https://www.reforma.com/cae-valor-de-envios-automotrices-a-eu/ar3222711",
+      "fecha": "15 Jun 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Justifica el IMSS baja en empleos y patrones",
+      "resumen": "Aunque el IMSS justificó la pérdida de empleo formal en mayo, expertos cuestionan sus argumentos y piden aclara el tema.",
+      "link": "https://www.reforma.com/justifica-el-imss-baja-en-empleos-y-patrones/ar3222702",
+      "fecha": "15 Jun 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Abren mercados de EU al alza; SpaceX sube 8%",
+      "resumen": "El Dow Jones sumaba 630 puntos, o 1.2%; el S&amp;P 500 subía 1.6%, y el Nasdaq repuntaba un 2.4%, apuntalado por un alza de 8% en SpaceX.",
+      "link": "https://www.reforma.com/abren-mercados-de-eu-al-alza-spacex-sube-8/ar3222833",
+      "fecha": "15 Jun 2026, 07:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Toca crudo mínimo en tres meses tras acuerdo EU-Irán",
+      "resumen": "Los futuros del crudo Brent cedían 5.1%, a 82.86 dólares el barril, mientras que el WTI se situaba en 79.98 dólares tras una caída de 5.8%.",
+      "link": "https://www.reforma.com/toca-crudo-minimo-en-tres-meses-tras-acuerdo-eu-iran/ar3222826",
+      "fecha": "15 Jun 2026, 07:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ayuda crudo caro a finanzas e inflación",
+      "resumen": "Los apoyos fiscales para gasolinas y diesel están creando un hoyo en las finanzas que se ha podido tapar por la venta de crudo caro.",
+      "link": "https://www.reforma.com/ayuda-crudo-caro-a-finanzas-e-inflacion/ar3222693",
+      "fecha": "15 Jun 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven en riesgo en T-MEC la integración energética",
+      "resumen": "La política energética de México genera tensiones con el T-MEC, advierte un informe, al señalar riesgos para la inversión.",
+      "link": "https://www.reforma.com/ven-en-riesgo-en-t-mec-la-integracion-energetica/ar3222680",
+      "fecha": "15 Jun 2026, 04:46 hrs"
+    }
+  ]
 }
