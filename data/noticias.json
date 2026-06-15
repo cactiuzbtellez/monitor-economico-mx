@@ -1,16 +1,7 @@
 {
-  "actualizado": "15/06/2026 10:05 hrs",
+  "actualizado": "15/06/2026 10:26 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México aumenta 42% sus importaciones desde Asia pese al T-MEC",
-      "resumen": "Las compras a Asia sumaron 121,054 millones de dólares hasta abril, mientras el comercio con EU y Canadá creció apenas 2.1%, de acuerdo con datos oficiales.",
-      "link": "https://expansion.mx/economia/2026/06/15/mexico-blindar-integracion-t-mec-pero-compras-asia-disparan",
-      "fecha": "15 Jun 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Actualmente se destinan más de 468,000 millones de pesos para este fin, aunque un 64% de esos recursos es para transferencias a programas sociales, como la beca Rita Cetina.",
       "link": "https://expansion.mx/economia/2026/06/09/sistema-de-cuidados-inversion-medio-billon-pesos-extra",
       "fecha": "09 Jun 2026, 15:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Moody's estima 768,000 visitantes al Mundial, una cifra muy por debajo de la oficial",
+      "resumen": "El alto costo de los boletos y la distribución de los partidos limitarían la llegada de aficionados a México. La calificadora descarta que el Mundial genere cambios relevantes en la economía del país.",
+      "link": "https://expansion.mx/economia/2026/06/09/moodys-estima-visitantes-mundial-debajo-proyeccion-oficial",
+      "fecha": "09 Jun 2026, 12:40 hrs"
     },
     {
       "fuente": "Expansión",
