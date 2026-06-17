@@ -1,7 +1,34 @@
 {
-  "actualizado": "17/06/2026 08:26 hrs",
+  "actualizado": "17/06/2026 16:16 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fed mantiene tasas de interés y apunta a una subida para fin de año",
+      "resumen": "El banco central de EU decidió mantener sin cambios las tasas de interés en un rango de entre 3.50% y 3.75% por cuarta reunión consecutiva, con un voto unánime por primera vez en un año.",
+      "link": "https://expansion.mx/economia/2026/06/17/fed-mantiene-tasas-de-interes-y-apunta-a-una-subida-para-fin-de-ano",
+      "fecha": "17 Jun 2026, 12:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial da un respiro a la economía en abril, pero mayo apunta al estancamiento",
+      "resumen": "El torneo impulsó la actividad económica en abril, con un avance mensual de 1.0%, y también empujó el consumo privado, que creció 0.4%; pero Inegi anticipa que ambos indicadores se estancaron en mayo.",
+      "link": "https://expansion.mx/economia/2026/06/17/mundial-futbol-respiro-economia-mexico-abril-inegi",
+      "fecha": "17 Jun 2026, 12:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más allá del futbol: la economía de Senegal crece al ritmo de sus ambiciones",
+      "resumen": "Mientras Senegal enfrenta a Francia en el Mundial 2026, su economía vive uno de los mejores momentos de su historia.",
+      "link": "https://expansion.mx/economia/2026/06/17/senegal-mundial-2026-economia-cuatro-veces-mas-grande",
+      "fecha": "17 Jun 2026, 08:59 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,57 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La CNBV multa a Banco del Bienestar por más de 5.5 mdp en lo que va del año",
-      "resumen": "El regulador ha impuesto 10 multas en lo que va de este 2026 por irregularidades operativos y el banco denuncia un \"daño reputacional\" en su contra.",
-      "link": "https://expansion.mx/economia/2026/06/16/cnbv-multa-banco-del-bienestar",
-      "fecha": "16 Jun 2026, 12:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Fed realiza su primera reunión de tasas presidida por Kevin Warsh",
-      "resumen": "Se espera un mantenimiento de las tasas, el cuarto consecutivo, que se sitúan entre el 3.50% y el 3.75% desde diciembre.",
-      "link": "https://expansion.mx/economia/2026/06/16/la-fed-realiza-su-primera-reunion-de-tasas-presidida-por-kevin-warsh",
-      "fecha": "16 Jun 2026, 10:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pagos contactless alcanzan 30% y presionan a reducir terminales en México",
-      "resumen": "Con 11,261 millones de transacciones en 2025, bancos y fintech adoptan “tap to phone” para reducir hardware y ampliar aceptación.",
-      "link": "https://expansion.mx/economia/2026/06/16/pagos-contactless-alcanzan-30-y-presionan-a-reducir-terminales-en-mexico",
-      "fecha": "16 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México y Corea estudian plataformas espaciales para competir con SpaceX",
-      "resumen": "El proyecto forma parte de una estrategia para desarrollar infraestructura orbital propia y reducir la dependencia de servicios de lanzamiento extranjeros en la región.",
-      "link": "https://expansion.mx/empresas/2026/06/17/mexico-se-alia-corea-construir-plataformas-espaciales",
-      "fecha": "17 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La adquisición de Minu por Betterfly muestra como la era del venture capital cede paso a las fusiones para crecer",
-      "resumen": "La operación valuada en 100 mdd refleja un cambio en el ecosistema emprendedor latinoamericano, donde las startups priorizan consolidación y expansión internacional ante un entorno más exigente para c…",
-      "link": "https://expansion.mx/empresas/2026/06/16/betterfly-compra-mexicana-minu",
-      "fecha": "16 Jun 2026, 19:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +129,94 @@
       "fecha": "15 Jun 2026, 18:17 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Necesita EU continuar con T-MEC",
-      "resumen": "Con la inflación más alta de los últimos 3 años en EU, la población y sector privado pedirán continuidad del T-MEC, opinan especialistas.",
-      "link": "https://www.reforma.com/necesita-eu-continuar-con-t-mec/ar3223999",
-      "fecha": "17 Jun 2026, 05:01 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Coca-Cola busca expandir consumo de su versión Zero aprovechando el escaparate mundialista",
+      "resumen": "La multinacional utilizará las activaciones del Mundial 2026 para impulsar Coca-Cola Zero, ampliar la adopción de bebidas sin azúcar y fortalecer una estrategia que considera clave para el futuro del …",
+      "link": "https://expansion.mx/empresas/2026/06/15/coca-cola-bebidas-sin-azucar-aumentar-ventas-zero",
+      "fecha": "15 Jun 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ursus Energy, la empresa mexicana que ganará con el gas que Pemex quema",
+      "resumen": "La empresa mexicana invertirá 2,100 millones de dólares en una planta de licuefacción en Veracruz para aprovechar el gas natural contaminado que hoy Pemex quema o ventea y venderlo en Europa, el Carib…",
+      "link": "https://expansion.mx/empresas/2026/06/15/ursus-energy-negocio-donde-pemex-vio-problema-gas-natural",
+      "fecha": "15 Jun 2026, 13:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Incluyen mujeres migrantes en retail",
-      "resumen": "A través de Tent México, mujeres migrantes han sido incorporadas a sectores como el retail, la hospitalidad y la industria aeroportuaria.",
-      "link": "https://www.reforma.com/incluyen-mujeres-migrantes-en-retail/ar3223977",
-      "fecha": "17 Jun 2026, 05:01 hrs"
+      "titulo": "Niega Sectur baja ocupación hotelera por Mundial",
+      "resumen": "Sectur negó que exista baja ocupación hotelera en las tres ciudades sede del País e incluso aseguró se encuentra en igualdad a EU y Canadá.",
+      "link": "https://www.reforma.com/niega-sectur-baja-ocupacion-hotelera-por-mundial/ar3224499",
+      "fecha": "17 Jun 2026, 15:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven impulso en llegada de cruceros a México",
-      "resumen": "De enero a mayo de 2026, al País llegaron 5 millones 689 mil 021 cruceristas, lo que significó un crecimiento anual de 16%, reveló Semar.",
-      "link": "https://www.reforma.com/ven-impulso-en-llegada-de-cruceros-a-mexico/ar3223942",
-      "fecha": "17 Jun 2026, 05:01 hrs"
+      "titulo": "Reitera Trump que preferiría no tener T-MEC",
+      "resumen": "El Presidente Donald Trump dijo que preferiría que EU no formara parte del pacto comercial trilateral entre Estados Unidos, México y Canadá.",
+      "link": "https://www.reforma.com/reitera-trump-que-preferiria-no-tener-t-mec/ar3224500",
+      "fecha": "17 Jun 2026, 15:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuesta 225 días de salario mínimo un boleto del Mundial",
-      "resumen": "Una entrada de 4 mil dólares para el Mundial equivale a más de 225 días de salario mínimo en México y 69 días en EU, dimensionó el IMEF.",
-      "link": "https://www.reforma.com/cuesta-225-dias-de-salario-minimo-un-boleto-del-mundial/ar3223814",
-      "fecha": "16 Jun 2026, 17:02 hrs"
+      "titulo": "Prevén tarde en bajar gasolina y diesel",
+      "resumen": "Reapertura del Estrecho de Ormuz no tendrá un efecto inmediato en los precios de los combustibles en México, consideran especialistas.",
+      "link": "https://www.reforma.com/preven-tarde-en-bajar-gasolina-y-diesel/ar3224486",
+      "fecha": "17 Jun 2026, 15:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tendrá Mundial efecto moderado en la economía.-Banxico",
-      "resumen": "Impacto económico del Mundial de futbol será moderado pese a mayor dinamismo en la demanda de productos y servicios, anticipa Banxico.",
-      "link": "https://www.reforma.com/tendra-mundial-efecto-moderado-en-la-economia-banxico/ar3223728",
-      "fecha": "16 Jun 2026, 15:10 hrs"
+      "titulo": "Alertan sobre refrigerador Hisense por consumo de energía",
+      "resumen": "Profeco emite alerta sobre refrigerador marca Hisense, modelo RT90N6WKX, por incumplir NOM que regular límite máximo de consumo de energía.",
+      "link": "https://www.reforma.com/alertan-sobre-refrigerador-hisense-por-consumo-de-energia/ar3224482",
+      "fecha": "17 Jun 2026, 15:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan fortalecer aduanas México -EU",
-      "resumen": "Las Asociaciones de Agentes Aduanales de la República Mexicana sostuvieron una reunión con sus pares de EU previo a la revisión del T-MEC",
-      "link": "https://www.reforma.com/buscan-fortalecer-aduanas-mexico-eu/ar3223714",
-      "fecha": "16 Jun 2026, 14:53 hrs"
+      "titulo": "'Agüitan' marchas y plantones a ventas en restaurantes",
+      "resumen": "Movilizaciones han limitado el potencial de ventas en una de las zonas de mayor actividad turística de la capital, señaló Canirac.",
+      "link": "https://www.reforma.com/aguitan-marchas-y-plantones-a-ventas-en-restaurantes/ar3224471",
+      "fecha": "17 Jun 2026, 15:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Dow Jones en máximo histórico",
-      "resumen": "Nasdaq y S&amp;P 500 cerraron a la baja ante caída de las acciones de tecnología, mientras que el Dow Jones anotó un segundo récord consecutivo.",
-      "link": "https://www.reforma.com/cierra-dow-jones-en-maximo-historico/ar3223706",
-      "fecha": "16 Jun 2026, 14:42 hrs"
+      "titulo": "Prevé IP de gas natural invertir 7,500 mdd",
+      "resumen": "Sector privado de almacenamiento, y transportación de gas natural invertirá 7 mil 500 millones de dólares en los próximos cuatro años.",
+      "link": "https://www.reforma.com/preve-ip-de-gas-natural-invertir-7-500-mdd/ar3224436",
+      "fecha": "17 Jun 2026, 14:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presiona salario mínimo sueldos en las organizaciones",
-      "resumen": "Debido al aumento del salario mínimo, personal operativo tendrá un incremento de 6%; administrativos, 4.6% y ejecutivos, 4.5%, señaló WTW.",
-      "link": "https://www.reforma.com/presiona-salario-minimo-sueldos-en-las-organizaciones/ar3223695",
-      "fecha": "16 Jun 2026, 14:31 hrs"
+      "titulo": "Ve Volaris necesaria alianza con Viva por embates económicos",
+      "resumen": "El crear un holding aéreo con Viva representa una medida para dar solidez frente a los embates económicos, señaló Volaris.",
+      "link": "https://www.reforma.com/ve-volaris-necesaria-alianza-con-viva-por-embates-economicos/ar3224411",
+      "fecha": "17 Jun 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aboga Banxico por mantener tasa ante panorama complejo",
+      "resumen": "Subgobernador del Banxico, Gabriel Cuadra, aboga por mantener la tasa clave en su nivel de 6.5% debido al actual panorama económico.",
+      "link": "https://www.reforma.com/aboga-banxico-por-mantener-tasa-ante-panorama-complejo/ar3224397",
+      "fecha": "17 Jun 2026, 13:54 hrs"
     }
   ]
 }
