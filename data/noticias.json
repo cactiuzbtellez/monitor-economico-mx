@@ -1,7 +1,61 @@
 {
-  "actualizado": "16/06/2026 18:04 hrs",
+  "actualizado": "17/06/2026 08:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México llega a la revisión agro del T-MEC con una caída de sus exportaciones a EU",
+      "resumen": "Las compras agrícolas de Estados Unidos a México cayeron casi 10% en 2025, su primera baja en 28 años, y la debilidad persiste en 2026, con un retroceso de 6% entre enero y abril.",
+      "link": "https://expansion.mx/economia/2026/06/17/eu-compra-menos-alimentos-mexicanos",
+      "fecha": "17 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México va por ley sobre stablecoins para hablar \"el mismo idioma\" que sus socios del T-MEC",
+      "resumen": "El senador de Morena, Alejandro Murat, dijo que presentó una iniciativa de ley sobre stablecoins que imita a la regulación estadounidense que prioriza la seguridad de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/06/16/mexico-copia-ley-genius-eu-stablecoins",
+      "fecha": "16 Jun 2026, 16:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Educar a los niños para usar la IA puede elevar hasta 0.95 puntos el ingreso per cápita",
+      "resumen": "Unesco y Unicef piden construir una ruta propia de alfabetización y seguridad digital para niñas y adolescentes. La OCDE advierte que la IA solo elevará ingresos si se desarrollan habilidades.",
+      "link": "https://expansion.mx/economia/2026/06/16/ensenar-ninos-inteligencia-artificial-subir-ingreso-mexico",
+      "fecha": "16 Jun 2026, 15:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Carlos Torres Rosas llega a dirección de Nafin y Bancomext",
+      "resumen": "Hasta el 15 de junio de este año, se desempeñó como secretario técnico del Gabinete de la Presidencia de la República Mexicana.",
+      "link": "https://expansion.mx/economia/2026/06/16/carlos-torres-rosas-llega-a-direccion-de-nafin-y-bancomext",
+      "fecha": "16 Jun 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "IMEF reduce su expectativa de derrama económica por el Mundial de 0.50% a 0.15% del PIB",
+      "resumen": "La menor expectativa obedece a una ocupación hotelera por debajo a la esperada en las tres ciudades sede del Mundial.",
+      "link": "https://expansion.mx/economia/2026/06/mundial-2026-dejara-menos-dinero-mexico-imef",
+      "fecha": "16 Jun 2026, 14:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La CNBV multa a Banco del Bienestar por más de 5.5 mdp en lo que va del año",
+      "resumen": "El regulador ha impuesto 10 multas en lo que va de este 2026 por irregularidades operativos y el banco denuncia un \"daño reputacional\" en su contra.",
+      "link": "https://expansion.mx/economia/2026/06/16/cnbv-multa-banco-del-bienestar",
+      "fecha": "16 Jun 2026, 12:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -22,66 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El petróleo aún enfrenta escenarios de inestabilidad tras acuerdo entre Irán y Estados Unidos",
-      "resumen": "El acuerdo EU-Irán reduce el riesgo inflacionario por energía, pero la reserva petrolera de EU cayó a mínimos de más de 40 años.",
-      "link": "https://expansion.mx/economia/2026/06/15/precio-petroleo-en-vilo-a-pesar-acuerdo-iran-estados-unidos",
-      "fecha": "15 Jun 2026, 16:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "SAT agrega 903 empresas fantasma a su lista negra en lo que va de 2026",
-      "resumen": "Ante la ofensiva contra las factureras, contadores sugieren verificar proveedores en las listas del SAT y del DOF, además de usar herramientas contables.",
-      "link": "https://expansion.mx/economia/2026/06/15/sat-agrega-903-empresas-fantasma-lista-negra-en-2026",
-      "fecha": "15 Jun 2026, 15:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México da por vivo al T-MEC; la duda es cuánto durará la revisión",
-      "resumen": "Marcelo Ebrard reconoce que el proceso de revisión del tratado puede prolongarse debido a la cantidad de temas pendientes entre los socios.",
-      "link": "https://expansion.mx/economia/2026/06/15/mexico-da-por-vivo-t-mec-duda-cuanto-durara-revision",
-      "fecha": "15 Jun 2026, 13:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Afores crecen 20.7% y logran uno de los mayores rendimientos reales de la OCDE",
-      "resumen": "Las Afores lograron un rendimiento real de 11.1% en 2025, uno de los más altos entre los países medidos por la organización.",
-      "link": "https://expansion.mx/economia/2026/06/15/afores-mexico-se-disparan-ahorro-retiro-crece-ocde",
-      "fecha": "15 Jun 2026, 12:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México aumenta 42% sus importaciones desde Asia pese al T-MEC",
-      "resumen": "Las compras a Asia sumaron 121,054 millones de dólares hasta abril, mientras el comercio con EU y Canadá creció apenas 2.1%, de acuerdo con datos oficiales.",
-      "link": "https://expansion.mx/economia/2026/06/15/mexico-blindar-integracion-t-mec-pero-compras-asia-disparan",
-      "fecha": "15 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda mantiene en ceros el subsidio para la gasolina Premium",
-      "resumen": "Por segunda semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
-      "link": "https://expansion.mx/economia/2026/06/12/hacienda-quita-subsidios-gasolina-premium-segunda-semana",
-      "fecha": "12 Jun 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México y Corea estudian plataformas espaciales para competir con SpaceX",
+      "resumen": "El proyecto forma parte de una estrategia para desarrollar infraestructura orbital propia y reducir la dependencia de servicios de lanzamiento extranjeros en la región.",
+      "link": "https://expansion.mx/empresas/2026/06/17/mexico-se-alia-corea-construir-plataformas-espaciales",
+      "fecha": "17 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La adquisición de Minu por Betterfly muestra como la era del venture capital cede paso a las fusiones para crecer",
+      "resumen": "La operación valuada en 100 mdd refleja un cambio en el ecosistema emprendedor latinoamericano, donde las startups priorizan consolidación y expansión internacional ante un entorno más exigente para c…",
+      "link": "https://expansion.mx/empresas/2026/06/16/betterfly-compra-mexicana-minu",
+      "fecha": "16 Jun 2026, 19:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Meta, Snap o Apple? Así se comparan los precios de sus lentes de realidad aumentada",
+      "resumen": "Los lentes de realidad aumentada de Snapchat prometen superponer contenido digital en el mundo real y ofrecer hasta 20 horas de uso con su estuche de carga.",
+      "link": "https://expansion.mx/empresas/2026/06/16/meta-snap-precio-de-lentes-de-realidad-aumentada",
+      "fecha": "16 Jun 2026, 17:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,31 @@
       "fecha": "15 Jun 2026, 18:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coca-Cola busca expandir consumo de su versión Zero aprovechando el escaparate mundialista",
-      "resumen": "La multinacional utilizará las activaciones del Mundial 2026 para impulsar Coca-Cola Zero, ampliar la adopción de bebidas sin azúcar y fortalecer una estrategia que considera clave para el futuro del …",
-      "link": "https://expansion.mx/empresas/2026/06/15/coca-cola-bebidas-sin-azucar-aumentar-ventas-zero",
-      "fecha": "15 Jun 2026, 17:44 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Necesita EU continuar con T-MEC",
+      "resumen": "Con la inflación más alta de los últimos 3 años en EU, la población y sector privado pedirán continuidad del T-MEC, opinan especialistas.",
+      "link": "https://www.reforma.com/necesita-eu-continuar-con-t-mec/ar3223999",
+      "fecha": "17 Jun 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ursus Energy, la empresa mexicana que ganará con el gas que Pemex quema",
-      "resumen": "La empresa mexicana invertirá 2,100 millones de dólares en una planta de licuefacción en Veracruz para aprovechar el gas natural contaminado que hoy Pemex quema o ventea y venderlo en Europa, el Carib…",
-      "link": "https://expansion.mx/empresas/2026/06/15/ursus-energy-negocio-donde-pemex-vio-problema-gas-natural",
-      "fecha": "15 Jun 2026, 13:33 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Incluyen mujeres migrantes en retail",
+      "resumen": "A través de Tent México, mujeres migrantes han sido incorporadas a sectores como el retail, la hospitalidad y la industria aeroportuaria.",
+      "link": "https://www.reforma.com/incluyen-mujeres-migrantes-en-retail/ar3223977",
+      "fecha": "17 Jun 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fox compra a Roku por 22,000 mdd para aumentar su apuesta en el streaming",
-      "resumen": "La transacción permitirá a Fox acceder a datos de Roku y a más de 100 millones de hogares con acceso a streaming en todo el mundo, pero el acuerdo deberá ser analizado por reguladores.",
-      "link": "https://expansion.mx/empresas/2026/06/15/fox-compra-a-roku-por-22-000-mdd-para-aumentar-su-apuesta-en-el-streaming",
-      "fecha": "15 Jun 2026, 10:32 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven impulso en llegada de cruceros a México",
+      "resumen": "De enero a mayo de 2026, al País llegaron 5 millones 689 mil 021 cruceristas, lo que significó un crecimiento anual de 16%, reveló Semar.",
+      "link": "https://www.reforma.com/ven-impulso-en-llegada-de-cruceros-a-mexico/ar3223942",
+      "fecha": "17 Jun 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "Debido al aumento del salario mínimo, personal operativo tendrá un incremento de 6%; administrativos, 4.6% y ejecutivos, 4.5%, señaló WTW.",
       "link": "https://www.reforma.com/presiona-salario-minimo-sueldos-en-las-organizaciones/ar3223695",
       "fecha": "16 Jun 2026, 14:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apoyos a Pemex elevarán a 4.8% déficit fiscal en 2027.-IMEF",
-      "resumen": "Apoyos del Gobierno federal a Pemex podrían elevar el déficit fiscal a entre 4.5% y 4.8% del PIB en 2027, advierte el IMEF.",
-      "link": "https://www.reforma.com/apoyos-a-pemex-elevaran-a-4-8-deficit-fiscal-en-2027-imef/ar3223687",
-      "fecha": "16 Jun 2026, 13:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Asume Carlos Torres dirección de Nafin y Bancomext",
-      "resumen": "Carlos Torres Rosas tomó posesión como nuevo director de Nacional Financiera (Nafin) y del Banco de Comercio Exterior (Bancomext).",
-      "link": "https://www.reforma.com/asume-carlos-torres-direccion-de-nafin-y-bancomext/ar3223680",
-      "fecha": "16 Jun 2026, 13:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Usa sólo 36% de internautas la computadora para conectarse",
-      "resumen": "En la última década, la proporción de internautas en México que se conecta con computadora cayó 43.5 puntos porcentuales, a 36.2 por ciento.",
-      "link": "https://www.reforma.com/usa-solo-36-de-internautas-la-computadora-para-conectarse/ar3223642",
-      "fecha": "16 Jun 2026, 12:42 hrs"
     }
   ]
 }
