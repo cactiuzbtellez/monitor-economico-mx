@@ -1,7 +1,43 @@
 {
-  "actualizado": "18/06/2026 09:27 hrs",
+  "actualizado": "18/06/2026 15:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México cae siete lugares en el ranking de competitividad de IMB y se ubica en el puesto 62",
+      "resumen": "El país registró uno de los mayores retrocesos en la edición 2026 del World Competitiveness Ranking del IMD. Los principales rezagos se concentraron en eficiencia gubernamental e infraestructura.",
+      "link": "https://expansion.mx/economia/2026/06/18/mexico-cae-siete-lugares-ranking-competitividad-imd-2026",
+      "fecha": "18 Jun 2026, 14:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico advierte de los riesgos en el uso de IA en el sistema financiero",
+      "resumen": "El banco central señala que más endeudamiento de empresas y ciberdelitos son posibles riesgos, por lo que se requiere de una mayor participación de los reguladores.",
+      "link": "https://expansion.mx/economia/2026/06/18/banxico-advierte-de-los-riesgos-en-el-uso-de-ia-en-el-sistema-financiero",
+      "fecha": "18 Jun 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México y EU pasan de las propuestas a la letra fina del T-MEC",
+      "resumen": "El secretario de Economía, Marcelo Ebrard, destacó avances en reglas de origen, agricultura y automotriz durante la segunda ronda de conversaciones en Washington.",
+      "link": "https://expansion.mx/economia/2026/06/18/negociaciones-tmec-avanza-marcelo-ebrard-fecha-reunion",
+      "fecha": "18 Jun 2026, 12:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mexicanos deben trabajar tres y hasta seis veces más que aficionados en EU y Canadá para comprar un boleto del Mundial",
+      "resumen": "Los 310 pesos que cuesta una cerveza Michelob en el Estadio Ciudad de México equivalen a 8 horas trabajadas en México; 2.4 horas en Estados Unidos, y 1.3 horas en Canadá.",
+      "link": "https://expansion.mx/economia/2026/06/18/mexicanos-deben-trabajar-mas-eu-canada-boleto-mundial",
+      "fecha": "18 Jun 2026, 10:00 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,48 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Más allá del futbol: la economía de Senegal crece al ritmo de sus ambiciones",
-      "resumen": "Mientras Senegal enfrenta a Francia en el Mundial 2026, su economía vive uno de los mejores momentos de su historia.",
-      "link": "https://expansion.mx/economia/2026/06/17/senegal-mundial-2026-economia-cuatro-veces-mas-grande",
-      "fecha": "17 Jun 2026, 08:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México llega a la revisión agro del T-MEC con una caída de sus exportaciones a EU",
-      "resumen": "Las compras agrícolas de Estados Unidos a México cayeron casi 10% en 2025, su primera baja en 28 años, y la debilidad persiste en 2026, con un retroceso de 6% entre enero y abril.",
-      "link": "https://expansion.mx/economia/2026/06/17/eu-compra-menos-alimentos-mexicanos",
-      "fecha": "17 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México va por ley sobre stablecoins para hablar \"el mismo idioma\" que sus socios del T-MEC",
-      "resumen": "El senador de Morena, Alejandro Murat, dijo que presentó una iniciativa de ley sobre stablecoins que imita a la regulación estadounidense que prioriza la seguridad de los usuarios.",
-      "link": "https://expansion.mx/economia/2026/06/16/mexico-copia-ley-genius-eu-stablecoins",
-      "fecha": "16 Jun 2026, 16:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Educar a los niños para usar la IA puede elevar hasta 0.95 puntos el ingreso per cápita",
-      "resumen": "Unesco y Unicef piden construir una ruta propia de alfabetización y seguridad digital para niñas y adolescentes. La OCDE advierte que la IA solo elevará ingresos si se desarrollan habilidades.",
-      "link": "https://expansion.mx/economia/2026/06/16/ensenar-ninos-inteligencia-artificial-subir-ingreso-mexico",
-      "fecha": "16 Jun 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Proyectos de Sheinbaum igualan en renovables lo adjudicado en el sexenio de Peña",
+      "resumen": "La primera convocatoria de CFE y privados asignó 7,411 MW de capacidad renovable y contempla inversiones por 7,400 mdd y 1,850 MW de almacenamiento.",
+      "link": "https://expansion.mx/empresas/2026/06/18/proyectos-de-sheinbaum-igualan-en-renovables-lo-adjudicado-en-el-sexenio-de-pena",
+      "fecha": "18 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Cómo la fiebre por el skincare coreano llegó a México y transformó mercado de belleza",
+      "resumen": "Los consumidores mexicanos destinan en promedio 494 pesos a productos para el cuidado de la piel, una categoría donde marcas de K-Beauty han fortalecido su presencia en los últimos años.",
+      "link": "https://expansion.mx/empresas/2026/06/17/skincare-coreano-transforma-el-mercado-de-belleza",
+      "fecha": "17 Jun 2026, 19:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México y Corea del Sur se enfrentan en la cancha y en el mercado de las sopas instantáneas",
+      "resumen": "Más allá de la cancha, México y Corea del Sur compiten en un mercado donde el ramen y las sopas instantáneas mueven miles de millones de dólares.",
+      "link": "https://expansion.mx/empresas/2026/06/17/mexico-corea-negocio-ramen-mundial-2026",
+      "fecha": "17 Jun 2026, 17:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Adidas busca crecer más allá de sus tenis Samba y pone al running y al futbol al frente de su estrategia en México",
+      "resumen": "La marca alemana busca reforzar su negocio de performance en el país apoyada en el crecimiento del futbol y el running, dos de las categorías con mayor potencial de expansión.",
+      "link": "https://expansion.mx/empresas/2026/06/17/adidas-no-define-tendencias-pero-si-aprovecha-apuesta",
+      "fecha": "17 Jun 2026, 17:22 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,112 +147,76 @@
       "fecha": "16 Jun 2026, 19:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Meta, Snap o Apple? Así se comparan los precios de sus lentes de realidad aumentada",
-      "resumen": "Los lentes de realidad aumentada de Snapchat prometen superponer contenido digital en el mundo real y ofrecer hasta 20 horas de uso con su estuche de carga.",
-      "link": "https://expansion.mx/empresas/2026/06/16/meta-snap-precio-de-lentes-de-realidad-aumentada",
-      "fecha": "16 Jun 2026, 17:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Prime Video nombra a Camila Misas como directora de contenidos para fortalecer su estrategia en México",
-      "resumen": "Con la llegada de Misas, la plataforma busca ampliar su presencia en el país con mayores producciones que reflejen la diversidad cultural mexicana más allá de la Ciudad de México.",
-      "link": "https://expansion.mx/empresas/2026/06/16/amazon-prime-video-nombra-camila-misas-directora-contenidos",
-      "fecha": "16 Jun 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Shein podría perder su primera tienda física en el mundo; estas son las razones",
-      "resumen": "La primera tienda permanente de Shein, abierta en París, podría cerrar antes de Navidad tras una polémica que provocó críticas de marcas de lujo, comerciantes y reguladores franceses.",
-      "link": "https://expansion.mx/empresas/2026/06/16/shein-podria-perder-su-primera-tienda-fisica",
-      "fecha": "16 Jun 2026, 08:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Airbus apuesta por México y aumenta en 40% sus operaciones en Querétaro",
-      "resumen": "El fabricante europeo ampliará su complejo en Querétaro para producir nuevas piezas aeronáuticas, mientras fortalece una red local de proveedores para enfrentar las disrupciones en la cadena de sumini…",
-      "link": "https://expansion.mx/empresas/2026/06/15/airbus-apuesta-por-mexico-y-aumenta-operaciones-en-queretaro",
-      "fecha": "15 Jun 2026, 19:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae México 7 lugares en ranking de Competitividad",
+      "resumen": "México cayó al sitio 62, de 70, en Ranking Global de Competitividad 2026 del IMD, una baja de siete lugares respecto al año pasado.",
+      "link": "https://www.reforma.com/cae-mexico-7-lugares-en-ranking-de-competitividad/ar3225113",
+      "fecha": "18 Jun 2026, 13:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube dólar ante posible alza de tasas en EU",
-      "resumen": "El dólar extiende racha alcista ante la apuesta de los operadores a que la Fed comenzará a subir las tasas de interés a finales de julio.",
-      "link": "https://www.reforma.com/sube-dolar-ante-posible-alza-de-tasas-en-eu/ar3224954",
-      "fecha": "18 Jun 2026, 09:25 hrs"
+      "titulo": "Tendrán pasajeros del AICM internet gratuito",
+      "resumen": "El AICM informó que ya cuenta con una nueva red de internet con Wi-Fi 7 gratuito, seguro y de acceso universal.",
+      "link": "https://www.reforma.com/tendran-pasajeros-del-aicm-internet-gratuito/ar3225065",
+      "fecha": "18 Jun 2026, 12:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen precios de gasolina abajo de 4 dólares en EU",
-      "resumen": "Los precios de la gasolina en Estados Unidos cayeron por debajo de los 4 dólares por galón por primera vez desde marzo.",
-      "link": "https://www.reforma.com/caen-precios-de-gasolina-abajo-de-4-dolares-en-eu/ar3224950",
-      "fecha": "18 Jun 2026, 09:18 hrs"
+      "titulo": "BBVA recorta de 1.8% a 1.2% pronóstico de PIB para 2026",
+      "resumen": "BBVA México recortó de 1.8 a 1.2 por ciento su pronóstico de crecimiento económico para 2026 al vislumbrar menor inversión.",
+      "link": "https://www.reforma.com/bbva-recorta-de-1-8-a-1-2-pronostico-de-pib-para-2026/ar3225063",
+      "fecha": "18 Jun 2026, 12:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Investiga EU a bancos por transacciones con líder iraní",
-      "resumen": "EU investiga cómo el líder supremo de Irán, Mojtaba Jamenei, creó una cartera de inversiones global con exposición a bancos de Wall Street.",
-      "link": "https://www.reforma.com/investiga-eu-a-bancos-por-transacciones-con-lider-irani/ar3224941",
-      "fecha": "18 Jun 2026, 09:09 hrs"
+      "titulo": "Buscan en EU zonas francas sin aranceles en T-MEC",
+      "resumen": "Senadores de Alabama y Carolina del Sur buscan que productos fabricados en Zonas Francas se exporten sin aranceles a México y Canadá.",
+      "link": "https://www.reforma.com/buscan-en-eu-zonas-francas-sin-aranceles-en-t-mec/ar3225036",
+      "fecha": "18 Jun 2026, 12:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajaría Brent a Dls. 82 con reapertura total de Ormuz",
-      "resumen": "BofA indicó que reapertura del Estrecho de Ormuz podría hacer que precios del Brent se sitúen en 82 dólares por barril este año.",
-      "link": "https://www.reforma.com/bajaria-brent-a-dls-82-con-reapertura-total-de-ormuz/ar3224934",
-      "fecha": "18 Jun 2026, 09:00 hrs"
+      "titulo": "Esperan ventas por 1,110 mdp por el Día del Padre",
+      "resumen": "La Canaco Monterrey prevé ventas por mil 110 millones de pesos por el Día del Padre.",
+      "link": "https://www.reforma.com/esperan-ventas-por-1-110-mdp-por-el-dia-del-padre/ar3225011",
+      "fecha": "18 Jun 2026, 12:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se aferra OPEP a previsiones de sólida demanda petrolera",
-      "resumen": "La OPEP mantuvo el jueves su previsión de un sólido crecimiento de la demanda mundial de petróleo para los próximos cuatro años.",
-      "link": "https://www.reforma.com/se-aferra-opep-a-previsiones-de-solida-demanda-petrolera/ar3224933",
-      "fecha": "18 Jun 2026, 09:00 hrs"
+      "titulo": "Arrancará, ahora sí, revisión de T-MEC en julio.- SE",
+      "resumen": "El primero de julio es la fecha prácticamente para marcar el inicio de la revisión formal del T-MEC, según la Secretaría de Economía.",
+      "link": "https://www.reforma.com/arrancara-ahora-si-revision-de-t-mec-en-julio-se/ar3225006",
+      "fecha": "18 Jun 2026, 11:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abre Wall Street al alza y se recupera después de la Fed",
-      "resumen": "La Bolsa de Nueva York abrió al alza, un rebote tras las caídas registradas la víspera por la mención de la Fed.",
-      "link": "https://www.reforma.com/abre-wall-street-al-alza-y-se-recupera-despues-de-la-fed/ar3224918",
-      "fecha": "18 Jun 2026, 08:52 hrs"
+      "titulo": "Tramita Profeco 36 quejas contra Vix",
+      "resumen": "La Profeco recibió 36 correos de clientes afectados por las fallas presentadas por Vix, plataforma autorizada para transmitir el Mundial.",
+      "link": "https://www.reforma.com/tramita-profeco-36-quejas-contra-vix/ar3224995",
+      "fecha": "18 Jun 2026, 10:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven más vulnerables a pymes en T-MEC",
-      "resumen": "las pymes representan el eslabón más débil en temas de cumplimiento, describió un documento de Prodensa",
-      "link": "https://www.reforma.com/ven-mas-vulnerables-a-pymes-en-t-mec/ar3224802",
-      "fecha": "18 Jun 2026, 08:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Destaca NL en seguros para viviendas",
-      "resumen": "Nuevo León se ubicó como la entidad con el mayor porcentaje de aseguramiento en viviendas.",
-      "link": "https://www.reforma.com/destaca-nl-en-seguros-para-viviendas/ar3224799",
-      "fecha": "18 Jun 2026, 08:52 hrs"
+      "titulo": "Modera tasa de crecimiento demanda a 0.32%",
+      "resumen": "La demanda global de bienes y servicios en el País observó un aumento de 0.32 por ciento trimestral en el primer trimestre.",
+      "link": "https://www.reforma.com/modera-tasa-de-crecimiento-demanda-a-0-32/ar3224994",
+      "fecha": "18 Jun 2026, 10:48 hrs"
     }
   ]
 }
