@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/06/2026 06:37 hrs",
+  "actualizado": "19/06/2026 13:16 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El petróleo cayó 33%, pero la gasolina no bajará al mismo ritmo",
+      "resumen": "El acuerdo entre Irán y EU alivió la presión sobre el crudo, pero el IEPS, las importaciones y otros costos retrasan el efecto en los consumidores.",
+      "link": "https://expansion.mx/economia/2026/06/19/la-paz-iraneu-tardara-reflejarse-bolsillos-gasolina-cara",
+      "fecha": "19 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Mundial da un respiro a la economía en abril, pero mayo apunta al estancamiento",
-      "resumen": "El torneo impulsó la actividad económica en abril, con un avance mensual de 1.0%, y también empujó el consumo privado, que creció 0.4%; pero Inegi anticipa que ambos indicadores se estancaron en mayo.",
-      "link": "https://expansion.mx/economia/2026/06/17/mundial-futbol-respiro-economia-mexico-abril-inegi",
-      "fecha": "17 Jun 2026, 12:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
       "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
       "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
       "fecha": "22 Jun 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "ViX y Prime Video evalúan compensaciones a usuarios por fallas en transmisiones del Mundial",
+      "resumen": "Tras las interrupciones registradas en el partido Colombia contra Uzbekistán, Profeco aseguró que las empresas analizan mecanismos de compensación para los usuarios afectados.",
+      "link": "https://expansion.mx/empresas/2026/06/18/vix-y-prime-video-evaluan-compensaciones-a-usuarios-por-fallas-en-el-mundial",
+      "fecha": "18 Jun 2026, 21:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es Jorge Campos fuera del futbol? Los negocios del invitado especial de Infantino",
+      "resumen": "Invitado por Gianni Infantino al palco del México vs Corea del Sur, el exportero mexicano convirtió su popularidad en una marca personal que hoy genera ingresos.",
+      "link": "https://expansion.mx/empresas/2026/06/18/jorge-campos-es-empresario-negocios",
+      "fecha": "18 Jun 2026, 20:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La clientela de Bisquets Obregón no es tan mayor como parece y la cadena quiere demostrarlo",
+      "resumen": "La cadena asegura que su consumidor principal tiene entre 35 y 50 años, un hallazgo que impulsa la renovación de sus restaurantes.",
+      "link": "https://expansion.mx/empresas/2026/06/18/bisquets-obregon-estrategia-competir-vips-y-sanborns",
+      "fecha": "18 Jun 2026, 17:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,67 @@
       "fecha": "18 Jun 2026, 11:35 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Proyectos de Sheinbaum igualan en renovables lo adjudicado en el sexenio de Peña",
-      "resumen": "La primera convocatoria de CFE y privados asignó 7,411 MW de capacidad renovable y contempla inversiones por 7,400 mdd y 1,850 MW de almacenamiento.",
-      "link": "https://expansion.mx/empresas/2026/06/18/proyectos-de-sheinbaum-igualan-en-renovables-lo-adjudicado-en-el-sexenio-de-pena",
-      "fecha": "18 Jun 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aplica Warsh enfoque minimalista de la Fed a mundo complejo",
+      "resumen": "El presidente de la Fed dejó rápidamente su huella en el cargo, en una primera reunión que supuso el regreso a un modelo simplificado.",
+      "link": "https://www.reforma.com/aplica-warsh-enfoque-minimalista-de-la-fed-a-mundo-complejo/ar3225753",
+      "fecha": "19 Jun 2026, 13:07 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cómo la fiebre por el skincare coreano llegó a México y transformó el mercado de la belleza",
-      "resumen": "Los consumidores mexicanos destinan en promedio 494 pesos a productos para el cuidado de la piel, una categoría donde marcas de K-Beauty han fortalecido su presencia en los últimos años.",
-      "link": "https://expansion.mx/empresas/2026/06/17/skincare-coreano-transforma-el-mercado-de-belleza",
-      "fecha": "17 Jun 2026, 19:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alistan banqueros de SpaceX venta de bonos por 20 mmdd",
+      "resumen": "Bancos que trabajan con SpaceX se preparan para realizar llamadas con inversionistas para discutir una posible emisión de bonos.",
+      "link": "https://www.reforma.com/alistan-banqueros-de-spacex-venta-de-bonos-por-20-mmdd/ar3225744",
+      "fecha": "19 Jun 2026, 12:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México y Corea del Sur se enfrentan en la cancha y en el mercado de las sopas instantáneas",
-      "resumen": "Más allá de la cancha, México y Corea del Sur compiten en un mercado donde el ramen y las sopas instantáneas mueven miles de millones de dólares.",
-      "link": "https://expansion.mx/empresas/2026/06/17/mexico-corea-negocio-ramen-mundial-2026",
-      "fecha": "17 Jun 2026, 17:40 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Atraen a 54 millones de telespectadores partidos inaugurales",
+      "resumen": "Las audiencias televisivas de los partidos inaugurales superaron los 54 millones de espectadores en la región Norteamérica, dijo la FIFA.",
+      "link": "https://www.reforma.com/atraen-a-54-millones-de-telespectadores-partidos-inaugurales/ar3225720",
+      "fecha": "19 Jun 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae BMV por tercera jornada; atenta a Medio Oriente",
+      "resumen": "La BMV descendía el viernes por tercera jornada consecutiva, mientras los inversionistas evaluaban el panorama en Medio Oriente.",
+      "link": "https://www.reforma.com/cae-bmv-por-tercera-jornada-atenta-a-medio-oriente/ar3225628",
+      "fecha": "19 Jun 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tumba Gobierno competitividad",
+      "resumen": "Afectado principalmente por el deterioro en la evaluación de la Eficiencia del Gobierno, México se fue a la cola en competitividad.",
+      "link": "https://www.reforma.com/tumba-gobierno-competitividad/ar3225493",
+      "fecha": "19 Jun 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ve OCDE desperdicio hídrico",
+      "resumen": "Advierte OCDE que Gobierno de México incentiva desperdicio de agua en el campo con subsidios para electricidad de equipos de bombeo de riego",
+      "link": "https://www.reforma.com/ve-ocde-desperdicio-hidrico/ar3225458",
+      "fecha": "19 Jun 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja 7% en NL venta de autos",
+      "resumen": "En mayo, la venta de autos nuevos en NL (sin contar las marcas chinas) fue por 10,684 unidades, menor en 7.1% a las del mismo mes de 2025.",
+      "link": "https://www.reforma.com/baja-7-en-nl-venta-de-autos/ar3225453",
+      "fecha": "19 Jun 2026, 12:30 hrs"
     },
     {
       "fuente": "Reforma",
@@ -154,69 +217,6 @@
       "resumen": "IMCO propuso una licencia de paternidad de cinco días financiada por seguridad social, que tendrá un costo de mil 658 millones de pesos.",
       "link": "https://www.reforma.com/proponen-licencia-de-paternidad-financiada/ar3225446",
       "fecha": "19 Jun 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Eligen consumir en casa en Mundial",
-      "resumen": "La mayor parte de los aficionados mexicanos seguirá el Mundial de futbol lejos de los estadios y más cerca de la sala y mesa de su casa.",
-      "link": "https://www.reforma.com/eligen-consumir-en-casa-en-mundial/ar3225456",
-      "fecha": "19 Jun 2026, 04:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven pacto complicado por los sectores críticos",
-      "resumen": "Ante negociaciones finales previas a T-MEC, Moody's Ratings ve complicado alcanzar acuerdos en sectores como automotriz, acero y energía.",
-      "link": "https://www.reforma.com/ven-pacto-complicado-por-los-sectores-criticos/ar3225469",
-      "fecha": "19 Jun 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevé IP 5 mil mdd en proyectos eólicos",
-      "resumen": "Iniciativa privada prevé entre 14 y 15 proyectos de energía eólica que requerirán una inversión por alrededor de 5 mil millones de dólares.",
-      "link": "https://www.reforma.com/preve-ip-5-mil-mdd-en-proyectos-eolicos/ar3225473",
-      "fecha": "19 Jun 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden empresas perfiles con habilidades de IA",
-      "resumen": "La demanda de perfiles con habilidades de IA se ha incrementado en México de manera significativa, reveló PwC.",
-      "link": "https://www.reforma.com/piden-empresas-perfiles-con-habilidades-de-ia/ar3225484",
-      "fecha": "19 Jun 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ajustan empresas jornadas y horarios por el Mundial",
-      "resumen": "Empresas del sector no manufacturero implementó estrategias y medidas como mayores horarios e inventarios por la realización del Mundial.",
-      "link": "https://www.reforma.com/ajustan-empresas-jornadas-y-horarios-por-el-mundial/ar3225490",
-      "fecha": "19 Jun 2026, 04:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se activa 'bomba de tiempo' para finanzas públicas.-BBVA",
-      "resumen": "México tiene tres años para tomar las riendas de las finanzas públicas y evitar que el País pierda el grado de inversión, advierte BBVA.",
-      "link": "https://www.reforma.com/se-activa-bomba-de-tiempo-para-finanzas-publicas-bbva/ar3225205",
-      "fecha": "18 Jun 2026, 16:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae México 7 lugares en ranking de Competitividad",
-      "resumen": "México cayó al sitio 62, de 70, en Ranking Global de Competitividad 2026 del IMD, una baja de siete lugares respecto al año pasado.",
-      "link": "https://www.reforma.com/cae-mexico-7-lugares-en-ranking-de-competitividad/ar3225113",
-      "fecha": "18 Jun 2026, 13:49 hrs"
     }
   ]
 }
