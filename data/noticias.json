@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/06/2026 15:30 hrs",
+  "actualizado": "19/06/2026 06:37 hrs",
   "total": 24,
   "noticias": [
     {
@@ -87,6 +87,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Calor extremo y Mundial empujan a México hacia un nuevo récord de consumo eléctrico de 49,000 MW",
+      "resumen": "Los picos de consumo asociados al calor y al torneo internacional evidencian la necesidad de acelerar inversiones en generación, transmisión y distribución eléctrica.",
+      "link": "https://expansion.mx/empresas/2026/06/18/mexico-acerca-limite-historico-consumo-de-luz",
+      "fecha": "18 Jun 2026, 14:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El estadio de 5,500 millones de dólares donde Suecia y Bosnia se juegan más que tres puntos",
+      "resumen": "Restricciones aéreas, ingeniería subterránea y un megaproyecto inmobiliario elevaron el presupuesto del estadio más caro del planeta, escenario de uno de los partidos del Mundial 2026.",
+      "link": "https://expansion.mx/empresas/2026/06/18/sofi-stadium-estadio-mas-caro-dueno",
+      "fecha": "18 Jun 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las fallas de ViX durante las transmisiones del Mundial generan 36 quejas ante Profeco",
+      "resumen": "La streaming de TelevisaUnivision volvió a registrar fallas en el partido de Colombia vs  Uzbekistán, por lo que Profeco recibió quejas y contactó a la empresa para saber las causas de las fallas.",
+      "link": "https://expansion.mx/empresas/2026/06/18/profeco-vix-fallas-transmision-mundial-2026",
+      "fecha": "18 Jun 2026, 12:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México vs. Corea del Sur: Las marcas surcoreanas reinas en el mercado automotriz mexicano",
+      "resumen": "Ventas, exportaciones e ingresos muestran dos realidades distintas para las armadoras coreanas en México.",
+      "link": "https://expansion.mx/empresas/2026/06/18/corea-del-sur-kia-hyundai-venta-de-autos-mexico",
+      "fecha": "18 Jun 2026, 11:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Proyectos de Sheinbaum igualan en renovables lo adjudicado en el sexenio de Peña",
       "resumen": "La primera convocatoria de CFE y privados asignó 7,411 MW de capacidad renovable y contempla inversiones por 7,400 mdd y 1,850 MW de almacenamiento.",
       "link": "https://expansion.mx/empresas/2026/06/18/proyectos-de-sheinbaum-igualan-en-renovables-lo-adjudicado-en-el-sexenio-de-pena",
@@ -96,7 +132,7 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cómo la fiebre por el skincare coreano llegó a México y transformó mercado de belleza",
+      "titulo": "Cómo la fiebre por el skincare coreano llegó a México y transformó el mercado de la belleza",
       "resumen": "Los consumidores mexicanos destinan en promedio 494 pesos a productos para el cuidado de la piel, una categoría donde marcas de K-Beauty han fortalecido su presencia en los últimos años.",
       "link": "https://expansion.mx/empresas/2026/06/17/skincare-coreano-transforma-el-mercado-de-belleza",
       "fecha": "17 Jun 2026, 19:59 hrs"
@@ -111,40 +147,67 @@
       "fecha": "17 Jun 2026, 17:40 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Adidas busca crecer más allá de sus tenis Samba y pone al running y al futbol al frente de su estrategia en México",
-      "resumen": "La marca alemana busca reforzar su negocio de performance en el país apoyada en el crecimiento del futbol y el running, dos de las categorías con mayor potencial de expansión.",
-      "link": "https://expansion.mx/empresas/2026/06/17/adidas-no-define-tendencias-pero-si-aprovecha-apuesta",
-      "fecha": "17 Jun 2026, 17:22 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Proponen licencia de paternidad financiada",
+      "resumen": "IMCO propuso una licencia de paternidad de cinco días financiada por seguridad social, que tendrá un costo de mil 658 millones de pesos.",
+      "link": "https://www.reforma.com/proponen-licencia-de-paternidad-financiada/ar3225446",
+      "fecha": "19 Jun 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
-      "resumen": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olinia.",
-      "link": "https://expansion.mx/empresas/2026/06/17/cuanto-cuesta-la-bateria-para-auto-electrico",
-      "fecha": "17 Jun 2026, 11:46 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Eligen consumir en casa en Mundial",
+      "resumen": "La mayor parte de los aficionados mexicanos seguirá el Mundial de futbol lejos de los estadios y más cerca de la sala y mesa de su casa.",
+      "link": "https://www.reforma.com/eligen-consumir-en-casa-en-mundial/ar3225456",
+      "fecha": "19 Jun 2026, 04:57 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México y Corea estudian plataformas espaciales para competir con SpaceX",
-      "resumen": "El proyecto forma parte de una estrategia para desarrollar infraestructura orbital propia y reducir la dependencia de servicios de lanzamiento extranjeros en la región.",
-      "link": "https://expansion.mx/empresas/2026/06/17/mexico-se-alia-corea-construir-plataformas-espaciales",
-      "fecha": "17 Jun 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven pacto complicado por los sectores críticos",
+      "resumen": "Ante negociaciones finales previas a T-MEC, Moody's Ratings ve complicado alcanzar acuerdos en sectores como automotriz, acero y energía.",
+      "link": "https://www.reforma.com/ven-pacto-complicado-por-los-sectores-criticos/ar3225469",
+      "fecha": "19 Jun 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La adquisición de Minu por Betterfly muestra como la era del venture capital cede paso a las fusiones para crecer",
-      "resumen": "La operación valuada en 100 mdd refleja un cambio en el ecosistema emprendedor latinoamericano, donde las startups priorizan consolidación y expansión internacional ante un entorno más exigente para c…",
-      "link": "https://expansion.mx/empresas/2026/06/16/betterfly-compra-mexicana-minu",
-      "fecha": "16 Jun 2026, 19:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé IP 5 mil mdd en proyectos eólicos",
+      "resumen": "Iniciativa privada prevé entre 14 y 15 proyectos de energía eólica que requerirán una inversión por alrededor de 5 mil millones de dólares.",
+      "link": "https://www.reforma.com/preve-ip-5-mil-mdd-en-proyectos-eolicos/ar3225473",
+      "fecha": "19 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden empresas perfiles con habilidades de IA",
+      "resumen": "La demanda de perfiles con habilidades de IA se ha incrementado en México de manera significativa, reveló PwC.",
+      "link": "https://www.reforma.com/piden-empresas-perfiles-con-habilidades-de-ia/ar3225484",
+      "fecha": "19 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ajustan empresas jornadas y horarios por el Mundial",
+      "resumen": "Empresas del sector no manufacturero implementó estrategias y medidas como mayores horarios e inventarios por la realización del Mundial.",
+      "link": "https://www.reforma.com/ajustan-empresas-jornadas-y-horarios-por-el-mundial/ar3225490",
+      "fecha": "19 Jun 2026, 04:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se activa 'bomba de tiempo' para finanzas públicas.-BBVA",
+      "resumen": "México tiene tres años para tomar las riendas de las finanzas públicas y evitar que el País pierda el grado de inversión, advierte BBVA.",
+      "link": "https://www.reforma.com/se-activa-bomba-de-tiempo-para-finanzas-publicas-bbva/ar3225205",
+      "fecha": "18 Jun 2026, 16:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -154,69 +217,6 @@
       "resumen": "México cayó al sitio 62, de 70, en Ranking Global de Competitividad 2026 del IMD, una baja de siete lugares respecto al año pasado.",
       "link": "https://www.reforma.com/cae-mexico-7-lugares-en-ranking-de-competitividad/ar3225113",
       "fecha": "18 Jun 2026, 13:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tendrán pasajeros del AICM internet gratuito",
-      "resumen": "El AICM informó que ya cuenta con una nueva red de internet con Wi-Fi 7 gratuito, seguro y de acceso universal.",
-      "link": "https://www.reforma.com/tendran-pasajeros-del-aicm-internet-gratuito/ar3225065",
-      "fecha": "18 Jun 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "BBVA recorta de 1.8% a 1.2% pronóstico de PIB para 2026",
-      "resumen": "BBVA México recortó de 1.8 a 1.2 por ciento su pronóstico de crecimiento económico para 2026 al vislumbrar menor inversión.",
-      "link": "https://www.reforma.com/bbva-recorta-de-1-8-a-1-2-pronostico-de-pib-para-2026/ar3225063",
-      "fecha": "18 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan en EU zonas francas sin aranceles en T-MEC",
-      "resumen": "Senadores de Alabama y Carolina del Sur buscan que productos fabricados en Zonas Francas se exporten sin aranceles a México y Canadá.",
-      "link": "https://www.reforma.com/buscan-en-eu-zonas-francas-sin-aranceles-en-t-mec/ar3225036",
-      "fecha": "18 Jun 2026, 12:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Esperan ventas por 1,110 mdp por el Día del Padre",
-      "resumen": "La Canaco Monterrey prevé ventas por mil 110 millones de pesos por el Día del Padre.",
-      "link": "https://www.reforma.com/esperan-ventas-por-1-110-mdp-por-el-dia-del-padre/ar3225011",
-      "fecha": "18 Jun 2026, 12:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Arrancará, ahora sí, revisión de T-MEC en julio.- SE",
-      "resumen": "El primero de julio es la fecha prácticamente para marcar el inicio de la revisión formal del T-MEC, según la Secretaría de Economía.",
-      "link": "https://www.reforma.com/arrancara-ahora-si-revision-de-t-mec-en-julio-se/ar3225006",
-      "fecha": "18 Jun 2026, 11:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tramita Profeco 36 quejas contra Vix",
-      "resumen": "La Profeco recibió 36 correos de clientes afectados por las fallas presentadas por Vix, plataforma autorizada para transmitir el Mundial.",
-      "link": "https://www.reforma.com/tramita-profeco-36-quejas-contra-vix/ar3224995",
-      "fecha": "18 Jun 2026, 10:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Modera tasa de crecimiento demanda a 0.32%",
-      "resumen": "La demanda global de bienes y servicios en el País observó un aumento de 0.32 por ciento trimestral en el primer trimestre.",
-      "link": "https://www.reforma.com/modera-tasa-de-crecimiento-demanda-a-0-32/ar3224994",
-      "fecha": "18 Jun 2026, 10:48 hrs"
     }
   ]
 }
