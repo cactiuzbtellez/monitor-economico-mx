@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/06/2026 13:16 hrs",
+  "actualizado": "19/06/2026 17:53 hrs",
   "total": 24,
   "noticias": [
     {
@@ -87,6 +87,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La reapertura de Ormuz inicia una compleja reconstrucción del comercio petrolero mundial",
+      "resumen": "El fin del bloqueo devuelve oferta al mercado, pero expertos prevén ajustes logísticos y volatilidad antes de recuperar los flujos previos al conflicto.",
+      "link": "https://expansion.mx/empresas/2026/06/19/reapertura-ormuz-mercado-petrolero-volatilidad-oferta-global",
+      "fecha": "19 Jun 2026, 17:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Adidas vende más camisetas del Tri que de la selección de Alemania",
+      "resumen": "A casi dos décadas de alianza, el uniforme del Tri lidera las ventas globales de selecciones para la compañía y consolida a México como uno de sus mercados más estratégicos.",
+      "link": "https://expansion.mx/empresas/2026/06/19/mexico-mas-rentable-adidas-que-alemania-espana-playeras",
+      "fecha": "19 Jun 2026, 14:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fabricantes de plástico ven en el T-MEC una oportunidad para frenar la competencia de productos chinos",
+      "resumen": "La industria depende de Estados Unidos para abastecer 57% de sus materias primas y advierte que la revisión del T-MEC debe reforzar las reglas de origen y cerrar vacíos que facilitan la entrada de pro…",
+      "link": "https://expansion.mx/empresas/2026/06/19/industria-del-plastico-mexico-tmec-blindarse-china",
+      "fecha": "19 Jun 2026, 12:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen apuesta por un Amarok con motor V6 para desafiar a Toyota Tacoma y Ford Ranger Raptor",
+      "resumen": "La nueva motorización turbodiésel de seis cilindros llegará en tres versiones y la marca prevé que aporte hasta 60% de las ventas del modelo hacia finales de año.",
+      "link": "https://expansion.mx/empresas/2026/06/19/volkswagen-amarok-v6-diesel-precio-versiones-mexico-2026",
+      "fecha": "19 Jun 2026, 09:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "ViX y Prime Video evalúan compensaciones a usuarios por fallas en transmisiones del Mundial",
       "resumen": "Tras las interrupciones registradas en el partido Colombia contra Uzbekistán, Profeco aseguró que las empresas analizan mecanismos de compensación para los usuarios afectados.",
       "link": "https://expansion.mx/empresas/2026/06/18/vix-y-prime-video-evaluan-compensaciones-a-usuarios-por-fallas-en-el-mundial",
@@ -111,40 +147,22 @@
       "fecha": "18 Jun 2026, 17:44 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Calor extremo y Mundial empujan a México hacia un nuevo récord de consumo eléctrico de 49,000 MW",
-      "resumen": "Los picos de consumo asociados al calor y al torneo internacional evidencian la necesidad de acelerar inversiones en generación, transmisión y distribución eléctrica.",
-      "link": "https://expansion.mx/empresas/2026/06/18/mexico-acerca-limite-historico-consumo-de-luz",
-      "fecha": "18 Jun 2026, 14:46 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se deprecia peso 0.59% en la semana",
+      "resumen": "El dólar cerró este viernes con una cotización de $17.34; sin embargo su depreciación semanal fue de apenas 0.59%.",
+      "link": "https://www.reforma.com/se-deprecia-peso-0-59-en-la-semana/ar3225879",
+      "fecha": "19 Jun 2026, 17:43 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El estadio de 5,500 millones de dólares donde Suecia y Bosnia se juegan más que tres puntos",
-      "resumen": "Restricciones aéreas, ingeniería subterránea y un megaproyecto inmobiliario elevaron el presupuesto del estadio más caro del planeta, escenario de uno de los partidos del Mundial 2026.",
-      "link": "https://expansion.mx/empresas/2026/06/18/sofi-stadium-estadio-mas-caro-dueno",
-      "fecha": "18 Jun 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las fallas de ViX durante las transmisiones del Mundial generan 36 quejas ante Profeco",
-      "resumen": "La streaming de TelevisaUnivision volvió a registrar fallas en el partido de Colombia vs  Uzbekistán, por lo que Profeco recibió quejas y contactó a la empresa para saber las causas de las fallas.",
-      "link": "https://expansion.mx/empresas/2026/06/18/profeco-vix-fallas-transmision-mundial-2026",
-      "fecha": "18 Jun 2026, 12:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México vs. Corea del Sur: Las marcas surcoreanas reinas en el mercado automotriz mexicano",
-      "resumen": "Ventas, exportaciones e ingresos muestran dos realidades distintas para las armadoras coreanas en México.",
-      "link": "https://expansion.mx/empresas/2026/06/18/corea-del-sur-kia-hyundai-venta-de-autos-mexico",
-      "fecha": "18 Jun 2026, 11:35 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Sener endurecer custodia de material nuclear",
+      "resumen": "Sener alista una nueva norma para endurecer los requisitos de custodia, vigilancia y protección al transporte de material nuclear.",
+      "link": "https://www.reforma.com/busca-sener-endurecer-custodia-de-material-nuclear/ar3225827",
+      "fecha": "19 Jun 2026, 15:42 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Advierte OCDE que Gobierno de México incentiva desperdicio de agua en el campo con subsidios para electricidad de equipos de bombeo de riego",
       "link": "https://www.reforma.com/ve-ocde-desperdicio-hidrico/ar3225458",
       "fecha": "19 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Baja 7% en NL venta de autos",
-      "resumen": "En mayo, la venta de autos nuevos en NL (sin contar las marcas chinas) fue por 10,684 unidades, menor en 7.1% a las del mismo mes de 2025.",
-      "link": "https://www.reforma.com/baja-7-en-nl-venta-de-autos/ar3225453",
-      "fecha": "19 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Proponen licencia de paternidad financiada",
-      "resumen": "IMCO propuso una licencia de paternidad de cinco días financiada por seguridad social, que tendrá un costo de mil 658 millones de pesos.",
-      "link": "https://www.reforma.com/proponen-licencia-de-paternidad-financiada/ar3225446",
-      "fecha": "19 Jun 2026, 05:01 hrs"
     }
   ]
 }
