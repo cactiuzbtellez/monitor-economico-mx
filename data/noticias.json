@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/06/2026 04:20 hrs",
+  "actualizado": "20/06/2026 10:06 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Prevén que siga carestía en campo",
+      "resumen": "El abaratamiento de los fertilizantes por posible fin de la guerra no calmará los altos costos de producción agrícola, advierten expertos.",
+      "link": "https://www.reforma.com/preven-que-siga-carestia-en-campo/ar3225848",
+      "fecha": "20 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Vienen en el 2027 tiendas inteligentes",
+      "resumen": "Tiendas departamentales mexicanas iniciaron el proceso de etiquetado de productos que sustituirá al código de barras.",
+      "link": "https://www.reforma.com/vienen-en-el-2027-tiendas-inteligentes/ar3225997",
+      "fecha": "20 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén caída de 15% en ventas de smartphones",
+      "resumen": "Se espera que los envíos mundiales de smartphones disminuyan 15% en 2026, ya que alza de los precios de chips de memoria eleva sus costos.",
+      "link": "https://www.reforma.com/preven-caida-de-15-en-ventas-de-smartphones/ar3225836",
+      "fecha": "20 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Evaden estudiantes por IA carreras de programación",
+      "resumen": "Estudiantes universitarios en EU evitar las carreras más expuestas a la IA y se inclinan a campos con mayor empleo, como el sector salud.",
+      "link": "https://www.reforma.com/evaden-estudiantes-por-ia-carreras-de-programacion/ar3225838",
+      "fecha": "20 Jun 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Reducen subsidio al diesel por cuarta semana seguida",
       "resumen": "Por cuarta semana consecutiva, la Secretaría de Hacienda decidió disminuir el estímulo fiscal que aplica al IEPS de diesel",
       "link": "https://www.reforma.com/reducen-subsidio-al-diesel-por-cuarta-semana-seguida/ar3225975",
@@ -181,42 +217,6 @@
       "resumen": "Sener alista una nueva norma para endurecer los requisitos de custodia, vigilancia y protección al transporte de material nuclear.",
       "link": "https://www.reforma.com/busca-sener-endurecer-custodia-de-material-nuclear/ar3225827",
       "fecha": "19 Jun 2026, 15:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aplica Warsh enfoque minimalista de la Fed a mundo complejo",
-      "resumen": "El presidente de la Fed dejó rápidamente su huella en el cargo, en una primera reunión que supuso el regreso a un modelo simplificado.",
-      "link": "https://www.reforma.com/aplica-warsh-enfoque-minimalista-de-la-fed-a-mundo-complejo/ar3225753",
-      "fecha": "19 Jun 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alistan banqueros de SpaceX venta de bonos por 20 mmdd",
-      "resumen": "Bancos que trabajan con SpaceX se preparan para realizar llamadas con inversionistas para discutir una posible emisión de bonos.",
-      "link": "https://www.reforma.com/alistan-banqueros-de-spacex-venta-de-bonos-por-20-mmdd/ar3225744",
-      "fecha": "19 Jun 2026, 12:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Atraen a 54 millones de telespectadores partidos inaugurales",
-      "resumen": "Las audiencias televisivas de los partidos inaugurales superaron los 54 millones de espectadores en la región Norteamérica, dijo la FIFA.",
-      "link": "https://www.reforma.com/atraen-a-54-millones-de-telespectadores-partidos-inaugurales/ar3225720",
-      "fecha": "19 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae BMV por tercera jornada; atenta a Medio Oriente",
-      "resumen": "La BMV descendía el viernes por tercera jornada consecutiva, mientras los inversionistas evaluaban el panorama en Medio Oriente.",
-      "link": "https://www.reforma.com/cae-bmv-por-tercera-jornada-atenta-a-medio-oriente/ar3225628",
-      "fecha": "19 Jun 2026, 12:30 hrs"
     }
   ]
 }
