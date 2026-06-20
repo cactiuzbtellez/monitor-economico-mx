@@ -1,7 +1,34 @@
 {
-  "actualizado": "19/06/2026 17:53 hrs",
+  "actualizado": "20/06/2026 04:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La reducción en la tasa de interés acota las ganancias de las aseguradoras",
+      "resumen": "Las utilidades de las aseguradoras cayeron en el primer trimestre del año y Fitch espera que se recuperen tras absorber el costo de la deducibilidad del IVA.",
+      "link": "https://expansion.mx/economia/2026/06/19/la-reduccion-en-la-tasa-de-interes-acota-las-ganancias-de-las-aseguradoras",
+      "fecha": "19 Jun 2026, 18:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda mantiene en ceros el subsidio para la gasolina Premium",
+      "resumen": "Por tercera semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
+      "link": "https://expansion.mx/economia/2026/06/19/hacienda-quita-subsidio-gasolina-premium-tercera-semana",
+      "fecha": "19 Jun 2026, 18:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inversión total cae a 21.2% del PIB y se aleja de la meta oficial del Plan México",
+      "resumen": "El gasto público de capital repuntó al inicio de 2026, pero la inversión privada acumuló seis trimestres de caídas y alejó al país de la meta del Plan México.",
+      "link": "https://expansion.mx/economia/2026/06/19/gobierno-gasta-mas-mientras-que-inversion-privada-cae",
+      "fecha": "19 Jun 2026, 14:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "Los 310 pesos que cuesta una cerveza Michelob en el Estadio Ciudad de México equivalen a 8 horas trabajadas en México; 2.4 horas en Estados Unidos, y 1.3 horas en Canadá.",
       "link": "https://expansion.mx/economia/2026/06/18/mexicanos-deben-trabajar-mas-eu-canada-boleto-mundial",
       "fecha": "18 Jun 2026, 10:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nuevo León, CDMX y Baja California, las ganadoras en inversión proveniente de Corea del Sur en México",
-      "resumen": "Las inversiones del país asiático se distribuyen en el país en diversos sectores, destacando el de partes y accesorios de máquinas. Las selecciones de ambos países se enfrentan en el Mundial de Futbol…",
-      "link": "https://expansion.mx/economia/2026/06/18/mexico-y-corea-del-sur-inversiones-ambos-paises",
-      "fecha": "18 Jun 2026, 08:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México capta en un trimestre toda la IED tecnológica de 2025 por auge de IA",
-      "resumen": "La fabricación de equipo de cómputo y electrónicos captó 1,379 mdd; EU aportó 62% del total y Corea del Sur 14%.",
-      "link": "https://expansion.mx/economia/2026/06/18/carrera-por-ia-enriquece-mexico-eu-compra-como-nunca",
-      "fecha": "18 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Fed mantiene tasas de interés y apunta a una subida para fin de año",
-      "resumen": "El banco central de EU decidió mantener sin cambios las tasas de interés en un rango de entre 3.50% y 3.75% por cuarta reunión consecutiva, con un voto unánime por primera vez en un año.",
-      "link": "https://expansion.mx/economia/2026/06/17/fed-mantiene-tasas-de-interes-y-apunta-a-una-subida-para-fin-de-ano",
-      "fecha": "17 Jun 2026, 12:38 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Reducen subsidio al diesel por cuarta semana seguida",
+      "resumen": "Por cuarta semana consecutiva, la Secretaría de Hacienda decidió disminuir el estímulo fiscal que aplica al IEPS de diesel",
+      "link": "https://www.reforma.com/reducen-subsidio-al-diesel-por-cuarta-semana-seguida/ar3225975",
+      "fecha": "19 Jun 2026, 19:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hila BMV tercera jornada con pérdidas; retrocede 0.37%",
+      "resumen": "BMV cerró este viernes con una caída de 0.82% y concluyendo en el nivel de 67 mil 705 unidades; mientras que en lo semanal retrocedió 0.37%.",
+      "link": "https://www.reforma.com/hila-bmv-tercera-jornada-con-perdidas-retrocede-0-37/ar3225890",
+      "fecha": "19 Jun 2026, 17:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Se deprecia peso 0.59% en la semana",
       "resumen": "El dólar cerró este viernes con una cotización de $17.34; sin embargo su depreciación semanal fue de apenas 0.59%.",
       "link": "https://www.reforma.com/se-deprecia-peso-0-59-en-la-semana/ar3225879",
@@ -198,24 +216,6 @@
       "titulo": "Cae BMV por tercera jornada; atenta a Medio Oriente",
       "resumen": "La BMV descendía el viernes por tercera jornada consecutiva, mientras los inversionistas evaluaban el panorama en Medio Oriente.",
       "link": "https://www.reforma.com/cae-bmv-por-tercera-jornada-atenta-a-medio-oriente/ar3225628",
-      "fecha": "19 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tumba Gobierno competitividad",
-      "resumen": "Afectado principalmente por el deterioro en la evaluación de la Eficiencia del Gobierno, México se fue a la cola en competitividad.",
-      "link": "https://www.reforma.com/tumba-gobierno-competitividad/ar3225493",
-      "fecha": "19 Jun 2026, 12:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ve OCDE desperdicio hídrico",
-      "resumen": "Advierte OCDE que Gobierno de México incentiva desperdicio de agua en el campo con subsidios para electricidad de equipos de bombeo de riego",
-      "link": "https://www.reforma.com/ve-ocde-desperdicio-hidrico/ar3225458",
       "fecha": "19 Jun 2026, 12:30 hrs"
     }
   ]
