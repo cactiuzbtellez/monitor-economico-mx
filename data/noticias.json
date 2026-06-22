@@ -1,7 +1,25 @@
 {
-  "actualizado": "21/06/2026 16:00 hrs",
+  "actualizado": "22/06/2026 10:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Finsus actualiza trámite bancario tras crecer 72% en activos",
+      "resumen": "La Sofipo modificó el expediente presentado hace 18 meses, cuando aún no era rentable, para reflejar el aumento de clientes y utilidades.",
+      "link": "https://expansion.mx/economia/2026/06/22/finsus-genera-utilidades-actualiza-perfil-cnbv-ser-banco",
+      "fecha": "22 Jun 2026, 09:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Alan Greenspan, expresidente de la Fed, murió a los 100 años",
+      "resumen": "La Reserva Federal rindió homenaje de inmediato este lunes al \"legado\" que dejó Greenspan, quien ayudó a crear \"confianza\" en la institución.",
+      "link": "https://expansion.mx/economia/2026/06/22/alan-greenspan-expresidente-de-fed-murio-a-los-100-anos",
+      "fecha": "22 Jun 2026, 07:57 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El país registró uno de los mayores retrocesos en la edición 2026 del World Competitiveness Ranking del IMD. Los principales rezagos se concentraron en eficiencia gubernamental e infraestructura.",
       "link": "https://expansion.mx/economia/2026/06/18/mexico-cae-siete-lugares-ranking-competitividad-imd-2026",
       "fecha": "18 Jun 2026, 14:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico advierte de los riesgos en el uso de IA en el sistema financiero",
-      "resumen": "El banco central señala que más endeudamiento de empresas y ciberdelitos son posibles riesgos, por lo que se requiere de una mayor participación de los reguladores.",
-      "link": "https://expansion.mx/economia/2026/06/18/banxico-advierte-de-los-riesgos-en-el-uso-de-ia-en-el-sistema-financiero",
-      "fecha": "18 Jun 2026, 13:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México y EU pasan de las propuestas a la letra fina del T-MEC",
-      "resumen": "El secretario de Economía, Marcelo Ebrard, destacó avances en reglas de origen, agricultura y automotriz durante la segunda ronda de conversaciones en Washington.",
-      "link": "https://expansion.mx/economia/2026/06/18/negociaciones-tmec-avanza-marcelo-ebrard-fecha-reunion",
-      "fecha": "18 Jun 2026, 12:50 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén que siga carestía en campo",
-      "resumen": "El abaratamiento de los fertilizantes por posible fin de la guerra no calmará los altos costos de producción agrícola, advierten expertos.",
-      "link": "https://www.reforma.com/preven-que-siga-carestia-en-campo/ar3225848",
-      "fecha": "20 Jun 2026, 05:01 hrs"
+      "titulo": "Presta Infonavit más con morosidad récord",
+      "resumen": "Expertos señalan que incremento en créditos Infonavit elevaría cantidad de trabajadores que caen en morosidad, que ya alcanza nivel récord.",
+      "link": "https://www.reforma.com/presta-infonavit-mas-con-morosidad-record/ar3226807",
+      "fecha": "22 Jun 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vienen en el 2027 tiendas inteligentes",
-      "resumen": "Tiendas departamentales mexicanas iniciaron el proceso de etiquetado de productos que sustituirá al código de barras.",
-      "link": "https://www.reforma.com/vienen-en-el-2027-tiendas-inteligentes/ar3225997",
-      "fecha": "20 Jun 2026, 05:01 hrs"
+      "titulo": "Recurre México a mercado de bonos para refinanciar deuda",
+      "resumen": "México está emitiendo nuevos bonos con vencimiento en 2037 y renegociando deuda que vence en 2056, según prospecto presentado ante la SEC.",
+      "link": "https://www.reforma.com/recurre-mexico-a-mercado-de-bonos-para-refinanciar-deuda/ar3226935",
+      "fecha": "22 Jun 2026, 07:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén caída de 15% en ventas de smartphones",
-      "resumen": "Se espera que los envíos mundiales de smartphones disminuyan 15% en 2026, ya que alza de los precios de chips de memoria eleva sus costos.",
-      "link": "https://www.reforma.com/preven-caida-de-15-en-ventas-de-smartphones/ar3225836",
-      "fecha": "20 Jun 2026, 05:01 hrs"
+      "titulo": "Es insuficiente 'guardadito' para participaciones",
+      "resumen": "Los estados han recibido 630,179 mdp por participaciones federales, 17,802 mdp menos a lo programado, monto que no se cubriría con el FEIEF.",
+      "link": "https://www.reforma.com/es-insuficiente-guardadito-para-participaciones/ar3226808",
+      "fecha": "22 Jun 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evaden estudiantes por IA carreras de programación",
-      "resumen": "Estudiantes universitarios en EU evitar las carreras más expuestas a la IA y se inclinan a campos con mayor empleo, como el sector salud.",
-      "link": "https://www.reforma.com/evaden-estudiantes-por-ia-carreras-de-programacion/ar3225838",
-      "fecha": "20 Jun 2026, 05:01 hrs"
+      "titulo": "Urge a data centers confiabilidad eléctrica",
+      "resumen": "México puede convertirse en un destino de inversión de data centers, siempre y cuando logre expandir infraestructura energética confiable.",
+      "link": "https://www.reforma.com/urge-a-data-centers-confiabilidad-electrica/ar3226832",
+      "fecha": "22 Jun 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reducen subsidio al diesel por cuarta semana seguida",
-      "resumen": "Por cuarta semana consecutiva, la Secretaría de Hacienda decidió disminuir el estímulo fiscal que aplica al IEPS de diesel",
-      "link": "https://www.reforma.com/reducen-subsidio-al-diesel-por-cuarta-semana-seguida/ar3225975",
-      "fecha": "19 Jun 2026, 19:43 hrs"
+      "titulo": "Ven en Alemania potencial para e-commerce mexicano",
+      "resumen": "Alemania se consolida como un mercado atractivo para empresas mexicanas de e-commerce por su apertura comercial.",
+      "link": "https://www.reforma.com/ven-en-alemania-potencial-para-e-commerce-mexicano/ar3226805",
+      "fecha": "22 Jun 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hila BMV tercera jornada con pérdidas; retrocede 0.37%",
-      "resumen": "BMV cerró este viernes con una caída de 0.82% y concluyendo en el nivel de 67 mil 705 unidades; mientras que en lo semanal retrocedió 0.37%.",
-      "link": "https://www.reforma.com/hila-bmv-tercera-jornada-con-perdidas-retrocede-0-37/ar3225890",
-      "fecha": "19 Jun 2026, 17:58 hrs"
+      "titulo": "Falleció Alan Greenspan, ex presidente de la Fed",
+      "resumen": "Alan Greenspan, economista y ex presidente de la Fed durante el mandato de cuatro presidentes de EU, falleció a los 100 años.",
+      "link": "https://www.reforma.com/fallecio-alan-greenspan-ex-presidente-de-la-fed/ar3226891",
+      "fecha": "22 Jun 2026, 06:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se deprecia peso 0.59% en la semana",
-      "resumen": "El dólar cerró este viernes con una cotización de $17.34; sin embargo su depreciación semanal fue de apenas 0.59%.",
-      "link": "https://www.reforma.com/se-deprecia-peso-0-59-en-la-semana/ar3225879",
-      "fecha": "19 Jun 2026, 17:43 hrs"
+      "titulo": "Autoriza EU venta de crudo iraní en medio de negociaciones",
+      "resumen": "Departamento del Tesoro de EU autorizó la producción, suministro y venta de crudo iraní, en el marco del acuerdo alcanzado la semana pasada.",
+      "link": "https://www.reforma.com/autoriza-eu-venta-de-crudo-irani-en-medio-de-negociaciones/ar3226959",
+      "fecha": "22 Jun 2026, 08:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Sener endurecer custodia de material nuclear",
-      "resumen": "Sener alista una nueva norma para endurecer los requisitos de custodia, vigilancia y protección al transporte de material nuclear.",
-      "link": "https://www.reforma.com/busca-sener-endurecer-custodia-de-material-nuclear/ar3225827",
-      "fecha": "19 Jun 2026, 15:42 hrs"
+      "titulo": "Cae crudo tras reunión entre EU e Irán",
+      "resumen": "El vicepresidente de EU, JD Vance, afirmò que habían logrado avances en negociaciones con Irán y que estrecho de Ormuz permanecía abierto.",
+      "link": "https://www.reforma.com/cae-crudo-tras-reunion-entre-eu-e-iran/ar3226926",
+      "fecha": "22 Jun 2026, 07:25 hrs"
     }
   ]
 }
