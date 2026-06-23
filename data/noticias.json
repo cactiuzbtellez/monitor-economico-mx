@@ -1,7 +1,16 @@
 {
-  "actualizado": "23/06/2026 11:31 hrs",
+  "actualizado": "23/06/2026 16:46 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Siete estados que votaron por Trump dependen del T-MEC que ahora pone en riesgo",
+      "resumen": "Texas, Michigan e Indiana figuran entre las entidades más expuestas al comercio con México y Canadá, con fuerte concentración en autopartes, energía y semiconductores.",
+      "link": "https://expansion.mx/economia/2026/06/23/siete-estados-votaron-trump-dependen-tmec",
+      "fecha": "23 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Por tercera semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
       "link": "https://expansion.mx/economia/2026/06/19/hacienda-quita-subsidio-gasolina-premium-tercera-semana",
       "fecha": "19 Jun 2026, 18:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inversión total cae a 21.2% del PIB y se aleja de la meta oficial del Plan México",
-      "resumen": "El gasto público de capital repuntó al inicio de 2026, pero la inversión privada acumuló seis trimestres de caídas y alejó al país de la meta del Plan México.",
-      "link": "https://expansion.mx/economia/2026/06/19/gobierno-gasta-mas-mientras-que-inversion-privada-cae",
-      "fecha": "19 Jun 2026, 14:21 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Emite México bono para fortalecer perfil de deuda externa",
+      "resumen": "La SHCP emitió un bono a 11 años con una tasa cupón de 6.25 por ciento, con vencimiento en 2037, por un monto de 4 mil 800 mdd.",
+      "link": "https://www.reforma.com/emite-mexico-bono-para-fortalecer-perfil-de-deuda-externa/ar3227734",
+      "fecha": "23 Jun 2026, 13:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Expresará cada país planes sobre T-MEC el 1 de julio.- SE",
+      "resumen": "Con una carta que exprese las intenciones de cada uno de los tres integrantes del T-MEC, el 1 de julio se definirá su rumbo, dijo la SE.",
+      "link": "https://www.reforma.com/expresara-cada-pais-planes-sobre-t-mec-el-1-de-julio-se/ar3227754",
+      "fecha": "23 Jun 2026, 13:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Depende atractivo mexicano de T-MEC.- IMCO",
+      "resumen": "La ventaja competitiva de México sobre China y otros países dependerá de los beneficios que se logren en revisión del T-MEC, señaló IMCO.",
+      "link": "https://www.reforma.com/depende-atractivo-mexicano-de-t-mec-imco/ar3227850",
+      "fecha": "23 Jun 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Pactan Pemex y Petrobras cooperación en petróleo y gas",
       "resumen": "La petrolera brasileña Petrobras y Pemex anunciaron la firma de un memorándum de entendimiento para cooperación en petróleo y gas.",
       "link": "https://www.reforma.com/pactan-pemex-y-petrobras-cooperacion-en-petroleo-y-gas/ar3227592",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide IP a EU audiencia por trabajo forzoso",
-      "resumen": "El sector privado pidió participar en la audiencia sobre investigaciones que EU realiza sobre importación de productos con trabajo forzoso.",
-      "link": "https://www.reforma.com/pide-ip-a-eu-audiencia-por-trabajo-forzoso/ar3227408",
-      "fecha": "23 Jun 2026, 05:01 hrs"
+      "titulo": "Alertan concentración de empleador ante alianza Viva-Volaris",
+      "resumen": "El CPAM alertó que con la posible aprobación para crear la holding entre Viva y Volaris, habría un único empleador de esos perfiles.",
+      "link": "https://www.reforma.com/alertan-concentracion-de-empleador-ante-alianza-viva-volaris/ar3227724",
+      "fecha": "23 Jun 2026, 13:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 1.2 % actividad económica en abril",
-      "resumen": "En abril, el Indicador Global de la Actividad Económica (IGAE) aumentó 1.2% respecto al mes previo, según el Inegi.",
-      "link": "https://www.reforma.com/crece-1-2-actividad-economica-en-abril/ar3227547",
-      "fecha": "23 Jun 2026, 09:12 hrs"
+      "titulo": "Falta mitad de usuarios de prepago por registrarse.- AT&amp;T",
+      "resumen": "AT&amp;T México ya tiene registradas alrededor de la mitad de sus usuarios de prepago y aproximadamente el 95% de sus clientes de pospago.",
+      "link": "https://www.reforma.com/falta-mitad-de-usuarios-de-prepago-por-registrarse-at-t/ar3227751",
+      "fecha": "23 Jun 2026, 13:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pondrían aranceles ahora a remolques",
-      "resumen": "Departamento de Comercio de EU resolvió que cajas y remolques de México y China cuentan con subsidios; les impondría aranceles adicionales.",
-      "link": "https://www.reforma.com/pondrian-aranceles-ahora-a-remolques/ar3227436",
-      "fecha": "23 Jun 2026, 07:01 hrs"
+      "titulo": "Estiman en 19% triangulación de comercio chino a EU",
+      "resumen": "Aproximadamente el 19% del comercio chino desviado muestra patrones de redireccionamiento a EU a través de países intermediarios.",
+      "link": "https://www.reforma.com/estiman-en-19-triangulacion-de-comercio-chino-a-eu/ar3227646",
+      "fecha": "23 Jun 2026, 12:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lamenta EU que NL  incumpla leyes ganaderas",
-      "resumen": "Leyes ganaderas mexicanas son envidiables para EU, pero en la práctica la Unión Americana ya castigó a NL por no aplicarlas.",
-      "link": "https://www.reforma.com/lamenta-eu-que-nl-incumpla-leyes-ganaderas/ar3227438",
-      "fecha": "23 Jun 2026, 07:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Arrastran a índices de EU el sector tecnológico y de chips",
-      "resumen": "En Wall Street, el Dow Jones caía 395.32 puntos, o un 0.76%; el índice S&amp;P 500 perdía un 1.54%; y el Nasdaq Composite declinaba un 2.04%.",
-      "link": "https://www.reforma.com/arrastran-a-indices-de-eu-el-sector-tecnologico-y-de-chips/ar3227537",
-      "fecha": "23 Jun 2026, 08:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de SpaceX por debajo de su precio de salida",
-      "resumen": "Las acciones de SpaceX cayeron brevemente por debajo de los 150 dólares, lo que redujo su valor bursátil por debajo de los 2 billones.",
-      "link": "https://www.reforma.com/caen-acciones-de-spacex-por-debajo-de-su-precio-de-salida/ar3227544",
-      "fecha": "23 Jun 2026, 08:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reportan mayor tráfico en Ormuz desde inicio de guerra",
-      "resumen": "Al menos 35 buques con materias primas atravesaron el Estrecho de Ormuz ayer, número récord desde que empezó la guerra a fines de febrero.",
-      "link": "https://www.reforma.com/reportan-mayor-trafico-en-ormuz-desde-inicio-de-guerra/ar3227567",
-      "fecha": "23 Jun 2026, 09:22 hrs"
+      "titulo": "Cierran mercados de EU con pérdidas; Nasdaq pierde más de 2%",
+      "resumen": "En una jornada en la que siguió la venta de acciones tecnológicas y de chips, el Nasdaq Composite retrocedió un 2.21%.",
+      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-perdidas-nasdaq-pierde-mas-de-2/ar3227794",
+      "fecha": "23 Jun 2026, 14:24 hrs"
     }
   ]
 }
