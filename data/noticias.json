@@ -1,7 +1,25 @@
 {
-  "actualizado": "22/06/2026 16:58 hrs",
+  "actualizado": "23/06/2026 04:50 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pensiones del Bienestar aportan más a hogares del sur, donde llegan menos transferencias",
+      "resumen": "Un estudio de Banxico muestra que en el sur del país se registra el menor porcentaje de personas beneficiarias con un 82.4% y aporta hasta 7.3% en el ingreso de los hogares.",
+      "link": "https://expansion.mx/economia/2026/06/22/pensiones-del-bienestar-aportan-mas-a-hogares-del-sur-donde-llegan-menos-transferencias",
+      "fecha": "22 Jun 2026, 15:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México activa el comercio preferencial con Reino Unido bajo el CPTPP",
+      "resumen": "La entrada del Reino Unido amplía a 12 las economías que integran uno de los mayores bloques comerciales del mundo.",
+      "link": "https://expansion.mx/economia/2026/06/22/mexico-activa-comercio-preferencial-reino-unido-bajo-cptpp",
+      "fecha": "22 Jun 2026, 15:12 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,93 +76,75 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El petróleo cayó 33%, pero la gasolina no bajará al mismo ritmo",
-      "resumen": "El acuerdo entre Irán y EU alivió la presión sobre el crudo, pero el IEPS, las importaciones y otros costos retrasan el efecto en los consumidores.",
-      "link": "https://expansion.mx/economia/2026/06/19/la-paz-iraneu-tardara-reflejarse-bolsillos-gasolina-cara",
-      "fecha": "19 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México cae siete lugares en el ranking de competitividad de IMB y se ubica en el puesto 62",
-      "resumen": "El país registró uno de los mayores retrocesos en la edición 2026 del World Competitiveness Ranking del IMD. Los principales rezagos se concentraron en eficiencia gubernamental e infraestructura.",
-      "link": "https://expansion.mx/economia/2026/06/18/mexico-cae-siete-lugares-ranking-competitividad-imd-2026",
-      "fecha": "18 Jun 2026, 14:31 hrs"
+      "titulo": "Las cabinas de teléfono que nadie usa, pero Telmex no puede retirar",
+      "resumen": "El uso de teléfonos públicos se desplomó hace años, pero Telmex continúa conservando miles de cabinas. Un requisito incluido en su concesión impide que desaparezcan por completo.",
+      "link": "https://expansion.mx/empresas/2026/06/22/por-que-telmex-no-retira-cabinas-telefonos",
+      "fecha": "22 Jun 2026, 19:52 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "‘Las 500 empresas más importantes de México’ 2026: el top 10",
-      "resumen": "El ranking de 'Las 500' coloca a Pemex en la cima por ingresos, aunque su posición contrasta con su alta deuda y pérdidas en un caso único dentro del panorama empresarial de México.",
-      "link": "https://expansion.mx/empresas/2026/06/03/las-500-empresas-2026-top-10-mexico-ranking",
-      "fecha": "22 Jun 2026, 05:50 hrs"
+      "titulo": "Chipotle, el experimento que Alsea intentará repetir sin los errores de Taco Bell",
+      "resumen": "La cadena estadounidense abrirá sus primeros restaurantes en México de la mano de Alsea. El desafío será convencer a consumidores acostumbrados a la comida mexicana tradicional y evitar el destino que…",
+      "link": "https://expansion.mx/empresas/2026/06/22/chipotle-llega-alsea-vender-comida-mexicana-mexicanos",
+      "fecha": "22 Jun 2026, 18:38 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La reapertura de Ormuz inicia una compleja reconstrucción del comercio petrolero mundial",
-      "resumen": "El fin del bloqueo devuelve oferta al mercado, pero expertos prevén ajustes logísticos y volatilidad antes de recuperar los flujos previos al conflicto.",
-      "link": "https://expansion.mx/empresas/2026/06/19/reapertura-ormuz-mercado-petrolero-volatilidad-oferta-global",
-      "fecha": "19 Jun 2026, 17:07 hrs"
+      "titulo": "La ola china va más allá de los autos: todos los vehículos del mundo ya tienen al menos un componente chino",
+      "resumen": "La expansión de la proveeduría china ha llevado a que ningún vehículo escape a su influencia, con al menos un componente fabricado en ese país dentro de cada unidad producida mundialmente.",
+      "link": "https://expansion.mx/empresas/2026/06/22/china-ya-esta-cada-auto-en-mexico",
+      "fecha": "22 Jun 2026, 17:30 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adidas vende más camisetas del Tri que de la selección de Alemania",
-      "resumen": "A casi dos décadas de alianza, el uniforme del Tri lidera las ventas globales de selecciones para la compañía y consolida a México como uno de sus mercados más estratégicos.",
-      "link": "https://expansion.mx/empresas/2026/06/19/mexico-mas-rentable-adidas-que-alemania-espana-playeras",
-      "fecha": "19 Jun 2026, 14:45 hrs"
+      "titulo": "Renault México se redefine ante los nuevos desafíos de la movilidad",
+      "resumen": "Ante la profunda evolución de la industria y las actuales exigencias de los consumidores, Renault se reinventa para fortalecer su relación con el mercado.",
+      "link": "https://expansion.mx/empresas/2026/06/22/renault-mexico-se-redefine-ante-los-nuevos-desafios-de-la-movilidad",
+      "fecha": "22 Jun 2026, 17:01 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Fabricantes de plástico ven en el T-MEC una oportunidad para frenar la competencia de productos chinos",
-      "resumen": "La industria depende de Estados Unidos para abastecer 57% de sus materias primas y advierte que la revisión del T-MEC debe reforzar las reglas de origen y cerrar vacíos que facilitan la entrada de pro…",
-      "link": "https://expansion.mx/empresas/2026/06/19/industria-del-plastico-mexico-tmec-blindarse-china",
-      "fecha": "19 Jun 2026, 12:19 hrs"
+      "titulo": "La industria eólica alista inversiones históricas por 5,000 millones de dólares para desarrollar 14 parques hacia 2029",
+      "resumen": "La Asociación Mexicana de Energía Eólica identifica una ventana de crecimiento impulsada por nuevas convocatorias gubernamentales, pero reconoce retos que podrían retrasar parte de los proyectos.",
+      "link": "https://expansion.mx/empresas/2026/06/22/la-industria-eolica-alista-inversiones-historicas-por-5-000-millones-de-dolares-para-desarrollar-14-parques-hacia-2029",
+      "fecha": "22 Jun 2026, 16:13 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Volkswagen apuesta por un Amarok con motor V6 para desafiar a Toyota Tacoma y Ford Ranger Raptor",
-      "resumen": "La nueva motorización turbodiésel de seis cilindros llegará en tres versiones y la marca prevé que aporte hasta 60% de las ventas del modelo hacia finales de año.",
-      "link": "https://expansion.mx/empresas/2026/06/19/volkswagen-amarok-v6-diesel-precio-versiones-mexico-2026",
-      "fecha": "19 Jun 2026, 09:06 hrs"
+      "titulo": "Usuarios reportan fallas en los servicios de Telcel y Telmex",
+      "resumen": "Algunos clientes de las compañías reportan problemas para conectarse y realizar llamadas. De acuerdo con Downdetector las fallas de centralizan en el centro-sur del país.",
+      "link": "https://expansion.mx/empresas/2026/06/22/telmex-se-cae-telcel-falla-hoy-22-junio",
+      "fecha": "22 Jun 2026, 16:01 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "ViX y Prime Video evalúan compensaciones a usuarios por fallas en transmisiones del Mundial",
-      "resumen": "Tras las interrupciones registradas en el partido Colombia contra Uzbekistán, Profeco aseguró que las empresas analizan mecanismos de compensación para los usuarios afectados.",
-      "link": "https://expansion.mx/empresas/2026/06/18/vix-y-prime-video-evaluan-compensaciones-a-usuarios-por-fallas-en-el-mundial",
-      "fecha": "18 Jun 2026, 21:35 hrs"
+      "titulo": "El gran negocio de Slim en Argentina con millones de usuarios e ingresos que no dejan de crecer",
+      "resumen": "El desempeño de América Móvil en Argentina destaca por su resiliencia operativa, con millones de usuarios y una contribución constante dentro del portafolio regional del grupo.",
+      "link": "https://expansion.mx/empresas/2026/06/22/carlos-slim-gana-millones-claro-argentina",
+      "fecha": "22 Jun 2026, 14:17 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Quién es Jorge Campos fuera del futbol? Los negocios del invitado especial de Infantino",
-      "resumen": "Invitado por Gianni Infantino al palco del México vs Corea del Sur, el exportero mexicano convirtió su popularidad en una marca personal que hoy genera ingresos.",
-      "link": "https://expansion.mx/empresas/2026/06/18/jorge-campos-es-empresario-negocios",
-      "fecha": "18 Jun 2026, 20:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La clientela de Bisquets Obregón no es tan mayor como parece y la cadena quiere demostrarlo",
-      "resumen": "La cadena asegura que su consumidor principal tiene entre 35 y 50 años, un hallazgo que impulsa la renovación de sus restaurantes.",
-      "link": "https://expansion.mx/empresas/2026/06/18/bisquets-obregon-estrategia-competir-vips-y-sanborns",
-      "fecha": "18 Jun 2026, 17:44 hrs"
+      "titulo": "Tras años de saturar sus vehículos con equipamiento ‘innecesario’ ahora las marcas chinas ajustan la estrategia",
+      "resumen": "El replanteamiento busca evitar incluir funciones que no generan valor percibido, sin comprometer seguridad ni calidad, mientras enfrentan mayores presiones de costos por el entorno arancelario.",
+      "link": "https://expansion.mx/empresas/2026/06/22/marcas-chinas-ajustan-equipamiento-autos-mexico-estrategia",
+      "fecha": "22 Jun 2026, 12:03 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,9 +168,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disminuye Citi a 1.1% expectativa de PIB a mediano plazo",
-      "resumen": "Citi redujo de 1.2% a 1.1% su expectativa de crecimiento del PIB a mediano plazo, mientras que la inflación pasó de 4.35% a 4.23%.",
-      "link": "https://www.reforma.com/disminuye-citi-a-1-1-expectativa-de-pib-a-mediano-plazo/ar3227214",
+      "titulo": "Disminuyen a 1.1% expectativa de PIB a mediano plazo",
+      "resumen": "Especialistas redujeron a 1.1% su expectativa de crecimiento del PIB a mediano plazo, mientras que la inflación pasó de 4.35% a 4.23%.",
+      "link": "https://www.reforma.com/disminuyen-a-1-1-expectativa-de-pib-a-mediano-plazo/ar3227214",
       "fecha": "22 Jun 2026, 15:33 hrs"
     },
     {
