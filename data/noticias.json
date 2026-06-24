@@ -1,7 +1,52 @@
 {
-  "actualizado": "23/06/2026 16:46 hrs",
+  "actualizado": "24/06/2026 04:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inbursa y Aeroméxico presentan una forma de viajar y acumular valor",
+      "resumen": "El nuevo dossier de tarjetas de marca compartida integra respaldo económico, vanguardia tecnológica y excelencia para el viajero.",
+      "link": "https://expansion.mx/economia/2026/06/23/inbursa-y-aeromexico-presentan-una-forma-de-viajar-y-acumular-valor",
+      "fecha": "23 Jun 2026, 16:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México aprovecha el desplome chino en EU para ganar comercio en 22 industrias",
+      "resumen": "Computadoras, equipo de transporte y maquinaria lideran los sectores donde México aumentó su participación en las importaciones de Estados Unidos, de acuerdo con un análisis del IMCO.",
+      "link": "https://expansion.mx/economia/2026/06/23/mexico-gana-comercio-eu-china-22-industrias",
+      "fecha": "23 Jun 2026, 14:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
+      "resumen": "La operación no representa contratación de deuda adicional y alcanzó una demanda máxima de 20,693 millones de dólares, equivalente a 3.3 veces el monto colocado, aseveró la SHCP.",
+      "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
+      "fecha": "23 Jun 2026, 13:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Actividad económica logra su mayor crecimiento desde diciembre por el Mundial",
+      "resumen": "Destaca que el crecimiento mensual de la construcción es el mayor desde agosto del 2020, que pudo estar impulsado por los preparativos del torneo.",
+      "link": "https://expansion.mx/economia/2026/06/23/actividad-economica-logra-su-mayor-crecimiento-desde-diciembre-por-el-mundial",
+      "fecha": "23 Jun 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El aguacate de Michoacán ya no será sólo famoso, ahora estará protegido",
+      "resumen": "La Secretaría de Economía otorgó la indicación geográfica \"Franja Michoacán\", un sello que fortalecerá la competitividad del aguacate mexicano en un mercado donde más de 70 países producen este fruto.",
+      "link": "https://expansion.mx/economia/2026/06/23/aguacate-michoacan-ya-no-sera-solo-famoso-ahora-protegido",
+      "fecha": "23 Jun 2026, 12:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Finsus actualiza trámite bancario tras crecer 72% en activos",
-      "resumen": "La Sofipo modificó el expediente presentado hace 18 meses, cuando aún no era rentable, para reflejar el aumento de clientes y utilidades.",
-      "link": "https://expansion.mx/economia/2026/06/22/finsus-genera-utilidades-actualiza-perfil-cnbv-ser-banco",
-      "fecha": "22 Jun 2026, 09:45 hrs"
+      "titulo": "Gasolineras que venden menos de 200,000 litros al mes operan con pérdidas",
+      "resumen": "Con un margen promedio de 1.50 pesos por litro de diésel, las estaciones de servicio no alcanzan a cubrir sus costos operativos y obtener utilidad.",
+      "link": "https://expansion.mx/empresas/2026/06/23/gasolineras-menos-200-mil-litros-operan-perdidas-mexico",
+      "fecha": "23 Jun 2026, 18:05 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Alan Greenspan, expresidente de la Fed, murió a los 100 años",
-      "resumen": "La Reserva Federal rindió homenaje de inmediato este lunes al \"legado\" que dejó Greenspan, quien ayudó a crear \"confianza\" en la institución.",
-      "link": "https://expansion.mx/economia/2026/06/22/alan-greenspan-expresidente-de-fed-murio-a-los-100-anos",
-      "fecha": "22 Jun 2026, 07:57 hrs"
+      "titulo": "¿Dónde están las electrolineras en CDMX? Consulta el mapa completo por alcaldía",
+      "resumen": "Consulta el mapa oficial de las electrolineras en CDMX con las estaciones más completas por alcaldía, su ubicación, cargadores, conectores y potencia disponible.",
+      "link": "https://expansion.mx/empresas/2026/06/23/donde-cargar-auto-electrico-cdmx-estaciones-cfe",
+      "fecha": "23 Jun 2026, 16:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Del auto al medicamento: la nueva apuesta industrial de Morelos",
-      "resumen": "La salida de Nissan deja un vacío industrial en Morelos; una farmacéutica india emerge como una de las primeras grandes apuestas para la entidad.",
-      "link": "https://expansion.mx/economia/2026/06/20/del-auto-al-medicamento-nueva-apuesta-industrial-morelos",
-      "fecha": "20 Jun 2026, 16:48 hrs"
+      "titulo": "AT&T alcanza 9 millones de líneas vinculadas a una semana de que termine el plazo del registro",
+      "resumen": "La empresa reporta un avance del 34.7% de un total de 24.1 millones, en donde el mayor progreso se concentra en el segmento de pospago, mientras que el prepago apenas lleva un avance de 24%.",
+      "link": "https://expansion.mx/empresas/2026/06/23/att-solo-tiene-34-lineas-vinculadas-una-semana-fecha-limite",
+      "fecha": "23 Jun 2026, 13:52 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La reducción en la tasa de interés acota las ganancias de las aseguradoras",
-      "resumen": "Las utilidades de las aseguradoras cayeron en el primer trimestre del año y Fitch espera que se recuperen tras absorber el costo de la deducibilidad del IVA.",
-      "link": "https://expansion.mx/economia/2026/06/19/la-reduccion-en-la-tasa-de-interes-acota-las-ganancias-de-las-aseguradoras",
-      "fecha": "19 Jun 2026, 18:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda mantiene en ceros el subsidio para la gasolina Premium",
-      "resumen": "Por tercera semana consecutiva, el combustible rojo no gozará de estímulos fiscales.",
-      "link": "https://expansion.mx/economia/2026/06/19/hacienda-quita-subsidio-gasolina-premium-tercera-semana",
-      "fecha": "19 Jun 2026, 18:00 hrs"
+      "titulo": "Pemex y Petrobras se alían para explorar hidrocarburos en aguas profundas del Golfo de México",
+      "resumen": "El acuerdo permitirá intercambiar tecnología, experiencia operativa y mejores prácticas para impulsar exploración petrolera, recuperación de producción, eficiencia energética y proyectos industriales …",
+      "link": "https://expansion.mx/empresas/2026/06/23/pemex-petrobras-firman-acuerdo-proyectos-de-hidrocarburos",
+      "fecha": "23 Jun 2026, 11:47 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,65 +147,47 @@
       "fecha": "22 Jun 2026, 17:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria eólica alista inversiones históricas por 5,000 millones de dólares para desarrollar 14 parques hacia 2029",
-      "resumen": "La Asociación Mexicana de Energía Eólica identifica una ventana de crecimiento impulsada por nuevas convocatorias gubernamentales, pero reconoce retos que podrían retrasar parte de los proyectos.",
-      "link": "https://expansion.mx/empresas/2026/06/22/la-industria-eolica-alista-inversiones-historicas-por-5-000-millones-de-dolares-para-desarrollar-14-parques-hacia-2029",
-      "fecha": "22 Jun 2026, 16:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Usuarios reportan fallas en los servicios de Telcel y Telmex",
-      "resumen": "Algunos clientes de las compañías reportan problemas para conectarse y realizar llamadas. De acuerdo con Downdetector las fallas de centralizan en el centro-sur del país.",
-      "link": "https://expansion.mx/empresas/2026/06/22/telmex-se-cae-telcel-falla-hoy-22-junio",
-      "fecha": "22 Jun 2026, 16:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El gran negocio de Slim en Argentina con millones de usuarios e ingresos que no dejan de crecer",
-      "resumen": "El desempeño de América Móvil en Argentina destaca por su resiliencia operativa, con millones de usuarios y una contribución constante dentro del portafolio regional del grupo.",
-      "link": "https://expansion.mx/empresas/2026/06/22/carlos-slim-gana-millones-claro-argentina",
-      "fecha": "22 Jun 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras años de saturar sus vehículos con equipamiento ‘innecesario’ ahora las marcas chinas ajustan la estrategia",
-      "resumen": "El replanteamiento busca evitar incluir funciones que no generan valor percibido, sin comprometer seguridad ni calidad, mientras enfrentan mayores presiones de costos por el entorno arancelario.",
-      "link": "https://expansion.mx/empresas/2026/06/22/marcas-chinas-ajustan-equipamiento-autos-mexico-estrategia",
-      "fecha": "22 Jun 2026, 12:03 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden dialogo ante amenaza de bloqueos carreteros",
+      "resumen": "La Concamin y asociaciones de autrotransporte de carga pidieron apertura al diálogo ante amenaza de bloqueos carreteros mañana.",
+      "link": "https://www.reforma.com/piden-dialogo-ante-amenaza-de-bloqueos-carreteros/ar3228045",
+      "fecha": "23 Jun 2026, 20:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Emite México bono para fortalecer perfil de deuda externa",
-      "resumen": "La SHCP emitió un bono a 11 años con una tasa cupón de 6.25 por ciento, con vencimiento en 2037, por un monto de 4 mil 800 mdd.",
-      "link": "https://www.reforma.com/emite-mexico-bono-para-fortalecer-perfil-de-deuda-externa/ar3227734",
-      "fecha": "23 Jun 2026, 13:20 hrs"
+      "titulo": "Prevén revisar pacto en diesel en dos semanas",
+      "resumen": "Sector gasolinero prevé reunirse con funcionarios de Sener para evaluar la continuidad del pacto voluntario de diesel, aseguró Onexpo.",
+      "link": "https://www.reforma.com/preven-revisar-pacto-en-diesel-en-dos-semanas/ar3228007",
+      "fecha": "23 Jun 2026, 19:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Expresará cada país planes sobre T-MEC el 1 de julio.- SE",
-      "resumen": "Con una carta que exprese las intenciones de cada uno de los tres integrantes del T-MEC, el 1 de julio se definirá su rumbo, dijo la SE.",
-      "link": "https://www.reforma.com/expresara-cada-pais-planes-sobre-t-mec-el-1-de-julio-se/ar3227754",
-      "fecha": "23 Jun 2026, 13:43 hrs"
+      "titulo": "'Tiran' aranceles de EU a IED y reinversión de utilidades",
+      "resumen": "Debido a aranceles por parte de EU, la entrada de Inversión Extranjera Directa (IED) en México cayó 5.0% anual en contraste con 2024.",
+      "link": "https://www.reforma.com/tiran-aranceles-de-eu-a-ied-y-reinversion-de-utilidades/ar3227966",
+      "fecha": "23 Jun 2026, 18:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Depende atractivo mexicano de T-MEC.- IMCO",
-      "resumen": "La ventaja competitiva de México sobre China y otros países dependerá de los beneficios que se logren en revisión del T-MEC, señaló IMCO.",
+      "titulo": "Se retraen 34% anuncios de IED en AL; en México caen 43%",
+      "resumen": "Los anuncios de inversión en América Latina y el Caribe sufrieron una retracción de 34.3%, mientras que en México bajó 43.0%.",
+      "link": "https://www.reforma.com/se-retraen-34-anuncios-de-ied-en-al-en-mexico-caen-43/ar3227871",
+      "fecha": "23 Jun 2026, 17:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Depende atractivo mexicano de T-MEC.- Imco",
+      "resumen": "La ventaja competitiva de México sobre China y otros países dependerá de los beneficios que se logren en revisión del T-MEC, señaló Imco.",
       "link": "https://www.reforma.com/depende-atractivo-mexicano-de-t-mec-imco/ar3227850",
       "fecha": "23 Jun 2026, 15:57 hrs"
     },
@@ -177,37 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pactan Pemex y Petrobras cooperación en petróleo y gas",
-      "resumen": "La petrolera brasileña Petrobras y Pemex anunciaron la firma de un memorándum de entendimiento para cooperación en petróleo y gas.",
-      "link": "https://www.reforma.com/pactan-pemex-y-petrobras-cooperacion-en-petroleo-y-gas/ar3227592",
-      "fecha": "23 Jun 2026, 10:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan concentración de empleador ante alianza Viva-Volaris",
-      "resumen": "El CPAM alertó que con la posible aprobación para crear la holding entre Viva y Volaris, habría un único empleador de esos perfiles.",
-      "link": "https://www.reforma.com/alertan-concentracion-de-empleador-ante-alianza-viva-volaris/ar3227724",
-      "fecha": "23 Jun 2026, 13:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Falta mitad de usuarios de prepago por registrarse.- AT&amp;T",
-      "resumen": "AT&amp;T México ya tiene registradas alrededor de la mitad de sus usuarios de prepago y aproximadamente el 95% de sus clientes de pospago.",
-      "link": "https://www.reforma.com/falta-mitad-de-usuarios-de-prepago-por-registrarse-at-t/ar3227751",
-      "fecha": "23 Jun 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Estiman en 19% triangulación de comercio chino a EU",
-      "resumen": "Aproximadamente el 19% del comercio chino desviado muestra patrones de redireccionamiento a EU a través de países intermediarios.",
-      "link": "https://www.reforma.com/estiman-en-19-triangulacion-de-comercio-chino-a-eu/ar3227646",
-      "fecha": "23 Jun 2026, 12:16 hrs"
+      "titulo": "Reemplazará Alphabet a Verizon en el Dow Jones",
+      "resumen": "Las acciones A de la matriz de Google ocuparán el lugar en el índice de 30 valores antes del inicio de la sesión bursátil del próximo lunes.",
+      "link": "https://www.reforma.com/reemplazara-alphabet-a-verizon-en-el-dow-jones/ar3227849",
+      "fecha": "23 Jun 2026, 15:47 hrs"
     },
     {
       "fuente": "Reforma",
@@ -217,6 +208,15 @@
       "resumen": "En una jornada en la que siguió la venta de acciones tecnológicas y de chips, el Nasdaq Composite retrocedió un 2.21%.",
       "link": "https://www.reforma.com/cierran-mercados-de-eu-con-perdidas-nasdaq-pierde-mas-de-2/ar3227794",
       "fecha": "23 Jun 2026, 14:24 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja crudo por mayor tráfico en el Estrecho de Ormuz",
+      "resumen": "Los precios del petróleo bajaron gracias al aumento del tráfico marino en Ormuz; el Brent disminuyó 1.05% y WTI retrocedió 0.88%.",
+      "link": "https://www.reforma.com/baja-crudo-por-mayor-trafico-en-el-estrecho-de-ormuz/ar3227773",
+      "fecha": "23 Jun 2026, 13:55 hrs"
     }
   ]
 }
