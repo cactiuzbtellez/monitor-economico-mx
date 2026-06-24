@@ -1,7 +1,34 @@
 {
-  "actualizado": "24/06/2026 12:13 hrs",
+  "actualizado": "24/06/2026 16:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué pasa con Banamex? Las nuevas mensualidades y los cobros atrasados que generan dudas",
+      "resumen": "Clientes reportaron descuentos inesperados en sus cuentas y recibieron avisos sobre cambios en las comisiones de tarjetas de crédito. Esto es lo que explicó el banco.",
+      "link": "https://expansion.mx/economia/2026/06/24/que-pasa-con-banamex-anualidad-cobros-atrasados",
+      "fecha": "24 Jun 2026, 12:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación retrocede a 3.55% en la primera quincena de junio, pese a inicio del Mundial",
+      "resumen": "El retroceso obedece a la caída de los precios de los productos agropecuarios. La inflación subyacente sigue por arriba del 4%, alentada por servicios turísticos y transporte aéreo.",
+      "link": "https://expansion.mx/economia/2026/06/24/la-inflacion-retrocede-a-3-55-en-la-primera-quincena-de-junio-pese-a-inicio-del-mundial",
+      "fecha": "24 Jun 2026, 06:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "'Apagón telefónico' pone en riesgo cobro de hasta 28,600 mdp en créditos",
+      "resumen": "La cobranza financiera depende del celular para recuperar ocho de cada 10 pesos adeudados y las fintech serían las más expuestas a un aumento de morosidad.",
+      "link": "https://expansion.mx/economia/2026/06/24/apagon-telefonico-costaria-28000-mdp-despachos-de-cobranza",
+      "fecha": "24 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Siete estados que votaron por Trump dependen del T-MEC que ahora pone en riesgo",
-      "resumen": "Texas, Michigan e Indiana figuran entre las entidades más expuestas al comercio con México y Canadá, con fuerte concentración en autopartes, energía y semiconductores.",
-      "link": "https://expansion.mx/economia/2026/06/23/siete-estados-votaron-trump-dependen-tmec",
-      "fecha": "23 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pensiones del Bienestar aportan más a hogares del sur, donde llegan menos transferencias",
-      "resumen": "Un estudio de Banxico muestra que en el sur del país se registra el menor porcentaje de personas beneficiarias con un 82.4% y aporta hasta 7.3% en el ingreso de los hogares.",
-      "link": "https://expansion.mx/economia/2026/06/22/pensiones-del-bienestar-aportan-mas-a-hogares-del-sur-donde-llegan-menos-transferencias",
-      "fecha": "22 Jun 2026, 15:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México activa el comercio preferencial con Reino Unido bajo el CPTPP",
-      "resumen": "La entrada del Reino Unido amplía a 12 las economías que integran uno de los mayores bloques comerciales del mundo.",
-      "link": "https://expansion.mx/economia/2026/06/22/mexico-activa-comercio-preferencial-reino-unido-bajo-cptpp",
-      "fecha": "22 Jun 2026, 15:12 hrs"
+      "titulo": "De Nu a Smart Fit: las 5 empresas brasileñas que conquistan el mercado mexicano",
+      "resumen": "De la banca digital a la petroquímica, las empresas brasileñas han ganado terreno en México con modelos de negocio diversos y una presencia creciente en consumo e industria.",
+      "link": "https://expansion.mx/empresas/2026/06/24/empresas-brasilenas-en-mexico-mas-importantes",
+      "fecha": "24 Jun 2026, 16:33 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,31 @@
       "fecha": "22 Jun 2026, 17:30 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Renault México se redefine ante los nuevos desafíos de la movilidad",
-      "resumen": "Ante la profunda evolución de la industria y las actuales exigencias de los consumidores, Renault se reinventa para fortalecer su relación con el mercado.",
-      "link": "https://expansion.mx/empresas/2026/06/22/renault-mexico-se-redefine-ante-los-nuevos-desafios-de-la-movilidad",
-      "fecha": "22 Jun 2026, 17:01 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Revisión T-MEC no debe ser  promoción política.- Concanaco",
+      "resumen": "La revisión del T-MEC no debe funcionar como un mecanismo de promoción política, consideró la Concanaco.",
+      "link": "https://www.reforma.com/revision-t-mec-no-debe-ser-promocion-politica-concanaco/ar3228458",
+      "fecha": "24 Jun 2026, 13:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Padecen Mipymes ausencia de política pública para desarrollo",
+      "resumen": "Las Mipymes padecen la ausencia de una política pública integral, articulada y de largo plazo enfocada a su desarrollo, destacó la Coparmex.",
+      "link": "https://www.reforma.com/padecen-mipymes-ausencia-de-politica-publica-para-desarrollo/ar3228406",
+      "fecha": "24 Jun 2026, 13:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presume SE impacto  de planta de amoniaco",
+      "resumen": "La planta de Gas y Petroquímica de Occidente (GPO) en Topolobampo, Sinaloa generará hasta 10 mil empleos totales, según SE.",
+      "link": "https://www.reforma.com/presume-se-impacto-de-planta-de-amoniaco/ar3228460",
+      "fecha": "24 Jun 2026, 13:52 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,24 +186,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufren negocios pérdidas por CFE",
-      "resumen": "Empresas de diversos giros y tamaños reportaron que se han visto afectadas por cortes en el suministro de energía.",
-      "link": "https://www.reforma.com/sufren-negocios-perdidas-por-cfe/ar3228086",
-      "fecha": "24 Jun 2026, 07:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se rezaga Pemex en inversión física",
-      "resumen": "Inversión productiva que realizó Petróleos Mexicanos en primer cuatrimestre de este año es la más baja desde 2008 para un periodo similar.",
-      "link": "https://www.reforma.com/se-rezaga-pemex-en-inversion-fisica/ar3228099",
-      "fecha": "24 Jun 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Logra Audi México acuerdo salarial y evita huelga",
       "resumen": "Trabajadores de Audi aprueban acuerdo de aumento salarial y mejores prestaciones para 2026, evitando una posible huelga en planta de Puebla.",
       "link": "https://www.reforma.com/logra-audi-mexico-acuerdo-salarial-y-evita-huelga/ar3228345",
@@ -186,37 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae crudo WTI por debajo de los 70 dólares",
-      "resumen": "Los futuros del WTI alcanzaron un mínimo de sesión de 69.63 dólares por barril, la primera vez que cae debajo de los 70 dólares desde marzo.",
-      "link": "https://www.reforma.com/cae-crudo-wti-por-debajo-de-los-70-dolares/ar3228271",
-      "fecha": "24 Jun 2026, 09:16 hrs"
+      "titulo": "Cierra crudo en mínimos desde que inició la guerra",
+      "resumen": "Los precios del crudo cerraron con bajas de más de 4%, cotizando en mínimos desde que EU e Israel iniciaran la guerra contra Irán.",
+      "link": "https://www.reforma.com/cierra-crudo-en-minimos-desde-que-inicio-la-guerra/ar3228459",
+      "fecha": "24 Jun 2026, 13:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es Mundial 2026 el más conectado y el más caro",
-      "resumen": "Nunca antes en la historia de la humanidad un Mundial de Futbol había gozado de la mayor tecnología con IA.",
-      "link": "https://www.reforma.com/es-mundial-2026-el-mas-conectado-y-el-mas-caro/ar3228082",
-      "fecha": "24 Jun 2026, 07:00 hrs"
+      "titulo": "Insta China a regular la IA antes de 'perder el control'",
+      "resumen": "China alertó que el mundo corre el riesgo de \"perder el control\" de tecnologías como la IA si los gobiernos tardan demasiado en regularlas.",
+      "link": "https://www.reforma.com/insta-china-a-regular-la-ia-antes-de-perder-el-control/ar3228246",
+      "fecha": "24 Jun 2026, 08:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja oro de los 4,000 dólares por onza",
-      "resumen": "El oro al contado cayó por debajo del nivel psicológico clave de los 4 mil dólares por onza por primera vez desde noviembre de 2025.",
-      "link": "https://www.reforma.com/baja-oro-de-los-4-000-dolares-por-onza/ar3228228",
-      "fecha": "24 Jun 2026, 08:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa BIM vivienda  con crédito de 15 mmdp",
-      "resumen": "El Banco Inmobiliario Mexicano (BIM) prevé colocar al cierre de 2026, 15 mil millones de pesos en crédito puente y enfocado a vivienda.",
-      "link": "https://www.reforma.com/impulsa-bim-vivienda-con-credito-de-15-mmdp/ar3228057",
-      "fecha": "24 Jun 2026, 05:01 hrs"
+      "titulo": "Acusa Anthropic a Alibaba de destilar capacidades de Claude",
+      "resumen": "Anthropic acusó al gigante chino Alibaba de extraer de forma ilícita las capacidades de su modelo de Claude.",
+      "link": "https://www.reforma.com/acusa-anthropic-a-alibaba-de-destilar-capacidades-de-claude/ar3228558",
+      "fecha": "24 Jun 2026, 15:58 hrs"
     }
   ]
 }
