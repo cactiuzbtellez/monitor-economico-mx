@@ -1,7 +1,34 @@
 {
-  "actualizado": "25/06/2026 04:24 hrs",
+  "actualizado": "25/06/2026 12:35 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de EU trepa a 4.1% en mayo, su nivel más alto en tres años",
+      "resumen": "La escalada de los precios experimentó un repunte súbito tras el estallido de la guerra en Medio Oriente, que disparó, entre otros, los costos de la gasolina.",
+      "link": "https://expansion.mx/economia/2026/06/25/inflacion-de-eu-trepa-a-4-1-en-mayo-su-nivel-mas-alto-en-tres-anos",
+      "fecha": "25 Jun 2026, 09:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banamex divide la anualidad: 13 tarjetas de crédito ya permiten pagar la comisión en mensualidades",
+      "resumen": "La institución bancaria explica que la flexibilidad en el pago de la anualidad del uso de las tarjetas de crédito responde a inquietudes de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/06/25/banamex-anualidad-13-tarjetas-credito-pago-mensualidades",
+      "fecha": "25 Jun 2026, 08:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tras renovar el TLCUEM, México quiere ampliar negocios con países europeos de alto ingreso",
+      "resumen": "Suiza, Noruega, Islandia y Liechtenstein apenas representan 0.35% del comercio mexicano, pero concentran empresas globales y miles de millones de dólares en inversión.",
+      "link": "https://expansion.mx/economia/2026/06/25/mexico-desempolva-otro-tratado-comercial-europa",
+      "fecha": "25 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
-      "resumen": "La operación no representa contratación de deuda adicional y alcanzó una demanda máxima de 20,693 millones de dólares, equivalente a 3.3 veces el monto colocado, aseveró la SHCP.",
-      "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
-      "fecha": "23 Jun 2026, 13:42 hrs"
+      "titulo": "¿Qué tan lejos puedes viajar con los autos eléctricos más baratos de México?",
+      "resumen": "Del Zócalo de la CDMX a Acapulco, Veracruz o San Miguel de Allende: así se comparan las autonomías de los eléctricos más accesibles del mercado.",
+      "link": "https://expansion.mx/empresas/2026/06/25/cuantos-kilometros-dura-carga-autos-electricos-mexico",
+      "fecha": "25 Jun 2026, 07:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Actividad económica logra su mayor crecimiento desde diciembre por el Mundial",
-      "resumen": "Destaca que el crecimiento mensual de la construcción es el mayor desde agosto del 2020, que pudo estar impulsado por los preparativos del torneo.",
-      "link": "https://expansion.mx/economia/2026/06/23/actividad-economica-logra-su-mayor-crecimiento-desde-diciembre-por-el-mundial",
-      "fecha": "23 Jun 2026, 12:58 hrs"
+      "titulo": "Tras superar a Bodega Aurrerá Express en tiendas, 3B invertirá más de 5,000 mdp para mejorar su logística y tecnología",
+      "resumen": "La nueva estrategia apunta a fortalecer una arquitectura operativa más sofisticada, en un sector donde el crecimiento ya no depende solo de abrir tiendas, sino de sostenerlas con eficiencia en costos …",
+      "link": "https://expansion.mx/empresas/2026/06/24/tiendas-3b-infraestructura-tecnologica-expansion",
+      "fecha": "24 Jun 2026, 17:30 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El aguacate de Michoacán ya no será sólo famoso, ahora estará protegido",
-      "resumen": "La Secretaría de Economía otorgó la indicación geográfica \"Franja Michoacán\", un sello que fortalecerá la competitividad del aguacate mexicano en un mercado donde más de 70 países producen este fruto.",
-      "link": "https://expansion.mx/economia/2026/06/23/aguacate-michoacan-ya-no-sera-solo-famoso-ahora-protegido",
-      "fecha": "23 Jun 2026, 12:53 hrs"
+      "titulo": "Rondas petroleras vuelven al debate por caída de inversiones y producción energética de Pemex",
+      "resumen": "El esquema fue cancelado en 2018 y no se ha vuelto a desarrollar alguno similar para inversiones y exploración masiva.",
+      "link": "https://expansion.mx/empresas/2026/06/24/rondas-petroleras-mexico-pemex-exploracion-hidrocarburos",
+      "fecha": "24 Jun 2026, 17:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "23 Jun 2026, 11:47 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las cabinas de teléfono que nadie usa, pero Telmex no puede retirar",
-      "resumen": "El uso de teléfonos públicos se desplomó hace años, pero Telmex continúa conservando miles de cabinas. Un requisito incluido en su concesión impide que desaparezcan por completo.",
-      "link": "https://expansion.mx/empresas/2026/06/22/por-que-telmex-no-retira-cabinas-telefonos",
-      "fecha": "22 Jun 2026, 19:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Chipotle, el experimento que Alsea intentará repetir sin los errores de Taco Bell",
-      "resumen": "La cadena estadounidense abrirá sus primeros restaurantes en México de la mano de Alsea. El desafío será convencer a consumidores acostumbrados a la comida mexicana tradicional y evitar el destino que…",
-      "link": "https://expansion.mx/empresas/2026/06/22/chipotle-llega-alsea-vender-comida-mexicana-mexicanos",
-      "fecha": "22 Jun 2026, 18:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La ola china va más allá de los autos: todos los vehículos del mundo ya tienen al menos un componente chino",
-      "resumen": "La expansión de la proveeduría china ha llevado a que ningún vehículo escape a su influencia, con al menos un componente fabricado en ese país dentro de cada unidad producida mundialmente.",
-      "link": "https://expansion.mx/empresas/2026/06/22/china-ya-esta-cada-auto-en-mexico",
-      "fecha": "22 Jun 2026, 17:30 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suspenderá Binance sus servicios en varios países de la UE",
+      "resumen": "La plataforma de intercambio de criptoactivos Binance suspenderá a partir del 1 de julio parte de sus servicios en varios países europeos.",
+      "link": "https://www.reforma.com/suspendera-binance-sus-servicios-en-varios-paises-de-la-ue/ar3229176",
+      "fecha": "25 Jun 2026, 11:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Niega Vizsla vinculación con crimen organizado",
-      "resumen": "La minera canadiense Vizsla Silver rechazó los señalamientos de la Presidencia que vinculan a la compañía con la delincuencia organizada.",
-      "link": "https://www.reforma.com/niega-vizsla-vinculacion-con-crimen-organizado/ar3228600",
-      "fecha": "24 Jun 2026, 18:30 hrs"
+      "titulo": "Lanza Airbnb pago de meses sin intereses en México",
+      "resumen": "Airbnb lanza en México opción para que los viajeros difieran el pago de reservas en la plataforma hasta en tres mensualidades sin intereses.",
+      "link": "https://www.reforma.com/lanza-airbnb-pago-de-meses-sin-intereses-en-mexico/ar3229160",
+      "fecha": "25 Jun 2026, 11:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusa Anthropic a Alibaba de destilar capacidades de Claude",
-      "resumen": "Anthropic acusó al gigante chino Alibaba de extraer de forma ilícita las capacidades de su modelo de Claude.",
-      "link": "https://www.reforma.com/acusa-anthropic-a-alibaba-de-destilar-capacidades-de-claude/ar3228558",
-      "fecha": "24 Jun 2026, 15:58 hrs"
+      "titulo": "Anuncia Michelin cierre de planta en Alabama",
+      "resumen": "El fabricante francés de neumáticos Michelin dijo que para 2028 cerrará su planta de BFGoodrich en Alabama, que emplea a mil 200 personas.",
+      "link": "https://www.reforma.com/anuncia-michelin-cierre-de-planta-en-alabama/ar3229144",
+      "fecha": "25 Jun 2026, 11:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera Adidas a Nike en ventas por el Mundial",
-      "resumen": "A medida que se recrudece la batalla por las marcas en el Mundial, datos indican que Adidas parece estar obteniendo mayor impulso que Nike.",
-      "link": "https://www.reforma.com/supera-adidas-a-nike-en-ventas-por-el-mundial/ar3228544",
-      "fecha": "24 Jun 2026, 15:32 hrs"
+      "titulo": "Impulsa Micron a las acciones mundiales de chips",
+      "resumen": "Acciones de empresas de chips se disparaban a nivel mundial después de que resultados de Micron reavivaran el repunte impulsado por la IA.",
+      "link": "https://www.reforma.com/impulsa-micron-a-las-acciones-mundiales-de-chips/ar3229104",
+      "fecha": "25 Jun 2026, 09:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran mercados de EU con tendencia mixta",
-      "resumen": "El índice Nasdaq, que agrupa las principales acciones tecnológicas, cayó 0.43%, el Dow Jones ganó 0.35% y el ampliado S&amp;P 500 avanzó 0.10%.",
-      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-tendencia-mixta/ar3228535",
-      "fecha": "24 Jun 2026, 15:16 hrs"
+      "titulo": "Presenta IBM tecnología que eleva 50% la potencia de chips",
+      "resumen": "IBM presentó una nueva tecnología que debería dar lugar en un plazo de cinco años a nuevos chips con un rendimiento aumentado en 50%.",
+      "link": "https://www.reforma.com/presenta-ibm-tecnologia-que-eleva-50-la-potencia-de-chips/ar3229083",
+      "fecha": "25 Jun 2026, 09:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube Micron 5% tras sólidos pronósticos de ventas",
-      "resumen": "Micron, el mayor fabricante estadounidense de chips de memoria, presentó una previsión de ventas que superó las estimaciones de Wall Street.",
-      "link": "https://www.reforma.com/sube-micron-5-tras-solidos-pronosticos-de-ventas/ar3228506",
-      "fecha": "24 Jun 2026, 14:37 hrs"
+      "titulo": "Se suman 460 mil personas al mercado laboral",
+      "resumen": "En mayo de 2026, la PEA fue de 62.1 millones de personas de 15 años y más; 460 mil personas adicionales respecto mayo de 2025, según Inegi.",
+      "link": "https://www.reforma.com/se-suman-460-mil-personas-al-mercado-laboral/ar3229080",
+      "fecha": "25 Jun 2026, 09:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presume SE impacto de planta de amoniaco",
-      "resumen": "La planta de Gas y Petroquímica de Occidente (GPO) en Topolobampo, Sinaloa generará hasta 10 mil empleos totales, según SE.",
-      "link": "https://www.reforma.com/presume-se-impacto-de-planta-de-amoniaco/ar3228460",
-      "fecha": "24 Jun 2026, 13:52 hrs"
+      "titulo": "Amplían plazo para registro de líneas celulares",
+      "resumen": "Comisión Reguladora de Telecomunicaciones anunció prórroga para registro de líneas celulares; plazo dependerá de último dígito del número.",
+      "link": "https://www.reforma.com/amplian-plazo-para-registro-de-lineas-celulares/ar3229059",
+      "fecha": "25 Jun 2026, 08:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra crudo en mínimos desde que inició la guerra",
-      "resumen": "Los precios del crudo cerraron con bajas de más de 4%, cotizando en mínimos desde que EU e Israel iniciaran la guerra contra Irán.",
-      "link": "https://www.reforma.com/cierra-crudo-en-minimos-desde-que-inicio-la-guerra/ar3228459",
-      "fecha": "24 Jun 2026, 13:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Revisión T-MEC no debe ser promoción política.- Concanaco",
-      "resumen": "La revisión del T-MEC no debe funcionar como un mecanismo de promoción política, consideró la Concanaco.",
-      "link": "https://www.reforma.com/revision-t-mec-no-debe-ser-promocion-politica-concanaco/ar3228458",
-      "fecha": "24 Jun 2026, 13:46 hrs"
+      "titulo": "Está refinería Olmeca en proceso de arranque tras falla",
+      "resumen": "Pemex informó que la refinería Olmeca está en proceso de arranque tras un paro en su planta de generación eléctrica.",
+      "link": "https://www.reforma.com/esta-refineria-olmeca-en-proceso-de-arranque-tras-falla/ar3229058",
+      "fecha": "25 Jun 2026, 08:31 hrs"
     }
   ]
 }
