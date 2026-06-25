@@ -1,34 +1,7 @@
 {
-  "actualizado": "25/06/2026 12:35 hrs",
+  "actualizado": "25/06/2026 17:55 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inflación de EU trepa a 4.1% en mayo, su nivel más alto en tres años",
-      "resumen": "La escalada de los precios experimentó un repunte súbito tras el estallido de la guerra en Medio Oriente, que disparó, entre otros, los costos de la gasolina.",
-      "link": "https://expansion.mx/economia/2026/06/25/inflacion-de-eu-trepa-a-4-1-en-mayo-su-nivel-mas-alto-en-tres-anos",
-      "fecha": "25 Jun 2026, 09:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banamex divide la anualidad: 13 tarjetas de crédito ya permiten pagar la comisión en mensualidades",
-      "resumen": "La institución bancaria explica que la flexibilidad en el pago de la anualidad del uso de las tarjetas de crédito responde a inquietudes de los usuarios.",
-      "link": "https://expansion.mx/economia/2026/06/25/banamex-anualidad-13-tarjetas-credito-pago-mensualidades",
-      "fecha": "25 Jun 2026, 08:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Tras renovar el TLCUEM, México quiere ampliar negocios con países europeos de alto ingreso",
-      "resumen": "Suiza, Noruega, Islandia y Liechtenstein apenas representan 0.35% del comercio mexicano, pero concentran empresas globales y miles de millones de dólares en inversión.",
-      "link": "https://expansion.mx/economia/2026/06/25/mexico-desempolva-otro-tratado-comercial-europa",
-      "fecha": "25 Jun 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +49,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "¿Qué tan lejos puedes viajar con los autos eléctricos más baratos de México?",
-      "resumen": "Del Zócalo de la CDMX a Acapulco, Veracruz o San Miguel de Allende: así se comparan las autonomías de los eléctricos más accesibles del mercado.",
-      "link": "https://expansion.mx/empresas/2026/06/25/cuantos-kilometros-dura-carga-autos-electricos-mexico",
-      "fecha": "25 Jun 2026, 07:36 hrs"
+      "titulo": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
+      "resumen": "La operación no representa contratación de deuda adicional y alcanzó una demanda máxima de 20,693 millones de dólares, equivalente a 3.3 veces el monto colocado, aseveró la SHCP.",
+      "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
+      "fecha": "23 Jun 2026, 13:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Actividad económica logra su mayor crecimiento desde diciembre por el Mundial",
+      "resumen": "Destaca que el crecimiento mensual de la construcción es el mayor desde agosto del 2020, que pudo estar impulsado por los preparativos del torneo.",
+      "link": "https://expansion.mx/economia/2026/06/23/actividad-economica-logra-su-mayor-crecimiento-desde-diciembre-por-el-mundial",
+      "fecha": "23 Jun 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El aguacate de Michoacán ya no será sólo famoso, ahora estará protegido",
+      "resumen": "La Secretaría de Economía otorgó la indicación geográfica \"Franja Michoacán\", un sello que fortalecerá la competitividad del aguacate mexicano en un mercado donde más de 70 países producen este fruto.",
+      "link": "https://expansion.mx/economia/2026/06/23/aguacate-michoacan-ya-no-sera-solo-famoso-ahora-protegido",
+      "fecha": "23 Jun 2026, 12:53 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,58 +138,31 @@
       "fecha": "23 Jun 2026, 11:47 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suspenderá Binance sus servicios en varios países de la UE",
-      "resumen": "La plataforma de intercambio de criptoactivos Binance suspenderá a partir del 1 de julio parte de sus servicios en varios países europeos.",
-      "link": "https://www.reforma.com/suspendera-binance-sus-servicios-en-varios-paises-de-la-ue/ar3229176",
-      "fecha": "25 Jun 2026, 11:47 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las cabinas de teléfono que nadie usa, pero Telmex no puede retirar",
+      "resumen": "El uso de teléfonos públicos se desplomó hace años, pero Telmex continúa conservando miles de cabinas. Un requisito incluido en su concesión impide que desaparezcan por completo.",
+      "link": "https://expansion.mx/empresas/2026/06/22/por-que-telmex-no-retira-cabinas-telefonos",
+      "fecha": "22 Jun 2026, 19:52 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lanza Airbnb pago de meses sin intereses en México",
-      "resumen": "Airbnb lanza en México opción para que los viajeros difieran el pago de reservas en la plataforma hasta en tres mensualidades sin intereses.",
-      "link": "https://www.reforma.com/lanza-airbnb-pago-de-meses-sin-intereses-en-mexico/ar3229160",
-      "fecha": "25 Jun 2026, 11:47 hrs"
+      "titulo": "Mantiene Banxico tasa en 6.5% ante menor nivel  de inflación",
+      "resumen": "Banxico mantuvo la tasa de interés de referencia en un nivel de 6.50 por ciento.",
+      "link": "https://www.reforma.com/mantiene-banxico-tasa-en-6-5-ante-menor-nivel-de-inflacion/ar3229238",
+      "fecha": "25 Jun 2026, 13:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Michelin cierre de planta en Alabama",
-      "resumen": "El fabricante francés de neumáticos Michelin dijo que para 2028 cerrará su planta de BFGoodrich en Alabama, que emplea a mil 200 personas.",
-      "link": "https://www.reforma.com/anuncia-michelin-cierre-de-planta-en-alabama/ar3229144",
-      "fecha": "25 Jun 2026, 11:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa Micron a las acciones mundiales de chips",
-      "resumen": "Acciones de empresas de chips se disparaban a nivel mundial después de que resultados de Micron reavivaran el repunte impulsado por la IA.",
-      "link": "https://www.reforma.com/impulsa-micron-a-las-acciones-mundiales-de-chips/ar3229104",
-      "fecha": "25 Jun 2026, 09:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presenta IBM tecnología que eleva 50% la potencia de chips",
-      "resumen": "IBM presentó una nueva tecnología que debería dar lugar en un plazo de cinco años a nuevos chips con un rendimiento aumentado en 50%.",
-      "link": "https://www.reforma.com/presenta-ibm-tecnologia-que-eleva-50-la-potencia-de-chips/ar3229083",
-      "fecha": "25 Jun 2026, 09:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se suman 460 mil personas al mercado laboral",
-      "resumen": "En mayo de 2026, la PEA fue de 62.1 millones de personas de 15 años y más; 460 mil personas adicionales respecto mayo de 2025, según Inegi.",
-      "link": "https://www.reforma.com/se-suman-460-mil-personas-al-mercado-laboral/ar3229080",
-      "fecha": "25 Jun 2026, 09:22 hrs"
+      "titulo": "Discutirían en T-MEC adaptación tecnológica de las pymes",
+      "resumen": "Uno de los tema que se podrían discutir en el T-MEC es lo referente al acceso del financiamiento y la adopción de tecnologías por las pymes.",
+      "link": "https://www.reforma.com/discutirian-en-t-mec-adaptacion-tecnologica-de-las-pymes/ar3229283",
+      "fecha": "25 Jun 2026, 14:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Está refinería Olmeca en proceso de arranque tras falla",
-      "resumen": "Pemex informó que la refinería Olmeca está en proceso de arranque tras un paro en su planta de generación eléctrica.",
-      "link": "https://www.reforma.com/esta-refineria-olmeca-en-proceso-de-arranque-tras-falla/ar3229058",
-      "fecha": "25 Jun 2026, 08:31 hrs"
+      "titulo": "Se suman 460 mil personas al mercado laboral",
+      "resumen": "En mayo de 2026, la PEA fue de 62.1 millones de personas de 15 años y más; 460 mil personas adicionales respecto mayo de 2025, según Inegi.",
+      "link": "https://www.reforma.com/se-suman-460-mil-personas-al-mercado-laboral/ar3229080",
+      "fecha": "25 Jun 2026, 09:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lanza Airbnb pago de meses sin intereses en México",
+      "resumen": "Airbnb lanza en México opción para que los viajeros difieran el pago de reservas en la plataforma hasta en tres mensualidades sin intereses.",
+      "link": "https://www.reforma.com/lanza-airbnb-pago-de-meses-sin-intereses-en-mexico/ar3229160",
+      "fecha": "25 Jun 2026, 11:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tomará tiempo para que se normalicen precios de energía.-FMI",
+      "resumen": "El FMI dijo que ha observado una caída en los precios de la energía, pero señaló que tomará tiempo para que los flujos se normalicen.",
+      "link": "https://www.reforma.com/tomara-tiempo-para-que-se-normalicen-precios-de-energia-fmi/ar3229231",
+      "fecha": "25 Jun 2026, 13:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lidera Apple caídas en Nasdaq; pierde 6%",
+      "resumen": "El índice Nasdaq Composite cayó por cuarta jornada consecutiva, ya que un desempeño notable de Micron fue opacado por la caída de Apple.",
+      "link": "https://www.reforma.com/lidera-apple-caidas-en-nasdaq-pierde-6/ar3229334",
+      "fecha": "25 Jun 2026, 14:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumentará Microsoft precio de sus consolas Xbox",
+      "resumen": "Microsoft anunció que subirá el precio de las consolas Xbox debido al fuerte aumento de los costos de los componentes.",
+      "link": "https://www.reforma.com/aumentara-microsoft-precio-de-sus-consolas-xbox/ar3229191",
+      "fecha": "25 Jun 2026, 11:56 hrs"
     }
   ]
 }
