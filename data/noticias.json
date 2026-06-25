@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/06/2026 16:56 hrs",
+  "actualizado": "25/06/2026 04:24 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,46 +150,55 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revisión T-MEC no debe ser  promoción política.- Concanaco",
-      "resumen": "La revisión del T-MEC no debe funcionar como un mecanismo de promoción política, consideró la Concanaco.",
-      "link": "https://www.reforma.com/revision-t-mec-no-debe-ser-promocion-politica-concanaco/ar3228458",
-      "fecha": "24 Jun 2026, 13:46 hrs"
+      "titulo": "Niega Vizsla vinculación con crimen organizado",
+      "resumen": "La minera canadiense Vizsla Silver rechazó los señalamientos de la Presidencia que vinculan a la compañía con la delincuencia organizada.",
+      "link": "https://www.reforma.com/niega-vizsla-vinculacion-con-crimen-organizado/ar3228600",
+      "fecha": "24 Jun 2026, 18:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Padecen Mipymes ausencia de política pública para desarrollo",
-      "resumen": "Las Mipymes padecen la ausencia de una política pública integral, articulada y de largo plazo enfocada a su desarrollo, destacó la Coparmex.",
-      "link": "https://www.reforma.com/padecen-mipymes-ausencia-de-politica-publica-para-desarrollo/ar3228406",
-      "fecha": "24 Jun 2026, 13:14 hrs"
+      "titulo": "Acusa Anthropic a Alibaba de destilar capacidades de Claude",
+      "resumen": "Anthropic acusó al gigante chino Alibaba de extraer de forma ilícita las capacidades de su modelo de Claude.",
+      "link": "https://www.reforma.com/acusa-anthropic-a-alibaba-de-destilar-capacidades-de-claude/ar3228558",
+      "fecha": "24 Jun 2026, 15:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presume SE impacto  de planta de amoniaco",
+      "titulo": "Supera Adidas a Nike en ventas por el Mundial",
+      "resumen": "A medida que se recrudece la batalla por las marcas en el Mundial, datos indican que Adidas parece estar obteniendo mayor impulso que Nike.",
+      "link": "https://www.reforma.com/supera-adidas-a-nike-en-ventas-por-el-mundial/ar3228544",
+      "fecha": "24 Jun 2026, 15:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierran mercados de EU con tendencia mixta",
+      "resumen": "El índice Nasdaq, que agrupa las principales acciones tecnológicas, cayó 0.43%, el Dow Jones ganó 0.35% y el ampliado S&amp;P 500 avanzó 0.10%.",
+      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-tendencia-mixta/ar3228535",
+      "fecha": "24 Jun 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube Micron 5% tras sólidos pronósticos de ventas",
+      "resumen": "Micron, el mayor fabricante estadounidense de chips de memoria, presentó una previsión de ventas que superó las estimaciones de Wall Street.",
+      "link": "https://www.reforma.com/sube-micron-5-tras-solidos-pronosticos-de-ventas/ar3228506",
+      "fecha": "24 Jun 2026, 14:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presume SE impacto de planta de amoniaco",
       "resumen": "La planta de Gas y Petroquímica de Occidente (GPO) en Topolobampo, Sinaloa generará hasta 10 mil empleos totales, según SE.",
       "link": "https://www.reforma.com/presume-se-impacto-de-planta-de-amoniaco/ar3228460",
       "fecha": "24 Jun 2026, 13:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Desacelera inflación a 3.55% en primera mitad de junio",
-      "resumen": "La inflación de México fue de 3.55% interanual en la primera quincena de junio, su menor nivel desde la segunda mitad de octubre de 2025.",
-      "link": "https://www.reforma.com/desacelera-inflacion-a-3-55-en-primera-mitad-de-junio/ar3228212",
-      "fecha": "24 Jun 2026, 07:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Logra Audi México acuerdo salarial y evita huelga",
-      "resumen": "Trabajadores de Audi aprueban acuerdo de aumento salarial y mejores prestaciones para 2026, evitando una posible huelga en planta de Puebla.",
-      "link": "https://www.reforma.com/logra-audi-mexico-acuerdo-salarial-y-evita-huelga/ar3228345",
-      "fecha": "24 Jun 2026, 11:36 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Insta China a regular la IA antes de 'perder el control'",
-      "resumen": "China alertó que el mundo corre el riesgo de \"perder el control\" de tecnologías como la IA si los gobiernos tardan demasiado en regularlas.",
-      "link": "https://www.reforma.com/insta-china-a-regular-la-ia-antes-de-perder-el-control/ar3228246",
-      "fecha": "24 Jun 2026, 08:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acusa Anthropic a Alibaba de destilar capacidades de Claude",
-      "resumen": "Anthropic acusó al gigante chino Alibaba de extraer de forma ilícita las capacidades de su modelo de Claude.",
-      "link": "https://www.reforma.com/acusa-anthropic-a-alibaba-de-destilar-capacidades-de-claude/ar3228558",
-      "fecha": "24 Jun 2026, 15:58 hrs"
+      "titulo": "Revisión T-MEC no debe ser promoción política.- Concanaco",
+      "resumen": "La revisión del T-MEC no debe funcionar como un mecanismo de promoción política, consideró la Concanaco.",
+      "link": "https://www.reforma.com/revision-t-mec-no-debe-ser-promocion-politica-concanaco/ar3228458",
+      "fecha": "24 Jun 2026, 13:46 hrs"
     }
   ]
 }
