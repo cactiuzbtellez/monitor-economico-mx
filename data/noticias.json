@@ -1,7 +1,34 @@
 {
-  "actualizado": "26/06/2026 05:18 hrs",
+  "actualizado": "26/06/2026 12:12 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las exportaciones de México mantienen el ritmo con un alza de 25.4% en mayo",
+      "resumen": "La balanza comercial registró saldo positivo con un superávit de 2,259 millones de dólares, de acuerdo con el Inegi.",
+      "link": "https://expansion.mx/economia/2026/06/26/exportaciones-mexico-suben-mayo-2026",
+      "fecha": "26 Jun 2026, 08:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El negocio más perrón de México: la exportación de alimento para mascotas crece 7.5 veces",
+      "resumen": "Las exportaciones mexicanas de alimento para perros y gatos alcanzaron un récord de 214.2 mdd en 2025, impulsadas por el auge del mercado de mascotas y nuevas inversiones para abastecer a Norteamérica…",
+      "link": "https://expansion.mx/economia/2026/06/26/mexico-multiplica-exportaciones-alimento-para-mascotas",
+      "fecha": "26 Jun 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los contribuyentes Resico llegan a 4.4 millones, casi lo mismo que la población de Panamá",
+      "resumen": "El programa que busca reducir la informalidad en México, apenas está a 200,000 contribuyentes de distancia de la población total panameña.",
+      "link": "https://expansion.mx/economia/2026/06/25/resico-4-millones-mismo-poblacion-de-panama",
+      "fecha": "25 Jun 2026, 17:57 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La inflación retrocede a 3.55% en la primera quincena de junio, pese a inicio del Mundial",
-      "resumen": "El retroceso obedece a la caída de los precios de los productos agropecuarios. La inflación subyacente sigue por arriba del 4%, alentada por servicios turísticos y transporte aéreo.",
-      "link": "https://expansion.mx/economia/2026/06/24/la-inflacion-retrocede-a-3-55-en-la-primera-quincena-de-junio-pese-a-inicio-del-mundial",
-      "fecha": "24 Jun 2026, 06:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "'Apagón telefónico' pone en riesgo cobro de hasta 28,600 mdp en créditos",
-      "resumen": "La cobranza financiera depende del celular para recuperar ocho de cada 10 pesos adeudados y las fintech serían las más expuestas a un aumento de morosidad.",
-      "link": "https://expansion.mx/economia/2026/06/24/apagon-telefonico-costaria-28000-mdp-despachos-de-cobranza",
-      "fecha": "24 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inbursa y Aeroméxico presentan una forma de viajar y acumular valor",
-      "resumen": "El nuevo dossier de tarjetas de marca compartida integra respaldo económico, vanguardia tecnológica y excelencia para el viajero.",
-      "link": "https://expansion.mx/economia/2026/06/23/inbursa-y-aeromexico-presentan-una-forma-de-viajar-y-acumular-valor",
-      "fecha": "23 Jun 2026, 16:39 hrs"
+      "titulo": "La transmisión eléctrica pone en riesgo el boom renovable en México",
+      "resumen": "Los proyectos para ampliar la red de transmisión avanzan más lento que la construcción de nuevas centrales renovables, un desfase que puede dejar parte de esa electricidad sin llegar a hogares, indust…",
+      "link": "https://expansion.mx/empresas/2026/06/26/la-transmision-electrica-pone-en-riesgo-el-boom-renovable-en-mexico",
+      "fecha": "26 Jun 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,22 @@
       "fecha": "24 Jun 2026, 16:33 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gasolineras que venden menos de 200,000 litros al mes operan con pérdidas",
-      "resumen": "Con un margen promedio de 1.50 pesos por litro de diésel, las estaciones de servicio no alcanzan a cubrir sus costos operativos y obtener utilidad.",
-      "link": "https://expansion.mx/empresas/2026/06/23/gasolineras-menos-200-mil-litros-operan-perdidas-mexico",
-      "fecha": "23 Jun 2026, 18:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se reducen 21% exportaciones de crudo en mayo",
+      "resumen": "En mayo, el volumen de crudo exportado fue de 616 mil barriles diarios, una caída de 21 %, respecto al mismo mes de 2025, según Inegi.",
+      "link": "https://www.reforma.com/se-reducen-21-exportaciones-de-crudo-en-mayo/ar3229850",
+      "fecha": "26 Jun 2026, 09:27 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afectan apagones a 66% de maquilas",
+      "resumen": "Los apagones e intermitencias frecuentes que padece el área metropolitana de Monterrey han impactado al 66% de las empresas",
+      "link": "https://www.reforma.com/afectan-apagones-a-66-de-maquilas/ar3229699",
+      "fecha": "26 Jun 2026, 07:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,6 +177,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Acumula empresa sin energía ¡19 días!",
+      "resumen": "Con 19 días sin electricidad, lo que vive la empresa Safe Data Resources, en Apodaca, es un ejemplo de afectaciones causadas por CFE en NL.",
+      "link": "https://www.reforma.com/acumula-empresa-sin-energia-19-dias/ar3229735",
+      "fecha": "26 Jun 2026, 07:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Reducen pensiones la desigualdad",
       "resumen": "Pensión Para el Bienestar de Adultos Mayores ayudó a reducir la desigualdad de ingresos principalmente en el sur del País, reveló Banxico.",
       "link": "https://www.reforma.com/reducen-pensiones-la-desigualdad/ar3229608",
@@ -168,55 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta el empleo del sector informal",
-      "resumen": "La Encuesta Nacional de Ocupación y Empleo reveló que en mayo de 2025, la población ocupada alcanzó las 60 millones 406 mil personas.",
-      "link": "https://www.reforma.com/aumenta-el-empleo-del-sector-informal/ar3229621",
-      "fecha": "26 Jun 2026, 05:02 hrs"
+      "titulo": "Amaga Trump con tarifa de 100% a países por impuesto digital",
+      "resumen": "El Presidente Donald Trump amenazó con imponer aranceles del 100% a países europeos que impongan un impuesto sobre los servicios digitales.",
+      "link": "https://www.reforma.com/amaga-trump-con-tarifa-de-100-a-paises-por-impuesto-digital/ar3229908",
+      "fecha": "26 Jun 2026, 11:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae ocupación de alojamiento",
-      "resumen": "A pesar de la euforia mundialista, la ocupación hotelera en la Ciudad de México se ha mantenido por debajo de las expectativas del sector.",
-      "link": "https://www.reforma.com/cae-ocupacion-de-alojamiento/ar3229630",
-      "fecha": "26 Jun 2026, 04:59 hrs"
+      "titulo": "Se desploman precios del crudo otro 3%",
+      "resumen": "Los futuros del crudo Brent caían un 3.47%, a 72.65 dólares el barril; y el West Texas Intermediate restaba un 3.42%, a 69.46 dólares.",
+      "link": "https://www.reforma.com/se-desploman-precios-del-crudo-otro-3/ar3229799",
+      "fecha": "26 Jun 2026, 07:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva eficacia modelo flexible",
-      "resumen": "Las empresas que aplican modelos flexibles y por objetivos pueden elevar 20% su productividad, afirma LHH México.",
-      "link": "https://www.reforma.com/eleva-eficacia-modelo-flexible/ar3229656",
-      "fecha": "26 Jun 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mantiene Banxico tasa en 6.5% ante menor nivel  de inflación",
-      "resumen": "Banxico mantuvo la tasa de interés de referencia en un nivel de 6.50 por ciento.",
-      "link": "https://www.reforma.com/mantiene-banxico-tasa-en-6-5-ante-menor-nivel-de-inflacion/ar3229238",
-      "fecha": "25 Jun 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Discutirían en T-MEC adaptación tecnológica de las pymes",
-      "resumen": "Uno de los tema que se podrían discutir en el T-MEC es lo referente al acceso del financiamiento y la adopción de tecnologías por las pymes.",
-      "link": "https://www.reforma.com/discutirian-en-t-mec-adaptacion-tecnologica-de-las-pymes/ar3229283",
-      "fecha": "25 Jun 2026, 14:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amplían plazo para registro de líneas celulares",
-      "resumen": "Comisión Reguladora de Telecomunicaciones anunció prórroga para registro de líneas celulares; plazo dependerá de último dígito del número.",
-      "link": "https://www.reforma.com/amplian-plazo-para-registro-de-lineas-celulares/ar3229059",
-      "fecha": "25 Jun 2026, 08:31 hrs"
+      "titulo": "Amplían bonos de SpaceX pérdidas y sorprenden al mercado",
+      "resumen": "La emisión de SpaceX sigue deteriorándose y operadores dicen no recordar otra colocación cuyos diferenciales se hayan ampliado tan rápido.",
+      "link": "https://www.reforma.com/amplian-bonos-de-spacex-perdidas-y-sorprenden-al-mercado/ar3229892",
+      "fecha": "26 Jun 2026, 10:55 hrs"
     }
   ]
 }
