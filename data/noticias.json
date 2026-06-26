@@ -1,7 +1,43 @@
 {
-  "actualizado": "25/06/2026 17:55 hrs",
+  "actualizado": "26/06/2026 05:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico mantiene tasa en 6.50% tras desaceleración de la inflación",
+      "resumen": "El banco central dejó sin cambios la tasa de referencia, en línea con lo esperado por analistas. Además, ajustó a la baja la expectativa de inflación general.",
+      "link": "https://expansion.mx/economia/2026/06/25/banxico-mantiene-tasa-en-6-50-tras-desaceleracion-de-la-inflacion",
+      "fecha": "25 Jun 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de EU trepa a 4.1% en mayo, su nivel más alto en tres años",
+      "resumen": "La escalada de los precios experimentó un repunte súbito tras el estallido de la guerra en Medio Oriente, que disparó, entre otros, los costos de la gasolina.",
+      "link": "https://expansion.mx/economia/2026/06/25/inflacion-de-eu-trepa-a-4-1-en-mayo-su-nivel-mas-alto-en-tres-anos",
+      "fecha": "25 Jun 2026, 09:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banamex divide la anualidad: 13 tarjetas de crédito ya permiten pagar la comisión en mensualidades",
+      "resumen": "La institución bancaria explica que la flexibilidad en el pago de la anualidad del uso de las tarjetas de crédito responde a inquietudes de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/06/25/banamex-anualidad-13-tarjetas-credito-pago-mensualidades",
+      "fecha": "25 Jun 2026, 08:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tras renovar el TLCUEM, México quiere ampliar negocios con países europeos de alto ingreso",
+      "resumen": "Suiza, Noruega, Islandia y Liechtenstein apenas representan 0.35% del comercio mexicano, pero concentran empresas globales y miles de millones de dólares en inversión.",
+      "link": "https://expansion.mx/economia/2026/06/25/mexico-desempolva-otro-tratado-comercial-europa",
+      "fecha": "25 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México aprovecha el desplome chino en EU para ganar comercio en 22 industrias",
-      "resumen": "Computadoras, equipo de transporte y maquinaria lideran los sectores donde México aumentó su participación en las importaciones de Estados Unidos, de acuerdo con un análisis del IMCO.",
-      "link": "https://expansion.mx/economia/2026/06/23/mexico-gana-comercio-eu-china-22-industrias",
-      "fecha": "23 Jun 2026, 14:49 hrs"
+      "titulo": "Soriana ajusta Julio Regalado con foco en consumo familiar durante el Mundial 2026",
+      "resumen": "La cadena ajustó la operación de Julio Regalado para responder a los hábitos de consumo durante el Mundial 2026 e integró por primera vez sus marcas propias como parte central de la campaña comercial.",
+      "link": "https://expansion.mx/empresas/2026/06/25/soriana-cambio-calendario-julio-regalado-mundial-2026",
+      "fecha": "25 Jun 2026, 16:59 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda recompra bonos de deuda externa por 6,300 millones de dólares",
-      "resumen": "La operación no representa contratación de deuda adicional y alcanzó una demanda máxima de 20,693 millones de dólares, equivalente a 3.3 veces el monto colocado, aseveró la SHCP.",
-      "link": "https://expansion.mx/economia/2026/06/23/hacienda-recompra-bonos-deuda-externa-6300-millones-dolares",
-      "fecha": "23 Jun 2026, 13:42 hrs"
+      "titulo": "El sector automotriz: entre el cambio tecnológico y la evolución del liderazgo",
+      "resumen": "Mariana Silveira Lavigne, directora de Mercadotecnia de Stellantis México y directora de la marca FIAT en México, compartió su perspectiva sobre una nueva forma de hacer carrera en la industria.",
+      "link": "https://expansion.mx/empresas/2026/06/25/el-sector-automotriz-entre-el-cambio-tecnologico-y-la-evolucion-del-liderazgo",
+      "fecha": "25 Jun 2026, 16:10 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Actividad económica logra su mayor crecimiento desde diciembre por el Mundial",
-      "resumen": "Destaca que el crecimiento mensual de la construcción es el mayor desde agosto del 2020, que pudo estar impulsado por los preparativos del torneo.",
-      "link": "https://expansion.mx/economia/2026/06/23/actividad-economica-logra-su-mayor-crecimiento-desde-diciembre-por-el-mundial",
-      "fecha": "23 Jun 2026, 12:58 hrs"
+      "titulo": "AICM, Guadalajara y Monterrey crecen en pasajeros antes del Mundial mientras aeropuertos de playa caen",
+      "resumen": "El tráfico aéreo en México cayó 0.6% en el primer cuatrimestre, pero las ciudades sede del Mundial —CDMX, Guadalajara y Monterrey— registraron incrementos en el flujo de pasajeros",
+      "link": "https://expansion.mx/empresas/2026/06/25/aeropuertos-mexico-menos-turitas-aicm-crece-gracias-mundial",
+      "fecha": "25 Jun 2026, 15:44 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El aguacate de Michoacán ya no será sólo famoso, ahora estará protegido",
-      "resumen": "La Secretaría de Economía otorgó la indicación geográfica \"Franja Michoacán\", un sello que fortalecerá la competitividad del aguacate mexicano en un mercado donde más de 70 países producen este fruto.",
-      "link": "https://expansion.mx/economia/2026/06/23/aguacate-michoacan-ya-no-sera-solo-famoso-ahora-protegido",
-      "fecha": "23 Jun 2026, 12:53 hrs"
+      "titulo": "¿Qué tan lejos puedes viajar con los autos eléctricos más baratos de México?",
+      "resumen": "Del Zócalo de la CDMX a Acapulco, Veracruz o San Miguel de Allende: así se comparan las autonomías de los eléctricos más accesibles del mercado.",
+      "link": "https://expansion.mx/empresas/2026/06/25/cuantos-kilometros-dura-carga-autos-electricos-mexico",
+      "fecha": "25 Jun 2026, 07:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,49 @@
       "fecha": "23 Jun 2026, 18:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Dónde están las electrolineras en CDMX? Consulta el mapa completo por alcaldía",
-      "resumen": "Consulta el mapa oficial de las electrolineras en CDMX con las estaciones más completas por alcaldía, su ubicación, cargadores, conectores y potencia disponible.",
-      "link": "https://expansion.mx/empresas/2026/06/23/donde-cargar-auto-electrico-cdmx-estaciones-cfe",
-      "fecha": "23 Jun 2026, 16:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Firma CFE con Carso; abastece Sempra",
+      "resumen": "Pese a que CFE firmó un contrato con Carso Energy para el suministro de gas natural; la empresa Sempra es quien ha hecho el suministro.",
+      "link": "https://www.reforma.com/firma-cfe-con-carso-abastece-sempra/ar3229517",
+      "fecha": "26 Jun 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AT&T alcanza 9 millones de líneas vinculadas a una semana de que termine el plazo del registro",
-      "resumen": "La empresa reporta un avance del 34.7% de un total de 24.1 millones, en donde el mayor progreso se concentra en el segmento de pospago, mientras que el prepago apenas lleva un avance de 24%.",
-      "link": "https://expansion.mx/empresas/2026/06/23/att-solo-tiene-34-lineas-vinculadas-una-semana-fecha-limite",
-      "fecha": "23 Jun 2026, 13:52 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reducen pensiones la desigualdad",
+      "resumen": "Pensión Para el Bienestar de Adultos Mayores ayudó a reducir la desigualdad de ingresos principalmente en el sur del País, reveló Banxico.",
+      "link": "https://www.reforma.com/reducen-pensiones-la-desigualdad/ar3229608",
+      "fecha": "26 Jun 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex y Petrobras se alían para explorar hidrocarburos en aguas profundas del Golfo de México",
-      "resumen": "El acuerdo permitirá intercambiar tecnología, experiencia operativa y mejores prácticas para impulsar exploración petrolera, recuperación de producción, eficiencia energética y proyectos industriales …",
-      "link": "https://expansion.mx/empresas/2026/06/23/pemex-petrobras-firman-acuerdo-proyectos-de-hidrocarburos",
-      "fecha": "23 Jun 2026, 11:47 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta el empleo del sector informal",
+      "resumen": "La Encuesta Nacional de Ocupación y Empleo reveló que en mayo de 2025, la población ocupada alcanzó las 60 millones 406 mil personas.",
+      "link": "https://www.reforma.com/aumenta-el-empleo-del-sector-informal/ar3229621",
+      "fecha": "26 Jun 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las cabinas de teléfono que nadie usa, pero Telmex no puede retirar",
-      "resumen": "El uso de teléfonos públicos se desplomó hace años, pero Telmex continúa conservando miles de cabinas. Un requisito incluido en su concesión impide que desaparezcan por completo.",
-      "link": "https://expansion.mx/empresas/2026/06/22/por-que-telmex-no-retira-cabinas-telefonos",
-      "fecha": "22 Jun 2026, 19:52 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae ocupación de alojamiento",
+      "resumen": "A pesar de la euforia mundialista, la ocupación hotelera en la Ciudad de México se ha mantenido por debajo de las expectativas del sector.",
+      "link": "https://www.reforma.com/cae-ocupacion-de-alojamiento/ar3229630",
+      "fecha": "26 Jun 2026, 04:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Eleva eficacia modelo flexible",
+      "resumen": "Las empresas que aplican modelos flexibles y por objetivos pueden elevar 20% su productividad, afirma LHH México.",
+      "link": "https://www.reforma.com/eleva-eficacia-modelo-flexible/ar3229656",
+      "fecha": "26 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "Comisión Reguladora de Telecomunicaciones anunció prórroga para registro de líneas celulares; plazo dependerá de último dígito del número.",
       "link": "https://www.reforma.com/amplian-plazo-para-registro-de-lineas-celulares/ar3229059",
       "fecha": "25 Jun 2026, 08:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se suman 460 mil personas al mercado laboral",
-      "resumen": "En mayo de 2026, la PEA fue de 62.1 millones de personas de 15 años y más; 460 mil personas adicionales respecto mayo de 2025, según Inegi.",
-      "link": "https://www.reforma.com/se-suman-460-mil-personas-al-mercado-laboral/ar3229080",
-      "fecha": "25 Jun 2026, 09:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanza Airbnb pago de meses sin intereses en México",
-      "resumen": "Airbnb lanza en México opción para que los viajeros difieran el pago de reservas en la plataforma hasta en tres mensualidades sin intereses.",
-      "link": "https://www.reforma.com/lanza-airbnb-pago-de-meses-sin-intereses-en-mexico/ar3229160",
-      "fecha": "25 Jun 2026, 11:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tomará tiempo para que se normalicen precios de energía.-FMI",
-      "resumen": "El FMI dijo que ha observado una caída en los precios de la energía, pero señaló que tomará tiempo para que los flujos se normalicen.",
-      "link": "https://www.reforma.com/tomara-tiempo-para-que-se-normalicen-precios-de-energia-fmi/ar3229231",
-      "fecha": "25 Jun 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera Apple caídas en Nasdaq; pierde 6%",
-      "resumen": "El índice Nasdaq Composite cayó por cuarta jornada consecutiva, ya que un desempeño notable de Micron fue opacado por la caída de Apple.",
-      "link": "https://www.reforma.com/lidera-apple-caidas-en-nasdaq-pierde-6/ar3229334",
-      "fecha": "25 Jun 2026, 14:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumentará Microsoft precio de sus consolas Xbox",
-      "resumen": "Microsoft anunció que subirá el precio de las consolas Xbox debido al fuerte aumento de los costos de los componentes.",
-      "link": "https://www.reforma.com/aumentara-microsoft-precio-de-sus-consolas-xbox/ar3229191",
-      "fecha": "25 Jun 2026, 11:56 hrs"
     }
   ]
 }
