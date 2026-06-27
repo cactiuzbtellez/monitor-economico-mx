@@ -1,7 +1,16 @@
 {
-  "actualizado": "26/06/2026 16:55 hrs",
+  "actualizado": "27/06/2026 03:14 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump amenaza con arancel de 100% a países europeos por impuesto a servicios digitales",
+      "resumen": "El anuncio tiene lugar apenas un día después de que los países de la Unión Europea dieran luz verde a un acuerdo comercial negociado el año pasado con Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/06/26/trump-amenaza-con-arancel-de-100-a-paises-europeos-por-impuesto-a-servicios-digitales",
+      "fecha": "26 Jun 2026, 14:03 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Qué pasa con Banamex? Las nuevas mensualidades y los cobros atrasados que generan dudas",
-      "resumen": "Clientes reportaron descuentos inesperados en sus cuentas y recibieron avisos sobre cambios en las comisiones de tarjetas de crédito. Esto es lo que explicó el banco.",
-      "link": "https://expansion.mx/economia/2026/06/24/que-pasa-con-banamex-anualidad-cobros-atrasados",
-      "fecha": "24 Jun 2026, 12:26 hrs"
+      "titulo": "Ingresos petroleros de Pemex repuntan 34% por alza en precios y exportaciones",
+      "resumen": "Pemex obtuvo 1,603 millones de dólares por exportaciones petroleras en mayo, su mejor resultado desde diciembre de 2024, en un contexto marcado por el alza de los precios del crudo.",
+      "link": "https://expansion.mx/empresas/2026/06/26/pemex-gana-34-mas-ingresos-petroleros-mejor-alza",
+      "fecha": "26 Jun 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Gran Sur, la empresa mexicana detrás de la plaza vecina del Estadio Azteca?",
+      "resumen": "Su ubicación estratégica frente al Estadio Azteca lo convirtió en un punto clave para millones de visitantes. Así ha evolucionado este centro comercial desde su inauguración.",
+      "link": "https://expansion.mx/empresas/2026/06/26/quien-es-dueno-gran-sur-cdmx-historia",
+      "fecha": "26 Jun 2026, 15:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Empezó haciendo mandados, dejó la escuela y se convirtió en el rey de la tortilla en México y el mundo",
+      "resumen": "De origen humilde a construir Gruma, la empresa que industrializó la tortilla y la llevó a mercados globales. Su visión transformó uno de los alimentos más importantes de México.",
+      "link": "https://expansion.mx/empresas/2026/06/26/roberto-gonzalez-barrera-gruma-rey-tortilla-mexico",
+      "fecha": "26 Jun 2026, 13:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,85 +147,49 @@
       "fecha": "25 Jun 2026, 07:36 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras superar a Bodega Aurrerá Express en tiendas, 3B invertirá más de 5,000 mdp para mejorar su logística y tecnología",
-      "resumen": "La nueva estrategia apunta a fortalecer una arquitectura operativa más sofisticada, en un sector donde el crecimiento ya no depende solo de abrir tiendas, sino de sostenerlas con eficiencia en costos …",
-      "link": "https://expansion.mx/empresas/2026/06/24/tiendas-3b-infraestructura-tecnologica-expansion",
-      "fecha": "24 Jun 2026, 17:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Rondas petroleras vuelven al debate por caída de inversiones y producción energética de Pemex",
-      "resumen": "El esquema fue cancelado en 2018 y no se ha vuelto a desarrollar alguno similar para inversiones y exploración masiva.",
-      "link": "https://expansion.mx/empresas/2026/06/24/rondas-petroleras-mexico-pemex-exploracion-hidrocarburos",
-      "fecha": "24 Jun 2026, 17:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Nu a Smart Fit: las 5 empresas brasileñas que conquistan el mercado mexicano",
-      "resumen": "De la banca digital a la petroquímica, las empresas brasileñas han ganado terreno en México con modelos de negocio diversos y una presencia creciente en consumo e industria.",
-      "link": "https://expansion.mx/empresas/2026/06/24/empresas-brasilenas-en-mexico-mas-importantes",
-      "fecha": "24 Jun 2026, 16:33 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Nombran a Elizabeth González directora financiera de Pemex",
+      "resumen": "El consejo de administración de Pemex anunció el nombramiento de Elizabeth González Garduño como su nueva directora financiera.",
+      "link": "https://www.reforma.com/nombran-a-elizabeth-gonzalez-directora-financiera-de-pemex/ar3230263",
+      "fecha": "26 Jun 2026, 20:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se reducen 21% exportaciones de crudo en mayo",
-      "resumen": "En mayo, el volumen de crudo exportado fue de 616 mil barriles diarios, una caída de 21 %, respecto al mismo mes de 2025, según Inegi.",
-      "link": "https://www.reforma.com/se-reducen-21-exportaciones-de-crudo-en-mayo/ar3229850",
-      "fecha": "26 Jun 2026, 09:27 hrs"
+      "titulo": "Cierra dólar $17.51; cae 0.92% en la semana",
+      "resumen": "El dólar cerró este viernes con un valor de $17.51 concluyendo con una bajada semanal de 0.92%.",
+      "link": "https://www.reforma.com/cierra-dolar-17-51-cae-0-92-en-la-semana/ar3230183",
+      "fecha": "26 Jun 2026, 18:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Otorga IMPI registro de la marca 'Pato Merlin'",
-      "resumen": "El IMPI otorgó el registro de la marca 'Pato Merlín' a su propietaria Karla Ivette Gómez López.",
-      "link": "https://www.reforma.com/otorga-impi-registro-de-la-marca-pato-merlin/ar3229995",
-      "fecha": "26 Jun 2026, 13:23 hrs"
+      "titulo": "Cierra BMV semana con caída de 0.71%",
+      "resumen": "La BMV acumuló una perdida semanal de 0.71% concluyendo en el nivel de 67 mil 226 unidades, principalmente ante la incertidumbre del T-MEC.",
+      "link": "https://www.reforma.com/cierra-bmv-semana-con-caida-de-0-71/ar3230153",
+      "fecha": "26 Jun 2026, 17:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afectan apagones a 66% de maquilas",
-      "resumen": "Los apagones e intermitencias frecuentes que padece el área metropolitana de Monterrey han impactado al 66% de las empresas",
-      "link": "https://www.reforma.com/afectan-apagones-a-66-de-maquilas/ar3229699",
-      "fecha": "26 Jun 2026, 07:00 hrs"
+      "titulo": "Buscan evitar clausuras de pymes",
+      "resumen": "Secretaría de Economía de NL lanza programa \"cero clausuras\", con el que buscan evitar el cierre de negocios.",
+      "link": "https://www.reforma.com/buscan-evitar-clausuras-de-pymes/ar3230147",
+      "fecha": "26 Jun 2026, 17:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acumula empresa sin energía ¡19 días!",
-      "resumen": "Con 19 días sin electricidad, lo que vive la empresa Safe Data Resources, en Apodaca, es un ejemplo de afectaciones causadas por CFE en NL.",
-      "link": "https://www.reforma.com/acumula-empresa-sin-energia-19-dias/ar3229735",
-      "fecha": "26 Jun 2026, 07:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reducen pensiones la desigualdad",
-      "resumen": "Pensión Para el Bienestar de Adultos Mayores ayudó a reducir la desigualdad de ingresos principalmente en el sur del País, reveló Banxico.",
-      "link": "https://www.reforma.com/reducen-pensiones-la-desigualdad/ar3229608",
-      "fecha": "26 Jun 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amaga Trump con tarifa de 100% a países por impuesto digital",
-      "resumen": "El Presidente Donald Trump amenazó con imponer aranceles del 100% a países europeos que impongan un impuesto sobre los servicios digitales.",
-      "link": "https://www.reforma.com/amaga-trump-con-tarifa-de-100-a-paises-por-impuesto-digital/ar3229908",
-      "fecha": "26 Jun 2026, 11:11 hrs"
+      "titulo": "Interrupciones de electricidad son por clima.- CFE",
+      "resumen": "La CFE aseguró que las 'interrupciones' de energía eléctrica reportadas en el País tiene causas diversas, pero destacan las climáticas.",
+      "link": "https://www.reforma.com/interrupciones-de-electricidad-son-por-clima-cfe/ar3230127",
+      "fecha": "26 Jun 2026, 17:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplían bonos de SpaceX pérdidas y sorprenden al mercado",
-      "resumen": "La emisión de SpaceX sigue deteriorándose y operadores dicen no recordar otra colocación cuyos diferenciales se hayan ampliado tan rápido.",
-      "link": "https://www.reforma.com/amplian-bonos-de-spacex-perdidas-y-sorprenden-al-mercado/ar3229892",
-      "fecha": "26 Jun 2026, 10:55 hrs"
+      "titulo": "Deja a Apple el responsable de Vision Pro y se va a OpenAI",
+      "resumen": "El alto ejecutivo de Apple responsable de los Vision Pro y de los proyectos de lentes inteligentes dejará su puesto para unirse a OpenAI.",
+      "link": "https://www.reforma.com/deja-a-apple-el-responsable-de-vision-pro-y-se-va-a-openai/ar3230041",
+      "fecha": "26 Jun 2026, 14:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Otorga IMPI registro de la marca 'Pato Merlín'",
+      "resumen": "El IMPI otorgó el registro de la marca 'Pato Merlín' a su propietaria Karla Ivette Gómez López.",
+      "link": "https://www.reforma.com/otorga-impi-registro-de-la-marca-pato-merlin/ar3229995",
+      "fecha": "26 Jun 2026, 13:23 hrs"
     }
   ]
 }
