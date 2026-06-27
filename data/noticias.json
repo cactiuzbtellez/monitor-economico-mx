@@ -1,7 +1,16 @@
 {
-  "actualizado": "27/06/2026 03:14 hrs",
+  "actualizado": "27/06/2026 09:04 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda reduce los subsidios para la Magna y diésel, y lo mantiene en ceros para la Premium",
+      "resumen": "Para la gasolina verde, la cuota por IEPS será de 6.12 pesos por litro, por un subsidio de 0.59 pesos, un monto menor al de la semana que termina este viernes 26 de junio.",
+      "link": "https://expansion.mx/economia/2026/06/26/hacienda-reduce-subsidios-magna-diesel-premium",
+      "fecha": "26 Jun 2026, 17:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tras renovar el TLCUEM, México quiere ampliar negocios con países europeos de alto ingreso",
-      "resumen": "Suiza, Noruega, Islandia y Liechtenstein apenas representan 0.35% del comercio mexicano, pero concentran empresas globales y miles de millones de dólares en inversión.",
-      "link": "https://expansion.mx/economia/2026/06/25/mexico-desempolva-otro-tratado-comercial-europa",
-      "fecha": "25 Jun 2026, 05:55 hrs"
+      "titulo": "Sener desconoce a Víctor Rodríguez Padilla, exdirector de Pemex, y niega nombramiento",
+      "resumen": "El funcionario se estaría desempeñando como director general del INEEL.",
+      "link": "https://expansion.mx/empresas/2026/06/26/sener-desconoce-a-victor-rodriguez-padilla-exdirector-de-pemex-y-niega-nombramiento",
+      "fecha": "26 Jun 2026, 23:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "LEGO se sube al Mundial y convierte al Zócalo en su mayor escaparate en México",
+      "resumen": "La compañía instaló su activación más grande en México durante el FIFA Fan Festival del Zócalo para acercar la marca a millones de personas y convertir el Mundial en una puerta de entrada para nuevos …",
+      "link": "https://expansion.mx/empresas/2026/06/26/lego-zocalo-mundial-2026-activacion-mexico",
+      "fecha": "26 Jun 2026, 17:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tonos naturales y tintes sin amoníaco impulsan el millonario negocio de coloración en México",
+      "resumen": "Las consumidoras mexicanas compran tintes para el cabello 4.3 veces al año y Wella identifica oportunidades para aumentar esa frecuencia de compra.",
+      "link": "https://expansion.mx/empresas/2026/06/26/industria-tinte-cabello-mexico-frecuencia-coloracion-wella",
+      "fecha": "26 Jun 2026, 17:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,40 @@
       "fecha": "25 Jun 2026, 16:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El sector automotriz: entre el cambio tecnológico y la evolución del liderazgo",
-      "resumen": "Mariana Silveira Lavigne, directora de Mercadotecnia de Stellantis México y directora de la marca FIAT en México, compartió su perspectiva sobre una nueva forma de hacer carrera en la industria.",
-      "link": "https://expansion.mx/empresas/2026/06/25/el-sector-automotriz-entre-el-cambio-tecnologico-y-la-evolucion-del-liderazgo",
-      "fecha": "25 Jun 2026, 16:10 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén caída de 23% en inventarios de maíz",
+      "resumen": "Los inventarios finales de maíz de México caerán 23.0% anual el el próximo ciclo comercial agrícola, proyecto USDA.",
+      "link": "https://www.reforma.com/preven-caida-de-23-en-inventarios-de-maiz/ar3230281",
+      "fecha": "27 Jun 2026, 05:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AICM, Guadalajara y Monterrey crecen en pasajeros antes del Mundial mientras aeropuertos de playa caen",
-      "resumen": "El tráfico aéreo en México cayó 0.6% en el primer cuatrimestre, pero las ciudades sede del Mundial —CDMX, Guadalajara y Monterrey— registraron incrementos en el flujo de pasajeros",
-      "link": "https://expansion.mx/empresas/2026/06/25/aeropuertos-mexico-menos-turitas-aicm-crece-gracias-mundial",
-      "fecha": "25 Jun 2026, 15:44 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ahora resultaría que baja de petróleo impulsaría inflación",
+      "resumen": "Precios del petróleo finalmente están bajando, pero esto podría suponer un nuevo problema para los inversores y la Reserva Federal de EU.",
+      "link": "https://www.reforma.com/ahora-resultaria-que-baja-de-petroleo-impulsaria-inflacion/ar3230278",
+      "fecha": "27 Jun 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué tan lejos puedes viajar con los autos eléctricos más baratos de México?",
-      "resumen": "Del Zócalo de la CDMX a Acapulco, Veracruz o San Miguel de Allende: así se comparan las autonomías de los eléctricos más accesibles del mercado.",
-      "link": "https://expansion.mx/empresas/2026/06/25/cuantos-kilometros-dura-carga-autos-electricos-mexico",
-      "fecha": "25 Jun 2026, 07:36 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sale de Ferrari tras lanzar polémico auto",
+      "resumen": "Ferrari anunció esta semana que su director de marketing, Enrico Galliera, renunció tras 16 años en la empresa.",
+      "link": "https://www.reforma.com/sale-de-ferrari-tras-lanzar-polemico-auto/ar3230270",
+      "fecha": "27 Jun 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Perciben 7 de 10 trabajadores inclusión LGBT+ superficial",
+      "resumen": "Siete de cada 10 trabajadores perciben la inclusión de la comunidad LGBT+ como algo parcial, reveló el Termómetro laboral de OCC.",
+      "link": "https://www.reforma.com/perciben-7-de-10-trabajadores-inclusion-lgbt-superficial/ar3230283",
+      "fecha": "27 Jun 2026, 04:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -181,42 +217,6 @@
       "resumen": "Secretaría de Economía de NL lanza programa \"cero clausuras\", con el que buscan evitar el cierre de negocios.",
       "link": "https://www.reforma.com/buscan-evitar-clausuras-de-pymes/ar3230147",
       "fecha": "26 Jun 2026, 17:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Interrupciones de electricidad son por clima.- CFE",
-      "resumen": "La CFE aseguró que las 'interrupciones' de energía eléctrica reportadas en el País tiene causas diversas, pero destacan las climáticas.",
-      "link": "https://www.reforma.com/interrupciones-de-electricidad-son-por-clima-cfe/ar3230127",
-      "fecha": "26 Jun 2026, 17:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo semana con fuertes pérdidas",
-      "resumen": "El crudo Brent cayó 4.33% hasta los 71.99 dólares por barril, mientras que el West Texas Intermediate descendió 3.74% a 69.23 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-semana-con-fuertes-perdidas/ar3230050",
-      "fecha": "26 Jun 2026, 14:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Deja a Apple el responsable de Vision Pro y se va a OpenAI",
-      "resumen": "El alto ejecutivo de Apple responsable de los Vision Pro y de los proyectos de lentes inteligentes dejará su puesto para unirse a OpenAI.",
-      "link": "https://www.reforma.com/deja-a-apple-el-responsable-de-vision-pro-y-se-va-a-openai/ar3230041",
-      "fecha": "26 Jun 2026, 14:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Otorga IMPI registro de la marca 'Pato Merlín'",
-      "resumen": "El IMPI otorgó el registro de la marca 'Pato Merlín' a su propietaria Karla Ivette Gómez López.",
-      "link": "https://www.reforma.com/otorga-impi-registro-de-la-marca-pato-merlin/ar3229995",
-      "fecha": "26 Jun 2026, 13:23 hrs"
     }
   ]
 }
