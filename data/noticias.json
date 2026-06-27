@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/06/2026 09:04 hrs",
+  "actualizado": "27/06/2026 14:17 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,7 +78,25 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sener desconoce a Víctor Rodríguez Padilla, exdirector de Pemex, y niega nombramiento",
+      "titulo": "La IA y el nearshoring elevarán 10% la demanda eléctrica, pero el capital llega lento",
+      "resumen": "México necesita acelerar su infraestructura energética para aprovechar el nearshoring y la demanda de los centros de datos de IA, pero el problema ya no es tecnológico, sino financiero.",
+      "link": "https://expansion.mx/empresas/2026/06/27/financiamiento-frena-transicion-energetica-en-mexico",
+      "fecha": "27 Jun 2026, 14:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Guadalajara se despide del Mundial 2026 entre goles, diplomacia y un estadio teñido de rojo",
+      "resumen": "El último partido de Guadalajara dejó algo más que la eliminación de Uruguay: exhibió cómo un Mundial puede convertirse en una herramienta de diplomacia, promoción turística y generación de negocios.",
+      "link": "https://expansion.mx/empresas/2026/06/27/espana-uruguay-cierra-mundial-guadalajara-diplomacia-turismo",
+      "fecha": "27 Jun 2026, 09:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“Confío en la presunción de inocencia”, dice exdirector de Pemex tras agresiones a su esposa",
       "resumen": "El funcionario se estaría desempeñando como director general del INEEL.",
       "link": "https://expansion.mx/empresas/2026/06/26/sener-desconoce-a-victor-rodriguez-padilla-exdirector-de-pemex-y-niega-nombramiento",
       "fecha": "26 Jun 2026, 23:26 hrs"
@@ -127,24 +145,6 @@
       "resumen": "De origen humilde a construir Gruma, la empresa que industrializó la tortilla y la llevó a mercados globales. Su visión transformó uno de los alimentos más importantes de México.",
       "link": "https://expansion.mx/empresas/2026/06/26/roberto-gonzalez-barrera-gruma-rey-tortilla-mexico",
       "fecha": "26 Jun 2026, 13:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La transmisión eléctrica pone en riesgo el boom renovable en México",
-      "resumen": "Los proyectos para ampliar la red de transmisión avanzan más lento que la construcción de nuevas centrales renovables, un desfase que puede dejar parte de esa electricidad sin llegar a hogares, indust…",
-      "link": "https://expansion.mx/empresas/2026/06/26/la-transmision-electrica-pone-en-riesgo-el-boom-renovable-en-mexico",
-      "fecha": "26 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana ajusta Julio Regalado con foco en consumo familiar durante el Mundial 2026",
-      "resumen": "La cadena ajustó la operación de Julio Regalado para responder a los hábitos de consumo durante el Mundial 2026 e integró por primera vez sus marcas propias como parte central de la campaña comercial.",
-      "link": "https://expansion.mx/empresas/2026/06/25/soriana-cambio-calendario-julio-regalado-mundial-2026",
-      "fecha": "25 Jun 2026, 16:59 hrs"
     },
     {
       "fuente": "Reforma",
