@@ -1,7 +1,16 @@
 {
-  "actualizado": "29/06/2026 08:37 hrs",
+  "actualizado": "29/06/2026 15:09 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Corte Suprema de EU invalida el despido de Lisa Cook, gobernadora de la Fed, que ordenó Trump",
+      "resumen": "En un fallo ajustado, de 5 a 4, el máximo tribunal de justicia dictaminó que el presidente no puede remover a los funcionarios de la Reserva Federal \"por cualquier motivo o sin motivo alguno\".",
+      "link": "https://expansion.mx/economia/2026/06/29/corte-suprema-de-eu-invalida-el-despido-de-lisa-cook-gobernadora-de-la-fed-que-ordeno-trump",
+      "fecha": "29 Jun 2026, 09:11 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Inflación de EU trepa a 4.1% en mayo, su nivel más alto en tres años",
-      "resumen": "La escalada de los precios experimentó un repunte súbito tras el estallido de la guerra en Medio Oriente, que disparó, entre otros, los costos de la gasolina.",
-      "link": "https://expansion.mx/economia/2026/06/25/inflacion-de-eu-trepa-a-4-1-en-mayo-su-nivel-mas-alto-en-tres-anos",
-      "fecha": "25 Jun 2026, 09:43 hrs"
+      "titulo": "¿Cancelarán tu línea de celular el 1 de julio? Esto ocurrirá si no registras tu número",
+      "resumen": "El registro de las líneas móviles continúa siendo obligatorio, pero ahora tendrá fechas escalonadas según el último dígito del número telefónico.",
+      "link": "https://expansion.mx/empresas/2026/06/29/cancelaran-linea-de-celular-1-de-julio-fecha-limite",
+      "fecha": "29 Jun 2026, 14:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué los autos eléctricos siguen funcionando bajo las inundaciones?",
+      "resumen": "Imágenes de autos avanzando entre calles inundadas han despertado nuevas dudas sobre el comportamiento de los vehículos eléctricos frente al agua.",
+      "link": "https://expansion.mx/empresas/2026/06/29/razon-autos-electricos-siguen-funcionando-inundaciones",
+      "fecha": "29 Jun 2026, 12:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,94 +147,76 @@
       "fecha": "26 Jun 2026, 16:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Gran Sur, la empresa mexicana detrás de la plaza vecina del Estadio Azteca?",
-      "resumen": "Su ubicación estratégica frente al Estadio Azteca lo convirtió en un punto clave para millones de visitantes. Así ha evolucionado este centro comercial desde su inauguración.",
-      "link": "https://expansion.mx/empresas/2026/06/26/quien-es-dueno-gran-sur-cdmx-historia",
-      "fecha": "26 Jun 2026, 15:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Empezó haciendo mandados, dejó la escuela y se convirtió en el rey de la tortilla en México y el mundo",
-      "resumen": "De origen humilde a construir Gruma, la empresa que industrializó la tortilla y la llevó a mercados globales. Su visión transformó uno de los alimentos más importantes de México.",
-      "link": "https://expansion.mx/empresas/2026/06/26/roberto-gonzalez-barrera-gruma-rey-tortilla-mexico",
-      "fecha": "26 Jun 2026, 13:14 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apuntan al exterior empresas instaladas en México",
+      "resumen": "Ante un escenario geopolítico incierto, las empresas extranjeras en México apuntan a expandir sus negocios fuera del País.",
+      "link": "https://www.reforma.com/apuntan-al-exterior-empresas-instaladas-en-mexico/ar3231445",
+      "fecha": "29 Jun 2026, 13:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Azotará al campo el 'Súper Niño'",
-      "resumen": "Este año, una versión intensificada de \"El Niño\" podría desplomar rendimientos de cultivos de temporal en México hasta en un 48%.",
-      "link": "https://www.reforma.com/azotara-al-campo-el-super-nino/ar3231112",
-      "fecha": "29 Jun 2026, 05:02 hrs"
+      "titulo": "Compraría Banxico Cetes y Bondes F para administrar liquidez",
+      "resumen": "Banxico incorporará, a partir del tercer trimestre, compra de Cetes y Bondes F para administrar la liquidez del sistema financiero.",
+      "link": "https://www.reforma.com/compraria-banxico-cetes-y-bondes-f-para-administrar-liquidez/ar3231329",
+      "fecha": "29 Jun 2026, 10:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hurtan gasolinas en 6 corredores",
-      "resumen": "El hurto de gasolinas en el País se concentra en 6 corredores viales, los cuales traviesan 10 estados del País.",
-      "link": "https://www.reforma.com/hurtan-gasolinas-en-6-corredores/ar3231082",
-      "fecha": "29 Jun 2026, 05:02 hrs"
+      "titulo": "Filtran lista de proveedores, piezas y fotos del iPhone 18",
+      "resumen": "Listas de piezas, proveedores y fotos del próximo iPhone 18 Pro fueron publicados en \"dark web\" por grupo que robó datos a Tata Electronics.",
+      "link": "https://www.reforma.com/filtran-lista-de-proveedores-piezas-y-fotos-del-iphone-18/ar3231411",
+      "fecha": "29 Jun 2026, 13:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vinculan a proceso  a desarrollador sampetrino",
-      "resumen": "Juzgado de Control de NL vinculó a proceso al desarrollador sampetrino José Manuel \"N\", acusado de presunto fraude inmobiliario por 57 mdp.",
-      "link": "https://www.reforma.com/vinculan-a-proceso-a-desarrollador-sampetrino/ar3231149",
-      "fecha": "29 Jun 2026, 05:02 hrs"
+      "titulo": "Acuerdan Nafin y Caintra  financiamiento para pymes",
+      "resumen": "Nafin y Caintra firmaron una alianza para impulsar el financiamiento a pymes.",
+      "link": "https://www.reforma.com/acuerdan-nafin-y-caintra-financiamiento-para-pymes/ar3231397",
+      "fecha": "29 Jun 2026, 12:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impacta Ley Aduanera  la cooperación con EU",
-      "resumen": "Modificaciones a Ley Aduanera en México impactan programas de cooperación en materia de revisión de mercancías que tenía el País con EU.",
-      "link": "https://www.reforma.com/impacta-ley-aduanera-la-cooperacion-con-eu/ar3231110",
-      "fecha": "29 Jun 2026, 05:02 hrs"
+      "titulo": "Logra Dow Jones nuevo récord y supera los 52,000 puntos",
+      "resumen": "El Dow Jones cerró por encima de los 52 mil puntos por primera vez, tras el debut de Alphabet en el índice que subió casi 5%.",
+      "link": "https://www.reforma.com/logra-dow-jones-nuevo-record-y-supera-los-52-000-puntos/ar3231471",
+      "fecha": "29 Jun 2026, 14:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Obliga FinCEN a filtrar licencias bancarias",
-      "resumen": "Tras el escándalo de CIBanco, Vector e Intercam quien solicita una licencia bancaria debe pasar por mayores filtros.",
-      "link": "https://www.reforma.com/obliga-fincen-a-filtrar-licencias-bancarias/ar3231089",
-      "fecha": "29 Jun 2026, 05:02 hrs"
+      "titulo": "Facilitan pagos de Infonavit en Oxxo",
+      "resumen": "El Infonavit firmó una alianza con Oxxo para que los derechohabientes puedan pagar su crédito desde las tiendas de esa cadena.",
+      "link": "https://www.reforma.com/facilitan-pagos-de-infonavit-en-oxxo/ar3231355",
+      "fecha": "29 Jun 2026, 11:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo tras ataques entre EU e Irán",
-      "resumen": "El crudo ganaba casi 1%, después de que ataques entre EU e Irán pusieran de manifiesto la fragilidad de su acuerdo de paz provisional.",
-      "link": "https://www.reforma.com/sube-crudo-tras-ataques-entre-eu-e-iran/ar3231230",
-      "fecha": "29 Jun 2026, 07:14 hrs"
+      "titulo": "Reanuda BMV operaciones tras falla técnica",
+      "resumen": "A las 9:55, la Bolsa Mexicana de Valores tras una interrupción de varias horas, la más importante registrada en los últimos años.",
+      "link": "https://www.reforma.com/reanuda-bmv-operaciones-tras-falla-tecnica/ar3231263",
+      "fecha": "29 Jun 2026, 08:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Negocian 9,500 mdd de inversión CFE e IP",
-      "resumen": "La IP y la CFE negocian contratos mixtos por 9,500 millones de dólares de inversión. Thernium Energy es la empresa que más invertiría.",
-      "link": "https://www.reforma.com/negocian-9-500-mdd-de-inversion-cfe-e-ip/ar3231085",
-      "fecha": "29 Jun 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recomiendan a México buscar comercio chino",
-      "resumen": "México necesita establecer una agenda de trabajo con China no sólo por ser la mayor economía del mundo",
-      "link": "https://www.reforma.com/recomiendan-a-mexico-buscar-comercio-chino/ar3231083",
-      "fecha": "28 Jun 2026, 21:35 hrs"
+      "titulo": "Cierra crudo WTI con alza de más de 2%",
+      "resumen": "Futuros del crudo estadounidense aumentaron un 2.4%, a 70.85 dólares por barril, mientras que los del Brent subieron 1.7% a 73.20 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-wti-con-alza-de-mas-de-2/ar3231464",
+      "fecha": "29 Jun 2026, 14:10 hrs"
     }
   ]
 }
