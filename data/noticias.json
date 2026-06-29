@@ -1,7 +1,16 @@
 {
-  "actualizado": "28/06/2026 16:42 hrs",
+  "actualizado": "29/06/2026 08:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trabajo forzoso y migración laboral elevan riesgo comercial del agro en T-MEC",
+      "resumen": "Escasez de jornaleros y nuevas exigencias de cumplimiento laboral podrían limitar exportaciones agroalimentarias en América del Norte.",
+      "link": "https://expansion.mx/economia/2026/06/29/trabajo-forzoso-y-migracion-laboral-elevan-riesgo-comercial-del-agro-en-t-mec",
+      "fecha": "29 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La escalada de los precios experimentó un repunte súbito tras el estallido de la guerra en Medio Oriente, que disparó, entre otros, los costos de la gasolina.",
       "link": "https://expansion.mx/economia/2026/06/25/inflacion-de-eu-trepa-a-4-1-en-mayo-su-nivel-mas-alto-en-tres-anos",
       "fecha": "25 Jun 2026, 09:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banamex divide la anualidad: 13 tarjetas de crédito ya permiten pagar la comisión en mensualidades",
-      "resumen": "La institución bancaria explica que la flexibilidad en el pago de la anualidad del uso de las tarjetas de crédito responde a inquietudes de los usuarios.",
-      "link": "https://expansion.mx/economia/2026/06/25/banamex-anualidad-13-tarjetas-credito-pago-mensualidades",
-      "fecha": "25 Jun 2026, 08:40 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja paso de pipas por Reynosa-Pharr por alza de peaje",
-      "resumen": "Debido a alza de peaje, cruce de pipas con combustible disminuye por puente Reynosa-Pharr; transportistas se desvían a Los Indios-Matamoros.",
-      "link": "https://www.reforma.com/baja-paso-de-pipas-por-reynosa-pharr-por-alza-de-peaje/ar3230557",
-      "fecha": "27 Jun 2026, 15:25 hrs"
+      "titulo": "Azotará al campo el 'Súper Niño'",
+      "resumen": "Este año, una versión intensificada de \"El Niño\" podría desplomar rendimientos de cultivos de temporal en México hasta en un 48%.",
+      "link": "https://www.reforma.com/azotara-al-campo-el-super-nino/ar3231112",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén caída de 23% en inventarios de maíz",
-      "resumen": "Los inventarios finales de maíz de México caerán 23.0% anual el el próximo ciclo comercial agrícola, proyecto USDA.",
-      "link": "https://www.reforma.com/preven-caida-de-23-en-inventarios-de-maiz/ar3230281",
-      "fecha": "27 Jun 2026, 05:05 hrs"
+      "titulo": "Hurtan gasolinas en 6 corredores",
+      "resumen": "El hurto de gasolinas en el País se concentra en 6 corredores viales, los cuales traviesan 10 estados del País.",
+      "link": "https://www.reforma.com/hurtan-gasolinas-en-6-corredores/ar3231082",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ahora resultaría que baja de petróleo impulsaría inflación",
-      "resumen": "Precios del petróleo finalmente están bajando, pero esto podría suponer un nuevo problema para los inversores y la Reserva Federal de EU.",
-      "link": "https://www.reforma.com/ahora-resultaria-que-baja-de-petroleo-impulsaria-inflacion/ar3230278",
-      "fecha": "27 Jun 2026, 05:02 hrs"
+      "titulo": "Vinculan a proceso  a desarrollador sampetrino",
+      "resumen": "Juzgado de Control de NL vinculó a proceso al desarrollador sampetrino José Manuel \"N\", acusado de presunto fraude inmobiliario por 57 mdp.",
+      "link": "https://www.reforma.com/vinculan-a-proceso-a-desarrollador-sampetrino/ar3231149",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sale de Ferrari tras lanzar polémico auto",
-      "resumen": "Ferrari anunció esta semana que su director de marketing, Enrico Galliera, renunció tras 16 años en la empresa.",
-      "link": "https://www.reforma.com/sale-de-ferrari-tras-lanzar-polemico-auto/ar3230270",
-      "fecha": "27 Jun 2026, 05:02 hrs"
+      "titulo": "Impacta Ley Aduanera  la cooperación con EU",
+      "resumen": "Modificaciones a Ley Aduanera en México impactan programas de cooperación en materia de revisión de mercancías que tenía el País con EU.",
+      "link": "https://www.reforma.com/impacta-ley-aduanera-la-cooperacion-con-eu/ar3231110",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perciben 7 de 10 trabajadores inclusión LGBT+ superficial",
-      "resumen": "Siete de cada 10 trabajadores perciben la inclusión de la comunidad LGBT+ como algo parcial, reveló el Termómetro laboral de OCC.",
-      "link": "https://www.reforma.com/perciben-7-de-10-trabajadores-inclusion-lgbt-superficial/ar3230283",
-      "fecha": "27 Jun 2026, 04:58 hrs"
+      "titulo": "Obliga FinCEN a filtrar licencias bancarias",
+      "resumen": "Tras el escándalo de CIBanco, Vector e Intercam quien solicita una licencia bancaria debe pasar por mayores filtros.",
+      "link": "https://www.reforma.com/obliga-fincen-a-filtrar-licencias-bancarias/ar3231089",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Nombran a Elizabeth González directora financiera de Pemex",
-      "resumen": "El consejo de administración de Pemex anunció el nombramiento de Elizabeth González Garduño como su nueva directora financiera.",
-      "link": "https://www.reforma.com/nombran-a-elizabeth-gonzalez-directora-financiera-de-pemex/ar3230263",
-      "fecha": "26 Jun 2026, 20:31 hrs"
+      "titulo": "Sube crudo tras ataques entre EU e Irán",
+      "resumen": "El crudo ganaba casi 1%, después de que ataques entre EU e Irán pusieran de manifiesto la fragilidad de su acuerdo de paz provisional.",
+      "link": "https://www.reforma.com/sube-crudo-tras-ataques-entre-eu-e-iran/ar3231230",
+      "fecha": "29 Jun 2026, 07:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar $17.51; cae 0.92% en la semana",
-      "resumen": "El dólar cerró este viernes con un valor de $17.51 concluyendo con una bajada semanal de 0.92%.",
-      "link": "https://www.reforma.com/cierra-dolar-17-51-cae-0-92-en-la-semana/ar3230183",
-      "fecha": "26 Jun 2026, 18:10 hrs"
+      "titulo": "Negocian 9,500 mdd de inversión CFE e IP",
+      "resumen": "La IP y la CFE negocian contratos mixtos por 9,500 millones de dólares de inversión. Thernium Energy es la empresa que más invertiría.",
+      "link": "https://www.reforma.com/negocian-9-500-mdd-de-inversion-cfe-e-ip/ar3231085",
+      "fecha": "29 Jun 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra BMV semana con caída de 0.71%",
-      "resumen": "La BMV acumuló una perdida semanal de 0.71% concluyendo en el nivel de 67 mil 226 unidades, principalmente ante la incertidumbre del T-MEC.",
-      "link": "https://www.reforma.com/cierra-bmv-semana-con-caida-de-0-71/ar3230153",
-      "fecha": "26 Jun 2026, 17:41 hrs"
+      "titulo": "Recomiendan a México buscar comercio chino",
+      "resumen": "México necesita establecer una agenda de trabajo con China no sólo por ser la mayor economía del mundo",
+      "link": "https://www.reforma.com/recomiendan-a-mexico-buscar-comercio-chino/ar3231083",
+      "fecha": "28 Jun 2026, 21:35 hrs"
     }
   ]
 }
