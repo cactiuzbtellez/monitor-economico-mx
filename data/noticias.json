@@ -1,7 +1,25 @@
 {
-  "actualizado": "29/06/2026 15:09 hrs",
+  "actualizado": "30/06/2026 04:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El jitomate da un respiro al bolsillo: su precio cae 41% en un mes, según Profeco",
+      "resumen": "Tras meses de incrementos, el principal producto de la canasta básica redujo su precio en más de 20 pesos por kilo durante junio, según el monitoreo nacional.",
+      "link": "https://expansion.mx/economia/2026/06/29/cual-es-el-precio-del-jitomate-segun-profeco",
+      "fecha": "29 Jun 2026, 17:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sabadell ve crédito en energía y hoteles tras colocar 4,000 mdp",
+      "resumen": "José Iragorri, director general del banco, afirma que los esquemas mixtos de energía requerirán fondeo relevante y que el avance con banca de desarrollo será gradual.",
+      "link": "https://expansion.mx/economia/2026/06/29/sabadell-pidio-4000-mdp-mexico-va-por-energia-hoteles",
+      "fecha": "29 Jun 2026, 15:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Las exportaciones mexicanas de alimento para perros y gatos alcanzaron un récord de 214.2 mdd en 2025, impulsadas por el auge del mercado de mascotas y nuevas inversiones para abastecer a Norteamérica…",
       "link": "https://expansion.mx/economia/2026/06/26/mexico-multiplica-exportaciones-alimento-para-mascotas",
       "fecha": "26 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los contribuyentes Resico llegan a 4.4 millones, casi lo mismo que la población de Panamá",
-      "resumen": "El programa que busca reducir la informalidad en México, apenas está a 200,000 contribuyentes de distancia de la población total panameña.",
-      "link": "https://expansion.mx/economia/2026/06/25/resico-4-millones-mismo-poblacion-de-panama",
-      "fecha": "25 Jun 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico mantiene tasa en 6.50% tras desaceleración de la inflación",
-      "resumen": "El banco central dejó sin cambios la tasa de referencia, en línea con lo esperado por analistas. Además, ajustó a la baja la expectativa de inflación general.",
-      "link": "https://expansion.mx/economia/2026/06/25/banxico-mantiene-tasa-en-6-50-tras-desaceleracion-de-la-inflacion",
-      "fecha": "25 Jun 2026, 13:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,37 +150,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apuntan al exterior empresas instaladas en México",
-      "resumen": "Ante un escenario geopolítico incierto, las empresas extranjeras en México apuntan a expandir sus negocios fuera del País.",
-      "link": "https://www.reforma.com/apuntan-al-exterior-empresas-instaladas-en-mexico/ar3231445",
-      "fecha": "29 Jun 2026, 13:39 hrs"
+      "titulo": "Enfrenta IP de energía cascada regulatoria",
+      "resumen": "Sector eléctrico prevé que en próximos meses habrá una cascada de regulaciones, lo que ayudara a las inversiones, señaló AMDEE.",
+      "link": "https://www.reforma.com/enfrenta-ip-de-energia-cascada-regulatoria/ar3231658",
+      "fecha": "29 Jun 2026, 20:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compraría Banxico Cetes y Bondes F para administrar liquidez",
-      "resumen": "Banxico incorporará, a partir del tercer trimestre, compra de Cetes y Bondes F para administrar la liquidez del sistema financiero.",
-      "link": "https://www.reforma.com/compraria-banxico-cetes-y-bondes-f-para-administrar-liquidez/ar3231329",
-      "fecha": "29 Jun 2026, 10:55 hrs"
+      "titulo": "Implementará CFE plan para contrarrestar apagones",
+      "resumen": "CFE acordó con representantes de 29 entidades realizar un plan de acción para fortalecer el servicio de energía y contrarrestar apagones.",
+      "link": "https://www.reforma.com/implementara-cfe-plan-para-contrarrestar-apagones/ar3231589",
+      "fecha": "29 Jun 2026, 18:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Filtran lista de proveedores, piezas y fotos del iPhone 18",
-      "resumen": "Listas de piezas, proveedores y fotos del próximo iPhone 18 Pro fueron publicados en \"dark web\" por grupo que robó datos a Tata Electronics.",
-      "link": "https://www.reforma.com/filtran-lista-de-proveedores-piezas-y-fotos-del-iphone-18/ar3231411",
-      "fecha": "29 Jun 2026, 13:13 hrs"
+      "titulo": "Contrata Axtel crédito por Dls. 210 millones",
+      "resumen": "Axtel anunció la contratación de un crédito bancario con cuatro instituciones financieras por 210 mdd, que usará para refinanciar deuda.",
+      "link": "https://www.reforma.com/contrata-axtel-credito-por-dls-210-millones/ar3231503",
+      "fecha": "29 Jun 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerdan Nafin y Caintra  financiamiento para pymes",
-      "resumen": "Nafin y Caintra firmaron una alianza para impulsar el financiamiento a pymes.",
-      "link": "https://www.reforma.com/acuerdan-nafin-y-caintra-financiamiento-para-pymes/ar3231397",
-      "fecha": "29 Jun 2026, 12:50 hrs"
+      "titulo": "Baja Reserva Estratégica de Petróleo de EU en 5.5 millones",
+      "resumen": "La Reserva Estratégica de Estados Unidos perdió 5.5 millones de barriles, ubicándose en 325.7 millones, nivel más bajo desde mayo de 1983.",
+      "link": "https://www.reforma.com/baja-reserva-estrategica-de-petroleo-de-eu-en-5-5-millones/ar3231481",
+      "fecha": "29 Jun 2026, 14:43 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Facilitan pagos de Infonavit en Oxxo",
-      "resumen": "El Infonavit firmó una alianza con Oxxo para que los derechohabientes puedan pagar su crédito desde las tiendas de esa cadena.",
-      "link": "https://www.reforma.com/facilitan-pagos-de-infonavit-en-oxxo/ar3231355",
-      "fecha": "29 Jun 2026, 11:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reanuda BMV operaciones tras falla técnica",
-      "resumen": "A las 9:55, la Bolsa Mexicana de Valores tras una interrupción de varias horas, la más importante registrada en los últimos años.",
-      "link": "https://www.reforma.com/reanuda-bmv-operaciones-tras-falla-tecnica/ar3231263",
-      "fecha": "29 Jun 2026, 08:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Cierra crudo WTI con alza de más de 2%",
       "resumen": "Futuros del crudo estadounidense aumentaron un 2.4%, a 70.85 dólares por barril, mientras que los del Brent subieron 1.7% a 73.20 dólares.",
       "link": "https://www.reforma.com/cierra-crudo-wti-con-alza-de-mas-de-2/ar3231464",
       "fecha": "29 Jun 2026, 14:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apuntan al exterior empresas instaladas en México",
+      "resumen": "Ante un escenario geopolítico incierto, las empresas extranjeras en México apuntan a expandir sus negocios fuera del País.",
+      "link": "https://www.reforma.com/apuntan-al-exterior-empresas-instaladas-en-mexico/ar3231445",
+      "fecha": "29 Jun 2026, 13:39 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Filtran lista de proveedores, piezas y fotos del iPhone 18",
+      "resumen": "Listas de piezas, proveedores y fotos del próximo iPhone 18 Pro fueron publicados en \"dark web\" por grupo que robó datos a Tata Electronics.",
+      "link": "https://www.reforma.com/filtran-lista-de-proveedores-piezas-y-fotos-del-iphone-18/ar3231411",
+      "fecha": "29 Jun 2026, 13:13 hrs"
     }
   ]
 }
