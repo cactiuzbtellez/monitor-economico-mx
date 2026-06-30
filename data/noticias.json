@@ -1,7 +1,16 @@
 {
-  "actualizado": "30/06/2026 04:42 hrs",
+  "actualizado": "30/06/2026 11:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Eliminar las exenciones del T-MEC costará 466,000 mdd en aranceles a Estados Unidos",
+      "resumen": "El mayor cobro reduciría el PIB, encarecerá las cadenas de suministro y elevará el costo para empresas y consumidores estadounidenses.",
+      "link": "https://expansion.mx/economia/2026/06/30/quitar-exenciones-tmec-saldria-caro-eu",
+      "fecha": "30 Jun 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El negocio más perrón de México: la exportación de alimento para mascotas crece 7.5 veces",
-      "resumen": "Las exportaciones mexicanas de alimento para perros y gatos alcanzaron un récord de 214.2 mdd en 2025, impulsadas por el auge del mercado de mascotas y nuevas inversiones para abastecer a Norteamérica…",
-      "link": "https://expansion.mx/economia/2026/06/26/mexico-multiplica-exportaciones-alimento-para-mascotas",
-      "fecha": "26 Jun 2026, 05:55 hrs"
+      "titulo": "Elizabeth González, la primera mujer en dirigir las finanzas de Pemex",
+      "resumen": "Bajo su cargo tendrá la enmienda de que Pemex pueda hacer frente a sus compromisos financieros sin ayuda de Hacienda en 2027.",
+      "link": "https://expansion.mx/empresas/2026/06/30/elizabeth-gonzalez-primera-mujer-en-dirigir-finanzas-pemex",
+      "fecha": "30 Jun 2026, 11:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Centrales legadas enfrentan el dilema de migrar al mercado eléctrico o pagar nuevas tarifas de transmisión",
+      "resumen": "Las centrales renovables desarrolladas bajo el antiguo marco regulatorio que opten por permanecer en el esquema heredado deberán comenzar a pagar nuevas tarifas de transmisión a partir de octubre.",
+      "link": "https://expansion.mx/empresas/2026/06/29/centrales-legadas-nuevas-tarifas",
+      "fecha": "29 Jun 2026, 18:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México tiene 48,000 talleres de carpintería y muchos ya cambian la sierra por máquinas gracias a las remodelaciones",
+      "resumen": "La adquisición de cocinas integrales, mobiliario para salas y recámaras, así como los proyectos de remodelación e interiorismo, han generado oportunidades para los talleres.",
+      "link": "https://expansion.mx/empresas/2026/06/29/talleres-de-carpinteria-cambian-sierra-por-maquinas",
+      "fecha": "29 Jun 2026, 15:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "26 Jun 2026, 23:26 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "LEGO se sube al Mundial y convierte al Zócalo en su mayor escaparate en México",
-      "resumen": "La compañía instaló su activación más grande en México durante el FIFA Fan Festival del Zócalo para acercar la marca a millones de personas y convertir el Mundial en una puerta de entrada para nuevos …",
-      "link": "https://expansion.mx/empresas/2026/06/26/lego-zocalo-mundial-2026-activacion-mexico",
-      "fecha": "26 Jun 2026, 17:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tonos naturales y tintes sin amoníaco impulsan el millonario negocio de coloración en México",
-      "resumen": "Las consumidoras mexicanas compran tintes para el cabello 4.3 veces al año y Wella identifica oportunidades para aumentar esa frecuencia de compra.",
-      "link": "https://expansion.mx/empresas/2026/06/26/industria-tinte-cabello-mexico-frecuencia-coloracion-wella",
-      "fecha": "26 Jun 2026, 17:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ingresos petroleros de Pemex repuntan 34% por alza en precios y exportaciones",
-      "resumen": "Pemex obtuvo 1,603 millones de dólares por exportaciones petroleras en mayo, su mejor resultado desde diciembre de 2024, en un contexto marcado por el alza de los precios del crudo.",
-      "link": "https://expansion.mx/empresas/2026/06/26/pemex-gana-34-mas-ingresos-petroleros-mejor-alza",
-      "fecha": "26 Jun 2026, 16:01 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anunciaría EU el miércoles que no prorrogará el T-MEC",
+      "resumen": "Gobierno de EU anunciaría el miércoles que no prorrogará el T-MEC, marcando el inicio de un plazo de 10 años para su potencial disolución.",
+      "link": "https://www.reforma.com/anunciaria-eu-el-miercoles-que-no-prorrogara-el-t-mec/ar3231836",
+      "fecha": "30 Jun 2026, 08:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta IP de energía cascada regulatoria",
-      "resumen": "Sector eléctrico prevé que en próximos meses habrá una cascada de regulaciones, lo que ayudara a las inversiones, señaló AMDEE.",
-      "link": "https://www.reforma.com/enfrenta-ip-de-energia-cascada-regulatoria/ar3231658",
-      "fecha": "29 Jun 2026, 20:43 hrs"
+      "titulo": "Crece en T-MEC la incertidumbre",
+      "resumen": "El presidente del CCE, José Medina Mora considera que la incertidumbre del T-MEC dependerá de la postura del Presidente Donald Trump.",
+      "link": "https://www.reforma.com/crece-en-t-mec-la-incertidumbre/ar3231638",
+      "fecha": "30 Jun 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Implementará CFE plan para contrarrestar apagones",
-      "resumen": "CFE acordó con representantes de 29 entidades realizar un plan de acción para fortalecer el servicio de energía y contrarrestar apagones.",
-      "link": "https://www.reforma.com/implementara-cfe-plan-para-contrarrestar-apagones/ar3231589",
-      "fecha": "29 Jun 2026, 18:37 hrs"
+      "titulo": "Operará AICM con una pista por lluvia",
+      "resumen": "El AICM dijo que por la lluvia solo se encuentra operando la pista 05 izquierda 23 derecha, esperando reanudar su otro pista en una hora.",
+      "link": "https://www.reforma.com/operara-aicm-con-una-pista-por-lluvia/ar3231874",
+      "fecha": "30 Jun 2026, 09:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Contrata Axtel crédito por Dls. 210 millones",
-      "resumen": "Axtel anunció la contratación de un crédito bancario con cuatro instituciones financieras por 210 mdd, que usará para refinanciar deuda.",
-      "link": "https://www.reforma.com/contrata-axtel-credito-por-dls-210-millones/ar3231503",
-      "fecha": "29 Jun 2026, 15:31 hrs"
+      "titulo": "Llega justicia a 'gotitas'",
+      "resumen": "La justicia a través de demandas colectivas tarda en llegar, ya que su resolución puede llevarse años y los consumidores pierden interés.",
+      "link": "https://www.reforma.com/llega-justicia-a-gotitas/ar3231675",
+      "fecha": "30 Jun 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja Reserva Estratégica de Petróleo de EU en 5.5 millones",
-      "resumen": "La Reserva Estratégica de Estados Unidos perdió 5.5 millones de barriles, ubicándose en 325.7 millones, nivel más bajo desde mayo de 1983.",
-      "link": "https://www.reforma.com/baja-reserva-estrategica-de-petroleo-de-eu-en-5-5-millones/ar3231481",
-      "fecha": "29 Jun 2026, 14:43 hrs"
+      "titulo": "'Encoge' política 39%  producción de algodón",
+      "resumen": "La siembra del algodón del 2025-2026 fue casi la mitad de la del 2024-2025, y su producción resultará en un 39% menos.",
+      "link": "https://www.reforma.com/encoge-politica-39-produccion-de-algodon/ar3231694",
+      "fecha": "30 Jun 2026, 07:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Logra Dow Jones nuevo récord y supera los 52,000 puntos",
-      "resumen": "El Dow Jones cerró por encima de los 52 mil puntos por primera vez, tras el debut de Alphabet en el índice que subió casi 5%.",
-      "link": "https://www.reforma.com/logra-dow-jones-nuevo-record-y-supera-los-52-000-puntos/ar3231471",
-      "fecha": "29 Jun 2026, 14:25 hrs"
+      "titulo": "Eliminará Nestlé colorantes artificiales en sus productos",
+      "resumen": "Nestlé eliminará para finales de 2026 los colorantes alimentarios artificiales de todos sus productos a nivel mundial.",
+      "link": "https://www.reforma.com/eliminara-nestle-colorantes-artificiales-en-sus-productos/ar3231929",
+      "fecha": "30 Jun 2026, 11:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra crudo WTI con alza de más de 2%",
-      "resumen": "Futuros del crudo estadounidense aumentaron un 2.4%, a 70.85 dólares por barril, mientras que los del Brent subieron 1.7% a 73.20 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-wti-con-alza-de-mas-de-2/ar3231464",
-      "fecha": "29 Jun 2026, 14:10 hrs"
+      "titulo": "Tiene México menos adopción de IA",
+      "resumen": "México mantiene rezago de entre 3 y 5 años en cuanto a la adopción de IA debido a limitaciones en infraestructura, reveló Needed Education.",
+      "link": "https://www.reforma.com/tiene-mexico-menos-adopcion-de-ia/ar3231623",
+      "fecha": "30 Jun 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apuntan al exterior empresas instaladas en México",
-      "resumen": "Ante un escenario geopolítico incierto, las empresas extranjeras en México apuntan a expandir sus negocios fuera del País.",
-      "link": "https://www.reforma.com/apuntan-al-exterior-empresas-instaladas-en-mexico/ar3231445",
-      "fecha": "29 Jun 2026, 13:39 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Filtran lista de proveedores, piezas y fotos del iPhone 18",
-      "resumen": "Listas de piezas, proveedores y fotos del próximo iPhone 18 Pro fueron publicados en \"dark web\" por grupo que robó datos a Tata Electronics.",
-      "link": "https://www.reforma.com/filtran-lista-de-proveedores-piezas-y-fotos-del-iphone-18/ar3231411",
-      "fecha": "29 Jun 2026, 13:13 hrs"
+      "titulo": "Planean bancos centrales reducir sus tenencias de dólares",
+      "resumen": "Bancos centrales mundiales planean reducir su exposición al dólar estadounidense a largo plazo, según un grupo de expertos.",
+      "link": "https://www.reforma.com/planean-bancos-centrales-reducir-sus-tenencias-de-dolares/ar3231938",
+      "fecha": "30 Jun 2026, 11:29 hrs"
     }
   ]
 }
