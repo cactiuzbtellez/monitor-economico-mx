@@ -1,7 +1,16 @@
 {
-  "actualizado": "01/07/2026 04:57 hrs",
+  "actualizado": "01/07/2026 12:23 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ingresos por petróleo e ISR marcan faltas, mientras IEPS a refrescos rompe récord",
+      "resumen": "En enero-mayo, el IVA fue el único impuesto que reportó excedentes por 47,806 millones, como resultado de un mayor consumo interno y fortalecimiento de las acciones de fiscalización, reportó Hacienda.",
+      "link": "https://expansion.mx/economia/2026/06/30/ingresos-petroleo-isr-faltas-ieps-refrescos-marca-record",
+      "fecha": "30 Jun 2026, 17:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El anuncio tiene lugar apenas un día después de que los países de la Unión Europea dieran luz verde a un acuerdo comercial negociado el año pasado con Estados Unidos.",
       "link": "https://expansion.mx/economia/2026/06/26/trump-amenaza-con-arancel-de-100-a-paises-europeos-por-impuesto-a-servicios-digitales",
       "fecha": "26 Jun 2026, 14:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las exportaciones de México mantienen el ritmo con un alza de 25.4% en mayo",
-      "resumen": "La balanza comercial registró saldo positivo con un superávit de 2,259 millones de dólares, de acuerdo con el Inegi.",
-      "link": "https://expansion.mx/economia/2026/06/26/exportaciones-mexico-suben-mayo-2026",
-      "fecha": "26 Jun 2026, 08:11 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cumple incendio de pozo Krem-1 más de 100 días",
-      "resumen": "A más de 100 días de haber iniciado, Pemex ún no logra controlar el incendio que se registra en el pozo Krem-1, en Las Chopas, Veracruz.",
-      "link": "https://www.reforma.com/cumple-incendio-de-pozo-krem-1-mas-de-100-dias/ar3232345",
-      "fecha": "30 Jun 2026, 19:13 hrs"
+      "titulo": "Decide EU no renovar T-MEC; pacto está vigente otra década",
+      "resumen": "EU decidió no renovar T-MEC, el cual sigue vigente 10 años, optando por revisiones anuales, dijo el representante comercial a Bloomberg.",
+      "link": "https://www.reforma.com/decide-eu-no-renovar-t-mec-pacto-esta-vigente-otra-decada/ar3232670",
+      "fecha": "01 Jul 2026, 10:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede 2.36% la BMV en junio",
-      "resumen": "BMV cerró junio en el nivel de 66 mil 966.68 unidades; lo que representó un retroceso mensual de 2.36% comparado con mayo.",
-      "link": "https://www.reforma.com/retrocede-2-36-la-bmv-en-junio/ar3232334",
-      "fecha": "30 Jun 2026, 18:59 hrs"
+      "titulo": "Entra México a etapa de incertidumbre permanente.- IP",
+      "resumen": "Ante la decisión de EU de no renovar el T-MEC, el sector de comercio y servicios consideró que México entra a una etapa de incertidumbre.",
+      "link": "https://www.reforma.com/entra-mexico-a-etapa-de-incertidumbre-permanente-ip/ar3232745",
+      "fecha": "01 Jul 2026, 12:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Será China principal ganador por T-MEC",
-      "resumen": "Ante una eventual fragmentación comercial del T-MEC, el principal beneficiario sería China, considera Atlantic Council.",
-      "link": "https://www.reforma.com/sera-china-principal-ganador-por-t-mec/ar3232313",
-      "fecha": "30 Jun 2026, 18:40 hrs"
+      "titulo": "¿Qué sigue si EU no ratifica el T-MEC?",
+      "resumen": "El consenso de los especialistas es que hoy 1 de julio EU no se pronunciará en favor de renovar el T-MEC",
+      "link": "https://www.reforma.com/que-sigue-si-eu-no-ratifica-el-t-mec/ar3232415",
+      "fecha": "01 Jul 2026, 07:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Corta dólar 2 meses con perdidas; cierra junio en $17.48",
-      "resumen": "El dólar cerró junio con una cotización de $17.48; cifra 13.15 centavos mayor a mayo lo que le permitió cortar dos meses a la baja.",
-      "link": "https://www.reforma.com/corta-dolar-2-meses-con-perdidas-cierra-junio-en-17-48/ar3232291",
-      "fecha": "30 Jun 2026, 18:04 hrs"
+      "titulo": "Crecen 3.8% remesas en mayo y ligan cuarto avance mensual",
+      "resumen": "Los ingresos por remesas a México se incrementaron un 3.8% interanual en mayo, a 5 mil 611 mdd, en su cuarto ascenso mensual consecutivo.",
+      "link": "https://www.reforma.com/crecen-3-8-remesas-en-mayo-y-ligan-cuarto-avance-mensual/ar3232660",
+      "fecha": "01 Jul 2026, 09:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Confía Ebrard en continuidad de EU en T-MEC",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard señaló que la continuación del T-MEC es un hecho ante el interés de EU por iniciar conversaciones.",
-      "link": "https://www.reforma.com/confia-ebrard-en-continuidad-de-eu-en-t-mec/ar3232266",
-      "fecha": "30 Jun 2026, 17:42 hrs"
+      "titulo": "Busca México atraer a BlackRock y KKR para infraestructura",
+      "resumen": "Altos funcionarios del gobierno se han reunido con BlackRock, KKR &amp; y Macquarie, para reactivar la inversión privada en infraestructura.",
+      "link": "https://www.reforma.com/busca-mexico-atraer-a-blackrock-y-kkr-para-infraestructura/ar3232612",
+      "fecha": "01 Jul 2026, 09:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fiscalizarán vías de trenes de carga",
-      "resumen": "La Attrapi implementará verificaciones físicas y auditorías para erradicar tarifas e ineficiencias anticompetitivas en los trenes de carga.",
-      "link": "https://www.reforma.com/fiscalizaran-vias-de-trenes-de-carga/ar3232193",
-      "fecha": "30 Jun 2026, 17:42 hrs"
+      "titulo": "Plantea Nissan bajar costos de autos fabricados en México",
+      "resumen": "Nissan busca recortar costos de los modelos fabricados en México para mitigar el impacto de aranceles, que han dificultado sus ventas en EU.",
+      "link": "https://www.reforma.com/plantea-nissan-bajar-costos-de-autos-fabricados-en-mexico/ar3232631",
+      "fecha": "01 Jul 2026, 09:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan 4.5% exportaciones agroalimentarias a Ecuador",
-      "resumen": "Secretaría de Agricultura (Sader) informó que en 2025 las exportaciones de productos agroalimentarios de México a Ecuador aumentaron 4.5%.",
-      "link": "https://www.reforma.com/aumentan-4-5-exportaciones-agroalimentarias-a-ecuador/ar3232145",
-      "fecha": "30 Jun 2026, 15:09 hrs"
+      "titulo": "Retroceden confianza empresarial y pedidos manufactureros",
+      "resumen": "En comparación anual, el Indicador de Confianza Empresarial en el sector manufacturero descendió 1.21 puntos a 48.03 en junio de 2026.",
+      "link": "https://www.reforma.com/retroceden-confianza-empresarial-y-pedidos-manufactureros/ar3232650",
+      "fecha": "01 Jul 2026, 09:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera ganancia de Nike expectativas",
-      "resumen": "Los beneficios de Nike en el cuarto trimestre fiscal superaron las estimaciones, a pesar de que las ventas en China cayeron un 12%.",
-      "link": "https://www.reforma.com/supera-ganancia-de-nike-expectativas/ar3232129",
-      "fecha": "30 Jun 2026, 14:46 hrs"
+      "titulo": "Mantienen arancel al tomate",
+      "resumen": "Tras una revisión extraordinaria, la ITC,  determinó ayer que el arancel del 17.09% al tomate mexicano.",
+      "link": "https://www.reforma.com/mantienen-arancel-al-tomate/ar3232417",
+      "fecha": "01 Jul 2026, 07:25 hrs"
     }
   ]
 }
