@@ -1,5 +1,5 @@
 {
-  "actualizado": "30/06/2026 16:53 hrs",
+  "actualizado": "01/07/2026 04:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
+      "resumen": "La refinería de Minatitlán tuvo una caída del 52% en su procesamiento de petróleo entre abril y mayo.",
+      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
+      "fecha": "30 Jun 2026, 16:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México amplía aeropuertos, pero pierde terreno en la competencia aérea de LATAM",
+      "resumen": "Los flujos de pasajeros en Brasil y Colombia crecen entre el 5 y 9%, ubicándose por encima del promedio de la región, mientras México tiene un ritmo de 3%.",
+      "link": "https://expansion.mx/empresas/2026/06/30/mexico-tiene-mas-aeropuertos-pero-no-es-suficiente",
+      "fecha": "30 Jun 2026, 16:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Elizabeth González, la primera mujer en dirigir las finanzas de Pemex",
       "resumen": "Bajo su cargo tendrá la enmienda de que Pemex pueda hacer frente a sus compromisos financieros sin ayuda de Hacienda en 2027.",
       "link": "https://expansion.mx/empresas/2026/06/30/elizabeth-gonzalez-primera-mujer-en-dirigir-finanzas-pemex",
@@ -129,94 +147,76 @@
       "fecha": "27 Jun 2026, 14:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Guadalajara se despide del Mundial 2026 entre goles, diplomacia y un estadio teñido de rojo",
-      "resumen": "El último partido de Guadalajara dejó algo más que la eliminación de Uruguay: exhibió cómo un Mundial puede convertirse en una herramienta de diplomacia, promoción turística y generación de negocios.",
-      "link": "https://expansion.mx/empresas/2026/06/27/espana-uruguay-cierra-mundial-guadalajara-diplomacia-turismo",
-      "fecha": "27 Jun 2026, 09:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“Confío en la presunción de inocencia”, dice exdirector de Pemex tras agresiones a su esposa",
-      "resumen": "El funcionario se estaría desempeñando como director general del INEEL.",
-      "link": "https://expansion.mx/empresas/2026/06/26/sener-desconoce-a-victor-rodriguez-padilla-exdirector-de-pemex-y-niega-nombramiento",
-      "fecha": "26 Jun 2026, 23:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cumple incendio de pozo Krem-1 más de 100 días",
+      "resumen": "A más de 100 días de haber iniciado, Pemex ún no logra controlar el incendio que se registra en el pozo Krem-1, en Las Chopas, Veracruz.",
+      "link": "https://www.reforma.com/cumple-incendio-de-pozo-krem-1-mas-de-100-dias/ar3232345",
+      "fecha": "30 Jun 2026, 19:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 5.8% recaudación de ISR por declaraciones anuales",
-      "resumen": "De enero a mayo, la recaudación por ISR registró una caída real de 5.8 por ciento en comparación con el mismo periodo del año anterior.",
-      "link": "https://www.reforma.com/cae-5-8-recaudacion-de-isr-por-declaraciones-anuales/ar3232071",
-      "fecha": "30 Jun 2026, 14:04 hrs"
+      "titulo": "Retrocede 2.36% la BMV en junio",
+      "resumen": "BMV cerró junio en el nivel de 66 mil 966.68 unidades; lo que representó un retroceso mensual de 2.36% comparado con mayo.",
+      "link": "https://www.reforma.com/retrocede-2-36-la-bmv-en-junio/ar3232334",
+      "fecha": "30 Jun 2026, 18:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben 4.5% exportaciones agroalimentarias a Ecuador",
+      "titulo": "Será China principal ganador por T-MEC",
+      "resumen": "Ante una eventual fragmentación comercial del T-MEC, el principal beneficiario sería China, considera Atlantic Council.",
+      "link": "https://www.reforma.com/sera-china-principal-ganador-por-t-mec/ar3232313",
+      "fecha": "30 Jun 2026, 18:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Corta dólar 2 meses con perdidas; cierra junio en $17.48",
+      "resumen": "El dólar cerró junio con una cotización de $17.48; cifra 13.15 centavos mayor a mayo lo que le permitió cortar dos meses a la baja.",
+      "link": "https://www.reforma.com/corta-dolar-2-meses-con-perdidas-cierra-junio-en-17-48/ar3232291",
+      "fecha": "30 Jun 2026, 18:04 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Confía Ebrard en continuidad de EU en T-MEC",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard señaló que la continuación del T-MEC es un hecho ante el interés de EU por iniciar conversaciones.",
+      "link": "https://www.reforma.com/confia-ebrard-en-continuidad-de-eu-en-t-mec/ar3232266",
+      "fecha": "30 Jun 2026, 17:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fiscalizarán vías de trenes de carga",
+      "resumen": "La Attrapi implementará verificaciones físicas y auditorías para erradicar tarifas e ineficiencias anticompetitivas en los trenes de carga.",
+      "link": "https://www.reforma.com/fiscalizaran-vias-de-trenes-de-carga/ar3232193",
+      "fecha": "30 Jun 2026, 17:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumentan 4.5% exportaciones agroalimentarias a Ecuador",
       "resumen": "Secretaría de Agricultura (Sader) informó que en 2025 las exportaciones de productos agroalimentarios de México a Ecuador aumentaron 4.5%.",
-      "link": "https://www.reforma.com/suben-4-5-exportaciones-agroalimentarias-a-ecuador/ar3232145",
+      "link": "https://www.reforma.com/aumentan-4-5-exportaciones-agroalimentarias-a-ecuador/ar3232145",
       "fecha": "30 Jun 2026, 15:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ve Imco poco probable salida de EU del T-MEC",
-      "resumen": "Para el Imco es poco probable que mañana EU anuncie su salida del T-MEC, lo cual requeriría un proceso ante el Senado de ese país.",
-      "link": "https://www.reforma.com/ve-imco-poco-probable-salida-de-eu-del-t-mec/ar3231979",
-      "fecha": "30 Jun 2026, 12:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anunciaría EU el miércoles que no prorrogará el T-MEC",
-      "resumen": "Gobierno de EU anunciaría el miércoles que no prorrogará el T-MEC, marcando el inicio de un plazo de 10 años para su potencial disolución.",
-      "link": "https://www.reforma.com/anunciaria-eu-el-miercoles-que-no-prorrogara-el-t-mec/ar3231836",
-      "fecha": "30 Jun 2026, 08:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Construirá Zucarmex  terminal azucarera en San Diego",
-      "resumen": "La mexicana Zucarmex cerró un acuerdo con el Puerto de San Diego para construir instalación de importación y almacenamiento de azúcar cruda.",
-      "link": "https://www.reforma.com/construira-zucarmex-terminal-azucarera-en-san-diego/ar3231983",
-      "fecha": "30 Jun 2026, 12:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen acciones de EU sólido trimestre y primer semestre",
-      "resumen": "El S&amp;P 500 y el Nasdaq subieron aproximadamente un 14% y 20%, respectivamente, en el segundo trimestre, mientras que el Dow sumó más de 12%.",
-      "link": "https://www.reforma.com/tienen-acciones-de-eu-solido-trimestre-y-primer-semestre/ar3232095",
-      "fecha": "30 Jun 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Daría extensión del T-MEC certidumbre para comercio marítimo",
-      "resumen": "El sector productivo y logístico del País tiene expectativas positivas sobre las negociaciones del T-MEC, las cuales empiezan mañana.",
-      "link": "https://www.reforma.com/daria-extension-del-t-mec-certidumbre-para-comercio-maritimo/ar3231963",
-      "fecha": "30 Jun 2026, 12:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Eliminará Nestlé colorantes artificiales en sus productos",
-      "resumen": "Nestlé eliminará para finales de 2026 los colorantes alimentarios artificiales de todos sus productos a nivel mundial.",
-      "link": "https://www.reforma.com/eliminara-nestle-colorantes-artificiales-en-sus-productos/ar3231929",
-      "fecha": "30 Jun 2026, 11:00 hrs"
+      "titulo": "Supera ganancia de Nike expectativas",
+      "resumen": "Los beneficios de Nike en el cuarto trimestre fiscal superaron las estimaciones, a pesar de que las ventas en China cayeron un 12%.",
+      "link": "https://www.reforma.com/supera-ganancia-de-nike-expectativas/ar3232129",
+      "fecha": "30 Jun 2026, 14:46 hrs"
     }
   ]
 }
