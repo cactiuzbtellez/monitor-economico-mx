@@ -1,7 +1,16 @@
 {
-  "actualizado": "02/07/2026 11:13 hrs",
+  "actualizado": "02/07/2026 15:52 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Revisión anual del T-MEC mantendrá a México con un crecimiento menor a 2%",
+      "resumen": "La incertidumbre sobre las reglas comerciales elevará el riesgo para invertir y limitará el potencial económico del país durante la próxima década.",
+      "link": "https://expansion.mx/economia/2026/07/02/revision-anual-tmec-frena-potencial-crecimiento-mexico",
+      "fecha": "02 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La reinvención del T-MEC: de funcionar a medias a revivir con los aranceles de Trump",
-      "resumen": "México elevó de 49% a 88% el comercio bajo el tratado; Canadá pasó de 38% a 81% antes de la revisión.",
-      "link": "https://expansion.mx/economia/2026/07/01/futuro-tmec-se-decide-hoy",
-      "fecha": "01 Jul 2026, 05:55 hrs"
+      "titulo": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
+      "resumen": "El mayor consumo de datos y la competencia de los operadores móviles virtuales reducen los márgenes de Telcel y AT&amp;T para financiar la modernización de su infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
+      "fecha": "02 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,40 +147,40 @@
       "fecha": "30 Jun 2026, 16:53 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México amplía aeropuertos, pero pierde terreno en la competencia aérea de LATAM",
-      "resumen": "Los flujos de pasajeros en Brasil y Colombia crecen entre el 5 y 9%, ubicándose por encima del promedio de la región, mientras México tiene un ritmo de 3%.",
-      "link": "https://expansion.mx/empresas/2026/06/30/mexico-tiene-mas-aeropuertos-pero-no-es-suficiente",
-      "fecha": "30 Jun 2026, 16:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan combatir delitos financieros con verificación facial",
+      "resumen": "Al verificar la identidad de los usuarios con biometría facial en entidades financieras se busca prevenir delitos financieros, dijo Banamex.",
+      "link": "https://www.reforma.com/buscan-combatir-delitos-financieros-con-verificacion-facial/ar3233479",
+      "fecha": "02 Jul 2026, 13:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se desploma otra vez gasto en obras públicas",
-      "resumen": "Gasto público en inversión física  cayó otro 17.3% real anual de enero a mayo durante 2026, ubicándose en 299 mil 218 millones de pesos.",
-      "link": "https://www.reforma.com/se-desploma-otra-vez-gasto-en-obras-publicas/ar3233171",
-      "fecha": "02 Jul 2026, 05:01 hrs"
+      "titulo": "Suspensión de certificado a Magnicharters fue legal.- AFAC",
+      "resumen": "AFAC informó que la suspensión de las aerolínea Magnicharters ocurrida el 14 de abril fue bajo sustento jurídico y técnico.",
+      "link": "https://www.reforma.com/suspension-de-certificado-a-magnicharters-fue-legal-afac/ar3233600",
+      "fecha": "02 Jul 2026, 15:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirman que habrá certidumbre cuando  se vaya Trump",
-      "resumen": "Ante revisiones anuales del T-MEC, se prevé que el clima de incertidumbre reduzca una vez Donald Trump termine su mandato, señaló Citigroup.",
-      "link": "https://www.reforma.com/afirman-que-habra-certidumbre-cuando-se-vaya-trump/ar3233136",
-      "fecha": "02 Jul 2026, 05:01 hrs"
+      "titulo": "Prevén superar venta  de 100 mil autos 'verdes'",
+      "resumen": "En México se podrían vender hasta 100 vehículos híbridos y eléctricos, durante este año, según la EMA.",
+      "link": "https://www.reforma.com/preven-superar-venta-de-100-mil-autos-verdes/ar3233537",
+      "fecha": "02 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llama IP de EU a extender T-MEC",
-      "resumen": "Un llamado generalizado de diversos organismos empresariales de EU hacen un llamado a su gobierno para preservar el T-MEC.",
-      "link": "https://www.reforma.com/llama-ip-de-eu-a-extender-t-mec/ar3233191",
-      "fecha": "01 Jul 2026, 22:09 hrs"
+      "titulo": "Llama Profeco a revisión  a 6 mil vehículos MG3",
+      "resumen": "Profeco hizo un llamado a revisión de 6 mil automóviles modelos MG3 de los años 2024, 2025 y 2026 por fallas en el asiento del conductor.",
+      "link": "https://www.reforma.com/llama-profeco-a-revision-a-6-mil-vehiculos-mg3/ar3233554",
+      "fecha": "02 Jul 2026, 14:50 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,6 +195,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Suma Dow Jones 445 puntos y marca nuevo récord",
+      "resumen": "El índice de 30 valores ganó 445 puntos, o un 0.9%, y alcanzó un nuevo máximo histórico de 52 mil 880.65 puntos.",
+      "link": "https://www.reforma.com/suma-dow-jones-445-puntos-y-marca-nuevo-record/ar3233535",
+      "fecha": "02 Jul 2026, 14:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Logran máximo histórico  ventas de vehículos ligeros",
       "resumen": "De enero a junio pasado, se vendieron en el mercado interno 754 mil 394 autos, un volumen nunca antes visto en lapso comparable.",
       "link": "https://www.reforma.com/logran-maximo-historico-ventas-de-vehiculos-ligeros/ar3233327",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deben Estados 48% más a proveedores",
-      "resumen": "Al cierre del primer trimestre de 2026, deuda de Estados con proveedores subió 48% en términos reales frente a trimestre previo.",
-      "link": "https://www.reforma.com/deben-estados-48-mas-a-proveedores/ar3233142",
-      "fecha": "02 Jul 2026, 07:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Coloca futbol 900 millones en hoteles de Monterrey",
-      "resumen": "Actividades por el Mundial de futbol en Monterrey dejaron una derrama económica de 900 millones de pesos en el sector hotelero en junio.",
-      "link": "https://www.reforma.com/coloca-futbol-900-millones-en-hoteles-de-monterrey/ar3233154",
-      "fecha": "02 Jul 2026, 04:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crea EU solo 57 mil empleos en junio",
-      "resumen": "Las nóminas no agrícolas aumentaron en 57 mil puestos de trabajo el mes pasado, menos de lo esperado, pero la tasa de desempleo bajó a 4.2%.",
-      "link": "https://www.reforma.com/crea-eu-solo-57-mil-empleos-en-junio/ar3233274",
-      "fecha": "02 Jul 2026, 07:14 hrs"
+      "titulo": "Caen acciones de Tesla 7% pese a mejores ventas",
+      "resumen": "Las acciones de Tesla caían 7.34% pese a que reportó cifras de entrega de unidades que superaron las expectativas de Wall Street.",
+      "link": "https://www.reforma.com/caen-acciones-de-tesla-7-pese-a-mejores-ventas/ar3233471",
+      "fecha": "02 Jul 2026, 12:44 hrs"
     }
   ]
 }
