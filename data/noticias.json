@@ -1,7 +1,43 @@
 {
-  "actualizado": "02/07/2026 04:15 hrs",
+  "actualizado": "02/07/2026 11:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Advierten vulnerabilidades en intermediarios financieros no bancarios",
+      "resumen": "El Consejo de Estabilidad del Sistema Financiero advirtió que hay señales de vulnerabilidad en el sistema por la baja rentabilidad y la menor liquidez en instituciones financieras no bancarias.",
+      "link": "https://expansion.mx/economia/2026/07/01/advierten-vulnerabilidades-en-intermediarios-financieros-no-bancarios",
+      "fecha": "01 Jul 2026, 17:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ebrard descarta diferencias de fondo que impidan extender el T-MEC en cualquier momento",
+      "resumen": "México quiere eliminar aranceles entre socios y usar el tratado para fortalecer la producción de Norteamérica.",
+      "link": "https://expansion.mx/economia/2026/07/01/ebrard-ve-posible-extender-el-tmec",
+      "fecha": "01 Jul 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda dejará de recaudar 3.4 billones de pesos en 2026 y 2027 por estímulos y exenciones fiscales",
+      "resumen": "Los beneficios fiscales con mayor impacto son la tasa cero de IVA en alimentos y medicinas, los estímulos fiscales en la región fronteriza, además de exenciones de ISR de personas físicas.",
+      "link": "https://expansion.mx/economia/2026/07/01/hacienda-dejara-de-recaudar-3-4-billones-de-pesos-en-2026-y-2027-por-estimulos-y-exenciones-fiscales",
+      "fecha": "01 Jul 2026, 15:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México deja de gastar más de 418,000 millones de pesos, pero el déficit fiscal se dispara 42%",
+      "resumen": "La diferencia entre ingresos y gasto público, que es compensada con deuda, superó el medio billón de pesos, al cierre de mayo pasado.",
+      "link": "https://expansion.mx/economia/2026/07/01/mexico-recorta-418000-mdp-gasto-deficit-fiscal-dispara",
+      "fecha": "01 Jul 2026, 13:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,45 +76,45 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Ingresos por petróleo e ISR marcan faltas, mientras IEPS a refrescos rompe récord",
-      "resumen": "En enero-mayo, el IVA fue el único impuesto que reportó excedentes por 47,806 millones, como resultado de un mayor consumo interno y fortalecimiento de las acciones de fiscalización, reportó Hacienda.",
-      "link": "https://expansion.mx/economia/2026/06/30/ingresos-petroleo-isr-faltas-ieps-refrescos-marca-record",
-      "fecha": "30 Jun 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Eliminar las exenciones del T-MEC costará 466,000 mdd en aranceles a Estados Unidos",
-      "resumen": "El mayor cobro reduciría el PIB, encarecerá las cadenas de suministro y elevará el costo para empresas y consumidores estadounidenses.",
-      "link": "https://expansion.mx/economia/2026/06/30/quitar-exenciones-tmec-saldria-caro-eu",
-      "fecha": "30 Jun 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El jitomate da un respiro al bolsillo: su precio cae 41% en un mes, según Profeco",
-      "resumen": "Tras meses de incrementos, el principal producto de la canasta básica redujo su precio en más de 20 pesos por kilo durante junio, según el monitoreo nacional.",
-      "link": "https://expansion.mx/economia/2026/06/29/cual-es-el-precio-del-jitomate-segun-profeco",
-      "fecha": "29 Jun 2026, 17:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sabadell ve crédito en energía y hoteles tras colocar 4,000 mdp",
-      "resumen": "José Iragorri, director general del banco, afirma que los esquemas mixtos de energía requerirán fondeo relevante y que el avance con banca de desarrollo será gradual.",
-      "link": "https://expansion.mx/economia/2026/06/29/sabadell-pidio-4000-mdp-mexico-va-por-energia-hoteles",
-      "fecha": "29 Jun 2026, 15:54 hrs"
+      "titulo": "Centro y Bajío concentran el mayor riesgo de robo de combustibles en carreteras",
+      "resumen": "Aunque la tecnología y la regulación han fortalecido los mecanismos de control, la inseguridad representa un desafío permanente para garantizar el abasto de combustibles en el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/01/cada-pipa-combustible-mexico-puede-terminar-robo-zonas",
+      "fecha": "01 Jul 2026, 18:10 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Envejecimiento y menor cobertura pública elevan el gasto en salud de los mexicanos",
+      "titulo": "Automotrices llaman a salvar el T-MEC ante nueva incertidumbre comercial",
+      "resumen": "La industria automotriz, principal ejemplo de la integración económica regional, alertó que la falta de claridad sobre el futuro del T-MEC puede afectar las decisiones de inversión en Norteamérica.",
+      "link": "https://expansion.mx/empresas/2026/07/01/industria-automotriz-mexicana-lamenta-decision-t-mec-trump",
+      "fecha": "01 Jul 2026, 14:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La CRT mantiene la “selfie” en el registro telefónico pese a anunciar su eliminación",
+      "resumen": "La autoridad otorgó una prórroga de 184 días hábiles, pero también modificó los lineamientos para conservar la denominada “prueba de vida”, uno de los requisitos más cuestionados por usuarios y operad…",
+      "link": "https://expansion.mx/empresas/2026/07/01/crt-obliga-tomar-datos-biometricos-registro-de-celulares",
+      "fecha": "01 Jul 2026, 14:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Marathon? Los mexicanos detrás de la camiseta que viste Ecuador",
+      "resumen": "Marathon Sports acompañó a Ecuador en la Copa del Mundo, pero desde el año pasado pertenece a Innovasport, una empresa mexicana que busca expandir su presencia.",
+      "link": "https://expansion.mx/empresas/2026/07/01/quien-es-dueno-marathon-sports-uniforme-ecuador",
+      "fecha": "01 Jul 2026, 14:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La salud desplaza educación y vestido en el presupuesto de los hogares mexicanos",
       "resumen": "Las familias mexicanas destinan una proporción cada vez mayor de sus ingresos a salud, mientras el comercio electrónico acelera la venta de medicamentos y productos de bienestar.",
       "link": "https://expansion.mx/empresas/2026/07/01/gasto-mexicanos-salud-aumento-mas-100-en-menos-10-anos",
       "fecha": "01 Jul 2026, 11:00 hrs"
@@ -111,40 +147,22 @@
       "fecha": "30 Jun 2026, 16:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Elizabeth González, la primera mujer en dirigir las finanzas de Pemex",
-      "resumen": "Bajo su cargo tendrá la enmienda de que Pemex pueda hacer frente a sus compromisos financieros sin ayuda de Hacienda en 2027.",
-      "link": "https://expansion.mx/empresas/2026/06/30/elizabeth-gonzalez-primera-mujer-en-dirigir-finanzas-pemex",
-      "fecha": "30 Jun 2026, 11:19 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se desploma otra vez gasto en obras públicas",
+      "resumen": "Gasto público en inversión física  cayó otro 17.3% real anual de enero a mayo durante 2026, ubicándose en 299 mil 218 millones de pesos.",
+      "link": "https://www.reforma.com/se-desploma-otra-vez-gasto-en-obras-publicas/ar3233171",
+      "fecha": "02 Jul 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Centrales legadas enfrentan el dilema de migrar al mercado eléctrico o pagar nuevas tarifas de transmisión",
-      "resumen": "Las centrales renovables desarrolladas bajo el antiguo marco regulatorio que opten por permanecer en el esquema heredado deberán comenzar a pagar nuevas tarifas de transmisión a partir de octubre.",
-      "link": "https://expansion.mx/empresas/2026/06/29/centrales-legadas-nuevas-tarifas",
-      "fecha": "29 Jun 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México tiene 48,000 talleres de carpintería y muchos ya cambian la sierra por máquinas gracias a las remodelaciones",
-      "resumen": "La adquisición de cocinas integrales, mobiliario para salas y recámaras, así como los proyectos de remodelación e interiorismo, han generado oportunidades para los talleres.",
-      "link": "https://expansion.mx/empresas/2026/06/29/talleres-de-carpinteria-cambian-sierra-por-maquinas",
-      "fecha": "29 Jun 2026, 15:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cancelarán tu línea de celular el 1 de julio? Esto ocurrirá si no registras tu número",
-      "resumen": "El registro de las líneas móviles continúa siendo obligatorio, pero ahora tendrá fechas escalonadas según el último dígito del número telefónico.",
-      "link": "https://expansion.mx/empresas/2026/06/29/cancelaran-linea-de-celular-1-de-julio-fecha-limite",
-      "fecha": "29 Jun 2026, 14:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afirman que habrá certidumbre cuando  se vaya Trump",
+      "resumen": "Ante revisiones anuales del T-MEC, se prevé que el clima de incertidumbre reduzca una vez Donald Trump termine su mandato, señaló Citigroup.",
+      "link": "https://www.reforma.com/afirman-que-habra-certidumbre-cuando-se-vaya-trump/ar3233136",
+      "fecha": "02 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Seguirán EU y México integrados comercialmente.- Slim",
-      "resumen": "Independiente del T-MEC, Slim aseguró que relación comercial entre México y EU seguirá siendo uno de los pilares económicos de Norteamérica.",
-      "link": "https://www.reforma.com/seguiran-eu-y-mexico-integrados-comercialmente-slim/ar3233160",
-      "fecha": "01 Jul 2026, 20:51 hrs"
+      "titulo": "Busca Ford en T-MEC  competencia más equitativa",
+      "resumen": "CEO de Ford Motor, Jim Farley, tiene claro lo que la compañía busca en las nuevas conversaciones del T-MEC: una competencia más equitativa.",
+      "link": "https://www.reforma.com/busca-ford-en-t-mec-competencia-mas-equitativa/ar3233373",
+      "fecha": "02 Jul 2026, 10:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Autoriza SHCP verificar identidad con biometría facial",
-      "resumen": "SHCP autorizó a instituciones de crédito la posibilidad de capturar la biometría facial de los clientes como proceso de verificación.",
-      "link": "https://www.reforma.com/autoriza-shcp-verificar-identidad-con-biometria-facial/ar3233107",
-      "fecha": "01 Jul 2026, 20:07 hrs"
+      "titulo": "Logran máximo histórico  ventas de vehículos ligeros",
+      "resumen": "De enero a junio pasado, se vendieron en el mercado interno 754 mil 394 autos, un volumen nunca antes visto en lapso comparable.",
+      "link": "https://www.reforma.com/logran-maximo-historico-ventas-de-vehiculos-ligeros/ar3233327",
+      "fecha": "02 Jul 2026, 09:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pega zozobra por T-MEC y anticipan barreras para inversión",
-      "resumen": "Revisiones anuales de T-MEC seguirán limitando la inversión privada en el País que ya restó 0.03 puntos porcentuales al PIB, señaló Banamex.",
-      "link": "https://www.reforma.com/pega-zozobra-por-t-mec-y-anticipan-barreras-para-inversion/ar3233041",
-      "fecha": "01 Jul 2026, 18:29 hrs"
+      "titulo": "Deben Estados 48% más a proveedores",
+      "resumen": "Al cierre del primer trimestre de 2026, deuda de Estados con proveedores subió 48% en términos reales frente a trimestre previo.",
+      "link": "https://www.reforma.com/deben-estados-48-mas-a-proveedores/ar3233142",
+      "fecha": "02 Jul 2026, 07:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar en $17.55",
-      "resumen": "El dólar cerró este miércoles con una cotización de $17.55; cifra 6.65 centavos mayor al miércoles.",
-      "link": "https://www.reforma.com/cierra-dolar-en-17-55/ar3233014",
-      "fecha": "01 Jul 2026, 18:29 hrs"
+      "titulo": "Coloca futbol 900 millones en hoteles de Monterrey",
+      "resumen": "Actividades por el Mundial de futbol en Monterrey dejaron una derrama económica de 900 millones de pesos en el sector hotelero en junio.",
+      "link": "https://www.reforma.com/coloca-futbol-900-millones-en-hoteles-de-monterrey/ar3233154",
+      "fecha": "02 Jul 2026, 04:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Implementa SAT la figura de Agencias Aduanales",
-      "resumen": "Hoy, el Gobierno federal liberó a nivel nacional la operación de las Agencias Aduanales, con el fin de modernizar los procesos aduaneros.",
-      "link": "https://www.reforma.com/implementa-sat-la-figura-de-agencias-aduanales/ar3232973",
-      "fecha": "01 Jul 2026, 18:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apoyan asociaciones de EU el T-MEC",
-      "resumen": "Asociaciones de EU mostraron su apoyo al T-MEC al destacar los beneficios que el pacto comercial ha traído a la economía estadounidense.",
-      "link": "https://www.reforma.com/apoyan-asociaciones-de-eu-el-t-mec/ar3232926",
-      "fecha": "01 Jul 2026, 15:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lamenta sector automotriz rechazo a T-MEC",
-      "resumen": "La industria automotriz lamentó la confirmación sobre el rechazo de Estados Unidos a la renovación del T-MEC hacia 2042.",
-      "link": "https://www.reforma.com/lamenta-sector-automotriz-rechazo-a-t-mec/ar3232901",
-      "fecha": "01 Jul 2026, 15:15 hrs"
+      "titulo": "Crea EU solo 57 mil empleos en junio",
+      "resumen": "Las nóminas no agrícolas aumentaron en 57 mil puestos de trabajo el mes pasado, menos de lo esperado, pero la tasa de desempleo bajó a 4.2%.",
+      "link": "https://www.reforma.com/crea-eu-solo-57-mil-empleos-en-junio/ar3233274",
+      "fecha": "02 Jul 2026, 07:14 hrs"
     }
   ]
 }
