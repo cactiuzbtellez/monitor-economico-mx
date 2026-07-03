@@ -1,25 +1,7 @@
 {
-  "actualizado": "03/07/2026 10:06 hrs",
+  "actualizado": "03/07/2026 14:42 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
-      "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/03/efecto-y-si-si-llega-bolsillo-avance-mexico-mundial-gasto",
-      "fecha": "03 Jul 2026, 08:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Del chip al data center: México exporta el boom de la IA, pero el mayor valor de la cadena sigue fuera",
-      "resumen": "Las exportaciones de equipo de cómputo crecieron 144.8% y alcanzaron 85,416 mdd en 2025, pero la industria todavía depende de componentes asiáticos y captura una fracción limitada del valor agregado.",
-      "link": "https://expansion.mx/economia/2026/07/03/mexico-exportaciones-equipo-computo-ia-chips-data-centers",
-      "fecha": "03 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,48 +58,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La revisión anual del T-MEC prolongará la sequía de inversiones automotrices en México",
-      "resumen": "El país acumula casi una década sin anuncios de nuevas plantas de vehículos ligeros y la incertidumbre sobre el T-MEC y posibles revisiones anuales frena proyectos de inversión de largo plazo.",
-      "link": "https://expansion.mx/empresas/2026/07/03/la-revision-anual-del-t-mec-inversiones-automotrices-mexico",
-      "fecha": "03 Jul 2026, 05:55 hrs"
+      "titulo": "Presidente de la Fed se compromete a combatir inflación superior al objetivo en EU",
+      "resumen": "\"Vamos a garantizar la estabilidad de precios en Estados Unidos\", dijo Warsh en un foro del Banco Central Europeo (BCE) en Portugal.",
+      "link": "https://expansion.mx/economia/2026/07/01/presidente-de-la-fed-se-compromete-a-combatir-inflacion-superior-al-objetivo-en-eu",
+      "fecha": "01 Jul 2026, 09:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México recibe 5,611 mdd en remesas en mayo y registra el mayor monto en siete meses",
+      "resumen": "Las remesas que llegan a México desde el extranjero tuvieron un crecimiento anual de 3.8% mientras que en el acumulado del año se han recibido 25,287.5 millones de dólares.",
+      "link": "https://expansion.mx/economia/2026/07/01/mexico-recibe-5-611-mdd-en-remesas-en-mayo-y-registra-el-mayor-monto-en-siete-meses",
+      "fecha": "01 Jul 2026, 09:44 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "StubHub, la plataforma en el centro de la polémica por los boletos del Mundial 2026",
-      "resumen": "Miles de personas utilizan StubHub para comprar boletos de conciertos y eventos deportivos, pero su participación en el Mundial 2026 reavivó las dudas sobre cómo verifica las entradas y quién controla…",
-      "link": "https://expansion.mx/empresas/2026/07/02/stubhub-polemica-reventa-boletos-mundial-2026",
-      "fecha": "02 Jul 2026, 19:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México registra un semestre histórico en venta de autos, impulsado por fabricantes asiáticos",
-      "resumen": "De mantenerse el ritmo de crecimiento, 2026 podría convertirse en el nuevo año récord. Actualmente, la mejor marca histórica de ventas corresponde a 2016, cuando se comercializaron 1,603,672 vehículos…",
-      "link": "https://expansion.mx/empresas/2026/07/02/ventas-autos-nuevos-rompe-record-historico-2026",
-      "fecha": "02 Jul 2026, 18:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El inesperado avance de la selección mexicana en el Mundial desata una ola de consumo que podría llegar a los 65,000 mdp",
-      "resumen": "Entre hieleras, botanas y reuniones familiares, el “¿y si sí?” se ha convertido en un motor económico: las ventas en pequeños comercios han crecido hasta 30% y el Mundial perfila una derrama de 65,000…",
-      "link": "https://expansion.mx/empresas/2026/07/02/triunfos-seleccion-mexicana-empujan-ventas-comercios-barrio",
-      "fecha": "02 Jul 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Peñoles pagará a CRT 659,489 pesos para usar espectro en minas de Guerrero",
-      "resumen": "Con la autorización, Peñoles operará una nueva red de radiocomunicación para reforzar la seguridad de sus trabajadores en minas subterráneas, donde la comunicación es clave ante riesgos como derrumbes…",
-      "link": "https://expansion.mx/empresas/2026/07/02/penoles-pagara-crt-radios-emergencia-minas-de-guerrero",
-      "fecha": "02 Jul 2026, 16:59 hrs"
+      "titulo": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
+      "resumen": "El mayor consumo de datos y la competencia de los operadores móviles virtuales reducen los márgenes de Telcel y AT&amp;T para financiar la modernización de su infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
+      "fecha": "02 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,13 +111,49 @@
       "fecha": "01 Jul 2026, 14:33 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Marathon? Los mexicanos detrás de la camiseta que viste Ecuador",
+      "resumen": "Marathon Sports acompañó a Ecuador en la Copa del Mundo, pero desde el año pasado pertenece a Innovasport, una empresa mexicana que busca expandir su presencia.",
+      "link": "https://expansion.mx/empresas/2026/07/01/quien-es-dueno-marathon-sports-uniforme-ecuador",
+      "fecha": "01 Jul 2026, 14:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La salud desplaza educación y vestido en el presupuesto de los hogares mexicanos",
+      "resumen": "Las familias mexicanas destinan una proporción cada vez mayor de sus ingresos a salud, mientras el comercio electrónico acelera la venta de medicamentos y productos de bienestar.",
+      "link": "https://expansion.mx/empresas/2026/07/01/gasto-mexicanos-salud-aumento-mas-100-en-menos-10-anos",
+      "fecha": "01 Jul 2026, 11:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Registro telefónico arriesga la desconexión de 16 millones de líneas y la pérdida de 1,900 mdp mensuales",
+      "resumen": "El regulador ganó tiempo para implementar el registro, pero no resolvió su diseño, por lo que Banamex y especialistas prevén suspensiones masivas, pérdidas económicas e impacto en usuarios de menores …",
+      "link": "https://expansion.mx/empresas/2026/07/01/registro-telefonico-riesgos-desconexion-perdidas",
+      "fecha": "01 Jul 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
+      "resumen": "La refinería de Minatitlán tuvo una caída del 52% en su procesamiento de petróleo entre abril y mayo.",
+      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
+      "fecha": "30 Jun 2026, 16:53 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde México  con constantes revisiones, advierten",
-      "resumen": "Para México, la decisión de revisiones anuales al T-MEC impacta de manera negativa para ofrecer certeza a mediano y largo plazo.",
-      "link": "https://www.reforma.com/pierde-mexico-con-constantes-revisiones-advierten/ar3233826",
-      "fecha": "03 Jul 2026, 05:01 hrs"
+      "titulo": "Toma revisión  del T-MEC a País con problemas de crecimiento",
+      "resumen": "Las revisiones anuales del T-MEC toman a México con serios problemas de crecimiento económico, destacaron analistas.",
+      "link": "https://www.reforma.com/toma-revision-del-t-mec-a-pais-con-problemas-de-crecimiento/ar3234089",
+      "fecha": "03 Jul 2026, 13:47 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Caintra certidumbre de largo plazo en T-MEC",
-      "resumen": "La Caintra NL afirmó que preservar un T-MEC sólido y predecible es indispensable para fortalecer la confianza de los inversionistas.",
-      "link": "https://www.reforma.com/pide-caintra-certidumbre-de-largo-plazo-en-t-mec/ar3233846",
-      "fecha": "03 Jul 2026, 07:04 hrs"
+      "titulo": "Disminuye 1.8 puntos en junio la confianza del consumidor",
+      "resumen": "El Indicador de Confianza del Consumidor presentó su revés anual número 18, al ceder 1.8 puntos, a 43.8, durante junio pasado.",
+      "link": "https://www.reforma.com/disminuye-1-8-puntos-en-junio-la-confianza-del-consumidor/ar3234000",
+      "fecha": "03 Jul 2026, 10:30 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Siguen en AICM con restricciones",
-      "resumen": "Pese a incrementar las operaciones en el AICM y transparentar la asignación de slots, no hay señales de que EU levante sus restricciones.",
-      "link": "https://www.reforma.com/siguen-en-aicm-con-restricciones/ar3233777",
-      "fecha": "03 Jul 2026, 05:01 hrs"
+      "titulo": "Advierte JPMorgan riesgos de caída del precio del oro",
+      "resumen": "El banco señaló que los riesgos para su previsión del oro se inclinan a la baja, ante posibilidad de que la Fed adelante las alzas de tasas.",
+      "link": "https://www.reforma.com/advierte-jpmorgan-riesgos-de-caida-del-precio-del-oro/ar3234150",
+      "fecha": "03 Jul 2026, 14:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan conductoras y repartidoras",
-      "resumen": "La participación de mujeres dentro de aplicaciones de movilidad sigue en aumento, principalmente en DiDi, donde ya son 200 mil.",
-      "link": "https://www.reforma.com/aumentan-conductoras-y-repartidoras/ar3233787",
-      "fecha": "03 Jul 2026, 05:01 hrs"
+      "titulo": "Alistan en EU medidas de emergencia para evitar apagones",
+      "resumen": "PJM, el mayor operador de la red eléctrica en EU, se encuentra bajo alerta federal para reducir el consumo eléctrico en todo su territorio.",
+      "link": "https://www.reforma.com/alistan-en-eu-medidas-de-emergencia-para-evitar-apagones/ar3234099",
+      "fecha": "03 Jul 2026, 13:47 hrs"
     }
   ]
 }
