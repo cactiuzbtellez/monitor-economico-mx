@@ -1,5 +1,5 @@
 {
-  "actualizado": "03/07/2026 03:45 hrs",
+  "actualizado": "03/07/2026 10:06 hrs",
   "total": 24,
   "noticias": [
     {
@@ -8,8 +8,17 @@
       "color": "#C8102E",
       "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
       "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/02/efecto-y-si-si-provocara-mayor-consumo-en-los-hogares",
-      "fecha": "02 Jul 2026, 18:10 hrs"
+      "link": "https://expansion.mx/economia/2026/07/03/efecto-y-si-si-llega-bolsillo-avance-mexico-mundial-gasto",
+      "fecha": "03 Jul 2026, 08:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Del chip al data center: México exporta el boom de la IA, pero el mayor valor de la cadena sigue fuera",
+      "resumen": "Las exportaciones de equipo de cómputo crecieron 144.8% y alcanzaron 85,416 mdd en 2025, pero la industria todavía depende de componentes asiáticos y captura una fracción limitada del valor agregado.",
+      "link": "https://expansion.mx/economia/2026/07/03/mexico-exportaciones-equipo-computo-ia-chips-data-centers",
+      "fecha": "03 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Presidente de la Fed se compromete a combatir inflación superior al objetivo en EU",
-      "resumen": "\"Vamos a garantizar la estabilidad de precios en Estados Unidos\", dijo Warsh en un foro del Banco Central Europeo (BCE) en Portugal.",
-      "link": "https://expansion.mx/economia/2026/07/01/presidente-de-la-fed-se-compromete-a-combatir-inflacion-superior-al-objetivo-en-eu",
-      "fecha": "01 Jul 2026, 09:56 hrs"
+      "titulo": "La revisión anual del T-MEC prolongará la sequía de inversiones automotrices en México",
+      "resumen": "El país acumula casi una década sin anuncios de nuevas plantas de vehículos ligeros y la incertidumbre sobre el T-MEC y posibles revisiones anuales frena proyectos de inversión de largo plazo.",
+      "link": "https://expansion.mx/empresas/2026/07/03/la-revision-anual-del-t-mec-inversiones-automotrices-mexico",
+      "fecha": "03 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "01 Jul 2026, 14:33 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Marathon? Los mexicanos detrás de la camiseta que viste Ecuador",
-      "resumen": "Marathon Sports acompañó a Ecuador en la Copa del Mundo, pero desde el año pasado pertenece a Innovasport, una empresa mexicana que busca expandir su presencia.",
-      "link": "https://expansion.mx/empresas/2026/07/01/quien-es-dueno-marathon-sports-uniforme-ecuador",
-      "fecha": "01 Jul 2026, 14:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde México  con constantes revisiones, advierten",
+      "resumen": "Para México, la decisión de revisiones anuales al T-MEC impacta de manera negativa para ofrecer certeza a mediano y largo plazo.",
+      "link": "https://www.reforma.com/pierde-mexico-con-constantes-revisiones-advierten/ar3233826",
+      "fecha": "03 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja ocupación hotelera entre juegos de la Selección en CDMX",
-      "resumen": "Entre la inauguración del Mundial en CDMX y el tercer partido del Tri, la ocupación hotelera en la Capital bajó de 61.56 a 58.99 por ciento.",
-      "link": "https://www.reforma.com/baja-ocupacion-hotelera-entre-juegos-de-la-seleccion-en-cdmx/ar3233757",
-      "fecha": "02 Jul 2026, 19:11 hrs"
+      "titulo": "Debe Trínitas  $2,437 millones y tiene en caja $10 mil",
+      "resumen": "Afectados por fraude de Trínitas descubren que la financiera, que adeuda $2 mil 437 millones, sólo tiene $9 mil 901.57 en cuentas bancarias.",
+      "link": "https://www.reforma.com/debe-trinitas-2-437-millones-y-tiene-en-caja-10-mil/ar3233876",
+      "fecha": "03 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compró Trump acciones de Big Tech antes de quitar aranceles",
-      "resumen": "Presidente Donald Trump compró acciones de Apple, Nvidia y otras tecnológicas antes de que reversión de aranceles impulsara la recuperación.",
-      "link": "https://www.reforma.com/compro-trump-acciones-de-big-tech-antes-de-quitar-aranceles/ar3233680",
-      "fecha": "02 Jul 2026, 17:32 hrs"
+      "titulo": "Cerrará Whirlpool planta  en Apodaca en 2027",
+      "resumen": "Whirlpool anunció su intención de cerrar en el segundo trimestre de 2027 sus operaciones en Apodaca y trasladarlas a Ramos Arizpe.",
+      "link": "https://www.reforma.com/cerrara-whirlpool-planta-en-apodaca-en-2027/ar3233946",
+      "fecha": "03 Jul 2026, 08:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan agricultores de EU impacto a reputación",
-      "resumen": "Productores agrícolas de EU señalaron que incertidumbre de T-MEC representará más presiones para un sector que enfrenta crisis económica.",
-      "link": "https://www.reforma.com/acusan-agricultores-de-eu-impacto-a-reputacion/ar3233620",
-      "fecha": "02 Jul 2026, 17:32 hrs"
+      "titulo": "Ingresaría FIFA 11 mmdd  ¡y dice que saldrá tablas!",
+      "resumen": "La Copa Mundial 2026 es el colofón del evento global con más ingresos de la historia, pero aun así la FIFA dice que no tendrá utilidades.",
+      "link": "https://www.reforma.com/ingresaria-fifa-11-mmdd-y-dice-que-saldra-tablas/ar3233843",
+      "fecha": "03 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ejecuta SHCP 'fuerte' subejercicio de 417 mmdp",
-      "resumen": "SHCP ejecutó un subejericicio de 417 mil millones de peso respeto a lo programado en el periodo enero-mayo de 2026, advierte Banamex.",
-      "link": "https://www.reforma.com/ejecuta-shcp-fuerte-subejercicio-de-417-mmdp/ar3233610",
-      "fecha": "02 Jul 2026, 17:18 hrs"
+      "titulo": "Pide Caintra certidumbre de largo plazo en T-MEC",
+      "resumen": "La Caintra NL afirmó que preservar un T-MEC sólido y predecible es indispensable para fortalecer la confianza de los inversionistas.",
+      "link": "https://www.reforma.com/pide-caintra-certidumbre-de-largo-plazo-en-t-mec/ar3233846",
+      "fecha": "03 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suspensión de certificado a Magnicharters fue legal.- AFAC",
-      "resumen": "AFAC informó que la suspensión de las aerolínea Magnicharters ocurrida el 14 de abril fue bajo sustento jurídico y técnico.",
-      "link": "https://www.reforma.com/suspension-de-certificado-a-magnicharters-fue-legal-afac/ar3233600",
-      "fecha": "02 Jul 2026, 15:45 hrs"
+      "titulo": "Crece economía pero más lento",
+      "resumen": "Factores como la actividad económica, inflación y política monetaria sugieren una economía positiva aunque con crecimiento moderado.",
+      "link": "https://www.reforma.com/crece-economia-pero-mas-lento/ar3233818",
+      "fecha": "03 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llama Profeco a revisión 6 mil vehículos MG3",
-      "resumen": "Profeco hizo un llamado a revisión de 6 mil automóviles modelos MG3 de los años 2024,2025 y 2026 por fallas en el asiento del conductor.",
-      "link": "https://www.reforma.com/llama-profeco-a-revision-6-mil-vehiculos-mg3/ar3233554",
-      "fecha": "02 Jul 2026, 14:50 hrs"
+      "titulo": "Siguen en AICM con restricciones",
+      "resumen": "Pese a incrementar las operaciones en el AICM y transparentar la asignación de slots, no hay señales de que EU levante sus restricciones.",
+      "link": "https://www.reforma.com/siguen-en-aicm-con-restricciones/ar3233777",
+      "fecha": "03 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra crudo en leve alza previo a feriado",
-      "resumen": "Los precios subieron levemente, ya que los compradores trataban de garantizar el suministro antes del fin de semana largo por el 4 de julio.",
-      "link": "https://www.reforma.com/cierra-crudo-en-leve-alza-previo-a-feriado/ar3233545",
-      "fecha": "02 Jul 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén superar venta de 100 mil autos 'verdes'",
-      "resumen": "En México se podrían vender hasta 100 vehículos híbridos y eléctricos, durante este año, según la EMA.",
-      "link": "https://www.reforma.com/preven-superar-venta-de-100-mil-autos-verdes/ar3233537",
-      "fecha": "02 Jul 2026, 14:11 hrs"
+      "titulo": "Aumentan conductoras y repartidoras",
+      "resumen": "La participación de mujeres dentro de aplicaciones de movilidad sigue en aumento, principalmente en DiDi, donde ya son 200 mil.",
+      "link": "https://www.reforma.com/aumentan-conductoras-y-repartidoras/ar3233787",
+      "fecha": "03 Jul 2026, 05:01 hrs"
     }
   ]
 }
