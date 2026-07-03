@@ -1,7 +1,16 @@
 {
-  "actualizado": "02/07/2026 15:52 hrs",
+  "actualizado": "03/07/2026 03:45 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
+      "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/02/efecto-y-si-si-provocara-mayor-consumo-en-los-hogares",
+      "fecha": "02 Jul 2026, 18:10 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México recibe 5,611 mdd en remesas en mayo y registra el mayor monto en siete meses",
-      "resumen": "Las remesas que llegan a México desde el extranjero tuvieron un crecimiento anual de 3.8% mientras que en el acumulado del año se han recibido 25,287.5 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/07/01/mexico-recibe-5-611-mdd-en-remesas-en-mayo-y-registra-el-mayor-monto-en-siete-meses",
-      "fecha": "01 Jul 2026, 09:44 hrs"
+      "titulo": "StubHub, la plataforma en el centro de la polémica por los boletos del Mundial 2026",
+      "resumen": "Miles de personas utilizan StubHub para comprar boletos de conciertos y eventos deportivos, pero su participación en el Mundial 2026 reavivó las dudas sobre cómo verifica las entradas y quién controla…",
+      "link": "https://expansion.mx/empresas/2026/07/02/stubhub-polemica-reventa-boletos-mundial-2026",
+      "fecha": "02 Jul 2026, 19:22 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
-      "resumen": "El mayor consumo de datos y la competencia de los operadores móviles virtuales reducen los márgenes de Telcel y AT&amp;T para financiar la modernización de su infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
-      "fecha": "02 Jul 2026, 05:55 hrs"
+      "titulo": "México registra un semestre histórico en venta de autos, impulsado por fabricantes asiáticos",
+      "resumen": "De mantenerse el ritmo de crecimiento, 2026 podría convertirse en el nuevo año récord. Actualmente, la mejor marca histórica de ventas corresponde a 2016, cuando se comercializaron 1,603,672 vehículos…",
+      "link": "https://expansion.mx/empresas/2026/07/02/ventas-autos-nuevos-rompe-record-historico-2026",
+      "fecha": "02 Jul 2026, 18:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El inesperado avance de la selección mexicana en el Mundial desata una ola de consumo que podría llegar a los 65,000 mdp",
+      "resumen": "Entre hieleras, botanas y reuniones familiares, el “¿y si sí?” se ha convertido en un motor económico: las ventas en pequeños comercios han crecido hasta 30% y el Mundial perfila una derrama de 65,000…",
+      "link": "https://expansion.mx/empresas/2026/07/02/triunfos-seleccion-mexicana-empujan-ventas-comercios-barrio",
+      "fecha": "02 Jul 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Peñoles pagará a CRT 659,489 pesos para usar espectro en minas de Guerrero",
+      "resumen": "Con la autorización, Peñoles operará una nueva red de radiocomunicación para reforzar la seguridad de sus trabajadores en minas subterráneas, donde la comunicación es clave ante riesgos como derrumbes…",
+      "link": "https://expansion.mx/empresas/2026/07/02/penoles-pagara-crt-radios-emergencia-minas-de-guerrero",
+      "fecha": "02 Jul 2026, 16:59 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,40 +147,40 @@
       "fecha": "01 Jul 2026, 14:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La salud desplaza educación y vestido en el presupuesto de los hogares mexicanos",
-      "resumen": "Las familias mexicanas destinan una proporción cada vez mayor de sus ingresos a salud, mientras el comercio electrónico acelera la venta de medicamentos y productos de bienestar.",
-      "link": "https://expansion.mx/empresas/2026/07/01/gasto-mexicanos-salud-aumento-mas-100-en-menos-10-anos",
-      "fecha": "01 Jul 2026, 11:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Registro telefónico arriesga la desconexión de 16 millones de líneas y la pérdida de 1,900 mdp mensuales",
-      "resumen": "El regulador ganó tiempo para implementar el registro, pero no resolvió su diseño, por lo que Banamex y especialistas prevén suspensiones masivas, pérdidas económicas e impacto en usuarios de menores …",
-      "link": "https://expansion.mx/empresas/2026/07/01/registro-telefonico-riesgos-desconexion-perdidas",
-      "fecha": "01 Jul 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
-      "resumen": "La refinería de Minatitlán tuvo una caída del 52% en su procesamiento de petróleo entre abril y mayo.",
-      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
-      "fecha": "30 Jun 2026, 16:53 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja ocupación hotelera entre juegos de la Selección en CDMX",
+      "resumen": "Entre la inauguración del Mundial en CDMX y el tercer partido del Tri, la ocupación hotelera en la Capital bajó de 61.56 a 58.99 por ciento.",
+      "link": "https://www.reforma.com/baja-ocupacion-hotelera-entre-juegos-de-la-seleccion-en-cdmx/ar3233757",
+      "fecha": "02 Jul 2026, 19:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan combatir delitos financieros con verificación facial",
-      "resumen": "Al verificar la identidad de los usuarios con biometría facial en entidades financieras se busca prevenir delitos financieros, dijo Banamex.",
-      "link": "https://www.reforma.com/buscan-combatir-delitos-financieros-con-verificacion-facial/ar3233479",
-      "fecha": "02 Jul 2026, 13:13 hrs"
+      "titulo": "Compró Trump acciones de Big Tech antes de quitar aranceles",
+      "resumen": "Presidente Donald Trump compró acciones de Apple, Nvidia y otras tecnológicas antes de que reversión de aranceles impulsara la recuperación.",
+      "link": "https://www.reforma.com/compro-trump-acciones-de-big-tech-antes-de-quitar-aranceles/ar3233680",
+      "fecha": "02 Jul 2026, 17:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acusan agricultores de EU impacto a reputación",
+      "resumen": "Productores agrícolas de EU señalaron que incertidumbre de T-MEC representará más presiones para un sector que enfrenta crisis económica.",
+      "link": "https://www.reforma.com/acusan-agricultores-de-eu-impacto-a-reputacion/ar3233620",
+      "fecha": "02 Jul 2026, 17:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ejecuta SHCP 'fuerte' subejercicio de 417 mmdp",
+      "resumen": "SHCP ejecutó un subejericicio de 417 mil millones de peso respeto a lo programado en el periodo enero-mayo de 2026, advierte Banamex.",
+      "link": "https://www.reforma.com/ejecuta-shcp-fuerte-subejercicio-de-417-mmdp/ar3233610",
+      "fecha": "02 Jul 2026, 17:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén superar venta  de 100 mil autos 'verdes'",
-      "resumen": "En México se podrían vender hasta 100 vehículos híbridos y eléctricos, durante este año, según la EMA.",
-      "link": "https://www.reforma.com/preven-superar-venta-de-100-mil-autos-verdes/ar3233537",
-      "fecha": "02 Jul 2026, 14:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Llama Profeco a revisión  a 6 mil vehículos MG3",
-      "resumen": "Profeco hizo un llamado a revisión de 6 mil automóviles modelos MG3 de los años 2024, 2025 y 2026 por fallas en el asiento del conductor.",
-      "link": "https://www.reforma.com/llama-profeco-a-revision-a-6-mil-vehiculos-mg3/ar3233554",
+      "titulo": "Llama Profeco a revisión 6 mil vehículos MG3",
+      "resumen": "Profeco hizo un llamado a revisión de 6 mil automóviles modelos MG3 de los años 2024,2025 y 2026 por fallas en el asiento del conductor.",
+      "link": "https://www.reforma.com/llama-profeco-a-revision-6-mil-vehiculos-mg3/ar3233554",
       "fecha": "02 Jul 2026, 14:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Ford en T-MEC  competencia más equitativa",
-      "resumen": "CEO de Ford Motor, Jim Farley, tiene claro lo que la compañía busca en las nuevas conversaciones del T-MEC: una competencia más equitativa.",
-      "link": "https://www.reforma.com/busca-ford-en-t-mec-competencia-mas-equitativa/ar3233373",
-      "fecha": "02 Jul 2026, 10:31 hrs"
+      "titulo": "Cierra crudo en leve alza previo a feriado",
+      "resumen": "Los precios subieron levemente, ya que los compradores trataban de garantizar el suministro antes del fin de semana largo por el 4 de julio.",
+      "link": "https://www.reforma.com/cierra-crudo-en-leve-alza-previo-a-feriado/ar3233545",
+      "fecha": "02 Jul 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suma Dow Jones 445 puntos y marca nuevo récord",
-      "resumen": "El índice de 30 valores ganó 445 puntos, o un 0.9%, y alcanzó un nuevo máximo histórico de 52 mil 880.65 puntos.",
-      "link": "https://www.reforma.com/suma-dow-jones-445-puntos-y-marca-nuevo-record/ar3233535",
+      "titulo": "Prevén superar venta de 100 mil autos 'verdes'",
+      "resumen": "En México se podrían vender hasta 100 vehículos híbridos y eléctricos, durante este año, según la EMA.",
+      "link": "https://www.reforma.com/preven-superar-venta-de-100-mil-autos-verdes/ar3233537",
       "fecha": "02 Jul 2026, 14:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Logran máximo histórico  ventas de vehículos ligeros",
-      "resumen": "De enero a junio pasado, se vendieron en el mercado interno 754 mil 394 autos, un volumen nunca antes visto en lapso comparable.",
-      "link": "https://www.reforma.com/logran-maximo-historico-ventas-de-vehiculos-ligeros/ar3233327",
-      "fecha": "02 Jul 2026, 09:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de Tesla 7% pese a mejores ventas",
-      "resumen": "Las acciones de Tesla caían 7.34% pese a que reportó cifras de entrega de unidades que superaron las expectativas de Wall Street.",
-      "link": "https://www.reforma.com/caen-acciones-de-tesla-7-pese-a-mejores-ventas/ar3233471",
-      "fecha": "02 Jul 2026, 12:44 hrs"
     }
   ]
 }
