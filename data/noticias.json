@@ -1,78 +1,78 @@
 {
-  "actualizado": "04/07/2026 01:30 hrs",
+  "actualizado": "04/07/2026 05:58 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "Hacienda mantiene sin subsidio a la gasolina Premium; sube apoyo para Magna y diésel",
+      "resumen": "Además del estímulo general anunciado a la gasolina Magna y el diésel para la semana del 4 al 10 de julio, Hacienda no otorgará ningún apoyo adicional o complementario.",
+      "link": "https://expansion.mx/economia/2026/07/03/hacienda-mantiene-sin-subsidio-a-la-gasolina-premium-sube-apoyo-para-magna-y-diesel",
+      "fecha": "03 Jul 2026, 19:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bancos evitarán fraudes con nueva regulación biométrica",
+      "resumen": "Entre enero y mayo de este año, se han registrado 34,325 quejas por fraudes a usuarios de la banca en México, por lo que la nueva regulación busca reducir este delito.",
+      "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
+      "fecha": "03 Jul 2026, 18:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
+      "resumen": "El sector financiero prevé un repunte en dicho sector rumbo al cierre de 2026, revirtiendo la tendencia negativa de inicio de año.",
+      "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
+      "fecha": "03 Jul 2026, 15:37 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La historia de Bital: el banco mexicano que terminó en manos de un gigante inglés en el nuevo milenio",
+      "resumen": "Hace más de 20 años, un banco mexicano evolucionó y se convirtió en HSBC",
+      "link": "https://expansion.mx/economia/2026/07/03/bital-banco-mexicano-se-convirtio-en-hsbc",
+      "fecha": "03 Jul 2026, 13:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los precios de los alimentos en el mundo bajan, aunque el fenómeno El Niño amenaza",
+      "resumen": "El índice de precios internacionales de los alimentos de la FAO, que sigue la evolución de una cesta de productos, bajó en junio un 0.3% en un mes.",
+      "link": "https://expansion.mx/economia/2026/07/03/los-precios-de-los-alimentos-en-el-mundo-bajan-aunque-el-fenomeno-el-nino-amenaza",
+      "fecha": "03 Jul 2026, 11:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Confianza del consumidor toma aire en junio, pero sigue debajo del nivel previo al Mundial",
+      "resumen": "La confianza del consumidor mexicano subió 0.4 puntos en junio. El avance coincidió con el arranque del Mundial, aunque el ánimo sigue por debajo del nivel de hace un año.",
+      "link": "https://expansion.mx/economia/2026/07/03/confianza-del-consumidor-sube-junio-2026",
+      "fecha": "03 Jul 2026, 11:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
       "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/02/efecto-y-si-si-provocara-mayor-consumo-en-los-hogares",
-      "fecha": "02 Jul 2026, 18:10 hrs"
+      "link": "https://expansion.mx/economia/2026/07/03/efecto-y-si-si-llega-bolsillo-avance-mexico-mundial-gasto",
+      "fecha": "03 Jul 2026, 08:54 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Revisión anual del T-MEC mantendrá a México con un crecimiento menor a 2%",
-      "resumen": "La incertidumbre sobre las reglas comerciales elevará el riesgo para invertir y limitará el potencial económico del país durante la próxima década.",
-      "link": "https://expansion.mx/economia/2026/07/02/revision-anual-tmec-frena-potencial-crecimiento-mexico",
-      "fecha": "02 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Advierten vulnerabilidades en intermediarios financieros no bancarios",
-      "resumen": "El Consejo de Estabilidad del Sistema Financiero advirtió que hay señales de vulnerabilidad en el sistema por la baja rentabilidad y la menor liquidez en instituciones financieras no bancarias.",
-      "link": "https://expansion.mx/economia/2026/07/01/advierten-vulnerabilidades-en-intermediarios-financieros-no-bancarios",
-      "fecha": "01 Jul 2026, 17:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ebrard descarta diferencias de fondo que impidan extender el T-MEC en cualquier momento",
-      "resumen": "México quiere eliminar aranceles entre socios y usar el tratado para fortalecer la producción de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/07/01/ebrard-ve-posible-extender-el-tmec",
-      "fecha": "01 Jul 2026, 15:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda dejará de recaudar 3.4 billones de pesos en 2026 y 2027 por estímulos y exenciones fiscales",
-      "resumen": "Los beneficios fiscales con mayor impacto son la tasa cero de IVA en alimentos y medicinas, los estímulos fiscales en la región fronteriza, además de exenciones de ISR de personas físicas.",
-      "link": "https://expansion.mx/economia/2026/07/01/hacienda-dejara-de-recaudar-3-4-billones-de-pesos-en-2026-y-2027-por-estimulos-y-exenciones-fiscales",
-      "fecha": "01 Jul 2026, 15:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México deja de gastar más de 418,000 millones de pesos, pero el déficit fiscal se dispara 42%",
-      "resumen": "La diferencia entre ingresos y gasto público, que es compensada con deuda, superó el medio billón de pesos, al cierre de mayo pasado.",
-      "link": "https://expansion.mx/economia/2026/07/01/mexico-recorta-418000-mdp-gasto-deficit-fiscal-dispara",
-      "fecha": "01 Jul 2026, 13:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos no extenderá el T-MEC y pone en suspenso a México y Canadá",
-      "resumen": "Washington continuará negociando con ambos países para corregir lo que considera deficiencias del tratado, así como los déficits comerciales que mantiene con cada uno, señala la USTR.",
-      "link": "https://expansion.mx/economia/2026/07/01/estados-unidos-no-prorrogara-t-mec-suspenso-mexico-y-canada",
-      "fecha": "01 Jul 2026, 10:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Presidente de la Fed se compromete a combatir inflación superior al objetivo en EU",
-      "resumen": "\"Vamos a garantizar la estabilidad de precios en Estados Unidos\", dijo Warsh en un foro del Banco Central Europeo (BCE) en Portugal.",
-      "link": "https://expansion.mx/economia/2026/07/01/presidente-de-la-fed-se-compromete-a-combatir-inflacion-superior-al-objetivo-en-eu",
-      "fecha": "01 Jul 2026, 09:56 hrs"
+      "titulo": "Del chip al data center: México exporta el boom de la IA, pero el mayor valor de la cadena sigue fuera",
+      "resumen": "Las exportaciones de equipo de cómputo crecieron 144.8% y alcanzaron 85,416 mdd en 2025, pero la industria todavía depende de componentes asiáticos y captura una fracción limitada del valor agregado.",
+      "link": "https://expansion.mx/economia/2026/07/03/mexico-exportaciones-equipo-computo-ia-chips-data-centers",
+      "fecha": "03 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Cae 2.3% en NL la construcción",
+      "resumen": "El valor de las obras construidas en Nuevo León alcanzó los 24 mil 787 millones de pesos a abril de 2026; sufriendo una caída anual de 2.3%.",
+      "link": "https://www.reforma.com/cae-2-3-en-nl-la-construccion/ar3234289",
+      "fecha": "04 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Derrite calor hasta al PIB",
+      "resumen": "En todo el mundo, la productividad y PIB se desploman cuando hace calor e incluso podría generar perdidas por 638 mil millones de dólares.",
+      "link": "https://www.reforma.com/derrite-calor-hasta-al-pib/ar3234279",
+      "fecha": "04 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Brindan México e Inglaterra en comercio",
       "resumen": "En el primer cuatrimestre de 2026, el comercio agroalimentario entre México y el Reino Unido alcanzó los 143.9 milones de dólares.",
       "link": "https://www.reforma.com/brindan-mexico-e-inglaterra-en-comercio/ar3234257",
@@ -199,24 +217,6 @@
       "resumen": "PJM, el mayor operador de la red eléctrica en EU, se encuentra bajo alerta federal para reducir el consumo eléctrico en todo su territorio.",
       "link": "https://www.reforma.com/alistan-en-eu-medidas-de-emergencia-para-evitar-apagones/ar3234099",
       "fecha": "03 Jul 2026, 13:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Toma revisión del T-MEC a País con problemas de crecimiento",
-      "resumen": "Las revisiones anuales del T-MEC toman a México con serios problemas de crecimiento económico, destacaron analistas.",
-      "link": "https://www.reforma.com/toma-revision-del-t-mec-a-pais-con-problemas-de-crecimiento/ar3234089",
-      "fecha": "03 Jul 2026, 13:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven una creciente divergencia entre Fed y BCE tras la guerra",
-      "resumen": "Señalan que Fed aún tendrá que subir la tasa este año pese a debilitamiento del mercado laboral, mientras el BCE no tiene prisa por hacerlo.",
-      "link": "https://www.reforma.com/ven-una-creciente-divergencia-entre-fed-y-bce-tras-la-guerra/ar3234046",
-      "fecha": "03 Jul 2026, 11:47 hrs"
     }
   ]
 }
