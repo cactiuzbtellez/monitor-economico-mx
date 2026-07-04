@@ -1,7 +1,43 @@
 {
-  "actualizado": "04/07/2026 09:46 hrs",
+  "actualizado": "04/07/2026 14:14 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
+      "resumen": "La Secretaría de Hacienda aprobó en el Diario Oficial de la Federación el fortalecimiento del capital social del banco y pasó de 18,538 millones de pesos a 22,783 millones.",
+      "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
+      "fecha": "04 Jul 2026, 12:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda mantiene sin subsidio a la gasolina Premium; sube apoyo para Magna y diésel",
+      "resumen": "Además del estímulo general anunciado a la gasolina Magna y el diésel para la semana del 4 al 10 de julio, Hacienda no otorgará ningún apoyo adicional o complementario.",
+      "link": "https://expansion.mx/economia/2026/07/03/hacienda-mantiene-sin-subsidio-a-la-gasolina-premium-sube-apoyo-para-magna-y-diesel",
+      "fecha": "03 Jul 2026, 19:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bancos evitarán fraudes con nueva regulación biométrica",
+      "resumen": "Entre enero y mayo de este año, se han registrado 34,325 quejas por fraudes a usuarios de la banca en México, por lo que la nueva regulación busca reducir este delito.",
+      "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
+      "fecha": "03 Jul 2026, 18:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
+      "resumen": "El sector financiero prevé un repunte en dicho sector rumbo al cierre de 2026, revirtiendo la tendencia negativa de inicio de año.",
+      "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
+      "fecha": "03 Jul 2026, 15:37 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Del chip al data center: México exporta el boom de la IA, pero el mayor valor de la cadena sigue fuera",
-      "resumen": "Las exportaciones de equipo de cómputo crecieron 144.8% y alcanzaron 85,416 mdd en 2025, pero la industria todavía depende de componentes asiáticos y captura una fracción limitada del valor agregado.",
-      "link": "https://expansion.mx/economia/2026/07/03/mexico-exportaciones-equipo-computo-ia-chips-data-centers",
-      "fecha": "03 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Revisión anual del T-MEC mantendrá a México con un crecimiento menor a 2%",
-      "resumen": "La incertidumbre sobre las reglas comerciales elevará el riesgo para invertir y limitará el potencial económico del país durante la próxima década.",
-      "link": "https://expansion.mx/economia/2026/07/02/revision-anual-tmec-frena-potencial-crecimiento-mexico",
-      "fecha": "02 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Advierten vulnerabilidades en intermediarios financieros no bancarios",
-      "resumen": "El Consejo de Estabilidad del Sistema Financiero advirtió que hay señales de vulnerabilidad en el sistema por la baja rentabilidad y la menor liquidez en instituciones financieras no bancarias.",
-      "link": "https://expansion.mx/economia/2026/07/01/advierten-vulnerabilidades-en-intermediarios-financieros-no-bancarios",
-      "fecha": "01 Jul 2026, 17:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ebrard descarta diferencias de fondo que impidan extender el T-MEC en cualquier momento",
-      "resumen": "México quiere eliminar aranceles entre socios y usar el tratado para fortalecer la producción de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/07/01/ebrard-ve-posible-extender-el-tmec",
-      "fecha": "01 Jul 2026, 15:16 hrs"
+      "titulo": "¿Quién es el dueño del Madison Square Garden? El empresario detrás del recinto donde se casa Taylor Swift",
+      "resumen": "Desde el primer espectáculo en 1968 hasta convertirse en uno de los recintos más codiciados del mundo, el Madison Square Garden forma parte de un conglomerado multimillonario.",
+      "link": "https://expansion.mx/empresas/2026/07/04/el-dueno-del-madison-square-garden-boda-taylor-swift",
+      "fecha": "04 Jul 2026, 09:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "En la última década, la aerolínea regiomontana perdió cuatro quintas partes de su volumen de pasajeros, con lo que lucía complicado que regresara a volar.",
       "link": "https://expansion.mx/empresas/2026/07/03/magnicharters-no-volvera-volar-afac-retira-certificado",
       "fecha": "03 Jul 2026, 11:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La revisión anual del T-MEC prolongará la sequía de inversiones automotrices en México",
-      "resumen": "El país acumula casi una década sin anuncios de nuevas plantas de vehículos ligeros y la incertidumbre sobre el T-MEC y posibles revisiones anuales frena proyectos de inversión de largo plazo.",
-      "link": "https://expansion.mx/empresas/2026/07/03/la-revision-anual-del-t-mec-inversiones-automotrices-mexico",
-      "fecha": "03 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
