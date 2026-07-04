@@ -1,34 +1,7 @@
 {
-  "actualizado": "04/07/2026 05:58 hrs",
+  "actualizado": "04/07/2026 09:46 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda mantiene sin subsidio a la gasolina Premium; sube apoyo para Magna y diésel",
-      "resumen": "Además del estímulo general anunciado a la gasolina Magna y el diésel para la semana del 4 al 10 de julio, Hacienda no otorgará ningún apoyo adicional o complementario.",
-      "link": "https://expansion.mx/economia/2026/07/03/hacienda-mantiene-sin-subsidio-a-la-gasolina-premium-sube-apoyo-para-magna-y-diesel",
-      "fecha": "03 Jul 2026, 19:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Bancos evitarán fraudes con nueva regulación biométrica",
-      "resumen": "Entre enero y mayo de este año, se han registrado 34,325 quejas por fraudes a usuarios de la banca en México, por lo que la nueva regulación busca reducir este delito.",
-      "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
-      "fecha": "03 Jul 2026, 18:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
-      "resumen": "El sector financiero prevé un repunte en dicho sector rumbo al cierre de 2026, revirtiendo la tendencia negativa de inicio de año.",
-      "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
-      "fecha": "03 Jul 2026, 15:37 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,33 @@
       "resumen": "Las exportaciones de equipo de cómputo crecieron 144.8% y alcanzaron 85,416 mdd en 2025, pero la industria todavía depende de componentes asiáticos y captura una fracción limitada del valor agregado.",
       "link": "https://expansion.mx/economia/2026/07/03/mexico-exportaciones-equipo-computo-ia-chips-data-centers",
       "fecha": "03 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Revisión anual del T-MEC mantendrá a México con un crecimiento menor a 2%",
+      "resumen": "La incertidumbre sobre las reglas comerciales elevará el riesgo para invertir y limitará el potencial económico del país durante la próxima década.",
+      "link": "https://expansion.mx/economia/2026/07/02/revision-anual-tmec-frena-potencial-crecimiento-mexico",
+      "fecha": "02 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Advierten vulnerabilidades en intermediarios financieros no bancarios",
+      "resumen": "El Consejo de Estabilidad del Sistema Financiero advirtió que hay señales de vulnerabilidad en el sistema por la baja rentabilidad y la menor liquidez en instituciones financieras no bancarias.",
+      "link": "https://expansion.mx/economia/2026/07/01/advierten-vulnerabilidades-en-intermediarios-financieros-no-bancarios",
+      "fecha": "01 Jul 2026, 17:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ebrard descarta diferencias de fondo que impidan extender el T-MEC en cualquier momento",
+      "resumen": "México quiere eliminar aranceles entre socios y usar el tratado para fortalecer la producción de Norteamérica.",
+      "link": "https://expansion.mx/economia/2026/07/01/ebrard-ve-posible-extender-el-tmec",
+      "fecha": "01 Jul 2026, 15:16 hrs"
     },
     {
       "fuente": "Expansión",
