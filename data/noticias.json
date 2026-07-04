@@ -1,7 +1,16 @@
 {
-  "actualizado": "03/07/2026 14:42 hrs",
+  "actualizado": "04/07/2026 01:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
+      "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/02/efecto-y-si-si-provocara-mayor-consumo-en-los-hogares",
+      "fecha": "02 Jul 2026, 18:10 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,138 +76,111 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México recibe 5,611 mdd en remesas en mayo y registra el mayor monto en siete meses",
-      "resumen": "Las remesas que llegan a México desde el extranjero tuvieron un crecimiento anual de 3.8% mientras que en el acumulado del año se han recibido 25,287.5 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/07/01/mexico-recibe-5-611-mdd-en-remesas-en-mayo-y-registra-el-mayor-monto-en-siete-meses",
-      "fecha": "01 Jul 2026, 09:44 hrs"
+      "titulo": "Thermomix duplicará su número de consultoras para vender 50,000 equipos al año en México",
+      "resumen": "La expansión forma parte de un proyecto denominado Greenfields, con el que la compañía busca acelerar su penetración en mercados clave como la Ciudad de México, Monterrey, Guadalajara y Querétaro.",
+      "link": "https://expansion.mx/empresas/2026/07/03/thermomix-duplicara-su-numero-de-consultoras-para-vender-50-000-equipos-al-ano-en-mexico",
+      "fecha": "03 Jul 2026, 17:10 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El gasto en telefonía móvil cae 3% y presiona la inversión en nuevas redes",
-      "resumen": "El mayor consumo de datos y la competencia de los operadores móviles virtuales reducen los márgenes de Telcel y AT&amp;T para financiar la modernización de su infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/02/el-gasto-en-telefonia-movil-cae-3-y-presiona-la-inversion-en-nuevas-redes",
-      "fecha": "02 Jul 2026, 05:55 hrs"
+      "titulo": "¿Tu auto es MG? Profeco comparte llamado a revisión para más de 6,000 vehículos",
+      "resumen": "Se detectaron posibles afectaciones en unidades modelo 2024, 2025 y 2026 de dicho fabricante.",
+      "link": "https://expansion.mx/empresas/2026/07/03/profeco-emite-llamado-revision-para-6-000-autos-mg",
+      "fecha": "03 Jul 2026, 16:27 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Centro y Bajío concentran el mayor riesgo de robo de combustibles en carreteras",
-      "resumen": "Aunque la tecnología y la regulación han fortalecido los mecanismos de control, la inseguridad representa un desafío permanente para garantizar el abasto de combustibles en el mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/01/cada-pipa-combustible-mexico-puede-terminar-robo-zonas",
-      "fecha": "01 Jul 2026, 18:10 hrs"
+      "titulo": "¿Quién es el dueño de Reforma 222, la plaza comercial más cercana al Ángel de la Independencia?",
+      "resumen": "El complejo que marcó la transformación de Paseo de la Reforma pertenece a una de las fibras inmobiliarias más grandes del país. Esta es la historia del proyecto y de la familia que lo controla.",
+      "link": "https://expansion.mx/empresas/2026/07/03/quien-es-dueno-reforma-222-plaza-angel-independencia",
+      "fecha": "03 Jul 2026, 15:22 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Automotrices llaman a salvar el T-MEC ante nueva incertidumbre comercial",
-      "resumen": "La industria automotriz, principal ejemplo de la integración económica regional, alertó que la falta de claridad sobre el futuro del T-MEC puede afectar las decisiones de inversión en Norteamérica.",
-      "link": "https://expansion.mx/empresas/2026/07/01/industria-automotriz-mexicana-lamenta-decision-t-mec-trump",
-      "fecha": "01 Jul 2026, 14:46 hrs"
+      "titulo": "La CFE lanza Oasis, su primer proyecto de generación con hidrógeno verde para enfrentar los apagones",
+      "resumen": "La empresa estatal apuesta por el hidrógeno verde como una solución para fortalecer la seguridad energética de Baja California Sur y abre la puerta a replicar este modelo de generación en otras region…",
+      "link": "https://expansion.mx/empresas/2026/07/03/cfe-oasis-primer-proyecto-hidrogeno-verde",
+      "fecha": "03 Jul 2026, 13:59 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La CRT mantiene la “selfie” en el registro telefónico pese a anunciar su eliminación",
-      "resumen": "La autoridad otorgó una prórroga de 184 días hábiles, pero también modificó los lineamientos para conservar la denominada “prueba de vida”, uno de los requisitos más cuestionados por usuarios y operad…",
-      "link": "https://expansion.mx/empresas/2026/07/01/crt-obliga-tomar-datos-biometricos-registro-de-celulares",
-      "fecha": "01 Jul 2026, 14:33 hrs"
+      "titulo": "¿Por qué Whirlpool cerrará una planta en México? La reestructuración detrás de la decisión",
+      "resumen": "Cambios dentro de la estructura productiva de la compañía reconfigurarán parte de sus operaciones manufactureras en territorio mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/03/whirpool-cerrara-apocada-que-pasara-planta",
+      "fecha": "03 Jul 2026, 12:00 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Marathon? Los mexicanos detrás de la camiseta que viste Ecuador",
-      "resumen": "Marathon Sports acompañó a Ecuador en la Copa del Mundo, pero desde el año pasado pertenece a Innovasport, una empresa mexicana que busca expandir su presencia.",
-      "link": "https://expansion.mx/empresas/2026/07/01/quien-es-dueno-marathon-sports-uniforme-ecuador",
-      "fecha": "01 Jul 2026, 14:06 hrs"
+      "titulo": "De HSBC a la dueña de Johnnie Walker: las 10 empresas inglesas que mueven millones en México",
+      "resumen": "La inversión británica en México va mucho más allá de la banca. Estas compañías participan en industrias estratégicas y, juntas, generan más de 221,000 millones de pesos en ingresos y cerca de 31,000 …",
+      "link": "https://expansion.mx/empresas/2026/07/03/10-empresas-inglesas-mexico-generan-millones-pesos",
+      "fecha": "03 Jul 2026, 11:20 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La salud desplaza educación y vestido en el presupuesto de los hogares mexicanos",
-      "resumen": "Las familias mexicanas destinan una proporción cada vez mayor de sus ingresos a salud, mientras el comercio electrónico acelera la venta de medicamentos y productos de bienestar.",
-      "link": "https://expansion.mx/empresas/2026/07/01/gasto-mexicanos-salud-aumento-mas-100-en-menos-10-anos",
-      "fecha": "01 Jul 2026, 11:00 hrs"
+      "titulo": "Magnicharters pierde certificado aéreo para operar en el país",
+      "resumen": "En la última década, la aerolínea regiomontana perdió cuatro quintas partes de su volumen de pasajeros, con lo que lucía complicado que regresara a volar.",
+      "link": "https://expansion.mx/empresas/2026/07/03/magnicharters-no-volvera-volar-afac-retira-certificado",
+      "fecha": "03 Jul 2026, 11:20 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Registro telefónico arriesga la desconexión de 16 millones de líneas y la pérdida de 1,900 mdp mensuales",
-      "resumen": "El regulador ganó tiempo para implementar el registro, pero no resolvió su diseño, por lo que Banamex y especialistas prevén suspensiones masivas, pérdidas económicas e impacto en usuarios de menores …",
-      "link": "https://expansion.mx/empresas/2026/07/01/registro-telefonico-riesgos-desconexion-perdidas",
-      "fecha": "01 Jul 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex desploma 11.8% su proceso de crudo y producción de combustibles",
-      "resumen": "La refinería de Minatitlán tuvo una caída del 52% en su procesamiento de petróleo entre abril y mayo.",
-      "link": "https://expansion.mx/empresas/2026/06/30/pemex-desploma-proceso-de-crudo-y-produccion-de-combustibles",
-      "fecha": "30 Jun 2026, 16:53 hrs"
+      "titulo": "La revisión anual del T-MEC prolongará la sequía de inversiones automotrices en México",
+      "resumen": "El país acumula casi una década sin anuncios de nuevas plantas de vehículos ligeros y la incertidumbre sobre el T-MEC y posibles revisiones anuales frena proyectos de inversión de largo plazo.",
+      "link": "https://expansion.mx/empresas/2026/07/03/la-revision-anual-del-t-mec-inversiones-automotrices-mexico",
+      "fecha": "03 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toma revisión  del T-MEC a País con problemas de crecimiento",
-      "resumen": "Las revisiones anuales del T-MEC toman a México con serios problemas de crecimiento económico, destacaron analistas.",
-      "link": "https://www.reforma.com/toma-revision-del-t-mec-a-pais-con-problemas-de-crecimiento/ar3234089",
-      "fecha": "03 Jul 2026, 13:47 hrs"
+      "titulo": "Brindan México e Inglaterra en comercio",
+      "resumen": "En el primer cuatrimestre de 2026, el comercio agroalimentario entre México y el Reino Unido alcanzó los 143.9 milones de dólares.",
+      "link": "https://www.reforma.com/brindan-mexico-e-inglaterra-en-comercio/ar3234257",
+      "fecha": "03 Jul 2026, 18:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Debe Trínitas  $2,437 millones y tiene en caja $10 mil",
-      "resumen": "Afectados por fraude de Trínitas descubren que la financiera, que adeuda $2 mil 437 millones, sólo tiene $9 mil 901.57 en cuentas bancarias.",
-      "link": "https://www.reforma.com/debe-trinitas-2-437-millones-y-tiene-en-caja-10-mil/ar3233876",
-      "fecha": "03 Jul 2026, 07:04 hrs"
+      "titulo": "Encadena BMV tercera semana a la baja",
+      "resumen": "BMV cerró el viernes con un retroceso de 10.61% y en el nivel de 57 mil unidades, lo que representó su tercera semana a la baja.",
+      "link": "https://www.reforma.com/encadena-bmv-tercera-semana-a-la-baja/ar3234230",
+      "fecha": "03 Jul 2026, 18:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cerrará Whirlpool planta  en Apodaca en 2027",
-      "resumen": "Whirlpool anunció su intención de cerrar en el segundo trimestre de 2027 sus operaciones en Apodaca y trasladarlas a Ramos Arizpe.",
-      "link": "https://www.reforma.com/cerrara-whirlpool-planta-en-apodaca-en-2027/ar3233946",
-      "fecha": "03 Jul 2026, 08:12 hrs"
+      "titulo": "Se aprecia peso en semana, cierra dólar en $17.47",
+      "resumen": "El dólar cerró la semana con una preciación de $17.47; lo que representó una caída semanal acumulada de 3.44 centavos.",
+      "link": "https://www.reforma.com/se-aprecia-peso-en-semana-cierra-dolar-en-17-47/ar3234223",
+      "fecha": "03 Jul 2026, 18:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ingresaría FIFA 11 mmdd  ¡y dice que saldrá tablas!",
-      "resumen": "La Copa Mundial 2026 es el colofón del evento global con más ingresos de la historia, pero aun así la FIFA dice que no tendrá utilidades.",
-      "link": "https://www.reforma.com/ingresaria-fifa-11-mmdd-y-dice-que-saldra-tablas/ar3233843",
-      "fecha": "03 Jul 2026, 07:04 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Disminuye 1.8 puntos en junio la confianza del consumidor",
-      "resumen": "El Indicador de Confianza del Consumidor presentó su revés anual número 18, al ceder 1.8 puntos, a 43.8, durante junio pasado.",
-      "link": "https://www.reforma.com/disminuye-1-8-puntos-en-junio-la-confianza-del-consumidor/ar3234000",
-      "fecha": "03 Jul 2026, 10:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece economía pero más lento",
-      "resumen": "Factores como la actividad económica, inflación y política monetaria sugieren una economía positiva aunque con crecimiento moderado.",
-      "link": "https://www.reforma.com/crece-economia-pero-mas-lento/ar3233818",
-      "fecha": "03 Jul 2026, 05:01 hrs"
+      "titulo": "Falla equipo meteorológico del AICM, retrasa vuelo",
+      "resumen": "Una falla técnica en los sistemas de información meteorológica del AICM ha generado afectaciones y retrasos en las operaciones aéreas.",
+      "link": "https://www.reforma.com/falla-equipo-meteorologico-del-aicm-retrasa-vuelo/ar3234173",
+      "fecha": "03 Jul 2026, 15:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -217,6 +199,24 @@
       "resumen": "PJM, el mayor operador de la red eléctrica en EU, se encuentra bajo alerta federal para reducir el consumo eléctrico en todo su territorio.",
       "link": "https://www.reforma.com/alistan-en-eu-medidas-de-emergencia-para-evitar-apagones/ar3234099",
       "fecha": "03 Jul 2026, 13:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Toma revisión del T-MEC a País con problemas de crecimiento",
+      "resumen": "Las revisiones anuales del T-MEC toman a México con serios problemas de crecimiento económico, destacaron analistas.",
+      "link": "https://www.reforma.com/toma-revision-del-t-mec-a-pais-con-problemas-de-crecimiento/ar3234089",
+      "fecha": "03 Jul 2026, 13:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven una creciente divergencia entre Fed y BCE tras la guerra",
+      "resumen": "Señalan que Fed aún tendrá que subir la tasa este año pese a debilitamiento del mercado laboral, mientras el BCE no tiene prisa por hacerlo.",
+      "link": "https://www.reforma.com/ven-una-creciente-divergencia-entre-fed-y-bce-tras-la-guerra/ar3234046",
+      "fecha": "03 Jul 2026, 11:47 hrs"
     }
   ]
 }
