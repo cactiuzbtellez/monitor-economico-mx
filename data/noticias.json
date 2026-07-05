@@ -1,7 +1,16 @@
 {
-  "actualizado": "04/07/2026 14:14 hrs",
+  "actualizado": "05/07/2026 02:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Estados Unidos lanza 250,000 monedas conmemorativas en su 250 aniversario",
+      "resumen": "El presidente Trump ordenó también la emisión de billetes con su firma y la del secretario del Tesoro, Scott Bessent, con motivo de la independencia del país.",
+      "link": "https://expansion.mx/economia/2026/07/04/estados-unidos-lanza-250-000-monedas-conmemorativas-en-su-250-aniversario",
+      "fecha": "04 Jul 2026, 17:44 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La confianza del consumidor mexicano subió 0.4 puntos en junio. El avance coincidió con el arranque del Mundial, aunque el ánimo sigue por debajo del nivel de hace un año.",
       "link": "https://expansion.mx/economia/2026/07/03/confianza-del-consumidor-sube-junio-2026",
       "fecha": "03 Jul 2026, 11:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Efecto '¿Y si sí?' provocará mayor consumo en los hogares",
-      "resumen": "El área de análisis económico de Banamex espera que la justa deportiva aporte 0.1% al PIB, especialmente en CDMX, que es la sede en donde ha jugado la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/03/efecto-y-si-si-llega-bolsillo-avance-mexico-mundial-gasto",
-      "fecha": "03 Jul 2026, 08:54 hrs"
     },
     {
       "fuente": "Expansión",
