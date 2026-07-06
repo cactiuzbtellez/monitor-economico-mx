@@ -1,5 +1,5 @@
 {
-  "actualizado": "05/07/2026 14:38 hrs",
+  "actualizado": "06/07/2026 06:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Más que apagones, México enfrenta un sistema eléctrico cada vez más vulnerable",
+      "resumen": "El aumento del consumo presiona una red con rezagos en transmisión y distribución, lo que eleva el riesgo de interrupciones durante periodos de alta demanda.",
+      "link": "https://expansion.mx/empresas/2026/07/06/apagones-mexico-por-que-se-va-luz",
+      "fecha": "06 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
+      "resumen": "La crisis financiera y la consolidación mundial terminaron por cambiar el mapa de la automoción británica. Hoy, algunas de sus marcas más icónicas viven una segunda etapa bajo nuevos propietarios extr…",
+      "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
+      "fecha": "05 Jul 2026, 11:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Quién es el dueño del Madison Square Garden? El empresario detrás del recinto donde se casa Taylor Swift",
       "resumen": "Desde el primer espectáculo en 1968 hasta convertirse en uno de los recintos más codiciados del mundo, el Madison Square Garden forma parte de un conglomerado multimillonario.",
       "link": "https://expansion.mx/empresas/2026/07/04/el-dueno-del-madison-square-garden-boda-taylor-swift",
@@ -127,24 +145,6 @@
       "resumen": "Cambios dentro de la estructura productiva de la compañía reconfigurarán parte de sus operaciones manufactureras en territorio mexicano.",
       "link": "https://expansion.mx/empresas/2026/07/03/whirpool-cerrara-apocada-que-pasara-planta",
       "fecha": "03 Jul 2026, 12:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De HSBC a la dueña de Johnnie Walker: las 10 empresas inglesas que mueven millones en México",
-      "resumen": "La inversión británica en México va mucho más allá de la banca. Estas compañías participan en industrias estratégicas y, juntas, generan más de 221,000 millones de pesos en ingresos y cerca de 31,000 …",
-      "link": "https://expansion.mx/empresas/2026/07/03/10-empresas-inglesas-mexico-generan-millones-pesos",
-      "fecha": "03 Jul 2026, 11:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Magnicharters pierde certificado aéreo para operar en el país",
-      "resumen": "En la última década, la aerolínea regiomontana perdió cuatro quintas partes de su volumen de pasajeros, con lo que lucía complicado que regresara a volar.",
-      "link": "https://expansion.mx/empresas/2026/07/03/magnicharters-no-volvera-volar-afac-retira-certificado",
-      "fecha": "03 Jul 2026, 11:20 hrs"
     },
     {
       "fuente": "Reforma",
