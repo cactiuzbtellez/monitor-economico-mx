@@ -1,7 +1,25 @@
 {
-  "actualizado": "06/07/2026 06:16 hrs",
+  "actualizado": "06/07/2026 13:21 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inversión fija en México rompe 19 meses de caídas gracias al impulso del Mundial",
+      "resumen": "La formación bruta de capital fijo registró en abril su mayor avance mensual desde la recuperación pospandemia y volvió a crecer a tasa anual por primera vez desde finales de 2024.",
+      "link": "https://expansion.mx/economia/2026/07/06/inversion-fija-en-mexico-rompe-19-meses-de-caidas",
+      "fecha": "06 Jul 2026, 09:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las revisiones del T-MEC obligan a México a destrabar la inversión interna",
+      "resumen": "La continuidad del tratado protege las exportaciones a Estados Unidos, pero especialistas advierten que el país debe reducir su incertidumbre local para no perder atractivo frente a otros destinos.",
+      "link": "https://expansion.mx/economia/2026/07/06/las-revisiones-del-t-mec-obligan-a-mexico-a-destrabar-la-inversion-interna",
+      "fecha": "06 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Hace más de 20 años, un banco mexicano evolucionó y se convirtió en HSBC",
       "link": "https://expansion.mx/economia/2026/07/03/bital-banco-mexicano-se-convirtio-en-hsbc",
       "fecha": "03 Jul 2026, 13:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los precios de los alimentos en el mundo bajan, aunque el fenómeno El Niño amenaza",
-      "resumen": "El índice de precios internacionales de los alimentos de la FAO, que sigue la evolución de una cesta de productos, bajó en junio un 0.3% en un mes.",
-      "link": "https://expansion.mx/economia/2026/07/03/los-precios-de-los-alimentos-en-el-mundo-bajan-aunque-el-fenomeno-el-nino-amenaza",
-      "fecha": "03 Jul 2026, 11:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Confianza del consumidor toma aire en junio, pero sigue debajo del nivel previo al Mundial",
-      "resumen": "La confianza del consumidor mexicano subió 0.4 puntos en junio. El avance coincidió con el arranque del Mundial, aunque el ánimo sigue por debajo del nivel de hace un año.",
-      "link": "https://expansion.mx/economia/2026/07/03/confianza-del-consumidor-sube-junio-2026",
-      "fecha": "03 Jul 2026, 11:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 2.3% en NL la construcción",
-      "resumen": "El valor de las obras construidas en Nuevo León alcanzó los 24 mil 787 millones de pesos a abril de 2026; sufriendo una caída anual de 2.3%.",
-      "link": "https://www.reforma.com/cae-2-3-en-nl-la-construccion/ar3234289",
-      "fecha": "04 Jul 2026, 05:01 hrs"
+      "titulo": "Tiene inversión fija mayor avance desde 2020; sube 4%",
+      "resumen": "Por las fuertes alzas en los rubros importado y construcción, la Inversión Fija Bruta tuvo su mejor resultado relativo en 65 meses.",
+      "link": "https://www.reforma.com/tiene-inversion-fija-mayor-avance-desde-2020-sube-4/ar3235347",
+      "fecha": "06 Jul 2026, 09:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Derrite calor hasta al PIB",
-      "resumen": "En todo el mundo, la productividad y PIB se desploman cuando hace calor e incluso podría generar perdidas por 638 mil millones de dólares.",
-      "link": "https://www.reforma.com/derrite-calor-hasta-al-pib/ar3234279",
-      "fecha": "04 Jul 2026, 05:01 hrs"
+      "titulo": "Complica tramititis edificación en NL",
+      "resumen": "Mientras que en NL obtener un permiso para edificar un proyecto de vivienda puede tardar hasta 18 meses, en CDMX puede hacerse en 15 minutos",
+      "link": "https://www.reforma.com/complica-tramititis-edificacion-en-nl/ar3235163",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Brindan México e Inglaterra en comercio",
-      "resumen": "En el primer cuatrimestre de 2026, el comercio agroalimentario entre México y el Reino Unido alcanzó los 143.9 milones de dólares.",
-      "link": "https://www.reforma.com/brindan-mexico-e-inglaterra-en-comercio/ar3234257",
-      "fecha": "03 Jul 2026, 18:28 hrs"
+      "titulo": "Ahora demandan a Trínitas por fraude de 30 mdp",
+      "resumen": "Algunos de los afectados por un desfalco de Trínitas por 2,437 mdp interpusieron una demanda por un fraude de 30 mdp contra la financiera.",
+      "link": "https://www.reforma.com/ahora-demandan-a-trinitas-por-fraude-de-30-mdp/ar3235175",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Encadena BMV tercera semana a la baja",
-      "resumen": "BMV cerró el viernes con un retroceso de 10.61% y en el nivel de 57 mil unidades, lo que representó su tercera semana a la baja.",
-      "link": "https://www.reforma.com/encadena-bmv-tercera-semana-a-la-baja/ar3234230",
-      "fecha": "03 Jul 2026, 18:28 hrs"
+      "titulo": "Preocupa más incertidumbre que reglas del Tratado",
+      "resumen": "La incertidumbre por la revisión del T-MEC preocupa más a la industria automotriz que un eventual cambio en las reglas de origen.",
+      "link": "https://www.reforma.com/preocupa-mas-incertidumbre-que-reglas-del-tratado/ar3235134",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se aprecia peso en semana, cierra dólar en $17.47",
-      "resumen": "El dólar cerró la semana con una preciación de $17.47; lo que representó una caída semanal acumulada de 3.44 centavos.",
-      "link": "https://www.reforma.com/se-aprecia-peso-en-semana-cierra-dolar-en-17-47/ar3234223",
-      "fecha": "03 Jul 2026, 18:28 hrs"
+      "titulo": "Aumentaría T-MEC las quejas laborales",
+      "resumen": "La revisión del T-MEC elevará la presión laboral sobre el Gobierno y empresas ante más quejas y mayores exigencias de cumplimiento.",
+      "link": "https://www.reforma.com/aumentaria-t-mec-las-quejas-laborales/ar3235135",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla equipo meteorológico del AICM, retrasa vuelo",
-      "resumen": "Una falla técnica en los sistemas de información meteorológica del AICM ha generado afectaciones y retrasos en las operaciones aéreas.",
-      "link": "https://www.reforma.com/falla-equipo-meteorologico-del-aicm-retrasa-vuelo/ar3234173",
-      "fecha": "03 Jul 2026, 15:15 hrs"
+      "titulo": "Fallan 15 estados en tope al diesel",
+      "resumen": "Quince estados del País no han cumplido con el pacto del tope del diesel a 27 pesos por litro, revela análisis de PetroInteliligence.",
+      "link": "https://www.reforma.com/fallan-15-estados-en-tope-al-diesel/ar3235113",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte JPMorgan riesgos de caída del precio del oro",
-      "resumen": "El banco señaló que los riesgos para su previsión del oro se inclinan a la baja, ante posibilidad de que la Fed adelante las alzas de tasas.",
-      "link": "https://www.reforma.com/advierte-jpmorgan-riesgos-de-caida-del-precio-del-oro/ar3234150",
-      "fecha": "03 Jul 2026, 14:38 hrs"
+      "titulo": "Arriesga el T-MEC potencial alimentario",
+      "resumen": "Las revisiones anuales previstas para el T-MEC ponen en riesgo el abasto alimenticio de la región, de acuerdo con un análisis sobre el tema.",
+      "link": "https://www.reforma.com/arriesga-el-t-mec-potencial-alimentario/ar3235128",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alistan en EU medidas de emergencia para evitar apagones",
-      "resumen": "PJM, el mayor operador de la red eléctrica en EU, se encuentra bajo alerta federal para reducir el consumo eléctrico en todo su territorio.",
-      "link": "https://www.reforma.com/alistan-en-eu-medidas-de-emergencia-para-evitar-apagones/ar3234099",
-      "fecha": "03 Jul 2026, 13:47 hrs"
+      "titulo": "Retroceden en trimestre  10 de 19 acciones regias",
+      "resumen": "Al cierre del segundo trimestre, 10 de 19 regias que cotizan en la BMV registraron rendimientos negativos respecto al trimestre anterior.",
+      "link": "https://www.reforma.com/retroceden-en-trimestre-10-de-19-acciones-regias/ar3235161",
+      "fecha": "06 Jul 2026, 07:04 hrs"
     }
   ]
 }
