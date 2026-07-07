@@ -1,7 +1,43 @@
 {
-  "actualizado": "07/07/2026 05:21 hrs",
+  "actualizado": "07/07/2026 13:17 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México recupera lugar en el top 10 de la IED mundial, aunque el nearshoring pierde brillo",
+      "resumen": "Pese al crecimiento de la inversión extranjera, la UNCTAD considera que la incertidumbre comercial sigue frenando decisiones de inversión en nuevas plantas en el país.",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-inversion-extranjera-nearshoring-unctad",
+      "fecha": "07 Jul 2026, 11:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Economía asegura que Toyota conservará 2,800 empleos y que otra automotriz invertirá 500 mdd",
+      "resumen": "Toyota reorganiza su producción regional sin abandonar México, mientras el gobierno busca enviar una señal de confianza a la industria.",
+      "link": "https://expansion.mx/economia/2026/07/07/toyota-se-va-tijuana-pero-no-mexico-secretaria-de-economia",
+      "fecha": "07 Jul 2026, 09:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras EU revisa el T-MEC, Taiwán y Vietnam ya superan a México en su déficit comercial",
+      "resumen": "Taiwán elevó 55% y Vietnam 29% su saldo negativo con EU entre enero y abril, mientras el de México disminuyó 2%, de acuerdo con datos de la Oficina del Censo.",
+      "link": "https://expansion.mx/economia/2026/07/07/taiwan-vietnam-desplazan-mexico-deficit-comercial-eu",
+      "fecha": "07 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Biométricos en bancos buscan ayudar a 17 millones de adultos mayores, pero persistirán fricciones",
+      "resumen": "El uso de biometría busca que los bancos identifiquen plenamente a sus clientes luego de que las reclamaciones por fraude aumentaron 18% en lo que va del año; también implicará desacuerdo de clientes.",
+      "link": "https://expansion.mx/economia/2026/07/06/bancos-mexico-datos-biometricos-cuidar-adultos-mayores",
+      "fecha": "06 Jul 2026, 18:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda mantiene sin subsidio a la gasolina Premium; sube apoyo para Magna y diésel",
-      "resumen": "Además del estímulo general anunciado a la gasolina Magna y el diésel para la semana del 4 al 10 de julio, Hacienda no otorgará ningún apoyo adicional o complementario.",
-      "link": "https://expansion.mx/economia/2026/07/03/hacienda-mantiene-sin-subsidio-a-la-gasolina-premium-sube-apoyo-para-magna-y-diesel",
-      "fecha": "03 Jul 2026, 19:38 hrs"
+      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
+      "link": "https://expansion.mx/empresas/2026/07/07/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "fecha": "07 Jul 2026, 12:18 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bancos evitarán fraudes con nueva regulación biométrica",
-      "resumen": "Entre enero y mayo de este año, se han registrado 34,325 quejas por fraudes a usuarios de la banca en México, por lo que la nueva regulación busca reducir este delito.",
-      "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
-      "fecha": "03 Jul 2026, 18:58 hrs"
+      "titulo": "Geely tiene 52 satélites en órbita: ¿por qué una automotriz china creó su propia constelación?",
+      "resumen": "Lo que comenzó como una apuesta de movilidad terminó llevando a la compañía a un terreno donde pocas marcas del sector tienen presencia.",
+      "link": "https://expansion.mx/empresas/2026/07/07/geely-52-satelites-orbita-por-que-creo-propia-constelacion",
+      "fecha": "07 Jul 2026, 12:02 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
-      "resumen": "El sector financiero prevé un repunte en dicho sector rumbo al cierre de 2026, revirtiendo la tendencia negativa de inicio de año.",
-      "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
-      "fecha": "03 Jul 2026, 15:37 hrs"
+      "titulo": "TV Azteca es declarada oficialmente en concurso mercantil para reestructurar su deuda financiera",
+      "resumen": "La empresa tendrá hasta un año para negociar con sus acreedores bajo la supervisión de un conciliador, como parte de un proceso para reorganizar sus pasivos y fortalecer su estructura financiera.",
+      "link": "https://expansion.mx/empresas/2026/07/07/tv-azteca-es-declarada-oficialmente-concurso-mercantil",
+      "fecha": "07 Jul 2026, 11:51 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia de Bital: el banco mexicano que terminó en manos de un gigante inglés en el nuevo milenio",
-      "resumen": "Hace más de 20 años, un banco mexicano evolucionó y se convirtió en HSBC",
-      "link": "https://expansion.mx/economia/2026/07/03/bital-banco-mexicano-se-convirtio-en-hsbc",
-      "fecha": "03 Jul 2026, 13:40 hrs"
+      "titulo": "Las revisiones anuales del T-MEC elevan la incertidumbre para la inversión energética",
+      "resumen": "La reforma energética de 2024 busca atraer capital privado, pero proyectos con horizontes de hasta 30 años dependerán de reglas sujetas a evaluación constante.",
+      "link": "https://expansion.mx/empresas/2026/07/07/las-revisiones-anuales-del-t-mec-elevan-la-incertidumbre-para-la-inversion-energetica",
+      "fecha": "07 Jul 2026, 05:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Toyota trasladará producción de Tacoma de México a Texas",
+      "resumen": "La empresa precisó que el traslado de la producción de Tacoma desde Baja California hacia San Antonio se realizará durante los próximos cuatro años.",
+      "link": "https://expansion.mx/empresas/2026/07/06/toyota-trasladara-produccion-tacoma-de-mexico-a-texas",
+      "fecha": "06 Jul 2026, 19:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,56 +147,47 @@
       "fecha": "06 Jul 2026, 16:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México tiene 48,000 talleres de carpintería y muchos ya cambian la sierra por máquinas gracias a las remodelaciones",
-      "resumen": "La adquisición de cocinas integrales, mobiliario para salas y recámaras, así como los proyectos de remodelación e interiorismo, han generado oportunidades para los talleres.",
-      "link": "https://expansion.mx/empresas/2026/07/06/talleres-de-carpinteria-cambian-sierra-por-maquinas",
-      "fecha": "06 Jul 2026, 16:45 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipa SE inversión de más de 500 mdd en sector automotriz",
+      "resumen": "La SE anunció que una empresa automotriz invertirá 500 millones de dólares en México; dará más información en próximos días.",
+      "link": "https://www.reforma.com/anticipa-se-inversion-de-mas-de-500-mdd-en-sector-automotriz/ar3235882",
+      "fecha": "07 Jul 2026, 08:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana de Aviación estrena ruta del AIFA a Chiapas",
-      "resumen": "Los turistas y personas que por diversos motivos tengan que viajar a Tuxtla Gutiérrez, Chiapas, tendrán una opción de viaje desde el AIFA.",
-      "link": "https://expansion.mx/empresas/2026/07/06/mexicana-de-aviacion-estrena-ruta-aifa-chiapas",
-      "fecha": "06 Jul 2026, 16:11 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alcanzan exportaciones  de México a EU récord en 242,903 mdd",
+      "resumen": "La economía mexicana tuvo máximo histórico en monto exportado a EU, al sumar 242 mil 903 millones de dólares en los primeros cinco meses.",
+      "link": "https://www.reforma.com/alcanzan-exportaciones-de-mexico-a-eu-record-en-242-903-mdd/ar3235962",
+      "fecha": "07 Jul 2026, 11:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen prepara el mayor recorte de personal del año, por encima de Amazon, Oracle y Meta",
-      "resumen": "El fabricante alemán prepara el mayor recorte corporativo reciente con 100,000 empleos, reflejo de una industria automotriz occidental que pierde competitividad frente a fabricantes chinos.",
-      "link": "https://expansion.mx/empresas/2026/07/06/volkswagen-despedira-mas-trabajadores-meta-y-amazon",
-      "fecha": "06 Jul 2026, 16:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Bajan 9.2% exportación de vehículos y 1.9% la producción",
+      "resumen": "Las exportaciones de autos ligeros tuvieron su mayor descenso en seis meses a tasa anual, al caer 9.2% en junio; la producción cedió 1.9%.",
+      "link": "https://www.reforma.com/bajan-9-2-exportacion-de-vehiculos-y-1-9-la-produccion/ar3235896",
+      "fecha": "07 Jul 2026, 09:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "resumen": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-petrolera-mundial-2026",
-      "fecha": "06 Jul 2026, 15:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia vs. TT1 vs. Avido: así rinden los tres autos eléctricos mexicanos que buscan competir",
-      "resumen": "La nueva generación de autos eléctricos mexicanos comparte un mismo objetivo, pero el camino elegido por cada proyecto revela diferencias profundas.",
-      "link": "https://expansion.mx/empresas/2026/07/06/olinia-tt1-avido-velocidad-precio-autos-electricos-mexicanos",
-      "fecha": "06 Jul 2026, 13:20 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sufre el gasto público  mayor retraso en 21 años",
+      "resumen": "De enero a mayo, el gasto neto del Gobierno fue 3.97 billones de pesos, monto 9.5% por debajo de lo programado, el mayor retraso desde 2005.",
+      "link": "https://www.reforma.com/sufre-el-gasto-publico-mayor-retraso-en-21-anos/ar3235695",
+      "fecha": "07 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Prevén freno a nearshoring",
-      "resumen": "Revisiones anuales del T-MEC  y su vigencia por 10 años, puede afectar la relocalización de empresas en el País, advierten especialistas.",
+      "resumen": "Revisiones anuales del T-MEC y su vigencia por 10 años, puede afectar la relocalización de empresas en el País, advierten especialistas.",
       "link": "https://www.reforma.com/preven-freno-a-nearshoring/ar3235708",
       "fecha": "07 Jul 2026, 05:01 hrs"
     },
@@ -159,64 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Atrae México poco turismo chino",
-      "resumen": "Aunque el mercado chino genera millones de viajes al año, la apuesta de México por ser un destino prioritario se mantiene estancatada.",
-      "link": "https://www.reforma.com/atrae-mexico-poco-turismo-chino/ar3235683",
-      "fecha": "07 Jul 2026, 05:01 hrs"
+      "titulo": "Alcanza récord competencia de startups de construcción",
+      "resumen": "La Construction Startup Competition cerró periodo de inscripciones con un récord de 798 solicitudes de startups.",
+      "link": "https://www.reforma.com/alcanza-record-competencia-de-startups-de-construccion/ar3235925",
+      "fecha": "07 Jul 2026, 10:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde Pemex sus reservas",
-      "resumen": "Reservas probadas de petróleo se desplomaron 46% en 12 años y se encuentran en niveles similares de 2018, revelan datos de Pemex.",
-      "link": "https://www.reforma.com/pierde-pemex-sus-reservas/ar3235687",
-      "fecha": "07 Jul 2026, 05:01 hrs"
+      "titulo": "IA no está provocando 'caída generalizada' del empleo.- OCDE",
+      "resumen": "La IA no está provocando una \"caída generalizada\" del empleo en países de la OCDE, donde la tasa de desempleo se mantiene cerca de mínimo.",
+      "link": "https://www.reforma.com/ia-no-esta-provocando-caida-generalizada-del-empleo-ocde/ar3235931",
+      "fecha": "07 Jul 2026, 10:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crea incertidumbre revisiones anuales del T-MEC",
-      "resumen": "Propuesta de revisiones anuales del T-MEC impacta en los proyectos de inversión con horizontes a 10 años, señalan especialistas.",
-      "link": "https://www.reforma.com/crea-incertidumbre-revisiones-anuales-del-t-mec/ar3235646",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ofrecerán gasolineras retiro de efectivo",
-      "resumen": "Estaciones de servicio buscan ampliar sus fuentes de ingreso más allá de la venta de combustible mediante nuevos esquemas como autoservicio.",
-      "link": "https://www.reforma.com/ofreceran-gasolineras-retiro-de-efectivo/ar3235699",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven importante  defender T-MEC",
-      "resumen": "Para México, la defensa del T-MEC permite fomentar la actividad productiva nacional por medio de las cadenas de suministro regionales.",
-      "link": "https://www.reforma.com/ven-importante-defender-t-mec/ar3235659",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impactan aranceles a los costos de importación",
-      "resumen": "incremento de aranceles aplicado por México ha elevado los costos de importación, principalmente para productos provenientes de China.",
-      "link": "https://www.reforma.com/impactan-aranceles-a-los-costos-de-importacion/ar3235664",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se reúnen Claudia Sheinbaum y CEO de Nubank",
-      "resumen": "La Presidenta Claudia Sheinbaum se reunió con el CEO de Nubank, David Vélez, quien reafirmó una inversión por 4 mil 200 millones de dólares.",
-      "link": "https://www.reforma.com/se-reunen-claudia-sheinbaum-y-ceo-de-nubank/ar3235585",
-      "fecha": "06 Jul 2026, 16:56 hrs"
+      "titulo": "Reclaman estados a Meta  1.4 billones de dólares en multas",
+      "resumen": "Meta dijo que cuatro estados reclaman Dls. 1.4 billones por acusaciones de que FB e IG fueron diseñadas para crear adicción entre jóvenes.",
+      "link": "https://www.reforma.com/reclaman-estados-a-meta-1-4-billones-de-dolares-en-multas/ar3235967",
+      "fecha": "07 Jul 2026, 11:11 hrs"
     }
   ]
 }
