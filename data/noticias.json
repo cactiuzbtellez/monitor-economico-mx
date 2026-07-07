@@ -1,7 +1,16 @@
 {
-  "actualizado": "07/07/2026 13:17 hrs",
+  "actualizado": "07/07/2026 17:31 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México exporta 242,903 mdd a EU entre enero y mayo; mantiene máximos pese a incertidumbre",
+      "resumen": "El secretario de Economía, Marcelo Ebrard, atribuye el buen desempeño a la fortaleza de las cadenas productivas entre México y Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
+      "fecha": "07 Jul 2026, 14:31 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
-      "resumen": "La Secretaría de Hacienda aprobó en el Diario Oficial de la Federación el fortalecimiento del capital social del banco y pasó de 18,538 millones de pesos a 22,783 millones.",
-      "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
-      "fecha": "04 Jul 2026, 12:34 hrs"
+      "titulo": "¿Quién es el dueño de Kia? Hyundai la salvó de la bancarrota y hoy patrocina el Mundial 2026",
+      "resumen": "La relación con Hyundai cambió el rumbo de la empresa y abrió el camino para una expansión que hoy alcanza mercados de todo el mundo.",
+      "link": "https://expansion.mx/empresas/2026/07/07/quien-es-dueno-de-kia-hyundai-bancarrota",
+      "fecha": "07 Jul 2026, 16:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "06 Jul 2026, 17:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de la selección mexicana y cuál es el papel de los grandes empresarios?",
-      "resumen": "Derechos de transmisión, contratos millonarios y giras por EU mantienen al Tri como negocio clave, mientras la FMF y empresarios definen su futuro.",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-seleccion-mexicana-y-fmf",
-      "fecha": "06 Jul 2026, 16:59 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,64 +159,64 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanzan exportaciones  de México a EU récord en 242,903 mdd",
+      "titulo": "Califican de reconfiguración  salida de Toyota",
+      "resumen": "Mudanza de producción del modelo Tacoma a Texas no representa una salida del mercado mexicano, sino una reconfiguración, señaló INA.",
+      "link": "https://www.reforma.com/califican-de-reconfiguracion-salida-de-toyota/ar3236121",
+      "fecha": "07 Jul 2026, 15:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Firman CFE y Polaris contrato mixto para tres centrales",
+      "resumen": "Polaris anunció que invertirá más de 200 millones de dólares en la construcción de tres centrales eléctricas en asociación con CFE.",
+      "link": "https://www.reforma.com/firman-cfe-y-polaris-contrato-mixto-para-tres-centrales/ar3236130",
+      "fecha": "07 Jul 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Caen grupos aeroportuarios;  decepcionan cifras de junio",
+      "resumen": "Acciones de grupos aeroportuarios encabezaron las bajas en la BMV tras reportar cifras decepcionantes para junio en el tráfico de pasajeros.",
+      "link": "https://www.reforma.com/caen-grupos-aeroportuarios-decepcionan-cifras-de-junio/ar3236157",
+      "fecha": "07 Jul 2026, 16:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé SICT que sanciones de EU se retiren antes del invierno",
+      "resumen": "SICT confía en que sanciones impuestas por EU a las aerolíneas mexicanas serán retiradas antes de que inicie la temporada invernal.",
+      "link": "https://www.reforma.com/preve-sict-que-sanciones-de-eu-se-retiren-antes-del-invierno/ar3236155",
+      "fecha": "07 Jul 2026, 16:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Realiza Profeco 669 visitas de verificación en el Mundial",
+      "resumen": "Profeco realizó 669 visitas de verificación y 902 acciones de vigilancia a proveedores de bienes y prestadores de servicio en el Mundial.",
+      "link": "https://www.reforma.com/realiza-profeco-669-visitas-de-verificacion-en-el-mundial/ar3236041",
+      "fecha": "07 Jul 2026, 13:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Logran exportaciones de México a EU récord en 242,903 mdd",
       "resumen": "La economía mexicana tuvo máximo histórico en monto exportado a EU, al sumar 242 mil 903 millones de dólares en los primeros cinco meses.",
-      "link": "https://www.reforma.com/alcanzan-exportaciones-de-mexico-a-eu-record-en-242-903-mdd/ar3235962",
+      "link": "https://www.reforma.com/logran-exportaciones-de-mexico-a-eu-record-en-242-903-mdd/ar3235962",
       "fecha": "07 Jul 2026, 11:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajan 9.2% exportación de vehículos y 1.9% la producción",
-      "resumen": "Las exportaciones de autos ligeros tuvieron su mayor descenso en seis meses a tasa anual, al caer 9.2% en junio; la producción cedió 1.9%.",
-      "link": "https://www.reforma.com/bajan-9-2-exportacion-de-vehiculos-y-1-9-la-produccion/ar3235896",
-      "fecha": "07 Jul 2026, 09:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufre el gasto público  mayor retraso en 21 años",
-      "resumen": "De enero a mayo, el gasto neto del Gobierno fue 3.97 billones de pesos, monto 9.5% por debajo de lo programado, el mayor retraso desde 2005.",
-      "link": "https://www.reforma.com/sufre-el-gasto-publico-mayor-retraso-en-21-anos/ar3235695",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén freno a nearshoring",
-      "resumen": "Revisiones anuales del T-MEC y su vigencia por 10 años, puede afectar la relocalización de empresas en el País, advierten especialistas.",
-      "link": "https://www.reforma.com/preven-freno-a-nearshoring/ar3235708",
-      "fecha": "07 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanza récord competencia de startups de construcción",
-      "resumen": "La Construction Startup Competition cerró periodo de inscripciones con un récord de 798 solicitudes de startups.",
-      "link": "https://www.reforma.com/alcanza-record-competencia-de-startups-de-construccion/ar3235925",
-      "fecha": "07 Jul 2026, 10:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "IA no está provocando 'caída generalizada' del empleo.- OCDE",
-      "resumen": "La IA no está provocando una \"caída generalizada\" del empleo en países de la OCDE, donde la tasa de desempleo se mantiene cerca de mínimo.",
-      "link": "https://www.reforma.com/ia-no-esta-provocando-caida-generalizada-del-empleo-ocde/ar3235931",
-      "fecha": "07 Jul 2026, 10:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reclaman estados a Meta  1.4 billones de dólares en multas",
-      "resumen": "Meta dijo que cuatro estados reclaman Dls. 1.4 billones por acusaciones de que FB e IG fueron diseñadas para crear adicción entre jóvenes.",
-      "link": "https://www.reforma.com/reclaman-estados-a-meta-1-4-billones-de-dolares-en-multas/ar3235967",
-      "fecha": "07 Jul 2026, 11:11 hrs"
+      "titulo": "Transforma IA estructura en empresas",
+      "resumen": "Adopción de IA está oficiando la estructura oganizacional al crear nuevos puestos directivos y mayores recursos a su implementación.",
+      "link": "https://www.reforma.com/transforma-ia-estructura-en-empresas/ar3236094",
+      "fecha": "07 Jul 2026, 14:42 hrs"
     }
   ]
 }
