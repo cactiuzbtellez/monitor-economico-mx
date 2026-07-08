@@ -1,7 +1,34 @@
 {
-  "actualizado": "08/07/2026 14:46 hrs",
+  "actualizado": "08/07/2026 16:04 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Equifax compra Círculo de Crédito en 750 millones de dólares",
+      "resumen": "Equifax es una empresa estadounidense que está interesada en ampliar su presencia en el mercado mexicano; Circulo de Crédito pertenecía a Afirme, BanCoppel, Elektra e inversionistas privados.",
+      "link": "https://expansion.mx/economia/2026/07/08/equifax-compra-circulo-de-credito-en-750-millones-de-dolares",
+      "fecha": "08 Jul 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis y Openbank buscan aumentar a 60% la digitalización en cines",
+      "resumen": "Las firmas lanzaron una tarjeta de crédito con la que el banco quiere aprovechar a los más de 7.5 millones de clientes activos; la cadena de cines busca digitalizar hasta 60% de sus transacciones.",
+      "link": "https://expansion.mx/economia/2026/07/08/cinepolis-y-openbank-buscan-aumentar-a-60-la-digitalizacion-en-cines",
+      "fecha": "08 Jul 2026, 12:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con 479 votos, Parlamento Europeo respalda el acuerdo comercial modernizado con México",
+      "resumen": "El tratado renovado eliminará casi todos los aranceles pendientes y ampliará el acceso a mercados para empresas de ambos lados.",
+      "link": "https://expansion.mx/economia/2026/07/08/parlamento-europeo-aprueba-acuerdo-modernizado-mexico",
+      "fecha": "08 Jul 2026, 12:39 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Economía asegura que Toyota conservará 2,800 empleos y que otra automotriz invertirá 500 mdd",
-      "resumen": "Toyota reorganiza su producción regional sin abandonar México, mientras el gobierno busca enviar una señal de confianza a la industria.",
-      "link": "https://expansion.mx/economia/2026/07/07/toyota-se-va-tijuana-pero-no-mexico-secretaria-de-economia",
-      "fecha": "07 Jul 2026, 09:02 hrs"
+      "titulo": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
+      "resumen": "La Sener asegura que México tiene capacidad suficiente para cubrir la demanda eléctrica, pero reconoce que el principal desafío está en fortalecer las redes de transmisión y distribución mediante nuev…",
+      "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
+      "fecha": "08 Jul 2026, 15:48 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mientras EU revisa el T-MEC, Taiwán y Vietnam ya superan a México en su déficit comercial",
-      "resumen": "Taiwán elevó 55% y Vietnam 29% su saldo negativo con EU entre enero y abril, mientras el de México disminuyó 2%, de acuerdo con datos de la Oficina del Censo.",
-      "link": "https://expansion.mx/economia/2026/07/07/taiwan-vietnam-desplazan-mexico-deficit-comercial-eu",
-      "fecha": "07 Jul 2026, 05:55 hrs"
+      "titulo": "Liga MX, NFL y conciertos: el plan del Estadio Azteca para pagar su deuda millonaria con Banorte desde 2027",
+      "resumen": "Después de ser sede mundialista, el Estadio Azteca enfrenta su mayor reto: transformar la inversión de la remodelación en un activo rentable durante los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/07/08/plan-estadio-azteca-para-pagar-deuda-millonaria-con-banorte",
+      "fecha": "08 Jul 2026, 15:34 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Biométricos en bancos buscan ayudar a 17 millones de adultos mayores, pero persistirán fricciones",
-      "resumen": "El uso de biometría busca que los bancos identifiquen plenamente a sus clientes luego de que las reclamaciones por fraude aumentaron 18% en lo que va del año; también implicará desacuerdo de clientes.",
-      "link": "https://expansion.mx/economia/2026/07/06/bancos-mexico-datos-biometricos-cuidar-adultos-mayores",
-      "fecha": "06 Jul 2026, 18:25 hrs"
+      "titulo": "La planta de Toyota en Baja California, de símbolo del TLCAN a operación bajo revisión en la nueva era del T-MEC",
+      "resumen": "Construida bajo la lógica del TLCAN, la planta de Toyota en Tijuana creció junto con la demanda de la Tacoma. Dos décadas después, la nueva política comercial de Estados Unidos vuelve incierto su futu…",
+      "link": "https://expansion.mx/empresas/2026/07/08/planta-toyota-baja-california-de-simbolo-del-tlcan-a-cerrar",
+      "fecha": "08 Jul 2026, 11:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,13 @@
       "fecha": "07 Jul 2026, 11:51 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las revisiones anuales del T-MEC elevan la incertidumbre para la inversión energética",
-      "resumen": "La reforma energética de 2024 busca atraer capital privado, pero proyectos con horizontes de hasta 30 años dependerán de reglas sujetas a evaluación constante.",
-      "link": "https://expansion.mx/empresas/2026/07/07/las-revisiones-anuales-del-t-mec-elevan-la-incertidumbre-para-la-inversion-energetica",
-      "fecha": "07 Jul 2026, 05:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Toyota trasladará producción de Tacoma de México a Texas",
-      "resumen": "La empresa precisó que el traslado de la producción de Tacoma desde Baja California hacia San Antonio se realizará durante los próximos cuatro años.",
-      "link": "https://expansion.mx/empresas/2026/07/06/toyota-trasladara-produccion-tacoma-de-mexico-a-texas",
-      "fecha": "06 Jul 2026, 19:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Mundial impulsa el consumo en México, pero las acciones de Femsa, Arca y Coca-Cola no lo reflejan del todo",
-      "resumen": "El aumento en las compras para seguir los partidos podría reflejarse en los resultados del tercer trimestre, mientras las acciones de las principales embotelladoras continúan sujetas a factores de lar…",
-      "link": "https://expansion.mx/empresas/2026/07/06/mundial-2026-femsa-arca-continental-coca-cola-femsa-bolsa",
-      "fecha": "06 Jul 2026, 17:35 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Liga 8 bajas mensuales registros de patrones ante el IMSS",
+      "resumen": "En junio, los registros patronales disminuyeron 26 mil 536, lo que representó su octava baja mensual al hilo, revelan datos del IMSS.",
+      "link": "https://www.reforma.com/liga-8-bajas-mensuales-registros-de-patrones-ante-el-imss/ar3236867",
+      "fecha": "08 Jul 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,19 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Queda a deber'  Mundial 15 mil mdp en derrama económica",
-      "resumen": "El Mundial ha conseguido una derrama económica de entre 45 mil y 50 mil mdp, pero la meta era de 65 mil mdp, dijo la Concanaco.",
-      "link": "https://www.reforma.com/queda-a-deber-mundial-15-mil-mdp-en-derrama-economica/ar3236706",
-      "fecha": "08 Jul 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ordena Trump suspender comercio  de EU con España",
-      "resumen": "Presidente Trump ordenó la suspensión inmediata de todo comercio con España, ante tensiones en torno al gasto en defensa y guerra en Irán.",
-      "link": "https://www.reforma.com/ordena-trump-suspender-comercio-de-eu-con-espana/ar3236507",
-      "fecha": "08 Jul 2026, 07:07 hrs"
+      "titulo": "Encaminan a incumplir reglas de origen",
+      "resumen": "Reglas de origen más estrictas en el T-MEC complicarían su cumplimiento y favorecerían a competidores, según IQOM Inteligencia Comercial.",
+      "link": "https://www.reforma.com/encaminan-a-incumplir-reglas-de-origen/ar3236752",
+      "fecha": "08 Jul 2026, 14:52 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exporta planta de Sempra primer cargamento de GNL",
-      "resumen": "El proyecto de gas natural licuado (GNL) de Sempra Infrastructure en la costa oeste de México exportó su primer cargamento, según Bloomberg.",
-      "link": "https://www.reforma.com/exporta-planta-de-sempra-primer-cargamento-de-gnl/ar3236672",
-      "fecha": "08 Jul 2026, 11:55 hrs"
+      "titulo": "Ordena Trump suspender comercio  de EU con España",
+      "resumen": "Presidente Trump ordenó la suspensión inmediata de todo comercio con España, ante tensiones en torno al gasto en defensa y guerra en Irán.",
+      "link": "https://www.reforma.com/ordena-trump-suspender-comercio-de-eu-con-espana/ar3236507",
+      "fecha": "08 Jul 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rebaja FMI perspectiva  de PIB de México a 1.2%",
-      "resumen": "El FMI recortó su previsión de crecimiento para la economía mexicana este año desde el 1.6% estimado en abril pasado a 1.2%.",
-      "link": "https://www.reforma.com/rebaja-fmi-perspectiva-de-pib-de-mexico-a-1-2/ar3236515",
-      "fecha": "08 Jul 2026, 07:44 hrs"
+      "titulo": "'Queda a deber' Mundial 15 mil mdp en derrama económica",
+      "resumen": "El Mundial ha conseguido una derrama económica de entre 45 mil y 50 mil mdp, pero la meta era de 65 mil mdp, dijo la Concanaco.",
+      "link": "https://www.reforma.com/queda-a-deber-mundial-15-mil-mdp-en-derrama-economica/ar3236706",
+      "fecha": "08 Jul 2026, 12:33 hrs"
     }
   ]
 }
