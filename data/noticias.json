@@ -1,7 +1,34 @@
 {
-  "actualizado": "08/07/2026 10:15 hrs",
+  "actualizado": "08/07/2026 14:46 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
+      "resumen": "La reunión del 20 de julio en México definirá avances en aranceles, reglas de origen y otros temas clave con Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
+      "fecha": "08 Jul 2026, 09:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "FMI rebaja su previsión de crecimiento para México a 1.2% en 2026",
+      "resumen": "\"En México, se proyecta que el crecimiento se acelere de forma moderada en medio de políticas internas menos restrictivas, pero la incertidumbre seguirá limitando la actividad\", indicó el Fondo.",
+      "link": "https://expansion.mx/economia/2026/07/08/fmi-rebaja-su-prevision-de-crecimiento-para-mexico-a-1-2-en-2026",
+      "fecha": "08 Jul 2026, 09:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Del TLCAN al T-MEC: así se transformó la economía mexicana",
+      "resumen": "La apertura comercial desplazó al petróleo como motor exportador e integró al país en las cadenas de valor regionales, aunque el crecimiento y la productividad siguen rezagados.",
+      "link": "https://expansion.mx/economia/2026/07/08/tlcan-t-mec-transformacion-economia-mexicana",
+      "fecha": "08 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "El uso de biometría busca que los bancos identifiquen plenamente a sus clientes luego de que las reclamaciones por fraude aumentaron 18% en lo que va del año; también implicará desacuerdo de clientes.",
       "link": "https://expansion.mx/economia/2026/07/06/bancos-mexico-datos-biometricos-cuidar-adultos-mayores",
       "fecha": "06 Jul 2026, 18:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inversión fija en México rompe 19 meses de caídas gracias al impulso del Mundial",
-      "resumen": "La formación bruta de capital fijo registró en abril su mayor avance mensual desde la recuperación pospandemia y volvió a crecer a tasa anual por primera vez desde finales de 2024.",
-      "link": "https://expansion.mx/economia/2026/07/06/inversion-fija-en-mexico-rompe-19-meses-de-caidas",
-      "fecha": "06 Jul 2026, 09:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las revisiones del T-MEC obligan a México a destrabar la inversión interna",
-      "resumen": "La continuidad del tratado protege las exportaciones a Estados Unidos, pero especialistas advierten que el país debe reducir su incertidumbre local para no perder atractivo frente a otros destinos.",
-      "link": "https://expansion.mx/economia/2026/07/06/las-revisiones-del-t-mec-obligan-a-mexico-a-destrabar-la-inversion-interna",
-      "fecha": "06 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos lanza 250,000 monedas conmemorativas en su 250 aniversario",
-      "resumen": "El presidente Trump ordenó también la emisión de billetes con su firma y la del secretario del Tesoro, Scott Bessent, con motivo de la independencia del país.",
-      "link": "https://expansion.mx/economia/2026/07/04/estados-unidos-lanza-250-000-monedas-conmemorativas-en-su-250-aniversario",
-      "fecha": "04 Jul 2026, 17:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,7 +150,25 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ordena Trump  suspender comercio  de EU con España",
+      "titulo": "Busca SE reducir incertidumbre por revisiones del T-MEC",
+      "resumen": "En su visita a Washington, el Secretario de Economía, Marcelo Ebrard, determinará el proceso de revisión del T-MEC y reducir incertidumbre.",
+      "link": "https://www.reforma.com/busca-se-reducir-incertidumbre-por-revisiones-del-t-mec/ar3236681",
+      "fecha": "08 Jul 2026, 12:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "'Queda a deber'  Mundial 15 mil mdp en derrama económica",
+      "resumen": "El Mundial ha conseguido una derrama económica de entre 45 mil y 50 mil mdp, pero la meta era de 65 mil mdp, dijo la Concanaco.",
+      "link": "https://www.reforma.com/queda-a-deber-mundial-15-mil-mdp-en-derrama-economica/ar3236706",
+      "fecha": "08 Jul 2026, 12:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ordena Trump suspender comercio  de EU con España",
       "resumen": "Presidente Trump ordenó la suspensión inmediata de todo comercio con España, ante tensiones en torno al gasto en defensa y guerra en Irán.",
       "link": "https://www.reforma.com/ordena-trump-suspender-comercio-de-eu-con-espana/ar3236507",
       "fecha": "08 Jul 2026, 07:07 hrs"
@@ -159,64 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rebaja FMI perspectiva de crecimiento de México  a 1.2%",
-      "resumen": "El FMI recortó su previsión de crecimiento para la economía mexicana este año desde el 1.6% estimado en abril pasado a 1.2%.",
-      "link": "https://www.reforma.com/rebaja-fmi-perspectiva-de-crecimiento-de-mexico-a-1-2/ar3236515",
-      "fecha": "08 Jul 2026, 07:44 hrs"
+      "titulo": "La reconfiguración de la Tacoma de Toyota",
+      "resumen": "Las ventas de la camioneta Tacoma subieron 9.9% en EU en el primer semestre y representaron el 88% de la producción de Toyota en México.",
+      "link": "https://www.reforma.com/la-reconfiguracion-de-la-tacoma-de-toyota/ar3236674",
+      "fecha": "08 Jul 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aviva Toyota temores sobre la industria automotriz mexicana",
-      "resumen": "Crece temor de que se produzcan más anuncios como el de Toyota, mientras se desvanece esperanza de la reducción de aranceles de EU a México.",
-      "link": "https://www.reforma.com/aviva-toyota-temores-sobre-la-industria-automotriz-mexicana/ar3236546",
-      "fecha": "08 Jul 2026, 08:55 hrs"
+      "titulo": "Caen acciones de Volaris por alza de precios del petróleo",
+      "resumen": "Las acciones de Volaris caían más de 7%, presionadas por un alza en los precios del crudo que opacó un sólido reporte de tráfico en junio.",
+      "link": "https://www.reforma.com/caen-acciones-de-volaris-por-alza-de-precios-del-petroleo/ar3236802",
+      "fecha": "08 Jul 2026, 14:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera crudo Brent los 80 dólares",
-      "resumen": "El barril de Brent subía cerca de 8% hasta los 80.12 dólares, luego que el Presidente Trump afirmara que el cese al fuego con Irán terminó.",
-      "link": "https://www.reforma.com/supera-crudo-brent-los-80-dolares/ar3236598",
+      "titulo": "Modera crudo Brent avance y cierra en 78.02 dólares",
+      "resumen": "El crudo Brent subió 5.2% a 78.02 dólares, tras superar en la sesión los 80 dólares por barril; el WTI ganó 4.37% y cerró en 73.52 dólares.",
+      "link": "https://www.reforma.com/modera-crudo-brent-avance-y-cierra-en-78-02-dolares/ar3236598",
       "fecha": "08 Jul 2026, 10:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sacude a mercados nuevos ataques entre EU e Irán",
-      "resumen": "En las primeras operaciones, el Dow Jones bajaba 488 puntos, o un 0.9%; el S&amp;P 500 descendía un 0.6%, y el Nasdaq Composite perdía un 0.4%.",
-      "link": "https://www.reforma.com/sacude-a-mercados-nuevos-ataques-entre-eu-e-iran/ar3236527",
-      "fecha": "08 Jul 2026, 08:13 hrs"
+      "titulo": "Exporta planta de Sempra primer cargamento de GNL",
+      "resumen": "El proyecto de gas natural licuado (GNL) de Sempra Infrastructure en la costa oeste de México exportó su primer cargamento, según Bloomberg.",
+      "link": "https://www.reforma.com/exporta-planta-de-sempra-primer-cargamento-de-gnl/ar3236672",
+      "fecha": "08 Jul 2026, 11:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden en EU castigar aguacate mexicano",
-      "resumen": "Aguacateros estadounidenses acusaron que industria del aguacate en México es controlada por cárteles del narcotráfico y debe castigarse.",
-      "link": "https://www.reforma.com/piden-en-eu-castigar-aguacate-mexicano/ar3236401",
-      "fecha": "08 Jul 2026, 06:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Triplica Pemex  déficit comercial",
-      "resumen": "En los primeros cinco meses del año, Pemex casi triplicó su déficit comercial al alcanzar los mil 110.1 millones de dólares.",
-      "link": "https://www.reforma.com/triplica-pemex-deficit-comercial/ar3236395",
-      "fecha": "08 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Desincentiva Ley minera inversiones en México",
-      "resumen": "México tiene una oportunidad para atraer inversiones en proyectos de minerales críticos, la Ley Minera de 2023 ha debilitado al sector.",
-      "link": "https://www.reforma.com/desincentiva-ley-minera-inversiones-en-mexico/ar3236406",
-      "fecha": "08 Jul 2026, 06:59 hrs"
+      "titulo": "Rebaja FMI perspectiva  de PIB de México a 1.2%",
+      "resumen": "El FMI recortó su previsión de crecimiento para la economía mexicana este año desde el 1.6% estimado en abril pasado a 1.2%.",
+      "link": "https://www.reforma.com/rebaja-fmi-perspectiva-de-pib-de-mexico-a-1-2/ar3236515",
+      "fecha": "08 Jul 2026, 07:44 hrs"
     }
   ]
 }
