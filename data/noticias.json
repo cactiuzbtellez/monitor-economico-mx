@@ -1,7 +1,43 @@
 {
-  "actualizado": "08/07/2026 03:15 hrs",
+  "actualizado": "08/07/2026 10:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México exporta 242,903 mdd a EU entre enero y mayo; mantiene máximos pese a incertidumbre",
+      "resumen": "El secretario de Economía, Marcelo Ebrard, atribuye el buen desempeño a la fortaleza de las cadenas productivas entre México y Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
+      "fecha": "07 Jul 2026, 14:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México recupera lugar en el top 10 de la IED mundial, aunque el nearshoring pierde brillo",
+      "resumen": "Pese al crecimiento de la inversión extranjera, la UNCTAD considera que la incertidumbre comercial sigue frenando decisiones de inversión en nuevas plantas en el país.",
+      "link": "https://expansion.mx/economia/2026/07/07/mexico-inversion-extranjera-nearshoring-unctad",
+      "fecha": "07 Jul 2026, 11:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Economía asegura que Toyota conservará 2,800 empleos y que otra automotriz invertirá 500 mdd",
+      "resumen": "Toyota reorganiza su producción regional sin abandonar México, mientras el gobierno busca enviar una señal de confianza a la industria.",
+      "link": "https://expansion.mx/economia/2026/07/07/toyota-se-va-tijuana-pero-no-mexico-secretaria-de-economia",
+      "fecha": "07 Jul 2026, 09:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras EU revisa el T-MEC, Taiwán y Vietnam ya superan a México en su déficit comercial",
+      "resumen": "Taiwán elevó 55% y Vietnam 29% su saldo negativo con EU entre enero y abril, mientras el de México disminuyó 2%, de acuerdo con datos de la Oficina del Censo.",
+      "link": "https://expansion.mx/economia/2026/07/07/taiwan-vietnam-desplazan-mexico-deficit-comercial-eu",
+      "fecha": "07 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banco del Bienestar aumenta su capital en 4,245 millones de pesos",
-      "resumen": "La Secretaría de Hacienda aprobó en el Diario Oficial de la Federación el fortalecimiento del capital social del banco y pasó de 18,538 millones de pesos a 22,783 millones.",
-      "link": "https://expansion.mx/economia/2026/07/04/banco-del-bienestar-aumenta-su-capital-en-4-245-millones-de-pesos",
-      "fecha": "04 Jul 2026, 12:34 hrs"
+      "titulo": "Gamesa, Sabritas y Turín: las 10 empresas mexicanas que ahora pertenecen a gigantes extranjeros",
+      "resumen": "Algunas nacieron en talleres pequeños, otras como empresas familiares; con los años crecieron, cambiaron de dueños y ahora forman parte de algunos de los grupos más grandes del mundo.",
+      "link": "https://expansion.mx/empresas/2026/07/07/10-marcas-mexicanas-que-cambiaron-de-propietario",
+      "fecha": "07 Jul 2026, 17:35 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda mantiene sin subsidio a la gasolina Premium; sube apoyo para Magna y diésel",
-      "resumen": "Además del estímulo general anunciado a la gasolina Magna y el diésel para la semana del 4 al 10 de julio, Hacienda no otorgará ningún apoyo adicional o complementario.",
-      "link": "https://expansion.mx/economia/2026/07/03/hacienda-mantiene-sin-subsidio-a-la-gasolina-premium-sube-apoyo-para-magna-y-diesel",
-      "fecha": "03 Jul 2026, 19:38 hrs"
+      "titulo": "¿Quién es el dueño de Kia? Hyundai la salvó de la bancarrota y hoy patrocina el Mundial 2026",
+      "resumen": "La relación con Hyundai cambió el rumbo de la empresa y abrió el camino para una expansión que hoy alcanza mercados de todo el mundo.",
+      "link": "https://expansion.mx/empresas/2026/07/07/quien-es-dueno-de-kia-hyundai-bancarrota",
+      "fecha": "07 Jul 2026, 16:09 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bancos evitarán fraudes con nueva regulación biométrica",
-      "resumen": "Entre enero y mayo de este año, se han registrado 34,325 quejas por fraudes a usuarios de la banca en México, por lo que la nueva regulación busca reducir este delito.",
-      "link": "https://expansion.mx/economia/2026/07/03/bancos-evitaran-fraudes-con-nueva-regulacion-biometrica",
-      "fecha": "03 Jul 2026, 18:58 hrs"
+      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
+      "link": "https://expansion.mx/empresas/2026/07/07/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "fecha": "07 Jul 2026, 12:18 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Por qué siguen creciendo los créditos hipotecarios aunque las tasas permanecen altas?",
-      "resumen": "El sector financiero prevé un repunte en dicho sector rumbo al cierre de 2026, revirtiendo la tendencia negativa de inicio de año.",
-      "link": "https://expansion.mx/economia/2026/07/03/por-que-siguen-creciendo-creditos-hipotecarios",
-      "fecha": "03 Jul 2026, 15:37 hrs"
+      "titulo": "Geely tiene 52 satélites en órbita: ¿por qué una automotriz china creó su propia constelación?",
+      "resumen": "Lo que comenzó como una apuesta de movilidad terminó llevando a la compañía a un terreno donde pocas marcas del sector tienen presencia.",
+      "link": "https://expansion.mx/empresas/2026/07/07/geely-52-satelites-orbita-por-que-creo-propia-constelacion",
+      "fecha": "07 Jul 2026, 12:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "TV Azteca es declarada oficialmente en concurso mercantil para reestructurar su deuda financiera",
+      "resumen": "La empresa tendrá hasta un año para negociar con sus acreedores bajo la supervisión de un conciliador, como parte de un proceso para reorganizar sus pasivos y fortalecer su estructura financiera.",
+      "link": "https://expansion.mx/empresas/2026/07/07/tv-azteca-es-declarada-oficialmente-concurso-mercantil",
+      "fecha": "07 Jul 2026, 11:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las revisiones anuales del T-MEC elevan la incertidumbre para la inversión energética",
+      "resumen": "La reforma energética de 2024 busca atraer capital privado, pero proyectos con horizontes de hasta 30 años dependerán de reglas sujetas a evaluación constante.",
+      "link": "https://expansion.mx/empresas/2026/07/07/las-revisiones-anuales-del-t-mec-elevan-la-incertidumbre-para-la-inversion-energetica",
+      "fecha": "07 Jul 2026, 05:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,130 +147,76 @@
       "fecha": "06 Jul 2026, 17:35 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cómo Geely pasó de fabricar refrigeradores a controlar Volvo, Lotus y participar en Mercedes-Benz y Aston Martin?",
-      "resumen": "Detrás de su ascenso hay una serie de movimientos que transformaron a una empresa local en uno de los grupos automotrices más influyentes del mundo.",
-      "link": "https://expansion.mx/empresas/2026/07/06/como-geely-paso-fabricar-refrigeradores-a-controlar-volvo",
-      "fecha": "06 Jul 2026, 17:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de la selección mexicana y cuál es el papel de los grandes empresarios?",
-      "resumen": "Derechos de transmisión, contratos millonarios y giras por EU mantienen al Tri como negocio clave, mientras la FMF y empresarios definen su futuro.",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-seleccion-mexicana-y-fmf",
-      "fecha": "06 Jul 2026, 16:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México tiene 48,000 talleres de carpintería y muchos ya cambian la sierra por máquinas gracias a las remodelaciones",
-      "resumen": "La adquisición de cocinas integrales, mobiliario para salas y recámaras, así como los proyectos de remodelación e interiorismo, han generado oportunidades para los talleres.",
-      "link": "https://expansion.mx/empresas/2026/07/06/talleres-de-carpinteria-cambian-sierra-por-maquinas",
-      "fecha": "06 Jul 2026, 16:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana de Aviación estrena ruta del AIFA a Chiapas",
-      "resumen": "Los turistas y personas que por diversos motivos tengan que viajar a Tuxtla Gutiérrez, Chiapas, tendrán una opción de viaje desde el AIFA.",
-      "link": "https://expansion.mx/empresas/2026/07/06/mexicana-de-aviacion-estrena-ruta-aifa-chiapas",
-      "fecha": "06 Jul 2026, 16:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen prepara el mayor recorte de personal del año, por encima de Amazon, Oracle y Meta",
-      "resumen": "El fabricante alemán prepara el mayor recorte corporativo reciente con 100,000 empleos, reflejo de una industria automotriz occidental que pierde competitividad frente a fabricantes chinos.",
-      "link": "https://expansion.mx/empresas/2026/07/06/volkswagen-despedira-mas-trabajadores-meta-y-amazon",
-      "fecha": "06 Jul 2026, 16:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "resumen": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-petrolera-mundial-2026",
-      "fecha": "06 Jul 2026, 15:39 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ordena Trump  suspender comercio  de EU con España",
+      "resumen": "Presidente Trump ordenó la suspensión inmediata de todo comercio con España, ante tensiones en torno al gasto en defensa y guerra en Irán.",
+      "link": "https://www.reforma.com/ordena-trump-suspender-comercio-de-eu-con-espana/ar3236507",
+      "fecha": "08 Jul 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firman CFE y Polaris contrato mixto para tres centrales",
-      "resumen": "Polaris anunció que invertirá más de 200 millones de dólares en la construcción de tres centrales eléctricas en asociación con CFE.",
-      "link": "https://www.reforma.com/firman-cfe-y-polaris-contrato-mixto-para-tres-centrales/ar3236130",
-      "fecha": "07 Jul 2026, 15:30 hrs"
+      "titulo": "Rebaja FMI perspectiva de crecimiento de México  a 1.2%",
+      "resumen": "El FMI recortó su previsión de crecimiento para la economía mexicana este año desde el 1.6% estimado en abril pasado a 1.2%.",
+      "link": "https://www.reforma.com/rebaja-fmi-perspectiva-de-crecimiento-de-mexico-a-1-2/ar3236515",
+      "fecha": "08 Jul 2026, 07:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Entran inversionistas de TV Azteca a incertidumbre",
-      "resumen": "Concurso mercantil de TV Azteca no implica quiebra de la empresa sino la apertura judicial para negociar con acreedores, señaló AMEDI.",
-      "link": "https://www.reforma.com/entran-inversionistas-de-tv-azteca-a-incertidumbre/ar3236254",
-      "fecha": "07 Jul 2026, 17:53 hrs"
+      "titulo": "Aviva Toyota temores sobre la industria automotriz mexicana",
+      "resumen": "Crece temor de que se produzcan más anuncios como el de Toyota, mientras se desvanece esperanza de la reducción de aranceles de EU a México.",
+      "link": "https://www.reforma.com/aviva-toyota-temores-sobre-la-industria-automotriz-mexicana/ar3236546",
+      "fecha": "08 Jul 2026, 08:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan proveedores de Pemex que se agotó fondo para pagarles",
-      "resumen": "El fondo de Banobras para cubrir los adeudos de Pemex a proveedores de 2025 ya se agotó y no incluyó los trabajos de 2024, señaló Amespac.",
-      "link": "https://www.reforma.com/acusan-proveedores-de-pemex-que-se-agoto-fondo-para-pagarles/ar3236193",
-      "fecha": "07 Jul 2026, 17:53 hrs"
+      "titulo": "Supera crudo Brent los 80 dólares",
+      "resumen": "El barril de Brent subía cerca de 8% hasta los 80.12 dólares, luego que el Presidente Trump afirmara que el cese al fuego con Irán terminó.",
+      "link": "https://www.reforma.com/supera-crudo-brent-los-80-dolares/ar3236598",
+      "fecha": "08 Jul 2026, 10:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipa SE inversión de más de 500 mdd en sector automotriz",
-      "resumen": "La SE anunció que una empresa automotriz invertirá 500 millones de dólares en México; dará más información en próximos días.",
-      "link": "https://www.reforma.com/anticipa-se-inversion-de-mas-de-500-mdd-en-sector-automotriz/ar3235882",
-      "fecha": "07 Jul 2026, 08:54 hrs"
+      "titulo": "Sacude a mercados nuevos ataques entre EU e Irán",
+      "resumen": "En las primeras operaciones, el Dow Jones bajaba 488 puntos, o un 0.9%; el S&amp;P 500 descendía un 0.6%, y el Nasdaq Composite perdía un 0.4%.",
+      "link": "https://www.reforma.com/sacude-a-mercados-nuevos-ataques-entre-eu-e-iran/ar3236527",
+      "fecha": "08 Jul 2026, 08:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Califican de reconfiguración  salida de Toyota",
-      "resumen": "Mudanza de producción del modelo Tacoma a Texas no representa una salida del mercado mexicano, sino una reconfiguración, señaló INA.",
-      "link": "https://www.reforma.com/califican-de-reconfiguracion-salida-de-toyota/ar3236121",
-      "fecha": "07 Jul 2026, 15:17 hrs"
+      "titulo": "Piden en EU castigar aguacate mexicano",
+      "resumen": "Aguacateros estadounidenses acusaron que industria del aguacate en México es controlada por cárteles del narcotráfico y debe castigarse.",
+      "link": "https://www.reforma.com/piden-en-eu-castigar-aguacate-mexicano/ar3236401",
+      "fecha": "08 Jul 2026, 06:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen grupos aeroportuarios;  decepcionan cifras de junio",
-      "resumen": "Acciones de grupos aeroportuarios encabezaron las bajas en la BMV tras reportar cifras decepcionantes para junio en el tráfico de pasajeros.",
-      "link": "https://www.reforma.com/caen-grupos-aeroportuarios-decepcionan-cifras-de-junio/ar3236157",
-      "fecha": "07 Jul 2026, 16:02 hrs"
+      "titulo": "Triplica Pemex  déficit comercial",
+      "resumen": "En los primeros cinco meses del año, Pemex casi triplicó su déficit comercial al alcanzar los mil 110.1 millones de dólares.",
+      "link": "https://www.reforma.com/triplica-pemex-deficit-comercial/ar3236395",
+      "fecha": "08 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé SICT que sanciones de EU se retiren antes del invierno",
-      "resumen": "SICT confía en que sanciones impuestas por EU a las aerolíneas mexicanas serán retiradas antes de que inicie la temporada invernal.",
-      "link": "https://www.reforma.com/preve-sict-que-sanciones-de-eu-se-retiren-antes-del-invierno/ar3236155",
-      "fecha": "07 Jul 2026, 16:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Realiza Profeco 669 visitas de verificación en el Mundial",
-      "resumen": "Profeco realizó 669 visitas de verificación y 902 acciones de vigilancia a proveedores de bienes y prestadores de servicio en el Mundial.",
-      "link": "https://www.reforma.com/realiza-profeco-669-visitas-de-verificacion-en-el-mundial/ar3236041",
-      "fecha": "07 Jul 2026, 13:50 hrs"
+      "titulo": "Desincentiva Ley minera inversiones en México",
+      "resumen": "México tiene una oportunidad para atraer inversiones en proyectos de minerales críticos, la Ley Minera de 2023 ha debilitado al sector.",
+      "link": "https://www.reforma.com/desincentiva-ley-minera-inversiones-en-mexico/ar3236406",
+      "fecha": "08 Jul 2026, 06:59 hrs"
     }
   ]
 }
