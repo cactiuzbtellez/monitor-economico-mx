@@ -1,7 +1,16 @@
 {
-  "actualizado": "09/07/2026 09:24 hrs",
+  "actualizado": "09/07/2026 11:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Scott Thomson, CEO global de Scotiabank: \"Queremos ser el banco del T-MEC\"",
+      "resumen": "La institución financiera canadiense ve en el corredor de Norteamérica un espacio único de crecimiento: entre sus fronteras se mueven de 1.6 a 2 billones de dólares al año.",
+      "link": "https://expansion.mx/economia/2026/07/09/scott-thomson-ceo-scotiabank-banco-tmec",
+      "fecha": "09 Jul 2026, 05:30 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El secretario de Economía, Marcelo Ebrard, atribuye el buen desempeño a la fortaleza de las cadenas productivas entre México y Estados Unidos.",
       "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
       "fecha": "07 Jul 2026, 14:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México recupera lugar en el top 10 de la IED mundial, aunque el nearshoring pierde brillo",
-      "resumen": "Pese al crecimiento de la inversión extranjera, la UNCTAD considera que la incertidumbre comercial sigue frenando decisiones de inversión en nuevas plantas en el país.",
-      "link": "https://expansion.mx/economia/2026/07/07/mexico-inversion-extranjera-nearshoring-unctad",
-      "fecha": "07 Jul 2026, 11:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Persistirá en PIB brecha negativa pese a expansión económica",
+      "resumen": "Pese a la expansión esperada en la actividad económica en el segundo trimestre, la brecha del producto, seguirá negativa, dijo Banxico.",
+      "link": "https://www.reforma.com/persistira-en-pib-brecha-negativa-pese-a-expansion-economica/ar3237355",
+      "fecha": "09 Jul 2026, 10:49 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Desacelera inflación de México a 3.37% en junio",
       "resumen": "El Índice Nacional de Precios al Consumidor desaceleró en junio por tercer mes consecutivo, a 3.37%, su menor nivel desde diciembre de 2020.",
       "link": "https://www.reforma.com/desacelera-inflacion-de-mexico-a-3-37-en-junio/ar3237248",
@@ -159,7 +168,7 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dejarían de producir  más autos en México",
+      "titulo": "Dejarían de producir más autos en México",
       "resumen": "Aparte de Toyota, más automotrices evaluarían dejar el armado de modelos en México ante la incertidumbre en su relación comercial con EU.",
       "link": "https://www.reforma.com/dejarian-de-producir-mas-autos-en-mexico/ar3237137",
       "fecha": "09 Jul 2026, 07:03 hrs"
@@ -171,15 +180,6 @@
       "titulo": "Lideran en impago créditos personales",
       "resumen": "En los créditos al consumo, los préstamos personales son el segmento de cartera con el mayor nivel de impagos, reveló Banxico.",
       "link": "https://www.reforma.com/lideran-en-impago-creditos-personales/ar3237122",
-      "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Avanza nuevo acuerdo México-UE",
-      "resumen": "El Parlamento Europeo aprobó la modernización del Tratado de Libre Comercio entre México y la Unión Europea (TLCUEM).",
-      "link": "https://www.reforma.com/avanza-nuevo-acuerdo-mexico-ue/ar3237130",
       "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invertirán Mercado Libre y Panasonic en Escobedo",
-      "resumen": "Dos empresas globales invertirán en el municipio de Escobedo; una de ellas se trata de la argentina Mercado Libre.",
-      "link": "https://www.reforma.com/invertiran-mercado-libre-y-panasonic-en-escobedo/ar3237138",
-      "fecha": "09 Jul 2026, 07:03 hrs"
+      "titulo": "Coloca Grupo Peña Verde 1,000 mdp en Certificados Bursátiles",
+      "resumen": "Grupo Peña Verde celebró campanazo en la BMV con motivo de su primera colocación de Certificados Bursátiles por mil millones de pesos.",
+      "link": "https://www.reforma.com/coloca-grupo-pena-verde-1-000-mdp-en-certificados-bursatiles/ar3237392",
+      "fecha": "09 Jul 2026, 11:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen coordinación  contra huachicol fiscal",
-      "resumen": "Se debe reforzar la cooperación entre autoridades fiscales, energía, militares, seguridad y aduaneras para combatir el huachicol fiscal.",
-      "link": "https://www.reforma.com/urgen-coordinacion-contra-huachicol-fiscal/ar3237117",
-      "fecha": "09 Jul 2026, 05:02 hrs"
+      "titulo": "Invertirán Mercado Libre y Panasonic en Escobedo",
+      "resumen": "Dos empresas globales invertirán en el municipio de Escobedo; una de ellas se trata de la argentina Mercado Libre.",
+      "link": "https://www.reforma.com/invertiran-mercado-libre-y-panasonic-en-escobedo/ar3237138",
+      "fecha": "09 Jul 2026, 07:03 hrs"
     }
   ]
 }
