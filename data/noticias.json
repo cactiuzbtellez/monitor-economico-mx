@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/07/2026 05:57 hrs",
+  "actualizado": "09/07/2026 09:24 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Las 3 empresas argentinas que conquistan México: una vende 124,000 millones y emplea a 35,000 personas",
+      "resumen": "Estas empresas argentinas encontraron en México un mercado clave para crecer: operan en comercio digital, turismo, consumo e infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/08/las-3-empresas-argentinas-que-conquistan-mexico",
+      "fecha": "08 Jul 2026, 18:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo Bimbo suma 500,000 hectáreas bajo agricultura regenerativa",
+      "resumen": "En el marco del Día Internacional de la Conservación de Suelo, la panificadora avanza en el compromiso de que sus ingredientes provengan de prácticas más amigables con el medio ambiente.",
+      "link": "https://expansion.mx/empresas/2026/07/08/grupo-bimbo-suma-500-000-hectareas-bajo-agricultura-regenerativa",
+      "fecha": "08 Jul 2026, 18:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Ni tan autosuficientes, México importa 23% más gasolinas en mayo",
       "resumen": "Las importaciones de gasolina repuntaron 23.1% en mayo por mayores compras de Pemex, en medio de caídas en la refinación nacional, subsidios al combustible y una elevada dependencia de mercados extern…",
       "link": "https://expansion.mx/empresas/2026/07/08/importacion-de-gasolina-aumenta-23-en-mayo",
@@ -129,22 +147,22 @@
       "fecha": "07 Jul 2026, 17:35 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Kia? Hyundai la salvó de la bancarrota y hoy patrocina el Mundial 2026",
-      "resumen": "La relación con Hyundai cambió el rumbo de la empresa y abrió el camino para una expansión que hoy alcanza mercados de todo el mundo.",
-      "link": "https://expansion.mx/empresas/2026/07/07/quien-es-dueno-de-kia-hyundai-bancarrota",
-      "fecha": "07 Jul 2026, 16:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Desacelera inflación de México a 3.37% en junio",
+      "resumen": "El Índice Nacional de Precios al Consumidor desaceleró en junio por tercer mes consecutivo, a 3.37%, su menor nivel desde diciembre de 2020.",
+      "link": "https://www.reforma.com/desacelera-inflacion-de-mexico-a-3-37-en-junio/ar3237248",
+      "fecha": "09 Jul 2026, 07:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
-      "link": "https://expansion.mx/empresas/2026/07/07/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "fecha": "07 Jul 2026, 12:18 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dejarían de producir  más autos en México",
+      "resumen": "Aparte de Toyota, más automotrices evaluarían dejar el armado de modelos en México ante la incertidumbre en su relación comercial con EU.",
+      "link": "https://www.reforma.com/dejarian-de-producir-mas-autos-en-mexico/ar3237137",
+      "fecha": "09 Jul 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
@@ -153,15 +171,6 @@
       "titulo": "Lideran en impago créditos personales",
       "resumen": "En los créditos al consumo, los préstamos personales son el segmento de cartera con el mayor nivel de impagos, reveló Banxico.",
       "link": "https://www.reforma.com/lideran-en-impago-creditos-personales/ar3237122",
-      "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen coordinación contra huachicol fiscal",
-      "resumen": "Se debe reforzar la cooperación entre autoridades fiscales, energía, militares, seguridad y aduaneras para combatir el huachicol fiscal.",
-      "link": "https://www.reforma.com/urgen-coordinacion-contra-huachicol-fiscal/ar3237117",
       "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
@@ -177,46 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reciben más remesas hombres que mujeres",
-      "resumen": "En la recepción de remesas, los hombres siguen estando por arriba de las mujeres tanto en méxico como EU, reveló Cemla.",
-      "link": "https://www.reforma.com/reciben-mas-remesas-hombres-que-mujeres/ar3237110",
+      "titulo": "Da Senasica 'respiro' a engordas de NL",
+      "resumen": "Luego de 7 meses sin poder recibir ganado del sureste por el gusano barrenador, el Senasica quitó esa restricción a las engordas de NL.",
+      "link": "https://www.reforma.com/da-senasica-respiro-a-engordas-de-nl/ar3237139",
+      "fecha": "09 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Opera crudo con leve ganancia tras ataques de EU contra Irán",
+      "resumen": "Los futuros del crudo Brent subían 53 centavos, a 78.55 dólares por barril, mientras que el barril de West Texas cotizaba en 73.87 dólares.",
+      "link": "https://www.reforma.com/opera-crudo-con-leve-ganancia-tras-ataques-de-eu-contra-iran/ar3237230",
+      "fecha": "09 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invertirán Mercado Libre y Panasonic en Escobedo",
+      "resumen": "Dos empresas globales invertirán en el municipio de Escobedo; una de ellas se trata de la argentina Mercado Libre.",
+      "link": "https://www.reforma.com/invertiran-mercado-libre-y-panasonic-en-escobedo/ar3237138",
+      "fecha": "09 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen coordinación  contra huachicol fiscal",
+      "resumen": "Se debe reforzar la cooperación entre autoridades fiscales, energía, militares, seguridad y aduaneras para combatir el huachicol fiscal.",
+      "link": "https://www.reforma.com/urgen-coordinacion-contra-huachicol-fiscal/ar3237117",
       "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supervisa CNA ejes regionales",
-      "resumen": "Siete de cada 10 concentraciones de empresas analizadas por la CNA  involucran agentes económicos con capital extranjero de EU y Canadá.",
-      "link": "https://www.reforma.com/supervisa-cna-ejes-regionales/ar3237093",
-      "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca Mexicana ampliar rutas",
-      "resumen": "Mexicana de Aviación busca ampliar su red de conectividad con la incorporación de nuevas aeronaves Embraer y rutas hacia Chiapas y Sonora.",
-      "link": "https://www.reforma.com/busca-mexicana-ampliar-rutas/ar3237090",
-      "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firman CFE y Polaris contrato mixto para tres centrales",
-      "resumen": "Polaris anunció que invertirá más de 200 millones de dólares en la construcción de tres centrales eléctricas en asociación con CFE.",
-      "link": "https://www.reforma.com/firman-cfe-y-polaris-contrato-mixto-para-tres-centrales/ar3236130",
-      "fecha": "07 Jul 2026, 15:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Entran inversionistas de TV Azteca a incertidumbre",
-      "resumen": "Concurso mercantil de TV Azteca no implica quiebra de la empresa sino la apertura judicial para negociar con acreedores, señaló AMEDI.",
-      "link": "https://www.reforma.com/entran-inversionistas-de-tv-azteca-a-incertidumbre/ar3236254",
-      "fecha": "07 Jul 2026, 17:53 hrs"
     }
   ]
 }
