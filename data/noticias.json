@@ -1,5 +1,5 @@
 {
-  "actualizado": "08/07/2026 16:04 hrs",
+  "actualizado": "08/07/2026 18:08 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Ni tan autosuficientes, México importa 23% más gasolinas en mayo",
+      "resumen": "Las importaciones de gasolina repuntaron 23.1% en mayo por mayores compras de Pemex, en medio de caídas en la refinación nacional, subsidios al combustible y una elevada dependencia de mercados extern…",
+      "link": "https://expansion.mx/empresas/2026/07/08/importacion-de-gasolina-aumenta-23-en-mayo",
+      "fecha": "08 Jul 2026, 17:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así son los vehículos tipo Olinia que ya se venden en Europa, Estados Unidos y Japón",
+      "resumen": "Velocidades reducidas, dimensiones compactas y normas especiales han permitido el desarrollo de una categoría de transporte que hoy mueve a miles de personas en distintos países.",
+      "link": "https://expansion.mx/empresas/2026/07/08/honda-super-one-autos-primos-olinia",
+      "fecha": "08 Jul 2026, 17:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
       "resumen": "La Sener asegura que México tiene capacidad suficiente para cubrir la demanda eléctrica, pero reconoce que el principal desafío está en fortalecer las redes de transmisión y distribución mediante nuev…",
       "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
@@ -129,58 +147,58 @@
       "fecha": "07 Jul 2026, 12:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely tiene 52 satélites en órbita: ¿por qué una automotriz china creó su propia constelación?",
-      "resumen": "Lo que comenzó como una apuesta de movilidad terminó llevando a la compañía a un terreno donde pocas marcas del sector tienen presencia.",
-      "link": "https://expansion.mx/empresas/2026/07/07/geely-52-satelites-orbita-por-que-creo-propia-constelacion",
-      "fecha": "07 Jul 2026, 12:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "TV Azteca es declarada oficialmente en concurso mercantil para reestructurar su deuda financiera",
-      "resumen": "La empresa tendrá hasta un año para negociar con sus acreedores bajo la supervisión de un conciliador, como parte de un proceso para reorganizar sus pasivos y fortalecer su estructura financiera.",
-      "link": "https://expansion.mx/empresas/2026/07/07/tv-azteca-es-declarada-oficialmente-concurso-mercantil",
-      "fecha": "07 Jul 2026, 11:51 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Solicita IP excluir a México de arancel por trabajo forzoso",
+      "resumen": "CCE, Index y Concamin, solicitaron al Representante Comercial de EU que excluya a México de la aplicación de un arancel por trabajo forzoso.",
+      "link": "https://www.reforma.com/solicita-ip-excluir-a-mexico-de-arancel-por-trabajo-forzoso/ar3236968",
+      "fecha": "08 Jul 2026, 18:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Liga 8 bajas mensuales registros de patrones ante el IMSS",
-      "resumen": "En junio, los registros patronales disminuyeron 26 mil 536, lo que representó su octava baja mensual al hilo, revelan datos del IMSS.",
-      "link": "https://www.reforma.com/liga-8-bajas-mensuales-registros-de-patrones-ante-el-imss/ar3236867",
+      "titulo": "Prevén crezca mercado gasolinero 15%",
+      "resumen": "Al terminar el año, el sector gasolinero mexicano podría crecer a un récord de 15 por ciento, estimó QuaEnergy Consulting.",
+      "link": "https://www.reforma.com/preven-crezca-mercado-gasolinero-15/ar3236897",
+      "fecha": "08 Jul 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acumula 8 meses a la baja registro de patrones ante el IMSS",
+      "resumen": "La afiliación de patrones ante el IMSS ligó 8 meses con bajas mensuales, mientras que a tasa anual sufrió una disminución de 26 mil 536.",
+      "link": "https://www.reforma.com/acumula-8-meses-a-la-baja-registro-de-patrones-ante-el-imss/ar3236867",
       "fecha": "08 Jul 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca SE reducir incertidumbre por revisiones del T-MEC",
-      "resumen": "En su visita a Washington, el Secretario de Economía, Marcelo Ebrard, determinará el proceso de revisión del T-MEC y reducir incertidumbre.",
-      "link": "https://www.reforma.com/busca-se-reducir-incertidumbre-por-revisiones-del-t-mec/ar3236681",
-      "fecha": "08 Jul 2026, 12:10 hrs"
+      "titulo": "Construirá Meta su primer centro de datos en Canadá",
+      "resumen": "Meta Platforms informó que invertirá unos 10 mmdd para construir su primer centro de datos en Canadá, en el condado de Sturgeon (Alberta).",
+      "link": "https://www.reforma.com/construira-meta-su-primer-centro-de-datos-en-canada/ar3236840",
+      "fecha": "08 Jul 2026, 14:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Encaminan a incumplir reglas de origen",
-      "resumen": "Reglas de origen más estrictas en el T-MEC complicarían su cumplimiento y favorecerían a competidores, según IQOM Inteligencia Comercial.",
-      "link": "https://www.reforma.com/encaminan-a-incumplir-reglas-de-origen/ar3236752",
-      "fecha": "08 Jul 2026, 14:52 hrs"
+      "titulo": "Tiene Wall Street cierre mixto: caen S&amp;P 500 y Dow Jones",
+      "resumen": "El Dow Jones cedió un 1.12% y el S&amp;P 500 un 0.30%,mientras que el Nasdaq avanzó un 0.19%.",
+      "link": "https://www.reforma.com/tiene-wall-street-cierre-mixto-caen-s-p-500-y-dow-jones/ar3236826",
+      "fecha": "08 Jul 2026, 14:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "La reconfiguración de la Tacoma de Toyota",
-      "resumen": "Las ventas de la camioneta Tacoma subieron 9.9% en EU en el primer semestre y representaron el 88% de la producción de Toyota en México.",
-      "link": "https://www.reforma.com/la-reconfiguracion-de-la-tacoma-de-toyota/ar3236674",
-      "fecha": "08 Jul 2026, 12:51 hrs"
+      "titulo": "Cierran acciones de SpaceX por debajo de su precio de OPI",
+      "resumen": "Las acciones de SpaceX cayeron un 0.78% y cerraron a 148 dólares, por debajo del precio inicial de cotización, que fue de 150 dólares.",
+      "link": "https://www.reforma.com/cierran-acciones-de-spacex-por-debajo-de-su-precio-de-opi/ar3236814",
+      "fecha": "08 Jul 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Modera crudo Brent avance y cierra en 78.02 dólares",
-      "resumen": "El crudo Brent subió 5.2% a 78.02 dólares, tras superar en la sesión los 80 dólares por barril; el WTI ganó 4.37% y cerró en 73.52 dólares.",
-      "link": "https://www.reforma.com/modera-crudo-brent-avance-y-cierra-en-78-02-dolares/ar3236598",
-      "fecha": "08 Jul 2026, 10:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ordena Trump suspender comercio  de EU con España",
-      "resumen": "Presidente Trump ordenó la suspensión inmediata de todo comercio con España, ante tensiones en torno al gasto en defensa y guerra en Irán.",
-      "link": "https://www.reforma.com/ordena-trump-suspender-comercio-de-eu-con-espana/ar3236507",
-      "fecha": "08 Jul 2026, 07:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "'Queda a deber' Mundial 15 mil mdp en derrama económica",
-      "resumen": "El Mundial ha conseguido una derrama económica de entre 45 mil y 50 mil mdp, pero la meta era de 65 mil mdp, dijo la Concanaco.",
-      "link": "https://www.reforma.com/queda-a-deber-mundial-15-mil-mdp-en-derrama-economica/ar3236706",
-      "fecha": "08 Jul 2026, 12:33 hrs"
+      "titulo": "Encaminan a incumplir reglas de origen",
+      "resumen": "Reglas de origen más estrictas en el T-MEC complicarían su cumplimiento y favorecerían a competidores, según IQOM Inteligencia Comercial.",
+      "link": "https://www.reforma.com/encaminan-a-incumplir-reglas-de-origen/ar3236752",
+      "fecha": "08 Jul 2026, 14:52 hrs"
     }
   ]
 }
