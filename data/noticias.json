@@ -1,7 +1,43 @@
 {
-  "actualizado": "09/07/2026 11:55 hrs",
+  "actualizado": "09/07/2026 13:48 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fraudes aumentan 17% y la Condusef firma acuerdo con la UIF para prevenirlo",
+      "resumen": "Con base en las denuncias que reciba la Condusef sobre fraudes, la UIF trabajará en el análisis de la información que le permita identificar el origen de estos delitos.",
+      "link": "https://expansion.mx/economia/2026/07/09/fraudes-aumentan-17-y-la-condusef-firma-acuerdo-con-la-uif-para-prevenirlo",
+      "fecha": "09 Jul 2026, 13:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico advierte resistencia en inflación de servicios; si no mejora, podrá hacer nuevo ajuste a tasa",
+      "resumen": "La Junta de Gobierno destacó que la inflación en servicios no da señales claras de reversión debido a presiones estructurales de costos laborales y a una mayor demanda de servicios turísticos.",
+      "link": "https://expansion.mx/economia/2026/07/09/banxico-advierte-resistencia-en-inflacion-de-servicios",
+      "fecha": "09 Jul 2026, 12:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación baja a 3.37% en junio por desplome del jitomate, huevo y chiles",
+      "resumen": "La inflación sorprendió a la baja frente a lo esperado por analistas. El alivio vino de frutas, verduras y productos agropecuarios, aunque servicios y alimentos procesados aún reflejan presiones.",
+      "link": "https://expansion.mx/economia/2026/07/09/inflacion-baja-a-3-37-en-junio-por-desplome-del-jitomate-huevo-y-chiles",
+      "fecha": "09 Jul 2026, 06:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El 'Súper Niño' amenaza con presionar la inflación de alimentos hacia 2027",
+      "resumen": "Analistas prevén que el fenómeno climático presione los precios agropecuarios y prolongue la convergencia de la inflación hacia el 3%, pese al alivio observado en mayo.",
+      "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
+      "fecha": "09 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,42 +73,6 @@
       "resumen": "El tratado renovado eliminará casi todos los aranceles pendientes y ampliará el acceso a mercados para empresas de ambos lados.",
       "link": "https://expansion.mx/economia/2026/07/08/parlamento-europeo-aprueba-acuerdo-modernizado-mexico",
       "fecha": "08 Jul 2026, 12:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
-      "resumen": "La reunión del 20 de julio en México definirá avances en aranceles, reglas de origen y otros temas clave con Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
-      "fecha": "08 Jul 2026, 09:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "FMI rebaja su previsión de crecimiento para México a 1.2% en 2026",
-      "resumen": "\"En México, se proyecta que el crecimiento se acelere de forma moderada en medio de políticas internas menos restrictivas, pero la incertidumbre seguirá limitando la actividad\", indicó el Fondo.",
-      "link": "https://expansion.mx/economia/2026/07/08/fmi-rebaja-su-prevision-de-crecimiento-para-mexico-a-1-2-en-2026",
-      "fecha": "08 Jul 2026, 09:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Del TLCAN al T-MEC: así se transformó la economía mexicana",
-      "resumen": "La apertura comercial desplazó al petróleo como motor exportador e integró al país en las cadenas de valor regionales, aunque el crecimiento y la productividad siguen rezagados.",
-      "link": "https://expansion.mx/economia/2026/07/08/tlcan-t-mec-transformacion-economia-mexicana",
-      "fecha": "08 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México exporta 242,903 mdd a EU entre enero y mayo; mantiene máximos pese a incertidumbre",
-      "resumen": "El secretario de Economía, Marcelo Ebrard, atribuye el buen desempeño a la fortaleza de las cadenas productivas entre México y Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/07/mexico-exportaciones-estados-unidos-record-2026",
-      "fecha": "07 Jul 2026, 14:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,6 +168,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Amenaza revisión del T-MEC ritmo de parques industriales",
+      "resumen": "Ante la revisión del T-MEC, el sector de los parques industriales verá afectado sus planes de expansión, según AMPIP.",
+      "link": "https://www.reforma.com/amenaza-revision-del-t-mec-ritmo-de-parques-industriales/ar3237439",
+      "fecha": "09 Jul 2026, 12:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dejarían de producir más autos en México",
       "resumen": "Aparte de Toyota, más automotrices evaluarían dejar el armado de modelos en México ante la incertidumbre en su relación comercial con EU.",
       "link": "https://www.reforma.com/dejarian-de-producir-mas-autos-en-mexico/ar3237137",
@@ -181,15 +190,6 @@
       "resumen": "En los créditos al consumo, los préstamos personales son el segmento de cartera con el mayor nivel de impagos, reveló Banxico.",
       "link": "https://www.reforma.com/lideran-en-impago-creditos-personales/ar3237122",
       "fecha": "09 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Da Senasica 'respiro' a engordas de NL",
-      "resumen": "Luego de 7 meses sin poder recibir ganado del sureste por el gusano barrenador, el Senasica quitó esa restricción a las engordas de NL.",
-      "link": "https://www.reforma.com/da-senasica-respiro-a-engordas-de-nl/ar3237139",
-      "fecha": "09 Jul 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
