@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/07/2026 02:32 hrs",
+  "actualizado": "09/07/2026 05:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Ni tan autosuficientes, México importa 23% más gasolinas en mayo",
+      "resumen": "Las importaciones de gasolina repuntaron 23.1% en mayo por mayores compras de Pemex, en medio de caídas en la refinación nacional, subsidios al combustible y una elevada dependencia de mercados extern…",
+      "link": "https://expansion.mx/empresas/2026/07/08/importacion-de-gasolina-aumenta-23-en-mayo",
+      "fecha": "08 Jul 2026, 17:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así son los vehículos tipo Olinia que ya se venden en Europa, Estados Unidos y Japón",
+      "resumen": "Velocidades reducidas, dimensiones compactas y normas especiales han permitido el desarrollo de una categoría de transporte que hoy mueve a miles de personas en distintos países.",
+      "link": "https://expansion.mx/empresas/2026/07/08/honda-super-one-autos-primos-olinia",
+      "fecha": "08 Jul 2026, 17:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
+      "resumen": "La Sener asegura que México tiene capacidad suficiente para cubrir la demanda eléctrica, pero reconoce que el principal desafío está en fortalecer las redes de transmisión y distribución mediante nuev…",
+      "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
+      "fecha": "08 Jul 2026, 15:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liga MX, NFL y conciertos: el plan del Estadio Azteca para pagar su deuda millonaria con Banorte desde 2027",
+      "resumen": "Después de ser sede mundialista, el Estadio Azteca enfrenta su mayor reto: transformar la inversión de la remodelación en un activo rentable durante los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/07/08/plan-estadio-azteca-para-pagar-deuda-millonaria-con-banorte",
+      "fecha": "08 Jul 2026, 15:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La planta de Toyota en Baja California, de símbolo del TLCAN a operación bajo revisión en la nueva era del T-MEC",
       "resumen": "Construida bajo la lógica del TLCAN, la planta de Toyota en Tijuana creció junto con la demanda de la Tacoma. Dos décadas después, la nueva política comercial de Estados Unidos vuelve incierto su futu…",
       "link": "https://expansion.mx/empresas/2026/07/08/planta-toyota-baja-california-de-simbolo-del-tlcan-a-cerrar",
@@ -111,112 +147,76 @@
       "fecha": "07 Jul 2026, 12:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely tiene 52 satélites en órbita: ¿por qué una automotriz china creó su propia constelación?",
-      "resumen": "Lo que comenzó como una apuesta de movilidad terminó llevando a la compañía a un terreno donde pocas marcas del sector tienen presencia.",
-      "link": "https://expansion.mx/empresas/2026/07/07/geely-52-satelites-orbita-por-que-creo-propia-constelacion",
-      "fecha": "07 Jul 2026, 12:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "TV Azteca es declarada oficialmente en concurso mercantil para reestructurar su deuda financiera",
-      "resumen": "La empresa tendrá hasta un año para negociar con sus acreedores bajo la supervisión de un conciliador, como parte de un proceso para reorganizar sus pasivos y fortalecer su estructura financiera.",
-      "link": "https://expansion.mx/empresas/2026/07/07/tv-azteca-es-declarada-oficialmente-concurso-mercantil",
-      "fecha": "07 Jul 2026, 11:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las revisiones anuales del T-MEC elevan la incertidumbre para la inversión energética",
-      "resumen": "La reforma energética de 2024 busca atraer capital privado, pero proyectos con horizontes de hasta 30 años dependerán de reglas sujetas a evaluación constante.",
-      "link": "https://expansion.mx/empresas/2026/07/07/las-revisiones-anuales-del-t-mec-elevan-la-incertidumbre-para-la-inversion-energetica",
-      "fecha": "07 Jul 2026, 05:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Toyota trasladará producción de Tacoma de México a Texas",
-      "resumen": "La empresa precisó que el traslado de la producción de Tacoma desde Baja California hacia San Antonio se realizará durante los próximos cuatro años.",
-      "link": "https://expansion.mx/empresas/2026/07/06/toyota-trasladara-produccion-tacoma-de-mexico-a-texas",
-      "fecha": "06 Jul 2026, 19:10 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lideran en impago créditos personales",
+      "resumen": "En los créditos al consumo, los préstamos personales son el segmento de cartera con el mayor nivel de impagos, reveló Banxico.",
+      "link": "https://www.reforma.com/lideran-en-impago-creditos-personales/ar3237122",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Solicita IP excluir a México de arancel por trabajo forzoso",
-      "resumen": "CCE, Index y Concamin, solicitaron al Representante Comercial de EU que excluya a México de la aplicación de un arancel por trabajo forzoso.",
-      "link": "https://www.reforma.com/solicita-ip-excluir-a-mexico-de-arancel-por-trabajo-forzoso/ar3236968",
-      "fecha": "08 Jul 2026, 18:02 hrs"
+      "titulo": "Urgen coordinación contra huachicol fiscal",
+      "resumen": "Se debe reforzar la cooperación entre autoridades fiscales, energía, militares, seguridad y aduaneras para combatir el huachicol fiscal.",
+      "link": "https://www.reforma.com/urgen-coordinacion-contra-huachicol-fiscal/ar3237117",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén crezca mercado gasolinero 15%",
-      "resumen": "Al terminar el año, el sector gasolinero mexicano podría crecer a un récord de 15 por ciento, estimó QuaEnergy Consulting.",
-      "link": "https://www.reforma.com/preven-crezca-mercado-gasolinero-15/ar3236897",
-      "fecha": "08 Jul 2026, 17:47 hrs"
+      "titulo": "Avanza nuevo acuerdo México-UE",
+      "resumen": "El Parlamento Europeo aprobó la modernización del Tratado de Libre Comercio entre México y la Unión Europea (TLCUEM).",
+      "link": "https://www.reforma.com/avanza-nuevo-acuerdo-mexico-ue/ar3237130",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acumula 8 meses a la baja registro de patrones ante el IMSS",
-      "resumen": "La afiliación de patrones ante el IMSS ligó 8 meses con bajas mensuales, mientras que a tasa anual sufrió una disminución de 26 mil 536.",
-      "link": "https://www.reforma.com/acumula-8-meses-a-la-baja-registro-de-patrones-ante-el-imss/ar3236867",
-      "fecha": "08 Jul 2026, 15:31 hrs"
+      "titulo": "Reciben más remesas hombres que mujeres",
+      "resumen": "En la recepción de remesas, los hombres siguen estando por arriba de las mujeres tanto en méxico como EU, reveló Cemla.",
+      "link": "https://www.reforma.com/reciben-mas-remesas-hombres-que-mujeres/ar3237110",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Construirá Meta su primer centro de datos en Canadá",
-      "resumen": "Meta Platforms informó que invertirá unos 10 mmdd para construir su primer centro de datos en Canadá, en el condado de Sturgeon (Alberta).",
-      "link": "https://www.reforma.com/construira-meta-su-primer-centro-de-datos-en-canada/ar3236840",
-      "fecha": "08 Jul 2026, 14:47 hrs"
+      "titulo": "Supervisa CNA ejes regionales",
+      "resumen": "Siete de cada 10 concentraciones de empresas analizadas por la CNA  involucran agentes económicos con capital extranjero de EU y Canadá.",
+      "link": "https://www.reforma.com/supervisa-cna-ejes-regionales/ar3237093",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene Wall Street cierre mixto: caen S&amp;P 500 y Dow Jones",
-      "resumen": "El Dow Jones cedió un 1.12% y el S&amp;P 500 un 0.30%,mientras que el Nasdaq avanzó un 0.19%.",
-      "link": "https://www.reforma.com/tiene-wall-street-cierre-mixto-caen-s-p-500-y-dow-jones/ar3236826",
-      "fecha": "08 Jul 2026, 14:39 hrs"
+      "titulo": "Busca Mexicana ampliar rutas",
+      "resumen": "Mexicana de Aviación busca ampliar su red de conectividad con la incorporación de nuevas aeronaves Embraer y rutas hacia Chiapas y Sonora.",
+      "link": "https://www.reforma.com/busca-mexicana-ampliar-rutas/ar3237090",
+      "fecha": "09 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran acciones de SpaceX por debajo de su precio de OPI",
-      "resumen": "Las acciones de SpaceX cayeron un 0.78% y cerraron a 148 dólares, por debajo del precio inicial de cotización, que fue de 150 dólares.",
-      "link": "https://www.reforma.com/cierran-acciones-de-spacex-por-debajo-de-su-precio-de-opi/ar3236814",
-      "fecha": "08 Jul 2026, 14:27 hrs"
+      "titulo": "Firman CFE y Polaris contrato mixto para tres centrales",
+      "resumen": "Polaris anunció que invertirá más de 200 millones de dólares en la construcción de tres centrales eléctricas en asociación con CFE.",
+      "link": "https://www.reforma.com/firman-cfe-y-polaris-contrato-mixto-para-tres-centrales/ar3236130",
+      "fecha": "07 Jul 2026, 15:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen acciones de Volaris por alza de precios del petróleo",
-      "resumen": "Las acciones de Volaris caían más de 7%, presionadas por un alza en los precios del crudo que opacó un sólido reporte de tráfico en junio.",
-      "link": "https://www.reforma.com/caen-acciones-de-volaris-por-alza-de-precios-del-petroleo/ar3236802",
-      "fecha": "08 Jul 2026, 14:19 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Encaminan a incumplir reglas de origen",
-      "resumen": "Reglas de origen más estrictas en el T-MEC complicarían su cumplimiento y favorecerían a competidores, según IQOM Inteligencia Comercial.",
-      "link": "https://www.reforma.com/encaminan-a-incumplir-reglas-de-origen/ar3236752",
-      "fecha": "08 Jul 2026, 14:52 hrs"
+      "titulo": "Entran inversionistas de TV Azteca a incertidumbre",
+      "resumen": "Concurso mercantil de TV Azteca no implica quiebra de la empresa sino la apertura judicial para negociar con acreedores, señaló AMEDI.",
+      "link": "https://www.reforma.com/entran-inversionistas-de-tv-azteca-a-incertidumbre/ar3236254",
+      "fecha": "07 Jul 2026, 17:53 hrs"
     }
   ]
 }
