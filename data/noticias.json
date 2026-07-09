@@ -1,7 +1,25 @@
 {
-  "actualizado": "09/07/2026 15:23 hrs",
+  "actualizado": "09/07/2026 17:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fraudes aumentan 17% y la Condusef firma acuerdo con la UIF para prevenirlo",
+      "resumen": "Con base en las denuncias que reciba la Condusef sobre fraudes, la UIF trabajará en el análisis de la información que le permita identificar el origen de estos delitos.",
+      "link": "https://expansion.mx/economia/2026/07/09/fraudes-aumentan-17-y-la-condusef-firma-acuerdo-con-la-uif-para-prevenirlo",
+      "fecha": "09 Jul 2026, 13:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico advierte resistencia en inflación de servicios; si no mejora, podrá hacer nuevo ajuste a tasa",
+      "resumen": "La Junta de Gobierno destacó que la inflación en servicios no da señales claras de reversión debido a presiones estructurales de costos laborales y a una mayor demanda de servicios turísticos.",
+      "link": "https://expansion.mx/economia/2026/07/09/banxico-advierte-resistencia-en-inflacion-de-servicios",
+      "fecha": "09 Jul 2026, 12:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
-      "resumen": "La reunión del 20 de julio en México definirá avances en aranceles, reglas de origen y otros temas clave con Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
-      "fecha": "08 Jul 2026, 09:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "FMI rebaja su previsión de crecimiento para México a 1.2% en 2026",
-      "resumen": "\"En México, se proyecta que el crecimiento se acelere de forma moderada en medio de políticas internas menos restrictivas, pero la incertidumbre seguirá limitando la actividad\", indicó el Fondo.",
-      "link": "https://expansion.mx/economia/2026/07/08/fmi-rebaja-su-prevision-de-crecimiento-para-mexico-a-1-2-en-2026",
-      "fecha": "08 Jul 2026, 09:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
       "fecha": "10 Jul 2026, 17:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tras conquistar la entrega de comida, el delivery acelera su ofensiva en las compras de conveniencia",
+      "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
+      "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
+      "fecha": "09 Jul 2026, 13:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "08 Jul 2026, 15:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La planta de Toyota en Baja California, de símbolo del TLCAN a operación bajo revisión en la nueva era del T-MEC",
-      "resumen": "Construida bajo la lógica del TLCAN, la planta de Toyota en Tijuana creció junto con la demanda de la Tacoma. Dos décadas después, la nueva política comercial de Estados Unidos vuelve incierto su futu…",
-      "link": "https://expansion.mx/empresas/2026/07/08/planta-toyota-baja-california-de-simbolo-del-tlcan-a-cerrar",
-      "fecha": "08 Jul 2026, 11:56 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -186,19 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja de 2%",
-      "resumen": "El barril de Brent perdió un 2.20%, hasta situarse en los 76.30 dólares, mientras que el WTI retrocedió un 1.96%, a 72.08 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-2/ar3237573",
-      "fecha": "09 Jul 2026, 14:19 hrs"
+      "titulo": "Prevé Vinci Airports desaceleración; México sigue creciendo",
+      "resumen": "Vinci Airports prevé que el tráfico aéreo se desacelere por alza en el combustible, aunque México sigue siendo un mercado en crecimiento.",
+      "link": "https://www.reforma.com/preve-vinci-airports-desaceleracion-mexico-sigue-creciendo/ar3237657",
+      "fecha": "09 Jul 2026, 16:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsan acciones de chips al Nasdaq",
-      "resumen": "El Nasdaq subió 1.27%, a 26 mil 198.76 unidades; el S&amp;P 500 ganó 0.79%, a 7 mil 541.83; y el Dow Jones avanzó 0.25%, a 52 mil 481.70.",
-      "link": "https://www.reforma.com/impulsan-acciones-de-chips-al-nasdaq/ar3237611",
-      "fecha": "09 Jul 2026, 14:46 hrs"
+      "titulo": "Cierran precios del crudo con baja de 2%",
+      "resumen": "El barril de Brent perdió un 2.20%, hasta situarse en los 76.30 dólares, mientras que el WTI retrocedió un 1.96%, a 72.08 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-2/ar3237573",
+      "fecha": "09 Jul 2026, 14:19 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Publica Venezuela reglas que rompen monopolio petrolero",
-      "resumen": "Venezuela publica regulación petrolera largamente esperada que pone fin al control que PDVSA ejerció durante décadas sobre la industria.",
-      "link": "https://www.reforma.com/publica-venezuela-reglas-que-rompen-monopolio-petrolero/ar3237491",
-      "fecha": "09 Jul 2026, 14:19 hrs"
+      "titulo": "Aplaza EU nuevos aranceles a los aviones comerciales",
+      "resumen": "Tras una investigación sobre el sector, EU decidió abstenerse de imponer nuevos aranceles a los aviones comerciales y sus componentes.",
+      "link": "https://www.reforma.com/aplaza-eu-nuevos-aranceles-a-los-aviones-comerciales/ar3237661",
+      "fecha": "09 Jul 2026, 16:01 hrs"
     }
   ]
 }
