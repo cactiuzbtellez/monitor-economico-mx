@@ -1,7 +1,16 @@
 {
-  "actualizado": "10/07/2026 12:22 hrs",
+  "actualizado": "10/07/2026 14:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu recibe autorización final para operar como banco en México",
+      "resumen": "Siete años después de haber llegado al país, Nu se transformó en banco, con lo que podrá ofrecer productos de nómina. Tiene 30 días naturales para completar el proceso.",
+      "link": "https://expansion.mx/economia/2026/07/10/nu-ya-es-banco",
+      "fecha": "10 Jul 2026, 09:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Analistas prevén que el fenómeno climático presione los precios agropecuarios y prolongue la convergencia de la inflación hacia el 3%, pese al alivio observado en mayo.",
       "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
       "fecha": "09 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Scott Thomson, CEO global de Scotiabank: \"Queremos ser el banco del T-MEC\"",
-      "resumen": "La institución financiera canadiense ve en el corredor de Norteamérica un espacio único de crecimiento: entre sus fronteras se mueven de 1.6 a 2 billones de dólares al año.",
-      "link": "https://expansion.mx/economia/2026/07/09/scott-thomson-ceo-scotiabank-banco-tmec",
-      "fecha": "09 Jul 2026, 05:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Obliga bajo consumo  a recortar inventarios",
-      "resumen": "Principales cadenas de autoservicio comenzaron a reducir inventarios, eliminar productos de baja rotación y disminuir presentaciones.",
-      "link": "https://www.reforma.com/obliga-bajo-consumo-a-recortar-inventarios/ar3237885",
-      "fecha": "10 Jul 2026, 05:01 hrs"
+      "titulo": "Autorizan a Nubank México para operar como banca múltiple",
+      "resumen": "Nubank México recibió el aval de la CNBV para operar como banca múltiple, completando su proceso de transformación de licencia bancaria.",
+      "link": "https://www.reforma.com/autorizan-a-nubank-mexico-para-operar-como-banca-multiple/ar3238039",
+      "fecha": "10 Jul 2026, 08:39 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Autorizan a Nubank México para operar como banca múltiple",
-      "resumen": "Nubank México recibió el aval de la CNBV para operar como banca múltiple, completando su proceso de transformación de licencia bancaria.",
-      "link": "https://www.reforma.com/autorizan-a-nubank-mexico-para-operar-como-banca-multiple/ar3238039",
-      "fecha": "10 Jul 2026, 08:39 hrs"
+      "titulo": "Cae 0.77% producción industrial en mayo",
+      "resumen": "El Indicador Mensual de la Actividad Industrial cayó 0.77% en mayo, frente a un crecimiento de 2.12% en abril pasado.",
+      "link": "https://www.reforma.com/cae-0-77-produccion-industrial-en-mayo/ar3238126",
+      "fecha": "10 Jul 2026, 10:57 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 0.77% producción industrial en mayo",
-      "resumen": "El Indicador Mensual de la Actividad Industrial cayó 0.77% en mayo, frente a un crecimiento de 2.12% en abril pasado.",
-      "link": "https://www.reforma.com/cae-0-77-produccion-industrial-en-mayo/ar3238126",
-      "fecha": "10 Jul 2026, 10:57 hrs"
+      "titulo": "Baja 2.4% tráfico de pasajeros de Viva en junio",
+      "resumen": "El tráfico de pasajeros de Viva bajó 2.4% en junio, respecto al mismo mes de 2025, transportando 2.4 millones de pasajeros.",
+      "link": "https://www.reforma.com/baja-2-4-trafico-de-pasajeros-de-viva-en-junio/ar3238221",
+      "fecha": "10 Jul 2026, 12:57 hrs"
     },
     {
       "fuente": "Reforma",
