@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/07/2026 07:11 hrs",
+  "actualizado": "10/07/2026 10:24 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,9 +150,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presume SHCP bonanza; hay otros datos",
+      "titulo": "Presume SHCP  bonanza, pero hay otros datos",
       "resumen": "Gobierno presumió indicadores de 'fortaleza' de economía, pero datos oficiales muestran un País que crece a ritmo más lento desde pandemia.",
-      "link": "https://www.reforma.com/presume-shcp-bonanza-hay-otros-datos/ar3237892",
+      "link": "https://www.reforma.com/presume-shcp-bonanza-pero-hay-otros-datos/ar3237892",
       "fecha": "10 Jul 2026, 05:00 hrs"
     },
     {
@@ -186,28 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Autorizan a Nubank México para operar como banca múltiple",
+      "resumen": "Nubank México recibió el aval de la CNBV para operar como banca múltiple, completando su proceso de transformación de licencia bancaria.",
+      "link": "https://www.reforma.com/autorizan-a-nubank-mexico-para-operar-como-banca-multiple/ar3238039",
+      "fecha": "10 Jul 2026, 08:39 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cómo 'funcionan' realmente los aranceles de Trump",
+      "resumen": "Trump tiene razón al afirmar que sus aranceles tienen un efecto devastador: destruyen empleos en EU y elevan los precios, indicó el WSJ.",
+      "link": "https://www.reforma.com/como-funcionan-realmente-los-aranceles-de-trump/ar3238078",
+      "fecha": "10 Jul 2026, 09:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Esperaban a 5.5 millones de turistas; fueron 850 mil",
       "resumen": "De los 5.5 millones de turistas que se esperaban por la celebración de la Copa Mundial en México, sólo llegaron 850 mil viajeros.",
       "link": "https://www.reforma.com/esperaban-a-5-5-millones-de-turistas-fueron-850-mil/ar3237916",
       "fecha": "10 Jul 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alistan firmas registro electrónico de asistencia",
-      "resumen": "La cuenta regresiva para implementar registro electrónico de asistencia en empresas ya inició ya que su entrada en vigor el 1 de enero 2027.",
-      "link": "https://www.reforma.com/alistan-firmas-registro-electronico-de-asistencia/ar3237869",
-      "fecha": "10 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Quieren agilizar arribo de capital",
-      "resumen": "Amexcap presentó un manual de mejores prácticas que busca estandarizar la relación entre administradores de fondos e inversionistas.",
-      "link": "https://www.reforma.com/quieren-agilizar-arribo-de-capital/ar3237843",
-      "fecha": "10 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
