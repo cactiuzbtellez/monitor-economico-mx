@@ -1,7 +1,25 @@
 {
-  "actualizado": "09/07/2026 17:11 hrs",
+  "actualizado": "09/07/2026 21:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México perfila exportaciones de 730,000 mdd; T-MEC entra en una \"certidumbre realista\"",
+      "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
+      "fecha": "09 Jul 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA vs. Banco Azteca: ¿Qué banco tiene más cajeros y sucursales en México?",
+      "resumen": "Los datos más recientes de la CNBV muestran cómo los principales bancos están redefiniendo su presencia física en México ante el avance de la banca digital.",
+      "link": "https://expansion.mx/economia/2026/07/09/bbva-vs-banco-azteca-que-banco-tiene-mas-cajeros-sucursales",
+      "fecha": "09 Jul 2026, 15:27 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cinépolis y Openbank buscan aumentar a 60% la digitalización en cines",
-      "resumen": "Las firmas lanzaron una tarjeta de crédito con la que el banco quiere aprovechar a los más de 7.5 millones de clientes activos; la cadena de cines busca digitalizar hasta 60% de sus transacciones.",
-      "link": "https://expansion.mx/economia/2026/07/08/cinepolis-y-openbank-buscan-aumentar-a-60-la-digitalizacion-en-cines",
-      "fecha": "08 Jul 2026, 12:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con 479 votos, Parlamento Europeo respalda el acuerdo comercial modernizado con México",
-      "resumen": "El tratado renovado eliminará casi todos los aranceles pendientes y ampliará el acceso a mercados para empresas de ambos lados.",
-      "link": "https://expansion.mx/economia/2026/07/08/parlamento-europeo-aprueba-acuerdo-modernizado-mexico",
-      "fecha": "08 Jul 2026, 12:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
       "fecha": "10 Jul 2026, 17:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La industria petroquímica mexicana busca duplicar su capacidad en una década",
+      "resumen": "La ANIQ afirma que México puede pasar del lugar 14 al siete entre las industrias petroquímicas del mundo, siempre que fortalezca el suministro de insumos y la infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/09/industria-petroquimica-mexicana-duplicar-capacidad-decada",
+      "fecha": "09 Jul 2026, 17:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,49 +147,31 @@
       "fecha": "08 Jul 2026, 15:48 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liga MX, NFL y conciertos: el plan del Estadio Azteca para pagar su deuda millonaria con Banorte desde 2027",
-      "resumen": "Después de ser sede mundialista, el Estadio Azteca enfrenta su mayor reto: transformar la inversión de la remodelación en un activo rentable durante los próximos años.",
-      "link": "https://expansion.mx/empresas/2026/07/08/plan-estadio-azteca-para-pagar-deuda-millonaria-con-banorte",
-      "fecha": "08 Jul 2026, 15:34 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae tráfico aéreo entre México y Estados Unidos en Mayo",
+      "resumen": "A mayo de 2026, llegaron a México desde EU por vía aérea 5 millones 684.4 millones de turistas lo que significo una caída anual de 6.5%.",
+      "link": "https://www.reforma.com/cae-trafico-aereo-entre-mexico-y-estados-unidos-en-mayo/ar3237777",
+      "fecha": "09 Jul 2026, 18:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Persistirá en PIB brecha negativa pese a expansión económica",
-      "resumen": "Pese a la expansión esperada en la actividad económica en el segundo trimestre, la brecha del producto, seguirá negativa, dijo Banxico.",
-      "link": "https://www.reforma.com/persistira-en-pib-brecha-negativa-pese-a-expansion-economica/ar3237355",
-      "fecha": "09 Jul 2026, 10:49 hrs"
+      "titulo": "Llegaron 175 mil turistas internacionales por Mundial",
+      "resumen": "México recibió aproximadamente a 175 mil turistas internacionales adicionales por la Copa Mundial de futbol 2026, reveló STARC.",
+      "link": "https://www.reforma.com/llegaron-175-mil-turistas-internacionales-por-mundial/ar3237663",
+      "fecha": "09 Jul 2026, 16:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desacelera inflación de México a 3.37% en junio",
-      "resumen": "El Índice Nacional de Precios al Consumidor desaceleró en junio por tercer mes consecutivo, a 3.37%, su menor nivel desde diciembre de 2020.",
-      "link": "https://www.reforma.com/desacelera-inflacion-de-mexico-a-3-37-en-junio/ar3237248",
-      "fecha": "09 Jul 2026, 07:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amenaza revisión del T-MEC ritmo de parques industriales",
-      "resumen": "Ante la revisión del T-MEC, el sector de los parques industriales verá afectado sus planes de expansión, según AMPIP.",
-      "link": "https://www.reforma.com/amenaza-revision-del-t-mec-ritmo-de-parques-industriales/ar3237439",
-      "fecha": "09 Jul 2026, 12:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 17% quejas de usuarios por fraudes financieros",
-      "resumen": "Durante el primer semestre crecieron 16.7 por ciento las quejas de los usuarios por fraudes financieros, reportó Condusef.",
-      "link": "https://www.reforma.com/crecen-17-quejas-de-usuarios-por-fraudes-financieros/ar3237530",
-      "fecha": "09 Jul 2026, 14:19 hrs"
+      "titulo": "Aplaza EU nuevos aranceles a los aviones comerciales",
+      "resumen": "Tras una investigación sobre el sector, EU decidió abstenerse de imponer nuevos aranceles a los aviones comerciales y sus componentes.",
+      "link": "https://www.reforma.com/aplaza-eu-nuevos-aranceles-a-los-aviones-comerciales/ar3237661",
+      "fecha": "09 Jul 2026, 16:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,6 +186,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Impulsan acciones de chips al Nasdaq",
+      "resumen": "El Nasdaq subió 1.27%, a 26 mil 198.76 unidades; el S&amp;P 500 ganó 0.79%, a 7 mil 541.83; y el Dow Jones avanzó 0.25%, a 52 mil 481.70.",
+      "link": "https://www.reforma.com/impulsan-acciones-de-chips-al-nasdaq/ar3237611",
+      "fecha": "09 Jul 2026, 14:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recortará VW su gama de modelos y capacidad de producción",
+      "resumen": "VW dijo que la gama de modelos se reduciría gradualmente hasta 50% y que la capacidad de producción bajaría a 9 millones de unidades al año.",
+      "link": "https://www.reforma.com/recortara-vw-su-gama-de-modelos-y-capacidad-de-produccion/ar3237592",
+      "fecha": "09 Jul 2026, 14:31 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierran precios del crudo con baja de 2%",
       "resumen": "El barril de Brent perdió un 2.20%, hasta situarse en los 76.30 dólares, mientras que el WTI retrocedió un 1.96%, a 72.08 dólares.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-2/ar3237573",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Coloca Grupo Peña Verde 1,000 mdp en Certificados Bursátiles",
-      "resumen": "Grupo Peña Verde celebró campanazo en la BMV con motivo de su primera colocación de Certificados Bursátiles por mil millones de pesos.",
-      "link": "https://www.reforma.com/coloca-grupo-pena-verde-1-000-mdp-en-certificados-bursatiles/ar3237392",
-      "fecha": "09 Jul 2026, 11:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aplaza EU nuevos aranceles a los aviones comerciales",
-      "resumen": "Tras una investigación sobre el sector, EU decidió abstenerse de imponer nuevos aranceles a los aviones comerciales y sus componentes.",
-      "link": "https://www.reforma.com/aplaza-eu-nuevos-aranceles-a-los-aviones-comerciales/ar3237661",
-      "fecha": "09 Jul 2026, 16:01 hrs"
+      "titulo": "Crecen 17% quejas de los usuarios por fraudes financieros",
+      "resumen": "Durante el primer semestre crecieron 16.7 por ciento las quejas de los usuarios por fraudes financieros, reportó Condusef.",
+      "link": "https://www.reforma.com/crecen-17-quejas-de-los-usuarios-por-fraudes-financieros/ar3237530",
+      "fecha": "09 Jul 2026, 14:19 hrs"
     }
   ]
 }
