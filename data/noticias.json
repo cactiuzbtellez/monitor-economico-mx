@@ -1,7 +1,16 @@
 {
-  "actualizado": "09/07/2026 21:18 hrs",
+  "actualizado": "10/07/2026 01:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
+      "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
+      "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
+      "fecha": "09 Jul 2026, 18:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Equifax compra Círculo de Crédito en 750 millones de dólares",
-      "resumen": "Equifax es una empresa estadounidense que está interesada en ampliar su presencia en el mercado mexicano; Circulo de Crédito pertenecía a Afirme, BanCoppel, Elektra e inversionistas privados.",
-      "link": "https://expansion.mx/economia/2026/07/08/equifax-compra-circulo-de-credito-en-750-millones-de-dolares",
-      "fecha": "08 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
       "fecha": "10 Jul 2026, 17:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Adidas, la firma que viste a Messi y a las principales selecciones del mundo?",
+      "resumen": "Adidas es una de las grandes protagonistas del Mundial 2026, pues viste a 14 de 48 equipos.",
+      "link": "https://expansion.mx/empresas/2026/07/09/dueno-adidas-firma-viste-messi-principales-selecciones",
+      "fecha": "09 Jul 2026, 18:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "Velocidades reducidas, dimensiones compactas y normas especiales han permitido el desarrollo de una categoría de transporte que hoy mueve a miles de personas en distintos países.",
       "link": "https://expansion.mx/empresas/2026/07/08/honda-super-one-autos-primos-olinia",
       "fecha": "08 Jul 2026, 17:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
-      "resumen": "La Sener asegura que México tiene capacidad suficiente para cubrir la demanda eléctrica, pero reconoce que el principal desafío está en fortalecer las redes de transmisión y distribución mediante nuev…",
-      "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
-      "fecha": "08 Jul 2026, 15:48 hrs"
     },
     {
       "fuente": "Reforma",
