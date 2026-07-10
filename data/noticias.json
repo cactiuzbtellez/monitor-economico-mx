@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/07/2026 14:22 hrs",
+  "actualizado": "10/07/2026 16:02 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
+      "resumen": "Durante décadas fue una de las mayores chocolateras del país, creó marcas icónicas y llegó a expandirse por México. Su historia cambió con la llegada de capital extranjero.",
+      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
+      "fecha": "10 Jul 2026, 13:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La empresa española que está entre las 10 más importantes de México y supera a varios gigantes nacionales",
+      "resumen": "La institución nació como un banco mexicano hace más de nueve décadas y hoy es el principal negocio de BBVA fuera de España, además de una de las empresas más grandes del país.",
+      "link": "https://expansion.mx/empresas/2026/07/10/empresa-espanola-entre-las-10-mas-importantes-de-mexico",
+      "fecha": "10 Jul 2026, 13:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
       "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
       "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
@@ -129,40 +147,22 @@
       "fecha": "09 Jul 2026, 18:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria petroquímica mexicana busca duplicar su capacidad en una década",
-      "resumen": "La ANIQ afirma que México puede pasar del lugar 14 al siete entre las industrias petroquímicas del mundo, siempre que fortalezca el suministro de insumos y la infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/09/industria-petroquimica-mexicana-duplicar-capacidad-decada",
-      "fecha": "09 Jul 2026, 17:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras conquistar la entrega de comida, el delivery acelera su ofensiva en las compras de conveniencia",
-      "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
-      "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
-      "fecha": "09 Jul 2026, 13:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alista México  4 mmdd para respaldar proyectos energéticos",
+      "resumen": "Analizan crear paquete de financiamiento global para proyectos de energía renovable, que contaría con respaldo de más de 4 mmdd de Banobras.",
+      "link": "https://www.reforma.com/alista-mexico-4-mmdd-para-respaldar-proyectos-energeticos/ar3238265",
+      "fecha": "10 Jul 2026, 14:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presume SHCP  bonanza, pero hay otros datos",
+      "titulo": "Presume SHCP bonanza, pero hay otros datos",
       "resumen": "Gobierno presumió indicadores de 'fortaleza' de economía, pero datos oficiales muestran un País que crece a ritmo más lento desde pandemia.",
       "link": "https://www.reforma.com/presume-shcp-bonanza-pero-hay-otros-datos/ar3237892",
       "fecha": "10 Jul 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Fallan acuerdos de Pemex",
-      "resumen": "De 2009 a la fecha, Pemex ha firmado 52 memorándums de entendimientos con compañías de múltiples naciones; sin embargo, no logró resultados.",
-      "link": "https://www.reforma.com/fallan-acuerdos-de-pemex/ar3237882",
-      "fecha": "10 Jul 2026, 06:57 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,28 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden procesar a Olvera afectados de Trínitas",
-      "resumen": "Para destrabar juicios contra Trínitas y sus administradores, afectados exigieron a Fiscalía de NL vincular a proceso a Jorge Olvera.",
-      "link": "https://www.reforma.com/piden-procesar-a-olvera-afectados-de-trinitas/ar3237879",
-      "fecha": "10 Jul 2026, 06:57 hrs"
+      "titulo": "Demanda Apple a OpenAI por robo de secretos comerciales",
+      "resumen": "Apple presentó una demanda contra OpenAI ante un tribunal federal del norte de California, alegando el robo de secretos comerciales.",
+      "link": "https://www.reforma.com/demanda-apple-a-openai-por-robo-de-secretos-comerciales/ar3238298",
+      "fecha": "10 Jul 2026, 14:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 0.77% producción industrial en mayo",
-      "resumen": "El Indicador Mensual de la Actividad Industrial cayó 0.77% en mayo, frente a un crecimiento de 2.12% en abril pasado.",
-      "link": "https://www.reforma.com/cae-0-77-produccion-industrial-en-mayo/ar3238126",
-      "fecha": "10 Jul 2026, 10:57 hrs"
+      "titulo": "Impulsa a Wall Street el debut triunfal de SK Hynix",
+      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el debut triunfal del fabricante surcoreano de chips SK Hynix, que subió 12.76%",
+      "link": "https://www.reforma.com/impulsa-a-wall-street-el-debut-triunfal-de-sk-hynix/ar3238311",
+      "fecha": "10 Jul 2026, 15:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cómo 'funcionan' realmente los aranceles de Trump",
-      "resumen": "Trump tiene razón al afirmar que sus aranceles tienen un efecto devastador: destruyen empleos en EU y elevan los precios, indicó el WSJ.",
-      "link": "https://www.reforma.com/como-funcionan-realmente-los-aranceles-de-trump/ar3238078",
-      "fecha": "10 Jul 2026, 09:57 hrs"
+      "titulo": "Cierran precios del crudo la semana con pérdidas",
+      "resumen": "El barril de crudo Brent retrocedió un 0.38% hasta los 76.01 dólares; su equivalente estadounidense, el WTI, cedió 0.93%, a 71.41 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-la-semana-con-perdidas/ar3238281",
+      "fecha": "10 Jul 2026, 14:34 hrs"
     },
     {
       "fuente": "Reforma",
