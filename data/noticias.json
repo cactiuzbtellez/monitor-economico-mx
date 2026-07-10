@@ -1,52 +1,7 @@
 {
-  "actualizado": "10/07/2026 01:34 hrs",
+  "actualizado": "10/07/2026 04:53 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
-      "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
-      "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
-      "fecha": "09 Jul 2026, 18:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México perfila exportaciones de 730,000 mdd; T-MEC entra en una \"certidumbre realista\"",
-      "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
-      "fecha": "09 Jul 2026, 16:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA vs. Banco Azteca: ¿Qué banco tiene más cajeros y sucursales en México?",
-      "resumen": "Los datos más recientes de la CNBV muestran cómo los principales bancos están redefiniendo su presencia física en México ante el avance de la banca digital.",
-      "link": "https://expansion.mx/economia/2026/07/09/bbva-vs-banco-azteca-que-banco-tiene-mas-cajeros-sucursales",
-      "fecha": "09 Jul 2026, 15:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Fraudes aumentan 17% y la Condusef firma acuerdo con la UIF para prevenirlo",
-      "resumen": "Con base en las denuncias que reciba la Condusef sobre fraudes, la UIF trabajará en el análisis de la información que le permita identificar el origen de estos delitos.",
-      "link": "https://expansion.mx/economia/2026/07/09/fraudes-aumentan-17-y-la-condusef-firma-acuerdo-con-la-uif-para-prevenirlo",
-      "fecha": "09 Jul 2026, 13:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico advierte resistencia en inflación de servicios; si no mejora, podrá hacer nuevo ajuste a tasa",
-      "resumen": "La Junta de Gobierno destacó que la inflación en servicios no da señales claras de reversión debido a presiones estructurales de costos laborales y a una mayor demanda de servicios turísticos.",
-      "link": "https://expansion.mx/economia/2026/07/09/banxico-advierte-resistencia-en-inflacion-de-servicios",
-      "fecha": "09 Jul 2026, 12:15 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +31,57 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Equifax compra Círculo de Crédito en 750 millones de dólares",
+      "resumen": "Equifax es una empresa estadounidense que está interesada en ampliar su presencia en el mercado mexicano; Circulo de Crédito pertenecía a Afirme, BanCoppel, Elektra e inversionistas privados.",
+      "link": "https://expansion.mx/economia/2026/07/08/equifax-compra-circulo-de-credito-en-750-millones-de-dolares",
+      "fecha": "08 Jul 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis y Openbank buscan aumentar a 60% la digitalización en cines",
+      "resumen": "Las firmas lanzaron una tarjeta de crédito con la que el banco quiere aprovechar a los más de 7.5 millones de clientes activos; la cadena de cines busca digitalizar hasta 60% de sus transacciones.",
+      "link": "https://expansion.mx/economia/2026/07/08/cinepolis-y-openbank-buscan-aumentar-a-60-la-digitalizacion-en-cines",
+      "fecha": "08 Jul 2026, 12:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con 479 votos, Parlamento Europeo respalda el acuerdo comercial modernizado con México",
+      "resumen": "El tratado renovado eliminará casi todos los aranceles pendientes y ampliará el acceso a mercados para empresas de ambos lados.",
+      "link": "https://expansion.mx/economia/2026/07/08/parlamento-europeo-aprueba-acuerdo-modernizado-mexico",
+      "fecha": "08 Jul 2026, 12:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México llevará seis prioridades a la próxima ronda de revisión del T-MEC",
+      "resumen": "La reunión del 20 de julio en México definirá avances en aranceles, reglas de origen y otros temas clave con Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/08/revision-tmec-mexico-seis-prioridades-20-julio",
+      "fecha": "08 Jul 2026, 09:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "FMI rebaja su previsión de crecimiento para México a 1.2% en 2026",
+      "resumen": "\"En México, se proyecta que el crecimiento se acelere de forma moderada en medio de políticas internas menos restrictivas, pero la incertidumbre seguirá limitando la actividad\", indicó el Fondo.",
+      "link": "https://expansion.mx/economia/2026/07/08/fmi-rebaja-su-prevision-de-crecimiento-para-mexico-a-1-2-en-2026",
+      "fecha": "08 Jul 2026, 09:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
       "fecha": "10 Jul 2026, 17:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Adidas, la firma que viste a Messi y a las principales selecciones del mundo?",
-      "resumen": "Adidas es una de las grandes protagonistas del Mundial 2026, pues viste a 14 de 48 equipos.",
-      "link": "https://expansion.mx/empresas/2026/07/09/dueno-adidas-firma-viste-messi-principales-selecciones",
-      "fecha": "09 Jul 2026, 18:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria petroquímica mexicana busca duplicar su capacidad en una década",
-      "resumen": "La ANIQ afirma que México puede pasar del lugar 14 al siete entre las industrias petroquímicas del mundo, siempre que fortalezca el suministro de insumos y la infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/09/industria-petroquimica-mexicana-duplicar-capacidad-decada",
-      "fecha": "09 Jul 2026, 17:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras conquistar la entrega de comida, el delivery acelera su ofensiva en las compras de conveniencia",
-      "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
-      "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
-      "fecha": "09 Jul 2026, 13:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +118,33 @@
       "resumen": "Velocidades reducidas, dimensiones compactas y normas especiales han permitido el desarrollo de una categoría de transporte que hoy mueve a miles de personas en distintos países.",
       "link": "https://expansion.mx/empresas/2026/07/08/honda-super-one-autos-primos-olinia",
       "fecha": "08 Jul 2026, 17:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“No va a faltar energía\", asegura Jorge Islas, subsecretario de Sener, y explica el cuello de botella",
+      "resumen": "La Sener asegura que México tiene capacidad suficiente para cubrir la demanda eléctrica, pero reconoce que el principal desafío está en fortalecer las redes de transmisión y distribución mediante nuev…",
+      "link": "https://expansion.mx/empresas/2026/07/08/no-va-a-faltar-energia-jorge-islas-subsecretario-de-sener",
+      "fecha": "08 Jul 2026, 15:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liga MX, NFL y conciertos: el plan del Estadio Azteca para pagar su deuda millonaria con Banorte desde 2027",
+      "resumen": "Después de ser sede mundialista, el Estadio Azteca enfrenta su mayor reto: transformar la inversión de la remodelación en un activo rentable durante los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/07/08/plan-estadio-azteca-para-pagar-deuda-millonaria-con-banorte",
+      "fecha": "08 Jul 2026, 15:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La planta de Toyota en Baja California, de símbolo del TLCAN a operación bajo revisión en la nueva era del T-MEC",
+      "resumen": "Construida bajo la lógica del TLCAN, la planta de Toyota en Tijuana creció junto con la demanda de la Tacoma. Dos décadas después, la nueva política comercial de Estados Unidos vuelve incierto su futu…",
+      "link": "https://expansion.mx/empresas/2026/07/08/planta-toyota-baja-california-de-simbolo-del-tlcan-a-cerrar",
+      "fecha": "08 Jul 2026, 11:56 hrs"
     },
     {
       "fuente": "Reforma",
