@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/07/2026 16:02 hrs",
+  "actualizado": "10/07/2026 17:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,42 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
-      "resumen": "Durante décadas fue una de las mayores chocolateras del país, creó marcas icónicas y llegó a expandirse por México. Su historia cambió con la llegada de capital extranjero.",
-      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
-      "fecha": "10 Jul 2026, 13:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La empresa española que está entre las 10 más importantes de México y supera a varios gigantes nacionales",
-      "resumen": "La institución nació como un banco mexicano hace más de nueve décadas y hoy es el principal negocio de BBVA fuera de España, además de una de las empresas más grandes del país.",
-      "link": "https://expansion.mx/empresas/2026/07/10/empresa-espanola-entre-las-10-mas-importantes-de-mexico",
-      "fecha": "10 Jul 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
-      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "fecha": "10 Jul 2026, 12:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es David Vélez, el multimillonario detrás de Nu, el nuevo banco autorizado para operar en México?",
-      "resumen": "Trabajó en Wall Street, detectó una oportunidad mientras intentaba abrir una cuenta bancaria en Brasil y terminó construyendo una de las empresas financieras más influyentes de América Latina.",
-      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
-      "fecha": "10 Jul 2026, 11:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
@@ -147,40 +111,58 @@
       "fecha": "09 Jul 2026, 18:54 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alista México  4 mmdd para respaldar proyectos energéticos",
-      "resumen": "Analizan crear paquete de financiamiento global para proyectos de energía renovable, que contaría con respaldo de más de 4 mmdd de Banobras.",
-      "link": "https://www.reforma.com/alista-mexico-4-mmdd-para-respaldar-proyectos-energeticos/ar3238265",
-      "fecha": "10 Jul 2026, 14:22 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La industria petroquímica mexicana busca duplicar su capacidad en una década",
+      "resumen": "La ANIQ afirma que México puede pasar del lugar 14 al siete entre las industrias petroquímicas del mundo, siempre que fortalezca el suministro de insumos y la infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/09/industria-petroquimica-mexicana-duplicar-capacidad-decada",
+      "fecha": "09 Jul 2026, 17:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tras conquistar la entrega de comida, el delivery acelera su ofensiva en las compras de conveniencia",
+      "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
+      "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
+      "fecha": "09 Jul 2026, 13:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las 3 empresas argentinas que conquistan México: una vende 124,000 millones y emplea a 35,000 personas",
+      "resumen": "Estas empresas argentinas encontraron en México un mercado clave para crecer: operan en comercio digital, turismo, consumo e infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/07/08/las-3-empresas-argentinas-que-conquistan-mexico",
+      "fecha": "08 Jul 2026, 18:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo Bimbo suma 500,000 hectáreas bajo agricultura regenerativa",
+      "resumen": "En el marco del Día Internacional de la Conservación de Suelo, la panificadora avanza en el compromiso de que sus ingredientes provengan de prácticas más amigables con el medio ambiente.",
+      "link": "https://expansion.mx/empresas/2026/07/08/grupo-bimbo-suma-500-000-hectareas-bajo-agricultura-regenerativa",
+      "fecha": "08 Jul 2026, 18:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presume SHCP bonanza, pero hay otros datos",
-      "resumen": "Gobierno presumió indicadores de 'fortaleza' de economía, pero datos oficiales muestran un País que crece a ritmo más lento desde pandemia.",
-      "link": "https://www.reforma.com/presume-shcp-bonanza-pero-hay-otros-datos/ar3237892",
-      "fecha": "10 Jul 2026, 05:00 hrs"
+      "titulo": "Encadena BMV cuarta semana a la baja",
+      "resumen": "La BMV cerró el viernes en el nivel de 66 mil 496.13 unidades; sin embargo a nivel semanal acumuló su cuarta semana la hilo con caídas.",
+      "link": "https://www.reforma.com/encadena-bmv-cuarta-semana-a-la-baja/ar3238393",
+      "fecha": "10 Jul 2026, 17:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Autorizan a Nubank México para operar como banca múltiple",
-      "resumen": "Nubank México recibió el aval de la CNBV para operar como banca múltiple, completando su proceso de transformación de licencia bancaria.",
-      "link": "https://www.reforma.com/autorizan-a-nubank-mexico-para-operar-como-banca-multiple/ar3238039",
-      "fecha": "10 Jul 2026, 08:39 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Demanda Apple a OpenAI por robo de secretos comerciales",
-      "resumen": "Apple presentó una demanda contra OpenAI ante un tribunal federal del norte de California, alegando el robo de secretos comerciales.",
-      "link": "https://www.reforma.com/demanda-apple-a-openai-por-robo-de-secretos-comerciales/ar3238298",
-      "fecha": "10 Jul 2026, 14:50 hrs"
+      "titulo": "Cierra dólar semana en $17.47",
+      "resumen": "El dólar cerró la semana con una cotización de $17.47; cifra casi 8 centavos menor a lo registrado el jueves y sin cambios a nviel semanal.",
+      "link": "https://www.reforma.com/cierra-dolar-semana-en-17-47/ar3238377",
+      "fecha": "10 Jul 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Demanda Apple a OpenAI por robo de secretos comerciales",
+      "resumen": "Apple presentó una demanda contra OpenAI ante un tribunal federal del norte de California, alegando el robo de secretos comerciales.",
+      "link": "https://www.reforma.com/demanda-apple-a-openai-por-robo-de-secretos-comerciales/ar3238298",
+      "fecha": "10 Jul 2026, 14:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierran precios del crudo la semana con pérdidas",
       "resumen": "El barril de crudo Brent retrocedió un 0.38% hasta los 76.01 dólares; su equivalente estadounidense, el WTI, cedió 0.93%, a 71.41 dólares.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-la-semana-con-perdidas/ar3238281",
       "fecha": "10 Jul 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alista México 4 mmdd para respaldar proyectos energéticos",
+      "resumen": "Analizan crear paquete de financiamiento global para proyectos de energía renovable, que contaría con respaldo de más de 4 mmdd de Banobras.",
+      "link": "https://www.reforma.com/alista-mexico-4-mmdd-para-respaldar-proyectos-energeticos/ar3238265",
+      "fecha": "10 Jul 2026, 14:22 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Registrará demanda de crudo primera caída anual desde 2020",
-      "resumen": "La demanda mundial de crudo va a disminuir por primera vez desde 2020, debido a los estragos que la guerra con Irán ha causado, dijo la AIE",
-      "link": "https://www.reforma.com/registrara-demanda-de-crudo-primera-caida-anual-desde-2020/ar3238028",
-      "fecha": "10 Jul 2026, 08:06 hrs"
+      "titulo": "Bloquea China exportaciones de helio",
+      "resumen": "China anunció el bloqueo temporal de la exportación de helio, un elemento clave para la fabricación de chips.",
+      "link": "https://www.reforma.com/bloquea-china-exportaciones-de-helio/ar3238205",
+      "fecha": "10 Jul 2026, 12:53 hrs"
     }
   ]
 }
