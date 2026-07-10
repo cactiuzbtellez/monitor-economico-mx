@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/07/2026 10:24 hrs",
+  "actualizado": "10/07/2026 12:22 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,10 +78,28 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
+      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "fecha": "10 Jul 2026, 12:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es David Vélez, el multimillonario detrás de Nu, el nuevo banco autorizado para operar en México?",
+      "resumen": "Trabajó en Wall Street, detectó una oportunidad mientras intentaba abrir una cuenta bancaria en Brasil y terminó construyendo una de las empresas financieras más influyentes de América Latina.",
+      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
+      "fecha": "10 Jul 2026, 11:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
       "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
       "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
-      "fecha": "10 Jul 2026, 17:00 hrs"
+      "fecha": "10 Jul 2026, 09:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,6 +109,15 @@
       "resumen": "Los fabricantes buscan un \"piso parejo\" frente a las importaciones de bajo costo para reactivar el mercado interno, tras un año de caídas en la producción, las ventas y las exportaciones.",
       "link": "https://expansion.mx/empresas/2026/07/10/industria-camiones-mexico-pide-aranceles-fabricados-china",
       "fecha": "10 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hyundai llama a revisión 273 Palisade híbridas 2026 por riesgo en los asientos traseros",
+      "resumen": "Se detectaron posibles afectaciones en unidades modelo 2026 de la marca surcoreana.",
+      "link": "https://expansion.mx/empresas/2026/07/09/hyundai-profeco-emite-llamado-revision-palisade",
+      "fecha": "09 Jul 2026, 20:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
       "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
       "fecha": "09 Jul 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 3 empresas argentinas que conquistan México: una vende 124,000 millones y emplea a 35,000 personas",
-      "resumen": "Estas empresas argentinas encontraron en México un mercado clave para crecer: operan en comercio digital, turismo, consumo e infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/08/las-3-empresas-argentinas-que-conquistan-mexico",
-      "fecha": "08 Jul 2026, 18:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Grupo Bimbo suma 500,000 hectáreas bajo agricultura regenerativa",
-      "resumen": "En el marco del Día Internacional de la Conservación de Suelo, la panificadora avanza en el compromiso de que sus ingredientes provengan de prácticas más amigables con el medio ambiente.",
-      "link": "https://expansion.mx/empresas/2026/07/08/grupo-bimbo-suma-500-000-hectareas-bajo-agricultura-regenerativa",
-      "fecha": "08 Jul 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni tan autosuficientes, México importa 23% más gasolinas en mayo",
-      "resumen": "Las importaciones de gasolina repuntaron 23.1% en mayo por mayores compras de Pemex, en medio de caídas en la refinación nacional, subsidios al combustible y una elevada dependencia de mercados extern…",
-      "link": "https://expansion.mx/empresas/2026/07/08/importacion-de-gasolina-aumenta-23-en-mayo",
-      "fecha": "08 Jul 2026, 17:31 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperaban a 5.5 millones de turistas; fueron 850 mil",
-      "resumen": "De los 5.5 millones de turistas que se esperaban por la celebración de la Copa Mundial en México, sólo llegaron 850 mil viajeros.",
-      "link": "https://www.reforma.com/esperaban-a-5-5-millones-de-turistas-fueron-850-mil/ar3237916",
-      "fecha": "10 Jul 2026, 05:00 hrs"
+      "titulo": "Cae 0.77% producción industrial en mayo",
+      "resumen": "El Indicador Mensual de la Actividad Industrial cayó 0.77% en mayo, frente a un crecimiento de 2.12% en abril pasado.",
+      "link": "https://www.reforma.com/cae-0-77-produccion-industrial-en-mayo/ar3238126",
+      "fecha": "10 Jul 2026, 10:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perfila crudo alza semanal por riesgos de suministro",
-      "resumen": "Los precios del crudo bajaban un 0.3%, pero el Brent se encamina a un aumento semanal cercano al 6% y el WTI del 5%.",
-      "link": "https://www.reforma.com/perfila-crudo-alza-semanal-por-riesgos-de-suministro/ar3238010",
-      "fecha": "10 Jul 2026, 07:10 hrs"
+      "titulo": "Registrará demanda de crudo primera caída anual desde 2020",
+      "resumen": "La demanda mundial de crudo va a disminuir por primera vez desde 2020, debido a los estragos que la guerra con Irán ha causado, dijo la AIE",
+      "link": "https://www.reforma.com/registrara-demanda-de-crudo-primera-caida-anual-desde-2020/ar3238028",
+      "fecha": "10 Jul 2026, 08:06 hrs"
     }
   ]
 }
