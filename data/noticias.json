@@ -1,7 +1,16 @@
 {
-  "actualizado": "11/07/2026 05:51 hrs",
+  "actualizado": "11/07/2026 07:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
+      "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
+      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
+      "fecha": "10 Jul 2026, 18:14 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La inflación sorprendió a la baja frente a lo esperado por analistas. El alivio vino de frutas, verduras y productos agropecuarios, aunque servicios y alimentos procesados aún reflejan presiones.",
       "link": "https://expansion.mx/economia/2026/07/09/inflacion-baja-a-3-37-en-junio-por-desplome-del-jitomate-huevo-y-chiles",
       "fecha": "09 Jul 2026, 06:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El 'Súper Niño' amenaza con presionar la inflación de alimentos hacia 2027",
-      "resumen": "Analistas prevén que el fenómeno climático presione los precios agropecuarios y prolongue la convergencia de la inflación hacia el 3%, pese al alivio observado en mayo.",
-      "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
-      "fecha": "09 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
