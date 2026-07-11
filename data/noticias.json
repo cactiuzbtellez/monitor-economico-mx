@@ -1,16 +1,7 @@
 {
-  "actualizado": "11/07/2026 04:14 hrs",
+  "actualizado": "11/07/2026 05:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
-      "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
-      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
-      "fecha": "10 Jul 2026, 18:14 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "La inflación sorprendió a la baja frente a lo esperado por analistas. El alivio vino de frutas, verduras y productos agropecuarios, aunque servicios y alimentos procesados aún reflejan presiones.",
       "link": "https://expansion.mx/economia/2026/07/09/inflacion-baja-a-3-37-en-junio-por-desplome-del-jitomate-huevo-y-chiles",
       "fecha": "09 Jul 2026, 06:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El 'Súper Niño' amenaza con presionar la inflación de alimentos hacia 2027",
+      "resumen": "Analistas prevén que el fenómeno climático presione los precios agropecuarios y prolongue la convergencia de la inflación hacia el 3%, pese al alivio observado en mayo.",
+      "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
+      "fecha": "09 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Dicen no a 130 mmdd en proyectos de IA",
+      "resumen": "En el primer trimestre de 2026, comunidades en EU bloquearon proyectos de centros de datos para IA por 130 mil millones de dólares.",
+      "link": "https://www.reforma.com/dicen-no-a-130-mmdd-en-proyectos-de-ia/ar3238494",
+      "fecha": "11 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Ajustan plazos para centrales bajo planeación vinculante",
       "resumen": "Sener modifico las fechas y plazos de la segunda convocatoria para proyectos estratégicos de generación eléctrica.",
       "link": "https://www.reforma.com/ajustan-plazos-para-centrales-bajo-planeacion-vinculante/ar3238405",
@@ -195,28 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "El testigo que México regaló",
+      "resumen": "México tuvo en sus manos al testigo clave del caso de El Mayo Zambada y lo entregó a Estados Unidos.",
+      "link": "https://www.reforma.com/el-testigo-que-mexico-regalo/ar3238320",
+      "fecha": "11 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierran precios del crudo la semana con pérdidas",
       "resumen": "El barril de crudo Brent retrocedió un 0.38% hasta los 76.01 dólares; su equivalente estadounidense, el WTI, cedió 0.93%, a 71.41 dólares.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-la-semana-con-perdidas/ar3238281",
       "fecha": "10 Jul 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alista México 4 mmdd para respaldar proyectos energéticos",
-      "resumen": "Analizan crear paquete de financiamiento global para proyectos de energía renovable, que contaría con respaldo de más de 4 mmdd de Banobras.",
-      "link": "https://www.reforma.com/alista-mexico-4-mmdd-para-respaldar-proyectos-energeticos/ar3238265",
-      "fecha": "10 Jul 2026, 14:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Baja 2.4% tráfico de pasajeros de Viva en junio",
-      "resumen": "El tráfico de pasajeros de Viva bajó 2.4% en junio, respecto al mismo mes de 2025, transportando 2.4 millones de pasajeros.",
-      "link": "https://www.reforma.com/baja-2-4-trafico-de-pasajeros-de-viva-en-junio/ar3238221",
-      "fecha": "10 Jul 2026, 12:57 hrs"
     }
   ]
 }
