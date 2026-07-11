@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/07/2026 16:48 hrs",
+  "actualizado": "11/07/2026 17:54 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
+      "resumen": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
+      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
+      "fecha": "11 Jul 2026, 15:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las 2 empresas de Noruega que operan en México: generan miles de millones y cientos de empleos",
+      "resumen": "Aunque la presencia empresarial noruega en el país es reducida, sus compañías participan en industrias estratégicas para la producción y las exportaciones.",
+      "link": "https://expansion.mx/empresas/2026/07/11/empresas-noruega-mexico-ranking-expansion-2026",
+      "fecha": "11 Jul 2026, 12:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
       "resumen": "Con una estrategia basada en gastronomía, entretenimiento y tiendas de conveniencia, este centro comercial compite todos los días por atraer a los mismos clientes que su histórico vecino.",
       "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
@@ -127,24 +145,6 @@
       "resumen": "Trabajó en Wall Street, detectó una oportunidad mientras intentaba abrir una cuenta bancaria en Brasil y terminó construyendo una de las empresas financieras más influyentes de América Latina.",
       "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
       "fecha": "10 Jul 2026, 11:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia vs. los autos eléctricos más baratos del mercado: lo que ofrecen el JAC E10X y el Geely EX2",
-      "resumen": "Olinia costará menos de la mitad que algunos eléctricos de entrada, pero sus capacidades, regulación y uso previsto lo colocan en una categoría distinta.",
-      "link": "https://expansion.mx/empresas/2026/07/10/olinia-vs-autos-electricos-baratos-jac-e10x-geely-ex2",
-      "fecha": "10 Jul 2026, 09:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria de camiones pide arancel de 50% a las unidades chinas",
-      "resumen": "Los fabricantes buscan un \"piso parejo\" frente a las importaciones de bajo costo para reactivar el mercado interno, tras un año de caídas en la producción, las ventas y las exportaciones.",
-      "link": "https://expansion.mx/empresas/2026/07/10/industria-camiones-mexico-pide-aranceles-fabricados-china",
-      "fecha": "10 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
