@@ -1,7 +1,16 @@
 {
-  "actualizado": "10/07/2026 17:57 hrs",
+  "actualizado": "10/07/2026 21:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
+      "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
+      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
+      "fecha": "10 Jul 2026, 18:14 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El 'Súper Niño' amenaza con presionar la inflación de alimentos hacia 2027",
-      "resumen": "Analistas prevén que el fenómeno climático presione los precios agropecuarios y prolongue la convergencia de la inflación hacia el 3%, pese al alivio observado en mayo.",
-      "link": "https://expansion.mx/economia/2026/07/09/el-super-nino-amenaza-con-presionar-la-inflacion-de-alimentos-hacia-2027",
-      "fecha": "09 Jul 2026, 05:55 hrs"
+      "titulo": "¿Quién es el dueño de Patio Universidad, la plaza que desafía el dominio de Slim frente a Plaza Universidad",
+      "resumen": "Con una estrategia basada en gastronomía, entretenimiento y tiendas de conveniencia, este centro comercial compite todos los días por atraer a los mismos clientes que su histórico vecino.",
+      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-dueno-patio-universidad-plaza-frente-slim",
+      "fecha": "10 Jul 2026, 17:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tras los incidentes en el Interoceánico, la carga ferroviaria exige reglas para convivir con los trenes de pasajeros",
+      "resumen": "Aunque la industria celebra que se construyan vías dedicadas, advierte riesgos durante las obras y pide fortalecer la regulación para garantizar una convivencia segura y eficiente.",
+      "link": "https://expansion.mx/empresas/2026/07/10/trenes-pasajeros-carga-operacion-industria-ferroviaria",
+      "fecha": "10 Jul 2026, 16:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
+      "resumen": "Durante décadas fue una de las mayores chocolateras del país, creó marcas icónicas y llegó a expandirse por México. Su historia cambió con la llegada de capital extranjero.",
+      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
+      "fecha": "10 Jul 2026, 13:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La empresa española que está entre las 10 más importantes de México y supera a varios gigantes nacionales",
+      "resumen": "La institución nació como un banco mexicano hace más de nueve décadas y hoy es el principal negocio de BBVA fuera de España, además de una de las empresas más grandes del país.",
+      "link": "https://expansion.mx/empresas/2026/07/10/empresa-espanola-entre-las-10-mas-importantes-de-mexico",
+      "fecha": "10 Jul 2026, 13:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
+      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
+      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
+      "fecha": "10 Jul 2026, 12:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es David Vélez, el multimillonario detrás de Nu, el nuevo banco autorizado para operar en México?",
+      "resumen": "Trabajó en Wall Street, detectó una oportunidad mientras intentaba abrir una cuenta bancaria en Brasil y terminó construyendo una de las empresas financieras más influyentes de América Latina.",
+      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
+      "fecha": "10 Jul 2026, 11:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,58 +147,13 @@
       "fecha": "10 Jul 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hyundai llama a revisión 273 Palisade híbridas 2026 por riesgo en los asientos traseros",
-      "resumen": "Se detectaron posibles afectaciones en unidades modelo 2026 de la marca surcoreana.",
-      "link": "https://expansion.mx/empresas/2026/07/09/hyundai-profeco-emite-llamado-revision-palisade",
-      "fecha": "09 Jul 2026, 20:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Adidas, la firma que viste a Messi y a las principales selecciones del mundo?",
-      "resumen": "Adidas es una de las grandes protagonistas del Mundial 2026, pues viste a 14 de 48 equipos.",
-      "link": "https://expansion.mx/empresas/2026/07/09/dueno-adidas-firma-viste-messi-principales-selecciones",
-      "fecha": "09 Jul 2026, 18:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria petroquímica mexicana busca duplicar su capacidad en una década",
-      "resumen": "La ANIQ afirma que México puede pasar del lugar 14 al siete entre las industrias petroquímicas del mundo, siempre que fortalezca el suministro de insumos y la infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/09/industria-petroquimica-mexicana-duplicar-capacidad-decada",
-      "fecha": "09 Jul 2026, 17:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras conquistar la entrega de comida, el delivery acelera su ofensiva en las compras de conveniencia",
-      "resumen": "Es DiDi quien quiere convertirse en el canal donde ocurre la compra, independientemente de si el producto sale de un Oxxo, una farmacia, un supermercado o una tienda de barrio.",
-      "link": "https://expansion.mx/empresas/2026/07/09/didi-shop-competir-oxxo-entregas-menos-una-hora",
-      "fecha": "09 Jul 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 3 empresas argentinas que conquistan México: una vende 124,000 millones y emplea a 35,000 personas",
-      "resumen": "Estas empresas argentinas encontraron en México un mercado clave para crecer: operan en comercio digital, turismo, consumo e infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/07/08/las-3-empresas-argentinas-que-conquistan-mexico",
-      "fecha": "08 Jul 2026, 18:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Grupo Bimbo suma 500,000 hectáreas bajo agricultura regenerativa",
-      "resumen": "En el marco del Día Internacional de la Conservación de Suelo, la panificadora avanza en el compromiso de que sus ingredientes provengan de prácticas más amigables con el medio ambiente.",
-      "link": "https://expansion.mx/empresas/2026/07/08/grupo-bimbo-suma-500-000-hectareas-bajo-agricultura-regenerativa",
-      "fecha": "08 Jul 2026, 18:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ajustan plazos para centrales bajo planeación vinculante",
+      "resumen": "Sener modifico las fechas y plazos de la segunda convocatoria para proyectos estratégicos de generación eléctrica.",
+      "link": "https://www.reforma.com/ajustan-plazos-para-centrales-bajo-planeacion-vinculante/ar3238405",
+      "fecha": "10 Jul 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "El tráfico de pasajeros de Viva bajó 2.4% en junio, respecto al mismo mes de 2025, transportando 2.4 millones de pasajeros.",
       "link": "https://www.reforma.com/baja-2-4-trafico-de-pasajeros-de-viva-en-junio/ar3238221",
       "fecha": "10 Jul 2026, 12:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bloquea China exportaciones de helio",
-      "resumen": "China anunció el bloqueo temporal de la exportación de helio, un elemento clave para la fabricación de chips.",
-      "link": "https://www.reforma.com/bloquea-china-exportaciones-de-helio/ar3238205",
-      "fecha": "10 Jul 2026, 12:53 hrs"
     }
   ]
 }
