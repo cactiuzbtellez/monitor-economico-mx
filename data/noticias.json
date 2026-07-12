@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/07/2026 05:59 hrs",
+  "actualizado": "12/07/2026 07:46 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
+      "resumen": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olinia.",
+      "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
+      "fecha": "12 Jul 2026, 00:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
       "resumen": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
       "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
@@ -136,15 +145,6 @@
       "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
       "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
       "fecha": "10 Jul 2026, 12:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es David Vélez, el multimillonario detrás de Nu, el nuevo banco autorizado para operar en México?",
-      "resumen": "Trabajó en Wall Street, detectó una oportunidad mientras intentaba abrir una cuenta bancaria en Brasil y terminó construyendo una de las empresas financieras más influyentes de América Latina.",
-      "link": "https://expansion.mx/empresas/2026/07/10/quien-es-david-velez-dueno-nu-bank",
-      "fecha": "10 Jul 2026, 11:08 hrs"
     },
     {
       "fuente": "Reforma",
