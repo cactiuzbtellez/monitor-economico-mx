@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/07/2026 16:48 hrs",
+  "actualizado": "12/07/2026 17:53 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Prevén más absorción industrial",
+      "resumen": "La absorción de espacios industriales crecerá durante la segunda mitad del año, impulsada por una menor incertidumbre",
+      "link": "https://www.reforma.com/preven-mas-absorcion-industrial/ar3239113",
+      "fecha": "12 Jul 2026, 17:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sufre nuevos 'males' el sector financiero",
+      "resumen": "Las amenazas\nde la actualidad\nestán en vectores\ncibernéticos.- WTW",
+      "link": "https://www.reforma.com/sufre-nuevos-males-el-sector-financiero/ar3239103",
+      "fecha": "12 Jul 2026, 17:45 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dicen no a 130 mmdd en proyectos de IA",
       "resumen": "En el primer trimestre de 2026, comunidades en EU bloquearon proyectos de centros de datos para IA por 130 mil millones de dólares.",
       "link": "https://www.reforma.com/dicen-no-a-130-mmdd-en-proyectos-de-ia/ar3238494",
       "fecha": "11 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recuperan azucareros mexicanos acceso a EU",
+      "resumen": "Gobierno mexicano anunció que EU iniciará la regulación de acceso al mercado estadounidense a productores mexicanos de azúcar.",
+      "link": "https://www.reforma.com/recuperan-azucareros-mexicanos-acceso-a-eu/ar3238450",
+      "fecha": "12 Jul 2026, 17:45 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el debut triunfal del fabricante surcoreano de chips SK Hynix, que subió 12.76%",
       "link": "https://www.reforma.com/impulsa-a-wall-street-el-debut-triunfal-de-sk-hynix/ar3238311",
       "fecha": "10 Jul 2026, 15:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Demanda Apple a OpenAI por robo de secretos comerciales",
-      "resumen": "Apple presentó una demanda contra OpenAI ante un tribunal federal del norte de California, alegando el robo de secretos comerciales.",
-      "link": "https://www.reforma.com/demanda-apple-a-openai-por-robo-de-secretos-comerciales/ar3238298",
-      "fecha": "10 Jul 2026, 14:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "El testigo que México regaló",
-      "resumen": "México tuvo en sus manos al testigo clave del caso de El Mayo Zambada y lo entregó a Estados Unidos.",
-      "link": "https://www.reforma.com/el-testigo-que-mexico-regalo/ar3238320",
-      "fecha": "11 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo la semana con pérdidas",
-      "resumen": "El barril de crudo Brent retrocedió un 0.38% hasta los 76.01 dólares; su equivalente estadounidense, el WTI, cedió 0.93%, a 71.41 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-la-semana-con-perdidas/ar3238281",
-      "fecha": "10 Jul 2026, 14:34 hrs"
     }
   ]
 }
