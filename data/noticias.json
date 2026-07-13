@@ -1,7 +1,25 @@
 {
-  "actualizado": "13/07/2026 10:33 hrs",
+  "actualizado": "13/07/2026 12:43 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU cobrará un tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
+      "resumen": "\"El Estrecho de Ormuz está ABIERTO y permanecerá ABIERTO, con o sin Irán\" aseguró Donald Trump, en referencia a ese paso marítimo por donde circula cerca de 20% del crudo mundial en tiempos de paz.",
+      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-un-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
+      "fecha": "13 Jul 2026, 09:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
+      "resumen": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
+      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
+      "fecha": "13 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Con base en las denuncias que reciba la Condusef sobre fraudes, la UIF trabajará en el análisis de la información que le permita identificar el origen de estos delitos.",
       "link": "https://expansion.mx/economia/2026/07/09/fraudes-aumentan-17-y-la-condusef-firma-acuerdo-con-la-uif-para-prevenirlo",
       "fecha": "09 Jul 2026, 13:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico advierte resistencia en inflación de servicios; si no mejora, podrá hacer nuevo ajuste a tasa",
-      "resumen": "La Junta de Gobierno destacó que la inflación en servicios no da señales claras de reversión debido a presiones estructurales de costos laborales y a una mayor demanda de servicios turísticos.",
-      "link": "https://expansion.mx/economia/2026/07/09/banxico-advierte-resistencia-en-inflacion-de-servicios",
-      "fecha": "09 Jul 2026, 12:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inflación baja a 3.37% en junio por desplome del jitomate, huevo y chiles",
-      "resumen": "La inflación sorprendió a la baja frente a lo esperado por analistas. El alivio vino de frutas, verduras y productos agropecuarios, aunque servicios y alimentos procesados aún reflejan presiones.",
-      "link": "https://expansion.mx/economia/2026/07/09/inflacion-baja-a-3-37-en-junio-por-desplome-del-jitomate-huevo-y-chiles",
-      "fecha": "09 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Valen 47% más envíos  de res ¡gracias al gusano!",
-      "resumen": "De enero a mayo pasados, el valor de las exportaciones mexicanas de carne de res alcanzó mil 336 millones de dólares.",
-      "link": "https://www.reforma.com/valen-47-mas-envios-de-res-gracias-al-gusano/ar3239236",
-      "fecha": "13 Jul 2026, 05:02 hrs"
+      "titulo": "Se disparan precios del crudo más de 9%",
+      "resumen": "Los futuros del crudo WTI cerraron con un alza de 9.42%, a 78.14 dólares; mientras que los del Brent subieron un 9.45%, a 83.18 dólares.",
+      "link": "https://www.reforma.com/se-disparan-precios-del-crudo-mas-de-9/ar3239463",
+      "fecha": "13 Jul 2026, 12:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo más de 2% tras nuevos ataques de EU e Irán",
-      "resumen": "Los precios del crudo subían más de 2%, tras nuevos ataques militares entre EU e Irán que reavivaron las preocupaciones sobre el suministro.",
-      "link": "https://www.reforma.com/sube-crudo-mas-de-2-tras-nuevos-ataques-de-eu-e-iran/ar3239351",
-      "fecha": "13 Jul 2026, 07:10 hrs"
+      "titulo": "Valen 47% más envíos  de res ¡gracias al gusano!",
+      "resumen": "De enero a mayo pasados, el valor de las exportaciones mexicanas de carne de res alcanzó mil 336 millones de dólares.",
+      "link": "https://www.reforma.com/valen-47-mas-envios-de-res-gracias-al-gusano/ar3239236",
+      "fecha": "13 Jul 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perdería fisco 23 mmdp por los cigarros ilícitos",
-      "resumen": "Alza de IEPS propició que mercado ilícito le quite participación a tabacaleras formales que se traduciría en una evasión fiscal de 23 mmdp.",
-      "link": "https://www.reforma.com/perderia-fisco-23-mmdp-por-los-cigarros-ilicitos/ar3239225",
-      "fecha": "13 Jul 2026, 05:02 hrs"
+      "titulo": "Produce Dos Bocas a 42% de capacidad",
+      "resumen": "La Refinería de Dos Bocas produjo en mayo 144 mil 400 barriles de petróleo diarios, cuando fue diseñada para producir 340 mil, según Pemex.",
+      "link": "https://www.reforma.com/produce-dos-bocas-a-42-de-capacidad/ar3239213",
+      "fecha": "13 Jul 2026, 05:01 hrs"
     }
   ]
 }
