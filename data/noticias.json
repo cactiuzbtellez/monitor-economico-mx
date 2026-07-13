@@ -1,14 +1,14 @@
 {
-  "actualizado": "13/07/2026 12:43 hrs",
+  "actualizado": "13/07/2026 14:14 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "EU cobrará un tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
+      "titulo": "EU cobrará una tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
       "resumen": "\"El Estrecho de Ormuz está ABIERTO y permanecerá ABIERTO, con o sin Irán\" aseguró Donald Trump, en referencia a ese paso marítimo por donde circula cerca de 20% del crudo mundial en tiempos de paz.",
-      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-un-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
+      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-una-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
       "fecha": "13 Jul 2026, 09:32 hrs"
     },
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Los vehículos más robados en México: los modelos favoritos de los ladrones y dónde ocurren más casos",
+      "resumen": "Más allá del número total de casos, los datos revelan diferencias importantes por tipo de vehículo, modalidad del robo y lugar donde ocurre.",
+      "link": "https://expansion.mx/empresas/2026/07/13/autos-mas-robados-en-mexico-2026",
+      "fecha": "13 Jul 2026, 11:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen estudia recortar otros 50,000 puestos de trabajo en todo el mundo",
+      "resumen": "El director ejecutivo de Volkswagen, Oliver Blume, afirmó que la empresa necesita reducir sus costos fijos para recuperar competitividad y advirtió que el peso de los gastos laborales será un factor c…",
+      "link": "https://expansion.mx/empresas/2026/07/13/volkswagen-recortar-50-000-puestos-de-trabajo",
+      "fecha": "13 Jul 2026, 11:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
       "resumen": "La primera sucesión en la historia de la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para ge…",
       "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
@@ -129,31 +147,22 @@
       "fecha": "10 Jul 2026, 16:28 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia de la empresa mexicana que creó Carlos V y Chocolate Abuelita y terminó por desaparecer",
-      "resumen": "Durante décadas fue una de las mayores chocolateras del país, creó marcas icónicas y llegó a expandirse por México. Su historia cambió con la llegada de capital extranjero.",
-      "link": "https://expansion.mx/empresas/2026/07/10/historia-empresa-creo-carlos-v-chocolate-abuelita",
-      "fecha": "10 Jul 2026, 13:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La empresa española que está entre las 10 más importantes de México y supera a varios gigantes nacionales",
-      "resumen": "La institución nació como un banco mexicano hace más de nueve décadas y hoy es el principal negocio de BBVA fuera de España, además de una de las empresas más grandes del país.",
-      "link": "https://expansion.mx/empresas/2026/07/10/empresa-espanola-entre-las-10-mas-importantes-de-mexico",
-      "fecha": "10 Jul 2026, 13:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan sobre estafas impulsadas por IA en final del Mundial",
+      "resumen": "Ante la final del Mundial, Kaspersky alertó de posibles ciberfraudes impulsados por el uso de la IA y la emoción generada por el juego.",
+      "link": "https://www.reforma.com/alertan-sobre-estafas-impulsadas-por-ia-en-final-del-mundial/ar3239511",
+      "fecha": "13 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja 41% en NL  vivienda popular",
-      "resumen": "La construcción de casas económicas tuvo una caídanual de 41.3% entre enero y junio.",
-      "link": "https://www.reforma.com/baja-41-en-nl-vivienda-popular/ar3239234",
-      "fecha": "13 Jul 2026, 05:02 hrs"
+      "titulo": "Se disparan precios del crudo más de 9%",
+      "resumen": "Los futuros del crudo WTI cerraron con un alza de 9.42%, a 78.14 dólares; mientras que los del Brent subieron un 9.59%, a 83.30 dólares.",
+      "link": "https://www.reforma.com/se-disparan-precios-del-crudo-mas-de-9/ar3239463",
+      "fecha": "13 Jul 2026, 12:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,19 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se disparan precios del crudo más de 9%",
-      "resumen": "Los futuros del crudo WTI cerraron con un alza de 9.42%, a 78.14 dólares; mientras que los del Brent subieron un 9.45%, a 83.18 dólares.",
-      "link": "https://www.reforma.com/se-disparan-precios-del-crudo-mas-de-9/ar3239463",
-      "fecha": "13 Jul 2026, 12:20 hrs"
+      "titulo": "Aumentará EU un 512% las importaciones de azúcar mexicana",
+      "resumen": "USDA estima que importará hasta 1.15 millones de toneladas métricas de azúcar mexicana en el ciclo 2026-2027, un 512% más frente al actual.",
+      "link": "https://www.reforma.com/aumentara-eu-un-512-las-importaciones-de-azucar-mexicana/ar3239405",
+      "fecha": "13 Jul 2026, 09:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentará EU un 512% las importaciones de azúcar mexicana",
-      "resumen": "USDA estima que importará hasta 1.15 millones de toneladas métricas de azúcar mexicana en el ciclo 2026-2027, un 512% más frente al actual.",
-      "link": "https://www.reforma.com/aumentara-eu-un-512-las-importaciones-de-azucar-mexicana/ar3239405",
-      "fecha": "13 Jul 2026, 09:48 hrs"
+      "titulo": "Entregó CRT primera concesión para uso social afromexicana",
+      "resumen": "La CRT entregó la primera concesión de uso social afromexicana en esta gestión, a Santa María Cortijo, Oaxaca, con frecuencia 91.1 FM.",
+      "link": "https://www.reforma.com/entrego-crt-primera-concesion-para-uso-social-afromexicana/ar3239500",
+      "fecha": "13 Jul 2026, 14:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Otorgan al IMPI distinción a nivel internacional",
+      "resumen": "El IMPI fue nombrado como Administración encargada de la Búsqueda Internacional y del Examen Preliminar Internacional.",
+      "link": "https://www.reforma.com/otorgan-al-impi-distincion-a-nivel-internacional/ar3239487",
+      "fecha": "13 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,27 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Valen 47% más envíos  de res ¡gracias al gusano!",
-      "resumen": "De enero a mayo pasados, el valor de las exportaciones mexicanas de carne de res alcanzó mil 336 millones de dólares.",
-      "link": "https://www.reforma.com/valen-47-mas-envios-de-res-gracias-al-gusano/ar3239236",
-      "fecha": "13 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Tiene Deer Park un siglo y opera al 77%",
       "resumen": "Refinería Deer Park, construida en 1929 en Texas, que está bajo control de Pemex, opera al 77% de capacidad, según datos de SEC de EU.",
       "link": "https://www.reforma.com/tiene-deer-park-un-siglo-y-opera-al-77/ar3239231",
-      "fecha": "13 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Produce Dos Bocas a 42% de capacidad",
-      "resumen": "La Refinería de Dos Bocas produjo en mayo 144 mil 400 barriles de petróleo diarios, cuando fue diseñada para producir 340 mil, según Pemex.",
-      "link": "https://www.reforma.com/produce-dos-bocas-a-42-de-capacidad/ar3239213",
       "fecha": "13 Jul 2026, 05:01 hrs"
     }
   ]
