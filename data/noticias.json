@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/07/2026 14:14 hrs",
+  "actualizado": "13/07/2026 15:56 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Amparo mantiene detenido el avance de la terminal de licuefacción Amigo GNL",
+      "resumen": "La suspensión definitiva otorgada dentro de un juicio de amparo impide, en tanto no exista una resolución de fondo, que el proyecto avance en su construcción.",
+      "link": "https://expansion.mx/empresas/2026/07/13/amparo-frena-avance-amigo-gnl-sonora",
+      "fecha": "13 Jul 2026, 13:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Los vehículos más robados en México: los modelos favoritos de los ladrones y dónde ocurren más casos",
       "resumen": "Más allá del número total de casos, los datos revelan diferencias importantes por tipo de vehículo, modalidad del robo y lugar donde ocurre.",
       "link": "https://expansion.mx/empresas/2026/07/13/autos-mas-robados-en-mexico-2026",
@@ -138,22 +147,13 @@
       "fecha": "10 Jul 2026, 17:48 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras los incidentes en el Interoceánico, la carga ferroviaria exige reglas para convivir con los trenes de pasajeros",
-      "resumen": "Aunque la industria celebra que se construyan vías dedicadas, advierte riesgos durante las obras y pide fortalecer la regulación para garantizar una convivencia segura y eficiente.",
-      "link": "https://expansion.mx/empresas/2026/07/10/trenes-pasajeros-carga-operacion-industria-ferroviaria",
-      "fecha": "10 Jul 2026, 16:28 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan sobre estafas impulsadas por IA en final del Mundial",
-      "resumen": "Ante la final del Mundial, Kaspersky alertó de posibles ciberfraudes impulsados por el uso de la IA y la emoción generada por el juego.",
-      "link": "https://www.reforma.com/alertan-sobre-estafas-impulsadas-por-ia-en-final-del-mundial/ar3239511",
-      "fecha": "13 Jul 2026, 14:11 hrs"
+      "titulo": "Dejan en espera proyectos inmobiliarios de sector automotriz",
+      "resumen": "La incertidumbre por las revisiones anuales del T-MEC causó que los proyectos inmobiliarios automotrices se mantengan en espera, dijo CBRE.",
+      "link": "https://www.reforma.com/dejan-en-espera-proyectos-inmobiliarios-de-sector-automotriz/ar3239548",
+      "fecha": "13 Jul 2026, 14:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Entregó CRT primera concesión para uso social afromexicana",
-      "resumen": "La CRT entregó la primera concesión de uso social afromexicana en esta gestión, a Santa María Cortijo, Oaxaca, con frecuencia 91.1 FM.",
-      "link": "https://www.reforma.com/entrego-crt-primera-concesion-para-uso-social-afromexicana/ar3239500",
+      "titulo": "Alertan sobre estafas impulsadas por IA en final del Mundial",
+      "resumen": "Ante la final del Mundial, Kaspersky alertó de posibles ciberfraudes impulsados por el uso de la IA y la emoción generada por el juego.",
+      "link": "https://www.reforma.com/alertan-sobre-estafas-impulsadas-por-ia-en-final-del-mundial/ar3239511",
       "fecha": "13 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Otorgan al IMPI distinción a nivel internacional",
-      "resumen": "El IMPI fue nombrado como Administración encargada de la Búsqueda Internacional y del Examen Preliminar Internacional.",
-      "link": "https://www.reforma.com/otorgan-al-impi-distincion-a-nivel-internacional/ar3239487",
-      "fecha": "13 Jul 2026, 14:11 hrs"
+      "titulo": "Elige Chipotle a NL para su primera sucursal en el País",
+      "resumen": "La cadena de comida rápida Chipotle abrirá esta semana su primera sucursal en el País, la cual estará ubicada en el municipio de San Pedro.",
+      "link": "https://www.reforma.com/elige-chipotle-a-nl-para-su-primera-sucursal-en-el-pais/ar3239540",
+      "fecha": "13 Jul 2026, 14:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lanza Farmacias Similares tarjeta de crédito del Dr. Simi",
-      "resumen": "Farmacias Similares y Stori lanzaron una tarjeta de crédito de marca compartida, que lleva la imagen del Dr. Simi.",
-      "link": "https://www.reforma.com/lanza-farmacias-similares-tarjeta-de-credito-del-dr-simi/ar3239357",
-      "fecha": "13 Jul 2026, 07:24 hrs"
+      "titulo": "Alertan sobre la amenaza que representa la IA para el empleo",
+      "resumen": "Expertos advierten que la IA provocaría una transformación económica mayor que la Revolución Industrial, pero en un plazo \"mucho más breve\".",
+      "link": "https://www.reforma.com/alertan-sobre-la-amenaza-que-representa-la-ia-para-el-empleo/ar3239429",
+      "fecha": "13 Jul 2026, 11:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene Deer Park un siglo y opera al 77%",
-      "resumen": "Refinería Deer Park, construida en 1929 en Texas, que está bajo control de Pemex, opera al 77% de capacidad, según datos de SEC de EU.",
-      "link": "https://www.reforma.com/tiene-deer-park-un-siglo-y-opera-al-77/ar3239231",
-      "fecha": "13 Jul 2026, 05:01 hrs"
+      "titulo": "Cierran mercados de EU con pérdidas",
+      "resumen": "La Bolsa de Nueva York terminó a la baja, afectada por el repunte en los precios del petróleo tras las nuevas hostilidades en Medio Oriente.",
+      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-perdidas/ar3239558",
+      "fecha": "13 Jul 2026, 14:41 hrs"
     }
   ]
 }
