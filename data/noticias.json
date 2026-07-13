@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/07/2026 07:26 hrs",
+  "actualizado": "13/07/2026 10:33 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
+      "resumen": "La primera sucesión en la historia de la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para ge…",
+      "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
+      "fecha": "13 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
       "resumen": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olinia.",
       "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
@@ -138,15 +147,6 @@
       "fecha": "10 Jul 2026, 13:09 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
-      "link": "https://expansion.mx/empresas/2026/07/10/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "fecha": "10 Jul 2026, 12:08 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "La construcción de casas económicas tuvo una caídanual de 41.3% entre enero y junio.",
       "link": "https://www.reforma.com/baja-41-en-nl-vivienda-popular/ar3239234",
       "fecha": "13 Jul 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reinstala Trump bloqueo en Ormuz; cobrará tarifa a buques",
+      "resumen": "Trump restableció el bloqueo a barcos de Irán en Ormuz y EU cobrará tarifa de 20% de la carga de cada buque de los demás países que cruce.",
+      "link": "https://www.reforma.com/reinstala-trump-bloqueo-en-ormuz-cobrara-tarifa-a-buques/ar3239360",
+      "fecha": "13 Jul 2026, 07:33 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,28 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene Deer Park un siglo y opera al 77%",
-      "resumen": "Refinería Deer Park, construida en 1929 en Texas, que está bajo control de Pemex, opera al 77% de capacidad, según datos de SEC de EU.",
-      "link": "https://www.reforma.com/tiene-deer-park-un-siglo-y-opera-al-77/ar3239231",
-      "fecha": "13 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Perdería fisco 23 mmdp por los cigarros ilícitos",
-      "resumen": "Alza de IEPS propició que mercado ilícito le quite participación a tabacaleras formales que se traduciría en una evasión fiscal de 23 mmdp.",
-      "link": "https://www.reforma.com/perderia-fisco-23-mmdp-por-los-cigarros-ilicitos/ar3239225",
-      "fecha": "13 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Depura IMSS registros... otros se hacen informales",
-      "resumen": "La caída de 26 mil registros patronales en el IMSS en el último año, responde a la depuración del padrón y por más informalidad.",
-      "link": "https://www.reforma.com/depura-imss-registros-otros-se-hacen-informales/ar3239216",
-      "fecha": "13 Jul 2026, 05:02 hrs"
+      "titulo": "Aumentará EU un 512% las importaciones de azúcar mexicana",
+      "resumen": "USDA estima que importará hasta 1.15 millones de toneladas métricas de azúcar mexicana en el ciclo 2026-2027, un 512% más frente al actual.",
+      "link": "https://www.reforma.com/aumentara-eu-un-512-las-importaciones-de-azucar-mexicana/ar3239405",
+      "fecha": "13 Jul 2026, 09:48 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Produce Dos Bocas a 42% de capacidad",
-      "resumen": "La Refinería de Dos Bocas produjo en mayo 144 mil 400 barriles de petróleo diarios, cuando fue diseñada para producir 340 mil, según Pemex.",
-      "link": "https://www.reforma.com/produce-dos-bocas-a-42-de-capacidad/ar3239213",
+      "titulo": "Tiene Deer Park un siglo y opera al 77%",
+      "resumen": "Refinería Deer Park, construida en 1929 en Texas, que está bajo control de Pemex, opera al 77% de capacidad, según datos de SEC de EU.",
+      "link": "https://www.reforma.com/tiene-deer-park-un-siglo-y-opera-al-77/ar3239231",
       "fecha": "13 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Perdería fisco 23 mmdp por los cigarros ilícitos",
+      "resumen": "Alza de IEPS propició que mercado ilícito le quite participación a tabacaleras formales que se traduciría en una evasión fiscal de 23 mmdp.",
+      "link": "https://www.reforma.com/perderia-fisco-23-mmdp-por-los-cigarros-ilicitos/ar3239225",
+      "fecha": "13 Jul 2026, 05:02 hrs"
     }
   ]
 }
