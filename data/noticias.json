@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/07/2026 20:45 hrs",
+  "actualizado": "13/07/2026 00:18 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Pierde NL 1,121 patrones en junio",
+      "resumen": "En junio, el número de registros patronales en Nuevo León se ubicó en 75 mil 962, menor en un 1.5% respecto al mismo mes del año pasado.",
+      "link": "https://www.reforma.com/pierde-nl-1-121-patrones-en-junio/ar3239242",
+      "fecha": "12 Jul 2026, 22:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reinician ataques a Irán y repunta precio del crudo",
+      "resumen": "El petróleo subió más de 4 por ciento tras los ataques de Estados Unidos a Irán y la amenaza de cerrar el Estrecho de Ormuz.",
+      "link": "https://www.reforma.com/reinician-ataques-a-iran-y-repunta-precio-del-crudo/ar3239235",
+      "fecha": "12 Jul 2026, 22:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Prepara CRT licitación para redes inteligentes industriales",
       "resumen": "La CRT abrió consulta para licitar espectro destinado a redes inteligentes e impulsar la conectividad especializada en sectores productivos.",
       "link": "https://www.reforma.com/prepara-crt-licitacion-para-redes-inteligentes-industriales/ar3239150",
@@ -199,24 +217,6 @@
       "resumen": "Sener modifico las fechas y plazos de la segunda convocatoria para proyectos estratégicos de generación eléctrica.",
       "link": "https://www.reforma.com/ajustan-plazos-para-centrales-bajo-planeacion-vinculante/ar3238405",
       "fecha": "10 Jul 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Encadena BMV cuarta semana a la baja",
-      "resumen": "La BMV cerró el viernes en el nivel de 66 mil 496.13 unidades; sin embargo a nivel semanal acumuló su cuarta semana la hilo con caídas.",
-      "link": "https://www.reforma.com/encadena-bmv-cuarta-semana-a-la-baja/ar3238393",
-      "fecha": "10 Jul 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar semana en $17.47",
-      "resumen": "El dólar cerró la semana con una cotización de $17.47; cifra casi 8 centavos menor a lo registrado el jueves y sin cambios a nviel semanal.",
-      "link": "https://www.reforma.com/cierra-dolar-semana-en-17-47/ar3238377",
-      "fecha": "10 Jul 2026, 17:34 hrs"
     }
   ]
 }
