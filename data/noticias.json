@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/07/2026 17:53 hrs",
+  "actualizado": "12/07/2026 20:45 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Prepara CRT licitación para redes inteligentes industriales",
+      "resumen": "La CRT abrió consulta para licitar espectro destinado a redes inteligentes e impulsar la conectividad especializada en sectores productivos.",
+      "link": "https://www.reforma.com/prepara-crt-licitacion-para-redes-inteligentes-industriales/ar3239150",
+      "fecha": "12 Jul 2026, 18:49 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Prevén más absorción industrial",
       "resumen": "La absorción de espacios industriales crecerá durante la segunda mitad del año, impulsada por una menor incertidumbre",
       "link": "https://www.reforma.com/preven-mas-absorcion-industrial/ar3239113",
@@ -208,15 +217,6 @@
       "resumen": "El dólar cerró la semana con una cotización de $17.47; cifra casi 8 centavos menor a lo registrado el jueves y sin cambios a nviel semanal.",
       "link": "https://www.reforma.com/cierra-dolar-semana-en-17-47/ar3238377",
       "fecha": "10 Jul 2026, 17:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa a Wall Street el debut triunfal de SK Hynix",
-      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el debut triunfal del fabricante surcoreano de chips SK Hynix, que subió 12.76%",
-      "link": "https://www.reforma.com/impulsa-a-wall-street-el-debut-triunfal-de-sk-hynix/ar3238311",
-      "fecha": "10 Jul 2026, 15:00 hrs"
     }
   ]
 }
