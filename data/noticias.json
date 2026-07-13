@@ -1,7 +1,16 @@
 {
-  "actualizado": "13/07/2026 16:57 hrs",
+  "actualizado": "13/07/2026 17:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Monedas de 10 pesos serán fabricadas con nuevos materiales",
+      "resumen": "Con la publicación del decreto en el DOF, se espera que estas nuevas monedas comiencen a fabricarse en lo que resta del año.",
+      "link": "https://expansion.mx/economia/2026/07/13/monedas-de-10-pesos-seran-fabricadas-con-nuevos-materiales",
+      "fecha": "13 Jul 2026, 16:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
       "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
       "fecha": "09 Jul 2026, 16:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA vs. Banco Azteca: ¿Qué banco tiene más cajeros y sucursales en México?",
-      "resumen": "Los datos más recientes de la CNBV muestran cómo los principales bancos están redefiniendo su presencia física en México ante el avance de la banca digital.",
-      "link": "https://expansion.mx/economia/2026/07/09/bbva-vs-banco-azteca-que-banco-tiene-mas-cajeros-sucursales",
-      "fecha": "09 Jul 2026, 15:27 hrs"
     },
     {
       "fuente": "Expansión",
