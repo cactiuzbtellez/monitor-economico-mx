@@ -1,34 +1,7 @@
 {
-  "actualizado": "14/07/2026 13:19 hrs",
+  "actualizado": "14/07/2026 14:59 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
-      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
-      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
-      "fecha": "14 Jul 2026, 09:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inflación de EU se desacelera a 3.5% en junio por baja en precios de la gasolina",
-      "resumen": "Con la reciente reanudación de las hostilidades entre Washington y Teherán, y con la orden del presidente Donald Trump de reiniciar el bloqueo a los puertos iraníes, la mejora podría ser pasajera.",
-      "link": "https://expansion.mx/economia/2026/07/14/inflacion-de-eu-se-desacelera-a-3-5-en-junio-por-baja-en-precios-de-la-gasolina",
-      "fecha": "14 Jul 2026, 08:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La revisión del T-MEC abre un nuevo frente de EU contra las fresas mexicanas",
-      "resumen": "Más de 200 millones de kilos de fresas mexicanas, valuados en casi 1,000 millones de dólares, enfrentan la presión de productores de Florida para acelerar la investigación antidumping.",
-      "link": "https://expansion.mx/economia/2026/07/14/tmec-presion-politica-catigo-fresas-mexicanas",
-      "fecha": "14 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,42 @@
       "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
       "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
       "fecha": "10 Jul 2026, 18:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu recibe autorización final para operar como banco en México",
+      "resumen": "Siete años después de haber llegado al país, Nu se transformó en banco, con lo que podrá ofrecer productos de nómina. Tiene 30 días naturales para completar el proceso.",
+      "link": "https://expansion.mx/economia/2026/07/10/nu-ya-es-banco",
+      "fecha": "10 Jul 2026, 09:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
+      "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
+      "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
+      "fecha": "09 Jul 2026, 18:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México perfila exportaciones de 730,000 mdd; T-MEC entra en una \"certidumbre realista\"",
+      "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
+      "fecha": "09 Jul 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Estos Nissan pueden obtener el holograma 00 dos veces y circular diario en CDMX y Edomex",
+      "resumen": "La lista oficial incluye desde sedanes compactos hasta SUVs. Sin embargo, no todos los modelos reciben el mismo beneficio y algunos tienen restricciones según versión y año modelo.",
+      "link": "https://expansion.mx/empresas/2026/07/14/autos-nissan-holograma-00-dos-veces",
+      "fecha": "14 Jul 2026, 11:42 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,31 +147,22 @@
       "fecha": "13 Jul 2026, 13:58 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los vehículos más robados en México: los modelos favoritos de los ladrones y dónde ocurren más casos",
-      "resumen": "Más allá del número total de casos, los datos revelan diferencias importantes por tipo de vehículo, modalidad del robo y lugar donde ocurre.",
-      "link": "https://expansion.mx/empresas/2026/07/13/autos-mas-robados-en-mexico-2026",
-      "fecha": "13 Jul 2026, 11:32 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lanzan alerta para México: urge sanear las finanzas públicas",
+      "resumen": "Especialistas alertaron la necesidad de sanear las finanzas públicas para no condenar a México a un entorno de bajo crecimiento.",
+      "link": "https://www.reforma.com/lanzan-alerta-para-mexico-urge-sanear-las-finanzas-publicas/ar3240213",
+      "fecha": "14 Jul 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ponen en marcha reajuste automotriz",
-      "resumen": "La potencia automotriz que fue México en las últimas tres décadas se tambalea ante política comercial de EU de atraer armadoras a su país.",
-      "link": "https://www.reforma.com/ponen-en-marcha-reajuste-automotriz/ar3239812",
-      "fecha": "14 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "... Y anticipan desventaja automotriz para México",
-      "resumen": "Para México será fundamental alcanzar con Estados Unidos un acuerdo que brinde certeza y reglas claras sobre el contenido automotriz.",
-      "link": "https://www.reforma.com/y-anticipan-desventaja-automotriz-para-mexico/ar3239802",
-      "fecha": "14 Jul 2026, 05:01 hrs"
+      "titulo": "Registró Mundial bajo impacto en el empleo",
+      "resumen": "El Mundial tuvo un bajo impacto en la creación de empleo en el País, pese a que se favoreció la contratación temporal, según BBVA.",
+      "link": "https://www.reforma.com/registro-mundial-bajo-impacto-en-el-empleo/ar3240206",
+      "fecha": "14 Jul 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revela Banxico temores de la IP",
-      "resumen": "Problemas de inseguridad en el País, falta de Estado de Derecho y fragilidad de finanzas son factores que más preocupan a IP, según Banxico.",
-      "link": "https://www.reforma.com/revela-banxico-temores-de-la-ip/ar3239806",
-      "fecha": "14 Jul 2026, 05:01 hrs"
+      "titulo": "Pagan pymes costo de ciberataques",
+      "resumen": "Pymes enfrentan el riesgo de robo de información, interrupción de operaciones y daño reputacional debido al aumento de ciberataques.",
+      "link": "https://www.reforma.com/pagan-pymes-costo-de-ciberataques/ar3240224",
+      "fecha": "14 Jul 2026, 14:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo 2% tras retiro de propuesta de peaje por Ormuz",
-      "resumen": "El Presidente Trump dijo que no impondrá una tasa del 20% para que los buques puedan atravesar el estrecho de Ormuz.",
-      "link": "https://www.reforma.com/sube-crudo-2-tras-retiro-de-propuesta-de-peaje-por-ormuz/ar3240004",
-      "fecha": "14 Jul 2026, 09:37 hrs"
+      "titulo": "Modera crudo avance: Brent cierra en 84.73 dólares",
+      "resumen": "Tras haber subido más de un 5% a primera hora de la jornada, el Brent cerró con un alza del 1.72%, mientras que el WTI subió 1.54% a 79.34.",
+      "link": "https://www.reforma.com/modera-crudo-avance-brent-cierra-en-84-73-dolares/ar3240223",
+      "fecha": "14 Jul 2026, 14:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cancela Pemex 4 contratos mixtos",
-      "resumen": "Pemex canceló cuatro contratos de desarrollo mixto, el programa estrella dirigido a incrementar la producción de crudo y gas natural.",
-      "link": "https://www.reforma.com/cancela-pemex-4-contratos-mixtos/ar3239758",
-      "fecha": "14 Jul 2026, 05:01 hrs"
+      "titulo": "Suben mercados de EU ante moderado dato de inflación",
+      "resumen": "Los principales índices accionarios avanzaron por los sólidos resultados de grandes bancos y un informe de inflación menor a lo previsto.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-ante-moderado-dato-de-inflacion/ar3240244",
+      "fecha": "14 Jul 2026, 14:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirman que Nvidia empezó a enviar a China su chip H200",
-      "resumen": "El subsecretario de Comercio para Industria y Seguridad de EU dijo que ya se ha enviado a China un pequeño número de chips H200 de Nvidia.",
-      "link": "https://www.reforma.com/afirman-que-nvidia-empezo-a-enviar-a-china-su-chip-h200/ar3240126",
-      "fecha": "14 Jul 2026, 12:32 hrs"
+      "titulo": "Caen 1.6% ventas de tiendas ANTAD",
+      "resumen": "En junio, las ventas a Tiendas Iguales, que consideran todas las que tienen más de un año de operación, mostraron una caída de 1.6%.",
+      "link": "https://www.reforma.com/caen-1-6-ventas-de-tiendas-antad/ar3240233",
+      "fecha": "14 Jul 2026, 14:47 hrs"
     }
   ]
 }
