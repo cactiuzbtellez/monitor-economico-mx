@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/07/2026 16:06 hrs",
+  "actualizado": "14/07/2026 17:53 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los mexicanos superan la educación de sus padres, pero no necesariamente su patrimonio",
+      "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
+      "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
+      "fecha": "14 Jul 2026, 14:27 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
       "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
       "fecha": "13 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
-      "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
-      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
-      "fecha": "10 Jul 2026, 18:14 hrs"
     },
     {
       "fuente": "Expansión",
