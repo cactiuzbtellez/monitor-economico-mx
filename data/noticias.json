@@ -1,7 +1,25 @@
 {
-  "actualizado": "14/07/2026 09:22 hrs",
+  "actualizado": "14/07/2026 11:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de EU se desacelera a 3.5% en junio por baja en precios de la gasolina",
+      "resumen": "Con la reciente reanudación de las hostilidades entre Washington y Teherán, y con la orden del presidente Donald Trump de reiniciar el bloqueo a los puertos iraníes, la mejora podría ser pasajera.",
+      "link": "https://expansion.mx/economia/2026/07/14/inflacion-de-eu-se-desacelera-a-3-5-en-junio-por-baja-en-precios-de-la-gasolina",
+      "fecha": "14 Jul 2026, 08:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La revisión del T-MEC abre un nuevo frente de EU contra las fresas mexicanas",
+      "resumen": "Más de 200 millones de kilos de fresas mexicanas, valuados en casi 1,000 millones de dólares, enfrentan la presión de productores de Florida para acelerar la investigación antidumping.",
+      "link": "https://expansion.mx/economia/2026/07/14/tmec-presion-politica-catigo-fresas-mexicanas",
+      "fecha": "14 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
-      "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
-      "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
-      "fecha": "09 Jul 2026, 18:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México perfila exportaciones de 730,000 mdd; T-MEC entra en una \"certidumbre realista\"",
-      "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
-      "fecha": "09 Jul 2026, 16:01 hrs"
+      "titulo": "Mexicana abre nueva ruta desde el AIFA a Chihuahua: fechas, horarios y costo de los vuelos",
+      "resumen": "La empresa mexicana destaca el compromiso de ampliar su oferta a más destinos nacionales desde el AIFA, con la nueva ruta hacia Chihuahua, suma 19 destinos.",
+      "link": "https://expansion.mx/empresas/2026/07/14/nueva-ruta-mexicana-desde-el-aifa-a-chihuahua",
+      "fecha": "14 Jul 2026, 08:24 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "13 Jul 2026, 11:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
-      "resumen": "La sucesión del cargo en la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para generar resulta…",
-      "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
-      "fecha": "13 Jul 2026, 05:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,19 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Licitará Consar gestión de cuentas del SAR",
-      "resumen": "Consar alista una licitación para elegir a la Afore que llevará el control y registro de 9.3 millones de cuentas individuales inactivas.",
-      "link": "https://www.reforma.com/licitara-consar-gestion-de-cuentas-del-sar/ar3239807",
-      "fecha": "14 Jul 2026, 05:01 hrs"
+      "titulo": "Valoran mexicanos T-MEC, pero consideran cambios",
+      "resumen": "Para los mexicanos, el T-MEC es el mejor evaluado de todos los tratados, pero no ven viable mantenerlo con las condiciones actuales.",
+      "link": "https://www.reforma.com/valoran-mexicanos-t-mec-pero-consideran-cambios/ar3240059",
+      "fecha": "14 Jul 2026, 10:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cancela Pemex 4 contratos mixtos",
-      "resumen": "Pemex canceló cuatro contratos de desarrollo mixto, el programa estrella dirigido a incrementar la producción de crudo y gas natural.",
-      "link": "https://www.reforma.com/cancela-pemex-4-contratos-mixtos/ar3239758",
-      "fecha": "14 Jul 2026, 05:01 hrs"
+      "titulo": "Sube crudo 2% tras retiro de propuesta de peaje por Ormuz",
+      "resumen": "El Presidente Trump dijo que no impondrá una tasa del 20% para que los buques puedan atravesar el estrecho de Ormuz.",
+      "link": "https://www.reforma.com/sube-crudo-2-tras-retiro-de-propuesta-de-peaje-por-ormuz/ar3240004",
+      "fecha": "14 Jul 2026, 09:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca crudo máximo de cuatro semanas",
-      "resumen": "Los futuros del Brent ganaban 3.47%, a 86.19 dólares por barril, mientras que el WTI sumaba 1.96%, a 79.67 dólares.",
-      "link": "https://www.reforma.com/toca-crudo-maximo-de-cuatro-semanas/ar3239920",
-      "fecha": "14 Jul 2026, 07:03 hrs"
+      "titulo": "Cancela Pemex 4 contratos mixtos",
+      "resumen": "Pemex canceló cuatro contratos de desarrollo mixto, el programa estrella dirigido a incrementar la producción de crudo y gas natural.",
+      "link": "https://www.reforma.com/cancela-pemex-4-contratos-mixtos/ar3239758",
+      "fecha": "14 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
