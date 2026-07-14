@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/07/2026 11:13 hrs",
+  "actualizado": "14/07/2026 13:19 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
+      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
+      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
+      "fecha": "14 Jul 2026, 09:50 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nu recibe autorización final para operar como banco en México",
-      "resumen": "Siete años después de haber llegado al país, Nu se transformó en banco, con lo que podrá ofrecer productos de nómina. Tiene 30 días naturales para completar el proceso.",
-      "link": "https://expansion.mx/economia/2026/07/10/nu-ya-es-banco",
-      "fecha": "10 Jul 2026, 09:21 hrs"
+      "titulo": "Volaris ofrecerá internet satelital de Starlink en sus vuelos a partir de 2027",
+      "resumen": "La aerolínea incorporará el servicio de internet satelital de Starlink en mas de 150 aviones Airbus A320 y A321 desde 2027 para ofrecer wifi en vuelos de Mexico, Costa Rica y El Salvador.",
+      "link": "https://expansion.mx/empresas/2026/07/14/volaris-internet-starlink-elon-musk-vuelos-a-partir-de-2027",
+      "fecha": "14 Jul 2026, 10:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "13 Jul 2026, 11:32 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen estudia recortar otros 50,000 puestos de trabajo en todo el mundo",
-      "resumen": "El director ejecutivo de Volkswagen, Oliver Blume, afirmó que la empresa necesita reducir sus costos fijos para recuperar competitividad y advirtió que el peso de los gastos laborales será un factor c…",
-      "link": "https://expansion.mx/empresas/2026/07/13/volkswagen-recortar-50-000-puestos-de-trabajo",
-      "fecha": "13 Jul 2026, 11:05 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo 2% tras retiro de propuesta de peaje por Ormuz",
-      "resumen": "El Presidente Trump dijo que no impondrá una tasa del 20% para que los buques puedan atravesar el estrecho de Ormuz.",
-      "link": "https://www.reforma.com/sube-crudo-2-tras-retiro-de-propuesta-de-peaje-por-ormuz/ar3240004",
-      "fecha": "14 Jul 2026, 09:37 hrs"
+      "titulo": "Adoptan empresas IA  de manera superficial",
+      "resumen": "Pese a que la adopción de la IA va en ascenso, las funciones en las que se emplea son superficiales, reveló un estudio de EY.",
+      "link": "https://www.reforma.com/adoptan-empresas-ia-de-manera-superficial/ar3240143",
+      "fecha": "14 Jul 2026, 12:54 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,6 +195,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Sube crudo 2% tras retiro de propuesta de peaje por Ormuz",
+      "resumen": "El Presidente Trump dijo que no impondrá una tasa del 20% para que los buques puedan atravesar el estrecho de Ormuz.",
+      "link": "https://www.reforma.com/sube-crudo-2-tras-retiro-de-propuesta-de-peaje-por-ormuz/ar3240004",
+      "fecha": "14 Jul 2026, 09:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cancela Pemex 4 contratos mixtos",
       "resumen": "Pemex canceló cuatro contratos de desarrollo mixto, el programa estrella dirigido a incrementar la producción de crudo y gas natural.",
       "link": "https://www.reforma.com/cancela-pemex-4-contratos-mixtos/ar3239758",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven insuficiente alza de cupo azucarero",
-      "resumen": "Mayor importación de azúcar mexicana por parte de EU sería insuficiente para aliviar sobreoferta en México.",
-      "link": "https://www.reforma.com/ven-insuficiente-alza-de-cupo-azucarero/ar3239810",
-      "fecha": "14 Jul 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Evalúan riesgos de proveedores automotrices",
-      "resumen": "Mezcla de factores ponen en alto riesgo operativo a 1,100 proveedores a nivel mundial de la industria automotriz.",
-      "link": "https://www.reforma.com/evaluan-riesgos-de-proveedores-automotrices/ar3239805",
-      "fecha": "14 Jul 2026, 07:03 hrs"
+      "titulo": "Afirman que Nvidia empezó a enviar a China su chip H200",
+      "resumen": "El subsecretario de Comercio para Industria y Seguridad de EU dijo que ya se ha enviado a China un pequeño número de chips H200 de Nvidia.",
+      "link": "https://www.reforma.com/afirman-que-nvidia-empezo-a-enviar-a-china-su-chip-h200/ar3240126",
+      "fecha": "14 Jul 2026, 12:32 hrs"
     }
   ]
 }
