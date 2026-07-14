@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/07/2026 05:24 hrs",
+  "actualizado": "14/07/2026 07:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La revisión del T-MEC abre un nuevo frente de EU contra las fresas mexicanas",
+      "resumen": "Más de 200 millones de kilos de fresas mexicanas, valuados en casi 1,000 millones de dólares, enfrentan la presión de productores de Florida para acelerar la investigación antidumping.",
+      "link": "https://expansion.mx/economia/2026/07/14/tmec-presion-politica-catigo-fresas-mexicanas",
+      "fecha": "14 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
       "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
       "fecha": "09 Jul 2026, 18:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México perfila exportaciones de 730,000 mdd; T-MEC entra en una \"certidumbre realista\"",
-      "resumen": "El Comce ve a un México fortalecido por sus comercio, aunque advierte que el siguiente reto será reducir la incertidumbre para inversiones y contener los aranceles impuestos por Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/07/09/mexico-va-romper-su-propio-record-exportaciones-2026",
-      "fecha": "09 Jul 2026, 16:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,27 +159,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "... Y anticipan desventaja automotriz para México",
+      "resumen": "Para México será fundamental alcanzar con Estados Unidos un acuerdo que brinde certeza y reglas claras sobre el contenido automotriz.",
+      "link": "https://www.reforma.com/y-anticipan-desventaja-automotriz-para-mexico/ar3239802",
+      "fecha": "14 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Licitará Consar gestión de cuentas del SAR",
       "resumen": "Consar alista una licitación para elegir a la Afore que llevará el control y registro de 9.3 millones de cuentas individuales inactivas.",
       "link": "https://www.reforma.com/licitara-consar-gestion-de-cuentas-del-sar/ar3239807",
-      "fecha": "14 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anticipan desventaja automotriz para México",
-      "resumen": "Para México será fundamental alcanzar con Estados Unidos un acuerdo que brinde certeza y reglas claras sobre el contenido automotriz.",
-      "link": "https://www.reforma.com/anticipan-desventaja-automotriz-para-mexico/ar3239802",
-      "fecha": "14 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reportan trabajadores altos niveles de estrés",
-      "resumen": "El 51% de los trabajadores experimenta altos niveles de estrés diario; además de que 70% han sufrido de burnout, reveló Manpower.",
-      "link": "https://www.reforma.com/reportan-trabajadores-altos-niveles-de-estres/ar3239793",
       "fecha": "14 Jul 2026, 05:01 hrs"
     },
     {
@@ -195,27 +186,36 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Ven insuficiente alza de cupo azucarero",
+      "resumen": "Mayor importación de azúcar mexicana por parte de EU sería insuficiente para aliviar sobreoferta en México.",
+      "link": "https://www.reforma.com/ven-insuficiente-alza-de-cupo-azucarero/ar3239810",
+      "fecha": "14 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Toca crudo máximo de cuatro semanas",
+      "resumen": "Los futuros del Brent ganaban 3.47%, a 86.19 dólares por barril, mientras que el WTI sumaba 1.96%, a 79.67 dólares.",
+      "link": "https://www.reforma.com/toca-crudo-maximo-de-cuatro-semanas/ar3239920",
+      "fecha": "14 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Evalúan riesgos de proveedores automotrices",
+      "resumen": "Mezcla de factores ponen en alto riesgo operativo a 1,100 proveedores a nivel mundial de la industria automotriz.",
+      "link": "https://www.reforma.com/evaluan-riesgos-de-proveedores-automotrices/ar3239805",
+      "fecha": "14 Jul 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Piden blindar T-MEC de tarifas unilaterales",
       "resumen": "El objetivo de México debe centrarse en librar la aplicación de aranceles por decisiones unilaterales, consideran especialistas.",
       "link": "https://www.reforma.com/piden-blindar-t-mec-de-tarifas-unilaterales/ar3239770",
-      "fecha": "14 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ve Sura lento mercado de inversión",
-      "resumen": "Afore Sura ve oportunidades de inversión en sectores energéticos, infraestructura para el nearshoring e IA.",
-      "link": "https://www.reforma.com/ve-sura-lento-mercado-de-inversion/ar3239773",
-      "fecha": "14 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan uso del T-MEC para frenar exportación",
-      "resumen": "El Mecanismo Laboral de Respuesta Rápida puede utilizarse como elemento de presión comercial para méxico, advierten especialistas.",
-      "link": "https://www.reforma.com/alertan-uso-del-t-mec-para-frenar-exportacion/ar3239779",
       "fecha": "14 Jul 2026, 05:01 hrs"
     }
   ]
