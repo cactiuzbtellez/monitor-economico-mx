@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/07/2026 21:13 hrs",
+  "actualizado": "14/07/2026 00:10 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Alsea abre la primera sucursal de Chipotle en Monterrey con precios hasta 20% menores que en EU",
+      "resumen": "Nuevo León fue el punto de partida para Chipotle en México. Alsea prepara dos aperturas más este año y va por un crecimiento gradual antes de llegar a otros estados del país.",
+      "link": "https://expansion.mx/empresas/2026/07/13/alsea-abre-chipotle-monterrey-precios-menu-mexico-eu",
+      "fecha": "13 Jul 2026, 20:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
+      "resumen": "La autorización de Nu refleja el cambio que vive el sistema financiero, donde varias empresas digitales buscan operar como bancos de forma integral.",
+      "link": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
+      "fecha": "13 Jul 2026, 17:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De Danone a Renault: las 12 empresas de Francia que dominan en México y generan más de 59,500 empleos",
       "resumen": "Más allá de sus marcas, estas empresas han convertido a México en un centro de producción, innovación y servicios para atender tanto al mercado nacional como a otros países de la región.",
       "link": "https://expansion.mx/empresas/2026/07/13/12-empresas-francesas-con-mayor-presencia-en-mexico",
@@ -124,27 +142,9 @@
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
-      "resumen": "La primera sucesión en la historia de la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para ge…",
+      "resumen": "La sucesión del cargo en la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para generar resulta…",
       "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
       "fecha": "13 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cuánto cuesta la batería de un carro eléctrico? La pieza que elevó el precio de Olinia",
-      "resumen": "Detrás del componente más importante de un vehículo eléctrico hay materiales estratégicos, procesos industriales complejos y costos que, en algunos casos, superan el valor del Olinia.",
-      "link": "https://expansion.mx/empresas/2026/07/12/cuanto-cuesta-la-bateria-para-auto-electrico",
-      "fecha": "12 Jul 2026, 00:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Aramco, la petrolera del rey de Arabia Saudita que patrocina el Mundial 2026?",
-      "resumen": "Su poder financiero supera al de muchas economías nacionales y explica por qué Arabia Saudita apuesta por expandir su influencia a través del deporte.",
-      "link": "https://expansion.mx/empresas/2026/07/06/quien-es-dueno-aramco-la-petrolera-del-mundial-2026",
-      "fecha": "11 Jul 2026, 15:39 hrs"
     },
     {
       "fuente": "Reforma",
