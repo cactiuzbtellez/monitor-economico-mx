@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/07/2026 12:07 hrs",
+  "actualizado": "15/07/2026 14:08 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "GML prepara exportación de vehículos JAC hechos en México hacia Latinoamérica",
+      "resumen": "La empresa mexicana busca convertir su planta de Hidalgo en una plataforma regional para abastecer a distribuidores de JAC en Latinoamérica, aprovechando su mayor capacidad y potenciales beneficios co…",
+      "link": "https://expansion.mx/empresas/2026/07/15/gml-exportacion-vehiculos-jac-hacia-latinoamerica",
+      "fecha": "15 Jul 2026, 13:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
+      "resumen": "No todos los hatchback económicos ofrecen el mismo alcance. Mientras algunos apenas superan ciertas rutas nacionales, otros pueden acercarse a los 1,000 kilómetros antes de volver a la gasolinera.",
+      "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
+      "fecha": "15 Jul 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
+      "resumen": "Industria, bienes raíces, moda, banca digital y criptomonedas impulsan las mayores fortunas del país. Solo uno de los siete perfiles nació en Reino Unido.",
+      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
+      "fecha": "15 Jul 2026, 12:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Pescadores afectados por derrame de Pemex presentan amparo para obtener indemnizaciones",
       "resumen": "Las comunidades indígenas de Pajapan sostienen que la exclusión del padrón de afectados impide el acceso a los apoyos económicos y a la reparación del daño otorgados a otros pescadores reconocidos por…",
       "link": "https://expansion.mx/empresas/2026/07/15/pescadores-afectados-derrame-pemex-presentan-amparo",
@@ -120,33 +147,6 @@
       "fecha": "14 Jul 2026, 16:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Estos Nissan pueden obtener el holograma 00 dos veces y circular diario en CDMX y Edomex",
-      "resumen": "La lista oficial incluye desde sedanes compactos hasta SUVs. Sin embargo, no todos los modelos reciben el mismo beneficio y algunos tienen restricciones según versión y año modelo.",
-      "link": "https://expansion.mx/empresas/2026/07/14/autos-nissan-holograma-00-dos-veces",
-      "fecha": "14 Jul 2026, 11:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volaris ofrecerá internet satelital de Starlink en sus vuelos a partir de 2027",
-      "resumen": "La aerolínea incorporará el servicio de internet satelital de Starlink en mas de 150 aviones Airbus A320 y A321 desde 2027 para ofrecer wifi en vuelos de Mexico, Costa Rica y El Salvador.",
-      "link": "https://expansion.mx/empresas/2026/07/14/volaris-internet-starlink-elon-musk-vuelos-a-partir-de-2027",
-      "fecha": "14 Jul 2026, 10:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana abre nueva ruta desde el AIFA a Chihuahua: fechas, horarios y costo de los vuelos",
-      "resumen": "La empresa mexicana destaca el compromiso de ampliar su oferta a más destinos nacionales desde el AIFA, con la nueva ruta hacia Chihuahua, suma 19 destinos.",
-      "link": "https://expansion.mx/empresas/2026/07/14/nueva-ruta-mexicana-desde-el-aifa-a-chihuahua",
-      "fecha": "14 Jul 2026, 08:24 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,19 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén azucareros exportación a EU de 500,000 toneladas",
-      "resumen": "Productores de azúcar en México prevén que cupo de exportación a Estados Unidos será apenas superior al medio millón de toneladas.",
-      "link": "https://www.reforma.com/preven-azucareros-exportacion-a-eu-de-500-000-toneladas/ar3240448",
-      "fecha": "15 Jul 2026, 07:13 hrs"
+      "titulo": "Firman convenio para robustecer conocimiento sobre Fovissste",
+      "resumen": "Para fortalecer la profesionalización del sector inmobiliario, la AMPI y el Fovissste firmaron un convenio de colaboración.",
+      "link": "https://www.reforma.com/firman-convenio-para-robustecer-conocimiento-sobre-fovissste/ar3240751",
+      "fecha": "15 Jul 2026, 12:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afecta a firmas de retail  debilidad en consumo",
-      "resumen": "El Mercado accionario mexicano ha comenzado a separar el impacto del entorno geopolítico de la capacidad operativa de las empresas.",
-      "link": "https://www.reforma.com/afecta-a-firmas-de-retail-debilidad-en-consumo/ar3240510",
-      "fecha": "15 Jul 2026, 05:02 hrs"
+      "titulo": "Prevén azucareros exportación a EU de 500,000 toneladas",
+      "resumen": "Productores de azúcar en México prevén que cupo de exportación a Estados Unidos será apenas superior al medio millón de toneladas.",
+      "link": "https://www.reforma.com/preven-azucareros-exportacion-a-eu-de-500-000-toneladas/ar3240448",
+      "fecha": "15 Jul 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
