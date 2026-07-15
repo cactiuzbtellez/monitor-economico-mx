@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/07/2026 17:53 hrs",
+  "actualizado": "14/07/2026 20:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
+      "resumen": "Ambos forman parte de las empresas más grandes del país, pero sus cifras revelan diferencias en tamaño, cobertura y capacidad para generar ingresos y empleo en México.",
+      "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
+      "fecha": "14 Jul 2026, 16:19 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
-      "resumen": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
-      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
-      "fecha": "13 Jul 2026, 05:55 hrs"
+      "titulo": "Olinia subiría 3,400 pesos con estándares mínimos de seguridad como bolsas de aire y frenos ABS",
+      "resumen": "Especialistas estiman que incorporar equipo básico de seguridad elevaría el precio de Olinia en 3,400 pesos y piden una regulación específica para evitar riesgos y distorsiones competitivas.",
+      "link": "https://expansion.mx/empresas/2026/07/14/olinia-subiria-3-400-pesos-estandares-minimos-de-seguridad",
+      "fecha": "14 Jul 2026, 17:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los cinco sedanes más vendidos en México en 2026",
+      "resumen": "El mercado comenzó el año con cambios importantes entre sus modelos líderes, avances de marcas chinas y caídas que modificaron el orden mensual durante el primer semestre.",
+      "link": "https://expansion.mx/empresas/2026/07/14/cinco-sedanes-mas-vendidos-en-mexico-en-2026",
+      "fecha": "14 Jul 2026, 16:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "Más allá de sus marcas, estas empresas han convertido a México en un centro de producción, innovación y servicios para atender tanto al mercado nacional como a otros países de la región.",
       "link": "https://expansion.mx/empresas/2026/07/13/12-empresas-francesas-con-mayor-presencia-en-mexico",
       "fecha": "13 Jul 2026, 15:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Marcas de street style también aprovecharon el Mundial 2026 para impulsar ventas",
-      "resumen": "Estas marcas encontraron un espacio en el street style y en la moda casual, ofreciendo productos con precios más accesibles y diseños orientados al uso cotidiano.",
-      "link": "https://expansion.mx/empresas/2026/07/13/panam-new-era-marcas-colecciones-mundial-2026",
-      "fecha": "13 Jul 2026, 14:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Amparo mantiene detenido el avance de la terminal de licuefacción Amigo GNL",
-      "resumen": "La suspensión definitiva otorgada dentro de un juicio de amparo impide, en tanto no exista una resolución de fondo, que el proyecto avance en su construcción.",
-      "link": "https://expansion.mx/empresas/2026/07/13/amparo-frena-avance-amigo-gnl-sonora",
-      "fecha": "13 Jul 2026, 13:58 hrs"
     },
     {
       "fuente": "Reforma",
