@@ -1,25 +1,7 @@
 {
-  "actualizado": "15/07/2026 06:14 hrs",
+  "actualizado": "15/07/2026 08:50 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
-      "resumen": "Mastercard, la AMITI y la Secretaría de Economía buscan que las empresas en México sufran menos ataques cibernéticos y que las consecuencias de estos las lleven a cerrar.",
-      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
-      "fecha": "14 Jul 2026, 19:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
-      "resumen": "Ambos forman parte de las empresas más grandes del país, pero sus cifras revelan diferencias en tamaño, cobertura y capacidad para generar ingresos y empleo en México.",
-      "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
-      "fecha": "14 Jul 2026, 16:19 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
-      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
-      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
-      "fecha": "14 Jul 2026, 18:26 hrs"
+      "titulo": "EU cobrará una tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
+      "resumen": "\"El Estrecho de Ormuz está ABIERTO y permanecerá ABIERTO, con o sin Irán\" aseguró Donald Trump, en referencia a ese paso marítimo por donde circula cerca de 20% del crudo mundial en tiempos de paz.",
+      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-una-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
+      "fecha": "13 Jul 2026, 09:32 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
-      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
-      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
-      "fecha": "14 Jul 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia subiría 3,400 pesos con estándares mínimos de seguridad como bolsas de aire y frenos ABS",
-      "resumen": "Especialistas estiman que incorporar equipo básico de seguridad elevaría el precio de Olinia en 3,400 pesos y piden una regulación específica para evitar riesgos y distorsiones competitivas.",
-      "link": "https://expansion.mx/empresas/2026/07/14/olinia-subiria-3-400-pesos-estandares-minimos-de-seguridad",
-      "fecha": "14 Jul 2026, 17:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los cinco sedanes más vendidos en México en 2026",
-      "resumen": "El mercado comenzó el año con cambios importantes entre sus modelos líderes, avances de marcas chinas y caídas que modificaron el orden mensual durante el primer semestre.",
-      "link": "https://expansion.mx/empresas/2026/07/14/cinco-sedanes-mas-vendidos-en-mexico-en-2026",
-      "fecha": "14 Jul 2026, 16:15 hrs"
+      "titulo": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
+      "resumen": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
+      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
+      "fecha": "13 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,10 +111,73 @@
       "fecha": "13 Jul 2026, 20:08 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
+      "resumen": "La autorización de Nu refleja el cambio que vive el sistema financiero, donde varias empresas digitales buscan operar como bancos de forma integral.",
+      "link": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
+      "fecha": "13 Jul 2026, 17:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Danone a Renault: las 12 empresas de Francia que dominan en México y generan más de 59,500 empleos",
+      "resumen": "Más allá de sus marcas, estas empresas han convertido a México en un centro de producción, innovación y servicios para atender tanto al mercado nacional como a otros países de la región.",
+      "link": "https://expansion.mx/empresas/2026/07/13/12-empresas-francesas-con-mayor-presencia-en-mexico",
+      "fecha": "13 Jul 2026, 15:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Marcas de street style también aprovecharon el Mundial 2026 para impulsar ventas",
+      "resumen": "Estas marcas encontraron un espacio en el street style y en la moda casual, ofreciendo productos con precios más accesibles y diseños orientados al uso cotidiano.",
+      "link": "https://expansion.mx/empresas/2026/07/13/panam-new-era-marcas-colecciones-mundial-2026",
+      "fecha": "13 Jul 2026, 14:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Amparo mantiene detenido el avance de la terminal de licuefacción Amigo GNL",
+      "resumen": "La suspensión definitiva otorgada dentro de un juicio de amparo impide, en tanto no exista una resolución de fondo, que el proyecto avance en su construcción.",
+      "link": "https://expansion.mx/empresas/2026/07/13/amparo-frena-avance-amigo-gnl-sonora",
+      "fecha": "13 Jul 2026, 13:58 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afecta a firmas de retail debilidad en consumo",
+      "titulo": "Complican en Trínitas seguir  huella al dinero",
+      "resumen": "Buscan 2,436 mdp reclamados por 350inversionistas defraudados por la financiera",
+      "link": "https://www.reforma.com/complican-en-trinitas-seguir-huella-al-dinero/ar3240508",
+      "fecha": "15 Jul 2026, 07:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Demanda penal vs. demanda mercantil:  ¿Qué hacer?",
+      "resumen": "Advierten expertos que algunos procesos pueden ser más efectivos para recuperar recursos de inversionistas afectados por quebrantos.",
+      "link": "https://www.reforma.com/demanda-penal-vs-demanda-mercantil-que-hacer/ar3240516",
+      "fecha": "15 Jul 2026, 07:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén azucareros exportación a EU de 500,000 toneladas",
+      "resumen": "Productores de azúcar en México prevén que cupo de exportación a Estados Unidos será apenas superior al medio millón de toneladas.",
+      "link": "https://www.reforma.com/preven-azucareros-exportacion-a-eu-de-500-000-toneladas/ar3240448",
+      "fecha": "15 Jul 2026, 07:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afecta a firmas de retail  debilidad en consumo",
       "resumen": "El Mercado accionario mexicano ha comenzado a separar el impacto del entorno geopolítico de la capacidad operativa de las empresas.",
       "link": "https://www.reforma.com/afecta-a-firmas-de-retail-debilidad-en-consumo/ar3240510",
       "fecha": "15 Jul 2026, 05:02 hrs"
@@ -177,46 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tocan futuros de petróleo $85 tras bloqueo a Irán",
-      "resumen": "El petróleo Brent superó los 85 dólares por barril por primera vez en un mes luego que de EU reanudara su bloqueo a buques iraníes.",
-      "link": "https://www.reforma.com/tocan-futuros-de-petroleo-85-tras-bloqueo-a-iran/ar3239746",
-      "fecha": "13 Jul 2026, 20:06 hrs"
+      "titulo": "Baja a 1.3% expectativa de crecimiento de NL",
+      "resumen": "En balance de primera mitad del año, se prevé que economía de NL crezca 1.3% en 2026, menos que el 1.9% proyectado el año pasado por el CIE.",
+      "link": "https://www.reforma.com/baja-a-1-3-expectativa-de-crecimiento-de-nl/ar3240494",
+      "fecha": "15 Jul 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se reúne Ebrard con IP de Japón",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard sostuvo una reunión con sector empresarial de Japón; así como con su Embajador, Kozo Honsei.",
-      "link": "https://www.reforma.com/se-reune-ebrard-con-ip-de-japon/ar3239717",
-      "fecha": "13 Jul 2026, 19:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece financiamiento bursátil en primer semestre",
-      "resumen": "BMV canalizó 355 mil 243 millones de pesos en financiamiento durante el primer semestre de 2026; siendo en su mayoría mercado de deuda.",
-      "link": "https://www.reforma.com/crece-financiamiento-bursatil-en-primer-semestre/ar3239711",
-      "fecha": "13 Jul 2026, 19:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Compran británicos ventiladores y alcohol por calor y futbol",
-      "resumen": "Debido al calor y Mundial de futbol, los británicos aumentaron hasta 2.0% el consumo de ropa, ventiladores y alcohol, reveló Barclays.",
-      "link": "https://www.reforma.com/compran-britanicos-ventiladores-y-alcohol-por-calor-y-futbol/ar3239680",
-      "fecha": "13 Jul 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Deja Tomás Acosta dirección de inversiones de Afore Banamex",
-      "resumen": "Bloomberg aseguró que Tomás Acosta dejará su cargo como director de inversiones de Afore Banamex.",
-      "link": "https://www.reforma.com/deja-tomas-acosta-direccion-de-inversiones-de-afore-banamex/ar3239667",
-      "fecha": "13 Jul 2026, 17:59 hrs"
+      "titulo": "Inquieta ciberseguridad a 49% de empresas",
+      "resumen": "Ante los avances tecnológicos con el uso de la IA, la ciberseguridad se consolidó como una prioridad estratégicas en empresas del País.",
+      "link": "https://www.reforma.com/inquieta-ciberseguridad-a-49-de-empresas/ar3240498",
+      "fecha": "15 Jul 2026, 07:13 hrs"
     }
   ]
 }
