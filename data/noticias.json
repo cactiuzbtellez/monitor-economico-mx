@@ -1,7 +1,52 @@
 {
-  "actualizado": "14/07/2026 23:30 hrs",
+  "actualizado": "15/07/2026 02:09 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
+      "resumen": "Mastercard, la AMITI y la Secretaría de Economía buscan que las empresas en México sufran menos ataques cibernéticos y que las consecuencias de estos las lleven a cerrar.",
+      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
+      "fecha": "14 Jul 2026, 19:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
+      "resumen": "Ambos forman parte de las empresas más grandes del país, pero sus cifras revelan diferencias en tamaño, cobertura y capacidad para generar ingresos y empleo en México.",
+      "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
+      "fecha": "14 Jul 2026, 16:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los mexicanos superan la educación de sus padres, pero no necesariamente su patrimonio",
+      "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
+      "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
+      "fecha": "14 Jul 2026, 14:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
+      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
+      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
+      "fecha": "14 Jul 2026, 09:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de EU se desacelera a 3.5% en junio por baja en precios de la gasolina",
+      "resumen": "Con la reciente reanudación de las hostilidades entre Washington y Teherán, y con la orden del presidente Donald Trump de reiniciar el bloqueo a los puertos iraníes, la mejora podría ser pasajera.",
+      "link": "https://expansion.mx/economia/2026/07/14/inflacion-de-eu-se-desacelera-a-3-5-en-junio-por-baja-en-precios-de-la-gasolina",
+      "fecha": "14 Jul 2026, 08:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,66 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU cobrará una tasa del 20% para proteger los barcos en el Estrecho de Ormuz",
-      "resumen": "\"El Estrecho de Ormuz está ABIERTO y permanecerá ABIERTO, con o sin Irán\" aseguró Donald Trump, en referencia a ese paso marítimo por donde circula cerca de 20% del crudo mundial en tiempos de paz.",
-      "link": "https://expansion.mx/economia/2026/07/13/eu-cobrara-una-tasa-del-20-para-proteger-los-barcos-en-el-estrecho-de-ormuz",
-      "fecha": "13 Jul 2026, 09:32 hrs"
+      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
+      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
+      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
+      "fecha": "14 Jul 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cinco potencias, un mismo destino: la inversión manufacturera apuesta por México",
-      "resumen": "México ganó terreno en las inversiones manufactureras de China y Corea del Sur, mientras mantuvo su relevancia industrial para Estados Unidos, Japón y la Unión Europea.",
-      "link": "https://expansion.mx/economia/2026/07/13/mexico-inversion-manufacturera-potencias",
-      "fecha": "13 Jul 2026, 05:55 hrs"
+      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
+      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
+      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
+      "fecha": "14 Jul 2026, 17:56 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda aumenta subsidio para Magna y diésel; Premium sigue sin apoyo",
-      "resumen": "El gobierno aumentó los estímulos fiscales para la Magna y el diésel del 11 al 17 de julio.",
-      "link": "https://expansion.mx/economia/2026/07/10/hacienda-aumenta-subsidio-para-magna-y-diesel-premium-sigue-sin-apoyo",
-      "fecha": "10 Jul 2026, 18:14 hrs"
+      "titulo": "Olinia subiría 3,400 pesos con estándares mínimos de seguridad como bolsas de aire y frenos ABS",
+      "resumen": "Especialistas estiman que incorporar equipo básico de seguridad elevaría el precio de Olinia en 3,400 pesos y piden una regulación específica para evitar riesgos y distorsiones competitivas.",
+      "link": "https://expansion.mx/empresas/2026/07/14/olinia-subiria-3-400-pesos-estandares-minimos-de-seguridad",
+      "fecha": "14 Jul 2026, 17:15 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nu recibe autorización final para operar como banco en México",
-      "resumen": "Siete años después de haber llegado al país, Nu se transformó en banco, con lo que podrá ofrecer productos de nómina. Tiene 30 días naturales para completar el proceso.",
-      "link": "https://expansion.mx/economia/2026/07/10/nu-ya-es-banco",
-      "fecha": "10 Jul 2026, 09:21 hrs"
+      "titulo": "Los cinco sedanes más vendidos en México en 2026",
+      "resumen": "El mercado comenzó el año con cambios importantes entre sus modelos líderes, avances de marcas chinas y caídas que modificaron el orden mensual durante el primer semestre.",
+      "link": "https://expansion.mx/empresas/2026/07/14/cinco-sedanes-mas-vendidos-en-mexico-en-2026",
+      "fecha": "14 Jul 2026, 16:15 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México enfrenta la revisión del T-MEC con la protección a inversionistas en la mira",
-      "resumen": "Las diferencias sobre energía pueden llevar a Estados Unidos y México a revisar nuevamente las garantías para las empresas.",
-      "link": "https://expansion.mx/economia/2026/07/09/revision-tmec-mexico-arbitraje-inversion",
-      "fecha": "09 Jul 2026, 18:28 hrs"
+      "titulo": "Estos Nissan pueden obtener el holograma 00 dos veces y circular diario en CDMX y Edomex",
+      "resumen": "La lista oficial incluye desde sedanes compactos hasta SUVs. Sin embargo, no todos los modelos reciben el mismo beneficio y algunos tienen restricciones según versión y año modelo.",
+      "link": "https://expansion.mx/empresas/2026/07/14/autos-nissan-holograma-00-dos-veces",
+      "fecha": "14 Jul 2026, 11:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volaris ofrecerá internet satelital de Starlink en sus vuelos a partir de 2027",
+      "resumen": "La aerolínea incorporará el servicio de internet satelital de Starlink en mas de 150 aviones Airbus A320 y A321 desde 2027 para ofrecer wifi en vuelos de Mexico, Costa Rica y El Salvador.",
+      "link": "https://expansion.mx/empresas/2026/07/14/volaris-internet-starlink-elon-musk-vuelos-a-partir-de-2027",
+      "fecha": "14 Jul 2026, 10:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana abre nueva ruta desde el AIFA a Chihuahua: fechas, horarios y costo de los vuelos",
+      "resumen": "La empresa mexicana destaca el compromiso de ampliar su oferta a más destinos nacionales desde el AIFA, con la nueva ruta hacia Chihuahua, suma 19 destinos.",
+      "link": "https://expansion.mx/empresas/2026/07/14/nueva-ruta-mexicana-desde-el-aifa-a-chihuahua",
+      "fecha": "14 Jul 2026, 08:24 hrs"
     },
     {
       "fuente": "Expansión",
@@ -82,69 +145,6 @@
       "resumen": "Nuevo León fue el punto de partida para Chipotle en México. Alsea prepara dos aperturas más este año y va por un crecimiento gradual antes de llegar a otros estados del país.",
       "link": "https://expansion.mx/empresas/2026/07/13/alsea-abre-chipotle-monterrey-precios-menu-mexico-eu",
       "fecha": "13 Jul 2026, 20:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "No solo Nu: estas apps financieras también quieren convertirse en banco y operar en México",
-      "resumen": "La autorización de Nu refleja el cambio que vive el sistema financiero, donde varias empresas digitales buscan operar como bancos de forma integral.",
-      "link": "https://expansion.mx/empresas/2026/07/13/no-solo-nu-apps-financieras-quieren-convertirse-banco",
-      "fecha": "13 Jul 2026, 17:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Danone a Renault: las 12 empresas de Francia que dominan en México y generan más de 59,500 empleos",
-      "resumen": "Más allá de sus marcas, estas empresas han convertido a México en un centro de producción, innovación y servicios para atender tanto al mercado nacional como a otros países de la región.",
-      "link": "https://expansion.mx/empresas/2026/07/13/12-empresas-francesas-con-mayor-presencia-en-mexico",
-      "fecha": "13 Jul 2026, 15:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Marcas de street style también aprovecharon el Mundial 2026 para impulsar ventas",
-      "resumen": "Estas marcas encontraron un espacio en el street style y en la moda casual, ofreciendo productos con precios más accesibles y diseños orientados al uso cotidiano.",
-      "link": "https://expansion.mx/empresas/2026/07/13/panam-new-era-marcas-colecciones-mundial-2026",
-      "fecha": "13 Jul 2026, 14:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Amparo mantiene detenido el avance de la terminal de licuefacción Amigo GNL",
-      "resumen": "La suspensión definitiva otorgada dentro de un juicio de amparo impide, en tanto no exista una resolución de fondo, que el proyecto avance en su construcción.",
-      "link": "https://expansion.mx/empresas/2026/07/13/amparo-frena-avance-amigo-gnl-sonora",
-      "fecha": "13 Jul 2026, 13:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los vehículos más robados en México: los modelos favoritos de los ladrones y dónde ocurren más casos",
-      "resumen": "Más allá del número total de casos, los datos revelan diferencias importantes por tipo de vehículo, modalidad del robo y lugar donde ocurre.",
-      "link": "https://expansion.mx/empresas/2026/07/13/autos-mas-robados-en-mexico-2026",
-      "fecha": "13 Jul 2026, 11:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen estudia recortar otros 50,000 puestos de trabajo en todo el mundo",
-      "resumen": "El director ejecutivo de Volkswagen, Oliver Blume, afirmó que la empresa necesita reducir sus costos fijos para recuperar competitividad y advirtió que el peso de los gastos laborales será un factor c…",
-      "link": "https://expansion.mx/empresas/2026/07/13/volkswagen-recortar-50-000-puestos-de-trabajo",
-      "fecha": "13 Jul 2026, 11:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Softtek prepara el relevo de su fundadora Blanca Treviño en plena reinvención de la industria por la IA",
-      "resumen": "La sucesión del cargo en la empresa mexicana ocurre cuando la industria tecnológica redefine sus modelos de crecimiento, combinando inteligencia artificial y talento especializado para generar resulta…",
-      "link": "https://expansion.mx/empresas/2026/07/13/softtek-cambiara-ceo-blanca-trevino",
-      "fecha": "13 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
