@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/07/2026 20:34 hrs",
+  "actualizado": "15/07/2026 23:40 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Dará EU leve alivio a industria azucarera nacional.- Banamex",
+      "resumen": "Mayor cupo de exportaciones mexicanas de azúcar a EU en 2026-27 implicará sólo 63% de lo que el País enviaba antes de 2014, señaló Banamex.",
+      "link": "https://www.reforma.com/dara-eu-leve-alivio-a-industria-azucarera-nacional-banamex/ar3241154",
+      "fecha": "15 Jul 2026, 20:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Crearán mapa de interrupciones de electricidad",
       "resumen": "Concanaco anunció que sector comercio y servicios generará un mapa nacional de interrupciones de energía y variaciones de voltaje.",
       "link": "https://www.reforma.com/crearan-mapa-de-interrupciones-de-electricidad/ar3241132",
@@ -207,15 +216,6 @@
       "titulo": "Cierran precios del crudo con moderada alza",
       "resumen": "El barril de Brent subió 0.26% y cerró en 84.95 dólares, mientras que su equivalente de EU ganó un 0.33% para cerrar en 79.60 dólares.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-con-moderada-alza/ar3240849",
-      "fecha": "15 Jul 2026, 14:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae robo de vehículos a su nivel más bajo en cinco años",
-      "resumen": "El robo de vehículos asegurados en México alcanzó su nivel más bajo de los últimos cinco años, según la AMIS.",
-      "link": "https://www.reforma.com/cae-robo-de-vehiculos-a-su-nivel-mas-bajo-en-cinco-anos/ar3240827",
       "fecha": "15 Jul 2026, 14:28 hrs"
     }
   ]
