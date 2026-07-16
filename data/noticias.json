@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/07/2026 11:15 hrs",
+  "actualizado": "16/07/2026 13:10 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,19 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exporta México  más emisiones de GEI a EU",
-      "resumen": "México exporta más emisiones de Gases de Efecto Invernadero (GEI) de las que importa en su intercambio con Estados Unidos.",
-      "link": "https://www.reforma.com/exporta-mexico-mas-emisiones-de-gei-a-eu/ar3241185",
-      "fecha": "16 Jul 2026, 05:01 hrs"
+      "titulo": "Apuesta Apollo  por México con 20 mil mdd en crédito privado",
+      "resumen": "Apollo planea destinar hasta 20 mil millones de dólares para financiar proyectos en México, según Bloomberg.",
+      "link": "https://www.reforma.com/apuesta-apollo-por-mexico-con-20-mil-mdd-en-credito-privado/ar3241486",
+      "fecha": "16 Jul 2026, 12:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Detectan limitantes para el Plan México",
-      "resumen": "Recaudación fiscal ineficaz, baja inversión pública e informalidad reducen la capacidad de cumplir los objetivo del Plan México.",
-      "link": "https://www.reforma.com/detectan-limitantes-para-el-plan-mexico/ar3241176",
-      "fecha": "16 Jul 2026, 05:01 hrs"
+      "titulo": "Envía México petróleo a Japón en medio de la guerra en Irán",
+      "resumen": "Japón recibirá esta semana su primer cargamento de petróleo mexicano desde el inicio de la guerra en Medio Oriente y la tensión en Ormuz.",
+      "link": "https://www.reforma.com/envia-mexico-petroleo-a-japon-en-medio-de-la-guerra-en-iran/ar3241489",
+      "fecha": "16 Jul 2026, 12:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frena Honda producción de eléctrico Prologue en Ramos Arizpe",
+      "resumen": "Honda informó a concesionarios en EU que producción de eléctrico Prologue, fabricado en Ramos Arizpe en conjunto con GM, cesará a fin de año",
+      "link": "https://www.reforma.com/frena-honda-produccion-de-electrico-prologue-en-ramos-arizpe/ar3241477",
+      "fecha": "16 Jul 2026, 12:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,28 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Podrían en pensiones revertir retroactividad",
-      "resumen": "Pensionados del sector energético, banca de desarrollo y otras entidades  afectadas por el tope a sus pensiones dialogan con legisladores.",
-      "link": "https://www.reforma.com/podrian-en-pensiones-revertir-retroactividad/ar3241172",
-      "fecha": "16 Jul 2026, 05:01 hrs"
+      "titulo": "Cae 2.41% empleo manufacturero, peor resultado en 17 años",
+      "resumen": "El personal ocupado en la industria manufacturera tuvo su revés más marcado en 17 años, al caer 2.41% anual en el periodo de enero a mayo.",
+      "link": "https://www.reforma.com/cae-2-41-empleo-manufacturero-peor-resultado-en-17-anos/ar3241414",
+      "fecha": "16 Jul 2026, 11:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Asesta gusano barrenador doble golpe a ganaderos",
-      "resumen": "Propagación del gusano barrenador está elevando costos para los ganaderos mexicanos y manteniendo cerrada la frontera de EU al ganado vivo.",
-      "link": "https://www.reforma.com/asesta-gusano-barrenador-doble-golpe-a-ganaderos/ar3241190",
-      "fecha": "16 Jul 2026, 07:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden evaluar beneficios del fisco por 775 mil mdp",
-      "resumen": "Es necesario revisar 10 renuncias recaudatorias que ascienden a 775 mil 893 millones de pesos y equivalen a 2.0% del PIB, señaló CIEP.",
-      "link": "https://www.reforma.com/piden-evaluar-beneficios-del-fisco-por-775-mil-mdp/ar3241169",
-      "fecha": "16 Jul 2026, 05:01 hrs"
+      "titulo": "Busca Trump reconstruir muro arancelario derribado por Corte",
+      "resumen": "¿Puede Trump cumplir su promesa de reemplazar los ingresos perdidos por los aranceles anulados por la Corte Suprema? El tiempo se agota.",
+      "link": "https://www.reforma.com/busca-trump-reconstruir-muro-arancelario-derribado-por-corte/ar3241445",
+      "fecha": "16 Jul 2026, 11:59 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Complica reapertura gusano en Chihuahua",
-      "resumen": "Primer caso de gusano barrenador en Chihuahua descartaría la reapertura parcial de la frontera al ganado mexicano por parte de EU.",
-      "link": "https://www.reforma.com/complica-reapertura-gusano-en-chihuahua/ar3241194",
-      "fecha": "16 Jul 2026, 07:01 hrs"
+      "titulo": "Podrían en pensiones revertir retroactividad",
+      "resumen": "Pensionados del sector energético, banca de desarrollo y otras entidades  afectadas por el tope a sus pensiones dialogan con legisladores.",
+      "link": "https://www.reforma.com/podrian-en-pensiones-revertir-retroactividad/ar3241172",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     }
   ]
 }
