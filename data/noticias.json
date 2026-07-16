@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/07/2026 17:06 hrs",
+  "actualizado": "15/07/2026 20:34 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca robo de vehículos mínimo  en cinco años",
-      "resumen": "El robo de vehículos asegurados en México alcanzó su nivel más bajo de los últimos cinco años, según la AMIS.",
-      "link": "https://www.reforma.com/toca-robo-de-vehiculos-minimo-en-cinco-anos/ar3240827",
-      "fecha": "15 Jul 2026, 14:28 hrs"
+      "titulo": "Crearán mapa de interrupciones de electricidad",
+      "resumen": "Concanaco anunció que sector comercio y servicios generará un mapa nacional de interrupciones de energía y variaciones de voltaje.",
+      "link": "https://www.reforma.com/crearan-mapa-de-interrupciones-de-electricidad/ar3241132",
+      "fecha": "15 Jul 2026, 20:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crecen 12.4% activos en mercado de fondos",
+      "resumen": "Activos administrados por fondos de inversión en junio alcanzaron 5.25 billones de pesos, un crecimiento anual de 12.4%, reveló AMIB.",
+      "link": "https://www.reforma.com/crecen-12-4-activos-en-mercado-de-fondos/ar3241076",
+      "fecha": "15 Jul 2026, 18:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Resiste México proteccionismo de EU por integración",
+      "resumen": "Para EU es prioritario mantener un déficit comercial con México con el objetivo de reducir su dependencia de países asiáticos, señaló IMCO.",
+      "link": "https://www.reforma.com/resiste-mexico-proteccionismo-de-eu-por-integracion/ar3241039",
+      "fecha": "15 Jul 2026, 18:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta 108% valor de fusiones en México",
+      "resumen": "El valor acumulado de fusiones a junio de 2026 alcanzó 10 mil 548 millones de dólares; cifra 108% mayor comparado con igual periodo de 2025.",
+      "link": "https://www.reforma.com/aumenta-108-valor-de-fusiones-en-mexico/ar3240945",
+      "fecha": "15 Jul 2026, 18:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben mercados de EU y Apple logra nuevo récord",
+      "resumen": "Las acciones de Apple cerraron en un máximo histórico de 327.50 dólares, tras un alza de 4.01%.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-y-apple-logra-nuevo-record/ar3240866",
+      "fecha": "15 Jul 2026, 14:38 hrs"
     },
     {
       "fuente": "Reforma",
@@ -162,42 +198,6 @@
       "titulo": "Reclaman por reducción de presupuesto a Senasica",
       "resumen": "Sector alimentario mexicano enfrentará mayores riesgos sanitarios debido a la reducción de 50% nominal del prepuesto a Senasica, señaló CNA.",
       "link": "https://www.reforma.com/reclaman-por-reduccion-de-presupuesto-a-senasica/ar3240853",
-      "fecha": "15 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firman convenio para robustecer conocimiento sobre Fovissste",
-      "resumen": "Para fortalecer la profesionalización del sector inmobiliario, la AMPI y el Fovissste firmaron un convenio de colaboración.",
-      "link": "https://www.reforma.com/firman-convenio-para-robustecer-conocimiento-sobre-fovissste/ar3240751",
-      "fecha": "15 Jul 2026, 12:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Complican en Trínitas  seguir huella al dinero",
-      "resumen": "Buscan 2,436 mdp reclamados por 350inversionistas defraudados por la financiera",
-      "link": "https://www.reforma.com/complican-en-trinitas-seguir-huella-al-dinero/ar3240508",
-      "fecha": "15 Jul 2026, 07:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén azucareros exportación a EU de 500,000 toneladas",
-      "resumen": "Productores de azúcar en México prevén que cupo de exportación a Estados Unidos será apenas superior al medio millón de toneladas.",
-      "link": "https://www.reforma.com/preven-azucareros-exportacion-a-eu-de-500-000-toneladas/ar3240448",
-      "fecha": "15 Jul 2026, 07:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben mercados de EU y Apple logra nuevo  récord",
-      "resumen": "Las acciones de Apple cerraron en un máximo histórico de 327.50 dólares, tras un alza de 4.01%.",
-      "link": "https://www.reforma.com/suben-mercados-de-eu-y-apple-logra-nuevo-record/ar3240866",
       "fecha": "15 Jul 2026, 14:38 hrs"
     },
     {
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen acciones de SpaceX por debajo de su precio de salida",
-      "resumen": "Los títulos de SpaceX caían 2.01% hasta los 133.35 dólares, ubicándose por debajo de su precio de salida a bolsa de 135 dólares.",
-      "link": "https://www.reforma.com/caen-acciones-de-spacex-por-debajo-de-su-precio-de-salida/ar3240706",
-      "fecha": "15 Jul 2026, 10:28 hrs"
+      "titulo": "Cae robo de vehículos a su nivel más bajo en cinco años",
+      "resumen": "El robo de vehículos asegurados en México alcanzó su nivel más bajo de los últimos cinco años, según la AMIS.",
+      "link": "https://www.reforma.com/cae-robo-de-vehiculos-a-su-nivel-mas-bajo-en-cinco-anos/ar3240827",
+      "fecha": "15 Jul 2026, 14:28 hrs"
     }
   ]
 }
