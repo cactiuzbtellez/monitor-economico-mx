@@ -1,16 +1,7 @@
 {
-  "actualizado": "16/07/2026 13:10 hrs",
+  "actualizado": "16/07/2026 14:57 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Evaluación de GAFI pone en la mira a 100,000 empresas con actividad vulnerable",
-      "resumen": "La evaluación del GAFI, en septiembre, obliga a que las empresas mejoren su regulación, ya que pueden recibir multas de hasta 7.6 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/07/16/evaluacion-de-gafi-pone-en-la-mira-a-100-000-empresas-con-actividad-vulnerable",
-      "fecha": "16 Jul 2026, 10:00 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
       "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
       "fecha": "14 Jul 2026, 09:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de EU se desacelera a 3.5% en junio por baja en precios de la gasolina",
+      "resumen": "Con la reciente reanudación de las hostilidades entre Washington y Teherán, y con la orden del presidente Donald Trump de reiniciar el bloqueo a los puertos iraníes, la mejora podría ser pasajera.",
+      "link": "https://expansion.mx/economia/2026/07/14/inflacion-de-eu-se-desacelera-a-3-5-en-junio-por-baja-en-precios-de-la-gasolina",
+      "fecha": "14 Jul 2026, 08:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Desaparece' Pemex 1 de cada 12 barriles",
-      "resumen": "Pemex sigue teniendo discrepancias en sus cifras ahora en producción, refinación y exportación de crudo.",
-      "link": "https://www.reforma.com/desaparece-pemex-1-de-cada-12-barriles/ar3241191",
-      "fecha": "16 Jul 2026, 05:00 hrs"
+      "titulo": "Distan empresas mexicanas de aprovechar IA para negocios",
+      "resumen": "Sólo 13.8% de las empresas ha logrado integrar la IA al núcleo de su negocio, según IPADE Business School.",
+      "link": "https://www.reforma.com/distan-empresas-mexicanas-de-aprovechar-ia-para-negocios/ar3241536",
+      "fecha": "16 Jul 2026, 14:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impone EU nuevo arancel del 25% a Brasil",
-      "resumen": "Estados Unidos anunció un nuevo arancel de 25% sobre ciertas importaciones de Brasil, que repudió la medida y activó su ley de reciprocidad.",
-      "link": "https://www.reforma.com/impone-eu-nuevo-arancel-del-25-a-brasil/ar3241301",
-      "fecha": "16 Jul 2026, 07:06 hrs"
+      "titulo": "Supera Netflix expectativa de ganancia, pero no de ingresos",
+      "resumen": "Netflix reportó un beneficio de 3,400 mdd en el segundo trimestre, mayor al esperado, pero los ingresos de 12,560 mdd se quedaron cortos.",
+      "link": "https://www.reforma.com/supera-netflix-expectativa-de-ganancia-pero-no-de-ingresos/ar3241584",
+      "fecha": "16 Jul 2026, 14:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Podrían en pensiones revertir retroactividad",
-      "resumen": "Pensionados del sector energético, banca de desarrollo y otras entidades  afectadas por el tope a sus pensiones dialogan con legisladores.",
-      "link": "https://www.reforma.com/podrian-en-pensiones-revertir-retroactividad/ar3241172",
-      "fecha": "16 Jul 2026, 05:01 hrs"
+      "titulo": "Firmará Chevron acuerdos de inversión con Irak",
+      "resumen": "Chevron prevé firmar acuerdos con Irak que impulsarán sus negociaciones sobre inversiones en grandes yacimientos petrolíferos.",
+      "link": "https://www.reforma.com/firmara-chevron-acuerdos-de-inversion-con-irak/ar3241553",
+      "fecha": "16 Jul 2026, 14:05 hrs"
     }
   ]
 }
