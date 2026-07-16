@@ -1,7 +1,16 @@
 {
-  "actualizado": "15/07/2026 23:40 hrs",
+  "actualizado": "16/07/2026 02:12 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Suben 10% los 'montachoques' en 2026 y aseguradoras piden tipificar el delito en todo el país",
+      "resumen": "En la primera mitad del año, las aseguradoras reportan un aumento de casos y esperan que la tipificación de este delito como 'extorsión' ayude a reducir este delito.",
+      "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
+      "fecha": "15 Jul 2026, 22:30 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Más de 200 millones de kilos de fresas mexicanas, valuados en casi 1,000 millones de dólares, enfrentan la presión de productores de Florida para acelerar la investigación antidumping.",
       "link": "https://expansion.mx/economia/2026/07/14/tmec-presion-politica-catigo-fresas-mexicanas",
       "fecha": "14 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Monedas de 10 pesos serán fabricadas con nuevos materiales",
-      "resumen": "Con la publicación del decreto en el DOF, se espera que estas nuevas monedas comiencen a fabricarse en lo que resta del año.",
-      "link": "https://expansion.mx/economia/2026/07/13/monedas-de-10-pesos-seran-fabricadas-con-nuevos-materiales",
-      "fecha": "13 Jul 2026, 16:05 hrs"
     },
     {
       "fuente": "Expansión",
