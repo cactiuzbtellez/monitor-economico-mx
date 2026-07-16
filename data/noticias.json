@@ -1,16 +1,7 @@
 {
-  "actualizado": "16/07/2026 04:59 hrs",
+  "actualizado": "16/07/2026 06:45 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Suben 10% los 'montachoques' en 2026 y aseguradoras piden tipificar el delito en todo el país",
-      "resumen": "En la primera mitad del año, las aseguradoras reportan un aumento de casos y esperan que la tipificación de este delito como 'extorsión' ayude a reducir este delito.",
-      "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
-      "fecha": "15 Jul 2026, 22:30 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Pemex recupera terreno en gasolineras y concentra casi dos terceras partes del mercado",
-      "resumen": "De las 14,325 estaciones de servicio con permisos vigentes y en operación en el país, 8,925 operan bajo la marca Pemex, mientras que las 5,400 restantes se distribuyen entre 392 marcas privadas.",
-      "link": "https://expansion.mx/empresas/2026/07/15/pemex-concentra-casi-dos-terceras-partes-mercado-gasolinero",
-      "fecha": "15 Jul 2026, 16:08 hrs"
+      "titulo": "Monedas de 10 pesos serán fabricadas con nuevos materiales",
+      "resumen": "Con la publicación del decreto en el DOF, se espera que estas nuevas monedas comiencen a fabricarse en lo que resta del año.",
+      "link": "https://expansion.mx/economia/2026/07/13/monedas-de-10-pesos-seran-fabricadas-con-nuevos-materiales",
+      "fecha": "13 Jul 2026, 16:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +138,85 @@
       "fecha": "14 Jul 2026, 17:15 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dará EU leve alivio a industria azucarera nacional.- Banamex",
-      "resumen": "Mayor cupo de exportaciones mexicanas de azúcar a EU en 2026-27 implicará sólo 63% de lo que el País enviaba antes de 2014, señaló Banamex.",
-      "link": "https://www.reforma.com/dara-eu-leve-alivio-a-industria-azucarera-nacional-banamex/ar3241154",
-      "fecha": "15 Jul 2026, 20:53 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los cinco sedanes más vendidos en México en 2026",
+      "resumen": "El mercado comenzó el año con cambios importantes entre sus modelos líderes, avances de marcas chinas y caídas que modificaron el orden mensual durante el primer semestre.",
+      "link": "https://expansion.mx/empresas/2026/07/14/cinco-sedanes-mas-vendidos-en-mexico-en-2026",
+      "fecha": "14 Jul 2026, 16:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crearán mapa de interrupciones de electricidad",
-      "resumen": "Concanaco anunció que sector comercio y servicios generará un mapa nacional de interrupciones de energía y variaciones de voltaje.",
-      "link": "https://www.reforma.com/crearan-mapa-de-interrupciones-de-electricidad/ar3241132",
-      "fecha": "15 Jul 2026, 20:03 hrs"
+      "titulo": "Exporta México más emisiones de GEI a EU",
+      "resumen": "México exporta más emisiones de Gases de Efecto Invernadero (GEI) de las que importa en su intercambio con Estados Unidos.",
+      "link": "https://www.reforma.com/exporta-mexico-mas-emisiones-de-gei-a-eu/ar3241185",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen 12.4% activos en mercado de fondos",
-      "resumen": "Activos administrados por fondos de inversión en junio alcanzaron 5.25 billones de pesos, un crecimiento anual de 12.4%, reveló AMIB.",
-      "link": "https://www.reforma.com/crecen-12-4-activos-en-mercado-de-fondos/ar3241076",
-      "fecha": "15 Jul 2026, 18:56 hrs"
+      "titulo": "Detectan limitantes para el Plan México",
+      "resumen": "Recaudación fiscal ineficaz, baja inversión pública e informalidad reducen la capacidad de cumplir los objetivo del Plan México.",
+      "link": "https://www.reforma.com/detectan-limitantes-para-el-plan-mexico/ar3241176",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Resiste México proteccionismo de EU por integración",
-      "resumen": "Para EU es prioritario mantener un déficit comercial con México con el objetivo de reducir su dependencia de países asiáticos, señaló IMCO.",
-      "link": "https://www.reforma.com/resiste-mexico-proteccionismo-de-eu-por-integracion/ar3241039",
-      "fecha": "15 Jul 2026, 18:56 hrs"
+      "titulo": "Podrían en pensiones revertir retroactividad",
+      "resumen": "Pensionados del sector energético, banca de desarrollo y otras entidades  afectadas por el tope a sus pensiones dialogan con legisladores.",
+      "link": "https://www.reforma.com/podrian-en-pensiones-revertir-retroactividad/ar3241172",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 108% valor de fusiones en México",
-      "resumen": "El valor acumulado de fusiones a junio de 2026 alcanzó 10 mil 548 millones de dólares; cifra 108% mayor comparado con igual periodo de 2025.",
-      "link": "https://www.reforma.com/aumenta-108-valor-de-fusiones-en-mexico/ar3240945",
-      "fecha": "15 Jul 2026, 18:56 hrs"
+      "titulo": "Piden evaluar beneficios del fisco por 775 mil mdp",
+      "resumen": "Es necesario revisar 10 renuncias recaudatorias que ascienden a 775 mil 893 millones de pesos y equivalen a 2.0% del PIB, señaló CIEP.",
+      "link": "https://www.reforma.com/piden-evaluar-beneficios-del-fisco-por-775-mil-mdp/ar3241169",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben mercados de EU y Apple logra nuevo récord",
-      "resumen": "Las acciones de Apple cerraron en un máximo histórico de 327.50 dólares, tras un alza de 4.01%.",
-      "link": "https://www.reforma.com/suben-mercados-de-eu-y-apple-logra-nuevo-record/ar3240866",
-      "fecha": "15 Jul 2026, 14:38 hrs"
+      "titulo": "Crece consumo privado apenas 0.1% en junio",
+      "resumen": "En mayo de 2026, a tasa mensual, se anticipa que el Indicador Oportuno del Consumo Privado (IOCP) aumentó 0.37% y en junio se prevé de 0.1%.",
+      "link": "https://www.reforma.com/crece-consumo-privado-apenas-0-1-en-junio/ar3241163",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reclaman por reducción de presupuesto a Senasica",
-      "resumen": "Sector alimentario mexicano enfrentará mayores riesgos sanitarios debido a la reducción de 50% nominal del prepuesto a Senasica, señaló CNA.",
-      "link": "https://www.reforma.com/reclaman-por-reduccion-de-presupuesto-a-senasica/ar3240853",
-      "fecha": "15 Jul 2026, 14:38 hrs"
+      "titulo": "Reducen tiempos registros de patente",
+      "resumen": "Reforma a Ley Federal de Protección a a Propiedad Industrial reducirá a cuatro años el tiempo máximo para obtener una patente.",
+      "link": "https://www.reforma.com/reducen-tiempos-registros-de-patente/ar3241161",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con moderada alza",
-      "resumen": "El barril de Brent subió 0.26% y cerró en 84.95 dólares, mientras que su equivalente de EU ganó un 0.33% para cerrar en 79.60 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-moderada-alza/ar3240849",
-      "fecha": "15 Jul 2026, 14:28 hrs"
+      "titulo": "Bajan precios de frutas y 50 verduras",
+      "resumen": "Al cierre de junio, los precios de frutas y verduras de la canasta básica reportaron reducciones de hasta 20% en gran medida por el verano.",
+      "link": "https://www.reforma.com/bajan-precios-de-frutas-y-50-verduras/ar3241157",
+      "fecha": "16 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "InnovaRH: Del salario mínimo al ingreso digno",
+      "resumen": "Durante muchos años, el salario mínimo en México fue más una referencia legal que una referencia de vida.",
+      "link": "https://www.reforma.com/innovarh-del-salario-minimo-al-ingreso-digno/ar3240794",
+      "fecha": "16 Jul 2026, 05:01 hrs"
     }
   ]
 }
