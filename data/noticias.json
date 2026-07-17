@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/07/2026 05:21 hrs",
+  "actualizado": "17/07/2026 07:27 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
+      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
+      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
+      "fecha": "17 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,60 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los mexicanos superan la educación de sus padres, pero no necesariamente su patrimonio",
-      "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
-      "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
-      "fecha": "14 Jul 2026, 14:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Por qué Nike volvió a Chivas y qué gana con vestir al club más popular de México",
-      "resumen": "Nike y Chivas anunciaron una alianza multianual que promete convertirse en una de las más beneficiosas en el futbol mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/16/nike-volvio-chivas-que-gana-vestir-club-popular-mexico",
-      "fecha": "16 Jul 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely lleva la transferencia tecnológica al Tec de Monterrey para formar talento en movilidad inteligente",
-      "resumen": "La firma china respaldará proyectos de investigación, préstamo de vehículos y formación de talento especializado en ingeniería, una estrategia con la que busca fortalecer su presencia en México.",
-      "link": "https://expansion.mx/empresas/2026/07/16/geely-invierte-4-mdp-para-aliarse-con-el-tec",
-      "fecha": "16 Jul 2026, 17:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AT&T pide a la CRT reglas que eviten mayor concentración de Telcel en la licitación de espectro 5G",
-      "resumen": "La empresa de origen estadounidense está interesada en la banda 3.5 GHz, pero pidió al regulador una licitación que combine reglas de competencia y condiciones técnicas que permitan el uso efectivo de…",
-      "link": "https://expansion.mx/empresas/2026/07/16/at-t-pide-reglas-eviten-concentracion-telcel-licitacion-5g",
-      "fecha": "16 Jul 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia del empresario español que pasó de vender ropa a ser más rico que Carlos Slim y Bill Gates",
-      "resumen": "Amancio Ortega pasó de una infancia con carencias económicas a crear Inditex, el grupo detrás de Zara, y una de las mayores fortunas del mundo.",
-      "link": "https://expansion.mx/empresas/2026/07/16/historia-amancio-ortega-creador-de-zara",
-      "fecha": "16 Jul 2026, 15:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
-      "resumen": "La SUV subcompacta de JAC incorpora 43 nuevas características de diseño, seguridad y conectividad para captar clientes que consideran sedanes, hatchbacks y otras camionetas del segmento.",
-      "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
-      "fecha": "16 Jul 2026, 14:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Reconfiguración automotriz comienza a golpear al negocio ferroviario en México",
@@ -147,12 +102,57 @@
       "fecha": "15 Jul 2026, 13:35 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
+      "resumen": "No todos los hatchback económicos ofrecen el mismo alcance. Mientras algunos apenas superan ciertas rutas nacionales, otros pueden acercarse a los 1,000 kilómetros antes de volver a la gasolinera.",
+      "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
+      "fecha": "15 Jul 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
+      "resumen": "Industria, bienes raíces, moda, banca digital y criptomonedas impulsan las mayores fortunas del país. Solo uno de los siete perfiles nació en Reino Unido.",
+      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
+      "fecha": "15 Jul 2026, 12:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pescadores afectados por derrame de Pemex presentan amparo para obtener indemnizaciones",
+      "resumen": "Las comunidades indígenas de Pajapan sostienen que la exclusión del padrón de afectados impide el acceso a los apoyos económicos y a la reparación del daño otorgados a otros pescadores reconocidos por…",
+      "link": "https://expansion.mx/empresas/2026/07/15/pescadores-afectados-derrame-pemex-presentan-amparo",
+      "fecha": "15 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
+      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
+      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
+      "fecha": "14 Jul 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
+      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
+      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
+      "fecha": "14 Jul 2026, 17:56 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ralentiza la 4T el crecimiento",
+      "titulo": "Ralentiza 4T  el crecimiento",
       "resumen": "Pese a un posible repunte del PIB, México cerrará 2026 con una economía que ha crecido a tasa media anual de 0.8% en los últimos ocho años.",
-      "link": "https://www.reforma.com/ralentiza-la-4t-el-crecimiento/ar3241927",
+      "link": "https://www.reforma.com/ralentiza-4t-el-crecimiento/ar3241927",
       "fecha": "17 Jul 2026, 05:00 hrs"
     },
     {
@@ -168,34 +168,34 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plan México es para que el Gobierno rinda cuentas.-Mazzucato",
+      "titulo": "Plan México es para que Gobierno rinda cuentas.- Mazzucato",
       "resumen": "Plan México se diseñó para tener una dirección clara sobre el rumbo de la economía, aseveró Mariana Mazzucato diseñadora del Plan.",
-      "link": "https://www.reforma.com/plan-mexico-es-para-que-el-gobierno-rinda-cuentas-mazzucato/ar3241795",
+      "link": "https://www.reforma.com/plan-mexico-es-para-que-gobierno-rinda-cuentas-mazzucato/ar3241795",
       "fecha": "16 Jul 2026, 18:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compra Carso a TotalEnergies participación en bloque",
-      "resumen": "Grupo Carso acordó con TotalEnergies adquirir el total de su participación en un bloque petrolero en aguas someras del Golfo de México.",
-      "link": "https://www.reforma.com/compra-carso-a-totalenergies-participacion-en-bloque/ar3241702",
-      "fecha": "16 Jul 2026, 17:16 hrs"
+      "titulo": "Hará Brownsville buques autónomos",
+      "resumen": "Saronic Technologies eligió a Brownsville, Texas, como el sitio para instalar su nuevo astillero futurista denominado Port Alpha.",
+      "link": "https://www.reforma.com/hara-brownsville-buques-autonomos/ar3241937",
+      "fecha": "17 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Mundial menor derrama a la prevista.- Deloitte",
-      "resumen": "El Mundial generó en México una derrama de 2 mil 543 mdd, cifra 7 % inferior al cálculo presentado antes del torneo, dijo Deloitte.",
-      "link": "https://www.reforma.com/deja-mundial-menor-derrama-a-la-prevista-deloitte/ar3241673",
-      "fecha": "16 Jul 2026, 18:46 hrs"
+      "titulo": "Pega a marcas de autos bajo contenido de EU",
+      "resumen": "Aranceles aplicados a autos con bajo contenido estadounidense ya cobraron factura para diversas marcas que exportan hacia EU desde México.",
+      "link": "https://www.reforma.com/pega-a-marcas-de-autos-bajo-contenido-de-eu/ar3241929",
+      "fecha": "17 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pisan acelerador ventas de autos eléctricos en México",
+      "titulo": "Pisan acelerador ventas  de autos eléctricos en México",
       "resumen": "A junio de 2026, autos eléctricos, híbridos conectables y de rango expendido reportaron un crecimiento anual de 22%, revelan datos de EMA.",
       "link": "https://www.reforma.com/pisan-acelerador-ventas-de-autos-electricos-en-mexico/ar3241665",
       "fecha": "16 Jul 2026, 18:46 hrs"
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden a México ganar tiempo en revisión de T-MEC",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard y el sector privado acordaron llevar una agenda común en la siguiente ronda de revisión del T-MEC.",
-      "link": "https://www.reforma.com/piden-a-mexico-ganar-tiempo-en-revision-de-t-mec/ar3241653",
-      "fecha": "16 Jul 2026, 15:57 hrs"
+      "titulo": "Tendrá Geely laboratorio  en el Tec de Monterrey",
+      "resumen": "La automotriz china Geely firmó una alianza con el Tec de Monterrey enfocada en soluciones de movilidad autónoma e inteligente.",
+      "link": "https://www.reforma.com/tendra-geely-laboratorio-en-el-tec-de-monterrey/ar3241926",
+      "fecha": "17 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recorta Banxico tasa, pero hipotecas alcanzan 10%",
-      "resumen": "Pese a la reducción en la tasa de interés por parte de Banxico, las de los créditos bancarios de vivienda se ubican en cerca de 10%.",
-      "link": "https://www.reforma.com/recorta-banxico-tasa-pero-hipotecas-alcanzan-10/ar3241632",
-      "fecha": "16 Jul 2026, 15:35 hrs"
+      "titulo": "Utilizarán e.firma para trámites patronales ante IMSS",
+      "resumen": "IMSS anunció que la e,firma del SAT será el único certificado válidos para realizar tramites de afiliación y gestiones patronales.",
+      "link": "https://www.reforma.com/utilizaran-e-firma-para-tramites-patronales-ante-imss/ar3241913",
+      "fecha": "17 Jul 2026, 07:05 hrs"
     }
   ]
 }
