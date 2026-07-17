@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/07/2026 17:59 hrs",
+  "actualizado": "16/07/2026 21:29 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia del empresario español que pasó de vender ropa a ser más rico que Carlos Slim y Bill Gates",
-      "resumen": "Amancio Ortega pasó de una infancia con carencias económicas a crear Inditex, el grupo detrás de Zara, y una de las mayores fortunas del mundo.",
-      "link": "https://expansion.mx/empresas/2026/07/16/historia-amancio-ortega-creador-de-zara",
-      "fecha": "16 Jul 2026, 15:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
-      "resumen": "La SUV subcompacta de JAC incorpora 43 nuevas características de diseño, seguridad y conectividad para captar clientes que consideran sedanes, hatchbacks y otras camionetas del segmento.",
-      "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
-      "fecha": "16 Jul 2026, 14:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Reconfiguración automotriz comienza a golpear al negocio ferroviario en México",
-      "resumen": "Grupo México Transportes dejará de captar 1.5 millones de dólares al año tras la salida de la Tacoma, mientras los cambios comerciales complican la planeación del sector.",
-      "link": "https://expansion.mx/empresas/2026/07/16/salida-toyota-tacoma-perdidas-ferrocarril-grupo-mexico",
-      "fecha": "16 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Pemex recupera terreno en gasolineras y concentra casi dos terceras partes del mercado",
       "resumen": "De las 14,325 estaciones de servicio con permisos vigentes y en operación en el país, 8,925 operan bajo la marca Pemex, mientras que las 5,400 restantes se distribuyen entre 392 marcas privadas.",
       "link": "https://expansion.mx/empresas/2026/07/15/pemex-concentra-casi-dos-terceras-partes-mercado-gasolinero",
@@ -147,76 +120,103 @@
       "fecha": "15 Jul 2026, 05:55 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recorta Banxico tasa, pero hipotecas alcanzan el 10%",
-      "resumen": "Pese a la reducción en la tasa de interés por parte de Banxico, las de los créditos bancarios de vivienda se ubican en cerca de 10%.",
-      "link": "https://www.reforma.com/recorta-banxico-tasa-pero-hipotecas-alcanzan-el-10/ar3241632",
-      "fecha": "16 Jul 2026, 15:35 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
+      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
+      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
+      "fecha": "14 Jul 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
+      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
+      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
+      "fecha": "14 Jul 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia subiría 3,400 pesos con estándares mínimos de seguridad como bolsas de aire y frenos ABS",
+      "resumen": "Especialistas estiman que incorporar equipo básico de seguridad elevaría el precio de Olinia en 3,400 pesos y piden una regulación específica para evitar riesgos y distorsiones competitivas.",
+      "link": "https://expansion.mx/empresas/2026/07/14/olinia-subiria-3-400-pesos-estandares-minimos-de-seguridad",
+      "fecha": "14 Jul 2026, 17:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llevarán IP y SE agenda común en próxima ronda de T-MEC",
+      "titulo": "Justifica Pemex barriles de crudo no reportados",
+      "resumen": "Los 138 mil barriles diarios de petróleo que no se reportan en la Base de Datos Institucional son por cuestiones operativas, aseguró Pemex.",
+      "link": "https://www.reforma.com/justifica-pemex-barriles-de-crudo-no-reportados/ar3241828",
+      "fecha": "16 Jul 2026, 19:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Plan México es para que el Gobierno rinda cuentas.-Mazzucato",
+      "resumen": "Plan México se diseñó para tener una dirección clara sobre el rumbo de la economía, aseveró Mariana Mazzucato diseñadora del Plan.",
+      "link": "https://www.reforma.com/plan-mexico-es-para-que-el-gobierno-rinda-cuentas-mazzucato/ar3241795",
+      "fecha": "16 Jul 2026, 18:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Compra Carso a TotalEnergies participación en bloque",
+      "resumen": "Grupo Carso acordó con TotalEnergies adquirir el total de su participación en un bloque petrolero en aguas someras del Golfo de México.",
+      "link": "https://www.reforma.com/compra-carso-a-totalenergies-participacion-en-bloque/ar3241702",
+      "fecha": "16 Jul 2026, 17:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Deja Mundial menor derrama a la prevista.- Deloitte",
+      "resumen": "El Mundial generó en México una derrama de 2 mil 543 mdd, cifra 7 % inferior al cálculo presentado antes del torneo, dijo Deloitte.",
+      "link": "https://www.reforma.com/deja-mundial-menor-derrama-a-la-prevista-deloitte/ar3241673",
+      "fecha": "16 Jul 2026, 18:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pisan acelerador ventas de autos eléctricos en México",
+      "resumen": "A junio de 2026, autos eléctricos, híbridos conectables y de rango expendido reportaron un crecimiento anual de 22%, revelan datos de EMA.",
+      "link": "https://www.reforma.com/pisan-acelerador-ventas-de-autos-electricos-en-mexico/ar3241665",
+      "fecha": "16 Jul 2026, 18:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden a México ganar tiempo en revisión de T-MEC",
       "resumen": "El Secretario de Economía, Marcelo Ebrard y el sector privado acordaron llevar una agenda común en la siguiente ronda de revisión del T-MEC.",
-      "link": "https://www.reforma.com/llevaran-ip-y-se-agenda-comun-en-proxima-ronda-de-t-mec/ar3241653",
+      "link": "https://www.reforma.com/piden-a-mexico-ganar-tiempo-en-revision-de-t-mec/ar3241653",
       "fecha": "16 Jul 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apuesta Apollo por México  con 20 mmdd en crédito privado",
-      "resumen": "Apollo planea destinar hasta 20 mil millones de dólares para financiar proyectos en México, según Bloomberg.",
-      "link": "https://www.reforma.com/apuesta-apollo-por-mexico-con-20-mmdd-en-credito-privado/ar3241486",
-      "fecha": "16 Jul 2026, 12:35 hrs"
+      "titulo": "Recorta Banxico tasa, pero hipotecas alcanzan 10%",
+      "resumen": "Pese a la reducción en la tasa de interés por parte de Banxico, las de los créditos bancarios de vivienda se ubican en cerca de 10%.",
+      "link": "https://www.reforma.com/recorta-banxico-tasa-pero-hipotecas-alcanzan-10/ar3241632",
+      "fecha": "16 Jul 2026, 15:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Envía México petróleo a Japón en medio de la guerra en Irán",
-      "resumen": "Japón recibirá esta semana su primer cargamento de petróleo mexicano desde el inicio de la guerra en Medio Oriente y la tensión en Ormuz.",
-      "link": "https://www.reforma.com/envia-mexico-petroleo-a-japon-en-medio-de-la-guerra-en-iran/ar3241489",
-      "fecha": "16 Jul 2026, 12:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frena Honda producción de eléctrico Prologue en Ramos Arizpe",
-      "resumen": "Honda informó a concesionarios en EU que producción de eléctrico Prologue, fabricado en Ramos Arizpe en conjunto con GM, cesará a fin de año",
-      "link": "https://www.reforma.com/frena-honda-produccion-de-electrico-prologue-en-ramos-arizpe/ar3241477",
-      "fecha": "16 Jul 2026, 12:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Distan empresas mexicanas de aprovechar IA para negocios",
-      "resumen": "Sólo 13.8% de las empresas ha logrado integrar la IA al núcleo de su negocio, según IPADE Business School.",
-      "link": "https://www.reforma.com/distan-empresas-mexicanas-de-aprovechar-ia-para-negocios/ar3241536",
-      "fecha": "16 Jul 2026, 14:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera Netflix expectativa de ganancia, pero no de ingresos",
-      "resumen": "Netflix reportó un beneficio de 3,400 mdd en el segundo trimestre, mayor al esperado, pero los ingresos de 12,560 mdd se quedaron cortos.",
-      "link": "https://www.reforma.com/supera-netflix-expectativa-de-ganancia-pero-no-de-ingresos/ar3241584",
-      "fecha": "16 Jul 2026, 14:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firmará Chevron acuerdos de inversión con Irak",
-      "resumen": "Chevron prevé firmar acuerdos con Irak que impulsarán sus negociaciones sobre inversiones en grandes yacimientos petrolíferos.",
-      "link": "https://www.reforma.com/firmara-chevron-acuerdos-de-inversion-con-irak/ar3241553",
-      "fecha": "16 Jul 2026, 14:05 hrs"
+      "titulo": "Retrasa Alphabet lanzamiento de Gemini 3.5 Pro",
+      "resumen": "Las acciones de Alphabet cayeron 4%, tras informe que indicaba que la compañía había retrasado el lanzamiento de su modelo estrella de IA.",
+      "link": "https://www.reforma.com/retrasa-alphabet-lanzamiento-de-gemini-3-5-pro/ar3241592",
+      "fecha": "16 Jul 2026, 14:30 hrs"
     }
   ]
 }
