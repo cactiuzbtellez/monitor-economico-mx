@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/07/2026 03:09 hrs",
+  "actualizado": "17/07/2026 05:21 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
+      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
+      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
+      "fecha": "17 Jul 2026, 05:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
       "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
       "fecha": "14 Jul 2026, 14:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
-      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
-      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
-      "fecha": "14 Jul 2026, 09:50 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Ralentiza la 4T el crecimiento",
+      "resumen": "Pese a un posible repunte del PIB, México cerrará 2026 con una economía que ha crecido a tasa media anual de 0.8% en los últimos ocho años.",
+      "link": "https://www.reforma.com/ralentiza-la-4t-el-crecimiento/ar3241927",
+      "fecha": "17 Jul 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Justifica Pemex barriles de crudo no reportados",
       "resumen": "Los 138 mil barriles diarios de petróleo que no se reportan en la Base de Datos Institucional son por cuestiones operativas, aseguró Pemex.",
       "link": "https://www.reforma.com/justifica-pemex-barriles-de-crudo-no-reportados/ar3241828",
@@ -208,15 +217,6 @@
       "resumen": "Pese a la reducción en la tasa de interés por parte de Banxico, las de los créditos bancarios de vivienda se ubican en cerca de 10%.",
       "link": "https://www.reforma.com/recorta-banxico-tasa-pero-hipotecas-alcanzan-10/ar3241632",
       "fecha": "16 Jul 2026, 15:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Retrasa Alphabet lanzamiento de Gemini 3.5 Pro",
-      "resumen": "Las acciones de Alphabet cayeron 4%, tras informe que indicaba que la compañía había retrasado el lanzamiento de su modelo estrella de IA.",
-      "link": "https://www.reforma.com/retrasa-alphabet-lanzamiento-de-gemini-3-5-pro/ar3241592",
-      "fecha": "16 Jul 2026, 14:30 hrs"
     }
   ]
 }
