@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/07/2026 07:27 hrs",
+  "actualizado": "17/07/2026 09:13 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,60 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La guerra entre EU e Irán pone en riesgo 20% del petróleo mundial y presiona las gasolinas",
+      "resumen": "El conflicto obliga a petroleras y navieras a evitar el Estrecho de Ormuz, elevando los costos logísticos y anticipando nuevas presiones sobre los combustibles.",
+      "link": "https://expansion.mx/empresas/2026/07/17/conflicto-eu-iran-presiona-logistica-petrolera-precios",
+      "fecha": "17 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Por qué Nike volvió a Chivas y qué gana con vestir al club más popular de México",
+      "resumen": "Nike y Chivas anunciaron una alianza multianual que promete convertirse en una de las más beneficiosas en el futbol mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/16/nike-volvio-chivas-que-gana-vestir-club-popular-mexico",
+      "fecha": "16 Jul 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely lleva la transferencia tecnológica al Tec de Monterrey para formar talento en movilidad inteligente",
+      "resumen": "La firma china respaldará proyectos de investigación, préstamo de vehículos y formación de talento especializado en ingeniería, una estrategia con la que busca fortalecer su presencia en México.",
+      "link": "https://expansion.mx/empresas/2026/07/16/geely-invierte-4-mdp-para-aliarse-con-el-tec",
+      "fecha": "16 Jul 2026, 17:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "AT&T pide a la CRT reglas que eviten mayor concentración de Telcel en la licitación de espectro 5G",
+      "resumen": "La empresa de origen estadounidense está interesada en la banda 3.5 GHz, pero pidió al regulador una licitación que combine reglas de competencia y condiciones técnicas que permitan el uso efectivo de…",
+      "link": "https://expansion.mx/empresas/2026/07/16/at-t-pide-reglas-eviten-concentracion-telcel-licitacion-5g",
+      "fecha": "16 Jul 2026, 16:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia del empresario español que pasó de vender ropa a ser más rico que Carlos Slim y Bill Gates",
+      "resumen": "Amancio Ortega pasó de una infancia con carencias económicas a crear Inditex, el grupo detrás de Zara, y una de las mayores fortunas del mundo.",
+      "link": "https://expansion.mx/empresas/2026/07/16/historia-amancio-ortega-creador-de-zara",
+      "fecha": "16 Jul 2026, 15:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
+      "resumen": "La SUV subcompacta de JAC incorpora 43 nuevas características de diseño, seguridad y conectividad para captar clientes que consideran sedanes, hatchbacks y otras camionetas del segmento.",
+      "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
+      "fecha": "16 Jul 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Reconfiguración automotriz comienza a golpear al negocio ferroviario en México",
       "resumen": "Grupo México Transportes dejará de captar 1.5 millones de dólares al año tras la salida de la Tacoma, mientras los cambios comerciales complican la planeación del sector.",
       "link": "https://expansion.mx/empresas/2026/07/16/salida-toyota-tacoma-perdidas-ferrocarril-grupo-mexico",
@@ -93,60 +147,6 @@
       "fecha": "15 Jul 2026, 16:08 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "GML prepara exportación de vehículos JAC hechos en México hacia Latinoamérica",
-      "resumen": "La empresa mexicana busca convertir su planta de Hidalgo en una plataforma regional para abastecer a distribuidores de JAC en Latinoamérica, aprovechando su mayor capacidad y potenciales beneficios co…",
-      "link": "https://expansion.mx/empresas/2026/07/15/gml-exportacion-vehiculos-jac-hacia-latinoamerica",
-      "fecha": "15 Jul 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
-      "resumen": "No todos los hatchback económicos ofrecen el mismo alcance. Mientras algunos apenas superan ciertas rutas nacionales, otros pueden acercarse a los 1,000 kilómetros antes de volver a la gasolinera.",
-      "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
-      "fecha": "15 Jul 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
-      "resumen": "Industria, bienes raíces, moda, banca digital y criptomonedas impulsan las mayores fortunas del país. Solo uno de los siete perfiles nació en Reino Unido.",
-      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
-      "fecha": "15 Jul 2026, 12:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pescadores afectados por derrame de Pemex presentan amparo para obtener indemnizaciones",
-      "resumen": "Las comunidades indígenas de Pajapan sostienen que la exclusión del padrón de afectados impide el acceso a los apoyos económicos y a la reparación del daño otorgados a otros pescadores reconocidos por…",
-      "link": "https://expansion.mx/empresas/2026/07/15/pescadores-afectados-derrame-pemex-presentan-amparo",
-      "fecha": "15 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
-      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
-      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
-      "fecha": "14 Jul 2026, 18:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
-      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
-      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
-      "fecha": "14 Jul 2026, 17:56 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,24 +154,6 @@
       "resumen": "Pese a un posible repunte del PIB, México cerrará 2026 con una economía que ha crecido a tasa media anual de 0.8% en los últimos ocho años.",
       "link": "https://www.reforma.com/ralentiza-4t-el-crecimiento/ar3241927",
       "fecha": "17 Jul 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Justifica Pemex barriles de crudo no reportados",
-      "resumen": "Los 138 mil barriles diarios de petróleo que no se reportan en la Base de Datos Institucional son por cuestiones operativas, aseguró Pemex.",
-      "link": "https://www.reforma.com/justifica-pemex-barriles-de-crudo-no-reportados/ar3241828",
-      "fecha": "16 Jul 2026, 19:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Plan México es para que Gobierno rinda cuentas.- Mazzucato",
-      "resumen": "Plan México se diseñó para tener una dirección clara sobre el rumbo de la economía, aseveró Mariana Mazzucato diseñadora del Plan.",
-      "link": "https://www.reforma.com/plan-mexico-es-para-que-gobierno-rinda-cuentas-mazzucato/ar3241795",
-      "fecha": "16 Jul 2026, 18:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,6 +177,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Abre Nasdaq con caída de más de 2%; Netflix se desploma 10%",
+      "resumen": "El índice Nasdaq perdía más de 2%, afectado por el retroceso en las acciones de semiconductores y una caída de más de 10% en Netflix.",
+      "link": "https://www.reforma.com/abre-nasdaq-con-caida-de-mas-de-2-netflix-se-desploma-10/ar3242055",
+      "fecha": "17 Jul 2026, 07:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Destrona Apple a Nvidia como empresa más valiosa del mundo",
+      "resumen": "Apple superó a Nvidia en valor de mercado, recuperando así su posición como la empresa más valiosa del mundo.",
+      "link": "https://www.reforma.com/destrona-apple-a-nvidia-como-empresa-mas-valiosa-del-mundo/ar3242060",
+      "fecha": "17 Jul 2026, 08:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube crudo por renovadas  hostilidades entre EU e Irán",
+      "resumen": "Los precios del crudo subían cerca de un 2%, después de que EU e Irán intensificaran los ataques en todo el golfo Pérsico.",
+      "link": "https://www.reforma.com/sube-crudo-por-renovadas-hostilidades-entre-eu-e-iran/ar3242041",
+      "fecha": "17 Jul 2026, 07:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Pisan acelerador ventas  de autos eléctricos en México",
       "resumen": "A junio de 2026, autos eléctricos, híbridos conectables y de rango expendido reportaron un crecimiento anual de 22%, revelan datos de EMA.",
       "link": "https://www.reforma.com/pisan-acelerador-ventas-de-autos-electricos-en-mexico/ar3241665",
@@ -207,15 +216,6 @@
       "titulo": "Tendrá Geely laboratorio  en el Tec de Monterrey",
       "resumen": "La automotriz china Geely firmó una alianza con el Tec de Monterrey enfocada en soluciones de movilidad autónoma e inteligente.",
       "link": "https://www.reforma.com/tendra-geely-laboratorio-en-el-tec-de-monterrey/ar3241926",
-      "fecha": "17 Jul 2026, 07:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Utilizarán e.firma para trámites patronales ante IMSS",
-      "resumen": "IMSS anunció que la e,firma del SAT será el único certificado válidos para realizar tramites de afiliación y gestiones patronales.",
-      "link": "https://www.reforma.com/utilizaran-e-firma-para-tramites-patronales-ante-imss/ar3241913",
       "fecha": "17 Jul 2026, 07:05 hrs"
     }
   ]
