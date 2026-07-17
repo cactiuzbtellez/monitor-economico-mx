@@ -1,25 +1,7 @@
 {
-  "actualizado": "17/07/2026 11:11 hrs",
+  "actualizado": "17/07/2026 13:07 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
-      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
-      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
-      "fecha": "17 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
-      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
-      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
-      "fecha": "17 Jul 2026, 05:05 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "Ambos forman parte de las empresas más grandes del país, pero sus cifras revelan diferencias en tamaño, cobertura y capacidad para generar ingresos y empleo en México.",
       "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
       "fecha": "14 Jul 2026, 16:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los mexicanos superan la educación de sus padres, pero no necesariamente su patrimonio",
+      "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
+      "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
+      "fecha": "14 Jul 2026, 14:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
+      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
+      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
+      "fecha": "14 Jul 2026, 09:50 hrs"
     },
     {
       "fuente": "Expansión",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abre Nasdaq con caída de más de 2%; Netflix se desploma 10%",
-      "resumen": "El índice Nasdaq perdía más de 2%, afectado por el retroceso en las acciones de semiconductores y una caída de más de 10% en Netflix.",
-      "link": "https://www.reforma.com/abre-nasdaq-con-caida-de-mas-de-2-netflix-se-desploma-10/ar3242055",
-      "fecha": "17 Jul 2026, 07:57 hrs"
+      "titulo": "Cierran precios del crudo con avance de más de 4%",
+      "resumen": "El crudo se disparó ante creciente temor de que EU e Irán pudieran entrar en una guerra abierta, lo que amenazaría el flujo de suministro.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-avance-de-mas-de-4/ar3242199",
+      "fecha": "17 Jul 2026, 12:45 hrs"
     },
     {
       "fuente": "Reforma",
