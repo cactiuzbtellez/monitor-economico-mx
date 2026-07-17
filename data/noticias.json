@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/07/2026 00:15 hrs",
+  "actualizado": "17/07/2026 03:09 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Por qué Nike volvió a Chivas y qué gana con vestir al club más popular de México",
+      "resumen": "Nike y Chivas anunciaron una alianza multianual que promete convertirse en una de las más beneficiosas en el futbol mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/16/nike-volvio-chivas-que-gana-vestir-club-popular-mexico",
+      "fecha": "16 Jul 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely lleva la transferencia tecnológica al Tec de Monterrey para formar talento en movilidad inteligente",
+      "resumen": "La firma china respaldará proyectos de investigación, préstamo de vehículos y formación de talento especializado en ingeniería, una estrategia con la que busca fortalecer su presencia en México.",
+      "link": "https://expansion.mx/empresas/2026/07/16/geely-invierte-4-mdp-para-aliarse-con-el-tec",
+      "fecha": "16 Jul 2026, 17:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "AT&T pide a la CRT reglas que eviten mayor concentración de Telcel en la licitación de espectro 5G",
+      "resumen": "La empresa de origen estadounidense está interesada en la banda 3.5 GHz, pero pidió al regulador una licitación que combine reglas de competencia y condiciones técnicas que permitan el uso efectivo de…",
+      "link": "https://expansion.mx/empresas/2026/07/16/at-t-pide-reglas-eviten-concentracion-telcel-licitacion-5g",
+      "fecha": "16 Jul 2026, 16:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia del empresario español que pasó de vender ropa a ser más rico que Carlos Slim y Bill Gates",
+      "resumen": "Amancio Ortega pasó de una infancia con carencias económicas a crear Inditex, el grupo detrás de Zara, y una de las mayores fortunas del mundo.",
+      "link": "https://expansion.mx/empresas/2026/07/16/historia-amancio-ortega-creador-de-zara",
+      "fecha": "16 Jul 2026, 15:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
       "resumen": "La SUV subcompacta de JAC incorpora 43 nuevas características de diseño, seguridad y conectividad para captar clientes que consideran sedanes, hatchbacks y otras camionetas del segmento.",
       "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
@@ -109,42 +145,6 @@
       "resumen": "La empresa mexicana busca convertir su planta de Hidalgo en una plataforma regional para abastecer a distribuidores de JAC en Latinoamérica, aprovechando su mayor capacidad y potenciales beneficios co…",
       "link": "https://expansion.mx/empresas/2026/07/15/gml-exportacion-vehiculos-jac-hacia-latinoamerica",
       "fecha": "15 Jul 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kwid, March o Grand i10: ¿qué hatchback llega más lejos con un tanque de gasolina?",
-      "resumen": "No todos los hatchback económicos ofrecen el mismo alcance. Mientras algunos apenas superan ciertas rutas nacionales, otros pueden acercarse a los 1,000 kilómetros antes de volver a la gasolinera.",
-      "link": "https://expansion.mx/empresas/2026/07/15/kwid-march-o-grand-i10-que-hatchback-llega-mas-lejos-con-un-tanque-de-gasolina",
-      "fecha": "15 Jul 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 7 empresarios y familias que dominan la riqueza en Inglaterra",
-      "resumen": "Industria, bienes raíces, moda, banca digital y criptomonedas impulsan las mayores fortunas del país. Solo uno de los siete perfiles nació en Reino Unido.",
-      "link": "https://expansion.mx/empresas/2026/07/15/los-7-empresarios-y-familias-mas-ricos-en-inglaterra",
-      "fecha": "15 Jul 2026, 12:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pescadores afectados por derrame de Pemex presentan amparo para obtener indemnizaciones",
-      "resumen": "Las comunidades indígenas de Pajapan sostienen que la exclusión del padrón de afectados impide el acceso a los apoyos económicos y a la reparación del daño otorgados a otros pescadores reconocidos por…",
-      "link": "https://expansion.mx/empresas/2026/07/15/pescadores-afectados-derrame-pemex-presentan-amparo",
-      "fecha": "15 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Usuarios pierden control de su gasto en streaming pese a regulación sobre renovaciones automáticas",
-      "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
-      "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
-      "fecha": "14 Jul 2026, 18:26 hrs"
     },
     {
       "fuente": "Reforma",
