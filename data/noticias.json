@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/07/2026 21:29 hrs",
+  "actualizado": "17/07/2026 00:15 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "JAC 4 se renueva con más equipamiento y apuesta por conquistar a compradores de sedanes con un precio de 369,000 pesos",
+      "resumen": "La SUV subcompacta de JAC incorpora 43 nuevas características de diseño, seguridad y conectividad para captar clientes que consideran sedanes, hatchbacks y otras camionetas del segmento.",
+      "link": "https://expansion.mx/empresas/2026/07/16/jac-4-2027-precio-mexico-caracteristicas",
+      "fecha": "16 Jul 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Reconfiguración automotriz comienza a golpear al negocio ferroviario en México",
+      "resumen": "Grupo México Transportes dejará de captar 1.5 millones de dólares al año tras la salida de la Tacoma, mientras los cambios comerciales complican la planeación del sector.",
+      "link": "https://expansion.mx/empresas/2026/07/16/salida-toyota-tacoma-perdidas-ferrocarril-grupo-mexico",
+      "fecha": "16 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Pemex recupera terreno en gasolineras y concentra casi dos terceras partes del mercado",
       "resumen": "De las 14,325 estaciones de servicio con permisos vigentes y en operación en el país, 8,925 operan bajo la marca Pemex, mientras que las 5,400 restantes se distribuyen entre 392 marcas privadas.",
       "link": "https://expansion.mx/empresas/2026/07/15/pemex-concentra-casi-dos-terceras-partes-mercado-gasolinero",
@@ -127,24 +145,6 @@
       "resumen": "La regulación exige notificar cinco días antes del cobro automático, pero las plataformas aún no homologan el mecanismo, en un mercado donde el cargo pasa desapercibido hasta que aparece en el estado …",
       "link": "https://expansion.mx/empresas/2026/07/14/streaming-notificacion-cobro-plataformas",
       "fecha": "14 Jul 2026, 18:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Huachicol repunta en 2026 con una toma clandestina cada 51 minutos",
-      "resumen": "Las tomas clandestinas en ductos aumentaron 8.6% frente al trimestre previo. Especialistas atribuyen el repunte al cambio de prioridades en el combate al huachicol y al menor resguardo.",
-      "link": "https://expansion.mx/empresas/2026/07/14/huachicol-repunta-2026-toma-clandestina-cada-51-minutos",
-      "fecha": "14 Jul 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia subiría 3,400 pesos con estándares mínimos de seguridad como bolsas de aire y frenos ABS",
-      "resumen": "Especialistas estiman que incorporar equipo básico de seguridad elevaría el precio de Olinia en 3,400 pesos y piden una regulación específica para evitar riesgos y distorsiones competitivas.",
-      "link": "https://expansion.mx/empresas/2026/07/14/olinia-subiria-3-400-pesos-estandares-minimos-de-seguridad",
-      "fecha": "14 Jul 2026, 17:15 hrs"
     },
     {
       "fuente": "Reforma",
