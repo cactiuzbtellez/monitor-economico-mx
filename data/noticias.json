@@ -1,7 +1,25 @@
 {
-  "actualizado": "17/07/2026 13:07 hrs",
+  "actualizado": "17/07/2026 14:54 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
+      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
+      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
+      "fecha": "17 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
+      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
+      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
+      "fecha": "17 Jul 2026, 05:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los mexicanos superan la educación de sus padres, pero no necesariamente su patrimonio",
-      "resumen": "La mayoría de los adultos considera que avanzó frente al hogar en el que creció, aunque la movilidad es mucho más clara en educación que en la acumulación de bienes y propiedades.",
-      "link": "https://expansion.mx/economia/2026/07/14/los-mexicanos-superan-la-educacion-de-sus-padres-pero-no-necesariamente-su-patrimonio",
-      "fecha": "14 Jul 2026, 14:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump anuncia que retira la tasa del 20% para los barcos que crucen el Estrecho de Ormuz",
-      "resumen": "La tasa será sustituida por \"acuerdos de comercio e inversión que los diversos Estados del Golfo realizarán en los Estados Unidos\" aseguró Trump en su plataforma Truth Social.",
-      "link": "https://expansion.mx/economia/2026/07/14/trump-anuncia-que-retira-la-tasa-del-20-para-los-barcos-que-crucen-el-estrecho-de-ormuz",
-      "fecha": "14 Jul 2026, 09:50 hrs"
+      "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
+      "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
+      "link": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
+      "fecha": "17 Jul 2026, 13:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "16 Jul 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex recupera terreno en gasolineras y concentra casi dos terceras partes del mercado",
-      "resumen": "De las 14,325 estaciones de servicio con permisos vigentes y en operación en el país, 8,925 operan bajo la marca Pemex, mientras que las 5,400 restantes se distribuyen entre 392 marcas privadas.",
-      "link": "https://expansion.mx/empresas/2026/07/15/pemex-concentra-casi-dos-terceras-partes-mercado-gasolinero",
-      "fecha": "15 Jul 2026, 16:08 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pega a marcas de autos bajo contenido de EU",
-      "resumen": "Aranceles aplicados a autos con bajo contenido estadounidense ya cobraron factura para diversas marcas que exportan hacia EU desde México.",
-      "link": "https://www.reforma.com/pega-a-marcas-de-autos-bajo-contenido-de-eu/ar3241929",
-      "fecha": "17 Jul 2026, 07:05 hrs"
+      "titulo": "Envía Apple advertencias legales a empleados de OpenAI",
+      "resumen": "Apple envía cartas legales a unos 40 ex empleados que ahora trabajando en OpenAI en las que pide reunirse con los abogados de la empresa.",
+      "link": "https://www.reforma.com/envia-apple-advertencias-legales-a-empleados-de-openai/ar3242293",
+      "fecha": "17 Jul 2026, 14:38 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destrona Apple a Nvidia como empresa más valiosa del mundo",
-      "resumen": "Apple superó a Nvidia en valor de mercado, recuperando así su posición como la empresa más valiosa del mundo.",
-      "link": "https://www.reforma.com/destrona-apple-a-nvidia-como-empresa-mas-valiosa-del-mundo/ar3242060",
-      "fecha": "17 Jul 2026, 08:18 hrs"
+      "titulo": "Caen mercados de EU por ola de ventas en el sector de chips",
+      "resumen": "Los tres índices registraron pérdidas semanales: el S&amp;P 500 cayó un 1.6%, el Nasdaq retrocedió un 2.9%, y el Dow Jones bajó un 0.9%.",
+      "link": "https://www.reforma.com/caen-mercados-de-eu-por-ola-de-ventas-en-el-sector-de-chips/ar3242295",
+      "fecha": "17 Jul 2026, 14:38 hrs"
     },
     {
       "fuente": "Reforma",
