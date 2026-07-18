@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/07/2026 03:24 hrs",
+  "actualizado": "18/07/2026 05:03 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Vapulea España a Argentina en IED y comercio con México",
+      "resumen": "Ante una final mundialista entre España y Argentina, a la hora de hacer negocios, México tiene un claro favorito y es ibérico.",
+      "link": "https://www.reforma.com/vapulea-espana-a-argentina-en-ied-y-comercio-con-mexico/ar3242571",
+      "fecha": "18 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Valora empleos en la era de la IA",
+      "resumen": "La IA está transformando al mundo laboral, pero Walmart asegura que  no elimina la necesidad de contar con ciertos perfiles laborales.",
+      "link": "https://www.reforma.com/valora-empleos-en-la-era-de-la-ia/ar3242566",
+      "fecha": "18 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Huyen de Putin millonarios rusos",
+      "resumen": "Las personas más ricas de Rusia, incluyendo cercanos al Presidente Vladímir Putin, han trasladado miles de millones de dólares al extranjero",
+      "link": "https://www.reforma.com/huyen-de-putin-millonarios-rusos/ar3242558",
+      "fecha": "18 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "El 'gol' económico que no llegó; Mundial quedó corto",
       "resumen": "Pese a la euforia, el Mundial de futbol no alcanzó las metas turísticas, económicas, aéreas y de consumo previstas por el Gobierno federal.",
       "link": "https://www.reforma.com/el-gol-economico-que-no-llego-mundial-quedo-corto/ar3242312",
@@ -190,33 +217,6 @@
       "resumen": "El crudo se disparó ante creciente temor de que EU e Irán pudieran entrar en una guerra abierta, lo que amenazaría el flujo de suministro.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-con-avance-de-mas-de-4/ar3242199",
       "fecha": "17 Jul 2026, 12:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen mercados de EU por ola de ventas en el sector de chips",
-      "resumen": "Los tres índices registraron pérdidas semanales: el S&amp;P 500 cayó un 1.6%, el Nasdaq retrocedió un 2.9%, y el Dow Jones bajó un 0.9%.",
-      "link": "https://www.reforma.com/caen-mercados-de-eu-por-ola-de-ventas-en-el-sector-de-chips/ar3242295",
-      "fecha": "17 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ordena Francia bloquear  acceso a Polymarket",
-      "resumen": "Regulador del juego de Francia ordenó a proveedores de servicios de Internet bloquear acceso a la página web de apuestas Polymarket.",
-      "link": "https://www.reforma.com/ordena-francia-bloquear-acceso-a-polymarket/ar3242337",
-      "fecha": "17 Jul 2026, 15:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acumula SpaceX pérdida de Dls. 1 billón en valor de mercado",
-      "resumen": "Las acciones de SpaceX caían cerca de 5%, un día después de que abortara en el último segundo un vuelo de prueba de su cohete Starship.",
-      "link": "https://www.reforma.com/acumula-spacex-perdida-de-dls-1-billon-en-valor-de-mercado/ar3242036",
-      "fecha": "17 Jul 2026, 07:21 hrs"
     }
   ]
 }
