@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/07/2026 20:27 hrs",
+  "actualizado": "17/07/2026 23:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
+      "resumen": "La guerra en Medio Oriente volvió a disparar los precios del petróleo, incluyendo la mezcla mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
+      "fecha": "17 Jul 2026, 20:10 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Mastercard, la AMITI y la Secretaría de Economía buscan que las empresas en México sufran menos ataques cibernéticos y que las consecuencias de estos las lleven a cerrar.",
       "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
       "fecha": "14 Jul 2026, 19:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA vs. Santander: la batalla de los bancos españoles en México por ingresos, empleos y sucursales",
-      "resumen": "Ambos forman parte de las empresas más grandes del país, pero sus cifras revelan diferencias en tamaño, cobertura y capacidad para generar ingresos y empleo en México.",
-      "link": "https://expansion.mx/economia/2026/07/14/bbva-vs-santander-bancos-espanoles-en-mexico",
-      "fecha": "14 Jul 2026, 16:19 hrs"
     },
     {
       "fuente": "Expansión",
