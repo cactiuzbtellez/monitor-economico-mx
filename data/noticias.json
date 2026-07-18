@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/07/2026 17:52 hrs",
+  "actualizado": "17/07/2026 20:27 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "BYD actualiza el King DM-i para competir con Prius y Corolla en el mercado de sedanes híbridos",
+      "resumen": "La marca china renovó el King DM-i con mayor autonomía, más tecnología y un precio de lanzamiento desde 499,900 pesos para competir en un nichos donde los sedanes electrificados mantienen espacio para…",
+      "link": "https://expansion.mx/empresas/2026/07/17/byd-actualiza-el-king-dm-i-precio-caracteristicas",
+      "fecha": "17 Jul 2026, 18:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El empresario michoacano que convirtió a Cinépolis en el rey del cine y ni Germán Larrea pudo destronarlo",
+      "resumen": "Alejandro Ramírez Magaña dejó una carrera en Harvard, Oxford y organismos internacionales para regresar a dirigir Cinépolis a petición de su abuelo.",
+      "link": "https://expansion.mx/empresas/2026/07/17/alejandro-ramirez-magana-cinepolis-empresario-mexico",
+      "fecha": "17 Jul 2026, 17:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Cotemar reactiva proyectos petroleros en pausa y prepara 1,100 contrataciones para obras de hidrocarburos",
       "resumen": "La empresa incorporará talento especializado para proyectos de construcción y mantenimiento en instalaciones petroleras terrestres y costa afuera.",
       "link": "https://expansion.mx/empresas/2026/07/17/cotemar-reactiva-proyectos-petroleros-1100-contrataciones",
@@ -127,24 +145,6 @@
       "resumen": "La firma china respaldará proyectos de investigación, préstamo de vehículos y formación de talento especializado en ingeniería, una estrategia con la que busca fortalecer su presencia en México.",
       "link": "https://expansion.mx/empresas/2026/07/16/geely-invierte-4-mdp-para-aliarse-con-el-tec",
       "fecha": "16 Jul 2026, 17:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AT&T pide a la CRT reglas que eviten mayor concentración de Telcel en la licitación de espectro 5G",
-      "resumen": "La empresa de origen estadounidense está interesada en la banda 3.5 GHz, pero pidió al regulador una licitación que combine reglas de competencia y condiciones técnicas que permitan el uso efectivo de…",
-      "link": "https://expansion.mx/empresas/2026/07/16/at-t-pide-reglas-eviten-concentracion-telcel-licitacion-5g",
-      "fecha": "16 Jul 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia del empresario español que pasó de vender ropa a ser más rico que Carlos Slim y Bill Gates",
-      "resumen": "Amancio Ortega pasó de una infancia con carencias económicas a crear Inditex, el grupo detrás de Zara, y una de las mayores fortunas del mundo.",
-      "link": "https://expansion.mx/empresas/2026/07/16/historia-amancio-ortega-creador-de-zara",
-      "fecha": "16 Jul 2026, 15:40 hrs"
     },
     {
       "fuente": "Reforma",
