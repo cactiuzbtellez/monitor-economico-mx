@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/07/2026 16:49 hrs",
+  "actualizado": "18/07/2026 17:53 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
+      "resumen": "La crisis financiera y la consolidación mundial terminaron por cambiar el mapa de la automoción británica. Hoy, algunas de sus marcas más icónicas viven una segunda etapa bajo nuevos propietarios extr…",
+      "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
+      "fecha": "18 Jul 2026, 19:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
       "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
       "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
@@ -136,15 +145,6 @@
       "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
       "link": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
       "fecha": "17 Jul 2026, 13:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La guerra entre EU e Irán pone en riesgo 20% del petróleo mundial y presiona las gasolinas",
-      "resumen": "El conflicto obliga a petroleras y navieras a evitar el Estrecho de Ormuz, elevando los costos logísticos y anticipando nuevas presiones sobre los combustibles.",
-      "link": "https://expansion.mx/empresas/2026/07/17/conflicto-eu-iran-presiona-logistica-petrolera-precios",
-      "fecha": "17 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
