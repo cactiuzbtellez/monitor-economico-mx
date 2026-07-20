@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/07/2026 14:20 hrs",
+  "actualizado": "20/07/2026 15:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -186,6 +186,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Impone EU aranceles del 50% a ciertos productos canadienses",
+      "resumen": "EU está imponiendo aranceles adicionales del 50% a varios productos canadienses, en respuesta a una supuesta discriminación comercial.",
+      "link": "https://www.reforma.com/impone-eu-aranceles-del-50-a-ciertos-productos-canadienses/ar3243715",
+      "fecha": "20 Jul 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Suben 30% ventas de autos chinos en México durante semestre",
       "resumen": "Las ventas de vehículos de marcas chinas en México aumentaron casi 30% en el primer semestre, pese a elevados aranceles impuestos en enero.",
       "link": "https://www.reforma.com/suben-30-ventas-de-autos-chinos-en-mexico-durante-semestre/ar3243475",
@@ -195,28 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Golpean políticas migratorias de Trump a Chedraui",
-      "resumen": "Las acciones de Chedraui han caído 27% debido a que temor a redadas de agentes del ICE está reduciendo la actividad comercial de la cadena.",
-      "link": "https://www.reforma.com/golpean-politicas-migratorias-de-trump-a-chedraui/ar3243551",
-      "fecha": "20 Jul 2026, 11:09 hrs"
+      "titulo": "Frenan a Paramount temporalmente la compra de Warner Bros",
+      "resumen": "California y 11 estados presentaron una demanda el 13 de julio, alegando que el acuerdo crearía un gigante de los medios de comunicación.",
+      "link": "https://www.reforma.com/frenan-a-paramount-temporalmente-la-compra-de-warner-bros/ar3243568",
+      "fecha": "20 Jul 2026, 11:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Emerge FIFA como el 'ganador'  de la Copa Mundial con 9 mmdd",
-      "resumen": "La FIFA emerge como la ganadora de más 9 mmdd al concluir la Copa Mundial más grande y ostentosa de la historia.",
-      "link": "https://www.reforma.com/emerge-fifa-como-el-ganador-de-la-copa-mundial-con-9-mmdd/ar3243479",
-      "fecha": "20 Jul 2026, 08:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Complicará inversiones revisar T-MEC cada año",
-      "resumen": "Las revisiones anuales al T-MEC generarán un 'gravamen invisible' que complicaría inversiones en México, advirtieron analistas de bancos.",
-      "link": "https://www.reforma.com/complicara-inversiones-revisar-t-mec-cada-ano/ar3243329",
-      "fecha": "20 Jul 2026, 06:43 hrs"
+      "titulo": "Cierran mercados de EU con moderadas pérdidas",
+      "resumen": "Enla Bolsa de Nueva York, el Dow Jones perdió un 0.57%, el índice Nasdaq retrocedió un 0.04% y el S&amp;P 500 cedió un 0.18%.",
+      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-moderadas-perdidas/ar3243688",
+      "fecha": "20 Jul 2026, 14:53 hrs"
     }
   ]
 }
