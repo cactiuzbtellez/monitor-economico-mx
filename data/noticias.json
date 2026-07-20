@@ -1,7 +1,16 @@
 {
-  "actualizado": "20/07/2026 04:10 hrs",
+  "actualizado": "20/07/2026 07:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
+      "resumen": "Las compañías advierten que modificar el T-MEC podría encarecer las cadenas de suministro y afectar inversiones que llegaron a México y Canadá con el nearshoring.",
+      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
+      "fecha": "20 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El auge tecnológico confirma la transformación industrial de México, aunque el reto es convertir ese éxito exportador en mayor bienestar y crecimiento económico.",
       "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
       "fecha": "15 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
-      "resumen": "Mastercard, la AMITI y la Secretaría de Economía buscan que las empresas en México sufran menos ataques cibernéticos y que las consecuencias de estos las lleven a cerrar.",
-      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
-      "fecha": "14 Jul 2026, 19:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vapulea España a Argentina en IED y comercio con México",
-      "resumen": "Ante una final mundialista entre España y Argentina, a la hora de hacer negocios, México tiene un claro favorito y es ibérico.",
-      "link": "https://www.reforma.com/vapulea-espana-a-argentina-en-ied-y-comercio-con-mexico/ar3242571",
-      "fecha": "18 Jul 2026, 05:01 hrs"
+      "titulo": "Es clave en revisión sector automotriz",
+      "resumen": "Esta semana arranca una de las negociaciones más complejas dentro de la revisión del T-MEC: la relacionada con el sector automotriz.",
+      "link": "https://www.reforma.com/es-clave-en-revision-sector-automotriz/ar3243355",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Valora empleos en la era de la IA",
-      "resumen": "La IA está transformando al mundo laboral, pero Walmart asegura que  no elimina la necesidad de contar con ciertos perfiles laborales.",
-      "link": "https://www.reforma.com/valora-empleos-en-la-era-de-la-ia/ar3242566",
-      "fecha": "18 Jul 2026, 05:01 hrs"
+      "titulo": "'Lubrica' Banxico tubería del sistema financiero",
+      "resumen": "Banxico podrá comprar Cetes y Bondes F para regular la liquidez del sistema financiero.",
+      "link": "https://www.reforma.com/lubrica-banxico-tuberia-del-sistema-financiero/ar3243339",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Huyen de Putin millonarios rusos",
-      "resumen": "Las personas más ricas de Rusia, incluyendo cercanos al Presidente Vladímir Putin, han trasladado miles de millones de dólares al extranjero",
-      "link": "https://www.reforma.com/huyen-de-putin-millonarios-rusos/ar3242558",
-      "fecha": "18 Jul 2026, 05:01 hrs"
+      "titulo": "Sube riesgo para financieras de sanciones de EU",
+      "resumen": "Al designar EU como terroristas al Cártel de Juárez y a Los Viagras, el riesgo de sanciones aumentó para instituciones financieras.",
+      "link": "https://www.reforma.com/sube-riesgo-para-financieras-de-sanciones-de-eu/ar3243358",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "El 'gol' económico que no llegó; Mundial quedó corto",
-      "resumen": "Pese a la euforia, el Mundial de futbol no alcanzó las metas turísticas, económicas, aéreas y de consumo previstas por el Gobierno federal.",
-      "link": "https://www.reforma.com/el-gol-economico-que-no-llego-mundial-quedo-corto/ar3242312",
-      "fecha": "17 Jul 2026, 15:17 hrs"
+      "titulo": "Complicará inversiones revisar T-MEC cada año",
+      "resumen": "Las revisiones anuales al T-MEC generarán un 'gravamen invisible' que complicaría inversiones en México, advirtieron analistas de bancos.",
+      "link": "https://www.reforma.com/complicara-inversiones-revisar-t-mec-cada-ano/ar3243329",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hará Brownsville buques autónomos",
-      "resumen": "Saronic Technologies eligió a Brownsville, Texas, como el sitio para instalar su nuevo astillero futurista denominado Port Alpha.",
-      "link": "https://www.reforma.com/hara-brownsville-buques-autonomos/ar3241937",
-      "fecha": "17 Jul 2026, 07:05 hrs"
+      "titulo": "Supera población en 16 estados nivel económico familiar",
+      "resumen": "Más de la mitad de los adultos en México percibe haber superado el nivel socioeconómico de su hogar de origen, según la ENBIARE del Inegi.",
+      "link": "https://www.reforma.com/supera-poblacion-en-16-estados-nivel-economico-familiar/ar3243340",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren dar de presupuesto 1,200 mdp a la AFAC",
-      "resumen": "La AFAC requiere el doble de presupuesto para garantizar la seguridad aérea y no arriesgar la Categoría 1 de la FAA de EU, dijo el CPAM.",
-      "link": "https://www.reforma.com/sugieren-dar-de-presupuesto-1-200-mdp-a-la-afac/ar3242134",
-      "fecha": "17 Jul 2026, 10:58 hrs"
+      "titulo": "Suben precios del crudo 3% y Brent supera los 90 dólares",
+      "resumen": "Los precios del petróleo subían alrededor de un 3%, ante la escalada de las hostilidades entre Estados Unidos e Irán en Medio Oriente.",
+      "link": "https://www.reforma.com/suben-precios-del-crudo-3-y-brent-supera-los-90-dolares/ar3243450",
+      "fecha": "20 Jul 2026, 07:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Envía Apple advertencias legales a empleados de OpenAI",
-      "resumen": "Apple envía cartas legales a unos 40 ex empleados que ahora trabajando en OpenAI en las que pide reunirse con los abogados de la empresa.",
-      "link": "https://www.reforma.com/envia-apple-advertencias-legales-a-empleados-de-openai/ar3242293",
-      "fecha": "17 Jul 2026, 14:38 hrs"
+      "titulo": "Apunta a nuevo récord importación de granos",
+      "resumen": "Las mayores importaciones de granos y oleaginosas, durante el primer semestre de 2026, llevaron a México a registrar el mayor volumen",
+      "link": "https://www.reforma.com/apunta-a-nuevo-record-importacion-de-granos/ar3243327",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con avance de más de 4%",
-      "resumen": "El crudo se disparó ante creciente temor de que EU e Irán pudieran entrar en una guerra abierta, lo que amenazaría el flujo de suministro.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-avance-de-mas-de-4/ar3242199",
-      "fecha": "17 Jul 2026, 12:45 hrs"
+      "titulo": "Catapulta a Frisa boom en turbinas",
+      "resumen": "División aeroespacial de Frisa avanza aceleradamente debido a demanda mundial de turbinas que son usadas en diversos sectores.",
+      "link": "https://www.reforma.com/catapulta-a-frisa-boom-en-turbinas/ar3243382",
+      "fecha": "20 Jul 2026, 06:43 hrs"
     }
   ]
 }
