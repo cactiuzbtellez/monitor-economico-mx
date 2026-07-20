@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/07/2026 12:02 hrs",
+  "actualizado": "20/07/2026 14:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
+      "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
+      "link": "https://expansion.mx/empresas/2026/07/20/dueno-mitikah-32-centros-comerciales-cdmx-edomex",
+      "fecha": "20 Jul 2026, 08:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
       "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
       "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
@@ -138,40 +147,31 @@
       "fecha": "17 Jul 2026, 16:03 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
-      "link": "https://expansion.mx/empresas/2026/07/17/las-32-plazas-hermanas-mitikah-cdmx-edomex",
-      "fecha": "17 Jul 2026, 13:52 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reportan  otro incendio en Dos Bocas",
+      "resumen": "La refinería Olmeca, en Dos Bocas, Tabasco, registró un incendio debido a una fuga en una bomba de carga de crudo, dijo Pemex.",
+      "link": "https://www.reforma.com/reportan-otro-incendio-en-dos-bocas/ar3243627",
+      "fecha": "20 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es clave en revisión sector automotriz",
-      "resumen": "Esta semana arranca una de las negociaciones más complejas dentro de la revisión del T-MEC: la relacionada con el sector automotriz.",
-      "link": "https://www.reforma.com/es-clave-en-revision-sector-automotriz/ar3243355",
-      "fecha": "20 Jul 2026, 06:43 hrs"
+      "titulo": "Pide sindicato de Teamsters aranceles a cerveza mexicana",
+      "resumen": "Sindicato de camioneros de EU pide poner aranceles a la cerveza mexicana, diciendo que debería ser elaborada por trabajadores de EU.",
+      "link": "https://www.reforma.com/pide-sindicato-de-teamsters-aranceles-a-cerveza-mexicana/ar3243591",
+      "fecha": "20 Jul 2026, 12:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reporta Pemex  conato de incendio en refinería Salamanca",
-      "resumen": "Por la noche de ayer se registró un 'conato' de incendio en la refinería de Salamanca que dejó un herido, informó Pemex.",
-      "link": "https://www.reforma.com/reporta-pemex-conato-de-incendio-en-refineria-salamanca/ar3243521",
-      "fecha": "20 Jul 2026, 10:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 30% ventas de autos chinos en México durante semestre",
-      "resumen": "Las ventas de vehículos de marcas chinas en México aumentaron casi 30% en el primer semestre, pese a elevados aranceles impuestos en enero.",
-      "link": "https://www.reforma.com/suben-30-ventas-de-autos-chinos-en-mexico-durante-semestre/ar3243475",
-      "fecha": "20 Jul 2026, 08:18 hrs"
+      "titulo": "Alertan sobre nueva estafa con falsas facturas por WhatsApp",
+      "resumen": "Kaspersky alertó de una estafa que se propaga por WhatsApp mediante facturas falsas o archivos apócrifos que simulan pagos.",
+      "link": "https://www.reforma.com/alertan-sobre-nueva-estafa-con-falsas-facturas-por-whatsapp/ar3243634",
+      "fecha": "20 Jul 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Emerge FIFA como el 'ganador'  de la Copa Mundial con 9 mmdd",
-      "resumen": "La FIFA emerge como la ganadora de más 9 mmdd al concluir la Copa Mundial más grande y ostentosa de la historia.",
-      "link": "https://www.reforma.com/emerge-fifa-como-el-ganador-de-la-copa-mundial-con-9-mmdd/ar3243479",
-      "fecha": "20 Jul 2026, 08:28 hrs"
+      "titulo": "Suben 30% ventas de autos chinos en México durante semestre",
+      "resumen": "Las ventas de vehículos de marcas chinas en México aumentaron casi 30% en el primer semestre, pese a elevados aranceles impuestos en enero.",
+      "link": "https://www.reforma.com/suben-30-ventas-de-autos-chinos-en-mexico-durante-semestre/ar3243475",
+      "fecha": "20 Jul 2026, 08:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanzan precios del crudo 3% y Brent supera los 90 dólares",
-      "resumen": "Los precios del petróleo subían alrededor de un 3%, ante la escalada de las hostilidades entre Estados Unidos e Irán en Medio Oriente.",
-      "link": "https://www.reforma.com/avanzan-precios-del-crudo-3-y-brent-supera-los-90-dolares/ar3243450",
-      "fecha": "20 Jul 2026, 07:02 hrs"
+      "titulo": "Emerge FIFA como el 'ganador'  de la Copa Mundial con 9 mmdd",
+      "resumen": "La FIFA emerge como la ganadora de más 9 mmdd al concluir la Copa Mundial más grande y ostentosa de la historia.",
+      "link": "https://www.reforma.com/emerge-fifa-como-el-ganador-de-la-copa-mundial-con-9-mmdd/ar3243479",
+      "fecha": "20 Jul 2026, 08:28 hrs"
     },
     {
       "fuente": "Reforma",
