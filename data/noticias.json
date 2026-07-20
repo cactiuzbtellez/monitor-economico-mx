@@ -1,7 +1,16 @@
 {
-  "actualizado": "20/07/2026 09:49 hrs",
+  "actualizado": "20/07/2026 12:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
+      "resumen": "Las compañías advierten que modificar el T-MEC podría encarecer las cadenas de suministro y afectar inversiones que llegaron a México y Canadá con el nearshoring.",
+      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
+      "fecha": "20 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El auge tecnológico confirma la transformación industrial de México, aunque el reto es convertir ese éxito exportador en mayor bienestar y crecimiento económico.",
       "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
       "fecha": "15 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Invierten 10 millones de pesos para evitar que mipymes mueran por ataques cibernéticos",
-      "resumen": "Mastercard, la AMITI y la Secretaría de Economía buscan que las empresas en México sufran menos ataques cibernéticos y que las consecuencias de estos las lleven a cerrar.",
-      "link": "https://expansion.mx/economia/2026/07/14/invierten-10-millones-de-pesos-para-evitar-que-mipymes-mueran-por-ataques-ciberneticos",
-      "fecha": "14 Jul 2026, 19:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,19 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben 30% ventas de autos chinos en México",
-      "resumen": "Las ventas de vehículos de marcas chinas en México aumentaron casi 30% en el primer semestre, pese a elevados aranceles impuestos en enero.",
-      "link": "https://www.reforma.com/suben-30-ventas-de-autos-chinos-en-mexico/ar3243475",
-      "fecha": "20 Jul 2026, 08:18 hrs"
+      "titulo": "Reporta Pemex  conato de incendio en refinería Salamanca",
+      "resumen": "Por la noche de ayer se registró un 'conato' de incendio en la refinería de Salamanca que dejó un herido, informó Pemex.",
+      "link": "https://www.reforma.com/reporta-pemex-conato-de-incendio-en-refineria-salamanca/ar3243521",
+      "fecha": "20 Jul 2026, 10:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Lubrica' Banxico tubería del sistema financiero",
-      "resumen": "Banxico podrá comprar Cetes y Bondes F para regular la liquidez del sistema financiero.",
-      "link": "https://www.reforma.com/lubrica-banxico-tuberia-del-sistema-financiero/ar3243339",
-      "fecha": "20 Jul 2026, 06:43 hrs"
+      "titulo": "Suben 30% ventas de autos chinos en México durante semestre",
+      "resumen": "Las ventas de vehículos de marcas chinas en México aumentaron casi 30% en el primer semestre, pese a elevados aranceles impuestos en enero.",
+      "link": "https://www.reforma.com/suben-30-ventas-de-autos-chinos-en-mexico-durante-semestre/ar3243475",
+      "fecha": "20 Jul 2026, 08:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,6 +195,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Golpean políticas migratorias de Trump a Chedraui",
+      "resumen": "Las acciones de Chedraui han caído 27% debido a que temor a redadas de agentes del ICE está reduciendo la actividad comercial de la cadena.",
+      "link": "https://www.reforma.com/golpean-politicas-migratorias-de-trump-a-chedraui/ar3243551",
+      "fecha": "20 Jul 2026, 11:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Avanzan precios del crudo 3% y Brent supera los 90 dólares",
       "resumen": "Los precios del petróleo subían alrededor de un 3%, ante la escalada de las hostilidades entre Estados Unidos e Irán en Medio Oriente.",
       "link": "https://www.reforma.com/avanzan-precios-del-crudo-3-y-brent-supera-los-90-dolares/ar3243450",
@@ -207,15 +216,6 @@
       "titulo": "Complicará inversiones revisar T-MEC cada año",
       "resumen": "Las revisiones anuales al T-MEC generarán un 'gravamen invisible' que complicaría inversiones en México, advirtieron analistas de bancos.",
       "link": "https://www.reforma.com/complicara-inversiones-revisar-t-mec-cada-ano/ar3243329",
-      "fecha": "20 Jul 2026, 06:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apunta a nuevo récord importación de granos",
-      "resumen": "Las mayores importaciones de granos y oleaginosas, durante el primer semestre de 2026, llevaron a México a registrar el mayor volumen",
-      "link": "https://www.reforma.com/apunta-a-nuevo-record-importacion-de-granos/ar3243327",
       "fecha": "20 Jul 2026, 06:43 hrs"
     }
   ]
