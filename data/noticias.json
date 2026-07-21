@@ -1,5 +1,5 @@
 {
-  "actualizado": "21/07/2026 13:21 hrs",
+  "actualizado": "21/07/2026 15:08 hrs",
   "total": 24,
   "noticias": [
     {
@@ -9,7 +9,7 @@
       "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
       "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
       "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
-      "fecha": "21 Jul 2026, 05:55 hrs"
+      "fecha": "21 Jul 2026, 10:48 hrs"
     },
     {
       "fuente": "Expansión",
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Quién está detrás de Taylor Farms? La empresa de lechuga vinculada por EU al brote de ciclosporiasis",
+      "resumen": "La empresa señalada es una de las más importantes de la industria agrícola estadounidense.",
+      "link": "https://expansion.mx/empresas/2026/07/21/quien-es-dueno-taylor-farms",
+      "fecha": "21 Jul 2026, 13:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Y si sí? Los 5.5 millones de turistas nunca llegaron; el Mundial cerró con menos de 500,000 visitantes",
+      "resumen": "México recibió alrededor de 494,000 turistas vinculados al Mundial, muy lejos de las proyecciones iniciales. El mayor beneficio para hoteles y aerolíneas provino del aumento en el gasto por visitante.",
+      "link": "https://expansion.mx/empresas/2026/07/21/mexico-esperaba-boom-turistico-mundial-quedo-esperando",
+      "fecha": "21 Jul 2026, 12:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
       "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
       "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
@@ -129,40 +147,22 @@
       "fecha": "20 Jul 2026, 08:52 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
-      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
-      "fecha": "19 Jul 2026, 23:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Jaguar, Land Rover, MG y Mini, la historia detrás de cuatro marcas británicas que dejaron de serlo",
-      "resumen": "La crisis financiera y la consolidación mundial terminaron por cambiar el mapa de la automoción británica. Hoy, algunas de sus marcas más icónicas viven una segunda etapa bajo nuevos propietarios extr…",
-      "link": "https://expansion.mx/empresas/2026/07/05/marcas-automotrices-inglesas-cambiaron-dueno",
-      "fecha": "18 Jul 2026, 19:19 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten pérdida de grado de inversión en cierre de sexenio",
+      "resumen": "Si México no sale del círculo vicioso de bajo crecimiento perdería el grado de inversión al final del sexenio, dijo Franklin Templeton.",
+      "link": "https://www.reforma.com/advierten-perdida-de-grado-de-inversion-en-cierre-de-sexenio/ar3244232",
+      "fecha": "21 Jul 2026, 14:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cobran Dls. 4,000 por información sobre apagones",
-      "resumen": "Conocer los detalles sobre un apagón eléctrico en México, información que solía ser pública, ahora cuesta, reportó Bloomberg Línea.",
-      "link": "https://www.reforma.com/cobran-dls-4-000-por-informacion-sobre-apagones/ar3244184",
-      "fecha": "21 Jul 2026, 12:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reanudan México y EU negociaciones  del T-MEC",
-      "resumen": "México y EU reanudan sus negociaciones comerciales del T-MEC, un día después del anuncio de nuevos aranceles a productos de Canadá.",
-      "link": "https://www.reforma.com/reanudan-mexico-y-eu-negociaciones-del-t-mec/ar3244072",
-      "fecha": "21 Jul 2026, 08:43 hrs"
+      "titulo": "Recibe Ebrard a delegación de EU... sin Greer aún",
+      "resumen": "La Secretaría de Economía recibió a la delegación de EU para la revisión del T-MEC, pero sin Greer, titular del USTR, quien llega mañana.",
+      "link": "https://www.reforma.com/recibe-ebrard-a-delegacion-de-eu-sin-greer-aun/ar3244273",
+      "fecha": "21 Jul 2026, 14:19 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva IA exportaciones mexicanas de tecnología avanzada a EU",
-      "resumen": "Auge de la inteligencia artificial en EU disparó las exportaciones mexicanas de tecnología avanzada, complicando cruzada comercial de Trump.",
-      "link": "https://www.reforma.com/eleva-ia-exportaciones-mexicanas-de-tecnologia-avanzada-a-eu/ar3244053",
-      "fecha": "21 Jul 2026, 08:22 hrs"
+      "titulo": "Cobran Dls. 4,000 por información sobre apagones en México",
+      "resumen": "Conocer los detalles sobre un apagón eléctrico en México, información que solía ser pública, ahora cuesta, reportó Bloomberg Línea.",
+      "link": "https://www.reforma.com/cobran-dls-4-000-por-informacion-sobre-apagones-en-mexico/ar3244184",
+      "fecha": "21 Jul 2026, 12:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vende David Martínez participación del 1.6% en Sabadell",
-      "resumen": "El mexicano David Martínez, uno de los mayores accionistas del Banco Sabadell, vendió una participación de casi el 1.6% en el banco.",
-      "link": "https://www.reforma.com/vende-david-martinez-participacion-del-1-6-en-sabadell/ar3244030",
-      "fecha": "21 Jul 2026, 07:15 hrs"
+      "titulo": "Alentó Mundial traslados y demanda de comida por aplicación",
+      "resumen": "En el Mundial la movilidad hacia los estadios, las reuniones en casa y la demanda gastronómica registraron picos históricos, dijo Uber.",
+      "link": "https://www.reforma.com/alento-mundial-traslados-y-demanda-de-comida-por-aplicacion/ar3244259",
+      "fecha": "21 Jul 2026, 14:10 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compra Slim empresa peruana de telecomunicaciones WOW Tel",
-      "resumen": "América Móvil Perú celebró un acuerdo con Liberty Latin America y Narvik Capital Partners para adquirir el 100% de las acciones de WOW Tel.",
-      "link": "https://www.reforma.com/compra-slim-empresa-peruana-de-telecomunicaciones-wow-tel/ar3244048",
-      "fecha": "21 Jul 2026, 08:14 hrs"
+      "titulo": "Avanza modernización de casetas para pago electrónico",
+      "resumen": "Para reducir el efectivo, los mil 50 carriles de las 129 plazas de cobro, operadas por Capufe, tienen el sistema electrónico, según SICT.",
+      "link": "https://www.reforma.com/avanza-modernizacion-de-casetas-para-pago-electronico/ar3244227",
+      "fecha": "21 Jul 2026, 14:10 hrs"
     }
   ]
 }
