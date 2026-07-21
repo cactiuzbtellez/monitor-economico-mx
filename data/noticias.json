@@ -1,16 +1,7 @@
 {
-  "actualizado": "21/07/2026 09:43 hrs",
+  "actualizado": "21/07/2026 11:18 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
-      "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
-      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
-      "fecha": "21 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "En la primera mitad del año, las aseguradoras reportan un aumento de casos y esperan que la tipificación de este delito como 'extorsión' ayude a reducir este delito.",
       "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
       "fecha": "15 Jul 2026, 22:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México gana terreno en alta tecnología: EU eleva 43% sus compras y supera a la Unión Europea",
+      "resumen": "El auge tecnológico confirma la transformación industrial de México, aunque el reto es convertir ese éxito exportador en mayor bienestar y crecimiento económico.",
+      "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
+      "fecha": "15 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -213,9 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia AMX acuerdo de compra de la peruana WOW Tel",
+      "titulo": "Compra Slim empresa peruana de telecomunicaciones WOW Tel",
       "resumen": "América Móvil Perú celebró un acuerdo con Liberty Latin America y Narvik Capital Partners para adquirir el 100% de las acciones de WOW Tel.",
-      "link": "https://www.reforma.com/anuncia-amx-acuerdo-de-compra-de-la-peruana-wow-tel/ar3244048",
+      "link": "https://www.reforma.com/compra-slim-empresa-peruana-de-telecomunicaciones-wow-tel/ar3244048",
       "fecha": "21 Jul 2026, 08:14 hrs"
     }
   ]
