@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/07/2026 11:18 hrs",
+  "actualizado": "21/07/2026 13:21 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+      "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
+      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+      "fecha": "21 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "En la primera mitad del año, las aseguradoras reportan un aumento de casos y esperan que la tipificación de este delito como 'extorsión' ayude a reducir este delito.",
       "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
       "fecha": "15 Jul 2026, 22:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México gana terreno en alta tecnología: EU eleva 43% sus compras y supera a la Unión Europea",
-      "resumen": "El auge tecnológico confirma la transformación industrial de México, aunque el reto es convertir ese éxito exportador en mayor bienestar y crecimiento económico.",
-      "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
-      "fecha": "15 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Cobran Dls. 4,000 por información sobre apagones",
+      "resumen": "Conocer los detalles sobre un apagón eléctrico en México, información que solía ser pública, ahora cuesta, reportó Bloomberg Línea.",
+      "link": "https://www.reforma.com/cobran-dls-4-000-por-informacion-sobre-apagones/ar3244184",
+      "fecha": "21 Jul 2026, 12:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Reanudan México y EU negociaciones  del T-MEC",
       "resumen": "México y EU reanudan sus negociaciones comerciales del T-MEC, un día después del anuncio de nuevos aranceles a productos de Canadá.",
       "link": "https://www.reforma.com/reanudan-mexico-y-eu-negociaciones-del-t-mec/ar3244072",
@@ -159,28 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Insinúa Greer que se avecina nueva oleada de aranceles",
-      "resumen": "El representante comercial de EU, Jamieson Greer, dio a entender que se avecina otra ronda de aranceles por parte del Presidente Trump.",
-      "link": "https://www.reforma.com/insinua-greer-que-se-avecina-nueva-oleada-de-aranceles/ar3244036",
-      "fecha": "21 Jul 2026, 07:38 hrs"
+      "titulo": "Evidencia nuevo arancel una difícil negociación",
+      "resumen": "Aranceles de Trump contra Canadá marca \"el punto de partida\" para negociaciones difíciles sobre el T-MEC, según analistas del CIBC.",
+      "link": "https://www.reforma.com/evidencia-nuevo-arancel-una-dificil-negociacion/ar3244161",
+      "fecha": "21 Jul 2026, 11:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fomenta México plan fiscal fallido",
-      "resumen": "Estrategia fiscal que han seguido los diferentes gobiernos de México desde el inicio de este siglo ha sido fallida, señalan especialistas.",
-      "link": "https://www.reforma.com/fomenta-mexico-plan-fiscal-fallido/ar3243928",
-      "fecha": "21 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece 1.07% actividad económica en primeros seis meses",
-      "resumen": "En los primeros seis meses de 2026, el Indicador Oportuno de la Actividad Económica del País registró un incremento de 1.07% anual.",
-      "link": "https://www.reforma.com/crece-1-07-actividad-economica-en-primeros-seis-meses/ar3244081",
-      "fecha": "21 Jul 2026, 09:06 hrs"
+      "titulo": "Expiran aranceles y Trump reanuda su guerra comercial",
+      "resumen": "El Presidente Trump reanudará su guerra comercial y está a punto de imponer nuevos aranceles a 60 países por prácticas de trabajo forzoso.",
+      "link": "https://www.reforma.com/expiran-aranceles-y-trump-reanuda-su-guerra-comercial/ar3244181",
+      "fecha": "21 Jul 2026, 12:57 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen 7.3% acciones de Alsea tras débil reporte trimestral",
-      "resumen": "Acciones de Alsea caen 7.27% después de que la operadora de restaurantes divulgó un débil reporte trimestral y redujo su guía anual.",
-      "link": "https://www.reforma.com/caen-7-3-acciones-de-alsea-tras-debil-reporte-trimestral/ar3244098",
-      "fecha": "21 Jul 2026, 09:14 hrs"
+      "titulo": "Notifica Europa a Cemex pliego de cargos en caso de aditivos",
+      "resumen": "Cemex recibió un Pliego de Cargos de la CE relacionado a la investigación antimonopolio en el sector de químicos para la construcción.",
+      "link": "https://www.reforma.com/notifica-europa-a-cemex-pliego-de-cargos-en-caso-de-aditivos/ar3244191",
+      "fecha": "21 Jul 2026, 12:33 hrs"
     },
     {
       "fuente": "Reforma",
