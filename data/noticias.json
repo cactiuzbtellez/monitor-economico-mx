@@ -1,22 +1,13 @@
 {
-  "actualizado": "21/07/2026 16:56 hrs",
+  "actualizado": "21/07/2026 17:57 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
-      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
-      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
-      "fecha": "21 Jul 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
       "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
-      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
+      "resumen": "Cada vez que la Selección Mexicana anotaba un gol en el Mundial, las ventas dentro del estadio Ciudad de México crecieron entre 10 y 15% especialmente en cervezas, refrescos y alimentos.",
       "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
       "fecha": "21 Jul 2026, 14:00 hrs"
     },
@@ -76,6 +67,33 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
+      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
+      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
+      "fecha": "17 Jul 2026, 05:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
+      "resumen": "La operación convertirá a Claro en el principal jugador del mercado peruano de internet fijo, al elevar su participación de 26.7% a 38.9% una vez autorizada la transacción por el regulador peruano.",
+      "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
+      "fecha": "21 Jul 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El registro telefónico congela el crecimiento de Telcel en prepago durante segundo trimestre",
+      "resumen": "La obligación de vincular líneas móviles frenó la incorporación de nuevos cliente de recargas de Telcel durante el segundo cuarto de este año, aunque la compañía mantuvo crecimiento en ingresos y serv…",
+      "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
+      "fecha": "21 Jul 2026, 17:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
@@ -127,24 +145,6 @@
       "resumen": "El nuevo estreno de Christopher Nolan reabrió el debate sobre la proyección de películas en grandes formatos.",
       "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
       "fecha": "20 Jul 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De la cobija de Harfuch a las toallas de Haaland: la IA revive a 20,800 talleres de impresión en México",
-      "resumen": "La demanda de productos personalizados impulsa un cambio en la industria de la impresión, que apuesta por tirajes cortos, inteligencia artificial y automatización para fabricar piezas únicas.",
-      "link": "https://expansion.mx/empresas/2026/07/20/ia-revive-industria-impresion-personalizacion",
-      "fecha": "20 Jul 2026, 15:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué sigue para ViX tras el Mundial 2026? Su estrategia para retener suscriptores y evitar cancelaciones",
-      "resumen": "El mayor desafío para la plataforma comienza cuando termina la Copa del Mundo. La meta ahora es transformar el pico de audiencia que dejó el torneo en una base estable de usuarios de pago.",
-      "link": "https://expansion.mx/empresas/2026/07/20/vix-no-quiere-canceles-cuenta-estrategia",
-      "fecha": "20 Jul 2026, 15:39 hrs"
     },
     {
       "fuente": "Reforma",
