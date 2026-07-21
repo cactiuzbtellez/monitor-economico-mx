@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/07/2026 17:08 hrs",
+  "actualizado": "20/07/2026 20:39 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "De la cobija de Harfuch a las toallas de Haaland: la IA revive a 20,800 talleres de impresión en México",
+      "resumen": "La demanda de productos personalizados impulsa un cambio en la industria de la impresión, que apuesta por tirajes cortos, inteligencia artificial y automatización para fabricar piezas únicas.",
+      "link": "https://expansion.mx/empresas/2026/07/20/ia-revive-industria-impresion-personalizacion",
+      "fecha": "20 Jul 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué sigue para ViX tras el Mundial 2026? Su estrategia para retener suscriptores y evitar cancelaciones",
+      "resumen": "El mayor desafío para la plataforma comienza cuando termina la Copa del Mundo. La meta ahora es transformar el pico de audiencia que dejó el torneo en una base estable de usuarios de pago.",
+      "link": "https://expansion.mx/empresas/2026/07/20/vix-no-quiere-canceles-cuenta-estrategia",
+      "fecha": "20 Jul 2026, 15:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
       "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
       "link": "https://expansion.mx/empresas/2026/07/20/dueno-mitikah-32-centros-comerciales-cdmx-edomex",
@@ -129,22 +147,31 @@
       "fecha": "17 Jul 2026, 17:19 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cotemar reactiva proyectos petroleros en pausa y prepara 1,100 contrataciones para obras de hidrocarburos",
-      "resumen": "La empresa incorporará talento especializado para proyectos de construcción y mantenimiento en instalaciones petroleras terrestres y costa afuera.",
-      "link": "https://expansion.mx/empresas/2026/07/17/cotemar-reactiva-proyectos-petroleros-1100-contrataciones",
-      "fecha": "17 Jul 2026, 16:47 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Proyecta Banamex repunte inflación a 4.2% para fin de año",
+      "resumen": "Inflación retomaría una trayectoria al alza debido a efectos arancelarios, presiones en costos laborales y a 'El Niño', advirtió Banamex.",
+      "link": "https://www.reforma.com/proyecta-banamex-repunte-inflacion-a-4-2-para-fin-de-ano/ar3243878",
+      "fecha": "20 Jul 2026, 20:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Empresas impulsan corredor para camiones eléctricos de Ciudad de México a Nuevo Laredo rumbo a 2030",
-      "resumen": "La meta es crear infraestructura de carga para transporte pesado. Empresas como Grupo Bimbo, Femsa, Heineken, Marva Transportes y Oxxo ya participan en la iniciativa.",
-      "link": "https://expansion.mx/empresas/2026/07/17/corredor-camiones-electricos-cdmx-nuevo-laredo-2030",
-      "fecha": "17 Jul 2026, 16:03 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ingresos de Pemex hasta 2028 serán insuficientes.- Moody s",
+      "resumen": "Ingresos que registrará Pemex hasta 2028 serán insuficientes para cubrir sus obligaciones financieras, aseguró Moody's.",
+      "link": "https://www.reforma.com/ingresos-de-pemex-hasta-2028-seran-insuficientes-moody-s/ar3243859",
+      "fecha": "20 Jul 2026, 19:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Espera Alsea menos ganancias por débil gasto de consumidores",
+      "resumen": "Alsea reportó una caída de 6.3% en flujo operativo por lo que prevé menos ganancias para el resto de 2026 por débil gasto de consumidores",
+      "link": "https://www.reforma.com/espera-alsea-menos-ganancias-por-debil-gasto-de-consumidores/ar3243809",
+      "fecha": "20 Jul 2026, 18:23 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "EU está imponiendo aranceles adicionales del 50% a varios productos canadienses, en respuesta a una supuesta discriminación comercial.",
       "link": "https://www.reforma.com/impone-eu-aranceles-del-50-a-ciertos-productos-canadienses/ar3243715",
       "fecha": "20 Jul 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran mercados de EU con moderadas pérdidas",
-      "resumen": "Enla Bolsa de Nueva York, el Dow Jones perdió un 0.57%, el índice Nasdaq retrocedió un 0.04% y el S&amp;P 500 cedió un 0.18%.",
-      "link": "https://www.reforma.com/cierran-mercados-de-eu-con-moderadas-perdidas/ar3243688",
-      "fecha": "20 Jul 2026, 14:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo 1% por tensiones persistentes en Medio Oriente",
-      "resumen": "El barril de Brent subió un 1.27% hasta los 89.22 dólares, mientras que su equivalente estadounidense avanzó 0.90% a 83.23 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-1-por-tensiones-persistentes-en-medio-oriente/ar3243672",
-      "fecha": "20 Jul 2026, 14:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan nueva estafa con falsas facturas por WhatsApp",
-      "resumen": "Kaspersky alertó de una estafa que se propaga por WhatsApp mediante facturas falsas o archivos apócrifos que simulan pagos.",
-      "link": "https://www.reforma.com/alertan-nueva-estafa-con-falsas-facturas-por-whatsapp/ar3243634",
-      "fecha": "20 Jul 2026, 14:11 hrs"
     }
   ]
 }
