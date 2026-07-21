@@ -1,7 +1,43 @@
 {
-  "actualizado": "21/07/2026 15:08 hrs",
+  "actualizado": "21/07/2026 16:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
+      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
+      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
+      "fecha": "21 Jul 2026, 16:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
+      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
+      "fecha": "21 Jul 2026, 14:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
+      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
+      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
+      "fecha": "21 Jul 2026, 13:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
+      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
+      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
+      "fecha": "21 Jul 2026, 11:42 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
-      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
-      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
-      "fecha": "17 Jul 2026, 05:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Evaluación de GAFI pone en la mira a 100,000 empresas con actividad vulnerable",
-      "resumen": "La evaluación del GAFI, en septiembre, obliga a que las empresas mejoren su regulación, ya que pueden recibir multas de hasta 7.6 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/07/16/evaluacion-de-gafi-pone-en-la-mira-a-100-000-empresas-con-actividad-vulnerable",
-      "fecha": "16 Jul 2026, 10:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las Afores administran 8.95 billones de pesos y ya superan al crédito de la banca",
-      "resumen": "El ahorro para el retiro equivale al 25% del PIB y continúa creciendo por el aumento de las aportaciones obligatorias y el alza del salario mínimo.",
-      "link": "https://expansion.mx/economia/2026/07/16/las-afores-administran-8-95-billones-de-pesos-y-ya-superan-al-credito-de-la-banca",
-      "fecha": "16 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Suben 10% los 'montachoques' en 2026 y aseguradoras piden tipificar el delito en todo el país",
-      "resumen": "En la primera mitad del año, las aseguradoras reportan un aumento de casos y esperan que la tipificación de este delito como 'extorsión' ayude a reducir este delito.",
-      "link": "https://expansion.mx/economia/2026/07/15/suben-10-los-montachoques-en-2026-y-aseguradoras-piden-tipificar-el-delito-en-todo-el-pais",
-      "fecha": "15 Jul 2026, 22:30 hrs"
+      "titulo": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
+      "resumen": "La inversión fortalecerá la capacidad del complejo de Guanajuato, desde donde Ferrero exporta cerca del 40% de su producción regional y busca duplicar su negocio en México en los próximos seis años.",
+      "link": "https://expansion.mx/empresas/2026/07/21/ferrero-invierte-planta-86-mdd-guanajuato",
+      "fecha": "21 Jul 2026, 15:04 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "20 Jul 2026, 15:39 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
-      "link": "https://expansion.mx/empresas/2026/07/20/dueno-mitikah-32-centros-comerciales-cdmx-edomex",
-      "fecha": "20 Jul 2026, 08:52 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,28 +159,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Está México al borde de una deuda de 60% del PIB.-IMEF",
+      "resumen": "Déficit fiscal de casi 5.0% y un crecimiento económico para 2026 de apenas 1.1% dispararán la deuda bruta a 60% del PIB, advirtió IMEF.",
+      "link": "https://www.reforma.com/esta-mexico-al-borde-de-una-deuda-de-60-del-pib-imef/ar3244348",
+      "fecha": "21 Jul 2026, 15:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Señala IIF mayores riesgos de estancamiento económico",
+      "resumen": "El riesgo de que la economía de México retome la trayectoria de estancamiento aumenta si no se implementan reformas para atraer inversión.",
+      "link": "https://www.reforma.com/senala-iif-mayores-riesgos-de-estancamiento-economico/ar3244353",
+      "fecha": "21 Jul 2026, 15:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Recibe Ebrard a delegación de EU... sin Greer aún",
       "resumen": "La Secretaría de Economía recibió a la delegación de EU para la revisión del T-MEC, pero sin Greer, titular del USTR, quien llega mañana.",
       "link": "https://www.reforma.com/recibe-ebrard-a-delegacion-de-eu-sin-greer-aun/ar3244273",
       "fecha": "21 Jul 2026, 14:19 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Evidencia nuevo arancel una difícil negociación",
-      "resumen": "Aranceles de Trump contra Canadá marca \"el punto de partida\" para negociaciones difíciles sobre el T-MEC, según analistas del CIBC.",
-      "link": "https://www.reforma.com/evidencia-nuevo-arancel-una-dificil-negociacion/ar3244161",
-      "fecha": "21 Jul 2026, 11:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Expiran aranceles y Trump reanuda su guerra comercial",
-      "resumen": "El Presidente Trump reanudará su guerra comercial y está a punto de imponer nuevos aranceles a 60 países por prácticas de trabajo forzoso.",
-      "link": "https://www.reforma.com/expiran-aranceles-y-trump-reanuda-su-guerra-comercial/ar3244181",
-      "fecha": "21 Jul 2026, 12:57 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Notifica Europa a Cemex pliego de cargos en caso de aditivos",
-      "resumen": "Cemex recibió un Pliego de Cargos de la CE relacionado a la investigación antimonopolio en el sector de químicos para la construcción.",
-      "link": "https://www.reforma.com/notifica-europa-a-cemex-pliego-de-cargos-en-caso-de-aditivos/ar3244191",
-      "fecha": "21 Jul 2026, 12:33 hrs"
+      "titulo": "Crece 6% utilidad de Banorte en el segundo trimestre",
+      "resumen": "Grupo Financiero Banorte informó un aumento del 6% en su beneficio neto del segundo trimestre, hasta los 15 mil 550 millones de pesos.",
+      "link": "https://www.reforma.com/crece-6-utilidad-de-banorte-en-el-segundo-trimestre/ar3244360",
+      "fecha": "21 Jul 2026, 15:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza modernización de casetas para pago electrónico",
-      "resumen": "Para reducir el efectivo, los mil 50 carriles de las 129 plazas de cobro, operadas por Capufe, tienen el sistema electrónico, según SICT.",
-      "link": "https://www.reforma.com/avanza-modernizacion-de-casetas-para-pago-electronico/ar3244227",
-      "fecha": "21 Jul 2026, 14:10 hrs"
+      "titulo": "Notifica Europa a Cemex pliego de cargos en caso de aditivos",
+      "resumen": "Cemex recibió un Pliego de Cargos de la CE relacionado a la investigación antimonopolio en el sector de químicos para la construcción.",
+      "link": "https://www.reforma.com/notifica-europa-a-cemex-pliego-de-cargos-en-caso-de-aditivos/ar3244191",
+      "fecha": "21 Jul 2026, 12:33 hrs"
     }
   ]
 }
