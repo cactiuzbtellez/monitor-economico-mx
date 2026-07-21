@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/07/2026 05:07 hrs",
+  "actualizado": "21/07/2026 07:49 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+      "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
+      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+      "fecha": "21 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México gana terreno en alta tecnología: EU eleva 43% sus compras y supera a la Unión Europea",
-      "resumen": "El auge tecnológico confirma la transformación industrial de México, aunque el reto es convertir ese éxito exportador en mayor bienestar y crecimiento económico.",
-      "link": "https://expansion.mx/economia/2026/07/15/eu-compra-mas-alta-tecnologia-a-mexico-que-a-union-europea",
-      "fecha": "15 Jul 2026, 05:55 hrs"
+      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
+      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "fecha": "21 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,13 @@
       "fecha": "18 Jul 2026, 19:19 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Honda Aircraft apuesta por un jet más eficiente en medio del alza de la turbosina por el conflicto entre EU e Irán",
-      "resumen": "La firma busca impulsar las ventas de aeronaves modernizadas con un paquete que incrementa el desempeño de su jet ultra ligero, mientras los operadores enfrentan mayores presiones por el alza de la tu…",
-      "link": "https://expansion.mx/empresas/2026/07/18/honda-aircraft-apuesta-por-un-jet-apmgs-mas-eficiente",
-      "fecha": "18 Jul 2026, 10:16 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fomenta México plan fiscal fallido",
+      "resumen": "Estrategia fiscal que han seguido los diferentes gobiernos de México desde el inicio de este siglo ha sido fallida, señalan especialistas.",
+      "link": "https://www.reforma.com/fomenta-mexico-plan-fiscal-fallido/ar3243928",
+      "fecha": "21 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,9 +168,36 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fomenta México plan fiscal fallido",
-      "resumen": "Estrategia fiscal que han seguido los diferentes gobiernos de México desde el inicio de este siglo ha sido fallida, señalan especialistas.",
-      "link": "https://www.reforma.com/fomenta-mexico-plan-fiscal-fallido/ar3243928",
+      "titulo": "Persiste el riesgo en el aire",
+      "resumen": "México reducirá apenas en 4 por ciento el déficit de controladores aéreos este año, arriesgando la seguridad del espacio aéreo.",
+      "link": "https://www.reforma.com/persiste-el-riesgo-en-el-aire/ar3243925",
+      "fecha": "21 Jul 2026, 06:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Insinúa Greer que se avecina nueva oleada de aranceles",
+      "resumen": "El representante comercial de EU, Jamieson Greer, dio a entender que se avecina otra ronda de aranceles por parte del Presidente Trump.",
+      "link": "https://www.reforma.com/insinua-greer-que-se-avecina-nueva-oleada-de-aranceles/ar3244036",
+      "fecha": "21 Jul 2026, 07:38 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Vende David Martínez participación del 1.6% en Sabadell",
+      "resumen": "El mexicano David Martínez, uno de los mayores accionistas del Banco Sabadell, vendió una participación de casi el 1.6% en el banco.",
+      "link": "https://www.reforma.com/vende-david-martinez-participacion-del-1-6-en-sabadell/ar3244030",
+      "fecha": "21 Jul 2026, 07:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Extiende EU cerco al comercio bovino",
+      "resumen": "Comercio de ganado mantiene restricciones, con casi un año acumulado de cierre para las exportaciones de becerros por gusano barrenador.",
+      "link": "https://www.reforma.com/extiende-eu-cerco-al-comercio-bovino/ar3243916",
       "fecha": "21 Jul 2026, 05:01 hrs"
     },
     {
@@ -177,45 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preocupan ingresos públicos",
-      "resumen": "Ingresos públicos muestran señales de vulnerabilidad hacia la segunda mitad del año, mientras que el gasto público continúa, advirtió IMEF.",
-      "link": "https://www.reforma.com/preocupan-ingresos-publicos/ar3243918",
-      "fecha": "21 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Rechazan AIFA pasajeros durante Mundial de Futbol",
-      "resumen": "Aunque AIFA registró un incremento en sus operaciones internacionales en junio, este tuvo un rol marginal en cuanto a vuelos por el Mundial.",
-      "link": "https://www.reforma.com/rechazan-aifa-pasajeros-durante-mundial-de-futbol/ar3243907",
-      "fecha": "21 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Extiende EU cerco al comercio bovino",
-      "resumen": "Comercio de ganado mantiene restricciones, con casi un año acumulado de cierre para las exportaciones de becerros por gusano barrenador.",
-      "link": "https://www.reforma.com/extiende-eu-cerco-al-comercio-bovino/ar3243916",
-      "fecha": "21 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Preocupa sobreoferta de carne de res en México",
       "resumen": "Para lo que resta de 2026, la sobreoferta de carne de res podría presionar el precio que reciben los productores, advierten ganaderos.",
       "link": "https://www.reforma.com/preocupa-sobreoferta-de-carne-de-res-en-mexico/ar3243909",
-      "fecha": "21 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sacrifican alimento propio, pero no de mascotas",
-      "resumen": "El gasto en alimentos para mascotas se mantiene como una prioridad pese al aumento de los precios en la canasta básica.",
-      "link": "https://www.reforma.com/sacrifican-alimento-propio-pero-no-de-mascotas/ar3243912",
       "fecha": "21 Jul 2026, 05:01 hrs"
     }
   ]
