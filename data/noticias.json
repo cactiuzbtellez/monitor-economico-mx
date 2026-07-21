@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/07/2026 23:50 hrs",
+  "actualizado": "21/07/2026 02:28 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Alsea reporta caída de 52.1% en utilidad por menor consumo en México y efectos cambiarios",
+      "resumen": "El impulso del Mundial de la FIFA 2026 benefició a Chili’s y Vips, pero no fue suficiente para compensar la debilidad de Starbucks en México ni la presión sobre los resultados consolidados del grupo.",
+      "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
+      "fecha": "20 Jul 2026, 18:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“La Odisea” de Nolan revela la brecha de IMAX en México: entre la tecnología premium y el negocio de exhibirla",
+      "resumen": "El nuevo estreno de Christopher Nolan reabrió el debate sobre la proyección de películas en grandes formatos.",
+      "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
+      "fecha": "20 Jul 2026, 17:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De la cobija de Harfuch a las toallas de Haaland: la IA revive a 20,800 talleres de impresión en México",
       "resumen": "La demanda de productos personalizados impulsa un cambio en la industria de la impresión, que apuesta por tirajes cortos, inteligencia artificial y automatización para fabricar piezas únicas.",
       "link": "https://expansion.mx/empresas/2026/07/20/ia-revive-industria-impresion-personalizacion",
@@ -127,24 +145,6 @@
       "resumen": "La firma busca impulsar las ventas de aeronaves modernizadas con un paquete que incrementa el desempeño de su jet ultra ligero, mientras los operadores enfrentan mayores presiones por el alza de la tu…",
       "link": "https://expansion.mx/empresas/2026/07/18/honda-aircraft-apuesta-por-un-jet-apmgs-mas-eficiente",
       "fecha": "18 Jul 2026, 10:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "BYD actualiza el King DM-i para competir con Prius y Corolla en el mercado de sedanes híbridos",
-      "resumen": "La marca china renovó el King DM-i con mayor autonomía, más tecnología y un precio de lanzamiento desde 499,900 pesos para competir en un nichos donde los sedanes electrificados mantienen espacio para…",
-      "link": "https://expansion.mx/empresas/2026/07/17/byd-actualiza-el-king-dm-i-precio-caracteristicas",
-      "fecha": "17 Jul 2026, 18:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El empresario michoacano que convirtió a Cinépolis en el rey del cine y ni Germán Larrea pudo destronarlo",
-      "resumen": "Alejandro Ramírez Magaña dejó una carrera en Harvard, Oxford y organismos internacionales para regresar a dirigir Cinépolis a petición de su abuelo.",
-      "link": "https://expansion.mx/empresas/2026/07/17/alejandro-ramirez-magana-cinepolis-empresario-mexico",
-      "fecha": "17 Jul 2026, 17:19 hrs"
     },
     {
       "fuente": "Reforma",
