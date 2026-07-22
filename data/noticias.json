@@ -1,7 +1,16 @@
 {
-  "actualizado": "22/07/2026 09:41 hrs",
+  "actualizado": "22/07/2026 11:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
+      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
+      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
+      "fecha": "22 Jul 2026, 10:36 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,24 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
-      "resumen": "La guerra en Medio Oriente volvió a disparar los precios del petróleo, incluyendo la mezcla mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
-      "fecha": "17 Jul 2026, 20:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
-      "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
-      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
-      "fecha": "22 Jul 2026, 08:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
@@ -147,6 +138,15 @@
       "fecha": "21 Jul 2026, 12:23 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
+      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "fecha": "21 Jul 2026, 05:55 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,10 +159,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Objetivo de EU:  recortar su déficit",
-      "resumen": "Con el propósito de reducir sus déficits comerciales, EU arrancó con México tercera ronda de conversaciones bilaterales para revisar T-MEC.",
-      "link": "https://www.reforma.com/objetivo-de-eu-recortar-su-deficit/ar3244600",
-      "fecha": "22 Jul 2026, 06:56 hrs"
+      "titulo": "Firma CFE alianza para proyectos renovables por 1,000 mdd",
+      "resumen": "La CFE firmó un acuerdo con Cubico Sustainable para desarrollar proyectos renovables con una capacidad total de 578 MWac en México.",
+      "link": "https://www.reforma.com/firma-cfe-alianza-para-proyectos-renovables-por-1-000-mdd/ar3244806",
+      "fecha": "22 Jul 2026, 10:53 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenan servicios sector industrial",
-      "resumen": "Revisión del T-MEC, falta de infraestructura hídrica y eléctrica causa incertidumbre en el sector inmobiliario industrial, señala EGADE.",
-      "link": "https://www.reforma.com/frenan-servicios-sector-industrial/ar3244576",
-      "fecha": "22 Jul 2026, 05:01 hrs"
+      "titulo": "Sube crudo más de 4% y ronda máximo de seis semanas",
+      "resumen": "Los futuros del Brent subían 4.2%, a 94.83 dólares por barril, mientras que el West Texas Intermediate avanzaba 4.33%,  a 87.99 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-mas-de-4-y-ronda-maximo-de-seis-semanas/ar3244703",
+      "fecha": "22 Jul 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Complica revisión al Plan México",
-      "resumen": "Revisiones anuales del T-MEC, o su no renovación, debilitaría la confianza empresas y afectaría los objetivos de inversión del Plan México.",
-      "link": "https://www.reforma.com/complica-revision-al-plan-mexico/ar3244602",
-      "fecha": "22 Jul 2026, 06:56 hrs"
+      "titulo": "Espera Banorte un segundo semestre más sólido; reafirma guía",
+      "resumen": "Director general de Banorte reafirmó las perspectivas del banco para 2026, citando su confianza en un segundo semestre más sólido.",
+      "link": "https://www.reforma.com/espera-banorte-un-segundo-semestre-mas-solido-reafirma-guia/ar3244795",
+      "fecha": "22 Jul 2026, 10:36 hrs"
     }
   ]
 }
