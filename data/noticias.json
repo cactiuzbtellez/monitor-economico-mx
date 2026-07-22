@@ -1,25 +1,7 @@
 {
-  "actualizado": "22/07/2026 13:18 hrs",
+  "actualizado": "22/07/2026 15:11 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-      "fecha": "22 Jul 2026, 10:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
-      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
-      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
-      "fecha": "21 Jul 2026, 18:38 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,60 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
+      "resumen": "La guerra en Medio Oriente volvió a disparar los precios del petróleo, incluyendo la mezcla mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
+      "fecha": "17 Jul 2026, 20:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
+      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
+      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
+      "fecha": "17 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia detrás de Kirkland, la marca exclusiva que aporta una tercera parte de las ventas de Costco",
+      "resumen": "Costco convirtió una marca propia en un negocio de 86,000 millones de dólares gracias a una estrategia de calidad, precios bajos y un estricto control sobre cada producto.",
+      "link": "https://expansion.mx/empresas/2026/07/22/historia-kirkland-nacio-salvar-costco",
+      "fecha": "22 Jul 2026, 14:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Opella traslada a México la producción de Enterogermina con inversión de 1,200 millones de pesos",
+      "resumen": "La planta de Ocoyoacac asumirá procesos que antes solo se realizaban en Italia, al fabricar el ingrediente activo y el producto terminado de Enterogermina.",
+      "link": "https://expansion.mx/empresas/2026/07/22/opella-enterogermina-mexico-hub-latinoamerica",
+      "fecha": "22 Jul 2026, 14:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "AT&T pierde 668,000 usuarios de prepago por la política del registro telefónico",
+      "resumen": "La nueva política de vinculación de líneas afectó la base de clientes de prepago de AT&amp;T México, pero el crecimiento del pospago permitió a la empresa mantener el avance de sus ingresos y del fluj…",
+      "link": "https://expansion.mx/empresas/2026/07/22/att-paga-factura-registro-telefonico-pierde-usuarios",
+      "fecha": "22 Jul 2026, 13:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mazda apuesta por los híbridos en México y prepara el lanzamiento de cuatro modelos; el CX-90 PHEV es el primero",
+      "resumen": "La automotriz japonesa lanzó su primer híbrido enchufable en México, e inició una estrategia que contempla la llegada de otros tres modelos electrificados entre 2027 y 2029 bajo el concepto Mazda Smar…",
+      "link": "https://expansion.mx/empresas/2026/07/22/mazda-primer-auto-hibrido-enchufable-cx-90-phev",
+      "fecha": "22 Jul 2026, 12:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Más allá de EU, Canadá importa cada vez más autos hechos en México",
@@ -109,42 +145,6 @@
       "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
       "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
       "fecha": "21 Jul 2026, 21:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
-      "resumen": "La compra de WOW Perú permitirá a Claro ampliar su participación en el mercado peruano de internet fijo de 26.7% a 38.9%, con lo que se consolidará como el principal operador del segmento.",
-      "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
-      "fecha": "21 Jul 2026, 17:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Registro telefónico frena el crecimiento de Telcel en prepago durante el segundo trimestre",
-      "resumen": "La obligación de vincular las líneas móviles con la identidad de los usuarios impidió que Telcel sumara nuevos clientes de prepago entre abril y junio, mientras el segmento de pospago incorporó 424,00…",
-      "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
-      "fecha": "21 Jul 2026, 17:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
-      "resumen": "La inversión fortalecerá la capacidad del complejo de Guanajuato, desde donde Ferrero exporta cerca del 40% de su producción regional y busca duplicar su negocio en México en los próximos seis años.",
-      "link": "https://expansion.mx/empresas/2026/07/21/ferrero-invierte-planta-86-mdd-guanajuato",
-      "fecha": "21 Jul 2026, 15:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién está detrás de Taylor Farms? La empresa de lechuga vinculada por EU al brote de ciclosporiasis",
-      "resumen": "La empresa señalada es una de las más importantes de la industria agrícola estadounidense.",
-      "link": "https://expansion.mx/empresas/2026/07/21/quien-es-dueno-taylor-farms",
-      "fecha": "21 Jul 2026, 13:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Espera Banorte un segundo semestre más sólido; reafirma guía",
-      "resumen": "Director general de Banorte reafirmó las perspectivas del banco para 2026, citando su confianza en un segundo semestre más sólido.",
-      "link": "https://www.reforma.com/espera-banorte-un-segundo-semestre-mas-solido-reafirma-guia/ar3244795",
-      "fecha": "22 Jul 2026, 10:36 hrs"
+      "titulo": "Cae 5% flujo operativo de Gruma en segundo trimestre",
+      "resumen": "Gruma reportó una caída de 5% en su flujo operativo del segundo trimestre, a 276.5 mdd, a raíz de mayores costos en distribución.",
+      "link": "https://www.reforma.com/cae-5-flujo-operativo-de-gruma-en-segundo-trimestre/ar3244940",
+      "fecha": "22 Jul 2026, 14:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Modelos de OpenAI hackearon la plataforma Hugging Face",
-      "resumen": "OpenAI informó que sus modelos avanzados de IA se descontrolaron durante una prueba de seguridad y hackearon la plataforma Hugging Face.",
-      "link": "https://www.reforma.com/modelos-de-openai-hackearon-la-plataforma-hugging-face/ar3244706",
-      "fecha": "22 Jul 2026, 07:20 hrs"
+      "titulo": "Espera Banorte un segundo semestre más sólido; reafirma guía",
+      "resumen": "Director general de Banorte reafirmó las perspectivas del banco para 2026, citando su confianza en un segundo semestre más sólido.",
+      "link": "https://www.reforma.com/espera-banorte-un-segundo-semestre-mas-solido-reafirma-guia/ar3244795",
+      "fecha": "22 Jul 2026, 10:36 hrs"
     }
   ]
 }
