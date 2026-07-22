@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/07/2026 11:18 hrs",
+  "actualizado": "22/07/2026 13:18 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Más allá de EU, Canadá importa cada vez más autos hechos en México",
+      "resumen": "Las exportaciones de vehículos mexicanos a Canadá crecieron 18% en el primer semestre y alcanzaron una participación récord de 12.5% del total enviado al exterior.",
+      "link": "https://expansion.mx/empresas/2026/07/22/canada-compra-mas-autos-hechos-en-mexico",
+      "fecha": "22 Jul 2026, 10:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
+      "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
+      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
+      "fecha": "22 Jul 2026, 08:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
       "resumen": "Con 157 perforaciones en el trimestre, la entidad lidera el robo de gas LP mientras el delito mantiene presión sobre la infraestructura energética nacional.",
       "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
@@ -129,31 +147,13 @@
       "fecha": "21 Jul 2026, 13:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Y si sí? Los 5.5 millones de turistas nunca llegaron; el Mundial cerró con menos de 500,000 visitantes",
-      "resumen": "México recibió alrededor de 494,000 turistas vinculados al Mundial, muy lejos de las proyecciones iniciales. El mayor beneficio para hoteles y aerolíneas provino del aumento en el gasto por visitante.",
-      "link": "https://expansion.mx/empresas/2026/07/21/mexico-esperaba-boom-turistico-mundial-quedo-esperando",
-      "fecha": "21 Jul 2026, 12:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
-      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
-      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
-      "fecha": "21 Jul 2026, 05:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé EU algunos acuerdos con Canadá y México este año",
-      "resumen": "EU prevé alcanzar algunos acuerdos con Canadá y México antes de fin de año, pero temas como las reglas de origen se prolongarían hasta 2027.",
-      "link": "https://www.reforma.com/preve-eu-algunos-acuerdos-con-canada-y-mexico-este-ano/ar3244745",
-      "fecha": "22 Jul 2026, 09:24 hrs"
+      "titulo": "Queda corta planeación eléctrica ante demanda.- Imco",
+      "resumen": "El Gobierno federal se quedó corto en sus estimaciones de crecimiento de demanda de energía eléctrica para 2030, señala el Imco.",
+      "link": "https://www.reforma.com/queda-corta-planeacion-electrica-ante-demanda-imco/ar3244866",
+      "fecha": "22 Jul 2026, 12:38 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,46 +168,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apuestan por Norteamérica pese a incertidumbre",
-      "resumen": "Pese a la incertidumbre que enfrenta Norteamérica por la revisión del T-MEC, Grupo Ferrero dedició continuar sus inversiones en el País.",
-      "link": "https://www.reforma.com/apuestan-por-norteamerica-pese-a-incertidumbre/ar3244588",
-      "fecha": "22 Jul 2026, 05:01 hrs"
+      "titulo": "Prevé EU algunos acuerdos con Canadá y México este año",
+      "resumen": "EU prevé alcanzar algunos acuerdos con Canadá y México antes de fin de año, pero temas como las reglas de origen se prolongarían hasta 2027.",
+      "link": "https://www.reforma.com/preve-eu-algunos-acuerdos-con-canada-y-mexico-este-ano/ar3244745",
+      "fecha": "22 Jul 2026, 09:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Temen clausuras por falta de permiso de CNE",
-      "resumen": "Transportistas con almacenamiento de diesel para autoconsumo temen clausuras por falta de permisos de CNE que tienen dos años en trámite.",
-      "link": "https://www.reforma.com/temen-clausuras-por-falta-de-permiso-de-cne/ar3244627",
-      "fecha": "22 Jul 2026, 06:56 hrs"
+      "titulo": "Prevalece optimismo en trabajos del T-MEC",
+      "resumen": "Los trabajos de la tercera ronda de revisión del T-MEC tienen un rumbo positivo, según empresarios de México y EU.",
+      "link": "https://www.reforma.com/prevalece-optimismo-en-trabajos-del-t-mec/ar3244882",
+      "fecha": "22 Jul 2026, 12:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es 'súper resistente' parásito en lechuga",
-      "resumen": "Centro de México posee clima ideal para parásito Cyclospora, investigado por EU en lechuga guanajuatense.",
-      "link": "https://www.reforma.com/es-super-resistente-parasito-en-lechuga/ar3244605",
-      "fecha": "22 Jul 2026, 06:56 hrs"
+      "titulo": "Crece 19% absorción bruta de naves industriales en Monterrey",
+      "resumen": "En el primer semestre el mercado industrial de Monterrey registró un aumento de 19 por ciento en su absorción bruta, dijo CBRE.",
+      "link": "https://www.reforma.com/crece-19-absorcion-bruta-de-naves-industriales-en-monterrey/ar3244835",
+      "fecha": "22 Jul 2026, 12:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajan pagos de utilidades",
-      "resumen": "Este año, los trabajadores recibieron un promedio de utilidades de 4 mil 261 pesos; cifra menor a diferencia de 2025, advirtió Worky.",
-      "link": "https://www.reforma.com/bajan-pagos-de-utilidades/ar3244541",
-      "fecha": "22 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo más de 4% y ronda máximo de seis semanas",
-      "resumen": "Los futuros del Brent subían 4.2%, a 94.83 dólares por barril, mientras que el West Texas Intermediate avanzaba 4.33%,  a 87.99 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-mas-de-4-y-ronda-maximo-de-seis-semanas/ar3244703",
-      "fecha": "22 Jul 2026, 07:07 hrs"
+      "titulo": "Avanza en EU proyecto de ley contra vehículos chinos",
+      "resumen": "Comisión de Comercio del Senado de EU aprobó una ley para endurecer la prohibición a fabricantes de autos chinos de entrar al mercado local.",
+      "link": "https://www.reforma.com/avanza-en-eu-proyecto-de-ley-contra-vehiculos-chinos/ar3244827",
+      "fecha": "22 Jul 2026, 11:50 hrs"
     },
     {
       "fuente": "Reforma",
@@ -217,6 +208,15 @@
       "resumen": "Director general de Banorte reafirmó las perspectivas del banco para 2026, citando su confianza en un segundo semestre más sólido.",
       "link": "https://www.reforma.com/espera-banorte-un-segundo-semestre-mas-solido-reafirma-guia/ar3244795",
       "fecha": "22 Jul 2026, 10:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Modelos de OpenAI hackearon la plataforma Hugging Face",
+      "resumen": "OpenAI informó que sus modelos avanzados de IA se descontrolaron durante una prueba de seguridad y hackearon la plataforma Hugging Face.",
+      "link": "https://www.reforma.com/modelos-de-openai-hackearon-la-plataforma-hugging-face/ar3244706",
+      "fecha": "22 Jul 2026, 07:20 hrs"
     }
   ]
 }
