@@ -1,7 +1,25 @@
 {
-  "actualizado": "22/07/2026 15:11 hrs",
+  "actualizado": "22/07/2026 17:03 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
+      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
+      "link": "https://expansion.mx/economia/2026/07/22/los-millennials-y-la-generacion-z-lideran-las-inversiones-en-cetesdirecto",
+      "fecha": "22 Jul 2026, 05:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
+      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
+      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
+      "fecha": "21 Jul 2026, 18:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
-      "resumen": "La guerra en Medio Oriente volvió a disparar los precios del petróleo, incluyendo la mezcla mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
-      "fecha": "17 Jul 2026, 20:10 hrs"
+      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
+      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
+      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
+      "fecha": "22 Jul 2026, 15:54 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
-      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
-      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
-      "fecha": "17 Jul 2026, 05:55 hrs"
+      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
+      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
+      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
+      "fecha": "22 Jul 2026, 15:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -89,7 +107,7 @@
       "color": "#C8102E",
       "titulo": "Opella traslada a México la producción de Enterogermina con inversión de 1,200 millones de pesos",
       "resumen": "La planta de Ocoyoacac asumirá procesos que antes solo se realizaban en Italia, al fabricar el ingrediente activo y el producto terminado de Enterogermina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/opella-enterogermina-mexico-hub-latinoamerica",
+      "link": "https://expansion.mx/empresas/2026/07/22/mexico-quita-italia-produccion-enterogermina-opella",
       "fecha": "22 Jul 2026, 14:27 hrs"
     },
     {
@@ -127,24 +145,6 @@
       "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
       "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
       "fecha": "22 Jul 2026, 08:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
-      "resumen": "Con 157 perforaciones en el trimestre, la entidad lidera el robo de gas LP mientras el delito mantiene presión sobre la infraestructura energética nacional.",
-      "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
-      "fecha": "22 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Seis de cada 10 dólares de nuevos contratos de Nemak fueron por autos a gasolina",
-      "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
-      "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
-      "fecha": "21 Jul 2026, 21:13 hrs"
     },
     {
       "fuente": "Reforma",
