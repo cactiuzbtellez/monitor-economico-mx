@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/07/2026 07:52 hrs",
+  "actualizado": "22/07/2026 09:41 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
+      "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
+      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
+      "fecha": "22 Jul 2026, 08:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
       "resumen": "Con 157 perforaciones en el trimestre, la entidad lidera el robo de gas LP mientras el delito mantiene presión sobre la infraestructura energética nacional.",
       "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
@@ -138,30 +147,21 @@
       "fecha": "21 Jul 2026, 12:23 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
-      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
-      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
-      "fecha": "21 Jul 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé EU algunos acuerdos con Canadá y México este año",
+      "resumen": "EU prevé alcanzar algunos acuerdos con Canadá y México antes de fin de año, pero temas como las reglas de origen se prolongarían hasta 2027.",
+      "link": "https://www.reforma.com/preve-eu-algunos-acuerdos-con-canada-y-mexico-este-ano/ar3244745",
+      "fecha": "22 Jul 2026, 09:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Objetivo de EU: recortar su déficit",
+      "titulo": "Objetivo de EU:  recortar su déficit",
       "resumen": "Con el propósito de reducir sus déficits comerciales, EU arrancó con México tercera ronda de conversaciones bilaterales para revisar T-MEC.",
       "link": "https://www.reforma.com/objetivo-de-eu-recortar-su-deficit/ar3244600",
-      "fecha": "22 Jul 2026, 06:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Temen clausuras por falta de permiso de CNE",
-      "resumen": "Transportistas con almacenamiento de diesel para autoconsumo temen clausuras por falta de permisos de CNE que tienen dos años en trámite.",
-      "link": "https://www.reforma.com/temen-clausuras-por-falta-de-permiso-de-cne/ar3244627",
       "fecha": "22 Jul 2026, 06:56 hrs"
     },
     {
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reduce EU compras de petróleo a México",
-      "resumen": "Ante perdida de mercado petrolero con Estados Unidos, el acuerdo con Japón ayudaría a diversificar sus exportaciones, consideran expertos.",
-      "link": "https://www.reforma.com/reduce-eu-compras-de-petroleo-a-mexico/ar3244568",
-      "fecha": "22 Jul 2026, 05:01 hrs"
+      "titulo": "Temen clausuras por falta de permiso de CNE",
+      "resumen": "Transportistas con almacenamiento de diesel para autoconsumo temen clausuras por falta de permisos de CNE que tienen dos años en trámite.",
+      "link": "https://www.reforma.com/temen-clausuras-por-falta-de-permiso-de-cne/ar3244627",
+      "fecha": "22 Jul 2026, 06:56 hrs"
     },
     {
       "fuente": "Reforma",
