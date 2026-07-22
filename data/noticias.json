@@ -1,7 +1,43 @@
 {
-  "actualizado": "22/07/2026 05:46 hrs",
+  "actualizado": "22/07/2026 07:52 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
+      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
+      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
+      "fecha": "21 Jul 2026, 18:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
+      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
+      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
+      "fecha": "21 Jul 2026, 16:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
+      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
+      "fecha": "21 Jul 2026, 14:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
+      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
+      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
+      "fecha": "21 Jul 2026, 13:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
-      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
-      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
-      "fecha": "17 Jul 2026, 05:55 hrs"
+      "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
+      "resumen": "Con 157 perforaciones en el trimestre, la entidad lidera el robo de gas LP mientras el delito mantiene presión sobre la infraestructura energética nacional.",
+      "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
+      "fecha": "22 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Colegiaturas privadas suben casi 6% anual y presionan a escuelas y familias",
-      "resumen": "Los mayores costos laborales elevan las cuotas mientras los hogares tienen menos margen para pagarlas. El resultado son más becas, descuentos y menor inversión en infraestructura educativa.",
-      "link": "https://expansion.mx/economia/2026/07/17/educacion-privada-mexico-por-que-suben-colegiaturas-2026",
-      "fecha": "17 Jul 2026, 05:05 hrs"
+      "titulo": "Seis de cada 10 dólares de nuevos contratos de Nemak fueron por autos a gasolina",
+      "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
+      "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
+      "fecha": "21 Jul 2026, 21:13 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Evaluación de GAFI pone en la mira a 100,000 empresas con actividad vulnerable",
-      "resumen": "La evaluación del GAFI, en septiembre, obliga a que las empresas mejoren su regulación, ya que pueden recibir multas de hasta 7.6 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/07/16/evaluacion-de-gafi-pone-en-la-mira-a-100-000-empresas-con-actividad-vulnerable",
-      "fecha": "16 Jul 2026, 10:00 hrs"
+      "titulo": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
+      "resumen": "La compra de WOW Perú permitirá a Claro ampliar su participación en el mercado peruano de internet fijo de 26.7% a 38.9%, con lo que se consolidará como el principal operador del segmento.",
+      "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
+      "fecha": "21 Jul 2026, 17:53 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las Afores administran 8.95 billones de pesos y ya superan al crédito de la banca",
-      "resumen": "El ahorro para el retiro equivale al 25% del PIB y continúa creciendo por el aumento de las aportaciones obligatorias y el alza del salario mínimo.",
-      "link": "https://expansion.mx/economia/2026/07/16/las-afores-administran-8-95-billones-de-pesos-y-ya-superan-al-credito-de-la-banca",
-      "fecha": "16 Jul 2026, 05:55 hrs"
+      "titulo": "Registro telefónico frena el crecimiento de Telcel en prepago durante el segundo trimestre",
+      "resumen": "La obligación de vincular las líneas móviles con la identidad de los usuarios impidió que Telcel sumara nuevos clientes de prepago entre abril y junio, mientras el segmento de pospago incorporó 424,00…",
+      "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
+      "fecha": "21 Jul 2026, 17:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
+      "resumen": "La inversión fortalecerá la capacidad del complejo de Guanajuato, desde donde Ferrero exporta cerca del 40% de su producción regional y busca duplicar su negocio en México en los próximos seis años.",
+      "link": "https://expansion.mx/empresas/2026/07/21/ferrero-invierte-planta-86-mdd-guanajuato",
+      "fecha": "21 Jul 2026, 15:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién está detrás de Taylor Farms? La empresa de lechuga vinculada por EU al brote de ciclosporiasis",
+      "resumen": "La empresa señalada es una de las más importantes de la industria agrícola estadounidense.",
+      "link": "https://expansion.mx/empresas/2026/07/21/quien-es-dueno-taylor-farms",
+      "fecha": "21 Jul 2026, 13:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,58 +147,22 @@
       "fecha": "21 Jul 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Alsea reporta caída de 52.1% en utilidad por menor consumo en México y efectos cambiarios",
-      "resumen": "El impulso del Mundial de la FIFA 2026 benefició a Chili’s y Vips, pero no fue suficiente para compensar la debilidad de Starbucks en México ni la presión sobre los resultados consolidados del grupo.",
-      "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
-      "fecha": "20 Jul 2026, 18:19 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Objetivo de EU: recortar su déficit",
+      "resumen": "Con el propósito de reducir sus déficits comerciales, EU arrancó con México tercera ronda de conversaciones bilaterales para revisar T-MEC.",
+      "link": "https://www.reforma.com/objetivo-de-eu-recortar-su-deficit/ar3244600",
+      "fecha": "22 Jul 2026, 06:56 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“La Odisea” de Nolan revela la brecha de IMAX en México: entre la tecnología premium y el negocio de exhibirla",
-      "resumen": "El nuevo estreno de Christopher Nolan reabrió el debate sobre la proyección de películas en grandes formatos.",
-      "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
-      "fecha": "20 Jul 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De la cobija de Harfuch a las toallas de Haaland: la IA revive a 20,800 talleres de impresión en México",
-      "resumen": "La demanda de productos personalizados impulsa un cambio en la industria de la impresión, que apuesta por tirajes cortos, inteligencia artificial y automatización para fabricar piezas únicas.",
-      "link": "https://expansion.mx/empresas/2026/07/20/ia-revive-industria-impresion-personalizacion",
-      "fecha": "20 Jul 2026, 15:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué sigue para ViX tras el Mundial 2026? Su estrategia para retener suscriptores y evitar cancelaciones",
-      "resumen": "El mayor desafío para la plataforma comienza cuando termina la Copa del Mundo. La meta ahora es transformar el pico de audiencia que dejó el torneo en una base estable de usuarios de pago.",
-      "link": "https://expansion.mx/empresas/2026/07/20/vix-no-quiere-canceles-cuenta-estrategia",
-      "fecha": "20 Jul 2026, 15:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 32 plazas comerciales hermanas de Mitikah en CDMX y Edomex: van de Santa Fe a Chimalhuacán",
-      "resumen": "La compañía detrás de Mitikah no depende de un solo complejo: su negocio comercial combina plazas premium, centros regionales y desarrollos de cercanía.",
-      "link": "https://expansion.mx/empresas/2026/07/20/dueno-mitikah-32-centros-comerciales-cdmx-edomex",
-      "fecha": "20 Jul 2026, 08:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
-      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/18/nunca-antes-me-habian-felicitado-por-manejar-un-coche-chino",
-      "fecha": "19 Jul 2026, 23:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Temen clausuras por falta de permiso de CNE",
+      "resumen": "Transportistas con almacenamiento de diesel para autoconsumo temen clausuras por falta de permisos de CNE que tienen dos años en trámite.",
+      "link": "https://www.reforma.com/temen-clausuras-por-falta-de-permiso-de-cne/ar3244627",
+      "fecha": "22 Jul 2026, 06:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -153,15 +171,6 @@
       "titulo": "Apuestan por Norteamérica pese a incertidumbre",
       "resumen": "Pese a la incertidumbre que enfrenta Norteamérica por la revisión del T-MEC, Grupo Ferrero dedició continuar sus inversiones en el País.",
       "link": "https://www.reforma.com/apuestan-por-norteamerica-pese-a-incertidumbre/ar3244588",
-      "fecha": "22 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frenan servicios sector industrial",
-      "resumen": "Revisión del T-MEC, falta de infraestructura hídrica y eléctrica causa incertidumbre en el sector inmobiliario industrial, señala EGADE.",
-      "link": "https://www.reforma.com/frenan-servicios-sector-industrial/ar3244576",
       "fecha": "22 Jul 2026, 05:01 hrs"
     },
     {
@@ -177,6 +186,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Es 'súper resistente' parásito en lechuga",
+      "resumen": "Centro de México posee clima ideal para parásito Cyclospora, investigado por EU en lechuga guanajuatense.",
+      "link": "https://www.reforma.com/es-super-resistente-parasito-en-lechuga/ar3244605",
+      "fecha": "22 Jul 2026, 06:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Bajan pagos de utilidades",
       "resumen": "Este año, los trabajadores recibieron un promedio de utilidades de 4 mil 261 pesos; cifra menor a diferencia de 2025, advirtió Worky.",
       "link": "https://www.reforma.com/bajan-pagos-de-utilidades/ar3244541",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan 79% ganancias de Grupo México en segundo trimestre",
-      "resumen": "Grupo México reportó ganancia neta de 2 mil 200 millones de dólares en segundo trimestre de 2026; cifra 79% mayor a mismo periodo de 2025.",
-      "link": "https://www.reforma.com/aumentan-79-ganancias-de-grupo-mexico-en-segundo-trimestre/ar3244495",
-      "fecha": "21 Jul 2026, 19:00 hrs"
+      "titulo": "Frenan servicios sector industrial",
+      "resumen": "Revisión del T-MEC, falta de infraestructura hídrica y eléctrica causa incertidumbre en el sector inmobiliario industrial, señala EGADE.",
+      "link": "https://www.reforma.com/frenan-servicios-sector-industrial/ar3244576",
+      "fecha": "22 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alistan generación de 'lomitos' inspectores",
-      "resumen": "Senasica informó que arrancará el entrenamiento de una nueva generación de caninos para la detección de plagas en plantas y animales.",
-      "link": "https://www.reforma.com/alistan-generacion-de-lomitos-inspectores/ar3244465",
-      "fecha": "21 Jul 2026, 18:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 3.1% ingresos de América Móvil",
-      "resumen": "América Móvil reportó ingresos por 241 mil millones de pesos en el segundo trimestre de 2026, logrando un incremento anual de 3.1%.",
-      "link": "https://www.reforma.com/crecen-3-1-ingresos-de-america-movil/ar3244439",
-      "fecha": "21 Jul 2026, 17:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufre Salinas Pliego revés judicial por grabación secreta",
-      "resumen": "El uso de una empresa de inteligencia por Salinas Pliego para grabar en secreto a un abogado fue un abuso, dijo un tribunal del RU.",
-      "link": "https://www.reforma.com/sufre-salinas-pliego-reves-judicial-por-grabacion-secreta/ar3244419",
-      "fecha": "21 Jul 2026, 17:18 hrs"
+      "titulo": "Complica revisión al Plan México",
+      "resumen": "Revisiones anuales del T-MEC, o su no renovación, debilitaría la confianza empresas y afectaría los objetivos de inversión del Plan México.",
+      "link": "https://www.reforma.com/complica-revision-al-plan-mexico/ar3244602",
+      "fecha": "22 Jul 2026, 06:56 hrs"
     }
   ]
 }
