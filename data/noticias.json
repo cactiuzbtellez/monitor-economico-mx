@@ -1,7 +1,16 @@
 {
-  "actualizado": "22/07/2026 00:27 hrs",
+  "actualizado": "22/07/2026 03:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
+      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
+      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
+      "fecha": "21 Jul 2026, 18:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,19 +76,19 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los fraudes bancarios cuestan hasta 50,000 pesos en promedio a las víctimas",
-      "resumen": "Los delincuentes enfocan sus ataques en adultos mayores y cuentas de personas fallecidas, mientras las denuncias por fraude siguen creciendo y obligan a reforzar las medidas de protección bancaria.",
-      "link": "https://expansion.mx/economia/2026/07/17/los-fraudes-bancarios-cuestan-hasta-50-000-pesos-en-promedio-a-las-victimas",
-      "fecha": "17 Jul 2026, 05:55 hrs"
+      "titulo": "Seis de cada 10 dólares de nuevos contratos de Nemak fueron por autos a gasolina",
+      "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
+      "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
+      "fecha": "21 Jul 2026, 21:13 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
-      "resumen": "La operación convertirá a Claro en el principal jugador del mercado peruano de internet fijo, al elevar su participación de 26.7% a 38.9% una vez autorizada la transacción por el regulador peruano.",
+      "resumen": "La compra de WOW Perú permitirá a Claro ampliar su participación en el mercado peruano de internet fijo de 26.7% a 38.9%, con lo que se consolidará como el principal operador del segmento.",
       "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
       "fecha": "21 Jul 2026, 17:53 hrs"
     },
@@ -87,8 +96,8 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El registro telefónico congela el crecimiento de Telcel en prepago durante segundo trimestre",
-      "resumen": "La obligación de vincular líneas móviles frenó la incorporación de nuevos cliente de recargas de Telcel durante el segundo cuarto de este año, aunque la compañía mantuvo crecimiento en ingresos y serv…",
+      "titulo": "Registro telefónico frena el crecimiento de Telcel en prepago durante el segundo trimestre",
+      "resumen": "La obligación de vincular las líneas móviles con la identidad de los usuarios impidió que Telcel sumara nuevos clientes de prepago entre abril y junio, mientras el segmento de pospago incorporó 424,00…",
       "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
       "fecha": "21 Jul 2026, 17:23 hrs"
     },
@@ -136,15 +145,6 @@
       "resumen": "El impulso del Mundial de la FIFA 2026 benefició a Chili’s y Vips, pero no fue suficiente para compensar la debilidad de Starbucks en México ni la presión sobre los resultados consolidados del grupo.",
       "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
       "fecha": "20 Jul 2026, 18:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“La Odisea” de Nolan revela la brecha de IMAX en México: entre la tecnología premium y el negocio de exhibirla",
-      "resumen": "El nuevo estreno de Christopher Nolan reabrió el debate sobre la proyección de películas en grandes formatos.",
-      "link": "https://expansion.mx/empresas/2026/07/20/la-odisea-nolan-revela-brecha-imax-mexico",
-      "fecha": "20 Jul 2026, 17:57 hrs"
     },
     {
       "fuente": "Reforma",
