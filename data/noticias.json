@@ -1,52 +1,7 @@
 {
-  "actualizado": "22/07/2026 20:42 hrs",
+  "actualizado": "22/07/2026 23:53 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
-      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-      "fecha": "22 Jul 2026, 19:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-      "fecha": "22 Jul 2026, 17:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu cambiará los contratos de sus clientes tras convertirse en banco: esta es la fecha clave",
-      "resumen": "La transformación de Nu en banco traerá nuevos contratos para los usuarios de Cuenta Nu, tarjetas de crédito y otros productos.",
-      "link": "https://expansion.mx/economia/2026/07/22/nu-cambia-contratos-clientes-ahora-que-es-banco",
-      "fecha": "22 Jul 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU apuesta por acuerdos provisionales del T-MEC este año y deja reglas de origen para 2027",
-      "resumen": "El representante comercial de EU delineó una ruta para la revisión del tratado, al reconocer que algunos de los temas más complejos requerirán nuevas negociaciones e incluso la participación del Congr…",
-      "link": "https://expansion.mx/economia/2026/07/22/eu-acuerdos-provisionales-tmec-2026",
-      "fecha": "22 Jul 2026, 11:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-      "fecha": "22 Jul 2026, 10:36 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,84 +31,129 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
-      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
-      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 15:54 hrs"
+      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
+      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
+      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
+      "fecha": "21 Jul 2026, 13:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
+      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
+      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
+      "fecha": "21 Jul 2026, 11:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
+      "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
+      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
+      "fecha": "21 Jul 2026, 10:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
+      "resumen": "Las compañías advierten que modificar el T-MEC podría encarecer las cadenas de suministro y afectar inversiones que llegaron a México y Canadá con el nearshoring.",
+      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
+      "fecha": "20 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda vuelve a subsidiar la gasolina Premium por alza del petróleo",
+      "resumen": "La guerra en Medio Oriente volvió a disparar los precios del petróleo, incluyendo la mezcla mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/17/hacienda-vuelve-a-subsidiar-la-gasolina-premium-por-alza-del-petroleo",
+      "fecha": "17 Jul 2026, 20:10 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
-      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
-      "fecha": "22 Jul 2026, 15:30 hrs"
+      "titulo": "Seis de cada 10 dólares de nuevos contratos de Nemak fueron por autos a gasolina",
+      "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
+      "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
+      "fecha": "21 Jul 2026, 21:13 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia detrás de Kirkland, la marca exclusiva que aporta una tercera parte de las ventas de Costco",
-      "resumen": "Costco convirtió una marca propia en un negocio de 86,000 millones de dólares gracias a una estrategia de calidad, precios bajos y un estricto control sobre cada producto.",
-      "link": "https://expansion.mx/empresas/2026/07/22/historia-kirkland-nacio-salvar-costco",
-      "fecha": "22 Jul 2026, 14:59 hrs"
+      "titulo": "América Móvil adquiere WOW Perú para consolidarse como líder del mercado fijo de telecomunicaciones",
+      "resumen": "La compra de WOW Perú permitirá a Claro ampliar su participación en el mercado peruano de internet fijo de 26.7% a 38.9%, con lo que se consolidará como el principal operador del segmento.",
+      "link": "https://expansion.mx/empresas/2026/07/21/america-movil-adquiere-wow-peru-para-consolidarse-como-lider-del-mercado-fijo-de-telecomunicaciones",
+      "fecha": "21 Jul 2026, 17:53 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Opella traslada a México la producción de Enterogermina con inversión de 1,200 millones de pesos",
-      "resumen": "La planta de Ocoyoacac asumirá procesos que antes solo se realizaban en Italia, al fabricar el ingrediente activo y el producto terminado de Enterogermina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/mexico-quita-italia-produccion-enterogermina-opella",
-      "fecha": "22 Jul 2026, 14:27 hrs"
+      "titulo": "Registro telefónico frena el crecimiento de Telcel en prepago durante el segundo trimestre",
+      "resumen": "La obligación de vincular las líneas móviles con la identidad de los usuarios impidió que Telcel sumara nuevos clientes de prepago entre abril y junio, mientras el segmento de pospago incorporó 424,00…",
+      "link": "https://expansion.mx/empresas/2026/07/21/el-registro-telefonico-congela-el-crecimiento-de-telcel-en-prepago-durante-segundo-trimestre",
+      "fecha": "21 Jul 2026, 17:23 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "AT&T pierde 668,000 usuarios de prepago por la política del registro telefónico",
-      "resumen": "La nueva política de vinculación de líneas afectó la base de clientes de prepago de AT&amp;T México, pero el crecimiento del pospago permitió a la empresa mantener el avance de sus ingresos y del fluj…",
-      "link": "https://expansion.mx/empresas/2026/07/22/att-paga-factura-registro-telefonico-pierde-usuarios",
-      "fecha": "22 Jul 2026, 13:11 hrs"
+      "titulo": "Ferrero invertirá 86 millones de dólares para ampliar su planta en Guanajuato y fortalecer su plataforma de exportación",
+      "resumen": "La inversión fortalecerá la capacidad del complejo de Guanajuato, desde donde Ferrero exporta cerca del 40% de su producción regional y busca duplicar su negocio en México en los próximos seis años.",
+      "link": "https://expansion.mx/empresas/2026/07/21/ferrero-invierte-planta-86-mdd-guanajuato",
+      "fecha": "21 Jul 2026, 15:04 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mazda apuesta por los híbridos en México y prepara el lanzamiento de cuatro modelos; el CX-90 PHEV es el primero",
-      "resumen": "La automotriz japonesa lanzó su primer híbrido enchufable en México, e inició una estrategia que contempla la llegada de otros tres modelos electrificados entre 2027 y 2029 bajo el concepto Mazda Smar…",
-      "link": "https://expansion.mx/empresas/2026/07/22/mazda-primer-auto-hibrido-enchufable-cx-90-phev",
-      "fecha": "22 Jul 2026, 12:57 hrs"
+      "titulo": "¿Quién está detrás de Taylor Farms? La empresa de lechuga vinculada por EU al brote de ciclosporiasis",
+      "resumen": "La empresa señalada es una de las más importantes de la industria agrícola estadounidense.",
+      "link": "https://expansion.mx/empresas/2026/07/21/quien-es-dueno-taylor-farms",
+      "fecha": "21 Jul 2026, 13:34 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más allá de EU, Canadá importa cada vez más autos hechos en México",
-      "resumen": "Las exportaciones de vehículos mexicanos a Canadá crecieron 18% en el primer semestre y alcanzaron una participación récord de 12.5% del total enviado al exterior.",
-      "link": "https://expansion.mx/empresas/2026/07/22/canada-compra-mas-autos-hechos-en-mexico",
-      "fecha": "22 Jul 2026, 10:50 hrs"
+      "titulo": "¿Y si sí? Los 5.5 millones de turistas nunca llegaron; el Mundial cerró con menos de 500,000 visitantes",
+      "resumen": "México recibió alrededor de 494,000 turistas vinculados al Mundial, muy lejos de las proyecciones iniciales. El mayor beneficio para hoteles y aerolíneas provino del aumento en el gasto por visitante.",
+      "link": "https://expansion.mx/empresas/2026/07/21/mexico-esperaba-boom-turistico-mundial-quedo-esperando",
+      "fecha": "21 Jul 2026, 12:23 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
-      "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
-      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
-      "fecha": "22 Jul 2026, 08:20 hrs"
+      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
+      "link": "https://expansion.mx/empresas/2026/07/21/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "fecha": "21 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Alsea reporta caída de 52.1% en utilidad por menor consumo en México y efectos cambiarios",
+      "resumen": "El impulso del Mundial de la FIFA 2026 benefició a Chili’s y Vips, pero no fue suficiente para compensar la debilidad de Starbucks en México ni la presión sobre los resultados consolidados del grupo.",
+      "link": "https://expansion.mx/empresas/2026/07/20/alsea-reporta-caida-de-52-1-en-utilidad-reportes-financieros",
+      "fecha": "20 Jul 2026, 18:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Será gradual traslado de producción de Tacoma.- Toyota",
-      "resumen": "Toyota aclaró que traslado de producción del modelo Tacoma a Estados Unidos será de forma gradual en los próximos cuatro años.",
-      "link": "https://www.reforma.com/sera-gradual-traslado-de-produccion-de-tacoma-toyota/ar3245173",
-      "fecha": "22 Jul 2026, 19:12 hrs"
+      "titulo": "Realizan tercera subasta de Bondes G y Bono S por 40 mil mdp",
+      "resumen": "SHCP realizó la tercera colocación simultánea del año de Bondes G y del Bono S por casi 40 mil millones de pesos.",
+      "link": "https://www.reforma.com/realizan-tercera-subasta-de-bondes-g-y-bono-s-por-40-mil-mdp/ar3245226",
+      "fecha": "22 Jul 2026, 20:46 hrs"
     },
     {
       "fuente": "Reforma",
