@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/07/2026 05:09 hrs",
+  "actualizado": "23/07/2026 07:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,7 +150,16 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Expiran patentes... ¡jueces las reviven!",
+      "titulo": "Desacelera inflación a 3.10% en primera mitad de julio",
+      "resumen": "En la primera mitad de julio, la inflación de México desaceleró por octava quincena consecutiva, a un 3.10% anual, mínimo en más de 5 años.",
+      "link": "https://www.reforma.com/desacelera-inflacion-a-3-10-en-primera-mitad-de-julio/ar3245399",
+      "fecha": "23 Jul 2026, 07:12 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Expiran patentes...  ¡jueces las reviven!",
       "resumen": "Anafam señaló que en México se pueden revivir las patentes de medicamentos expirados porque jueces reactivan derechos de exclusividad.",
       "link": "https://www.reforma.com/expiran-patentes-jueces-las-reviven/ar3245289",
       "fecha": "23 Jul 2026, 05:01 hrs"
@@ -159,19 +168,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Para entender el empleo",
-      "resumen": "El empleo es uno de los termómetros más importantes de una economía ya que indica cuántas personas trabajan y en qué condiciones lo hacen.",
-      "link": "https://www.reforma.com/para-entender-el-empleo/ar3245282",
+      "titulo": "Fracasan en Pemex contratos mixtos",
+      "resumen": "Los contratos mixtos de Pemex muestran señales de fracaso al no lograr atraer a empresas para desarrollar proyectos estratégicos.",
+      "link": "https://www.reforma.com/fracasan-en-pemex-contratos-mixtos/ar3245278",
       "fecha": "23 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exigirán avalar megaproyectos",
-      "resumen": "Proponen que megaproyectos de energía deben ser avalados por comunidades indígenas y afromexicanas mediante una consulta pública.",
-      "link": "https://www.reforma.com/exigiran-avalar-megaproyectos/ar3245279",
-      "fecha": "23 Jul 2026, 05:01 hrs"
+      "titulo": "Superan futuros del crudo Brent los 100 dólares por barril",
+      "resumen": "El crudo Brent superó los 100 dólares por barril, después de que varios petroleros fueran atacados frente a las costas de Arabia Saudita.",
+      "link": "https://www.reforma.com/superan-futuros-del-crudo-brent-los-100-dolares-por-barril/ar3245405",
+      "fecha": "23 Jul 2026, 07:28 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impone UE multa de 1,015 mdd a Google",
+      "resumen": "Google, de Alphabet, fue multada con mil 015 mdd por incumplir las normas de la UE destinadas a frenar el poder de las grandes tecnológicas.",
+      "link": "https://www.reforma.com/impone-ue-multa-de-1-015-mdd-a-google/ar3245404",
+      "fecha": "23 Jul 2026, 07:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reporta Cemex alza de 24% en su flujo de operación",
+      "resumen": "Cemex reportó que su Ebitda alcanzó un récord de mil 018 mdd en el segundo trimestre, un 24% mayor respecto al mismo lapso del año anterior.",
+      "link": "https://www.reforma.com/reporta-cemex-alza-de-24-en-su-flujo-de-operacion/ar3245396",
+      "fecha": "23 Jul 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten por riesgos que México subestima",
-      "resumen": "Cambio climático, deterioro de salud mental y envejecimiento son los riesgos más subestimados en México, advierte AXA.",
-      "link": "https://www.reforma.com/advierten-por-riesgos-que-mexico-subestima/ar3245265",
+      "titulo": "Exigirán avalar megaproyectos",
+      "resumen": "Proponen que megaproyectos de energía deben ser avalados por comunidades indígenas y afromexicanas mediante una consulta pública.",
+      "link": "https://www.reforma.com/exigiran-avalar-megaproyectos/ar3245279",
       "fecha": "23 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Realizan tercera subasta de Bondes G y Bono S por 40 mil mdp",
-      "resumen": "SHCP realizó la tercera colocación simultánea del año de Bondes G y del Bono S por casi 40 mil millones de pesos.",
-      "link": "https://www.reforma.com/realizan-tercera-subasta-de-bondes-g-y-bono-s-por-40-mil-mdp/ar3245226",
-      "fecha": "22 Jul 2026, 20:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta Walmart México caída de 0.7% en su beneficio neto",
-      "resumen": "Walmart México reportó una caída 0.7% en su ganancia neta del segundo trimestre de 2026 al alcanzar 11 mil 152 millones de pesos.",
-      "link": "https://www.reforma.com/reporta-walmart-mexico-caida-de-0-7-en-su-beneficio-neto/ar3245116",
-      "fecha": "22 Jul 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "'Cocinan' venta de La Casa de Toño",
-      "resumen": "La Casa de Toño explora vender su negocio, que incluye 81 restaurantes, por más de 400 mdd, y Grupo Gigante se encuentra entre los postores.",
-      "link": "https://www.reforma.com/cocinan-venta-de-la-casa-de-tono/ar3245085",
-      "fecha": "22 Jul 2026, 17:36 hrs"
     }
   ]
 }
