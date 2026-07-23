@@ -1,43 +1,7 @@
 {
-  "actualizado": "23/07/2026 11:36 hrs",
+  "actualizado": "23/07/2026 13:16 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
-      "fecha": "23 Jul 2026, 09:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inflación baja a 3.10% en la primera quincena de julio",
-      "resumen": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
-      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
-      "fecha": "23 Jul 2026, 07:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
-      "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
-      "fecha": "23 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
-      "resumen": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
-      "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
-      "fecha": "23 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,6 +10,15 @@
       "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
       "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
       "fecha": "22 Jul 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
+      "fecha": "22 Jul 2026, 17:28 hrs"
     },
     {
       "fuente": "Expansión",
@@ -73,6 +46,69 @@
       "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
       "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
       "fecha": "22 Jul 2026, 10:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
+      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
+      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
+      "fecha": "21 Jul 2026, 18:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
+      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
+      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
+      "fecha": "21 Jul 2026, 16:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
+      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
+      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
+      "fecha": "21 Jul 2026, 14:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así nació La Casa de Toño: el restaurante que convirtió un pozole casero en una cadena millonaria",
+      "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
+      "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
+      "fecha": "23 Jul 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo Gigante confirma que evalúa la adquisición de La Casa de Toño",
+      "resumen": "Grupo Gigante confirmó que analiza la posible adquisición de La Casa de Toño como parte de su estrategia de crecimiento inorgánico, aunque aclaró que todavía no existe un acuerdo definitivo.",
+      "link": "https://expansion.mx/empresas/2026/07/23/la-casa-de-tono-grupo-gigante-analiza-compra",
+      "fecha": "23 Jul 2026, 12:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tesla sacrifica rentabilidad para acelerar su apuesta por la IA, los robotaxis y la robótica",
+      "resumen": "El fabricante de vehículos eléctricos mantiene su agresiva estrategia de inversión en IA y autonomía, aunque enfrenta presiones sobre sus márgenes de ganancia.",
+      "link": "https://expansion.mx/empresas/2026/07/23/tesla-aumenta-ventas-pero-gana-menos",
+      "fecha": "23 Jul 2026, 12:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
+      "link": "https://expansion.mx/empresas/2026/07/23/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "fecha": "23 Jul 2026, 10:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,42 +147,6 @@
       "fecha": "22 Jul 2026, 17:29 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
-      "resumen": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
-      "fecha": "22 Jul 2026, 17:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
-      "resumen": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su ex…",
-      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 17:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
-      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
-      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 15:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
-      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
-      "fecha": "22 Jul 2026, 15:30 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,15 +154,6 @@
       "resumen": "En la primera mitad de julio, la inflación de México desaceleró por octava quincena consecutiva, a un 3.10% anual, mínimo en más de 5 años.",
       "link": "https://www.reforma.com/desacelera-inflacion-a-3-10-en-primera-mitad-de-julio/ar3245399",
       "fecha": "23 Jul 2026, 07:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Fracasan en Pemex contratos mixtos",
-      "resumen": "Los contratos mixtos de Pemex muestran señales de fracaso al no lograr atraer a empresas para desarrollar proyectos estratégicos.",
-      "link": "https://www.reforma.com/fracasan-en-pemex-contratos-mixtos/ar3245278",
-      "fecha": "23 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca EU combatir gusano con moscas transgénicas",
-      "resumen": "Científicos alistan las primeras pruebas al aire libre de moscas del gusano barrenador genéticamente modificadas, conocidas como \"NovoFly\".",
-      "link": "https://www.reforma.com/busca-eu-combatir-gusano-con-moscas-transgenicas/ar3245447",
-      "fecha": "23 Jul 2026, 09:22 hrs"
+      "titulo": "Cierra crudo Brent con alza de 7%",
+      "resumen": "El barril del Brent cerró con un alza de 7.04%, a 100.69 dólares, mientras que el WTI avanzó 6.17% hasta los 92.19 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-7/ar3245587",
+      "fecha": "23 Jul 2026, 12:53 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,19 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Superan futuros del crudo Brent los 100 dólares por barril",
-      "resumen": "El crudo Brent superó los 100 dólares por barril, después de que varios petroleros fueran atacados frente a las costas de Arabia Saudita.",
-      "link": "https://www.reforma.com/superan-futuros-del-crudo-brent-los-100-dolares-por-barril/ar3245405",
-      "fecha": "23 Jul 2026, 07:28 hrs"
+      "titulo": "Busca EU combatir gusano con moscas transgénicas",
+      "resumen": "Científicos alistan las primeras pruebas al aire libre de moscas del gusano barrenador genéticamente modificadas, conocidas como \"NovoFly\".",
+      "link": "https://www.reforma.com/busca-eu-combatir-gusano-con-moscas-transgenicas/ar3245447",
+      "fecha": "23 Jul 2026, 09:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Opera Wall Street en rojo:  Alphabet cae 6% y Tesla un 10%",
-      "resumen": "Alphabet y Tesla, los primeros gigantes tecnológicos en publicar sus resultados trimestrales, sufrían fuertes pérdidas en  la Bolsa de NY.",
-      "link": "https://www.reforma.com/opera-wall-street-en-rojo-alphabet-cae-6-y-tesla-un-10/ar3245430",
-      "fecha": "23 Jul 2026, 08:45 hrs"
+      "titulo": "Corta actividad económica 3 meses con avances",
+      "resumen": "En el País, el Indicador Global de la Actividad Económica descendió 0.25% mensual en mayo de 2026.",
+      "link": "https://www.reforma.com/corta-actividad-economica-3-meses-con-avances/ar3245552",
+      "fecha": "23 Jul 2026, 12:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierden los 'Siete Magníficos' 767 mmdd en valor de mercado",
+      "resumen": "El índice Bloomberg Magnificent 7 registraba una caída del 4.8%, liderada por los descensos de 13% en Tesla y de 7.3% en Alphabet.",
+      "link": "https://www.reforma.com/pierden-los-siete-magnificos-767-mmdd-en-valor-de-mercado/ar3245520",
+      "fecha": "23 Jul 2026, 11:38 hrs"
     },
     {
       "fuente": "Reforma",
