@@ -1,25 +1,7 @@
 {
-  "actualizado": "23/07/2026 07:57 hrs",
+  "actualizado": "23/07/2026 09:57 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
-      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-      "fecha": "22 Jul 2026, 19:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-      "fecha": "22 Jul 2026, 17:28 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
       "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
       "fecha": "21 Jul 2026, 14:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
+      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
+      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
+      "fecha": "21 Jul 2026, 13:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
+      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
+      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
+      "fecha": "21 Jul 2026, 11:42 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,7 +159,16 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Expiran patentes...  ¡jueces las reviven!",
+      "titulo": "Fracasan en Pemex contratos mixtos",
+      "resumen": "Los contratos mixtos de Pemex muestran señales de fracaso al no lograr atraer a empresas para desarrollar proyectos estratégicos.",
+      "link": "https://www.reforma.com/fracasan-en-pemex-contratos-mixtos/ar3245278",
+      "fecha": "23 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Expiran patentes... ¡jueces las reviven!",
       "resumen": "Anafam señaló que en México se pueden revivir las patentes de medicamentos expirados porque jueces reactivan derechos de exclusividad.",
       "link": "https://www.reforma.com/expiran-patentes-jueces-las-reviven/ar3245289",
       "fecha": "23 Jul 2026, 05:01 hrs"
@@ -168,10 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fracasan en Pemex contratos mixtos",
-      "resumen": "Los contratos mixtos de Pemex muestran señales de fracaso al no lograr atraer a empresas para desarrollar proyectos estratégicos.",
-      "link": "https://www.reforma.com/fracasan-en-pemex-contratos-mixtos/ar3245278",
-      "fecha": "23 Jul 2026, 05:01 hrs"
+      "titulo": "Busca EU combatir gusano con moscas transgénicas",
+      "resumen": "Científicos alistan las primeras pruebas al aire libre de moscas del gusano barrenador genéticamente modificadas, conocidas como \"NovoFly\".",
+      "link": "https://www.reforma.com/busca-eu-combatir-gusano-con-moscas-transgenicas/ar3245447",
+      "fecha": "23 Jul 2026, 09:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acusan que firmas de IA buscan limitar supervisión en T-MEC",
+      "resumen": "Senadora demócrata acusó a las empresas de IA de presionar al Gobierno de EU para limitar las normas de transparencia del sector en T-MEC.",
+      "link": "https://www.reforma.com/acusan-que-firmas-de-ia-buscan-limitar-supervision-en-t-mec/ar3245463",
+      "fecha": "23 Jul 2026, 09:39 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impone UE multa de 1,015 mdd a Google",
-      "resumen": "Google, de Alphabet, fue multada con mil 015 mdd por incumplir las normas de la UE destinadas a frenar el poder de las grandes tecnológicas.",
-      "link": "https://www.reforma.com/impone-ue-multa-de-1-015-mdd-a-google/ar3245404",
-      "fecha": "23 Jul 2026, 07:26 hrs"
+      "titulo": "Opera Wall Street en rojo:  Alphabet cae 6% y Tesla un 10%",
+      "resumen": "Alphabet y Tesla, los primeros gigantes tecnológicos en publicar sus resultados trimestrales, sufrían fuertes pérdidas en  la Bolsa de NY.",
+      "link": "https://www.reforma.com/opera-wall-street-en-rojo-alphabet-cae-6-y-tesla-un-10/ar3245430",
+      "fecha": "23 Jul 2026, 08:45 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Cemex reportó que su Ebitda alcanzó un récord de mil 018 mdd en el segundo trimestre, un 24% mayor respecto al mismo lapso del año anterior.",
       "link": "https://www.reforma.com/reporta-cemex-alza-de-24-en-su-flujo-de-operacion/ar3245396",
       "fecha": "23 Jul 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Plantea IMEF reforma para gasto del Estado",
-      "resumen": "México requiere de una reforma fiscal de amplio alcance debido a insuficiencia de ingreso y aumento del gasto federal, afirmó IMEF.",
-      "link": "https://www.reforma.com/plantea-imef-reforma-para-gasto-del-estado/ar3245276",
-      "fecha": "23 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Exigirán avalar megaproyectos",
-      "resumen": "Proponen que megaproyectos de energía deben ser avalados por comunidades indígenas y afromexicanas mediante una consulta pública.",
-      "link": "https://www.reforma.com/exigiran-avalar-megaproyectos/ar3245279",
-      "fecha": "23 Jul 2026, 05:01 hrs"
     }
   ]
 }
