@@ -1,7 +1,52 @@
 {
-  "actualizado": "23/07/2026 09:57 hrs",
+  "actualizado": "23/07/2026 11:36 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
+      "fecha": "23 Jul 2026, 09:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación baja a 3.10% en la primera quincena de julio",
+      "resumen": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
+      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
+      "fecha": "23 Jul 2026, 07:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
+      "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
+      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
+      "fecha": "23 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
+      "resumen": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
+      "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
+      "fecha": "23 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
+      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
+      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
+      "fecha": "22 Jul 2026, 19:27 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -28,51 +73,6 @@
       "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
       "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
       "fecha": "22 Jul 2026, 10:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
-      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
-      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
-      "fecha": "21 Jul 2026, 18:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
-      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
-      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
-      "fecha": "21 Jul 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
-      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
-      "fecha": "21 Jul 2026, 14:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
-      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
-      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
-      "fecha": "21 Jul 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
-      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
-      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
-      "fecha": "21 Jul 2026, 11:42 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Expiran patentes... ¡jueces las reviven!",
-      "resumen": "Anafam señaló que en México se pueden revivir las patentes de medicamentos expirados porque jueces reactivan derechos de exclusividad.",
-      "link": "https://www.reforma.com/expiran-patentes-jueces-las-reviven/ar3245289",
-      "fecha": "23 Jul 2026, 05:01 hrs"
+      "titulo": "Advierte Moody's caída de participaciones federales",
+      "resumen": "Participaciones federales a estados y municipios se han estancado derivado de la desaceleración económica, indicó Moody's Local.",
+      "link": "https://www.reforma.com/advierte-moody-s-caida-de-participaciones-federales/ar3245509",
+      "fecha": "23 Jul 2026, 11:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reporta Cemex alza de 24% en su flujo de operación",
-      "resumen": "Cemex reportó que su Ebitda alcanzó un récord de mil 018 mdd en el segundo trimestre, un 24% mayor respecto al mismo lapso del año anterior.",
-      "link": "https://www.reforma.com/reporta-cemex-alza-de-24-en-su-flujo-de-operacion/ar3245396",
-      "fecha": "23 Jul 2026, 07:06 hrs"
+      "titulo": "Urgen ganaderos atender la sobreoferta de carne de res",
+      "resumen": "La CNOG urgió que se tomen medidas para atender la sobreoferta extraordinaria de carne de res en el País y que se privilegie la mexicana.",
+      "link": "https://www.reforma.com/urgen-ganaderos-atender-la-sobreoferta-de-carne-de-res/ar3245476",
+      "fecha": "23 Jul 2026, 10:25 hrs"
     }
   ]
 }
