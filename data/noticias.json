@@ -1,7 +1,43 @@
 {
-  "actualizado": "23/07/2026 15:04 hrs",
+  "actualizado": "23/07/2026 16:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
+      "fecha": "23 Jul 2026, 09:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación baja a 3.10% en la primera quincena de julio",
+      "resumen": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
+      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
+      "fecha": "23 Jul 2026, 07:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
+      "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
+      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
+      "fecha": "23 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
+      "resumen": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
+      "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
+      "fecha": "23 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -10,15 +46,6 @@
       "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
       "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
       "fecha": "22 Jul 2026, 19:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-      "fecha": "22 Jul 2026, 17:28 hrs"
     },
     {
       "fuente": "Expansión",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banorte anticipa segundo semestre más dinámico y apunta a crecer 9% el crédito",
-      "resumen": "El banco confía en que las negociaciones del T-MEC concluyan con una prórroga de 16 años, un escenario que, pese a la incertidumbre actual, favorecería un mayor crecimiento del financiamiento.",
-      "link": "https://expansion.mx/economia/2026/07/21/banorte-preve-mayor-credito-segundo-semestre",
-      "fecha": "21 Jul 2026, 18:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Mundial no logró impulsar la economía: actividad y consumo perdieron fuerza tras el repunte previo",
-      "resumen": "La actividad económica cayó 0.28% en mayo y apenas habría crecido 0.16% en junio, pese al Mundial. Analistas advierten que el impulso sobre comercio y servicios  fue mucho más moderado de lo previsto.",
-      "link": "https://expansion.mx/economia/2026/07/21/mundial-2026-no-rescato-restaurantes-hoteles-mexico-economia",
-      "fecha": "21 Jul 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los goles del Tri disparan hasta un 15% las ventas en el estadio Ciudad de México",
-      "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
-      "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
-      "fecha": "21 Jul 2026, 14:00 hrs"
+      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
+      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
+      "link": "https://expansion.mx/empresas/2026/07/23/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
+      "fecha": "23 Jul 2026, 10:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "22 Jul 2026, 15:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
-      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
-      "fecha": "22 Jul 2026, 15:30 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -186,19 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan que firmas de IA buscan limitar supervisión en T-MEC",
-      "resumen": "Senadora demócrata acusó a las empresas de IA de presionar al Gobierno de EU para limitar las normas de transparencia del sector en T-MEC.",
-      "link": "https://www.reforma.com/acusan-que-firmas-de-ia-buscan-limitar-supervision-en-t-mec/ar3245463",
-      "fecha": "23 Jul 2026, 09:39 hrs"
+      "titulo": "Reporta Televisa pérdida de 497 mdp en el segundo trimestre",
+      "resumen": "Televisa informó una pérdida neta de 497.4 mdp en el segundo trimestre, frente a la ganancia de 474.5 mdp del año pasado.",
+      "link": "https://www.reforma.com/reporta-televisa-perdida-de-497-mdp-en-el-segundo-trimestre/ar3245800",
+      "fecha": "23 Jul 2026, 16:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Corta actividad económica 3 meses con avances",
-      "resumen": "En el País, el Indicador Global de la Actividad Económica descendió 0.25% mensual en mayo de 2026.",
-      "link": "https://www.reforma.com/corta-actividad-economica-3-meses-con-avances/ar3245552",
-      "fecha": "23 Jul 2026, 12:11 hrs"
+      "titulo": "Expectativas hoteleras quedan 'fuera de lugar' en el Mundial",
+      "resumen": "Ocupación hotelera durante el Mundial alcanzó apenas entre el 57% y 65%; muy por debajo de las expectativas de 90%, señaló ANCH.",
+      "link": "https://www.reforma.com/expectativas-hoteleras-quedan-fuera-de-lugar-en-el-mundial/ar3245796",
+      "fecha": "23 Jul 2026, 16:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde Nasdaq más de 2% por caída de acciones tecnológicas",
-      "resumen": "El Nasdaq cerró con una pérdida de más de 2%, ya que los informes de Alphabet y Tesla reavivaron la preocupación por el elevado gasto en IA.",
-      "link": "https://www.reforma.com/pierde-nasdaq-mas-de-2-por-caida-de-acciones-tecnologicas/ar3245731",
-      "fecha": "23 Jul 2026, 14:58 hrs"
+      "titulo": "Urgen ganaderos atender la sobreoferta de carne de res",
+      "resumen": "La CNOG urgió que se tomen medidas para atender la sobreoferta extraordinaria de carne de res en el País y que se privilegie la mexicana.",
+      "link": "https://www.reforma.com/urgen-ganaderos-atender-la-sobreoferta-de-carne-de-res/ar3245476",
+      "fecha": "23 Jul 2026, 10:25 hrs"
     }
   ]
 }
