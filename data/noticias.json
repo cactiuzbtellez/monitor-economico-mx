@@ -1,15 +1,51 @@
 {
-  "actualizado": "22/07/2026 17:03 hrs",
+  "actualizado": "22/07/2026 20:42 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
+      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
+      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
+      "fecha": "22 Jul 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
+      "fecha": "22 Jul 2026, 17:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu cambiará los contratos de sus clientes tras convertirse en banco: esta es la fecha clave",
+      "resumen": "La transformación de Nu en banco traerá nuevos contratos para los usuarios de Cuenta Nu, tarjetas de crédito y otros productos.",
+      "link": "https://expansion.mx/economia/2026/07/22/nu-cambia-contratos-clientes-ahora-que-es-banco",
+      "fecha": "22 Jul 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU apuesta por acuerdos provisionales del T-MEC este año y deja reglas de origen para 2027",
+      "resumen": "El representante comercial de EU delineó una ruta para la revisión del tratado, al reconocer que algunos de los temas más complejos requerirán nuevas negociaciones e incluso la participación del Congr…",
+      "link": "https://expansion.mx/economia/2026/07/22/eu-acuerdos-provisionales-tmec-2026",
+      "fecha": "22 Jul 2026, 11:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
       "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/22/los-millennials-y-la-generacion-z-lideran-las-inversiones-en-cetesdirecto",
-      "fecha": "22 Jul 2026, 05:50 hrs"
+      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
+      "fecha": "22 Jul 2026, 10:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -37,42 +73,6 @@
       "resumen": "La pasión de los aficionados se tradujo en un fuerte impulso al consumo dentro del inmueble, con picos en alimentos, bebidas y productos oficiales durante los partidos de la Selección Mexicana.",
       "link": "https://expansion.mx/economia/2026/07/21/cada-gol-mexico-disparo-ventas-estadio-azteca-mundial",
       "fecha": "21 Jul 2026, 14:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
-      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
-      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
-      "fecha": "21 Jul 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
-      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
-      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
-      "fecha": "21 Jul 2026, 11:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Proyectos por 22,000 mdd enfrentan trabas mientras crece presión del T-MEC",
-      "resumen": "Terminales de gas, turismo e industria avanzan más lento por obstáculos regulatorios y judiciales en un momento clave para atraer capital.",
-      "link": "https://expansion.mx/economia/2026/07/21/inversiones-atoradas-mexico-millones-dolares-t-mec",
-      "fecha": "21 Jul 2026, 10:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Empresas de EU rechazan endurecer las reglas de origen para desplazar a China",
-      "resumen": "Las compañías advierten que modificar el T-MEC podría encarecer las cadenas de suministro y afectar inversiones que llegaron a México y Canadá con el nearshoring.",
-      "link": "https://expansion.mx/economia/2026/07/20/empresas-eu-reglas-origen-tmec-china",
-      "fecha": "20 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,55 +150,64 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Queda corta planeación eléctrica ante demanda.- Imco",
-      "resumen": "El Gobierno federal se quedó corto en sus estimaciones de crecimiento de demanda de energía eléctrica para 2030, señala el Imco.",
-      "link": "https://www.reforma.com/queda-corta-planeacion-electrica-ante-demanda-imco/ar3244866",
-      "fecha": "22 Jul 2026, 12:38 hrs"
+      "titulo": "Será gradual traslado de producción de Tacoma.- Toyota",
+      "resumen": "Toyota aclaró que traslado de producción del modelo Tacoma a Estados Unidos será de forma gradual en los próximos cuatro años.",
+      "link": "https://www.reforma.com/sera-gradual-traslado-de-produccion-de-tacoma-toyota/ar3245173",
+      "fecha": "22 Jul 2026, 19:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firma CFE alianza para proyectos renovables por 1,000 mdd",
-      "resumen": "La CFE firmó un acuerdo con Cubico Sustainable para desarrollar proyectos renovables con una capacidad total de 578 MWac en México.",
-      "link": "https://www.reforma.com/firma-cfe-alianza-para-proyectos-renovables-por-1-000-mdd/ar3244806",
-      "fecha": "22 Jul 2026, 10:53 hrs"
+      "titulo": "Reporta Walmart México caída de 0.7% en su beneficio neto",
+      "resumen": "Walmart México reportó una caída 0.7% en su ganancia neta del segundo trimestre de 2026 al alcanzar 11 mil 152 millones de pesos.",
+      "link": "https://www.reforma.com/reporta-walmart-mexico-caida-de-0-7-en-su-beneficio-neto/ar3245116",
+      "fecha": "22 Jul 2026, 18:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé EU algunos acuerdos con Canadá y México este año",
-      "resumen": "EU prevé alcanzar algunos acuerdos con Canadá y México antes de fin de año, pero temas como las reglas de origen se prolongarían hasta 2027.",
-      "link": "https://www.reforma.com/preve-eu-algunos-acuerdos-con-canada-y-mexico-este-ano/ar3244745",
-      "fecha": "22 Jul 2026, 09:24 hrs"
+      "titulo": "'Cocinan' venta de La Casa de Toño",
+      "resumen": "La Casa de Toño explora vender su negocio, que incluye 81 restaurantes, por más de 400 mdd, y Grupo Gigante se encuentra entre los postores.",
+      "link": "https://www.reforma.com/cocinan-venta-de-la-casa-de-tono/ar3245085",
+      "fecha": "22 Jul 2026, 17:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevalece optimismo en trabajos del T-MEC",
-      "resumen": "Los trabajos de la tercera ronda de revisión del T-MEC tienen un rumbo positivo, según empresarios de México y EU.",
-      "link": "https://www.reforma.com/prevalece-optimismo-en-trabajos-del-t-mec/ar3244882",
-      "fecha": "22 Jul 2026, 12:58 hrs"
+      "titulo": "Lidera Nubank ranking de madurez en IA; Banorte es número 10",
+      "resumen": "Nubank lideró el ranking de madurez en IA de 20 bancos latinoamericanos, mientras que Banorte se ubicó en la posición 10, reveló Evident.",
+      "link": "https://www.reforma.com/lidera-nubank-ranking-de-madurez-en-ia-banorte-es-numero-10/ar3245029",
+      "fecha": "22 Jul 2026, 18:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 19% absorción bruta de naves industriales en Monterrey",
-      "resumen": "En el primer semestre el mercado industrial de Monterrey registró un aumento de 19 por ciento en su absorción bruta, dijo CBRE.",
-      "link": "https://www.reforma.com/crece-19-absorcion-bruta-de-naves-industriales-en-monterrey/ar3244835",
-      "fecha": "22 Jul 2026, 12:20 hrs"
+      "titulo": "Se disparan 82% ingresos de Google Cloud",
+      "resumen": "Alphabet, la empresa matriz de Google, informó que las ventas de servicios en la nube fueron de 24 mil 800 mdd en el segundo trimestre.",
+      "link": "https://www.reforma.com/se-disparan-82-ingresos-de-google-cloud/ar3244989",
+      "fecha": "22 Jul 2026, 15:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza en EU proyecto de ley contra vehículos chinos",
-      "resumen": "Comisión de Comercio del Senado de EU aprobó una ley para endurecer la prohibición a fabricantes de autos chinos de entrar al mercado local.",
-      "link": "https://www.reforma.com/avanza-en-eu-proyecto-de-ley-contra-vehiculos-chinos/ar3244827",
-      "fecha": "22 Jul 2026, 11:50 hrs"
+      "titulo": "Cierra crudo con alza cercana al 3%",
+      "resumen": "El precio del barril de Brent avanzó un 3.36% hasta los 94.07 dólares, y el West Texas Intermediate ganó un 2.95% y cerró en 86.83 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-con-alza-cercana-al-3/ar3244960",
+      "fecha": "22 Jul 2026, 14:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crecen 26% ingresos de Tesla, pero caen ganancias",
+      "resumen": "En el segundo trimestre, los ingresos de Tesla aumentaron 26%, a 28 mil 240 mdd, mientras que el beneficio disminuyó un 5%, a mil 110 mdd.",
+      "link": "https://www.reforma.com/crecen-26-ingresos-de-tesla-pero-caen-ganancias/ar3244953",
+      "fecha": "22 Jul 2026, 14:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "Gruma reportó una caída de 5% en su flujo operativo del segundo trimestre, a 276.5 mdd, a raíz de mayores costos en distribución.",
       "link": "https://www.reforma.com/cae-5-flujo-operativo-de-gruma-en-segundo-trimestre/ar3244940",
       "fecha": "22 Jul 2026, 14:19 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Espera Banorte un segundo semestre más sólido; reafirma guía",
-      "resumen": "Director general de Banorte reafirmó las perspectivas del banco para 2026, citando su confianza en un segundo semestre más sólido.",
-      "link": "https://www.reforma.com/espera-banorte-un-segundo-semestre-mas-solido-reafirma-guia/ar3244795",
-      "fecha": "22 Jul 2026, 10:36 hrs"
     }
   ]
 }
