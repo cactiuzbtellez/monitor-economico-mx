@@ -1,7 +1,25 @@
 {
-  "actualizado": "23/07/2026 02:29 hrs",
+  "actualizado": "23/07/2026 05:09 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
+      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
+      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
+      "fecha": "22 Jul 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
+      "fecha": "22 Jul 2026, 17:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,93 +76,120 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los 13 reclamos de México a EU en la tercera ronda del T-MEC",
-      "resumen": "La agenda mexicana incluye demandas relacionadas con los aranceles de la Sección 232, el etiquetado \"Product of USA\", las reglas de origen automotrices, el impuesto a las remesas y el uso abusivo del …",
-      "link": "https://expansion.mx/economia/2026/07/21/mexico-13-reclamos-tercera-ronda-tmec",
-      "fecha": "21 Jul 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Aranceles a Canadá: presión calculada de Trump para negociar un mejor trato",
-      "resumen": "El representante comercial de EU, Jamieson Greer, dijo que mantendrá el diálogo con Canadá mientras busca cambios en el T-MEC para reducir el déficit comercial y fortalecer las cadenas de suministro r…",
-      "link": "https://expansion.mx/economia/2026/07/21/greer-aranceles-canada-tmec-negociacion",
-      "fecha": "21 Jul 2026, 11:42 hrs"
+      "titulo": "Porsche planea recortar otros 5,000 puestos de trabajo",
+      "resumen": "La automotriz alemana analiza nuevos ajustes ante la crisis que golpea a dicho sector.",
+      "link": "https://expansion.mx/empresas/2026/07/23/porsche-planea-recortar-5000-puestos-trabajo",
+      "fecha": "23 Jul 2026, 06:08 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia detrás de Kirkland, la marca exclusiva que aporta una tercera parte de las ventas de Costco",
-      "resumen": "Costco convirtió una marca propia en un negocio de 86,000 millones de dólares gracias a una estrategia de calidad, precios bajos y un estricto control sobre cada producto.",
-      "link": "https://expansion.mx/empresas/2026/07/22/historia-kirkland-nacio-salvar-costco",
-      "fecha": "22 Jul 2026, 14:59 hrs"
+      "titulo": "Gruma compensa la debilidad en EU con el crecimiento de Asia, Europa y Centroamérica",
+      "resumen": "La baja confianza del consumidor estadounidense redujo el volumen de ventas de Gruma. Sin embargo, el crecimiento en Asia, Europa y Centroamérica compensó parte del impacto y elevó los ingresos consol…",
+      "link": "https://expansion.mx/empresas/2026/07/22/gruma-resultados-eu-asia-centroamerica-segundo-trimestre",
+      "fecha": "22 Jul 2026, 19:23 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Opella traslada a México la producción de Enterogermina con inversión de 1,200 millones de pesos",
-      "resumen": "La planta de Ocoyoacac asumirá procesos que antes solo se realizaban en Italia, al fabricar el ingrediente activo y el producto terminado de Enterogermina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/opella-enterogermina-mexico-hub-latinoamerica",
-      "fecha": "22 Jul 2026, 14:27 hrs"
+      "titulo": "¿Quién es el dueño de la mayor cadena hotelera de México? Comenzó su imperio empresarial a los 21 años",
+      "resumen": "Más de cinco décadas después de abrir su primer hotel, un grupo hotelero se mantiene entre los más grandes de México.",
+      "link": "https://expansion.mx/empresas/2026/07/22/quien-es-el-dueno-de-la-mayor-cadena-hotelera-de-mexico",
+      "fecha": "22 Jul 2026, 18:19 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "AT&T pierde 668,000 usuarios de prepago por la política del registro telefónico",
-      "resumen": "La nueva política de vinculación de líneas afectó la base de clientes de prepago de AT&amp;T México, pero el crecimiento del pospago permitió a la empresa mantener el avance de sus ingresos y del fluj…",
-      "link": "https://expansion.mx/empresas/2026/07/22/att-paga-factura-registro-telefonico-pierde-usuarios",
-      "fecha": "22 Jul 2026, 13:11 hrs"
+      "titulo": "Bait alcanza la rentabilidad para Walmart con ingresos de 3,800 mdp, pese a un menor ritmo de suscripciones",
+      "resumen": "El OMV de Walmart alcanzó niveles de rentabilidad comparables con otros negocios de la compañía, pero redujo el ritmo de incorporación de usuarios tras la entrada del registro telefónico.",
+      "link": "https://expansion.mx/empresas/2026/07/22/bait-tiene-menos-usuarios-pero-genera-rentabilidad-walmart",
+      "fecha": "22 Jul 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mazda apuesta por los híbridos en México y prepara el lanzamiento de cuatro modelos; el CX-90 PHEV es el primero",
-      "resumen": "La automotriz japonesa lanzó su primer híbrido enchufable en México, e inició una estrategia que contempla la llegada de otros tres modelos electrificados entre 2027 y 2029 bajo el concepto Mazda Smar…",
-      "link": "https://expansion.mx/empresas/2026/07/22/mazda-primer-auto-hibrido-enchufable-cx-90-phev",
-      "fecha": "22 Jul 2026, 12:57 hrs"
+      "titulo": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
+      "resumen": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
+      "fecha": "22 Jul 2026, 17:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más allá de EU, Canadá importa cada vez más autos hechos en México",
-      "resumen": "Las exportaciones de vehículos mexicanos a Canadá crecieron 18% en el primer semestre y alcanzaron una participación récord de 12.5% del total enviado al exterior.",
-      "link": "https://expansion.mx/empresas/2026/07/22/canada-compra-mas-autos-hechos-en-mexico",
-      "fecha": "22 Jul 2026, 10:50 hrs"
+      "titulo": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
+      "resumen": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su ex…",
+      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
+      "fecha": "22 Jul 2026, 17:04 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pedigree, Whiskas, Snickers y Lucas pertenecen a la misma empresa: vende 29,000 mdp al año",
-      "resumen": "Pocas empresas tienen presencia en la despensa, el cajón de los dulces y el plato de las mascotas. Así es el negocio que Mars construyó durante más de un siglo.",
-      "link": "https://expansion.mx/empresas/2026/07/22/mars-mexico-dueno-pedigree-whiskas-mms-snickers",
-      "fecha": "22 Jul 2026, 08:20 hrs"
+      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
+      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
+      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
+      "fecha": "22 Jul 2026, 15:54 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Puebla concentra 53% del huachigás en México y las tomas clandestinas crecen 35%",
-      "resumen": "Con 157 perforaciones en el trimestre, la entidad lidera el robo de gas LP mientras el delito mantiene presión sobre la infraestructura energética nacional.",
-      "link": "https://expansion.mx/empresas/2026/07/22/puebla-primer-lugar-huachigas-mitad-tomas-clandestinas",
-      "fecha": "22 Jul 2026, 05:55 hrs"
+      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
+      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
+      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
+      "fecha": "22 Jul 2026, 15:30 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Seis de cada 10 dólares de nuevos contratos de Nemak fueron por autos a gasolina",
-      "resumen": "La empresa de origen regiomontano inició la producción de programas para firmas como Ford y Mercedes Benz en Europa, así como para SAIC, BYD y Li Auto en China.",
-      "link": "https://expansion.mx/empresas/2026/07/21/6-de-cada-10-dolares-nuevos-contratos-nemak-autos-a-gasolina",
-      "fecha": "21 Jul 2026, 21:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Expiran patentes... ¡jueces las reviven!",
+      "resumen": "Anafam señaló que en México se pueden revivir las patentes de medicamentos expirados porque jueces reactivan derechos de exclusividad.",
+      "link": "https://www.reforma.com/expiran-patentes-jueces-las-reviven/ar3245289",
+      "fecha": "23 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Para entender el empleo",
+      "resumen": "El empleo es uno de los termómetros más importantes de una economía ya que indica cuántas personas trabajan y en qué condiciones lo hacen.",
+      "link": "https://www.reforma.com/para-entender-el-empleo/ar3245282",
+      "fecha": "23 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Exigirán avalar megaproyectos",
+      "resumen": "Proponen que megaproyectos de energía deben ser avalados por comunidades indígenas y afromexicanas mediante una consulta pública.",
+      "link": "https://www.reforma.com/exigiran-avalar-megaproyectos/ar3245279",
+      "fecha": "23 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Plantea IMEF reforma para gasto del Estado",
+      "resumen": "México requiere de una reforma fiscal de amplio alcance debido a insuficiencia de ingreso y aumento del gasto federal, afirmó IMEF.",
+      "link": "https://www.reforma.com/plantea-imef-reforma-para-gasto-del-estado/ar3245276",
+      "fecha": "23 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten por riesgos que México subestima",
+      "resumen": "Cambio climático, deterioro de salud mental y envejecimiento son los riesgos más subestimados en México, advierte AXA.",
+      "link": "https://www.reforma.com/advierten-por-riesgos-que-mexico-subestima/ar3245265",
+      "fecha": "23 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "La Casa de Toño explora vender su negocio, que incluye 81 restaurantes, por más de 400 mdd, y Grupo Gigante se encuentra entre los postores.",
       "link": "https://www.reforma.com/cocinan-venta-de-la-casa-de-tono/ar3245085",
       "fecha": "22 Jul 2026, 17:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera Nubank ranking de madurez en IA; Banorte es número 10",
-      "resumen": "Nubank lideró el ranking de madurez en IA de 20 bancos latinoamericanos, mientras que Banorte se ubicó en la posición 10, reveló Evident.",
-      "link": "https://www.reforma.com/lidera-nubank-ranking-de-madurez-en-ia-banorte-es-numero-10/ar3245029",
-      "fecha": "22 Jul 2026, 18:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se disparan 82% ingresos de Google Cloud",
-      "resumen": "Alphabet, la empresa matriz de Google, informó que las ventas de servicios en la nube fueron de 24 mil 800 mdd en el segundo trimestre.",
-      "link": "https://www.reforma.com/se-disparan-82-ingresos-de-google-cloud/ar3244989",
-      "fecha": "22 Jul 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo con alza cercana al 3%",
-      "resumen": "El precio del barril de Brent avanzó un 3.36% hasta los 94.07 dólares, y el West Texas Intermediate ganó un 2.95% y cerró en 86.83 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-con-alza-cercana-al-3/ar3244960",
-      "fecha": "22 Jul 2026, 14:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 26% ingresos de Tesla, pero caen ganancias",
-      "resumen": "En el segundo trimestre, los ingresos de Tesla aumentaron 26%, a 28 mil 240 mdd, mientras que el beneficio disminuyó un 5%, a mil 110 mdd.",
-      "link": "https://www.reforma.com/crecen-26-ingresos-de-tesla-pero-caen-ganancias/ar3244953",
-      "fecha": "22 Jul 2026, 14:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae 5% flujo operativo de Gruma en segundo trimestre",
-      "resumen": "Gruma reportó una caída de 5% en su flujo operativo del segundo trimestre, a 276.5 mdd, a raíz de mayores costos en distribución.",
-      "link": "https://www.reforma.com/cae-5-flujo-operativo-de-gruma-en-segundo-trimestre/ar3244940",
-      "fecha": "22 Jul 2026, 14:19 hrs"
     }
   ]
 }
