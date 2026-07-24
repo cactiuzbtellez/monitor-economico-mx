@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/07/2026 12:17 hrs",
+  "actualizado": "24/07/2026 14:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
+      "resumen": "Mucho antes de convertirse en un ícono en México, este automóvil atravesó una historia marcada por cambios inesperados que también explican el origen del nombre con el que millones lo conocen.",
+      "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
+      "fecha": "24 Jul 2026, 10:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Toks a Shake Shack: todos los restaurantes de Grupo Gigante, que ahora va por La Casa de Toño",
+      "resumen": "Tras vender sus supermercados a Soriana en 2007, la compañía transformó su modelo de negocio y construyó un portafolio restaurantero con marcas nacionales e internacionales.",
+      "link": "https://expansion.mx/empresas/2026/07/24/grupo-gigante-imperio-restaurantes-la-casa-tono",
+      "fecha": "24 Jul 2026, 10:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño del agua mineral Topo Chico, que cumple 130 años?",
+      "resumen": "En 2025, la marca cumple 130 años de existencia, consolidada como un producto emblemático con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-topo-chico",
+      "fecha": "24 Jul 2026, 09:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Pemex pierde dinero donde Exxon y Aramco ganan millones",
       "resumen": "Mientras las grandes petroleras obtuvieron márgenes de refinación superiores a 20 dólares por barril en 2024 y 2025, Pemex perdió dinero por la baja rentabilidad de sus refinerías.",
       "link": "https://expansion.mx/empresas/2026/07/24/pemex-pierde-dinero-donde-exxon-y-aramco-ganan-millones",
@@ -89,7 +116,7 @@
       "color": "#C8102E",
       "titulo": "¿Trabajas en tu día de descanso? Proponen un pago extra equivalente al 50% de la jornada laboral",
       "resumen": "Una iniciativa de ley contempla que los trabajadores vean beneficios en caso de que se les solicite cubrir turnos fuera de su horario laboral.",
-      "link": "https://expansion.mx/empresas/2026/07/23/pago-extra-dia-descanso-50-de-la-jornada-laboral",
+      "link": "",
       "fecha": "23 Jul 2026, 20:09 hrs"
     },
     {
@@ -120,103 +147,76 @@
       "fecha": "23 Jul 2026, 17:21 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
-      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/23/carlos-slim-miniso-cuantos-millones-ha-generado",
-      "fecha": "23 Jul 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bebidas sin azúcar ganan terreno, pero no evitan retroceso en las ganancias de Arca Continental",
-      "resumen": "La estrategia para expandir Coca-Cola Zero y aprovechar el Mundial fortaleció las marcas, aunque la utilidad neta retrocedió 9.4% durante el trimestre.",
-      "link": "https://expansion.mx/empresas/2026/07/23/coca-cola-zero-crece-arca-continental-aun-registra-perdidas",
-      "fecha": "23 Jul 2026, 15:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Así nació La Casa de Toño: el restaurante que convirtió un pozole casero en una cadena millonaria",
-      "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
-      "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
-      "fecha": "23 Jul 2026, 13:03 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Respaldan Nvidia y Microsoft modelos de IA de código abierto",
+      "resumen": "Nvidia, Microsoft y otros gigantes tecnológicos defendieron públicamente los modelos de inteligencia artificial de código abierto.",
+      "link": "https://www.reforma.com/respaldan-nvidia-y-microsoft-modelos-de-ia-de-codigo-abierto/ar3246386",
+      "fecha": "24 Jul 2026, 14:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abre Wall Street sin mucho entusiasmo",
-      "resumen": "La Bolsa de Nueva York abrió sin mucho entusiasmo el viernes, con los inversores vigilando los precios del petróleo, los cuales bajaron.",
-      "link": "https://www.reforma.com/abre-wall-street-sin-mucho-entusiasmo/ar3246174",
-      "fecha": "24 Jul 2026, 08:59 hrs"
+      "titulo": "Impugnan pymes de EU nuevos aranceles de Trump",
+      "resumen": "Dos pequeñas empresas de EU impugnaron los nuevos aranceles de Trump, alegando que excedía la autoridad del mandatario.",
+      "link": "https://www.reforma.com/impugnan-pymes-de-eu-nuevos-aranceles-de-trump/ar3246384",
+      "fecha": "24 Jul 2026, 13:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae BMV por Televisa y Asur",
-      "resumen": "La BMV descendía presionada por resultados corporativos locales inferiores a las expectativas como los de Televisa y Asur.",
-      "link": "https://www.reforma.com/cae-bmv-por-televisa-y-asur/ar3246170",
-      "fecha": "24 Jul 2026, 08:59 hrs"
+      "titulo": "Libra México, otra vez, bala de aranceles por T-MEC",
+      "resumen": "Los aranceles de 10 % ordenados por EU nuevamente dejan a México y a Canadá en una posición relativamente favorable, destacó BBVA.",
+      "link": "https://www.reforma.com/libra-mexico-otra-vez-bala-de-aranceles-por-t-mec/ar3246360",
+      "fecha": "24 Jul 2026, 13:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dicen que Mundial superó derrama esperada en NL",
-      "resumen": "La Sectur de NL estima que la derrama económica por turismo durante el Mundial en el Estado, el mes pasado, fue 138% mayor a la proyectada.",
-      "link": "https://www.reforma.com/dicen-que-mundial-supero-derrama-esperada-en-nl/ar3246074",
-      "fecha": "24 Jul 2026, 08:59 hrs"
+      "titulo": "Crece 1.19% valor producción en constructoras",
+      "resumen": "En los primeros cinco meses de 2026, el valor de la producción de las empresas constructoras subió 1.19 por ciento anual.",
+      "link": "https://www.reforma.com/crece-1-19-valor-produccion-en-constructoras/ar3246326",
+      "fecha": "24 Jul 2026, 13:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invierten 23 mmdd en rondas de EPN",
-      "resumen": "Las rondas petroleras que buscaban atraer inversión durante el sexenio de Enrique Peña Nieto atrajeron 23 mil millones de dólares.",
-      "link": "https://www.reforma.com/invierten-23-mmdd-en-rondas-de-epn/ar3246066",
-      "fecha": "24 Jul 2026, 05:01 hrs"
+      "titulo": "Tarda más tiempo la venta de autos seminuevos",
+      "resumen": "La venta de autos seminuevos tarda cada vez más tiempo que en años anteriores, según AMDA y SIM Data Group.",
+      "link": "https://www.reforma.com/tarda-mas-tiempo-la-venta-de-autos-seminuevos/ar3246281",
+      "fecha": "24 Jul 2026, 13:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Da Trump garrotazo... y la libra México",
-      "resumen": "Mientras Jamieson Greer se reunía con Sheinbaum y Ebrard, EU anunciaba nuevos aranceles de al menos 10% a 60 economías, entre ellas México.",
-      "link": "https://www.reforma.com/da-trump-garrotazo-y-la-libra-mexico/ar3246058",
-      "fecha": "24 Jul 2026, 05:00 hrs"
+      "titulo": "Aumenta desocupación a 2.8% y suma dos meses con avances",
+      "resumen": "La Tasa de Desocupación nacional avanzó 0.08 puntos porcentuales a 2.8 por ciento de la Población Económicamente Activa en junio de 2026.",
+      "link": "https://www.reforma.com/aumenta-desocupacion-a-2-8-y-suma-dos-meses-con-avances/ar3246251",
+      "fecha": "24 Jul 2026, 12:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé Nemak sinergias por hasta 40 mdd",
-      "resumen": "Tras la adquisición de GF Casting Solutions, Nemak prevé sinergias por entre 20 y 40 mdd.",
-      "link": "https://www.reforma.com/preve-nemak-sinergias-por-hasta-40-mdd/ar3246047",
-      "fecha": "24 Jul 2026, 08:59 hrs"
+      "titulo": "Ronda crudo físico Dls. 110 por conflictos en Irán y Ucrania",
+      "resumen": "Precio físico de crudo en Medio Oriente, Europa y África se disparó, por interrupción en el suministro por conflictos en Irán y Ucrania.",
+      "link": "https://www.reforma.com/ronda-crudo-fisico-dls-110-por-conflictos-en-iran-y-ucrania/ar3246212",
+      "fecha": "24 Jul 2026, 10:42 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fracasan estrategias de Carney con Trump",
-      "resumen": "El Primer Ministro de Canadá prometió una postura combativa frente a las amenazas de Trump, pero se acumulan las concesiones a EU.",
-      "link": "https://www.reforma.com/fracasan-estrategias-de-carney-con-trump/ar3245814",
-      "fecha": "24 Jul 2026, 08:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bloquean ventas de lotes en Cancún",
-      "resumen": "Bloqueo administrativo impide a propietarios de terrenos en Isla Blanca, Cancún el vender heredar o realizar trámites catastrales.",
-      "link": "https://www.reforma.com/bloquean-ventas-de-lotes-en-cancun/ar3246059",
-      "fecha": "24 Jul 2026, 05:01 hrs"
+      "titulo": "Firma Canadá TLC con Ecuador",
+      "resumen": "Ecuador y Canadá firmaron un TLC, 99.6% de la oferta exportable del país sudamericano ingresará libre de aranceles al mercado canadiense.",
+      "link": "https://www.reforma.com/firma-canada-tlc-con-ecuador/ar3246209",
+      "fecha": "24 Jul 2026, 13:55 hrs"
     }
   ]
 }
