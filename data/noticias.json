@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/07/2026 16:56 hrs",
+  "actualizado": "23/07/2026 18:03 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Así nació La Casa de Toño: el restaurante que convirtió un pozole casero en una cadena millonaria",
+      "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
+      "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
+      "fecha": "23 Jul 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo Gigante confirma que evalúa la adquisición de La Casa de Toño",
+      "resumen": "Grupo Gigante confirmó que analiza la posible adquisición de La Casa de Toño como parte de su estrategia de crecimiento inorgánico, aunque aclaró que todavía no existe un acuerdo definitivo.",
+      "link": "https://expansion.mx/empresas/2026/07/23/la-casa-de-tono-grupo-gigante-analiza-compra",
+      "fecha": "23 Jul 2026, 12:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tesla sacrifica rentabilidad para acelerar su apuesta por la IA, los robotaxis y la robótica",
+      "resumen": "El fabricante de vehículos eléctricos mantiene su agresiva estrategia de inversión en IA y autonomía, aunque enfrenta presiones sobre sus márgenes de ganancia.",
+      "link": "https://expansion.mx/empresas/2026/07/23/tesla-aumenta-ventas-pero-gana-menos",
+      "fecha": "23 Jul 2026, 12:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
       "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
       "link": "https://expansion.mx/empresas/2026/07/23/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
@@ -120,67 +147,31 @@
       "fecha": "22 Jul 2026, 17:29 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
-      "resumen": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
-      "fecha": "22 Jul 2026, 17:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
-      "resumen": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su ex…",
-      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 17:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
-      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
-      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 15:54 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar en $17.52",
+      "resumen": "El dólar cerró este jueves con una cotización de $17.52; cifra 12.36 centavos mayor a lo registrado el jueves.",
+      "link": "https://www.reforma.com/cierra-dolar-en-17-52/ar3245882",
+      "fecha": "23 Jul 2026, 17:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Procesa Deer Park más que las otras refinerías de Pemex",
-      "resumen": "Refineria Deer Park trabaja al 89.4% de su capacidad superando al promedio de 73% de otras refinerías de Pemex y a Dos Bocas que opera 42%.",
-      "link": "https://www.reforma.com/procesa-deer-park-mas-que-las-otras-refinerias-de-pemex/ar3245723",
-      "fecha": "23 Jul 2026, 14:58 hrs"
+      "titulo": "Señala SE que no habrá impacto por nuevo arancel de EU",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard, consideró que arancel de 10% que anunció hoy Eu, no afecta exportaciones de México bajo el TMEC.",
+      "link": "https://www.reforma.com/senala-se-que-no-habra-impacto-por-nuevo-arancel-de-eu/ar3245875",
+      "fecha": "23 Jul 2026, 17:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte Moody's caída de participaciones federales",
-      "resumen": "Participaciones federales a estados y municipios se han estancado derivado de la desaceleración económica, indicó Moody's Local.",
-      "link": "https://www.reforma.com/advierte-moody-s-caida-de-participaciones-federales/ar3245509",
-      "fecha": "23 Jul 2026, 11:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con alza de 7%",
-      "resumen": "El barril del Brent cerró con un alza de 7.04%, a 100.69 dólares, mientras que el WTI avanzó 6.17% hasta los 92.19 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-7/ar3245587",
-      "fecha": "23 Jul 2026, 12:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca Credijal duplicar cartera en el corto plazo",
-      "resumen": "Credijal buscará alcanzar una cartera de crédito de mil millones de pesos hacia 2028, informó la Sofom.",
-      "link": "https://www.reforma.com/busca-credijal-duplicar-cartera-en-el-corto-plazo/ar3245689",
-      "fecha": "23 Jul 2026, 14:38 hrs"
+      "titulo": "Cierra Taylor Farms planta en México por ciclosporiasis",
+      "resumen": "Taylor Farms cerró temporalmente su planta de procesamiento en México debido al brote de ciclosporiasis que afecta a Estados Unidos.",
+      "link": "https://www.reforma.com/cierra-taylor-farms-planta-en-mexico-por-ciclosporiasis/ar3245801",
+      "fecha": "23 Jul 2026, 16:23 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca EU combatir gusano con moscas transgénicas",
-      "resumen": "Científicos alistan las primeras pruebas al aire libre de moscas del gusano barrenador genéticamente modificadas, conocidas como \"NovoFly\".",
-      "link": "https://www.reforma.com/busca-eu-combatir-gusano-con-moscas-transgenicas/ar3245447",
-      "fecha": "23 Jul 2026, 09:22 hrs"
+      "titulo": "Impulsa Bachoco operación más sostenible en planta de NL",
+      "resumen": "Bachoco inauguró en planta de Salinas Victoria varios proyectos para fortalecer eficiencia de sus procesos y reducir su impacto ambiental.",
+      "link": "https://www.reforma.com/impulsa-bachoco-operacion-mas-sostenible-en-planta-de-nl/ar3245794",
+      "fecha": "23 Jul 2026, 17:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen ganaderos atender la sobreoferta de carne de res",
-      "resumen": "La CNOG urgió que se tomen medidas para atender la sobreoferta extraordinaria de carne de res en el País y que se privilegie la mexicana.",
-      "link": "https://www.reforma.com/urgen-ganaderos-atender-la-sobreoferta-de-carne-de-res/ar3245476",
-      "fecha": "23 Jul 2026, 10:25 hrs"
+      "titulo": "Amplían al 17 de agosto suspensión del acuerdo Paramount-WBD",
+      "resumen": "Jueza federal que supervisa las diversas impugnaciones a la operación, prorrogó dos semanas la suspensión de la compra de WBD por Paramount.",
+      "link": "https://www.reforma.com/amplian-al-17-de-agosto-suspension-del-acuerdo-paramount-wbd/ar3245785",
+      "fecha": "23 Jul 2026, 15:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde Nasdaq más de 2% por caída de acciones tecnológicas",
+      "resumen": "El Nasdaq cerró con una pérdida de más de 2%, ya que los informes de Alphabet y Tesla reavivaron la preocupación por el elevado gasto en IA.",
+      "link": "https://www.reforma.com/pierde-nasdaq-mas-de-2-por-caida-de-acciones-tecnologicas/ar3245731",
+      "fecha": "23 Jul 2026, 14:58 hrs"
     }
   ]
 }
