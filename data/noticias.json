@@ -1,16 +1,7 @@
 {
-  "actualizado": "23/07/2026 18:03 hrs",
+  "actualizado": "23/07/2026 22:13 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
-      "fecha": "23 Jul 2026, 09:56 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -26,7 +17,7 @@
       "color": "#C8102E",
       "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
       "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
+      "link": "https://expansion.mx/economia/2026/07/22/mexico-aranceles-textiles-china-produccion-industria-2026",
       "fecha": "23 Jul 2026, 05:55 hrs"
     },
     {
@@ -46,6 +37,15 @@
       "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
       "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
       "fecha": "22 Jul 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
+      "fecha": "22 Jul 2026, 17:28 hrs"
     },
     {
       "fuente": "Expansión",
@@ -73,42 +73,6 @@
       "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
       "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
       "fecha": "22 Jul 2026, 10:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Así nació La Casa de Toño: el restaurante que convirtió un pozole casero en una cadena millonaria",
-      "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
-      "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
-      "fecha": "23 Jul 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Grupo Gigante confirma que evalúa la adquisición de La Casa de Toño",
-      "resumen": "Grupo Gigante confirmó que analiza la posible adquisición de La Casa de Toño como parte de su estrategia de crecimiento inorgánico, aunque aclaró que todavía no existe un acuerdo definitivo.",
-      "link": "https://expansion.mx/empresas/2026/07/23/la-casa-de-tono-grupo-gigante-analiza-compra",
-      "fecha": "23 Jul 2026, 12:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tesla sacrifica rentabilidad para acelerar su apuesta por la IA, los robotaxis y la robótica",
-      "resumen": "El fabricante de vehículos eléctricos mantiene su agresiva estrategia de inversión en IA y autonomía, aunque enfrenta presiones sobre sus márgenes de ganancia.",
-      "link": "https://expansion.mx/empresas/2026/07/23/tesla-aumenta-ventas-pero-gana-menos",
-      "fecha": "23 Jul 2026, 12:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hyundai traerá su SUV Creta de Vietnam y ajustará motor de Grand i10 para esquivar aranceles y mantener precios",
-      "resumen": "Juan Carlos Ortega, nuevo CEO de Hyundai México, cuenta en entrevista cómo la armadora ajusta su estrategia para mantener precios competitivos tras el arancel de 50% a modelos importados de países sin…",
-      "link": "https://expansion.mx/empresas/2026/07/23/hyundai-mueve-produccion-creta-ajusta-motor-de-grand-i10",
-      "fecha": "23 Jul 2026, 10:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +111,69 @@
       "fecha": "22 Jul 2026, 17:29 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
+      "resumen": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
+      "fecha": "22 Jul 2026, 17:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
+      "resumen": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su ex…",
+      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
+      "fecha": "22 Jul 2026, 17:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
+      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
+      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
+      "fecha": "22 Jul 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
+      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
+      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
+      "fecha": "22 Jul 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerdan EU y México proteger T-MEC de otros países",
+      "resumen": "México y Estados Unidos coincidieron en proteger el T-MEC contra países fuera de la región, así como en fortalecer el comercio.",
+      "link": "https://www.reforma.com/acuerdan-eu-y-mexico-proteger-t-mec-de-otros-paises/ar3246011",
+      "fecha": "23 Jul 2026, 20:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pega a usuarios falla en Izzi",
+      "resumen": "Usuarios en redes sociales reportaron sufrir fallas en el servicio de internet de banda ancha ofrecido por Izzi.",
+      "link": "https://www.reforma.com/pega-a-usuarios-falla-en-izzi/ar3245973",
+      "fecha": "23 Jul 2026, 19:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Traban acuerdo en T-MEC reglas de autos y restricciones agro",
+      "resumen": "Diferencias sobre reglas de contenido de autos, restricciones a frutas y verduras, así como quejas laborales detienen acuerdos sobre T-MEC.",
+      "link": "https://www.reforma.com/traban-acuerdo-en-t-mec-reglas-de-autos-y-restricciones-agro/ar3245958",
+      "fecha": "23 Jul 2026, 19:18 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -160,7 +187,7 @@
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Señala SE que no habrá impacto por nuevo arancel de EU",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard, consideró que arancel de 10% que anunció hoy Eu, no afecta exportaciones de México bajo el TMEC.",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard, consideró que arancel de 10% que anunció hoy Eu, no afecta exportaciones de México bajo el T-MEC.",
       "link": "https://www.reforma.com/senala-se-que-no-habra-impacto-por-nuevo-arancel-de-eu/ar3245875",
       "fecha": "23 Jul 2026, 17:38 hrs"
     },
@@ -190,33 +217,6 @@
       "resumen": "Ocupación hotelera durante el Mundial alcanzó apenas entre el 57% y 65%; muy por debajo de las expectativas de 90%, señaló ANCH.",
       "link": "https://www.reforma.com/expectativas-hoteleras-quedan-fuera-de-lugar-en-el-mundial/ar3245796",
       "fecha": "23 Jul 2026, 16:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa Bachoco operación más sostenible en planta de NL",
-      "resumen": "Bachoco inauguró en planta de Salinas Victoria varios proyectos para fortalecer eficiencia de sus procesos y reducir su impacto ambiental.",
-      "link": "https://www.reforma.com/impulsa-bachoco-operacion-mas-sostenible-en-planta-de-nl/ar3245794",
-      "fecha": "23 Jul 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amplían al 17 de agosto suspensión del acuerdo Paramount-WBD",
-      "resumen": "Jueza federal que supervisa las diversas impugnaciones a la operación, prorrogó dos semanas la suspensión de la compra de WBD por Paramount.",
-      "link": "https://www.reforma.com/amplian-al-17-de-agosto-suspension-del-acuerdo-paramount-wbd/ar3245785",
-      "fecha": "23 Jul 2026, 15:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierde Nasdaq más de 2% por caída de acciones tecnológicas",
-      "resumen": "El Nasdaq cerró con una pérdida de más de 2%, ya que los informes de Alphabet y Tesla reavivaron la preocupación por el elevado gasto en IA.",
-      "link": "https://www.reforma.com/pierde-nasdaq-mas-de-2-por-caida-de-acciones-tecnologicas/ar3245731",
-      "fecha": "23 Jul 2026, 14:58 hrs"
     }
   ]
 }
