@@ -1,7 +1,43 @@
 {
-  "actualizado": "24/07/2026 04:16 hrs",
+  "actualizado": "24/07/2026 06:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
+      "resumen": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
+      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
+      "fecha": "23 Jul 2026, 19:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
+      "resumen": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
+      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
+      "fecha": "23 Jul 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
+      "resumen": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
+      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
+      "fecha": "23 Jul 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
+      "resumen": "La Secretaría de Economía aseguró que el nuevo esquema no modifica el trato arancelario para México: 85% de las exportaciones seguirá libre bajo el T-MEC y el gravamen solo sustituye al vigente bajo l…",
+      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
+      "fecha": "23 Jul 2026, 15:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,42 +73,6 @@
       "resumen": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
       "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
       "fecha": "23 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
-      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-      "fecha": "22 Jul 2026, 19:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu cambiará los contratos de sus clientes tras convertirse en banco: esta es la fecha clave",
-      "resumen": "La transformación de Nu en banco traerá nuevos contratos para los usuarios de Cuenta Nu, tarjetas de crédito y otros productos.",
-      "link": "https://expansion.mx/economia/2026/07/22/nu-cambia-contratos-clientes-ahora-que-es-banco",
-      "fecha": "22 Jul 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU apuesta por acuerdos provisionales del T-MEC este año y deja reglas de origen para 2027",
-      "resumen": "El representante comercial de EU delineó una ruta para la revisión del tratado, al reconocer que algunos de los temas más complejos requerirán nuevas negociaciones e incluso la participación del Congr…",
-      "link": "https://expansion.mx/economia/2026/07/22/eu-acuerdos-provisionales-tmec-2026",
-      "fecha": "22 Jul 2026, 11:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-      "fecha": "22 Jul 2026, 10:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Invierten 23 mmdd en rondas de EPN",
+      "resumen": "Las rondas petroleras que buscaban atraer inversión durante el sexenio de Enrique Peña Nieto atrajeron 23 mil millones de dólares.",
+      "link": "https://www.reforma.com/invierten-23-mmdd-en-rondas-de-epn/ar3246066",
+      "fecha": "24 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Bloquean ventas de lotes en Cancún",
+      "resumen": "Bloqueo administrativo impide a propietarios de terrenos en Isla Blanca, Cancún el vender heredar o realizar trámites catastrales.",
+      "link": "https://www.reforma.com/bloquean-ventas-de-lotes-en-cancun/ar3246059",
+      "fecha": "24 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se diversifican por el T-MEC",
+      "resumen": "Exportadoras mexicanas buscan diversificar sus mercados ante la incertidumbre de los aranceles por parte de Estados Unidos y el T-MEC.",
+      "link": "https://www.reforma.com/se-diversifican-por-el-t-mec/ar3246051",
+      "fecha": "24 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Acuerdan EU y México proteger T-MEC de otros países",
       "resumen": "México y Estados Unidos coincidieron en proteger el T-MEC contra países fuera de la región, así como en fortalecer el comercio.",
       "link": "https://www.reforma.com/acuerdan-eu-y-mexico-proteger-t-mec-de-otros-paises/ar3246011",
@@ -190,33 +217,6 @@
       "resumen": "El Secretario de Economía, Marcelo Ebrard, consideró que arancel de 10% que anunció hoy Eu, no afecta exportaciones de México bajo el T-MEC.",
       "link": "https://www.reforma.com/senala-se-que-no-habra-impacto-por-nuevo-arancel-de-eu/ar3245875",
       "fecha": "23 Jul 2026, 17:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra Taylor Farms planta en México por ciclosporiasis",
-      "resumen": "Taylor Farms cerró temporalmente su planta de procesamiento en México debido al brote de ciclosporiasis que afecta a Estados Unidos.",
-      "link": "https://www.reforma.com/cierra-taylor-farms-planta-en-mexico-por-ciclosporiasis/ar3245801",
-      "fecha": "23 Jul 2026, 16:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta Televisa pérdida de 497 mdp en el segundo trimestre",
-      "resumen": "Televisa informó una pérdida neta de 497.4 mdp en el segundo trimestre, frente a la ganancia de 474.5 mdp del año pasado.",
-      "link": "https://www.reforma.com/reporta-televisa-perdida-de-497-mdp-en-el-segundo-trimestre/ar3245800",
-      "fecha": "23 Jul 2026, 16:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Expectativas hoteleras quedan 'fuera de lugar' en el Mundial",
-      "resumen": "Ocupación hotelera durante el Mundial alcanzó apenas entre el 57% y 65%; muy por debajo de las expectativas de 90%, señaló ANCH.",
-      "link": "https://www.reforma.com/expectativas-hoteleras-quedan-fuera-de-lugar-en-el-mundial/ar3245796",
-      "fecha": "23 Jul 2026, 16:05 hrs"
     }
   ]
 }
