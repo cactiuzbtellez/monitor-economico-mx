@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/07/2026 14:19 hrs",
+  "actualizado": "24/07/2026 16:03 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Advierte JPMorgan que 'El Niño' elevará la inflación mundial",
+      "resumen": "Fenómeno de 'El Niño' y precios de energía altos, añadirían hasta 0.3 puntos porcentuales a la inflación de 2027, señaló JPMorgan.",
+      "link": "https://www.reforma.com/advierte-jpmorgan-que-el-nino-elevara-la-inflacion-mundial/ar3246476",
+      "fecha": "24 Jul 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra Nasdaq 0.6% a la baja; aguarda mercado reportes",
+      "resumen": "Nasdaq cierra 0.64% a la baja; inversionistas venden acciones de semiconductores ante temor por el gasto en IA y antes de los reportes.",
+      "link": "https://www.reforma.com/cierra-nasdaq-0-6-a-la-baja-aguarda-mercado-reportes/ar3246431",
+      "fecha": "24 Jul 2026, 14:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acepta Paramount suspender acuerdo con Warner",
+      "resumen": "Paramount acordó suspender su adquisición de Warner Bros., hasta que un juez se pronuncie sobre el recurso presentado contra la operación.",
+      "link": "https://www.reforma.com/acepta-paramount-suspender-acuerdo-con-warner/ar3246419",
+      "fecha": "24 Jul 2026, 14:31 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Respaldan Nvidia y Microsoft modelos de IA de código abierto",
       "resumen": "Nvidia, Microsoft y otros gigantes tecnológicos defendieron públicamente los modelos de inteligencia artificial de código abierto.",
       "link": "https://www.reforma.com/respaldan-nvidia-y-microsoft-modelos-de-ia-de-codigo-abierto/ar3246386",
@@ -189,33 +216,6 @@
       "titulo": "Tarda más tiempo la venta de autos seminuevos",
       "resumen": "La venta de autos seminuevos tarda cada vez más tiempo que en años anteriores, según AMDA y SIM Data Group.",
       "link": "https://www.reforma.com/tarda-mas-tiempo-la-venta-de-autos-seminuevos/ar3246281",
-      "fecha": "24 Jul 2026, 13:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta desocupación a 2.8% y suma dos meses con avances",
-      "resumen": "La Tasa de Desocupación nacional avanzó 0.08 puntos porcentuales a 2.8 por ciento de la Población Económicamente Activa en junio de 2026.",
-      "link": "https://www.reforma.com/aumenta-desocupacion-a-2-8-y-suma-dos-meses-con-avances/ar3246251",
-      "fecha": "24 Jul 2026, 12:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ronda crudo físico Dls. 110 por conflictos en Irán y Ucrania",
-      "resumen": "Precio físico de crudo en Medio Oriente, Europa y África se disparó, por interrupción en el suministro por conflictos en Irán y Ucrania.",
-      "link": "https://www.reforma.com/ronda-crudo-fisico-dls-110-por-conflictos-en-iran-y-ucrania/ar3246212",
-      "fecha": "24 Jul 2026, 10:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firma Canadá TLC con Ecuador",
-      "resumen": "Ecuador y Canadá firmaron un TLC, 99.6% de la oferta exportable del país sudamericano ingresará libre de aranceles al mercado canadiense.",
-      "link": "https://www.reforma.com/firma-canada-tlc-con-ecuador/ar3246209",
       "fecha": "24 Jul 2026, 13:55 hrs"
     }
   ]
