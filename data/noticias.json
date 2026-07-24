@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/07/2026 10:41 hrs",
+  "actualizado": "24/07/2026 12:17 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Pemex pierde dinero donde Exxon y Aramco ganan millones",
+      "resumen": "Mientras las grandes petroleras obtuvieron márgenes de refinación superiores a 20 dólares por barril en 2024 y 2025, Pemex perdió dinero por la baja rentabilidad de sus refinerías.",
+      "link": "https://expansion.mx/empresas/2026/07/24/pemex-pierde-dinero-donde-exxon-y-aramco-ganan-millones",
+      "fecha": "24 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Trabajas en tu día de descanso? Proponen un pago extra equivalente al 50% de la jornada laboral",
       "resumen": "Una iniciativa de ley contempla que los trabajadores vean beneficios en caso de que se les solicite cubrir turnos fuera de su horario laboral.",
       "link": "https://expansion.mx/empresas/2026/07/23/pago-extra-dia-descanso-50-de-la-jornada-laboral",
@@ -136,15 +145,6 @@
       "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
       "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
       "fecha": "23 Jul 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Grupo Gigante confirma que evalúa la adquisición de La Casa de Toño",
-      "resumen": "Grupo Gigante confirmó que analiza la posible adquisición de La Casa de Toño como parte de su estrategia de crecimiento inorgánico, aunque aclaró que todavía no existe un acuerdo definitivo.",
-      "link": "https://expansion.mx/empresas/2026/07/23/la-casa-de-tono-grupo-gigante-analiza-compra",
-      "fecha": "23 Jul 2026, 12:17 hrs"
     },
     {
       "fuente": "Reforma",
