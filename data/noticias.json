@@ -1,7 +1,16 @@
 {
-  "actualizado": "24/07/2026 08:53 hrs",
+  "actualizado": "24/07/2026 10:41 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
+      "resumen": "La industria exportadora pide acelerar IMMEX 4.0 para responder a un entorno de mayor competencia por proyectos manufactureros.",
+      "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
+      "fecha": "24 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -63,15 +72,6 @@
       "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
       "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
       "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
-      "fecha": "23 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La alta rotación laboral aleja a siete de cada 10 trabajadores de comprar una vivienda",
-      "resumen": "El análisis de 68.2 millones de trabajadores muestra que quienes salen de la formalidad acumulan apenas 14,600 pesos en su subcuenta de vivienda, frente a 50,260 de quienes permanecen cotizando.",
-      "link": "https://expansion.mx/economia/2026/07/23/1-cada-4-empleos-dura-dos-meses-frena-tener-casa-propia",
       "fecha": "23 Jul 2026, 05:55 hrs"
     },
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Abre Wall Street sin mucho entusiasmo",
+      "resumen": "La Bolsa de Nueva York abrió sin mucho entusiasmo el viernes, con los inversores vigilando los precios del petróleo, los cuales bajaron.",
+      "link": "https://www.reforma.com/abre-wall-street-sin-mucho-entusiasmo/ar3246174",
+      "fecha": "24 Jul 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae BMV por Televisa y Asur",
+      "resumen": "La BMV descendía presionada por resultados corporativos locales inferiores a las expectativas como los de Televisa y Asur.",
+      "link": "https://www.reforma.com/cae-bmv-por-televisa-y-asur/ar3246170",
+      "fecha": "24 Jul 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dicen que Mundial superó derrama esperada en NL",
+      "resumen": "La Sectur de NL estima que la derrama económica por turismo durante el Mundial en el Estado, el mes pasado, fue 138% mayor a la proyectada.",
+      "link": "https://www.reforma.com/dicen-que-mundial-supero-derrama-esperada-en-nl/ar3246074",
+      "fecha": "24 Jul 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Invierten 23 mmdd en rondas de EPN",
       "resumen": "Las rondas petroleras que buscaban atraer inversión durante el sexenio de Enrique Peña Nieto atrajeron 23 mil millones de dólares.",
       "link": "https://www.reforma.com/invierten-23-mmdd-en-rondas-de-epn/ar3246066",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Da Trump garrotazo... y la libra México",
+      "resumen": "Mientras Jamieson Greer se reunía con Sheinbaum y Ebrard, EU anunciaba nuevos aranceles de al menos 10% a 60 economías, entre ellas México.",
+      "link": "https://www.reforma.com/da-trump-garrotazo-y-la-libra-mexico/ar3246058",
+      "fecha": "24 Jul 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé Nemak sinergias por hasta 40 mdd",
+      "resumen": "Tras la adquisición de GF Casting Solutions, Nemak prevé sinergias por entre 20 y 40 mdd.",
+      "link": "https://www.reforma.com/preve-nemak-sinergias-por-hasta-40-mdd/ar3246047",
+      "fecha": "24 Jul 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fracasan estrategias de Carney con Trump",
+      "resumen": "El Primer Ministro de Canadá prometió una postura combativa frente a las amenazas de Trump, pero se acumulan las concesiones a EU.",
+      "link": "https://www.reforma.com/fracasan-estrategias-de-carney-con-trump/ar3245814",
+      "fecha": "24 Jul 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Bloquean ventas de lotes en Cancún",
       "resumen": "Bloqueo administrativo impide a propietarios de terrenos en Isla Blanca, Cancún el vender heredar o realizar trámites catastrales.",
       "link": "https://www.reforma.com/bloquean-ventas-de-lotes-en-cancun/ar3246059",
       "fecha": "24 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se diversifican por el T-MEC",
-      "resumen": "Exportadoras mexicanas buscan diversificar sus mercados ante la incertidumbre de los aranceles por parte de Estados Unidos y el T-MEC.",
-      "link": "https://www.reforma.com/se-diversifican-por-el-t-mec/ar3246051",
-      "fecha": "24 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acuerdan EU y México proteger T-MEC de otros países",
-      "resumen": "México y Estados Unidos coincidieron en proteger el T-MEC contra países fuera de la región, así como en fortalecer el comercio.",
-      "link": "https://www.reforma.com/acuerdan-eu-y-mexico-proteger-t-mec-de-otros-paises/ar3246011",
-      "fecha": "23 Jul 2026, 20:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pega a usuarios falla en Izzi",
-      "resumen": "Usuarios en redes sociales reportaron sufrir fallas en el servicio de internet de banda ancha ofrecido por Izzi.",
-      "link": "https://www.reforma.com/pega-a-usuarios-falla-en-izzi/ar3245973",
-      "fecha": "23 Jul 2026, 19:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Traban acuerdo en T-MEC reglas de autos y restricciones agro",
-      "resumen": "Diferencias sobre reglas de contenido de autos, restricciones a frutas y verduras, así como quejas laborales detienen acuerdos sobre T-MEC.",
-      "link": "https://www.reforma.com/traban-acuerdo-en-t-mec-reglas-de-autos-y-restricciones-agro/ar3245958",
-      "fecha": "23 Jul 2026, 19:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar en $17.52",
-      "resumen": "El dólar cerró este jueves con una cotización de $17.52; cifra 12.36 centavos mayor a lo registrado el jueves.",
-      "link": "https://www.reforma.com/cierra-dolar-en-17-52/ar3245882",
-      "fecha": "23 Jul 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Señala SE que no habrá impacto por nuevo arancel de EU",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard, consideró que arancel de 10% que anunció hoy Eu, no afecta exportaciones de México bajo el T-MEC.",
-      "link": "https://www.reforma.com/senala-se-que-no-habra-impacto-por-nuevo-arancel-de-eu/ar3245875",
-      "fecha": "23 Jul 2026, 17:38 hrs"
     }
   ]
 }
