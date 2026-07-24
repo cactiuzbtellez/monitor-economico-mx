@@ -1,7 +1,52 @@
 {
-  "actualizado": "23/07/2026 22:13 hrs",
+  "actualizado": "24/07/2026 01:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
+      "resumen": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
+      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
+      "fecha": "23 Jul 2026, 19:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
+      "resumen": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
+      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
+      "fecha": "23 Jul 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
+      "resumen": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
+      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
+      "fecha": "23 Jul 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
+      "resumen": "La Secretaría de Economía aseguró que el nuevo esquema no modifica el trato arancelario para México: 85% de las exportaciones seguirá libre bajo el T-MEC y el gravamen solo sustituye al vigente bajo l…",
+      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
+      "fecha": "23 Jul 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
+      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
+      "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
+      "fecha": "23 Jul 2026, 09:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -17,7 +62,7 @@
       "color": "#C8102E",
       "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
       "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "link": "https://expansion.mx/economia/2026/07/22/mexico-aranceles-textiles-china-produccion-industria-2026",
+      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
       "fecha": "23 Jul 2026, 05:55 hrs"
     },
     {
@@ -31,120 +76,75 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La desaceleración económica llega a emprendimientos y reducen apetito por financiamiento",
-      "resumen": "Compartamos Banco reportó que en el segundo trimestre del año colocó 62,519 millones de pesos, un 1.5% menos que el trimestre anterior; la morosidad también se incrementó a 4.86%.",
-      "link": "https://expansion.mx/economia/2026/07/22/la-desaceleracion-economica-llega-a-emprendimientos-y-reducen-apetito-por-financiamiento",
-      "fecha": "22 Jul 2026, 19:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banorte toma el volante frente a Inbursa en crédito automotriz",
-      "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
-      "link": "https://expansion.mx/economia/2026/07/22/banorte-supera-inbursa-credito-automotriz",
-      "fecha": "22 Jul 2026, 17:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu cambiará los contratos de sus clientes tras convertirse en banco: esta es la fecha clave",
-      "resumen": "La transformación de Nu en banco traerá nuevos contratos para los usuarios de Cuenta Nu, tarjetas de crédito y otros productos.",
-      "link": "https://expansion.mx/economia/2026/07/22/nu-cambia-contratos-clientes-ahora-que-es-banco",
-      "fecha": "22 Jul 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU apuesta por acuerdos provisionales del T-MEC este año y deja reglas de origen para 2027",
-      "resumen": "El representante comercial de EU delineó una ruta para la revisión del tratado, al reconocer que algunos de los temas más complejos requerirán nuevas negociaciones e incluso la participación del Congr…",
-      "link": "https://expansion.mx/economia/2026/07/22/eu-acuerdos-provisionales-tmec-2026",
-      "fecha": "22 Jul 2026, 11:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/22/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-      "fecha": "22 Jul 2026, 10:36 hrs"
+      "titulo": "¿Trabajas en tu día de descanso? Proponen un pago extra equivalente al 50% de la jornada laboral",
+      "resumen": "Una iniciativa de ley contempla que los trabajadores vean beneficios en caso de que se les solicite cubrir turnos fuera de su horario laboral.",
+      "link": "https://expansion.mx/empresas/2026/07/23/pago-extra-dia-descanso-50-de-la-jornada-laboral",
+      "fecha": "23 Jul 2026, 20:09 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Porsche planea recortar otros 5,000 puestos de trabajo",
-      "resumen": "La automotriz alemana analiza nuevos ajustes ante la crisis que golpea a dicho sector.",
-      "link": "https://expansion.mx/empresas/2026/07/23/porsche-planea-recortar-5000-puestos-trabajo",
-      "fecha": "23 Jul 2026, 06:08 hrs"
+      "titulo": "Las ganancias de José Cuervo caen 29% por el tipo de cambio y un menor consumo de tequila",
+      "resumen": "El fortalecimiento del peso, la transición de distribuidores en EU y la menor demanda de tequila presionaron los resultados trimestrales de José Cuervo.",
+      "link": "https://expansion.mx/empresas/2026/07/23/jose-cuervo-ganancias-caen-tipo-cambio-menor-consumo-tequila",
+      "fecha": "23 Jul 2026, 18:42 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gruma compensa la debilidad en EU con el crecimiento de Asia, Europa y Centroamérica",
-      "resumen": "La baja confianza del consumidor estadounidense redujo el volumen de ventas de Gruma. Sin embargo, el crecimiento en Asia, Europa y Centroamérica compensó parte del impacto y elevó los ingresos consol…",
-      "link": "https://expansion.mx/empresas/2026/07/22/gruma-resultados-eu-asia-centroamerica-segundo-trimestre",
-      "fecha": "22 Jul 2026, 19:23 hrs"
+      "titulo": "Bimbo aumenta ventas y rentabilidad pese al consumo débil y fortalece su generación de efectivo",
+      "resumen": "La panificadora aumentó sus ventas 4.5%, mejoró su rentabilidad y generó 12,000 millones de pesos en efectivo gracias a mayores precios y un mayor volumen de ventas.",
+      "link": "https://expansion.mx/empresas/2026/07/23/bimbo-resultados-segundo-trimestre-crecimiento",
+      "fecha": "23 Jul 2026, 17:44 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de la mayor cadena hotelera de México? Comenzó su imperio empresarial a los 21 años",
-      "resumen": "Más de cinco décadas después de abrir su primer hotel, un grupo hotelero se mantiene entre los más grandes de México.",
-      "link": "https://expansion.mx/empresas/2026/07/22/quien-es-el-dueno-de-la-mayor-cadena-hotelera-de-mexico",
-      "fecha": "22 Jul 2026, 18:19 hrs"
+      "titulo": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’",
+      "resumen": "Los hoteles no alcanzaron la ocupación prevista durante el Mundial 2026, aunque el incremento en las tarifas compensó parte de la menor demanda de huéspedes.",
+      "link": "https://expansion.mx/empresas/2026/07/23/mundial-2026-hoteles-ingresos-ocupacion-promocion-turistica",
+      "fecha": "23 Jul 2026, 17:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bait alcanza la rentabilidad para Walmart con ingresos de 3,800 mdp, pese a un menor ritmo de suscripciones",
-      "resumen": "El OMV de Walmart alcanzó niveles de rentabilidad comparables con otros negocios de la compañía, pero redujo el ritmo de incorporación de usuarios tras la entrada del registro telefónico.",
-      "link": "https://expansion.mx/empresas/2026/07/22/bait-tiene-menos-usuarios-pero-genera-rentabilidad-walmart",
-      "fecha": "22 Jul 2026, 17:29 hrs"
+      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/23/carlos-slim-miniso-cuantos-millones-ha-generado",
+      "fecha": "23 Jul 2026, 16:12 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La política migratoria en EU golpea a Chedraui y sus ganancias caen 11.5% en el segundo trimestre",
-      "resumen": "La minorista resintió una menor afluencia de clientes en sus supermercados para consumidores hispanos en Estados Unidos, donde la presión migratoria y el tipo de cambio debilitaron sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/07/22/chedraui-politica-migratoria-resultados-segundo-trimestre",
-      "fecha": "22 Jul 2026, 17:21 hrs"
+      "titulo": "Bebidas sin azúcar ganan terreno, pero no evitan retroceso en las ganancias de Arca Continental",
+      "resumen": "La estrategia para expandir Coca-Cola Zero y aprovechar el Mundial fortaleció las marcas, aunque la utilidad neta retrocedió 9.4% durante el trimestre.",
+      "link": "https://expansion.mx/empresas/2026/07/23/coca-cola-zero-crece-arca-continental-aun-registra-perdidas",
+      "fecha": "23 Jul 2026, 15:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El Mundial no impulsó el consumo como esperaba Walmart y la minorista recorta su pronóstico para 2026",
-      "resumen": "El Mundial impulsó ventas de pantallas, ropa y mercancía estacional, pero no logró reactivar el consumo de forma generalizada. Ante un primer semestre más débil de lo previsto, la empresa redujo su ex…",
-      "link": "https://expansion.mx/empresas/2026/07/22/walmart-menor-trafico-resultados-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 17:04 hrs"
+      "titulo": "Así nació La Casa de Toño: el restaurante que convirtió un pozole casero en una cadena millonaria",
+      "resumen": "La Casa de Toño pasó de atender a vecinos en una vivienda familiar a convertirse en un referente de la comida mexicana. Su éxito ahora la coloca en la mira de Grupo Gigante.",
+      "link": "https://expansion.mx/empresas/2026/07/23/historia-casa-de-tono-como-empezo",
+      "fecha": "23 Jul 2026, 13:03 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La Comer vende más pero su estrategia de expansión mantiene bajo presión sus márgenes y ganancias",
-      "resumen": "Las ventas de La Comer crecieron 5.7% en el segundo trimestre, pero los gastos de expansión, salarios y publicidad presionaron sus ganancias.",
-      "link": "https://expansion.mx/empresas/2026/07/22/la-comer-ventas-crecen-utilidad-cae-segundo-trimestre-2026",
-      "fecha": "22 Jul 2026, 15:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué sedán barato llega más lejos? Comparamos Onix, MG5 y Alsvin por rendimiento de gasolina",
-      "resumen": "Tres de los sedanes más accesibles del mercado fueron comparados para conocer cuál puede recorrer más kilómetros antes de necesitar otra carga de gasolina.",
-      "link": "https://expansion.mx/empresas/2026/07/22/onix-mg5-alsvin-que-sedan-llega-mas-lejos-tanque-gasolina",
-      "fecha": "22 Jul 2026, 15:30 hrs"
+      "titulo": "Grupo Gigante confirma que evalúa la adquisición de La Casa de Toño",
+      "resumen": "Grupo Gigante confirmó que analiza la posible adquisición de La Casa de Toño como parte de su estrategia de crecimiento inorgánico, aunque aclaró que todavía no existe un acuerdo definitivo.",
+      "link": "https://expansion.mx/empresas/2026/07/23/la-casa-de-tono-grupo-gigante-analiza-compra",
+      "fecha": "23 Jul 2026, 12:17 hrs"
     },
     {
       "fuente": "Reforma",
