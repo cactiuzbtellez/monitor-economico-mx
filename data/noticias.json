@@ -1,25 +1,7 @@
 {
-  "actualizado": "24/07/2026 22:10 hrs",
+  "actualizado": "25/07/2026 01:16 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
-      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
-      "fecha": "24 Jul 2026, 15:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
-      "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
-      "fecha": "24 Jul 2026, 14:56 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
-      "resumen": "El regulador pondrá a consulta los lineamientos de los derechos de las audiencias, una discusión que enfrentó a concesionarios y que ahora regresa en un punto en donde el gobierno busca combatir la de…",
-      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
-      "fecha": "24 Jul 2026, 16:46 hrs"
+      "titulo": "La inflación baja a 3.10% en la primera quincena de julio",
+      "resumen": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
+      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
+      "fecha": "23 Jul 2026, 07:31 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
-      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
-      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
-      "fecha": "24 Jul 2026, 16:40 hrs"
+      "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
+      "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
+      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
+      "fecha": "23 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +127,24 @@
       "resumen": "El fortalecimiento del peso, la transición de distribuidores en EU y la menor demanda de tequila presionaron los resultados trimestrales de José Cuervo.",
       "link": "https://expansion.mx/empresas/2026/07/23/jose-cuervo-ganancias-caen-tipo-cambio-menor-consumo-tequila",
       "fecha": "23 Jul 2026, 18:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bimbo aumenta ventas y rentabilidad pese al consumo débil y fortalece su generación de efectivo",
+      "resumen": "La panificadora aumentó sus ventas 4.5%, mejoró su rentabilidad y generó 12,000 millones de pesos en efectivo gracias a mayores precios y un mayor volumen de ventas.",
+      "link": "https://expansion.mx/empresas/2026/07/23/bimbo-resultados-segundo-trimestre-crecimiento",
+      "fecha": "23 Jul 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’",
+      "resumen": "Los hoteles no alcanzaron la ocupación prevista durante el Mundial 2026, aunque el incremento en las tarifas compensó parte de la menor demanda de huéspedes.",
+      "link": "https://expansion.mx/empresas/2026/07/23/mundial-2026-hoteles-ingresos-ocupacion-promocion-turistica",
+      "fecha": "23 Jul 2026, 17:21 hrs"
     },
     {
       "fuente": "Reforma",
