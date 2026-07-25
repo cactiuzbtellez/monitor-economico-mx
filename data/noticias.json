@@ -1,5 +1,5 @@
 {
-  "actualizado": "25/07/2026 13:21 hrs",
+  "actualizado": "25/07/2026 14:52 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
+      "resumen": "Con respaldo de Brick & Mortar Ventures e Ironspring Ventures, la fintech Mango busca convertir los datos operativos de constructoras en historial crediticio para impulsar el financiamiento del sector…",
+      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
+      "fecha": "25 Jul 2026, 12:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
       "resumen": "La reapertura de la frontera permitirá recuperar las exportaciones de ganado vivo hacia Estados Unidos, luego de dos periodos de suspensión que redujeron los envíos mexicanos.",
       "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
@@ -136,15 +145,6 @@
       "resumen": "Mucho antes de convertirse en un ícono en México, este automóvil atravesó una historia marcada por cambios inesperados que también explican el origen del nombre con el que millones lo conocen.",
       "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
       "fecha": "24 Jul 2026, 10:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Toks a Shake Shack: todos los restaurantes de Grupo Gigante, que ahora va por La Casa de Toño",
-      "resumen": "Tras vender sus supermercados a Soriana en 2007, la compañía transformó su modelo de negocio y construyó un portafolio restaurantero con marcas nacionales e internacionales.",
-      "link": "https://expansion.mx/empresas/2026/07/24/grupo-gigante-imperio-restaurantes-la-casa-tono",
-      "fecha": "24 Jul 2026, 10:33 hrs"
     },
     {
       "fuente": "Reforma",
