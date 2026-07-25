@@ -1,7 +1,25 @@
 {
-  "actualizado": "24/07/2026 16:03 hrs",
+  "actualizado": "24/07/2026 18:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
+      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
+      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
+      "fecha": "24 Jul 2026, 15:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
+      "fecha": "24 Jul 2026, 14:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El banco que dirige Marcos Ramírez alcanzó 76,067 millones de pesos en financiamiento automotriz en mayo, lo que le permitió desplazar a Inbursa del segundo lugar gracias a sus alianzas con BYD, Hyund…",
       "link": "https://expansion.mx/economia/2026/07/23/banorte-desbanca-inbursa-carlos-slim-creditos-automotrices",
       "fecha": "23 Jul 2026, 09:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inflación baja a 3.10% en la primera quincena de julio",
-      "resumen": "La inflación anual desaceleró desde el 3.37% registrado en junio, por la caída en los precios de frutas y verduras. Sin embargo, los servicios siguen encareciéndose por encima del promedio general.",
-      "link": "https://expansion.mx/economia/2026/07/23/inflacion-baja-310-primera-quincena-julio",
-      "fecha": "23 Jul 2026, 07:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México reduce 21.4% las importaciones de textiles chinos, pero la producción nacional cae hasta 7%",
-      "resumen": "Las compras al país asiático disminuyeron en 409 millones de dólares entre enero y mayo, pero la industria sigue sin sustituir esas importaciones por la debilidad económica y problemas estructurales.",
-      "link": "https://expansion.mx/economia/2026/07/23/mexico-aranceles-textiles-china-produccion-industria-2026",
-      "fecha": "23 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,60 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Piden seguridad y supervisión independiente en fracking",
+      "resumen": "Comité Científico y Tecnológico para la Evaluación del Fracking pidió implementar protocolos de supervisión en la extracción de gas natural.",
+      "link": "https://www.reforma.com/piden-seguridad-y-supervision-independiente-en-fracking/ar3246550",
+      "fecha": "24 Jul 2026, 17:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar la semana en $17.48",
+      "resumen": "El dólar cerró la semana con una cotización de $17.48, lo que presento una caída acumulada de 4.56 centavos.",
+      "link": "https://www.reforma.com/cierra-dolar-la-semana-en-17-48/ar3246530",
+      "fecha": "24 Jul 2026, 17:23 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Inicia el lunes consulta sobre derechos de audiencias",
+      "resumen": "La CRT iniciará el próximo lunes la consulta pública sobre el proyecto de Lineamientos para la Protección de los Derechos de las Audiencias.",
+      "link": "https://www.reforma.com/inicia-el-lunes-consulta-sobre-derechos-de-audiencias/ar3246518",
+      "fecha": "24 Jul 2026, 16:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Levantará EU prohibición a ganado mexicano, reporta WSJ",
+      "resumen": "EU levantará la prohibición de las importaciones de ganado mexicano con la que buscó impedir la entrada del gusano barrenador, dijo el WSJ.",
+      "link": "https://www.reforma.com/levantara-eu-prohibicion-a-ganado-mexicano-reporta-wsj/ar3246513",
+      "fecha": "24 Jul 2026, 16:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Caen futuros del Brent y WTI 3.88% y 3.12%",
+      "resumen": "Los precios futuros del Brent cayeron 3.88 por ciento, a 96.78 dólares, mientras que el WTI bajó 3.12%, hasta 89.31 dólares.",
+      "link": "https://www.reforma.com/caen-futuros-del-brent-y-wti-3-88-y-3-12/ar3246498",
+      "fecha": "24 Jul 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde Viva 59 mdd en trimestre, pega costo de combustible",
+      "resumen": "Grupo Viva Aerobus reportó una pérdida neta de 59 millones de dólares en el segundo trimestre, mientras que su EBITDAR bajó 22%.",
+      "link": "https://www.reforma.com/pierde-viva-59-mdd-en-trimestre-pega-costo-de-combustible/ar3246497",
+      "fecha": "24 Jul 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Advierte JPMorgan que 'El Niño' elevará la inflación mundial",
       "resumen": "Fenómeno de 'El Niño' y precios de energía altos, añadirían hasta 0.3 puntos porcentuales a la inflación de 2027, señaló JPMorgan.",
       "link": "https://www.reforma.com/advierte-jpmorgan-que-el-nino-elevara-la-inflacion-mundial/ar3246476",
@@ -163,60 +217,6 @@
       "resumen": "Nasdaq cierra 0.64% a la baja; inversionistas venden acciones de semiconductores ante temor por el gasto en IA y antes de los reportes.",
       "link": "https://www.reforma.com/cierra-nasdaq-0-6-a-la-baja-aguarda-mercado-reportes/ar3246431",
       "fecha": "24 Jul 2026, 14:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acepta Paramount suspender acuerdo con Warner",
-      "resumen": "Paramount acordó suspender su adquisición de Warner Bros., hasta que un juez se pronuncie sobre el recurso presentado contra la operación.",
-      "link": "https://www.reforma.com/acepta-paramount-suspender-acuerdo-con-warner/ar3246419",
-      "fecha": "24 Jul 2026, 14:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Respaldan Nvidia y Microsoft modelos de IA de código abierto",
-      "resumen": "Nvidia, Microsoft y otros gigantes tecnológicos defendieron públicamente los modelos de inteligencia artificial de código abierto.",
-      "link": "https://www.reforma.com/respaldan-nvidia-y-microsoft-modelos-de-ia-de-codigo-abierto/ar3246386",
-      "fecha": "24 Jul 2026, 14:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impugnan pymes de EU nuevos aranceles de Trump",
-      "resumen": "Dos pequeñas empresas de EU impugnaron los nuevos aranceles de Trump, alegando que excedía la autoridad del mandatario.",
-      "link": "https://www.reforma.com/impugnan-pymes-de-eu-nuevos-aranceles-de-trump/ar3246384",
-      "fecha": "24 Jul 2026, 13:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Libra México, otra vez, bala de aranceles por T-MEC",
-      "resumen": "Los aranceles de 10 % ordenados por EU nuevamente dejan a México y a Canadá en una posición relativamente favorable, destacó BBVA.",
-      "link": "https://www.reforma.com/libra-mexico-otra-vez-bala-de-aranceles-por-t-mec/ar3246360",
-      "fecha": "24 Jul 2026, 13:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece 1.19% valor producción en constructoras",
-      "resumen": "En los primeros cinco meses de 2026, el valor de la producción de las empresas constructoras subió 1.19 por ciento anual.",
-      "link": "https://www.reforma.com/crece-1-19-valor-produccion-en-constructoras/ar3246326",
-      "fecha": "24 Jul 2026, 13:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tarda más tiempo la venta de autos seminuevos",
-      "resumen": "La venta de autos seminuevos tarda cada vez más tiempo que en años anteriores, según AMDA y SIM Data Group.",
-      "link": "https://www.reforma.com/tarda-mas-tiempo-la-venta-de-autos-seminuevos/ar3246281",
-      "fecha": "24 Jul 2026, 13:55 hrs"
     }
   ]
 }
