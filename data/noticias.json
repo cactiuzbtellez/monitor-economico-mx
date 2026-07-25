@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/07/2026 18:02 hrs",
+  "actualizado": "24/07/2026 22:10 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
+      "resumen": "El regulador pondrá a consulta los lineamientos de los derechos de las audiencias, una discusión que enfrentó a concesionarios y que ahora regresa en un punto en donde el gobierno busca combatir la de…",
+      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
+      "fecha": "24 Jul 2026, 16:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
+      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
+      "fecha": "24 Jul 2026, 16:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
       "resumen": "Mucho antes de convertirse en un ícono en México, este automóvil atravesó una historia marcada por cambios inesperados que también explican el origen del nombre con el que millones lo conocen.",
       "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
@@ -129,22 +147,13 @@
       "fecha": "23 Jul 2026, 18:42 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bimbo aumenta ventas y rentabilidad pese al consumo débil y fortalece su generación de efectivo",
-      "resumen": "La panificadora aumentó sus ventas 4.5%, mejoró su rentabilidad y generó 12,000 millones de pesos en efectivo gracias a mayores precios y un mayor volumen de ventas.",
-      "link": "https://expansion.mx/empresas/2026/07/23/bimbo-resultados-segundo-trimestre-crecimiento",
-      "fecha": "23 Jul 2026, 17:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hoteleros reconocen que el Mundial 2026 no fue lo que esperaban; ahora confían en un impacto de ‘largo plazo’",
-      "resumen": "Los hoteles no alcanzaron la ocupación prevista durante el Mundial 2026, aunque el incremento en las tarifas compensó parte de la menor demanda de huéspedes.",
-      "link": "https://expansion.mx/empresas/2026/07/23/mundial-2026-hoteles-ingresos-ocupacion-promocion-turistica",
-      "fecha": "23 Jul 2026, 17:21 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Preparan estrategia contra el sargazo",
+      "resumen": "Sectur señaló que próximamente se presentará una estrategia para enfrentar el sargazo ante su inminente llegada a las costa de Quintana Roo.",
+      "link": "https://www.reforma.com/preparan-estrategia-contra-el-sargazo/ar3246590",
+      "fecha": "24 Jul 2026, 19:10 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,9 +186,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Levantará EU prohibición a ganado mexicano, reporta WSJ",
-      "resumen": "EU levantará la prohibición de las importaciones de ganado mexicano con la que buscó impedir la entrada del gusano barrenador, dijo el WSJ.",
-      "link": "https://www.reforma.com/levantara-eu-prohibicion-a-ganado-mexicano-reporta-wsj/ar3246513",
+      "titulo": "Reabrirá EU su frontera a ganado mexicano el 24 de agosto",
+      "resumen": "A partir del 24 de agosto, Estados Unidos reabrirá la frontera para el paso de ganado mexicano, tras más de año y medio de restricción.",
+      "link": "https://www.reforma.com/reabrira-eu-su-frontera-a-ganado-mexicano-el-24-de-agosto/ar3246513",
       "fecha": "24 Jul 2026, 16:47 hrs"
     },
     {
@@ -208,15 +217,6 @@
       "resumen": "Fenómeno de 'El Niño' y precios de energía altos, añadirían hasta 0.3 puntos porcentuales a la inflación de 2027, señaló JPMorgan.",
       "link": "https://www.reforma.com/advierte-jpmorgan-que-el-nino-elevara-la-inflacion-mundial/ar3246476",
       "fecha": "24 Jul 2026, 15:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra Nasdaq 0.6% a la baja; aguarda mercado reportes",
-      "resumen": "Nasdaq cierra 0.64% a la baja; inversionistas venden acciones de semiconductores ante temor por el gasto en IA y antes de los reportes.",
-      "link": "https://www.reforma.com/cierra-nasdaq-0-6-a-la-baja-aguarda-mercado-reportes/ar3246431",
-      "fecha": "24 Jul 2026, 14:43 hrs"
     }
   ]
 }
