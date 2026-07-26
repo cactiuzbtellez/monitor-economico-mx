@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/07/2026 09:04 hrs",
+  "actualizado": "26/07/2026 11:00 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
+      "resumen": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y…",
+      "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
+      "fecha": "25 Jul 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
       "resumen": "Con respaldo de Brick & Mortar Ventures e Ironspring Ventures, la fintech Mango busca convertir los datos operativos de constructoras en historial crediticio para impulsar el financiamiento del sector…",
       "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
@@ -136,15 +145,6 @@
       "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
       "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
       "fecha": "24 Jul 2026, 16:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Vocho 'nació' antes que Volkswagen: la historia del auto que revolucionó la industria automotriz",
-      "resumen": "Mucho antes de convertirse en un ícono en México, este automóvil atravesó una historia marcada por cambios inesperados que también explican el origen del nombre con el que millones lo conocen.",
-      "link": "https://expansion.mx/empresas/2026/07/24/vocho-nacio-antes-volkswagen-historia",
-      "fecha": "24 Jul 2026, 10:52 hrs"
     },
     {
       "fuente": "Reforma",
