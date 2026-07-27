@@ -1,7 +1,16 @@
 {
-  "actualizado": "27/07/2026 14:22 hrs",
+  "actualizado": "27/07/2026 16:06 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de servicios pone en duda el camino de Banxico hacia el 3%",
+      "resumen": "El subgobernador de Banco de México, Gabriel Cuadra, dijo que la inflación de servicios se mantuvo alrededor de 5% durante casi dos años y su descenso continúa siendo lento y gradual.",
+      "link": "https://expansion.mx/economia/2026/07/27/inflacion-servicios-retrasa-meta-banxico",
+      "fecha": "27 Jul 2026, 13:16 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
-      "resumen": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
-      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
-      "fecha": "23 Jul 2026, 19:20 hrs"
+      "titulo": "Disney encarga a Juan Ponce su apuesta por el contenido mexicano",
+      "resumen": "En su nuevo rol, Ponce será responsable de liderar el desarrollo, producción y gestión de contenido original en México para Disney+.",
+      "link": "https://expansion.mx/empresas/2026/07/27/disney-juan-ponce-contenido-original-mexico",
+      "fecha": "27 Jul 2026, 13:33 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,22 +147,13 @@
       "fecha": "24 Jul 2026, 18:49 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "BYD traerá a México sus cargadores ultrarrápidos capaces de recargar autos eléctricos en apenas cinco minutos",
-      "resumen": "La automotriz china desplegará una red de 100 cargadores Flash en México para preparar la llegada de vehículos capaces de recuperar del 10 al 70% de batería en apenas cinco minutos.",
-      "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
-      "fecha": "24 Jul 2026, 18:20 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide EU a México arancel similar al acero y aluminio chino",
-      "resumen": "EU pidió a México imponer aranceles similares a los aplicados a China por el acero y el aluminio, según fuentes citadas por IndexBox.",
-      "link": "https://www.reforma.com/pide-eu-a-mexico-arancel-similar-al-acero-y-aluminio-chino/ar3247432",
-      "fecha": "27 Jul 2026, 09:14 hrs"
+      "titulo": "Piden revisar normativas sobre viviendas turísticas",
+      "resumen": "Amvitur solicitó al Poder Judicial revisar las contradicciones normativas derivadas de la actual regulación de viviendas turísticas.",
+      "link": "https://www.reforma.com/piden-revisar-normativas-sobre-viviendas-turisticas/ar3247691",
+      "fecha": "27 Jul 2026, 15:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +168,55 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan 24% exportaciones en el primer semestre",
-      "resumen": "El valor de las exportaciones del País ascendió a 395 mil 98 millones de dólares en los primeros seis meses de 2026, un máximo histórico.",
-      "link": "https://www.reforma.com/aumentan-24-exportaciones-en-el-primer-semestre/ar3247503",
-      "fecha": "27 Jul 2026, 11:34 hrs"
+      "titulo": "Recomiendan no financiar autos a más de 70 meses",
+      "resumen": "Adquirir un auto a plazos mayores de 70 meses derivaría en riesgos financieros importantes para el comprador, advierten especialistas.",
+      "link": "https://www.reforma.com/recomiendan-no-financiar-autos-a-mas-de-70-meses/ar3247663",
+      "fecha": "27 Jul 2026, 16:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recibe Latinoamérica sólo 6% de financiamiento climático",
-      "resumen": "La región de Latinoamérica recibe apenas el 6 por ciento del financiamiento climático global, destacó WTW, broker de seguros.",
-      "link": "https://www.reforma.com/recibe-latinoamerica-solo-6-de-financiamiento-climatico/ar3247597",
-      "fecha": "27 Jul 2026, 14:09 hrs"
+      "titulo": "Busca vender delfines parque acuático en bancarrota",
+      "resumen": "Asesores de operadora mexicana de parques acuáticos The Dolphin Company piden autorización para vender parques y los animales que albergan.",
+      "link": "https://www.reforma.com/busca-vender-delfines-parque-acuatico-en-bancarrota/ar3247656",
+      "fecha": "27 Jul 2026, 15:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con baja de 8.7%",
-      "resumen": "Los futuros del crudo Brent se desplomaron 8.7%, a 88.36 dólares, mientras que el West Texas Intermediate bajó 7.5%, a 82.61 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-baja-de-8-7/ar3247576",
-      "fecha": "27 Jul 2026, 12:48 hrs"
+      "titulo": "Pide EU a México arancel similar al acero y aluminio chino",
+      "resumen": "EU pidió a México imponer aranceles similares a los aplicados a China por el acero y el aluminio, según fuentes citadas por IndexBox.",
+      "link": "https://www.reforma.com/pide-eu-a-mexico-arancel-similar-al-acero-y-aluminio-chino/ar3247432",
+      "fecha": "27 Jul 2026, 09:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben Tyson y JBS por reapertura de EU a ganado mexicano",
-      "resumen": "Las acciones de Tyson Foods y JBS se dispararon después de que Estados Unidos anunciara que reanudaría los envíos de ganado desde México.",
-      "link": "https://www.reforma.com/suben-tyson-y-jbs-por-reapertura-de-eu-a-ganado-mexicano/ar3247547",
-      "fecha": "27 Jul 2026, 11:58 hrs"
+      "titulo": "Cierra Apple como la empresa más valiosa del mundo",
+      "resumen": "Apple cerró como la empresa más valiosa del mundo, superando por primera vez desde abril de 2025.",
+      "link": "https://www.reforma.com/cierra-apple-como-la-empresa-mas-valiosa-del-mundo/ar3247697",
+      "fecha": "27 Jul 2026, 15:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es NL el número 1 en empleo maquilador",
-      "resumen": "Tras liderar Chihuahua históricamente como el estado con más empleos por parte de las empresas con Programa IMMEX, NL ya lo superó.",
-      "link": "https://www.reforma.com/es-nl-el-numero-1-en-empleo-maquilador/ar3247255",
-      "fecha": "27 Jul 2026, 06:46 hrs"
+      "titulo": "Pierde SpaceX 1,200 mdd en valor de mercado",
+      "resumen": "Tras caer por decimotercera sesión de las últimas 16, SpaceX ha perdido ahora el equivalente a una Tesla completa en valor de mercado.",
+      "link": "https://www.reforma.com/pierde-spacex-1-200-mdd-en-valor-de-mercado/ar3247688",
+      "fecha": "27 Jul 2026, 15:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan ampliar a 24 horas la aduana de Nuevo Laredo",
-      "resumen": "Aduanas de EU y México y miembros del Comce Noreste analizan posibilidad de ampliar a 24 horas operación del Puente del Comercio Mundial.",
-      "link": "https://www.reforma.com/analizan-ampliar-a-24-horas-la-aduana-de-nuevo-laredo/ar3247257",
-      "fecha": "27 Jul 2026, 06:46 hrs"
+      "titulo": "Tienen mercados de EU cierre mixto",
+      "resumen": "El Dow Jones ganó un 0.49%, el Nasdaq retrocedió un 0.16%, mientras que el índice amplio S&amp;P 500 prácticamente quedo estable.",
+      "link": "https://www.reforma.com/tienen-mercados-de-eu-cierre-mixto/ar3247644",
+      "fecha": "27 Jul 2026, 14:55 hrs"
     }
   ]
 }
