@@ -1,7 +1,34 @@
 {
-  "actualizado": "27/07/2026 12:25 hrs",
+  "actualizado": "27/07/2026 14:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México rompe otro récord en exportaciones; ventas al exterior superan 72,500 mdd en junio",
+      "resumen": "El mayor dinamismo de las ventas al exterior permitió que México ampliara su superávit comercial a 4,090 millones de dólares en junio y a 9,857 millones en el primer semestre.",
+      "link": "https://expansion.mx/economia/2026/07/27/exportaciones-mexico-record-junio-2026",
+      "fecha": "27 Jul 2026, 11:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
+      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
+      "link": "https://expansion.mx/economia/2026/07/27/solo2-cada-100-mexicanos-suben-clase-alta",
+      "fecha": "27 Jul 2026, 09:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
+      "fecha": "27 Jul 2026, 08:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -33,24 +60,6 @@
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
-      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
-      "fecha": "24 Jul 2026, 15:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
-      "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
-      "fecha": "24 Jul 2026, 14:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
       "titulo": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
       "resumen": "La industria exportadora pide acelerar IMMEX 4.0 para responder a un entorno de mayor competencia por proyectos manufactureros.",
       "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
-      "resumen": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
-      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
-      "fecha": "23 Jul 2026, 17:53 hrs"
+      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
+      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
+      "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
+      "fecha": "27 Jul 2026, 09:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "24 Jul 2026, 18:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
-      "resumen": "El regulador pondrá a consulta los lineamientos de los derechos de las audiencias, una discusión que enfrentó a concesionarios y que ahora regresa en un punto en donde el gobierno busca combatir la de…",
-      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
-      "fecha": "24 Jul 2026, 16:46 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es NL el número 1 en empleo maquilador",
-      "resumen": "Tras liderar Chihuahua históricamente como el estado con más empleos por parte de las empresas con Programa IMMEX, NL ya lo superó.",
-      "link": "https://www.reforma.com/es-nl-el-numero-1-en-empleo-maquilador/ar3247255",
-      "fecha": "27 Jul 2026, 06:46 hrs"
+      "titulo": "Recibe Latinoamérica sólo 6% de financiamiento climático",
+      "resumen": "La región de Latinoamérica recibe apenas el 6 por ciento del financiamiento climático global, destacó WTW, broker de seguros.",
+      "link": "https://www.reforma.com/recibe-latinoamerica-solo-6-de-financiamiento-climatico/ar3247597",
+      "fecha": "27 Jul 2026, 14:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo Brent con baja de 8.7%",
+      "resumen": "Los futuros del crudo Brent se desplomaron 8.7%, a 88.36 dólares, mientras que el West Texas Intermediate bajó 7.5%, a 82.61 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-baja-de-8-7/ar3247576",
+      "fecha": "27 Jul 2026, 12:48 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,18 +204,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen precios del crudo 7% luego de tregua entre EU e Irán",
-      "resumen": "Los precios del petróleo se hundían un 7%, a mínimo de una semana, después de que EU e Irán suspendieron sus ataques el fin de semana.",
-      "link": "https://www.reforma.com/caen-precios-del-crudo-7-luego-de-tregua-entre-eu-e-iran/ar3247403",
-      "fecha": "27 Jul 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan de expansión de IED china en AL",
-      "resumen": "Aunque EU sigue siendo el principal emisor IED en México y en América Latina, el avance de China se ha acelerado a partir del 2019.",
-      "link": "https://www.reforma.com/alertan-de-expansion-de-ied-china-en-al/ar3247310",
+      "titulo": "Es NL el número 1 en empleo maquilador",
+      "resumen": "Tras liderar Chihuahua históricamente como el estado con más empleos por parte de las empresas con Programa IMMEX, NL ya lo superó.",
+      "link": "https://www.reforma.com/es-nl-el-numero-1-en-empleo-maquilador/ar3247255",
       "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
