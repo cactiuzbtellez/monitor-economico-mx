@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/07/2026 05:20 hrs",
+  "actualizado": "27/07/2026 08:32 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
+      "resumen": "Aunque a nivel nacional más de ocho de cada 10 estaciones respetan los precios objetivo de gasolina y diésel, la falta de terminales y el mayor costo del transporte mantienen rezagados a estados aleja…",
+      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
+      "fecha": "27 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
       "resumen": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y…",
       "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
@@ -138,85 +147,76 @@
       "fecha": "24 Jul 2026, 16:46 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
-      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
-      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
-      "fecha": "24 Jul 2026, 16:40 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sugieren excluir de T-MEC minerales críticos",
+      "resumen": "La consultora Roland Berger sugirió a México que en las negociaciones anuales del T-MEC se debe excluir el tema de minerales críticos.",
+      "link": "https://www.reforma.com/sugieren-excluir-de-t-mec-minerales-criticos/ar3247224",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estas acciones lo protegerían de la IA",
-      "resumen": "Informe de Goldman Sachs expuso varias temáticas de inversión ajenas a IA en especial empresas enfocadas en experiencias para el consumidor.",
-      "link": "https://www.reforma.com/estas-acciones-lo-protegerian-de-la-ia/ar3246634",
-      "fecha": "25 Jul 2026, 05:01 hrs"
+      "titulo": "Afirma Imco que Trump busca ventaja comercial",
+      "resumen": "Nuevos aranceles de Trump mantienen presión comercial, aunque México conserva baja afectación por las exenciones del T-MEC.",
+      "link": "https://www.reforma.com/afirma-imco-que-trump-busca-ventaja-comercial/ar3247233",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analiza Trump aún aranceles adicionales",
-      "resumen": "Aparte de los aranceles que entraron en vigor ayer, la Administración Trump aún está por aplicar otros en este año.",
-      "link": "https://www.reforma.com/analiza-trump-aun-aranceles-adicionales/ar3246638",
-      "fecha": "25 Jul 2026, 05:01 hrs"
+      "titulo": "Es NL el número 1 en empleo maquilador",
+      "resumen": "Tras liderar Chihuahua históricamente como el estado con más empleos por parte de las empresas con Programa IMMEX, NL ya lo superó.",
+      "link": "https://www.reforma.com/es-nl-el-numero-1-en-empleo-maquilador/ar3247255",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preparan estrategia contra el sargazo",
-      "resumen": "Sectur señaló que próximamente se presentará una estrategia para enfrentar el sargazo ante su inminente llegada a las costa de Quintana Roo.",
-      "link": "https://www.reforma.com/preparan-estrategia-contra-el-sargazo/ar3246590",
-      "fecha": "24 Jul 2026, 19:10 hrs"
+      "titulo": "Quiere México sustituir fertilizantes importados",
+      "resumen": "México se encamina a producir sus propios químicos agrícolas, pues el costo por importar más del 70%",
+      "link": "https://www.reforma.com/quiere-mexico-sustituir-fertilizantes-importados/ar3247259",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden seguridad y supervisión independiente en fracking",
-      "resumen": "Comité Científico y Tecnológico para la Evaluación del Fracking pidió implementar protocolos de supervisión en la extracción de gas natural.",
-      "link": "https://www.reforma.com/piden-seguridad-y-supervision-independiente-en-fracking/ar3246550",
-      "fecha": "24 Jul 2026, 17:52 hrs"
+      "titulo": "Caen precios del crudo 7% luego de tregua entre EU e Irán",
+      "resumen": "Los precios del petróleo se hundían un 7%, a mínimo de una semana, después de que EU e Irán suspendieron sus ataques el fin de semana.",
+      "link": "https://www.reforma.com/caen-precios-del-crudo-7-luego-de-tregua-entre-eu-e-iran/ar3247403",
+      "fecha": "27 Jul 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar la semana en $17.48",
-      "resumen": "El dólar cerró la semana con una cotización de $17.48, lo que presento una caída acumulada de 4.56 centavos.",
-      "link": "https://www.reforma.com/cierra-dolar-la-semana-en-17-48/ar3246530",
-      "fecha": "24 Jul 2026, 17:23 hrs"
+      "titulo": "Analizan ampliar a 24 horas la aduana de Nuevo Laredo",
+      "resumen": "Aduanas de EU y México y miembros del Comce Noreste analizan posibilidad de ampliar a 24 horas operación del Puente del Comercio Mundial.",
+      "link": "https://www.reforma.com/analizan-ampliar-a-24-horas-la-aduana-de-nuevo-laredo/ar3247257",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inicia el lunes consulta sobre derechos de audiencias",
-      "resumen": "La CRT iniciará el próximo lunes la consulta pública sobre el proyecto de Lineamientos para la Protección de los Derechos de las Audiencias.",
-      "link": "https://www.reforma.com/inicia-el-lunes-consulta-sobre-derechos-de-audiencias/ar3246518",
-      "fecha": "24 Jul 2026, 16:56 hrs"
+      "titulo": "Alertan de expansión de IED china en AL",
+      "resumen": "Aunque EU sigue siendo el principal emisor IED en México y en América Latina, el avance de China se ha acelerado a partir del 2019.",
+      "link": "https://www.reforma.com/alertan-de-expansion-de-ied-china-en-al/ar3247310",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reabrirá EU su frontera a ganado mexicano el 24 de agosto",
-      "resumen": "A partir del 24 de agosto, Estados Unidos reabrirá la frontera para el paso de ganado mexicano, tras más de año y medio de restricción.",
-      "link": "https://www.reforma.com/reabrira-eu-su-frontera-a-ganado-mexicano-el-24-de-agosto/ar3246513",
-      "fecha": "24 Jul 2026, 16:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen futuros del Brent y WTI 3.88% y 3.12%",
-      "resumen": "Los precios futuros del Brent cayeron 3.88 por ciento, a 96.78 dólares, mientras que el WTI bajó 3.12%, hasta 89.31 dólares.",
-      "link": "https://www.reforma.com/caen-futuros-del-brent-y-wti-3-88-y-3-12/ar3246498",
-      "fecha": "24 Jul 2026, 16:22 hrs"
+      "titulo": "Solicitan que se defina el precio del maíz",
+      "resumen": "El Sistema de Ordenamiento del maíz llega a la cosecha sin operar plenamente, mientras productores siguen sin certeza de precios y ventas.",
+      "link": "https://www.reforma.com/solicitan-que-se-defina-el-precio-del-maiz/ar3247232",
+      "fecha": "27 Jul 2026, 06:46 hrs"
     }
   ]
 }
