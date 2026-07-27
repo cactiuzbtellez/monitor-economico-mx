@@ -1,7 +1,25 @@
 {
-  "actualizado": "27/07/2026 10:56 hrs",
+  "actualizado": "27/07/2026 12:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
+      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
+      "link": "https://expansion.mx/economia/2026/07/27/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
+      "fecha": "27 Jul 2026, 08:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México y Canadá sostienen a 149,000 exportadores de EU que urgen certeza en el T-MEC",
+      "resumen": "La revisión del tratado ha intensificado el cabildeo del sector privado estadounidense, que busca evitar cambios que reduzcan la certidumbre para el comercio regional.",
+      "link": "https://expansion.mx/economia/2026/07/27/mexico-y-canada-sostienen-empresas-exportadoras-eu-tmec",
+      "fecha": "27 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
-      "resumen": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
-      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
-      "fecha": "23 Jul 2026, 15:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
-      "resumen": "La Secretaría de Economía aseguró que el nuevo esquema no modifica el trato arancelario para México: 85% de las exportaciones seguirá libre bajo el T-MEC y el gravamen solo sustituye al vigente bajo l…",
-      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
-      "fecha": "23 Jul 2026, 15:54 hrs"
+      "titulo": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
+      "resumen": "Aunque a nivel nacional más de ocho de cada 10 estaciones respetan los precios objetivo de gasolina y diésel, la falta de terminales y el mayor costo del transporte mantienen rezagados a estados aleja…",
+      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
+      "fecha": "27 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "24 Jul 2026, 16:46 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
-      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
-      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
-      "fecha": "24 Jul 2026, 16:40 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,10 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren excluir de T-MEC minerales críticos",
-      "resumen": "La consultora Roland Berger sugirió a México que en las negociaciones anuales del T-MEC se debe excluir el tema de minerales críticos.",
-      "link": "https://www.reforma.com/sugieren-excluir-de-t-mec-minerales-criticos/ar3247224",
-      "fecha": "27 Jul 2026, 06:46 hrs"
+      "titulo": "Demanda Coparmex agregar más empresas a cadenas de valor",
+      "resumen": "A partir de la integración económica con Norteamérica es indispensable que más empresas se incorporen a las cadenas globales, dijo Coparmex.",
+      "link": "https://www.reforma.com/demanda-coparmex-agregar-mas-empresas-a-cadenas-de-valor/ar3247530",
+      "fecha": "27 Jul 2026, 11:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumentan 24% exportaciones en el primer semestre",
+      "resumen": "El valor de las exportaciones del País ascendió a 395 mil 98 millones de dólares en los primeros seis meses de 2026, un máximo histórico.",
+      "link": "https://www.reforma.com/aumentan-24-exportaciones-en-el-primer-semestre/ar3247503",
+      "fecha": "27 Jul 2026, 11:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma Imco que Trump  busca ventaja comercial",
-      "resumen": "Nuevos aranceles de Trump mantienen presión comercial, aunque México conserva baja afectación por las exenciones del T-MEC.",
-      "link": "https://www.reforma.com/afirma-imco-que-trump-busca-ventaja-comercial/ar3247233",
-      "fecha": "27 Jul 2026, 06:46 hrs"
+      "titulo": "Suben Tyson y JBS por reapertura de EU a ganado mexicano",
+      "resumen": "Las acciones de Tyson Foods y JBS se dispararon después de que Estados Unidos anunciara que reanudaría los envíos de ganado desde México.",
+      "link": "https://www.reforma.com/suben-tyson-y-jbs-por-reapertura-de-eu-a-ganado-mexicano/ar3247547",
+      "fecha": "27 Jul 2026, 11:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan ampliar a 24 horas la aduana de Nuevo Laredo",
-      "resumen": "Aduanas de EU y México y miembros del Comce Noreste analizan posibilidad de ampliar a 24 horas operación del Puente del Comercio Mundial.",
-      "link": "https://www.reforma.com/analizan-ampliar-a-24-horas-la-aduana-de-nuevo-laredo/ar3247257",
-      "fecha": "27 Jul 2026, 06:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Alertan de expansión de IED china en AL",
       "resumen": "Aunque EU sigue siendo el principal emisor IED en México y en América Latina, el avance de China se ha acelerado a partir del 2019.",
       "link": "https://www.reforma.com/alertan-de-expansion-de-ied-china-en-al/ar3247310",
@@ -213,9 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Solicitan que se defina el precio del maíz",
-      "resumen": "El Sistema de Ordenamiento del maíz llega a la cosecha sin operar plenamente, mientras productores siguen sin certeza de precios y ventas.",
-      "link": "https://www.reforma.com/solicitan-que-se-defina-el-precio-del-maiz/ar3247232",
+      "titulo": "Analizan ampliar a 24 horas la aduana de Nuevo Laredo",
+      "resumen": "Aduanas de EU y México y miembros del Comce Noreste analizan posibilidad de ampliar a 24 horas operación del Puente del Comercio Mundial.",
+      "link": "https://www.reforma.com/analizan-ampliar-a-24-horas-la-aduana-de-nuevo-laredo/ar3247257",
       "fecha": "27 Jul 2026, 06:46 hrs"
     }
   ]
