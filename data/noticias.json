@@ -1,5 +1,5 @@
 {
-  "actualizado": "28/07/2026 09:20 hrs",
+  "actualizado": "28/07/2026 11:26 hrs",
   "total": 24,
   "noticias": [
     {
@@ -177,15 +177,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dispara el nearshoring pagos transfronterizos",
-      "resumen": "El nearshoring y el comercio electrónico están impulsando la demanda de pagos transfronterizos en México.",
-      "link": "https://www.reforma.com/dispara-el-nearshoring-pagos-transfronterizos/ar3247904",
-      "fecha": "28 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Fallan contra México  en arbitraje de Vulcan",
       "resumen": "Centro internacional emitió un fallo final contra México en el proceso de arbitraje iniciado por una filial de Vulcan Materials Company.",
       "link": "https://www.reforma.com/fallan-contra-mexico-en-arbitraje-de-vulcan/ar3247880",
@@ -195,19 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren incentivos para detonar fracking",
-      "resumen": "Especialistas señalan que para avanzar en la explotación de yacimientos no convencionales de gas natural se necesitarán incentivos.",
-      "link": "https://www.reforma.com/sugieren-incentivos-para-detonar-fracking/ar3247894",
-      "fecha": "28 Jul 2026, 05:02 hrs"
+      "titulo": "Cotiza crudo WTI por debajo de 80 dólares",
+      "resumen": "Precios del crudo Brent caen un 3.9%, hasta 84.91 dólares por barril, mientras que el West Texas Intermediate baja un 3.3%, a 79.87 dólares.",
+      "link": "https://www.reforma.com/cotiza-crudo-wti-por-debajo-de-80-dolares/ar3248088",
+      "fecha": "28 Jul 2026, 09:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía crudo pérdidas por esperanzas de acuerdo EU-Irán",
-      "resumen": "Los futuros del crudo Brent bajaban  1.90%, a 86.68 dólares, mientras que el West Texas Intermediate cedía 1.55%, a 81.33 dólares.",
-      "link": "https://www.reforma.com/amplia-crudo-perdidas-por-esperanzas-de-acuerdo-eu-iran/ar3248007",
-      "fecha": "28 Jul 2026, 07:13 hrs"
+      "titulo": "Analiza FIFA inversión externa; estaría hermano de Kushner",
+      "resumen": "FIFA analiza abrirse a inversión extranjera; participaría Thrive Capital de Joshua Kushner, hermano de Jared, yerno del Presidente Trump.",
+      "link": "https://www.reforma.com/analiza-fifa-inversion-externa-estaria-hermano-de-kushner/ar3248103",
+      "fecha": "28 Jul 2026, 10:44 hrs"
     },
     {
       "fuente": "Reforma",
@@ -217,6 +208,15 @@
       "resumen": "La minorista y embotelladora mexicana Femsa informó que su flujo operativo del segundo trimestre aumentó un 12.7% hasta los 33 mil 340 mdp.",
       "link": "https://www.reforma.com/crece-12-7-flujo-operativo-de-femsa/ar3248017",
       "fecha": "28 Jul 2026, 07:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sugiere Altman frenar desarrollo de la IA tras ciberataque",
+      "resumen": "Sam Altman, CEO de OpenAI, reconoció que reciente incidente de ciberseguridad relacionado con sus modelos le provocó una reacción visceral.",
+      "link": "https://www.reforma.com/sugiere-altman-frenar-desarrollo-de-la-ia-tras-ciberataque/ar3248080",
+      "fecha": "28 Jul 2026, 09:52 hrs"
     }
   ]
 }
