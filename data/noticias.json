@@ -1,5 +1,5 @@
 {
-  "actualizado": "28/07/2026 06:53 hrs",
+  "actualizado": "28/07/2026 09:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,73 +78,73 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Sanborns crece en ventas, pero su utilidad cae 6% por mayores gastos operativos",
+      "resumen": "Las inversiones en Oracle y Salesforce, junto con mayores gastos administrativos e incrementos salariales, afectaron las ganancias del grupo, pese al crecimiento en ventas y al avance de su flujo oper…",
+      "link": "https://expansion.mx/empresas/2026/07/27/sanborns-resultados-segundo-trimestre-2026-ventas-utilidad",
+      "fecha": "27 Jul 2026, 18:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
+      "resumen": "La dueña de Liverpool y Suburbia mantuvo el crecimiento de sus ganancias en un entorno de menor dinamismo para el consumo, apoyada por mejores inventarios y el desempeño de sus negocios financiero e i…",
+      "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
+      "fecha": "27 Jul 2026, 18:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El boom de los seminuevos pierde fuerza mientras los compradores regresan a los autos nuevos",
+      "resumen": "La normalización de la producción, la competencia de las marcas chinas y el acceso al crédito favorecen la compra de autos nuevos, poniendo fin al auge que vivieron los seminuevos tras la pandemia.",
+      "link": "https://expansion.mx/empresas/2026/07/27/ventas-autos-nuevos-ganan-terreno-seminuevos",
+      "fecha": "27 Jul 2026, 17:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Angel Ventures crea su primera empresa propia y apuesta por el negocio del bienestar para perros",
+      "resumen": "El fondo debuta como creador de empresas con Bark & Co, un club de bienestar para perros que busca capitalizar un mercado pet valuado en hasta 8,300 millones de dólares.",
+      "link": "https://expansion.mx/empresas/2026/07/27/angel-ventures-apuesta-club-de-perros-san-pedro-garza",
+      "fecha": "27 Jul 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
+      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
+      "link": "https://expansion.mx/empresas/2026/07/27/carlos-slim-es-dueno-21-campus-universitarios",
+      "fecha": "27 Jul 2026, 15:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así nació Yema, el \"hermano premium\" de Tiendas 3B que apuesta por productos gourmet",
+      "resumen": "Tiendas 3B impulsa su nuevo proyecto Yema, una cadena que busca competir en el segmento premium mediante alimentos naturales, productos propios y una experiencia de compra diferente.",
+      "link": "https://expansion.mx/empresas/2026/07/27/yema-hermano-premium-de-tiendas-3b",
+      "fecha": "27 Jul 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Disney encarga a Juan Ponce su apuesta por el contenido mexicano",
+      "resumen": "En su nuevo rol, Ponce será responsable de liderar el desarrollo, producción y gestión de contenido original en México para Disney+.",
+      "link": "https://expansion.mx/empresas/2026/07/27/disney-juan-ponce-contenido-original-mexico",
+      "fecha": "27 Jul 2026, 13:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
       "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
       "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
       "fecha": "27 Jul 2026, 09:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
-      "resumen": "Aunque a nivel nacional más de ocho de cada 10 estaciones respetan los precios objetivo de gasolina y diésel, la falta de terminales y el mayor costo del transporte mantienen rezagados a estados aleja…",
-      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
-      "fecha": "27 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
-      "resumen": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y…",
-      "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
-      "fecha": "25 Jul 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
-      "resumen": "Con respaldo de Brick & Mortar Ventures e Ironspring Ventures, la fintech Mango busca convertir los datos operativos de constructoras en historial crediticio para impulsar el financiamiento del sector…",
-      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
-      "fecha": "25 Jul 2026, 12:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
-      "resumen": "La reapertura de la frontera permitirá recuperar las exportaciones de ganado vivo hacia Estados Unidos, luego de dos periodos de suspensión que redujeron los envíos mexicanos.",
-      "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
-      "fecha": "25 Jul 2026, 10:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los siniestros ferroviarios salen del radar oficial tras el accidente mortal del Tren Interoceánico",
-      "resumen": "El sistema ferroviario redujo 25.5% sus siniestros en 2025, pero la información oficial dejó de actualizarse tras el accidente mortal del Tren Interoceánico y un nuevo descarrilamiento reavivó los cue…",
-      "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
-      "fecha": "25 Jul 2026, 09:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Restos del propulsor del Starship de SpaceX vuelven a caer en el Golfo de México",
-      "resumen": "El propulsor del Starship Super Heavy cayó por cuarta ocasión en aguas cercanas a México, mientras ambientalistas advierten sobre posibles riesgos para el ecosistema marino del país.",
-      "link": "https://expansion.mx/empresas/2026/07/24/restos-del-propulsor-del-starship-de-spacex-vuelven-a-caer-en-el-golfo-de-mexico",
-      "fecha": "24 Jul 2026, 18:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "BYD traerá a México sus cargadores ultrarrápidos capaces de recargar autos eléctricos en apenas cinco minutos",
-      "resumen": "La automotriz china desplegará una red de 100 cargadores Flash en México para preparar la llegada de vehículos capaces de recuperar del 10 al 70% de batería en apenas cinco minutos.",
-      "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
-      "fecha": "24 Jul 2026, 18:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,6 +159,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Liberan en Chihuahua primer lote de moscas contra gusano",
+      "resumen": "Autoridades mexicanas liberaron en Chihuahua un primer lote de moscas estériles para combatir la plaga del gusano barrenador en esa región.",
+      "link": "https://www.reforma.com/liberan-en-chihuahua-primer-lote-de-moscas-contra-gusano/ar3248058",
+      "fecha": "28 Jul 2026, 08:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pega desocupación más a jóvenes en NL",
+      "resumen": "La desaceleración económica del País está impactando con mayor fuerza a los jóvenes de entre 20 y 29 años",
+      "link": "https://www.reforma.com/pega-desocupacion-mas-a-jovenes-en-nl/ar3247923",
+      "fecha": "28 Jul 2026, 06:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dispara el nearshoring pagos transfronterizos",
       "resumen": "El nearshoring y el comercio electrónico están impulsando la demanda de pagos transfronterizos en México.",
       "link": "https://www.reforma.com/dispara-el-nearshoring-pagos-transfronterizos/ar3247904",
@@ -168,28 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Persiste reto ganadero por gusano barrenador",
-      "resumen": "Con un inventario de casi 2 millones de cabezas de ganado que dejaron de exportarse a EU, el País enfrenta el reto de reordenar sus envios.",
-      "link": "https://www.reforma.com/persiste-reto-ganadero-por-gusano-barrenador/ar3247920",
-      "fecha": "28 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden impulsar vuelos con Turquía",
-      "resumen": "Conectividad aérea directa entre México y Turquía requiere mayor promoción para consolidarse, consideraron especialistas",
-      "link": "https://www.reforma.com/piden-impulsar-vuelos-con-turquia/ar3247902",
-      "fecha": "28 Jul 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven necesario una transformación integral de Acapulco",
-      "resumen": "Especialistas consideran que Acapulco debe dejar atrás una etapa enfocada en recuperar lo perdido y avanzar hacia un rediseño integral.",
-      "link": "https://www.reforma.com/ven-necesario-una-transformacion-integral-de-acapulco/ar3247897",
-      "fecha": "28 Jul 2026, 05:02 hrs"
+      "titulo": "Fallan contra México  en arbitraje de Vulcan",
+      "resumen": "Centro internacional emitió un fallo final contra México en el proceso de arbitraje iniciado por una filial de Vulcan Materials Company.",
+      "link": "https://www.reforma.com/fallan-contra-mexico-en-arbitraje-de-vulcan/ar3247880",
+      "fecha": "27 Jul 2026, 21:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fallan contra México en arbitraje de Vulcan",
-      "resumen": "Centro internacional emitió un fallo final contra México en el proceso de arbitraje iniciado por una filial de Vulcan Materials Company.",
-      "link": "https://www.reforma.com/fallan-contra-mexico-en-arbitraje-de-vulcan/ar3247880",
-      "fecha": "27 Jul 2026, 21:28 hrs"
+      "titulo": "Amplía crudo pérdidas por esperanzas de acuerdo EU-Irán",
+      "resumen": "Los futuros del crudo Brent bajaban  1.90%, a 86.68 dólares, mientras que el West Texas Intermediate cedía 1.55%, a 81.33 dólares.",
+      "link": "https://www.reforma.com/amplia-crudo-perdidas-por-esperanzas-de-acuerdo-eu-iran/ar3248007",
+      "fecha": "28 Jul 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipan otro reacomodo arancelario",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard, expresó que para la primera semana de agosto se prevé que EU reacomodará su política arancelaria.",
-      "link": "https://www.reforma.com/anticipan-otro-reacomodo-arancelario/ar3247838",
-      "fecha": "27 Jul 2026, 19:45 hrs"
+      "titulo": "Crece 12.7% flujo operativo de Femsa",
+      "resumen": "La minorista y embotelladora mexicana Femsa informó que su flujo operativo del segundo trimestre aumentó un 12.7% hasta los 33 mil 340 mdp.",
+      "link": "https://www.reforma.com/crece-12-7-flujo-operativo-de-femsa/ar3248017",
+      "fecha": "28 Jul 2026, 07:52 hrs"
     }
   ]
 }
