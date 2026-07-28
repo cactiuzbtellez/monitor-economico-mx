@@ -1,16 +1,7 @@
 {
-  "actualizado": "28/07/2026 13:22 hrs",
+  "actualizado": "28/07/2026 15:06 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
-      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
-      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
-      "fecha": "28 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
       "link": "https://expansion.mx/economia/2026/07/27/solo2-cada-100-mexicanos-suben-clase-alta",
       "fecha": "27 Jul 2026, 09:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
+      "fecha": "27 Jul 2026, 08:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,10 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impacta costo de combustible a aerolíneas",
+      "titulo": "Impacta a aerolíneas costo de combustible",
       "resumen": "Aerolíneas Viva, Volaris y Aeroméxico se vieron afectadas por el alza en el costo de combustible, que las llevó a reportar pérdidas.",
-      "link": "https://www.reforma.com/impacta-costo-de-combustible-a-aerolineas/ar3248154",
+      "link": "https://www.reforma.com/impacta-a-aerolineas-costo-de-combustible/ar3248154",
       "fecha": "28 Jul 2026, 11:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsa México negocio de Cox y también su deuda",
+      "resumen": "Cox reportó ingresos por mil 243 millones de euros, principalmente por el crecimiento de su negocio en México; sin embargo también su deuda.",
+      "link": "https://www.reforma.com/impulsa-mexico-negocio-de-cox-y-tambien-su-deuda/ar3248272",
+      "fecha": "28 Jul 2026, 14:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pega desocupación más a jóvenes en NL",
-      "resumen": "La desaceleración económica del País está impactando con mayor fuerza a los jóvenes de entre 20 y 29 años",
-      "link": "https://www.reforma.com/pega-desocupacion-mas-a-jovenes-en-nl/ar3247923",
-      "fecha": "28 Jul 2026, 06:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae crudo cerca de 5%;  WTI baja de 80 dólares",
-      "resumen": "Los precios del petróleo caían cerca de 5%, tras mantenerse una pausa en los combates entre Estados Unidos e Irán.",
-      "link": "https://www.reforma.com/cae-crudo-cerca-de-5-wti-baja-de-80-dolares/ar3248088",
+      "titulo": "Cierra WTI por debajo de los 80 dólares",
+      "resumen": "El barril de Brent cayó un 4.83% a 84.09 dólares, mientras que el West Texas Intermediate retrocedió un 4.06% hasta los 79.26 dólares.",
+      "link": "https://www.reforma.com/cierra-wti-por-debajo-de-los-80-dolares/ar3248088",
       "fecha": "28 Jul 2026, 09:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen empleados de OpenAI y Anthropic a regular la IA",
-      "resumen": "Empleados de OpenAI y Anthropic impulsan petición para que gobierno de EU respalde mecanismo que permita regular el desarrollo de la IA.",
-      "link": "https://www.reforma.com/urgen-empleados-de-openai-y-anthropic-a-regular-la-ia/ar3248193",
-      "fecha": "28 Jul 2026, 12:51 hrs"
+      "titulo": "Reta IA a empresas para demostrar la rentabilidad de su uso",
+      "resumen": "Ante el mayor uso de la IA en las empresas, el reto al que se enfrentan es demostrar la rentabilidad de la herramienta.",
+      "link": "https://www.reforma.com/reta-ia-a-empresas-para-demostrar-la-rentabilidad-de-su-uso/ar3248263",
+      "fecha": "28 Jul 2026, 14:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 12.7% flujo operativo de Femsa",
-      "resumen": "La minorista y embotelladora mexicana Femsa informó que su flujo operativo del segundo trimestre aumentó un 12.7% hasta los 33 mil 340 mdp.",
-      "link": "https://www.reforma.com/crece-12-7-flujo-operativo-de-femsa/ar3248017",
-      "fecha": "28 Jul 2026, 07:52 hrs"
+      "titulo": "Cierran S&amp;P 500 y Dow Jones al alza",
+      "resumen": "El S&amp;P 500 y Dow Jones cerraron al alza, ya que los avances de Boeing y Coca-Cola ayudaron a compensar la caída de las del sector de chips.",
+      "link": "https://www.reforma.com/cierran-s-p-500-y-dow-jones-al-alza/ar3248284",
+      "fecha": "28 Jul 2026, 14:58 hrs"
     }
   ]
 }
