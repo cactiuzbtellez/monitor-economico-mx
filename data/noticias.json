@@ -1,5 +1,5 @@
 {
-  "actualizado": "28/07/2026 11:26 hrs",
+  "actualizado": "28/07/2026 13:22 hrs",
   "total": 24,
   "noticias": [
     {
@@ -159,6 +159,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Cuesta 251 mil mdp la exclusión de personas con discapacidad",
+      "resumen": "En el País, se dejan de generar 251 mil mdp anuales por excluir del empleo al talento con discapacidad.",
+      "link": "https://www.reforma.com/cuesta-251-mil-mdp-la-exclusion-de-personas-con-discapacidad/ar3248174",
+      "fecha": "28 Jul 2026, 12:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impacta costo de combustible a aerolíneas",
+      "resumen": "Aerolíneas Viva, Volaris y Aeroméxico se vieron afectadas por el alza en el costo de combustible, que las llevó a reportar pérdidas.",
+      "link": "https://www.reforma.com/impacta-costo-de-combustible-a-aerolineas/ar3248154",
+      "fecha": "28 Jul 2026, 11:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Liberan en Chihuahua primer lote de moscas contra gusano",
       "resumen": "Autoridades mexicanas liberaron en Chihuahua un primer lote de moscas estériles para combatir la plaga del gusano barrenador en esa región.",
       "link": "https://www.reforma.com/liberan-en-chihuahua-primer-lote-de-moscas-contra-gusano/ar3248058",
@@ -177,28 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fallan contra México  en arbitraje de Vulcan",
-      "resumen": "Centro internacional emitió un fallo final contra México en el proceso de arbitraje iniciado por una filial de Vulcan Materials Company.",
-      "link": "https://www.reforma.com/fallan-contra-mexico-en-arbitraje-de-vulcan/ar3247880",
-      "fecha": "27 Jul 2026, 21:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cotiza crudo WTI por debajo de 80 dólares",
-      "resumen": "Precios del crudo Brent caen un 3.9%, hasta 84.91 dólares por barril, mientras que el West Texas Intermediate baja un 3.3%, a 79.87 dólares.",
-      "link": "https://www.reforma.com/cotiza-crudo-wti-por-debajo-de-80-dolares/ar3248088",
+      "titulo": "Cae crudo cerca de 5%;  WTI baja de 80 dólares",
+      "resumen": "Los precios del petróleo caían cerca de 5%, tras mantenerse una pausa en los combates entre Estados Unidos e Irán.",
+      "link": "https://www.reforma.com/cae-crudo-cerca-de-5-wti-baja-de-80-dolares/ar3248088",
       "fecha": "28 Jul 2026, 09:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analiza FIFA inversión externa; estaría hermano de Kushner",
-      "resumen": "FIFA analiza abrirse a inversión extranjera; participaría Thrive Capital de Joshua Kushner, hermano de Jared, yerno del Presidente Trump.",
-      "link": "https://www.reforma.com/analiza-fifa-inversion-externa-estaria-hermano-de-kushner/ar3248103",
-      "fecha": "28 Jul 2026, 10:44 hrs"
+      "titulo": "Urgen empleados de OpenAI y Anthropic a regular la IA",
+      "resumen": "Empleados de OpenAI y Anthropic impulsan petición para que gobierno de EU respalde mecanismo que permita regular el desarrollo de la IA.",
+      "link": "https://www.reforma.com/urgen-empleados-de-openai-y-anthropic-a-regular-la-ia/ar3248193",
+      "fecha": "28 Jul 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "La minorista y embotelladora mexicana Femsa informó que su flujo operativo del segundo trimestre aumentó un 12.7% hasta los 33 mil 340 mdp.",
       "link": "https://www.reforma.com/crece-12-7-flujo-operativo-de-femsa/ar3248017",
       "fecha": "28 Jul 2026, 07:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sugiere Altman frenar desarrollo de la IA tras ciberataque",
-      "resumen": "Sam Altman, CEO de OpenAI, reconoció que reciente incidente de ciberseguridad relacionado con sus modelos le provocó una reacción visceral.",
-      "link": "https://www.reforma.com/sugiere-altman-frenar-desarrollo-de-la-ia-tras-ciberataque/ar3248080",
-      "fecha": "28 Jul 2026, 09:52 hrs"
     }
   ]
 }
