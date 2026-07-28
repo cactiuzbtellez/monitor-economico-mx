@@ -1,7 +1,34 @@
 {
-  "actualizado": "28/07/2026 01:37 hrs",
+  "actualizado": "28/07/2026 04:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
+      "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
+      "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
+      "fecha": "27 Jul 2026, 19:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Cuánto debes ganar para ser rico en México? El ingreso importa, pero no es el único factor",
+      "resumen": "El 10% de los hogares con mayores ingresos en México recibe cerca de 79,000 pesos mensuales en promedio. Sin embargo, la riqueza depende también del patrimonio.",
+      "link": "https://expansion.mx/economia/2026/07/27/cuanto-debes-ganar-ser-rico-mexico-ingreso-no-unico-factor",
+      "fecha": "27 Jul 2026, 18:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump prueba una tercera vía para sus aranceles, pero también tambalea",
+      "resumen": "Según cálculos del Tax Policy Center, los aranceles por trabajo forzoso generarían 581,000 mdd, alrededor de una tercera parte de los 1.7 billones que recaudaría toda la estrategia arancelaria de Trum…",
+      "link": "https://expansion.mx/economia/2026/07/27/aranceles-trump-trabajo-forzoso-tribunales",
+      "fecha": "27 Jul 2026, 16:07 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
-      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
-      "link": "https://expansion.mx/economia/2026/07/27/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
-      "fecha": "27 Jul 2026, 08:22 hrs"
+      "titulo": "Sanborns crece en ventas, pero su utilidad cae 6% por mayores gastos operativos",
+      "resumen": "Las inversiones en Oracle y Salesforce, junto con mayores gastos administrativos e incrementos salariales, afectaron las ganancias del grupo, pese al crecimiento en ventas y al avance de su flujo oper…",
+      "link": "https://expansion.mx/empresas/2026/07/27/sanborns-resultados-segundo-trimestre-2026-ventas-utilidad",
+      "fecha": "27 Jul 2026, 18:14 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México y Canadá sostienen a 149,000 exportadores de EU que urgen certeza en el T-MEC",
-      "resumen": "La revisión del tratado ha intensificado el cabildeo del sector privado estadounidense, que busca evitar cambios que reduzcan la certidumbre para el comercio regional.",
-      "link": "https://expansion.mx/economia/2026/07/27/mexico-y-canada-sostienen-empresas-exportadoras-eu-tmec",
-      "fecha": "27 Jul 2026, 05:55 hrs"
+      "titulo": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
+      "resumen": "La dueña de Liverpool y Suburbia mantuvo el crecimiento de sus ganancias en un entorno de menor dinamismo para el consumo, apoyada por mejores inventarios y el desempeño de sus negocios financiero e i…",
+      "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
+      "fecha": "27 Jul 2026, 18:03 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda eleva el subsidio para el diésel hasta 71.6%",
-      "resumen": "El descuento para la cuota IEPS que se cobra al diésel será de hasta 5.27 pesos por litro, para la semana del 25 al 31 de julio.",
-      "link": "https://expansion.mx/economia/2026/07/24/hacienda-eleva-el-subsidio-para-el-diesel-hasta-71-6",
-      "fecha": "24 Jul 2026, 18:24 hrs"
+      "titulo": "El boom de los seminuevos pierde fuerza mientras los compradores regresan a los autos nuevos",
+      "resumen": "La normalización de la producción, la competencia de las marcas chinas y el acceso al crédito favorecen la compra de autos nuevos, poniendo fin al auge que vivieron los seminuevos tras la pandemia.",
+      "link": "https://expansion.mx/empresas/2026/07/27/ventas-autos-nuevos-ganan-terreno-seminuevos",
+      "fecha": "27 Jul 2026, 17:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Angel Ventures crea su primera empresa propia y apuesta por el negocio del bienestar para perros",
+      "resumen": "El fondo debuta como creador de empresas con Bark & Co, un club de bienestar para perros que busca capitalizar un mercado pet valuado en hasta 8,300 millones de dólares.",
+      "link": "https://expansion.mx/empresas/2026/07/27/angel-ventures-apuesta-club-de-perros-san-pedro-garza",
+      "fecha": "27 Jul 2026, 16:22 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
       "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
       "fecha": "27 Jul 2026, 09:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
-      "resumen": "Aunque a nivel nacional más de ocho de cada 10 estaciones respetan los precios objetivo de gasolina y diésel, la falta de terminales y el mayor costo del transporte mantienen rezagados a estados aleja…",
-      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
-      "fecha": "27 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
-      "resumen": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y…",
-      "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
-      "fecha": "25 Jul 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
-      "resumen": "Con respaldo de Brick & Mortar Ventures e Ironspring Ventures, la fintech Mango busca convertir los datos operativos de constructoras en historial crediticio para impulsar el financiamiento del sector…",
-      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
-      "fecha": "25 Jul 2026, 12:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
-      "resumen": "La reapertura de la frontera permitirá recuperar las exportaciones de ganado vivo hacia Estados Unidos, luego de dos periodos de suspensión que redujeron los envíos mexicanos.",
-      "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
-      "fecha": "25 Jul 2026, 10:38 hrs"
     },
     {
       "fuente": "Reforma",
