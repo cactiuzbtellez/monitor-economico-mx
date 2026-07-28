@@ -1,5 +1,222 @@
 {
-  "actualizado": "27/07/2026 18:01 hrs",
-  "total": 0,
-  "noticias": []
+  "actualizado": "27/07/2026 22:08 hrs",
+  "total": 24,
+  "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda eleva el subsidio para el diésel hasta 71.6%",
+      "resumen": "El descuento para la cuota IEPS que se cobra al diésel será de hasta 5.27 pesos por litro, para la semana del 25 al 31 de julio.",
+      "link": "https://expansion.mx/economia/2026/07/24/hacienda-eleva-el-subsidio-para-el-diesel-hasta-71-6",
+      "fecha": "24 Jul 2026, 18:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
+      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
+      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
+      "fecha": "24 Jul 2026, 15:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
+      "fecha": "24 Jul 2026, 14:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
+      "resumen": "La industria exportadora pide acelerar IMMEX 4.0 para responder a un entorno de mayor competencia por proyectos manufactureros.",
+      "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
+      "fecha": "24 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
+      "resumen": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
+      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
+      "fecha": "23 Jul 2026, 19:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
+      "resumen": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
+      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
+      "fecha": "23 Jul 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
+      "resumen": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
+      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
+      "fecha": "23 Jul 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
+      "resumen": "La Secretaría de Economía aseguró que el nuevo esquema no modifica el trato arancelario para México: 85% de las exportaciones seguirá libre bajo el T-MEC y el gravamen solo sustituye al vigente bajo l…",
+      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
+      "fecha": "23 Jul 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El tequila fortalece su presencia global tras consolidarse en Estados Unidos",
+      "resumen": "El tequila mexicano ya llega a 120 países y exporta más de 405 millones de litros, pero la industria busca reducir su dependencia de Estados Unidos con una estrategia de expansión hacia Europa, Asia y…",
+      "link": "https://expansion.mx/empresas/2026/07/25/tequila-mexicano-expansion-europa-asia-estados-unidos",
+      "fecha": "25 Jul 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La fintech Mango levanta 6 mdd para crear el primer buró de crédito de la construcción en México",
+      "resumen": "Con respaldo de Brick & Mortar Ventures e Ironspring Ventures, la fintech Mango busca convertir los datos operativos de constructoras en historial crediticio para impulsar el financiamiento del sector…",
+      "link": "https://expansion.mx/empresas/2026/07/25/la-fintech-mango-levanta-6-mdd-para-crear-el-primer-buro-de-credito-de-la-construccion-en-mexico",
+      "fecha": "25 Jul 2026, 12:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "EU reabre importación de ganado mexicano tras crisis por gusano barrenador",
+      "resumen": "La reapertura de la frontera permitirá recuperar las exportaciones de ganado vivo hacia Estados Unidos, luego de dos periodos de suspensión que redujeron los envíos mexicanos.",
+      "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
+      "fecha": "25 Jul 2026, 10:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los siniestros ferroviarios salen del radar oficial tras el accidente mortal del Tren Interoceánico",
+      "resumen": "El sistema ferroviario redujo 25.5% sus siniestros en 2025, pero la información oficial dejó de actualizarse tras el accidente mortal del Tren Interoceánico y un nuevo descarrilamiento reavivó los cue…",
+      "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
+      "fecha": "25 Jul 2026, 09:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Restos del propulsor del Starship de SpaceX vuelven a caer en el Golfo de México",
+      "resumen": "El propulsor del Starship Super Heavy cayó por cuarta ocasión en aguas cercanas a México, mientras ambientalistas advierten sobre posibles riesgos para el ecosistema marino del país.",
+      "link": "https://expansion.mx/empresas/2026/07/24/restos-del-propulsor-del-starship-de-spacex-vuelven-a-caer-en-el-golfo-de-mexico",
+      "fecha": "24 Jul 2026, 18:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "BYD traerá a México sus cargadores ultrarrápidos capaces de recargar autos eléctricos en apenas cinco minutos",
+      "resumen": "La automotriz china desplegará una red de 100 cargadores Flash en México para preparar la llegada de vehículos capaces de recuperar del 10 al 70% de batería en apenas cinco minutos.",
+      "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
+      "fecha": "24 Jul 2026, 18:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
+      "resumen": "El regulador pondrá a consulta los lineamientos de los derechos de las audiencias, una discusión que enfrentó a concesionarios y que ahora regresa en un punto en donde el gobierno busca combatir la de…",
+      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
+      "fecha": "24 Jul 2026, 16:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
+      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
+      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
+      "fecha": "24 Jul 2026, 16:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fallan contra México en arbitraje de Vulcan",
+      "resumen": "Centro internacional emitió un fallo final contra México en el proceso de arbitraje iniciado por una filial de Vulcan Materials Company.",
+      "link": "https://www.reforma.com/fallan-contra-mexico-en-arbitraje-de-vulcan/ar3247880",
+      "fecha": "27 Jul 2026, 21:28 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipan otro reacomodo arancelario",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard, expresó que para la primera semana de agosto se prevé que EU reacomodará su política arancelaria.",
+      "link": "https://www.reforma.com/anticipan-otro-reacomodo-arancelario/ar3247838",
+      "fecha": "27 Jul 2026, 19:45 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsan Sanborns y Pemex ventas de Carso",
+      "resumen": "Grupo Carso reportó un crecimiento en sus ventas de 3.9% anual en segundo trimestre de 2026 impulsado por Grupo Sanborns y Zamajal.",
+      "link": "https://www.reforma.com/impulsan-sanborns-y-pemex-ventas-de-carso/ar3247830",
+      "fecha": "27 Jul 2026, 19:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Paga J&amp;J 5,500 mdd para cerrar demanda por talco cancerígeno",
+      "resumen": "Johnson &amp; Johnson acordó pagar 5 mil 500 millones de dólares por litigios relacionados con que su talco provoca cáncer de ovario.",
+      "link": "https://www.reforma.com/paga-j-j-5-500-mdd-para-cerrar-demanda-por-talco-cancerigeno/ar3247826",
+      "fecha": "27 Jul 2026, 19:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra Apple como la empresa más valiosa del mundo",
+      "resumen": "Apple cerró como la empresa más valiosa del mundo, superando por primera vez desde abril de 2025.",
+      "link": "https://www.reforma.com/cierra-apple-como-la-empresa-mas-valiosa-del-mundo/ar3247697",
+      "fecha": "27 Jul 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden revisar normativas sobre viviendas turísticas",
+      "resumen": "Amvitur solicitó al Poder Judicial revisar las contradicciones normativas derivadas de la actual regulación de viviendas turísticas.",
+      "link": "https://www.reforma.com/piden-revisar-normativas-sobre-viviendas-turisticas/ar3247691",
+      "fecha": "27 Jul 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde SpaceX 1,200 mdd en valor de mercado",
+      "resumen": "Tras caer por decimotercera sesión de las últimas 16, SpaceX ha perdido ahora el equivalente a una Tesla completa en valor de mercado.",
+      "link": "https://www.reforma.com/pierde-spacex-1-200-mdd-en-valor-de-mercado/ar3247688",
+      "fecha": "27 Jul 2026, 15:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recomiendan no financiar autos a más de 70 meses",
+      "resumen": "Adquirir un auto a plazos mayores de 70 meses derivaría en riesgos financieros importantes para el comprador, advierten especialistas.",
+      "link": "https://www.reforma.com/recomiendan-no-financiar-autos-a-mas-de-70-meses/ar3247663",
+      "fecha": "27 Jul 2026, 16:00 hrs"
+    }
+  ]
 }
