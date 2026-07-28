@@ -1,7 +1,70 @@
 {
-  "actualizado": "27/07/2026 22:08 hrs",
+  "actualizado": "28/07/2026 01:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Plata ficha a ex funcionarios de EU en su Consejo de Administración",
+      "resumen": "La empresa matriz de banco Plata anunció que a partir de agosto, Michael S. Piwowar y John J. Sullivan se incorporan al Consejo de Administración como consejeros independientes.",
+      "link": "https://expansion.mx/economia/2026/07/27/plata-ficha-a-ex-funcionarios-de-eu-en-su-consejo-de-administracion",
+      "fecha": "27 Jul 2026, 15:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación de servicios pone en duda el camino de Banxico hacia el 3%",
+      "resumen": "El subgobernador de Banco de México, Gabriel Cuadra, dijo que la inflación de servicios se mantuvo alrededor de 5% durante casi dos años y su descenso continúa siendo lento y gradual.",
+      "link": "https://expansion.mx/economia/2026/07/27/inflacion-servicios-retrasa-meta-banxico",
+      "fecha": "27 Jul 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México rompe otro récord en exportaciones; ventas al exterior superan 72,500 mdd en junio",
+      "resumen": "El mayor dinamismo de las ventas al exterior permitió que México ampliara su superávit comercial a 4,090 millones de dólares en junio y a 9,857 millones en el primer semestre.",
+      "link": "https://expansion.mx/economia/2026/07/27/exportaciones-mexico-record-junio-2026",
+      "fecha": "27 Jul 2026, 11:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
+      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
+      "link": "https://expansion.mx/economia/2026/07/27/solo2-cada-100-mexicanos-suben-clase-alta",
+      "fecha": "27 Jul 2026, 09:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
+      "fecha": "27 Jul 2026, 08:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
+      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
+      "link": "https://expansion.mx/economia/2026/07/27/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
+      "fecha": "27 Jul 2026, 08:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México y Canadá sostienen a 149,000 exportadores de EU que urgen certeza en el T-MEC",
+      "resumen": "La revisión del tratado ha intensificado el cabildeo del sector privado estadounidense, que busca evitar cambios que reduzcan la certidumbre para el comercio regional.",
+      "link": "https://expansion.mx/economia/2026/07/27/mexico-y-canada-sostienen-empresas-exportadoras-eu-tmec",
+      "fecha": "27 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -13,66 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
-      "link": "https://expansion.mx/economia/2026/07/24/cambiar-de-clase-social-mexico-solo-2-de-cada-100-logran",
-      "fecha": "24 Jul 2026, 15:04 hrs"
+      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
+      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
+      "link": "https://expansion.mx/empresas/2026/07/27/carlos-slim-es-dueno-21-campus-universitarios",
+      "fecha": "27 Jul 2026, 15:13 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
-      "link": "https://expansion.mx/economia/2026/07/24/mexico-inteligencia-artificial-ingenieros",
-      "fecha": "24 Jul 2026, 14:56 hrs"
+      "titulo": "Así nació Yema, el \"hermano premium\" de Tiendas 3B que apuesta por productos gourmet",
+      "resumen": "Tiendas 3B impulsa su nuevo proyecto Yema, una cadena que busca competir en el segmento premium mediante alimentos naturales, productos propios y una experiencia de compra diferente.",
+      "link": "https://expansion.mx/empresas/2026/07/27/yema-hermano-premium-de-tiendas-3b",
+      "fecha": "27 Jul 2026, 15:08 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Manufactureras de exportación apuestan por retener inversiones ante aranceles y el T-MEC",
-      "resumen": "La industria exportadora pide acelerar IMMEX 4.0 para responder a un entorno de mayor competencia por proyectos manufactureros.",
-      "link": "https://expansion.mx/economia/2026/07/24/retener-inversiones-manufactureras-exportacion-arancel-tmec",
-      "fecha": "24 Jul 2026, 05:55 hrs"
+      "titulo": "Disney encarga a Juan Ponce su apuesta por el contenido mexicano",
+      "resumen": "En su nuevo rol, Ponce será responsable de liderar el desarrollo, producción y gestión de contenido original en México para Disney+.",
+      "link": "https://expansion.mx/empresas/2026/07/27/disney-juan-ponce-contenido-original-mexico",
+      "fecha": "27 Jul 2026, 13:33 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bankaool busca consolidar su negocio y ficha a Francisco Lira",
-      "resumen": "El banco informó cambios en su Consejo de Administración en el que también se incluye a Enrique Becerra como Consejero Delegado.",
-      "link": "https://expansion.mx/economia/2026/07/23/bankaool-incorpora-francisco-lira",
-      "fecha": "23 Jul 2026, 19:20 hrs"
+      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
+      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
+      "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
+      "fecha": "27 Jul 2026, 09:14 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda recupera más de 2,500 millones de pesos por acuerdo entre la Fiscalía y Topo Chico",
-      "resumen": "El acuerdo se logró en días pasados con la intervención del Órgano Especializado de Mecanismos Alternativos de Solución de Controversias de la FGR.",
-      "link": "https://expansion.mx/economia/2026/07/23/topo-chico-paga-sat-2500-millones-pesos-acuerdo-fiscalia",
-      "fecha": "23 Jul 2026, 17:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Por qué en México las transferencias bancarias funcionan las 24 horas y en otros países no?",
-      "resumen": "Enviar dinero en segundos desde una aplicación bancaria parece algo normal para millones de mexicanos, pero no ocurre igual en todo el mundo.",
-      "link": "https://expansion.mx/economia/2026/07/23/por-que-mexico-transferencias-bancarias-funcionan-24-horas",
-      "fecha": "23 Jul 2026, 15:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México entra al arancel de 10% de EU por fallas en combate al trabajo forzoso",
-      "resumen": "La Secretaría de Economía aseguró que el nuevo esquema no modifica el trato arancelario para México: 85% de las exportaciones seguirá libre bajo el T-MEC y el gravamen solo sustituye al vigente bajo l…",
-      "link": "https://expansion.mx/economia/2026/07/23/eu-impone-arancel-10-mexico-trabajo-forzoso",
-      "fecha": "23 Jul 2026, 15:54 hrs"
+      "titulo": "Tope a combustibles deja al descubierto las desconexiones logísticas en los extremos del país",
+      "resumen": "Aunque a nivel nacional más de ocho de cada 10 estaciones respetan los precios objetivo de gasolina y diésel, la falta de terminales y el mayor costo del transporte mantienen rezagados a estados aleja…",
+      "link": "https://expansion.mx/empresas/2026/07/27/solo-dos-estados-no-cumplen-pacto-precio-combustibles",
+      "fecha": "27 Jul 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -100,51 +145,6 @@
       "resumen": "La reapertura de la frontera permitirá recuperar las exportaciones de ganado vivo hacia Estados Unidos, luego de dos periodos de suspensión que redujeron los envíos mexicanos.",
       "link": "https://expansion.mx/empresas/2026/07/25/eu-reabre-importacion-de-ganado-mexicano-tras-crisis-por-gusano-barrenador",
       "fecha": "25 Jul 2026, 10:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los siniestros ferroviarios salen del radar oficial tras el accidente mortal del Tren Interoceánico",
-      "resumen": "El sistema ferroviario redujo 25.5% sus siniestros en 2025, pero la información oficial dejó de actualizarse tras el accidente mortal del Tren Interoceánico y un nuevo descarrilamiento reavivó los cue…",
-      "link": "https://expansion.mx/empresas/2026/07/25/siniestros-ferroviarios-descarrilamiento-tren-interoceanico",
-      "fecha": "25 Jul 2026, 09:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Restos del propulsor del Starship de SpaceX vuelven a caer en el Golfo de México",
-      "resumen": "El propulsor del Starship Super Heavy cayó por cuarta ocasión en aguas cercanas a México, mientras ambientalistas advierten sobre posibles riesgos para el ecosistema marino del país.",
-      "link": "https://expansion.mx/empresas/2026/07/24/restos-del-propulsor-del-starship-de-spacex-vuelven-a-caer-en-el-golfo-de-mexico",
-      "fecha": "24 Jul 2026, 18:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "BYD traerá a México sus cargadores ultrarrápidos capaces de recargar autos eléctricos en apenas cinco minutos",
-      "resumen": "La automotriz china desplegará una red de 100 cargadores Flash en México para preparar la llegada de vehículos capaces de recuperar del 10 al 70% de batería en apenas cinco minutos.",
-      "link": "https://expansion.mx/empresas/2026/07/24/byd-red-cargadores-flash-5-minutos-mexico",
-      "fecha": "24 Jul 2026, 18:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT va por regulación de los derechos de las audiencias y reabre el debate sobre la libertad de expresión",
-      "resumen": "El regulador pondrá a consulta los lineamientos de los derechos de las audiencias, una discusión que enfrentó a concesionarios y que ahora regresa en un punto en donde el gobierno busca combatir la de…",
-      "link": "https://expansion.mx/empresas/2026/07/24/crt-va-por-regulacion-de-los-derechos-de-las-audiencias",
-      "fecha": "24 Jul 2026, 16:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño del centro comercial Manacar y de su icónica torre de cristal en Insurgentes?",
-      "resumen": "Manacar va más allá de un centro comercial, este complejo reúne oficinas, entretenimiento y comercios en una de las zonas con mayor actividad económica de la Ciudad de México.",
-      "link": "https://expansion.mx/empresas/2026/07/24/quien-es-dueno-del-centro-comercial-manacar-torre-de-cristal",
-      "fecha": "24 Jul 2026, 16:40 hrs"
     },
     {
       "fuente": "Reforma",
