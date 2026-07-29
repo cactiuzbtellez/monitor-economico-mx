@@ -1,7 +1,34 @@
 {
-  "actualizado": "28/07/2026 22:11 hrs",
+  "actualizado": "29/07/2026 01:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La oportunidad para la proveeduría mexicana está en 509,000 mdd de insumos importados",
+      "resumen": "Durante 2025, México importó 664,066 millones de dólares; 76.8% fueron bienes intermedios y 8.5% maquinaria y equipo; las compras externas responden principalmente a la producción, indica COMCE Norest…",
+      "link": "https://expansion.mx/economia/2026/07/28/mexico-proveeduria-insumos-importados",
+      "fecha": "28 Jul 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Así ha crecido la fortuna de Carlos Slim, Larrea, Baillères y Aramburuzabala: la realidad de los milmillonarios",
+      "resumen": "La riqueza privada alcanzó un máximo histórico en México, donde 22 milmillonarios acumulan más de 219,000 millones de dólares.",
+      "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
+      "fecha": "28 Jul 2026, 17:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
+      "resumen": "El encarecimiento de equipos de cómbuto ocurre en un momento particularmente sensible para los hogares mexicanos; el regreso a clases.",
+      "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
+      "fecha": "28 Jul 2026, 17:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Inflación de servicios pone en duda el camino de Banxico hacia el 3%",
-      "resumen": "El subgobernador de Banco de México, Gabriel Cuadra, dijo que la inflación de servicios se mantuvo alrededor de 5% durante casi dos años y su descenso continúa siendo lento y gradual.",
-      "link": "https://expansion.mx/economia/2026/07/27/inflacion-servicios-retrasa-meta-banxico",
-      "fecha": "27 Jul 2026, 13:16 hrs"
+      "titulo": "Crumbl arranca operaciones en México: la historia detrás de las galletas virales de TikTok",
+      "resumen": "Crumbl Cookies abrió su primera sucursal en México, lo que generó expectativas de decenas de personas que esperaban la llegada de este viral producto.",
+      "link": "https://expansion.mx/empresas/2026/07/28/crumbl-arranca-operaciones-mexico-historia-detras-galletas",
+      "fecha": "28 Jul 2026, 19:16 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México rompe otro récord en exportaciones; ventas al exterior superan 72,500 mdd en junio",
-      "resumen": "El mayor dinamismo de las ventas al exterior permitió que México ampliara su superávit comercial a 4,090 millones de dólares en junio y a 9,857 millones en el primer semestre.",
-      "link": "https://expansion.mx/economia/2026/07/27/exportaciones-mexico-record-junio-2026",
-      "fecha": "27 Jul 2026, 11:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Qué tan difícil es subir de clase social en México? Así opera el \"suelo pegajoso\" de la pobreza",
-      "resumen": "Aunque la pobreza disminuyó en los últimos años, el Centro de Estudios Espinosa Yglesias advierte que la desigualdad de oportunidades persiste.",
-      "link": "https://expansion.mx/economia/2026/07/27/solo2-cada-100-mexicanos-suben-clase-alta",
-      "fecha": "27 Jul 2026, 09:54 hrs"
+      "titulo": "OXXO quiere dejar de ser solo una tienda de conveniencia para competir con los súpers por las compras del hogar",
+      "resumen": "Tras el impulso temporal del Mundial 2026, FEMSA busca que OXXO gane participación en categorías de despensa, café y alimentos preparados mediante una estrategia enfocada en precios, surtido y experie…",
+      "link": "https://expansion.mx/empresas/2026/07/28/oxxo-despensa-alimentos-productos-basicos",
+      "fecha": "28 Jul 2026, 17:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "El empresario busca ampliar su presencia inmobiliaria con un proyecto en Puebla, mientras su división comercial mantiene presencia en nueve estados del país.",
       "link": "https://expansion.mx/empresas/2026/07/28/carlos-slim-compra-centro-comercial-puebla",
       "fecha": "28 Jul 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sanborns crece en ventas, pero su utilidad cae 6% por mayores gastos operativos",
-      "resumen": "Las inversiones en Oracle y Salesforce, junto con mayores gastos administrativos e incrementos salariales, afectaron las ganancias del grupo, pese al crecimiento en ventas y al avance de su flujo oper…",
-      "link": "https://expansion.mx/empresas/2026/07/27/sanborns-resultados-segundo-trimestre-2026-ventas-utilidad",
-      "fecha": "27 Jul 2026, 18:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Puerto de Liverpool eleva 55% su utilidad con impulso del negocio financiero y de Nordstrom",
-      "resumen": "La dueña de Liverpool y Suburbia mantuvo el crecimiento de sus ganancias en un entorno de menor dinamismo para el consumo, apoyada por mejores inventarios y el desempeño de sus negocios financiero e i…",
-      "link": "https://expansion.mx/empresas/2026/07/27/liverpool-utilidad-segundo-trimestre-2026",
-      "fecha": "27 Jul 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
