@@ -1,34 +1,7 @@
 {
-  "actualizado": "29/07/2026 16:01 hrs",
+  "actualizado": "29/07/2026 17:58 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
-      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
-      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
-      "fecha": "29 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
-      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
-      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
-      "fecha": "29 Jul 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
-      "resumen": "La agencia advierte que el incremento acelerado de la deuda pública, un fracaso en la consolidación fiscal o un choque económico severo que deteriore las finanzas pueden ejercer presión sobre la nota …",
-      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
-      "fecha": "29 Jul 2026, 13:40 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,33 @@
       "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
       "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
       "fecha": "28 Jul 2026, 19:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
+      "resumen": "Los interesados en acceder al Programa de Regularización Fiscal 2026 tienen como fecha límite el 31 de octubre para presentar su solicitud.",
+      "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
+      "fecha": "28 Jul 2026, 19:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La oportunidad para la proveeduría mexicana está en 509,000 mdd de insumos importados",
+      "resumen": "Durante 2025, México importó 664,066 millones de dólares; 76.8% fueron bienes intermedios y 8.5% maquinaria y equipo; las compras externas responden principalmente a la producción, indica COMCE Norest…",
+      "link": "https://expansion.mx/economia/2026/07/28/mexico-proveeduria-insumos-importados",
+      "fecha": "28 Jul 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Así ha crecido la fortuna de Carlos Slim, Larrea, Baillères y Aramburuzabala: la realidad de los milmillonarios",
+      "resumen": "La riqueza privada alcanzó un máximo histórico en México, donde 22 milmillonarios acumulan más de 219,000 millones de dólares.",
+      "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
+      "fecha": "28 Jul 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
