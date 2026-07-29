@@ -1,7 +1,16 @@
 {
-  "actualizado": "28/07/2026 18:03 hrs",
+  "actualizado": "28/07/2026 22:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
+      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
+      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
+      "fecha": "28 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
-      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
-      "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
-      "fecha": "27 Jul 2026, 08:56 hrs"
+      "titulo": "Los 7 países donde opera Grupo Gigante, el conglomerado que analiza comprar La Casa de Toño",
+      "resumen": "Más de seis décadas después de abrir su primera tienda, la compañía se convirtió en uno de los mayores grupos comerciales de México y América Latina.",
+      "link": "https://expansion.mx/empresas/2026/07/28/grupo-gigante-mexico-opera-seis-paises",
+      "fecha": "28 Jul 2026, 16:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "TelevisaUnivision recurre a la IA para doblar telenovelas y acelerar su expansión internacional",
+      "resumen": "Con tecnología de ElevenLabs, la empresa realiza doblajes asistidos por Inteligencia Artificial para llevar telenovelas y producciones originales a idiomas como el coreano y el portugués en menos tiem…",
+      "link": "https://expansion.mx/empresas/2026/07/28/televisaunivision-usa-ia-doblaje-telenovelas-vix",
+      "fecha": "28 Jul 2026, 15:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Oxxo convierte el Mundial y las estampas Panini en impulso para sus ventas pese al consumo débil",
+      "resumen": "La cadena de tiendas de conveniencia elevó 11.8% sus ingresos en México durante el segundo trimestre, apoyada por un mayor tráfico de clientes durante la Copa Mundial de Futbol y la venta de estampas …",
+      "link": "https://expansion.mx/empresas/2026/07/28/copa-mundial-y-estampas-panini-impulsan-ganancias-oxxo",
+      "fecha": "28 Jul 2026, 15:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liverpool quiere ser más rentable pero no a costa de crédito: el cambio de su estrategia financiera",
+      "resumen": "La minorista modificó la estrategia de su financiera tras la expansión de crédito posterior a la pandemia y ahora priorizará la rentabilidad, la calidad de la cartera y la vinculación con sus clientes…",
+      "link": "https://expansion.mx/empresas/2026/07/28/liverpool-quiere-ser-mas-rentable-pero-no-credito",
+      "fecha": "28 Jul 2026, 14:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Coca-Cola Femsa encuentra en Sudamérica el motor para superar la desaceleración del mercado mexicano",
+      "resumen": "El Mundial de Futbol fortaleció las ventas de la compañía, aunque la desaceleración del consumo mexicano contrastó con el dinamismo observado en Sudamérica.",
+      "link": "https://expansion.mx/empresas/2026/07/28/sudamerica-crece-para-coca-cola-femsa-pero-mexico-no-tanto",
+      "fecha": "28 Jul 2026, 14:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La futura plaza de Carlos Slim en Puebla y los otros 20 centros comerciales que opera en México",
+      "resumen": "El empresario busca ampliar su presencia inmobiliaria con un proyecto en Puebla, mientras su división comercial mantiene presencia en nueve estados del país.",
+      "link": "https://expansion.mx/empresas/2026/07/28/carlos-slim-compra-centro-comercial-puebla",
+      "fecha": "28 Jul 2026, 13:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,58 +147,22 @@
       "fecha": "27 Jul 2026, 18:03 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El boom de los seminuevos pierde fuerza mientras los compradores regresan a los autos nuevos",
-      "resumen": "La normalización de la producción, la competencia de las marcas chinas y el acceso al crédito favorecen la compra de autos nuevos, poniendo fin al auge que vivieron los seminuevos tras la pandemia.",
-      "link": "https://expansion.mx/empresas/2026/07/27/ventas-autos-nuevos-ganan-terreno-seminuevos",
-      "fecha": "27 Jul 2026, 17:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invierte Woodside 446 mdd en Trion; reporta avance de 64%",
+      "resumen": "Al cierre de junio, Woodside Energy, operador del campo Trion, invirtió 446 millones de dólares en el megaproyecto y cuyo avance es de 64%.",
+      "link": "https://www.reforma.com/invierte-woodside-446-mdd-en-trion-reporta-avance-de-64/ar3248499",
+      "fecha": "28 Jul 2026, 19:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Angel Ventures crea su primera empresa propia y apuesta por el negocio del bienestar para perros",
-      "resumen": "El fondo debuta como creador de empresas con Bark & Co, un club de bienestar para perros que busca capitalizar un mercado pet valuado en hasta 8,300 millones de dólares.",
-      "link": "https://expansion.mx/empresas/2026/07/27/angel-ventures-apuesta-club-de-perros-san-pedro-garza",
-      "fecha": "27 Jul 2026, 16:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
-      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
-      "link": "https://expansion.mx/empresas/2026/07/27/carlos-slim-es-dueno-21-campus-universitarios",
-      "fecha": "27 Jul 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Así nació Yema, el \"hermano premium\" de Tiendas 3B que apuesta por productos gourmet",
-      "resumen": "Tiendas 3B impulsa su nuevo proyecto Yema, una cadena que busca competir en el segmento premium mediante alimentos naturales, productos propios y una experiencia de compra diferente.",
-      "link": "https://expansion.mx/empresas/2026/07/27/yema-hermano-premium-de-tiendas-3b",
-      "fecha": "27 Jul 2026, 15:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Disney encarga a Juan Ponce su apuesta por el contenido mexicano",
-      "resumen": "En su nuevo rol, Ponce será responsable de liderar el desarrollo, producción y gestión de contenido original en México para Disney+.",
-      "link": "https://expansion.mx/empresas/2026/07/27/disney-juan-ponce-contenido-original-mexico",
-      "fecha": "27 Jul 2026, 13:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
-      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
-      "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
-      "fecha": "27 Jul 2026, 09:14 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falta seguridad y energía para atraer inversión.-Coparmex",
+      "resumen": "Para fortalecer la competitividad y atraer inversión, el País debe ofrecer seguridad, energía y certeza jurídica, recomendó Coparmex.",
+      "link": "https://www.reforma.com/falta-seguridad-y-energia-para-atraer-inversion-coparmex/ar3248458",
+      "fecha": "28 Jul 2026, 18:31 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "El S&amp;P 500 y Dow Jones cerraron al alza, ya que los avances de Boeing y Coca-Cola ayudaron a compensar la caída de las del sector de chips.",
       "link": "https://www.reforma.com/cierran-s-p-500-y-dow-jones-al-alza/ar3248284",
       "fecha": "28 Jul 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reta IA a empresas para demostrar la rentabilidad de su uso",
-      "resumen": "Ante el mayor uso de la IA en las empresas, el reto al que se enfrentan es demostrar la rentabilidad de la herramienta.",
-      "link": "https://www.reforma.com/reta-ia-a-empresas-para-demostrar-la-rentabilidad-de-su-uso/ar3248263",
-      "fecha": "28 Jul 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen empleados de OpenAI y Anthropic a regular la IA",
-      "resumen": "Empleados de OpenAI y Anthropic impulsan petición para que gobierno de EU respalde mecanismo que permita regular el desarrollo de la IA.",
-      "link": "https://www.reforma.com/urgen-empleados-de-openai-y-anthropic-a-regular-la-ia/ar3248193",
-      "fecha": "28 Jul 2026, 12:51 hrs"
     }
   ]
 }
