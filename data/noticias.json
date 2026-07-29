@@ -1,7 +1,61 @@
 {
-  "actualizado": "29/07/2026 14:55 hrs",
+  "actualizado": "29/07/2026 16:01 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
+      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
+      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
+      "fecha": "29 Jul 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
+      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
+      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
+      "fecha": "29 Jul 2026, 13:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
+      "resumen": "La agencia advierte que el incremento acelerado de la deuda pública, un fracaso en la consolidación fiscal o un choque económico severo que deteriore las finanzas pueden ejercer presión sobre la nota …",
+      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
+      "fecha": "29 Jul 2026, 13:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
+      "resumen": "el banco central de Estados Unidos dejó su tasa entre 3.50% y 3.75% por quinta reunión consecutiva; tres integrantes votaron por elevarla ante una inflación que sigue por encima de la meta.",
+      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
+      "fecha": "29 Jul 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "CetesDirecto descarta inversiones en efectivo por su alto costo",
+      "resumen": "La plataforma de inversiones intentó implementar depósitos en efectivo con el Banco del Bienestar, pero los elevados costos para su manejo frenaron el plan.",
+      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
+      "fecha": "29 Jul 2026, 12:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
+      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
+      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
+      "fecha": "29 Jul 2026, 11:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,60 +73,6 @@
       "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
       "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
       "fecha": "28 Jul 2026, 19:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
-      "resumen": "Los interesados en acceder al Programa de Regularización Fiscal 2026 tienen como fecha límite el 31 de octubre para presentar su solicitud.",
-      "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
-      "fecha": "28 Jul 2026, 19:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La oportunidad para la proveeduría mexicana está en 509,000 mdd de insumos importados",
-      "resumen": "Durante 2025, México importó 664,066 millones de dólares; 76.8% fueron bienes intermedios y 8.5% maquinaria y equipo; las compras externas responden principalmente a la producción, indica COMCE Norest…",
-      "link": "https://expansion.mx/economia/2026/07/28/mexico-proveeduria-insumos-importados",
-      "fecha": "28 Jul 2026, 17:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Así ha crecido la fortuna de Carlos Slim, Larrea, Baillères y Aramburuzabala: la realidad de los milmillonarios",
-      "resumen": "La riqueza privada alcanzó un máximo histórico en México, donde 22 milmillonarios acumulan más de 219,000 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
-      "fecha": "28 Jul 2026, 17:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
-      "resumen": "El encarecimiento de equipos de cómbuto ocurre en un momento particularmente sensible para los hogares mexicanos; el regreso a clases.",
-      "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
-      "fecha": "28 Jul 2026, 17:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
-      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
-      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
-      "fecha": "28 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
-      "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
-      "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
-      "fecha": "27 Jul 2026, 19:59 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Bajaría Fitch nota del País si sube deuda significativamente",
+      "resumen": "Fitch podría degradar la calificación crediticia de México si observa una escalada significativa de la carga de la deuda.",
+      "link": "https://www.reforma.com/bajaria-fitch-nota-del-pais-si-sube-deuda-significativamente/ar3248919",
+      "fecha": "29 Jul 2026, 15:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Busca México bajar de 50% a 10% arancel al acero",
       "resumen": "Ebrard, reveló que México propuso a EU reducir de 50% a alrededor de 10 % el arancel aplicado al acero nacional.",
       "link": "https://www.reforma.com/busca-mexico-bajar-de-50-a-10-arancel-al-acero/ar3248873",
@@ -159,7 +168,7 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Deschamps  Consejo del Banco Nacional de México",
+      "titulo": "Deja Deschamps Consejo del Banco Nacional de México",
       "resumen": "Grupo Financiero Banamex anunció que Ignacio Deschamps deja de ser presidente del Consejo de Administración del Banco Nacional de México.",
       "link": "https://www.reforma.com/deja-deschamps-consejo-del-banco-nacional-de-mexico/ar3248934",
       "fecha": "29 Jul 2026, 13:58 hrs"
@@ -190,15 +199,6 @@
       "resumen": "En el primer trimestre, la economía de CDMX bajó 2.88%, la de NL 1.26% y Jalisco 0.82%, mayores caídas que la de 0.62% en el PIB nacional.",
       "link": "https://www.reforma.com/cae-economia-en-cdmx-nl-y-jalisco-mas-que-el-pib-nacional/ar3248886",
       "fecha": "29 Jul 2026, 12:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Producirá Kia primer eléctrico en NL; invertirá 649 mdd",
-      "resumen": "Kia anunció una inversión de 649 mdd para producir por primera vez un vehículo totalmente eléctrico en México, en planta de Pesquería, NL.",
-      "link": "https://www.reforma.com/producira-kia-primer-electrico-en-nl-invertira-649-mdd/ar3248731",
-      "fecha": "29 Jul 2026, 08:15 hrs"
     },
     {
       "fuente": "Reforma",
