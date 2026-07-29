@@ -1,7 +1,16 @@
 {
-  "actualizado": "29/07/2026 09:15 hrs",
+  "actualizado": "29/07/2026 11:14 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Taiwán gana terreno en la industria de IA en México con escasa IED",
+      "resumen": "La IED cayó a apenas 40 millones de dólares en 2025, pero Foxconn, Inventec y Quanta expanden la producción de servidores para Nvidia y centros de datos.",
+      "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
+      "fecha": "29 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
       "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
       "fecha": "27 Jul 2026, 19:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Cuánto debes ganar para ser rico en México? El ingreso importa, pero no es el único factor",
-      "resumen": "El 10% de los hogares con mayores ingresos en México recibe cerca de 79,000 pesos mensuales en promedio. Sin embargo, la riqueza depende también del patrimonio.",
-      "link": "https://expansion.mx/economia/2026/07/27/cuanto-debes-ganar-ser-rico-mexico-ingreso-no-unico-factor",
-      "fecha": "27 Jul 2026, 18:50 hrs"
     },
     {
       "fuente": "Expansión",
