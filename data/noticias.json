@@ -1,16 +1,7 @@
 {
-  "actualizado": "29/07/2026 06:59 hrs",
+  "actualizado": "29/07/2026 09:15 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Taiwán gana terreno en la industria de IA en México con escasa IED",
-      "resumen": "La IED cayó a apenas 40 millones de dólares en 2025, pero Foxconn, Inventec y Quanta expanden la producción de servidores para Nvidia y centros de datos.",
-      "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
-      "fecha": "29 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,33 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Cuánto debes ganar para ser rico en México? El ingreso importa, pero no es el único factor",
+      "resumen": "El 10% de los hogares con mayores ingresos en México recibe cerca de 79,000 pesos mensuales en promedio. Sin embargo, la riqueza depende también del patrimonio.",
+      "link": "https://expansion.mx/economia/2026/07/27/cuanto-debes-ganar-ser-rico-mexico-ingreso-no-unico-factor",
+      "fecha": "27 Jul 2026, 18:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Kia invertirá 649 millones de dólares en México para fabricar el EV3, un vehículo eléctrico que hoy produce en Corea",
+      "resumen": "El proyecto contempla la producción de un vehículo eléctrico que actualmente se fabrica en Corea del Sur, en un movimiento que generará 1,500 empleos directos hacia 2030.",
+      "link": "https://expansion.mx/empresas/2026/07/29/kia-invertira-649-millones-de-dolares-en-mexico-para-fabricar-un-vehiculo-electrico-que-hoy-produce-en-corea",
+      "fecha": "29 Jul 2026, 08:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ford, Nissan y Renault abren sus plantas a marcas chinas mientras crece alerta por exportaciones desde terceros países",
+      "resumen": "Los acuerdos reflejan una nueva estrategia para monetizar capacidad ociosa, mientras Estados Unidos endurece el escrutinio sobre posibles vías de exportación de vehículos chinos desde terceros países.",
+      "link": "https://expansion.mx/empresas/2026/07/29/ford-nissan-y-renault-abren-sus-plantas-a-marcas-chinas-mientras-crece-alerta-por-exportaciones-desde-terceros-paises",
+      "fecha": "29 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Crumbl arranca operaciones en México: la historia detrás de las galletas virales de TikTok",
@@ -129,22 +147,13 @@
       "fecha": "28 Jul 2026, 14:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coca-Cola Femsa encuentra en Sudamérica el motor para superar la desaceleración del mercado mexicano",
-      "resumen": "El Mundial de Futbol fortaleció las ventas de la compañía, aunque la desaceleración del consumo mexicano contrastó con el dinamismo observado en Sudamérica.",
-      "link": "https://expansion.mx/empresas/2026/07/28/sudamerica-crece-para-coca-cola-femsa-pero-mexico-no-tanto",
-      "fecha": "28 Jul 2026, 14:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La futura plaza de Carlos Slim en Puebla y los otros 20 centros comerciales que opera en México",
-      "resumen": "El empresario busca ampliar su presencia inmobiliaria con un proyecto en Puebla, mientras su división comercial mantiene presencia en nueve estados del país.",
-      "link": "https://expansion.mx/empresas/2026/07/28/carlos-slim-compra-centro-comercial-puebla",
-      "fecha": "28 Jul 2026, 13:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Producirá Kia primer eléctrico en NL; invertirá 649 mdd",
+      "resumen": "Kia anunció una inversión de 649 mdd para producir por primera vez un vehículo totalmente eléctrico en México, en planta de Pesquería, NL.",
+      "link": "https://www.reforma.com/producira-kia-primer-electrico-en-nl-invertira-649-mdd/ar3248731",
+      "fecha": "29 Jul 2026, 08:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,19 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rescata vivienda a la construcción",
-      "resumen": "Edificación de vivienda formal registró un crecimiento de 4.3% en el primer semestre de 2026 siendo el principal actor del sector.",
-      "link": "https://www.reforma.com/rescata-vivienda-a-la-construccion/ar3248588",
-      "fecha": "29 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urge Comce abrir 24 horas las aduanas marítimas",
-      "resumen": "El Comce propondrá que las aduanas de Manzanillo y Lázaro Cárdenas operen las 24 horas del día.",
-      "link": "https://www.reforma.com/urge-comce-abrir-24-horas-las-aduanas-maritimas/ar3248620",
-      "fecha": "29 Jul 2026, 06:53 hrs"
+      "titulo": "Disputan cerveceras cetro regio",
+      "resumen": "Grupo Modelo llevará su estrategia de mercadotecnia a las canchas de futbol regias, elevando una añeja disputa por el mercado nuevoleonés.",
+      "link": "https://www.reforma.com/disputan-cerveceras-cetro-regio/ar3248522",
+      "fecha": "28 Jul 2026, 20:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disputan cerveceras cetro regio",
-      "resumen": "Grupo Modelo llevará su estrategia de mercadotecnia a las canchas de futbol regias, elevando una añeja disputa por el mercado nuevoleonés.",
-      "link": "https://www.reforma.com/disputan-cerveceras-cetro-regio/ar3248522",
-      "fecha": "28 Jul 2026, 20:08 hrs"
+      "titulo": "Pierde Dow Jones 800 puntos tras la apertura de Wall Street",
+      "resumen": "En una jornada en la que se espera la decisión de política monetaria de la Fed, el Dow Jones cae 1.52%, el S&amp;P 500 un 0.80% y el Nasdaq 1%.",
+      "link": "https://www.reforma.com/pierde-dow-jones-800-puntos-tras-la-apertura-de-wall-street/ar3248737",
+      "fecha": "29 Jul 2026, 08:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falta seguridad y energía para atraer inversión.-Coparmex",
-      "resumen": "Para fortalecer la competitividad y atraer inversión, el País debe ofrecer seguridad, energía y certeza jurídica, recomendó Coparmex.",
-      "link": "https://www.reforma.com/falta-seguridad-y-energia-para-atraer-inversion-coparmex/ar3248458",
-      "fecha": "28 Jul 2026, 18:31 hrs"
+      "titulo": "Repuntan precios del crudo más de 7%",
+      "resumen": "Los futuros del Brent subían 7.2%, a 90.20 dólares el barril, mientras que el crudo estadounidense WTI ganaba 7.1%, a 84.95 dólares.",
+      "link": "https://www.reforma.com/repuntan-precios-del-crudo-mas-de-7/ar3248699",
+      "fecha": "29 Jul 2026, 07:06 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge Comce abrir 24 horas las aduanas marítimas",
+      "resumen": "El Comce propondrá que las aduanas de Manzanillo y Lázaro Cárdenas operen las 24 horas del día.",
+      "link": "https://www.reforma.com/urge-comce-abrir-24-horas-las-aduanas-maritimas/ar3248620",
+      "fecha": "29 Jul 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
@@ -207,15 +216,6 @@
       "titulo": "Piden para compus contenido regional",
       "resumen": "Sugieren implementar reglas de contenido regional para desarrollar en los países del T-MEC cadenas de suministro para equipo de cómputo.",
       "link": "https://www.reforma.com/piden-para-compus-contenido-regional/ar3248592",
-      "fecha": "29 Jul 2026, 06:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mantendría OMA cobros ante crisis de aerolíneas",
-      "resumen": "OMA consideró ayer la posibilidad de posponer hasta mediados del 2028 su meta de que los ingresos por unidad de tráfico alcancen el 99%.",
-      "link": "https://www.reforma.com/mantendria-oma-cobros-ante-crisis-de-aerolineas/ar3248619",
       "fecha": "29 Jul 2026, 06:53 hrs"
     }
   ]
