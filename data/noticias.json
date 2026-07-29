@@ -1,16 +1,7 @@
 {
-  "actualizado": "28/07/2026 16:58 hrs",
+  "actualizado": "28/07/2026 18:03 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
-      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
-      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
-      "fecha": "28 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,57 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Los 7 países donde opera Grupo Gigante, el conglomerado que analiza comprar La Casa de Toño",
-      "resumen": "Más de seis décadas después de abrir su primera tienda, la compañía se convirtió en uno de los mayores grupos comerciales de México y América Latina.",
-      "link": "https://expansion.mx/empresas/2026/07/28/grupo-gigante-mexico-opera-seis-paises",
-      "fecha": "28 Jul 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "TelevisaUnivision recurre a la IA para doblar telenovelas y acelerar su expansión internacional",
-      "resumen": "Con tecnología de ElevenLabs, la empresa realiza doblajes asistidos por Inteligencia Artificial para llevar telenovelas y producciones originales a idiomas como el coreano y el portugués en menos tiem…",
-      "link": "https://expansion.mx/empresas/2026/07/28/televisaunivision-usa-ia-doblaje-telenovelas-vix",
-      "fecha": "28 Jul 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Oxxo convierte el Mundial y las estampas Panini en impulso para sus ventas pese al consumo débil",
-      "resumen": "La cadena de tiendas de conveniencia elevó 11.8% sus ingresos en México durante el segundo trimestre, apoyada por un mayor tráfico de clientes durante la Copa Mundial de Futbol y la venta de estampas …",
-      "link": "https://expansion.mx/empresas/2026/07/28/copa-mundial-y-estampas-panini-impulsan-ganancias-oxxo",
-      "fecha": "28 Jul 2026, 15:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liverpool quiere ser más rentable pero no a costa de crédito: el cambio de su estrategia financiera",
-      "resumen": "La minorista modificó la estrategia de su financiera tras la expansión de crédito posterior a la pandemia y ahora priorizará la rentabilidad, la calidad de la cartera y la vinculación con sus clientes…",
-      "link": "https://expansion.mx/empresas/2026/07/28/liverpool-quiere-ser-mas-rentable-pero-no-credito",
-      "fecha": "28 Jul 2026, 14:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coca-Cola Femsa encuentra en Sudamérica el motor para superar la desaceleración del mercado mexicano",
-      "resumen": "El Mundial de Futbol fortaleció las ventas de la compañía, aunque la desaceleración del consumo mexicano contrastó con el dinamismo observado en Sudamérica.",
-      "link": "https://expansion.mx/empresas/2026/07/28/sudamerica-crece-para-coca-cola-femsa-pero-mexico-no-tanto",
-      "fecha": "28 Jul 2026, 14:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La futura plaza de Carlos Slim en Puebla y los otros 20 centros comerciales que opera en México",
-      "resumen": "El empresario busca ampliar su presencia inmobiliaria con un proyecto en Puebla, mientras su división comercial mantiene presencia en nueve estados del país.",
-      "link": "https://expansion.mx/empresas/2026/07/28/carlos-slim-compra-centro-comercial-puebla",
-      "fecha": "28 Jul 2026, 13:09 hrs"
+      "titulo": "Las fábricas de IA ya llegaron a México y necesitan más ingenieros",
+      "resumen": "La industria enfrenta un déficit de ingenieros y habilidades STEM que puede limitar la nueva etapa de crecimiento en el país.",
+      "link": "https://expansion.mx/economia/2026/07/27/ia-impulsa-inversiones-mexico-problema-ingenieros",
+      "fecha": "27 Jul 2026, 08:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,10 +93,73 @@
       "fecha": "27 Jul 2026, 18:03 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El boom de los seminuevos pierde fuerza mientras los compradores regresan a los autos nuevos",
+      "resumen": "La normalización de la producción, la competencia de las marcas chinas y el acceso al crédito favorecen la compra de autos nuevos, poniendo fin al auge que vivieron los seminuevos tras la pandemia.",
+      "link": "https://expansion.mx/empresas/2026/07/27/ventas-autos-nuevos-ganan-terreno-seminuevos",
+      "fecha": "27 Jul 2026, 17:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Angel Ventures crea su primera empresa propia y apuesta por el negocio del bienestar para perros",
+      "resumen": "El fondo debuta como creador de empresas con Bark & Co, un club de bienestar para perros que busca capitalizar un mercado pet valuado en hasta 8,300 millones de dólares.",
+      "link": "https://expansion.mx/empresas/2026/07/27/angel-ventures-apuesta-club-de-perros-san-pedro-garza",
+      "fecha": "27 Jul 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
+      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
+      "link": "https://expansion.mx/empresas/2026/07/27/carlos-slim-es-dueno-21-campus-universitarios",
+      "fecha": "27 Jul 2026, 15:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así nació Yema, el \"hermano premium\" de Tiendas 3B que apuesta por productos gourmet",
+      "resumen": "Tiendas 3B impulsa su nuevo proyecto Yema, una cadena que busca competir en el segmento premium mediante alimentos naturales, productos propios y una experiencia de compra diferente.",
+      "link": "https://expansion.mx/empresas/2026/07/27/yema-hermano-premium-de-tiendas-3b",
+      "fecha": "27 Jul 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Disney encarga a Juan Ponce su apuesta por el contenido mexicano",
+      "resumen": "En su nuevo rol, Ponce será responsable de liderar el desarrollo, producción y gestión de contenido original en México para Disney+.",
+      "link": "https://expansion.mx/empresas/2026/07/27/disney-juan-ponce-contenido-original-mexico",
+      "fecha": "27 Jul 2026, 13:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
+      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
+      "link": "https://expansion.mx/empresas/2026/07/27/historia-familia-duena-grupo-gigante",
+      "fecha": "27 Jul 2026, 09:14 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prende Moody's 'focos rojos' por deuda de los hogares",
+      "titulo": "Suben futuros de WTI y Brent $83 y $84 tras ataque de Irán",
+      "resumen": "Futuros del crudo West Texas Intermediate subieron 5 por ciento superando los 83 dólares, mientras que el Brent alcanzó 84 dólares.",
+      "link": "https://www.reforma.com/suben-futuros-de-wti-y-brent-83-y-84-tras-ataque-de-iran/ar3248425",
+      "fecha": "28 Jul 2026, 17:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prende Moody's focos rojos por deuda de los hogares",
       "resumen": "Moody's Ratings señala que crecimiento acelerado de crédito al consumo por fintechs y neobancos ha elevado el endeudamiento de los hogares.",
       "link": "https://www.reforma.com/prende-moody-s-focos-rojos-por-deuda-de-los-hogares/ar3248369",
       "fecha": "28 Jul 2026, 15:58 hrs"
@@ -159,19 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuesta 251 mil mdp la exclusión de personas con discapacidad",
-      "resumen": "En el País, se dejan de generar 251 mil mdp anuales por excluir del empleo al talento con discapacidad.",
-      "link": "https://www.reforma.com/cuesta-251-mil-mdp-la-exclusion-de-personas-con-discapacidad/ar3248174",
-      "fecha": "28 Jul 2026, 12:32 hrs"
+      "titulo": "Asestan SpaceX y Tesla golpe de 1,500 mdd a Elon Musk",
+      "resumen": "Ha sido un mes difícil para Elon Musk: SpaceX y Tesla han borrado 1.5 billones de dólares en valor de mercado desde mediados de junio.",
+      "link": "https://www.reforma.com/asestan-spacex-y-tesla-golpe-de-1-500-mdd-a-elon-musk/ar3248341",
+      "fecha": "28 Jul 2026, 15:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impacta a aerolíneas costo de combustible",
-      "resumen": "Aerolíneas Viva, Volaris y Aeroméxico se vieron afectadas por el alza en el costo de combustible, que las llevó a reportar pérdidas.",
-      "link": "https://www.reforma.com/impacta-a-aerolineas-costo-de-combustible/ar3248154",
-      "fecha": "28 Jul 2026, 11:55 hrs"
+      "titulo": "Eleva Ford previsión anual; registra pérdida de 1,300 mdd",
+      "resumen": "Ford registró una pérdida neta de mil 300 mdd durante el segundo trimestre, mientras que los ingresos disminuyeron un 4% a 48 mil 300 mdd.",
+      "link": "https://www.reforma.com/eleva-ford-prevision-anual-registra-perdida-de-1-300-mdd/ar3248303",
+      "fecha": "28 Jul 2026, 14:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Liberan en Chihuahua primer lote de moscas contra gusano",
-      "resumen": "Autoridades mexicanas liberaron en Chihuahua un primer lote de moscas estériles para combatir la plaga del gusano barrenador en esa región.",
-      "link": "https://www.reforma.com/liberan-en-chihuahua-primer-lote-de-moscas-contra-gusano/ar3248058",
-      "fecha": "28 Jul 2026, 08:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra WTI por debajo de los 80 dólares",
-      "resumen": "El barril de Brent cayó un 4.83% a 84.09 dólares, mientras que el West Texas Intermediate retrocedió un 4.06% hasta los 79.26 dólares.",
-      "link": "https://www.reforma.com/cierra-wti-por-debajo-de-los-80-dolares/ar3248088",
-      "fecha": "28 Jul 2026, 09:58 hrs"
+      "titulo": "Cierran S&amp;P 500 y Dow Jones al alza",
+      "resumen": "El S&amp;P 500 y Dow Jones cerraron al alza, ya que los avances de Boeing y Coca-Cola ayudaron a compensar la caída de las del sector de chips.",
+      "link": "https://www.reforma.com/cierran-s-p-500-y-dow-jones-al-alza/ar3248284",
+      "fecha": "28 Jul 2026, 14:58 hrs"
     },
     {
       "fuente": "Reforma",
