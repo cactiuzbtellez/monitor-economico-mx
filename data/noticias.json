@@ -1,7 +1,25 @@
 {
-  "actualizado": "29/07/2026 01:42 hrs",
+  "actualizado": "29/07/2026 04:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
+      "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
+      "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
+      "fecha": "28 Jul 2026, 19:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
+      "resumen": "Los interesados en acceder al Programa de Regularización Fiscal 2026 tienen como fecha límite el 31 de octubre para presentar su solicitud.",
+      "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
+      "fecha": "28 Jul 2026, 19:22 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El 10% de los hogares con mayores ingresos en México recibe cerca de 79,000 pesos mensuales en promedio. Sin embargo, la riqueza depende también del patrimonio.",
       "link": "https://expansion.mx/economia/2026/07/27/cuanto-debes-ganar-ser-rico-mexico-ingreso-no-unico-factor",
       "fecha": "27 Jul 2026, 18:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump prueba una tercera vía para sus aranceles, pero también tambalea",
-      "resumen": "Según cálculos del Tax Policy Center, los aranceles por trabajo forzoso generarían 581,000 mdd, alrededor de una tercera parte de los 1.7 billones que recaudaría toda la estrategia arancelaria de Trum…",
-      "link": "https://expansion.mx/economia/2026/07/27/aranceles-trump-trabajo-forzoso-tribunales",
-      "fecha": "27 Jul 2026, 16:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Plata ficha a ex funcionarios de EU en su Consejo de Administración",
-      "resumen": "La empresa matriz de banco Plata anunció que a partir de agosto, Michael S. Piwowar y John J. Sullivan se incorporan al Consejo de Administración como consejeros independientes.",
-      "link": "https://expansion.mx/economia/2026/07/27/plata-ficha-a-ex-funcionarios-de-eu-en-su-consejo-de-administracion",
-      "fecha": "27 Jul 2026, 15:02 hrs"
     },
     {
       "fuente": "Expansión",
