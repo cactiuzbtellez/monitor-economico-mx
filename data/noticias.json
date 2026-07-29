@@ -1,7 +1,16 @@
 {
-  "actualizado": "29/07/2026 04:37 hrs",
+  "actualizado": "29/07/2026 06:59 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Taiwán gana terreno en la industria de IA en México con escasa IED",
+      "resumen": "La IED cayó a apenas 40 millones de dólares en 2025, pero Foxconn, Inventec y Quanta expanden la producción de servidores para Nvidia y centros de datos.",
+      "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
+      "fecha": "29 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
       "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
       "fecha": "27 Jul 2026, 19:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Cuánto debes ganar para ser rico en México? El ingreso importa, pero no es el único factor",
-      "resumen": "El 10% de los hogares con mayores ingresos en México recibe cerca de 79,000 pesos mensuales en promedio. Sin embargo, la riqueza depende también del patrimonio.",
-      "link": "https://expansion.mx/economia/2026/07/27/cuanto-debes-ganar-ser-rico-mexico-ingreso-no-unico-factor",
-      "fecha": "27 Jul 2026, 18:50 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,10 +150,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Pagarán empresas energía más cara",
+      "resumen": "Nuevas reglas para migrar permisos de autoabastecimiento harán que empresas modifiquen o negocien sus contratos de compra de energía.",
+      "link": "https://www.reforma.com/pagaran-empresas-energia-mas-cara/ar3248582",
+      "fecha": "29 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Rescata vivienda a la construcción",
+      "resumen": "Edificación de vivienda formal registró un crecimiento de 4.3% en el primer semestre de 2026 siendo el principal actor del sector.",
+      "link": "https://www.reforma.com/rescata-vivienda-a-la-construccion/ar3248588",
+      "fecha": "29 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge Comce abrir 24 horas las aduanas marítimas",
+      "resumen": "El Comce propondrá que las aduanas de Manzanillo y Lázaro Cárdenas operen las 24 horas del día.",
+      "link": "https://www.reforma.com/urge-comce-abrir-24-horas-las-aduanas-maritimas/ar3248620",
+      "fecha": "29 Jul 2026, 06:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Invierte Woodside 446 mdd en Trion; reporta avance de 64%",
       "resumen": "Al cierre de junio, Woodside Energy, operador del campo Trion, invirtió 446 millones de dólares en el megaproyecto y cuyo avance es de 64%.",
       "link": "https://www.reforma.com/invierte-woodside-446-mdd-en-trion-reporta-avance-de-64/ar3248499",
       "fecha": "28 Jul 2026, 19:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Disputan cerveceras cetro regio",
+      "resumen": "Grupo Modelo llevará su estrategia de mercadotecnia a las canchas de futbol regias, elevando una añeja disputa por el mercado nuevoleonés.",
+      "link": "https://www.reforma.com/disputan-cerveceras-cetro-regio/ar3248522",
+      "fecha": "28 Jul 2026, 20:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben futuros de WTI y Brent $83 y $84 tras ataque de Irán",
-      "resumen": "Futuros del crudo West Texas Intermediate subieron 5 por ciento superando los 83 dólares, mientras que el Brent alcanzó 84 dólares.",
-      "link": "https://www.reforma.com/suben-futuros-de-wti-y-brent-83-y-84-tras-ataque-de-iran/ar3248425",
-      "fecha": "28 Jul 2026, 17:34 hrs"
+      "titulo": "Piden para compus contenido regional",
+      "resumen": "Sugieren implementar reglas de contenido regional para desarrollar en los países del T-MEC cadenas de suministro para equipo de cómputo.",
+      "link": "https://www.reforma.com/piden-para-compus-contenido-regional/ar3248592",
+      "fecha": "29 Jul 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prende Moody's focos rojos por deuda de los hogares",
-      "resumen": "Moody's Ratings señala que crecimiento acelerado de crédito al consumo por fintechs y neobancos ha elevado el endeudamiento de los hogares.",
-      "link": "https://www.reforma.com/prende-moody-s-focos-rojos-por-deuda-de-los-hogares/ar3248369",
-      "fecha": "28 Jul 2026, 15:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Asestan SpaceX y Tesla golpe de 1,500 mdd a Elon Musk",
-      "resumen": "Ha sido un mes difícil para Elon Musk: SpaceX y Tesla han borrado 1.5 billones de dólares en valor de mercado desde mediados de junio.",
-      "link": "https://www.reforma.com/asestan-spacex-y-tesla-golpe-de-1-500-mdd-a-elon-musk/ar3248341",
-      "fecha": "28 Jul 2026, 15:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Eleva Ford previsión anual; registra pérdida de 1,300 mdd",
-      "resumen": "Ford registró una pérdida neta de mil 300 mdd durante el segundo trimestre, mientras que los ingresos disminuyeron un 4% a 48 mil 300 mdd.",
-      "link": "https://www.reforma.com/eleva-ford-prevision-anual-registra-perdida-de-1-300-mdd/ar3248303",
-      "fecha": "28 Jul 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa México negocio de Cox y también su deuda",
-      "resumen": "Cox reportó ingresos por mil 243 millones de euros, principalmente por el crecimiento de su negocio en México; sin embargo también su deuda.",
-      "link": "https://www.reforma.com/impulsa-mexico-negocio-de-cox-y-tambien-su-deuda/ar3248272",
-      "fecha": "28 Jul 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran S&amp;P 500 y Dow Jones al alza",
-      "resumen": "El S&amp;P 500 y Dow Jones cerraron al alza, ya que los avances de Boeing y Coca-Cola ayudaron a compensar la caída de las del sector de chips.",
-      "link": "https://www.reforma.com/cierran-s-p-500-y-dow-jones-al-alza/ar3248284",
-      "fecha": "28 Jul 2026, 14:58 hrs"
+      "titulo": "Mantendría OMA cobros ante crisis de aerolíneas",
+      "resumen": "OMA consideró ayer la posibilidad de posponer hasta mediados del 2028 su meta de que los ingresos por unidad de tráfico alcancen el 99%.",
+      "link": "https://www.reforma.com/mantendria-oma-cobros-ante-crisis-de-aerolineas/ar3248619",
+      "fecha": "29 Jul 2026, 06:53 hrs"
     }
   ]
 }
