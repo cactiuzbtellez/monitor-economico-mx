@@ -1,34 +1,7 @@
 {
-  "actualizado": "29/07/2026 13:15 hrs",
+  "actualizado": "29/07/2026 14:55 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
-      "resumen": "el banco central de Estados Unidos dejó su tasa entre 3.50% y 3.75% por quinta reunión consecutiva; tres integrantes votaron por elevarla ante una inflación que sigue por encima de la meta.",
-      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
-      "fecha": "29 Jul 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "CetesDirecto descarta inversiones en efectivo por su alto costo",
-      "resumen": "La plataforma de inversiones intentó implementar depósitos en efectivo con el Banco del Bienestar, pero los elevados costos para su manejo frenaron el plan.",
-      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
-      "fecha": "29 Jul 2026, 12:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
-      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
-      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
-      "fecha": "29 Jul 2026, 11:38 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,33 @@
       "resumen": "La riqueza privada alcanzó un máximo histórico en México, donde 22 milmillonarios acumulan más de 219,000 millones de dólares.",
       "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
       "fecha": "28 Jul 2026, 17:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
+      "resumen": "El encarecimiento de equipos de cómbuto ocurre en un momento particularmente sensible para los hogares mexicanos; el regreso a clases.",
+      "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
+      "fecha": "28 Jul 2026, 17:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
+      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
+      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
+      "fecha": "28 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
+      "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
+      "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
+      "fecha": "27 Jul 2026, 19:59 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,10 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Producirá Kia primer eléctrico en NL; invertirá 649 mdd",
-      "resumen": "Kia anunció una inversión de 649 mdd para producir por primera vez un vehículo totalmente eléctrico en México, en planta de Pesquería, NL.",
-      "link": "https://www.reforma.com/producira-kia-primer-electrico-en-nl-invertira-649-mdd/ar3248731",
-      "fecha": "29 Jul 2026, 08:15 hrs"
+      "titulo": "Deja Deschamps  Consejo del Banco Nacional de México",
+      "resumen": "Grupo Financiero Banamex anunció que Ignacio Deschamps deja de ser presidente del Consejo de Administración del Banco Nacional de México.",
+      "link": "https://www.reforma.com/deja-deschamps-consejo-del-banco-nacional-de-mexico/ar3248934",
+      "fecha": "29 Jul 2026, 13:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene Dow Jones su peor jornada desde abril de 2025",
+      "resumen": "Tras anuncio de Fed sobre tasas, Dow Jones cerró con una baja de un 2.19%, a 51 mil 594.14 puntos, su peor descenso desde abril de 2025.",
+      "link": "https://www.reforma.com/tiene-dow-jones-su-peor-jornada-desde-abril-de-2025/ar3248965",
+      "fecha": "29 Jul 2026, 14:29 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deslista Cox del mercado español acciones de filial mexicana",
-      "resumen": "Cox solicitó el desliste de las acciones de su filial mexicana del mercado bursátil español BME Growth a partir de este miércoles.",
-      "link": "https://www.reforma.com/deslista-cox-del-mercado-espanol-acciones-de-filial-mexicana/ar3248857",
-      "fecha": "29 Jul 2026, 12:17 hrs"
+      "titulo": "Producirá Kia primer eléctrico en NL; invertirá 649 mdd",
+      "resumen": "Kia anunció una inversión de 649 mdd para producir por primera vez un vehículo totalmente eléctrico en México, en planta de Pesquería, NL.",
+      "link": "https://www.reforma.com/producira-kia-primer-electrico-en-nl-invertira-649-mdd/ar3248731",
+      "fecha": "29 Jul 2026, 08:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde Dow Jones 800 puntos tras la apertura de Wall Street",
-      "resumen": "En una jornada en la que se espera la decisión de política monetaria de la Fed, el Dow Jones cae 1.52%, el S&amp;P 500 un 0.80% y el Nasdaq 1%.",
-      "link": "https://www.reforma.com/pierde-dow-jones-800-puntos-tras-la-apertura-de-wall-street/ar3248737",
-      "fecha": "29 Jul 2026, 08:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca AICM incrementar hasta 20% sus áreas comerciales",
-      "resumen": "El AICM prepara una reestructuración de su oferta comercial y proyecta crecer entre 15 y 20% de la superficie disponible.",
-      "link": "https://www.reforma.com/busca-aicm-incrementar-hasta-20-sus-areas-comerciales/ar3248898",
-      "fecha": "29 Jul 2026, 12:58 hrs"
+      "titulo": "Crecen 18% ingresos de Microsoft y superan previsiones",
+      "resumen": "Los ingresos de Microsoft crecieron un 18% interanual en el trimestre que finalizó el 30 de junio hasta los 90 mil 010 mdd.",
+      "link": "https://www.reforma.com/crecen-18-ingresos-de-microsoft-y-superan-previsiones/ar3248950",
+      "fecha": "29 Jul 2026, 14:19 hrs"
     }
   ]
 }
