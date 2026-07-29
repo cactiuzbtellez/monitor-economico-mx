@@ -1,7 +1,34 @@
 {
-  "actualizado": "29/07/2026 11:14 hrs",
+  "actualizado": "29/07/2026 13:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
+      "resumen": "el banco central de Estados Unidos dejó su tasa entre 3.50% y 3.75% por quinta reunión consecutiva; tres integrantes votaron por elevarla ante una inflación que sigue por encima de la meta.",
+      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
+      "fecha": "29 Jul 2026, 12:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "CetesDirecto descarta inversiones en efectivo por su alto costo",
+      "resumen": "La plataforma de inversiones intentó implementar depósitos en efectivo con el Banco del Bienestar, pero los elevados costos para su manejo frenaron el plan.",
+      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
+      "fecha": "29 Jul 2026, 12:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
+      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
+      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
+      "fecha": "29 Jul 2026, 11:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La fiebre por la IA encarece 4.52% las computadoras en México en solo 15 días",
-      "resumen": "El encarecimiento de equipos de cómbuto ocurre en un momento particularmente sensible para los hogares mexicanos; el regreso a clases.",
-      "link": "https://expansion.mx/economia/2026/07/28/precio-computadoras-mexico-escasez-memoria-ia-inegi",
-      "fecha": "28 Jul 2026, 17:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda prevé eliminar los estímulos al IEPS de gasolinas y diésel en 2027",
-      "resumen": "El gobierno estima que un mercado petrolero más estable hará innecesarios los subsidios, lo que fortalecería la recaudación tributaria y contribuiría al ajuste fiscal.",
-      "link": "https://expansion.mx/economia/2026/07/28/hacienda-adios-a-subsidios-a-magna-diesel-2027",
-      "fecha": "28 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU perfila un nuevo esquema comercial; México quiere preservar 85% de sus exportaciones sin arancel",
-      "resumen": "El gobierno mexicano definirá su estrategia para la siguiente etapa de la revisión del T-MEC una vez que Estados Unidos revele en agosto su nuevo sistema arancelario, afirmó Marcelo Ebrard.",
-      "link": "https://expansion.mx/economia/2026/07/27/eu-aranceles-agosto-mexico-85-exportaciones-tmec",
-      "fecha": "27 Jul 2026, 19:59 hrs"
+      "titulo": "Quién es el dueño de Kia, la automotriz que invertirá más de 600 mdd en México",
+      "resumen": "Hoy fabrica millones de vehículos al año y opera en casi 200 mercados, aunque su historia estuvo marcada por una crisis que casi termina con la compañía.",
+      "link": "https://expansion.mx/empresas/2026/07/29/quien-es-dueno-kia",
+      "fecha": "29 Jul 2026, 10:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -80,7 +89,7 @@
       "color": "#C8102E",
       "titulo": "Kia invertirá 649 millones de dólares en México para fabricar el EV3, un vehículo eléctrico que hoy produce en Corea",
       "resumen": "El proyecto contempla la producción de un vehículo eléctrico que actualmente se fabrica en Corea del Sur, en un movimiento que generará 1,500 empleos directos hacia 2030.",
-      "link": "https://expansion.mx/empresas/2026/07/29/kia-invertira-649-millones-de-dolares-en-mexico-para-fabricar-un-vehiculo-electrico-que-hoy-produce-en-corea",
+      "link": "https://expansion.mx/empresas/2026/07/29/kia-invertira-649-millones-dolares-mexico-auto-electrico",
       "fecha": "29 Jul 2026, 08:11 hrs"
     },
     {
@@ -138,13 +147,13 @@
       "fecha": "28 Jul 2026, 15:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liverpool quiere ser más rentable pero no a costa de crédito: el cambio de su estrategia financiera",
-      "resumen": "La minorista modificó la estrategia de su financiera tras la expansión de crédito posterior a la pandemia y ahora priorizará la rentabilidad, la calidad de la cartera y la vinculación con sus clientes…",
-      "link": "https://expansion.mx/empresas/2026/07/28/liverpool-quiere-ser-mas-rentable-pero-no-credito",
-      "fecha": "28 Jul 2026, 14:54 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca México bajar de 50% a 10% arancel al acero",
+      "resumen": "Ebrard, reveló que México propuso a EU reducir de 50% a alrededor de 10 % el arancel aplicado al acero nacional.",
+      "link": "https://www.reforma.com/busca-mexico-bajar-de-50-a-10-arancel-al-acero/ar3248873",
+      "fecha": "29 Jul 2026, 12:32 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,28 +168,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pagarán empresas energía más cara",
-      "resumen": "Nuevas reglas para migrar permisos de autoabastecimiento harán que empresas modifiquen o negocien sus contratos de compra de energía.",
-      "link": "https://www.reforma.com/pagaran-empresas-energia-mas-cara/ar3248582",
-      "fecha": "29 Jul 2026, 05:01 hrs"
+      "titulo": "Mantiene Fed tasas de interés",
+      "resumen": "La Reserva Federal votó a favor de mantener su tasa de interés sin cambios, pero no sin la oposición de 3 funcionarios que querían subirla.",
+      "link": "https://www.reforma.com/mantiene-fed-tasas-de-interes/ar3248854",
+      "fecha": "29 Jul 2026, 12:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disputan cerveceras cetro regio",
-      "resumen": "Grupo Modelo llevará su estrategia de mercadotecnia a las canchas de futbol regias, elevando una añeja disputa por el mercado nuevoleonés.",
-      "link": "https://www.reforma.com/disputan-cerveceras-cetro-regio/ar3248522",
-      "fecha": "28 Jul 2026, 20:08 hrs"
+      "titulo": "Cae economía en CDMX, NL y Jalisco más que el PIB nacional",
+      "resumen": "En el primer trimestre, la economía de CDMX bajó 2.88%, la de NL 1.26% y Jalisco 0.82%, mayores caídas que la de 0.62% en el PIB nacional.",
+      "link": "https://www.reforma.com/cae-economia-en-cdmx-nl-y-jalisco-mas-que-el-pib-nacional/ar3248886",
+      "fecha": "29 Jul 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invierte Woodside 446 mdd en Trion; reporta avance de 64%",
-      "resumen": "Al cierre de junio, Woodside Energy, operador del campo Trion, invirtió 446 millones de dólares en el megaproyecto y cuyo avance es de 64%.",
-      "link": "https://www.reforma.com/invierte-woodside-446-mdd-en-trion-reporta-avance-de-64/ar3248499",
-      "fecha": "28 Jul 2026, 19:59 hrs"
+      "titulo": "Deslista Cox del mercado español acciones de filial mexicana",
+      "resumen": "Cox solicitó el desliste de las acciones de su filial mexicana del mercado bursátil español BME Growth a partir de este miércoles.",
+      "link": "https://www.reforma.com/deslista-cox-del-mercado-espanol-acciones-de-filial-mexicana/ar3248857",
+      "fecha": "29 Jul 2026, 12:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se dispara crudo Brent 8% y cierra en 91 dólares",
+      "resumen": "El barril de Brent subió 8.3% hasta los 91.05 dólares, mientras que el West Texas Intermediate cerró con un alza de 6.56%, a 84.46 dólares.",
+      "link": "https://www.reforma.com/se-dispara-crudo-brent-8-y-cierra-en-91-dolares/ar3248892",
+      "fecha": "29 Jul 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repuntan precios del crudo más de 7%",
-      "resumen": "Los futuros del Brent subían 7.2%, a 90.20 dólares el barril, mientras que el crudo estadounidense WTI ganaba 7.1%, a 84.95 dólares.",
-      "link": "https://www.reforma.com/repuntan-precios-del-crudo-mas-de-7/ar3248699",
-      "fecha": "29 Jul 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urge Comce abrir 24 horas las aduanas marítimas",
-      "resumen": "El Comce propondrá que las aduanas de Manzanillo y Lázaro Cárdenas operen las 24 horas del día.",
-      "link": "https://www.reforma.com/urge-comce-abrir-24-horas-las-aduanas-maritimas/ar3248620",
-      "fecha": "29 Jul 2026, 06:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden para compus contenido regional",
-      "resumen": "Sugieren implementar reglas de contenido regional para desarrollar en los países del T-MEC cadenas de suministro para equipo de cómputo.",
-      "link": "https://www.reforma.com/piden-para-compus-contenido-regional/ar3248592",
-      "fecha": "29 Jul 2026, 06:53 hrs"
+      "titulo": "Busca AICM incrementar hasta 20% sus áreas comerciales",
+      "resumen": "El AICM prepara una reestructuración de su oferta comercial y proyecta crecer entre 15 y 20% de la superficie disponible.",
+      "link": "https://www.reforma.com/busca-aicm-incrementar-hasta-20-sus-areas-comerciales/ar3248898",
+      "fecha": "29 Jul 2026, 12:58 hrs"
     }
   ]
 }
