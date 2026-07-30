@@ -1,7 +1,34 @@
 {
-  "actualizado": "29/07/2026 17:58 hrs",
+  "actualizado": "29/07/2026 21:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
+      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
+      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
+      "fecha": "29 Jul 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
+      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
+      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
+      "fecha": "29 Jul 2026, 13:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
+      "resumen": "La agencia advierte que el incremento acelerado de la deuda pública, un fracaso en la consolidación fiscal o un choque económico severo que deteriore las finanzas pueden ejercer presión sobre la nota …",
+      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
+      "fecha": "29 Jul 2026, 13:40 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
       "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
       "fecha": "28 Jul 2026, 19:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT disminuye multas y recargos por más de 5,700 mdp a 36,000 contribuyentes",
-      "resumen": "Los interesados en acceder al Programa de Regularización Fiscal 2026 tienen como fecha límite el 31 de octubre para presentar su solicitud.",
-      "link": "https://expansion.mx/economia/2026/07/28/sat-disminuye-multas-recargos-5700-millones",
-      "fecha": "28 Jul 2026, 19:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La oportunidad para la proveeduría mexicana está en 509,000 mdd de insumos importados",
-      "resumen": "Durante 2025, México importó 664,066 millones de dólares; 76.8% fueron bienes intermedios y 8.5% maquinaria y equipo; las compras externas responden principalmente a la producción, indica COMCE Norest…",
-      "link": "https://expansion.mx/economia/2026/07/28/mexico-proveeduria-insumos-importados",
-      "fecha": "28 Jul 2026, 17:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Así ha crecido la fortuna de Carlos Slim, Larrea, Baillères y Aramburuzabala: la realidad de los milmillonarios",
-      "resumen": "La riqueza privada alcanzó un máximo histórico en México, donde 22 milmillonarios acumulan más de 219,000 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/07/28/como-ha-crecido-fortuna-slim-larrea-bailleres-aramburuzabala",
-      "fecha": "28 Jul 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Reprueban 3 bancos evaluación de desempeño de Hacienda",
+      "resumen": "Bancrea, Credit Suisse México y Banco Shinhan de México btuvieron un resultado no satisfactorio en la Evaluación de Desempeño de la SHCP.",
+      "link": "https://www.reforma.com/reprueban-3-bancos-evaluacion-de-desempeno-de-hacienda/ar3249158",
+      "fecha": "29 Jul 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invertirán 400 mdd en aeropuerto de Tepic y Puerto Escondido",
+      "resumen": "AME informó que en los aeropuertos internacionales de Tepic y Puerto Escondido se canalizará una inversión de 400 millones de dólares.",
+      "link": "https://www.reforma.com/invertiran-400-mdd-en-aeropuerto-de-tepic-y-puerto-escondido/ar3249177",
+      "fecha": "29 Jul 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Revela Capufe lineamientos para servicio de telepeaje",
+      "resumen": "Capufe reveló los lineamientos de servicio de telepeaje IAVE, en donde destacó esquemas financieros, transacciones y registro en línea.",
+      "link": "https://www.reforma.com/revela-capufe-lineamientos-para-servicio-de-telepeaje/ar3249132",
+      "fecha": "29 Jul 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden régimen fiscal especial para fracking",
+      "resumen": "Gobierno federal debe analizar la creación de un régimen fiscal para la explotación de gas natural mediante fracking, recomienda Amexhi.",
+      "link": "https://www.reforma.com/piden-regimen-fiscal-especial-para-fracking/ar3249118",
+      "fecha": "29 Jul 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Bajaría Fitch nota del País si sube deuda significativamente",
       "resumen": "Fitch podría degradar la calificación crediticia de México si observa una escalada significativa de la carga de la deuda.",
       "link": "https://www.reforma.com/bajaria-fitch-nota-del-pais-si-sube-deuda-significativamente/ar3248919",
@@ -181,42 +217,6 @@
       "resumen": "Tras anuncio de Fed sobre tasas, Dow Jones cerró con una baja de un 2.19%, a 51 mil 594.14 puntos, su peor descenso desde abril de 2025.",
       "link": "https://www.reforma.com/tiene-dow-jones-su-peor-jornada-desde-abril-de-2025/ar3248965",
       "fecha": "29 Jul 2026, 14:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mantiene Fed tasas de interés",
-      "resumen": "La Reserva Federal votó a favor de mantener su tasa de interés sin cambios, pero no sin la oposición de 3 funcionarios que querían subirla.",
-      "link": "https://www.reforma.com/mantiene-fed-tasas-de-interes/ar3248854",
-      "fecha": "29 Jul 2026, 12:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae economía en CDMX, NL y Jalisco más que el PIB nacional",
-      "resumen": "En el primer trimestre, la economía de CDMX bajó 2.88%, la de NL 1.26% y Jalisco 0.82%, mayores caídas que la de 0.62% en el PIB nacional.",
-      "link": "https://www.reforma.com/cae-economia-en-cdmx-nl-y-jalisco-mas-que-el-pib-nacional/ar3248886",
-      "fecha": "29 Jul 2026, 12:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se dispara crudo Brent 8% y cierra en 91 dólares",
-      "resumen": "El barril de Brent subió 8.3% hasta los 91.05 dólares, mientras que el West Texas Intermediate cerró con un alza de 6.56%, a 84.46 dólares.",
-      "link": "https://www.reforma.com/se-dispara-crudo-brent-8-y-cierra-en-91-dolares/ar3248892",
-      "fecha": "29 Jul 2026, 12:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 18% ingresos de Microsoft y superan previsiones",
-      "resumen": "Los ingresos de Microsoft crecieron un 18% interanual en el trimestre que finalizó el 30 de junio hasta los 90 mil 010 mdd.",
-      "link": "https://www.reforma.com/crecen-18-ingresos-de-microsoft-y-superan-previsiones/ar3248950",
-      "fecha": "29 Jul 2026, 14:19 hrs"
     }
   ]
 }
