@@ -1,5 +1,5 @@
 {
-  "actualizado": "30/07/2026 13:25 hrs",
+  "actualizado": "30/07/2026 15:09 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "AIFA entra por primera vez al Top 10 de aeropuertos con más viajeros internacionales tras el Mundial",
-      "resumen": "De acuerdo con datos de la Agencia Federal de Aviación Civil, el aeropuerto ubicado en la Base de Santa Lucía se ubicó como el tercero de mayor incremento en tráfico internacional.",
-      "link": "https://expansion.mx/empresas/2026/07/30/aifa-entra-top-10-aeropuertos-mas-viajeros-mexico",
-      "fecha": "30 Jul 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cómo registrar tu número celular si termina en 0: requisitos y pasos para hacerlo antes del 15 de agosto",
-      "resumen": "La vinculación de líneas inicia con los números que terminan en 0. Esta guía explica la documentación requerida, el proceso en línea y cuándo no es necesario realizar el trámite.",
-      "link": "https://expansion.mx/empresas/2026/07/30/como-registrar-celular-curp-si-termina-0-15-de-agosto",
-      "fecha": "30 Jul 2026, 12:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Isuzu entra al negocio de las pickups en México con la D-MAX de 550,000 pesos",
-      "resumen": "El fabricante japonés incursiona por primera vez en el segmento de pickups en México con la D-MAX, un modelo importado desde Tailandia con el que buscará competir en una de las categorías de mayor vol…",
-      "link": "https://expansion.mx/empresas/2026/07/30/isuzu-primera-pickup-mexico-d-max-precio",
-      "fecha": "30 Jul 2026, 12:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
       "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
       "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
@@ -147,13 +120,40 @@
       "fecha": "29 Jul 2026, 17:49 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Gigante a Alsea: las 5 empresas que dominan los restaurantes en México y venden 111,000 mdp",
+      "resumen": "Estas compañías no solo administran algunas de las marcas más conocidas del país; también lideran el sector por ingresos, escala de operación y presencia nacional.",
+      "link": "https://expansion.mx/empresas/2026/07/29/de-gigante-a-alsea-5-empresas-reparten-negocio-restaurantes",
+      "fecha": "29 Jul 2026, 17:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Así logran Tiendas 3B y Neto mantener precios bajos en sus productos",
+      "resumen": "Con precios bajos, pocas marcas y tiendas compactas, Tiendas 3B y Neto compiten por conquistar a millones de consumidores.",
+      "link": "https://expansion.mx/empresas/2026/07/29/tiendas-3b-neto-son-rivales-tiendas-precios-bajos",
+      "fecha": "29 Jul 2026, 16:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo México dispara utilidades por el repunte de los metales y acelera su apuesta minera",
+      "resumen": "El repunte en los precios de la plata, el cobre y el molibdeno, junto con mayores volúmenes de venta, impulsó un crecimiento de 82% en las utilidades de la división minera de Grupo México durante el s…",
+      "link": "https://expansion.mx/empresas/2026/07/29/grupo-mexico-dispara-utilidades-por-repunte-de-los-metales",
+      "fecha": "29 Jul 2026, 16:01 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza 1.5% economía de México en segundo trimestre",
-      "resumen": "La economía de México creció 1.5% en el segundo trimestre, más de lo previsto, y registró su mejor desempeño en casi seis años.",
-      "link": "https://www.reforma.com/avanza-1-5-economia-de-mexico-en-segundo-trimestre/ar3249378",
-      "fecha": "30 Jul 2026, 07:17 hrs"
+      "titulo": "Afirma SHCP que  México retomó  la 'senda de crecimiento'",
+      "resumen": "La Secretaría de Hacienda afirmó que el País retomó la senda de crecimiento tras repuntar el PIB 1.5% en el segundo trimestre de 2026.",
+      "link": "https://www.reforma.com/afirma-shcp-que-mexico-retomo-la-senda-de-crecimiento/ar3249649",
+      "fecha": "30 Jul 2026, 14:25 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suma Microsoft 490 mil mdd en valor de mercado en 1 solo día",
-      "resumen": "Con un alza de 17%, Microsoft va camino de registrar el mayor aumento de valor de mercado en un solo día de cualquier acción en la historia.",
-      "link": "https://www.reforma.com/suma-microsoft-490-mil-mdd-en-valor-de-mercado-en-1-solo-dia/ar3249526",
-      "fecha": "30 Jul 2026, 11:46 hrs"
+      "titulo": "Lidera Nasdaq avances en Wall Street; sube 2.8%",
+      "resumen": "El tecnológico Nasdaq se disparó un 2.78%, impulsado por el avance de 16% en los títulos de Microsoft, que registró su mejor día desde 2008.",
+      "link": "https://www.reforma.com/lidera-nasdaq-avances-en-wall-street-sube-2-8/ar3249661",
+      "fecha": "30 Jul 2026, 14:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca rendimiento de bonos de EU a 30 años máximo de 19 años",
-      "resumen": "El retorno de los papeles a 30 años subía 6.1 puntos básicos, al 5.204%, tras alcanzar el 5.244%, un máximo desde el 13 de julio de 2007.",
-      "link": "https://www.reforma.com/toca-rendimiento-de-bonos-de-eu-a-30-anos-maximo-de-19-anos/ar3249467",
-      "fecha": "30 Jul 2026, 10:10 hrs"
+      "titulo": "Cae crudo ante esperanza de negociaciones en Medio Oriente",
+      "resumen": "El barril de Brent retrocedió un 1.89% hasta los 89.03 dólares ,ientras que su equivalente estadounidense cayó 1.03% a 83.59 dólares.",
+      "link": "https://www.reforma.com/cae-crudo-ante-esperanza-de-negociaciones-en-medio-oriente/ar3249634",
+      "fecha": "30 Jul 2026, 14:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reduce OpenAI precios de dos de sus modelos de IA GPT-5.6",
-      "resumen": "OpenAI redujo el precio de dos de sus últimos modelos de inteligencia artificial: el de GPT-5.6 Terra bajará 20% y el de Luna un 80%.",
-      "link": "https://www.reforma.com/reduce-openai-precios-de-dos-de-sus-modelos-de-ia-gpt-5-6/ar3249535",
-      "fecha": "30 Jul 2026, 12:03 hrs"
+      "titulo": "Registra Apple un aumento del 22% en las ventas de iPhone",
+      "resumen": "Apple reportó ganancias e ingresos mayores a los esperados en el tercer trimestre fiscal, gracias a un alza de 22% en las ventas de iPhone.",
+      "link": "https://www.reforma.com/registra-apple-un-aumento-del-22-en-las-ventas-de-iphone/ar3249683",
+      "fecha": "30 Jul 2026, 14:50 hrs"
     }
   ]
 }
