@@ -1,16 +1,7 @@
 {
-  "actualizado": "30/07/2026 15:09 hrs",
+  "actualizado": "30/07/2026 17:06 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
-      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
-      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
-      "fecha": "30 Jul 2026, 06:44 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
-      "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
-      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
-      "fecha": "30 Jul 2026, 07:15 hrs"
+      "titulo": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
+      "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
+      "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
+      "fecha": "28 Jul 2026, 19:45 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +138,15 @@
       "fecha": "29 Jul 2026, 16:01 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Quién es el dueño de Kia, la automotriz que invertirá más de 600 mdd en México",
+      "resumen": "Hoy fabrica millones de vehículos al año y opera en casi 200 mercados, aunque su historia estuvo marcada por una crisis que casi termina con la compañía.",
+      "link": "https://expansion.mx/empresas/2026/07/29/quien-es-dueno-kia",
+      "fecha": "29 Jul 2026, 10:08 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,10 +168,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Prevé STRM que impacte IA  en el empleo en cinco años",
+      "resumen": "Impacto de IA se verá en cinco años debido a que se perderán trabajos por no adaptarse a los cambios, advierten telefonistas.",
+      "link": "https://www.reforma.com/preve-strm-que-impacte-ia-en-el-empleo-en-cinco-anos/ar3249708",
+      "fecha": "30 Jul 2026, 15:41 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Da distinción el tequila  a exportaciones mexicanas",
       "resumen": "La denominación de origen del tequila hace que la bebida sea representante de la calidad en la producción exportadora de México.",
       "link": "https://www.reforma.com/da-distincion-el-tequila-a-exportaciones-mexicanas/ar3249557",
       "fecha": "30 Jul 2026, 12:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reactivan créditos para pymes de calzado",
+      "resumen": "Secretaría de Economía anunció que mediante el Focir se otorgarán créditos a Mipymes del sector calzado.",
+      "link": "https://www.reforma.com/reactivan-creditos-para-pymes-de-calzado/ar3249737",
+      "fecha": "30 Jul 2026, 15:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hace Microsoft historia: suma 450 mmdd de valor ¡en 1 día!",
+      "resumen": "Microsoft hizo historia al sumar casi medio billón de dólares a su valor, la mayor ganancia registrada por una acción en una sola jornada.",
+      "link": "https://www.reforma.com/hace-microsoft-historia-suma-450-mmdd-de-valor-en-1-dia/ar3249526",
+      "fecha": "30 Jul 2026, 11:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desacelera crecimiento de PIB de EU en el segundo trimestre",
-      "resumen": "La economía de Estados Unidos creció 1.5% a tasa anualizada en el segundo trimestre de 2026, menos de lo esperado por los analistas.",
-      "link": "https://www.reforma.com/desacelera-crecimiento-de-pib-de-eu-en-el-segundo-trimestre/ar3249364",
-      "fecha": "30 Jul 2026, 07:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera Nasdaq avances en Wall Street; sube 2.8%",
+      "titulo": "Lidera Nasdaq avances en Wall Street",
       "resumen": "El tecnológico Nasdaq se disparó un 2.78%, impulsado por el avance de 16% en los títulos de Microsoft, que registró su mejor día desde 2008.",
-      "link": "https://www.reforma.com/lidera-nasdaq-avances-en-wall-street-sube-2-8/ar3249661",
+      "link": "https://www.reforma.com/lidera-nasdaq-avances-en-wall-street/ar3249661",
       "fecha": "30 Jul 2026, 14:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae crudo ante esperanza de negociaciones en Medio Oriente",
-      "resumen": "El barril de Brent retrocedió un 1.89% hasta los 89.03 dólares ,ientras que su equivalente estadounidense cayó 1.03% a 83.59 dólares.",
-      "link": "https://www.reforma.com/cae-crudo-ante-esperanza-de-negociaciones-en-medio-oriente/ar3249634",
-      "fecha": "30 Jul 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra Apple un aumento del 22% en las ventas de iPhone",
-      "resumen": "Apple reportó ganancias e ingresos mayores a los esperados en el tercer trimestre fiscal, gracias a un alza de 22% en las ventas de iPhone.",
-      "link": "https://www.reforma.com/registra-apple-un-aumento-del-22-en-las-ventas-de-iphone/ar3249683",
-      "fecha": "30 Jul 2026, 14:50 hrs"
     }
   ]
 }
