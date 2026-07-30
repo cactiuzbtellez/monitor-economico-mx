@@ -1,5 +1,5 @@
 {
-  "actualizado": "30/07/2026 07:59 hrs",
+  "actualizado": "30/07/2026 09:56 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
-      "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
-      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
-      "fecha": "30 Jul 2026, 07:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Ni solo gasolina ni solo eléctricos: Kia convierte su planta de Pesquería en una fábrica multienergía",
       "resumen": "La producción del EV3 se sumará a los modelos de combustión K3 y K4. La apuesta refleja una nueva etapa para la industria automotriz que apunta a fábricas capaces de ensamblar distintas tecnologías ba…",
       "link": "https://expansion.mx/empresas/2026/07/29/planta-kia-pesqueria-hizo-autos-gasolina-10-anos-transforma",
@@ -147,6 +138,15 @@
       "fecha": "29 Jul 2026, 16:01 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Quién es el dueño de Kia, la automotriz que invertirá más de 600 mdd en México",
+      "resumen": "Hoy fabrica millones de vehículos al año y opera en casi 200 mercados, aunque su historia estuvo marcada por una crisis que casi termina con la compañía.",
+      "link": "https://expansion.mx/empresas/2026/07/29/quien-es-dueno-kia",
+      "fecha": "29 Jul 2026, 10:08 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera Mundial expectativas en derrama de NL",
-      "resumen": "Tras la realización de los cuatro partidos del Mundial de Futbol 2026 en Monterrey NL campo 5 mil millones de pesos.",
-      "link": "https://www.reforma.com/supera-mundial-expectativas-en-derrama-de-nl/ar3249310",
-      "fecha": "30 Jul 2026, 07:05 hrs"
+      "titulo": "Repuntan mercados de EU, de la mano de Microsoft",
+      "resumen": "Tras las fuertes pérdidas del miércoles, el Nasdaq Composite avanzaba 2%, gracias al alza de 15% registrado por las acciones de Microsoft.",
+      "link": "https://www.reforma.com/repuntan-mercados-de-eu-de-la-mano-de-microsoft/ar3249398",
+      "fecha": "30 Jul 2026, 08:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 1.4% economía de NL; menor alza desde 2021",
-      "resumen": "En el primer trimestre de este año, el Indicador Trimestral de la Actividad Económica Estatal de NL registró un crecimiento anual del 1.4%.",
-      "link": "https://www.reforma.com/crece-1-4-economia-de-nl-menor-alza-desde-2021/ar3249307",
-      "fecha": "30 Jul 2026, 07:05 hrs"
+      "titulo": "Se modera inflación de EU a 3.7% en junio",
+      "resumen": "La inflación de EU se moderó a 3.7% en junio, según el índice PCE seguido por la Fed, gracias a una baja en los precios de la energía.",
+      "link": "https://www.reforma.com/se-modera-inflacion-de-eu-a-3-7-en-junio/ar3249399",
+      "fecha": "30 Jul 2026, 08:21 hrs"
     }
   ]
 }
