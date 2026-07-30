@@ -1,5 +1,5 @@
 {
-  "actualizado": "30/07/2026 05:51 hrs",
+  "actualizado": "30/07/2026 07:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
+      "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
+      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
+      "fecha": "30 Jul 2026, 07:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Ni solo gasolina ni solo eléctricos: Kia convierte su planta de Pesquería en una fábrica multienergía",
       "resumen": "La producción del EV3 se sumará a los modelos de combustión K3 y K4. La apuesta refleja una nueva etapa para la industria automotriz que apunta a fábricas capaces de ensamblar distintas tecnologías ba…",
       "link": "https://expansion.mx/empresas/2026/07/29/planta-kia-pesqueria-hizo-autos-gasolina-10-anos-transforma",
@@ -138,22 +147,13 @@
       "fecha": "29 Jul 2026, 16:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Quién es el dueño de Kia, la automotriz que invertirá más de 600 mdd en México",
-      "resumen": "Hoy fabrica millones de vehículos al año y opera en casi 200 mercados, aunque su historia estuvo marcada por una crisis que casi termina con la compañía.",
-      "link": "https://expansion.mx/empresas/2026/07/29/quien-es-dueno-kia",
-      "fecha": "29 Jul 2026, 10:08 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Faltan piezas chinas locales",
-      "resumen": "El sector de postventa y refacciones en México atraviesa por una etapa de transformación debido a la rápida penetración de vehículos chinos.",
-      "link": "https://www.reforma.com/faltan-piezas-chinas-locales/ar3249277",
-      "fecha": "30 Jul 2026, 05:01 hrs"
+      "titulo": "Crece 1.5% economía de México en segundo trimestre",
+      "resumen": "La economía de México creció 1.5% en el segundo trimestre, más de lo previsto, y registró su mejor desempeño en casi seis años.",
+      "link": "https://www.reforma.com/crece-1-5-economia-de-mexico-en-segundo-trimestre/ar3249378",
+      "fecha": "30 Jul 2026, 07:17 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,18 +168,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invertirán 400 mdd en aeropuerto de Tepic y Puerto Escondido",
-      "resumen": "AME informó que en los aeropuertos internacionales de Tepic y Puerto Escondido se canalizará una inversión de 400 millones de dólares.",
-      "link": "https://www.reforma.com/invertiran-400-mdd-en-aeropuerto-de-tepic-y-puerto-escondido/ar3249177",
-      "fecha": "29 Jul 2026, 19:52 hrs"
+      "titulo": "Faltan piezas chinas locales",
+      "resumen": "El sector de postventa y refacciones en México atraviesa por una etapa de transformación debido a la rápida penetración de vehículos chinos.",
+      "link": "https://www.reforma.com/faltan-piezas-chinas-locales/ar3249277",
+      "fecha": "30 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revela Capufe lineamientos para servicio de telepeaje",
-      "resumen": "Capufe reveló los lineamientos de servicio de telepeaje IAVE, en donde destacó esquemas financieros, transacciones y registro en línea.",
-      "link": "https://www.reforma.com/revela-capufe-lineamientos-para-servicio-de-telepeaje/ar3249132",
+      "titulo": "Invertirán 400 mdd en aeropuerto de Tepic y Puerto Escondido",
+      "resumen": "AME informó que en los aeropuertos internacionales de Tepic y Puerto Escondido se canalizará una inversión de 400 millones de dólares.",
+      "link": "https://www.reforma.com/invertiran-400-mdd-en-aeropuerto-de-tepic-y-puerto-escondido/ar3249177",
       "fecha": "29 Jul 2026, 19:52 hrs"
     },
     {
@@ -195,28 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajaría Fitch nota del País si sube deuda significativamente",
-      "resumen": "Fitch podría degradar la calificación crediticia de México si observa una escalada significativa de la carga de la deuda.",
-      "link": "https://www.reforma.com/bajaria-fitch-nota-del-pais-si-sube-deuda-significativamente/ar3248919",
-      "fecha": "29 Jul 2026, 15:03 hrs"
+      "titulo": "Desacelera crecimiento de PIB de EU en el segundo trimestre",
+      "resumen": "La economía de Estados Unidos creció 1.5% a tasa anualizada en el segundo trimestre de 2026, menos de lo esperado por los analistas.",
+      "link": "https://www.reforma.com/desacelera-crecimiento-de-pib-de-eu-en-el-segundo-trimestre/ar3249364",
+      "fecha": "30 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca México bajar de 50% a 10% arancel al acero",
-      "resumen": "Ebrard, reveló que México propuso a EU reducir de 50% a alrededor de 10 % el arancel aplicado al acero nacional.",
-      "link": "https://www.reforma.com/busca-mexico-bajar-de-50-a-10-arancel-al-acero/ar3248873",
-      "fecha": "29 Jul 2026, 12:32 hrs"
+      "titulo": "Supera Mundial expectativas en derrama de NL",
+      "resumen": "Tras la realización de los cuatro partidos del Mundial de Futbol 2026 en Monterrey NL campo 5 mil millones de pesos.",
+      "link": "https://www.reforma.com/supera-mundial-expectativas-en-derrama-de-nl/ar3249310",
+      "fecha": "30 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Deschamps Consejo del Banco Nacional de México",
-      "resumen": "Grupo Financiero Banamex anunció que Ignacio Deschamps deja de ser presidente del Consejo de Administración del Banco Nacional de México.",
-      "link": "https://www.reforma.com/deja-deschamps-consejo-del-banco-nacional-de-mexico/ar3248934",
-      "fecha": "29 Jul 2026, 13:58 hrs"
+      "titulo": "Crece 1.4% economía de NL; menor alza desde 2021",
+      "resumen": "En el primer trimestre de este año, el Indicador Trimestral de la Actividad Económica Estatal de NL registró un crecimiento anual del 1.4%.",
+      "link": "https://www.reforma.com/crece-1-4-economia-de-nl-menor-alza-desde-2021/ar3249307",
+      "fecha": "30 Jul 2026, 07:05 hrs"
     }
   ]
 }
