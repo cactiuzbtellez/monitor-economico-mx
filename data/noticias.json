@@ -1,5 +1,5 @@
 {
-  "actualizado": "30/07/2026 03:30 hrs",
+  "actualizado": "30/07/2026 05:51 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Faltan piezas chinas locales",
+      "resumen": "El sector de postventa y refacciones en México atraviesa por una etapa de transformación debido a la rápida penetración de vehículos chinos.",
+      "link": "https://www.reforma.com/faltan-piezas-chinas-locales/ar3249277",
+      "fecha": "30 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Reprueban 3 bancos evaluación de desempeño de Hacienda",
       "resumen": "Bancrea, Credit Suisse México y Banco Shinhan de México btuvieron un resultado no satisfactorio en la Evaluación de Desempeño de la SHCP.",
       "link": "https://www.reforma.com/reprueban-3-bancos-evaluacion-de-desempeno-de-hacienda/ar3249158",
@@ -208,15 +217,6 @@
       "resumen": "Grupo Financiero Banamex anunció que Ignacio Deschamps deja de ser presidente del Consejo de Administración del Banco Nacional de México.",
       "link": "https://www.reforma.com/deja-deschamps-consejo-del-banco-nacional-de-mexico/ar3248934",
       "fecha": "29 Jul 2026, 13:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene Dow Jones su peor jornada desde abril de 2025",
-      "resumen": "Tras anuncio de Fed sobre tasas, Dow Jones cerró con una baja de un 2.19%, a 51 mil 594.14 puntos, su peor descenso desde abril de 2025.",
-      "link": "https://www.reforma.com/tiene-dow-jones-su-peor-jornada-desde-abril-de-2025/ar3248965",
-      "fecha": "29 Jul 2026, 14:29 hrs"
     }
   ]
 }
