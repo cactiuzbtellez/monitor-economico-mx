@@ -1,7 +1,16 @@
 {
-  "actualizado": "30/07/2026 09:56 hrs",
+  "actualizado": "30/07/2026 11:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
+      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+      "fecha": "30 Jul 2026, 06:44 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Santander supera el billón de pesos en créditos, pero caen tarjetas y financiamientos a empresas",
-      "resumen": "El banco reportó una caída anual de 4.1% en tarjetas de crédito y de 5.4% en crédito a empresas; sin embargo tuvo un mejor desempeño en crédito de auto con un aumento de 18.8%.",
-      "link": "https://expansion.mx/economia/2026/07/28/santander-billon-pesos-creditos-caen-tarjetas",
-      "fecha": "28 Jul 2026, 19:45 hrs"
+      "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
+      "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
+      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
+      "fecha": "30 Jul 2026, 07:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,21 +147,12 @@
       "fecha": "29 Jul 2026, 16:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Quién es el dueño de Kia, la automotriz que invertirá más de 600 mdd en México",
-      "resumen": "Hoy fabrica millones de vehículos al año y opera en casi 200 mercados, aunque su historia estuvo marcada por una crisis que casi termina con la compañía.",
-      "link": "https://expansion.mx/empresas/2026/07/29/quien-es-dueno-kia",
-      "fecha": "29 Jul 2026, 10:08 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 1.5% economía de México en segundo trimestre",
+      "titulo": "Avanza 1.5% economía de México en segundo trimestre",
       "resumen": "La economía de México creció 1.5% en el segundo trimestre, más de lo previsto, y registró su mejor desempeño en casi seis años.",
-      "link": "https://www.reforma.com/crece-1-5-economia-de-mexico-en-segundo-trimestre/ar3249378",
+      "link": "https://www.reforma.com/avanza-1-5-economia-de-mexico-en-segundo-trimestre/ar3249378",
       "fecha": "30 Jul 2026, 07:17 hrs"
     },
     {
@@ -177,18 +177,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invertirán 400 mdd en aeropuerto de Tepic y Puerto Escondido",
-      "resumen": "AME informó que en los aeropuertos internacionales de Tepic y Puerto Escondido se canalizará una inversión de 400 millones de dólares.",
-      "link": "https://www.reforma.com/invertiran-400-mdd-en-aeropuerto-de-tepic-y-puerto-escondido/ar3249177",
-      "fecha": "29 Jul 2026, 19:52 hrs"
+      "titulo": "Crece 1.4% economía de NL;  su menor alza desde 2021",
+      "resumen": "En el primer trimestre de este año, el Indicador Trimestral de la Actividad Económica Estatal de NL registró un crecimiento anual del 1.4%.",
+      "link": "https://www.reforma.com/crece-1-4-economia-de-nl-su-menor-alza-desde-2021/ar3249307",
+      "fecha": "30 Jul 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden régimen fiscal especial para fracking",
-      "resumen": "Gobierno federal debe analizar la creación de un régimen fiscal para la explotación de gas natural mediante fracking, recomienda Amexhi.",
-      "link": "https://www.reforma.com/piden-regimen-fiscal-especial-para-fracking/ar3249118",
+      "titulo": "Invertirán 400 mdd en aeropuerto de Tepic y Puerto Escondido",
+      "resumen": "AME informó que en los aeropuertos internacionales de Tepic y Puerto Escondido se canalizará una inversión de 400 millones de dólares.",
+      "link": "https://www.reforma.com/invertiran-400-mdd-en-aeropuerto-de-tepic-y-puerto-escondido/ar3249177",
       "fecha": "29 Jul 2026, 19:52 hrs"
     },
     {
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se modera inflación de EU a 3.7% en junio",
-      "resumen": "La inflación de EU se moderó a 3.7% en junio, según el índice PCE seguido por la Fed, gracias a una baja en los precios de la energía.",
-      "link": "https://www.reforma.com/se-modera-inflacion-de-eu-a-3-7-en-junio/ar3249399",
-      "fecha": "30 Jul 2026, 08:21 hrs"
+      "titulo": "Toca rendimiento de bonos de EU a 30 años máximo de 19 años",
+      "resumen": "El retorno de los papeles a 30 años subía 6.1 puntos básicos, al 5.204%, tras alcanzar el 5.244%, un máximo desde el 13 de julio de 2007.",
+      "link": "https://www.reforma.com/toca-rendimiento-de-bonos-de-eu-a-30-anos-maximo-de-19-anos/ar3249467",
+      "fecha": "30 Jul 2026, 10:10 hrs"
     }
   ]
 }
