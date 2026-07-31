@@ -1,7 +1,16 @@
 {
-  "actualizado": "31/07/2026 03:44 hrs",
+  "actualizado": "31/07/2026 05:59 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
+      "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
+      "fecha": "30 Jul 2026, 16:41 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Taiwán gana terreno en la industria de IA en México con escasa IED",
-      "resumen": "La IED cayó a apenas 40 millones de dólares en 2025, pero Foxconn, Inventec y Quanta expanden la producción de servidores para Nvidia y centros de datos.",
-      "link": "https://expansion.mx/economia/2026/07/29/taiwan-gana-peso-manufactura-mexico-no-en-inversiones",
-      "fecha": "29 Jul 2026, 05:55 hrs"
+      "titulo": "Trión alcanza 64% con una inversión de 446 millones de dólares en el semestre",
+      "resumen": "Woodside avanza en la perforación e instalación de infraestructura del campo Trión, un yacimiento en aguas ultraprofundas con potencial para producir hasta 100,000 barriles diarios.",
+      "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
+      "fecha": "30 Jul 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
+      "fecha": "30 Jul 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
+      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/nunca-antes-me-habian-felicitado-por-manejar-coche-chino-zeekr-7x",
+      "fecha": "30 Jul 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Con OXXO o en tu celular: todas las formas de registrar tu línea desde el 1 de agosto si tu número termina en 0",
+      "resumen": "La vinculación obligatoria de líneas telefónicas ya comenzó de forma escalonada. Estas son las fechas límite, documentos necesarios y formas hacer el trámite sin filas.",
+      "link": "https://expansion.mx/empresas/2026/07/30/oxxo-todas-formas-de-registrar-linea-si-numero-termina-en-0",
+      "fecha": "30 Jul 2026, 15:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,49 @@
       "fecha": "30 Jul 2026, 12:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Conviene convertir tu auto a Gas LP? El ahorro puede superar los 6,000 pesos al mes en gasolina",
-      "resumen": "Conoce cuánto cuesta instalar un sistema de Gas LP, cómo funciona la conversión, qué mantenimiento requiere y el ahorro que puede representar en el uso diario.",
-      "link": "https://expansion.mx/empresas/2026/07/30/conviene-convertir-auto-a-gas-lp",
-      "fecha": "30 Jul 2026, 07:15 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Da Mundial impulso a economía en 2T",
+      "resumen": "Analistas atribuyen el crecimiento de 1.5% del PIB en el segundo trimestre de 2026 al Mundial de futbol.",
+      "link": "https://www.reforma.com/da-mundial-impulso-a-economia-en-2t/ar3250018",
+      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni solo gasolina ni solo eléctricos: Kia convierte su planta de Pesquería en una fábrica multienergía",
-      "resumen": "La producción del EV3 se sumará a los modelos de combustión K3 y K4. La apuesta refleja una nueva etapa para la industria automotriz que apunta a fábricas capaces de ensamblar distintas tecnologías ba…",
-      "link": "https://expansion.mx/empresas/2026/07/29/planta-kia-pesqueria-hizo-autos-gasolina-10-anos-transforma",
-      "fecha": "29 Jul 2026, 18:36 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge dinero para fracking",
+      "resumen": "México requiere perforar 20 mil pozos de gas natural y una inversión de 300 mil millones de dólares para proyectos de fracking.",
+      "link": "https://www.reforma.com/urge-dinero-para-fracking/ar3249982",
+      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "PepsiCo descarta amenazas o extorsión tras incendio en CeDis de Matamoros",
-      "resumen": "La empresa informó que el incendio en su centro de distribución de Matamoros no dejó personas lesionadas ni fallecidas y reiteró que colabora con las autoridades para esclarecer las causas del siniest…",
-      "link": "https://expansion.mx/empresas/2026/07/29/pepsico-descarta-extorsion-incendio-en-cedis-de-matamoros",
-      "fecha": "29 Jul 2026, 18:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene recaudación de ISR la peor caída desde 2025",
+      "resumen": "La recaudación de ingresos por ISR se ubicó en 226 mil 684 millones de pesos en junio de este año, una caída de 8.4% real anual.",
+      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2025/ar3250001",
+      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "L'Oréal eleva 6.3% sus ventas gracias al auge del cuidado capilar y la belleza dermatológica",
-      "resumen": "Marcas como CeraVe, La Roche-Posay y Kérastase permitieron al grupo superar las expectativas del mercado pese a un entorno marcado por los aranceles en Estados Unidos.",
-      "link": "https://expansion.mx/empresas/2026/07/29/loreal-crecimiento-cuidado-capilar-belleza-dermatologica",
-      "fecha": "29 Jul 2026, 17:57 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reta logística las devoluciones de ecommerce",
+      "resumen": "Pese al crecimiento de 25% anual, la industria del e-commerce enfrenta un cuello de botella crítico debido a la logística de devoluciones.",
+      "link": "https://www.reforma.com/reta-logistica-las-devoluciones-de-ecommerce/ar3250008",
+      "fecha": "31 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Manifiestan duda agentes aduanales",
+      "resumen": "Agentes aduanales y empresas importadoras desconocen si sistemas para la aplicación de la Manifestación de Valor Electrónica están listos.",
+      "link": "https://www.reforma.com/manifiestan-duda-agentes-aduanales/ar3249997",
+      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "Anthropic anunció que sus modelos de inteligencia artificial vulneraron la seguridad de tres organizaciones diferentes.",
       "link": "https://www.reforma.com/reporta-anthropic-que-su-ia-hackeo-tres-organizaciones/ar3249843",
       "fecha": "30 Jul 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar en $17.34",
-      "resumen": "El dólar cerró este jueves con una cotización de $17.34 ante la especulación sobre la futura política monetaria de la Fed.",
-      "link": "https://www.reforma.com/cierra-dolar-en-17-34/ar3249829",
-      "fecha": "30 Jul 2026, 17:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reactivan créditos para Pymes de calzado",
-      "resumen": "Secretaría de Economía anunció que mediante el Focir se otorgarán créditos a Mipymes del sector calzado.",
-      "link": "https://www.reforma.com/reactivan-creditos-para-pymes-de-calzado/ar3249737",
-      "fecha": "30 Jul 2026, 15:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén impacte IA en el empleo en cinco años.-STRM",
-      "resumen": "Impacto de IA se verá en cinco años debido a que se perderán trabajos por no adaptarse a los cambios, advierten telefonistas.",
-      "link": "https://www.reforma.com/preven-impacte-ia-en-el-empleo-en-cinco-anos-strm/ar3249708",
-      "fecha": "30 Jul 2026, 15:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Realiza Japón una enorme intervención en el mercado de yenes",
-      "resumen": "Japón llevó a cabo una intervención masiva en los mercados de Nueva York, comprando yenes y vendiendo dólares, informó el diario Nikkei.",
-      "link": "https://www.reforma.com/realiza-japon-una-enorme-intervencion-en-el-mercado-de-yenes/ar3249717",
-      "fecha": "30 Jul 2026, 15:39 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra Apple un aumento del 22% en las ventas de iPhone",
-      "resumen": "Apple reportó ganancias e ingresos mayores a los esperados en el tercer trimestre fiscal, gracias a un alza de 22% en las ventas de iPhone.",
-      "link": "https://www.reforma.com/registra-apple-un-aumento-del-22-en-las-ventas-de-iphone/ar3249683",
-      "fecha": "30 Jul 2026, 14:50 hrs"
     }
   ]
 }
