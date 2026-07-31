@@ -1,5 +1,5 @@
 {
-  "actualizado": "31/07/2026 05:59 hrs",
+  "actualizado": "31/07/2026 08:27 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Berries Paradise fortalece exportaciones a Asia y Europa sin dejar de lado a EU y Canadá",
+      "resumen": "La empresa mexicana acelera su expansión internacional con foco en Japón, Europa y Canadá, mientras invierte en aumentar la producción y desarrollar el mercado nacional.",
+      "link": "https://expansion.mx/empresas/2026/07/31/berries-paradise-manda-70-fresas-berries-eu-vender-paises",
+      "fecha": "31 Jul 2026, 05:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
+      "resumen": "La compañía reportó una utilidad de 852 millones de pesos, apoyado por la incorporación de nuevos clientes, el avance de su oferta de streaming y la expansión de su negocio móvil.",
+      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
+      "fecha": "30 Jul 2026, 19:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Constellation Brands enfrenta el reto logístico de llevar por mar su cerveza de Veracruz a Estados Unidos",
+      "resumen": "La nueva planta de Veracruz incorporará por primera vez envíos marítimos hacia Estados Unidos, un modelo operativo que obliga a Constellation Brands a validar procesos logísticos antes de iniciar oper…",
+      "link": "https://expansion.mx/empresas/2026/07/30/constellation-brands-enfrenta-el-reto-logistico-de-llevar-por-mar-su-cerveza-de-veracruz-a-estados-unidos",
+      "fecha": "30 Jul 2026, 18:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Trión alcanza 64% con una inversión de 446 millones de dólares en el semestre",
       "resumen": "Woodside avanza en la perforación e instalación de infraestructura del campo Trión, un yacimiento en aguas ultraprofundas con potencial para producir hasta 100,000 barriles diarios.",
       "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
@@ -120,39 +147,48 @@
       "fecha": "30 Jul 2026, 13:21 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AIFA entra por primera vez al Top 10 de aeropuertos con más viajeros internacionales tras el Mundial",
-      "resumen": "De acuerdo con datos de la Agencia Federal de Aviación Civil, el aeropuerto ubicado en la Base de Santa Lucía se ubicó como el tercero de mayor incremento en tráfico internacional.",
-      "link": "https://expansion.mx/empresas/2026/07/30/aifa-entra-top-10-aeropuertos-mas-viajeros-mexico",
-      "fecha": "30 Jul 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cómo registrar tu número celular si termina en 0: requisitos y pasos para hacerlo antes del 15 de agosto",
-      "resumen": "La vinculación de líneas inicia con los números que terminan en 0. Esta guía explica la documentación requerida, el proceso en línea y cuándo no es necesario realizar el trámite.",
-      "link": "https://expansion.mx/empresas/2026/07/30/como-registrar-celular-curp-si-termina-0-15-de-agosto",
-      "fecha": "30 Jul 2026, 12:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Isuzu entra al negocio de las pickups en México con la D-MAX de 550,000 pesos",
-      "resumen": "El fabricante japonés incursiona por primera vez en el segmento de pickups en México con la D-MAX, un modelo importado desde Tailandia con el que buscará competir en una de las categorías de mayor vol…",
-      "link": "https://expansion.mx/empresas/2026/07/30/isuzu-primera-pickup-mexico-d-max-precio",
-      "fecha": "30 Jul 2026, 12:15 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Da Mundial impulso a economía en 2T",
       "resumen": "Analistas atribuyen el crecimiento de 1.5% del PIB en el segundo trimestre de 2026 al Mundial de futbol.",
       "link": "https://www.reforma.com/da-mundial-impulso-a-economia-en-2t/ar3250018",
+      "fecha": "31 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Llegaría deuda al 60% del PIB antes de 2030",
+      "resumen": "La deuda bruta del sector público de México alcanzará el 58% del Producto Interno Bruto.",
+      "link": "https://www.reforma.com/llegaria-deuda-al-60-del-pib-antes-de-2030/ar3250034",
+      "fecha": "31 Jul 2026, 06:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene recaudación de ISR la peor caída desde 2025",
+      "resumen": "La recaudación de ingresos por ISR se ubicó en 226 mil 684 millones de pesos en junio de este año, una caída de 8.4% real anual.",
+      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2025/ar3250001",
+      "fecha": "31 Jul 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén que Sonora exporte 11 mil reses tras reapertura",
+      "resumen": "Estiman que Sonora exportará 10.5 mil cabezas por mes tras la reapertura de frontera.",
+      "link": "https://www.reforma.com/preven-que-sonora-exporte-11-mil-reses-tras-reapertura/ar3250042",
+      "fecha": "31 Jul 2026, 06:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Manifiestan duda agentes aduanales",
+      "resumen": "Agentes aduanales y empresas importadoras desconocen si sistemas para la aplicación de la Manifestación de Valor Electrónica están listos.",
+      "link": "https://www.reforma.com/manifiestan-duda-agentes-aduanales/ar3249997",
       "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene recaudación de ISR la peor caída desde 2025",
-      "resumen": "La recaudación de ingresos por ISR se ubicó en 226 mil 684 millones de pesos en junio de este año, una caída de 8.4% real anual.",
-      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2025/ar3250001",
-      "fecha": "31 Jul 2026, 05:01 hrs"
+      "titulo": "Repite Corona como la marca más valiosa de México",
+      "resumen": "Corona Extra se volvió a coronar como la marca más valiosa de México, al alcanzar un valor en 2026 de 13.9 mil mdd.",
+      "link": "https://www.reforma.com/repite-corona-como-la-marca-mas-valiosa-de-mexico/ar3250023",
+      "fecha": "31 Jul 2026, 06:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reta logística las devoluciones de ecommerce",
-      "resumen": "Pese al crecimiento de 25% anual, la industria del e-commerce enfrenta un cuello de botella crítico debido a la logística de devoluciones.",
-      "link": "https://www.reforma.com/reta-logistica-las-devoluciones-de-ecommerce/ar3250008",
-      "fecha": "31 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Manifiestan duda agentes aduanales",
-      "resumen": "Agentes aduanales y empresas importadoras desconocen si sistemas para la aplicación de la Manifestación de Valor Electrónica están listos.",
-      "link": "https://www.reforma.com/manifiestan-duda-agentes-aduanales/ar3249997",
-      "fecha": "31 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen 30.7% utilidades de CFE; crece deuda",
-      "resumen": "En primer semestre del año, utilidad neta de CFE sumó 47 mil 623 millones de pesos, una caída anual de 30.7%, según reporte enviado a BMV.",
-      "link": "https://www.reforma.com/caen-30-7-utilidades-de-cfe-crece-deuda/ar3249886",
-      "fecha": "30 Jul 2026, 19:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén apertura de planta cervecera en febrero de 2027",
-      "resumen": "Constellation Brands informó que la apertura de su planta cervecera de Veracruz ocurrirá en febrero de 2027.",
-      "link": "https://www.reforma.com/preven-apertura-de-planta-cervecera-en-febrero-de-2027/ar3249936",
-      "fecha": "30 Jul 2026, 20:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta Anthropic que su IA hackeó tres organizaciones",
-      "resumen": "Anthropic anunció que sus modelos de inteligencia artificial vulneraron la seguridad de tres organizaciones diferentes.",
-      "link": "https://www.reforma.com/reporta-anthropic-que-su-ia-hackeo-tres-organizaciones/ar3249843",
-      "fecha": "30 Jul 2026, 17:49 hrs"
+      "titulo": "Sube índice Nasdaq,  ahora impulsado por Amazon",
+      "resumen": "El tecnológico Nasdaq subía por segundo día consecutivo impulsado por el repunte de 11% en Amazon y por las acciones de semiconductores.",
+      "link": "https://www.reforma.com/sube-indice-nasdaq-ahora-impulsado-por-amazon/ar3250138",
+      "fecha": "31 Jul 2026, 08:17 hrs"
     }
   ]
 }
