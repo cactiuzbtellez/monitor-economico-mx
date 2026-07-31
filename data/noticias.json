@@ -1,7 +1,16 @@
 {
-  "actualizado": "31/07/2026 08:27 hrs",
+  "actualizado": "31/07/2026 10:45 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
+      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
+      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
+      "fecha": "31 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
-      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
-      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
-      "fecha": "29 Jul 2026, 11:38 hrs"
+      "titulo": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
+      "resumen": "El arrendamiento es el verdadero motor de Inmuebles Carso: aporta casi ocho de cada 10 pesos que factura la empresa y supera ampliamente a la venta de inmuebles y los hoteles.",
+      "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
+      "fecha": "31 Jul 2026, 07:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,22 +147,13 @@
       "fecha": "30 Jul 2026, 15:08 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El maximalismo regresa y cambia las decisiones de negocio de las marcas de moda",
-      "resumen": "Las piezas grandes, los colores intensos y los accesorios acumulables recuperan espacio después de varios años dominados por diseños discretos.",
-      "link": "https://expansion.mx/empresas/2026/07/30/maximalismo-regresa-marcas-moda-joyeria",
-      "fecha": "30 Jul 2026, 13:21 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Da Mundial impulso a economía en 2T",
-      "resumen": "Analistas atribuyen el crecimiento de 1.5% del PIB en el segundo trimestre de 2026 al Mundial de futbol.",
-      "link": "https://www.reforma.com/da-mundial-impulso-a-economia-en-2t/ar3250018",
-      "fecha": "31 Jul 2026, 05:01 hrs"
+      "titulo": "Pierde Pemex  27.9 mil mdd  en el semestre",
+      "resumen": "En el primer semestre, Pemex perdió 27 mil 968 millones de pesos, que contrasta con las utilidades de 16 mil 187 millones en dicho periodo.",
+      "link": "https://www.reforma.com/pierde-pemex-27-9-mil-mdd-en-el-semestre/ar3250193",
+      "fecha": "31 Jul 2026, 10:12 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,6 +163,15 @@
       "resumen": "La deuda bruta del sector público de México alcanzará el 58% del Producto Interno Bruto.",
       "link": "https://www.reforma.com/llegaria-deuda-al-60-del-pib-antes-de-2030/ar3250034",
       "fecha": "31 Jul 2026, 06:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Da Mundial impulso a economía en 2T",
+      "resumen": "Analistas atribuyen el crecimiento de 1.5% del PIB en el segundo trimestre de 2026 al Mundial de futbol.",
+      "link": "https://www.reforma.com/da-mundial-impulso-a-economia-en-2t/ar3250018",
+      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,15 +195,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Manifiestan duda agentes aduanales",
-      "resumen": "Agentes aduanales y empresas importadoras desconocen si sistemas para la aplicación de la Manifestación de Valor Electrónica están listos.",
-      "link": "https://www.reforma.com/manifiestan-duda-agentes-aduanales/ar3249997",
-      "fecha": "31 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Urge dinero para fracking",
       "resumen": "México requiere perforar 20 mil pozos de gas natural y una inversión de 300 mil millones de dólares para proyectos de fracking.",
       "link": "https://www.reforma.com/urge-dinero-para-fracking/ar3249982",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube índice Nasdaq,  ahora impulsado por Amazon",
-      "resumen": "El tecnológico Nasdaq subía por segundo día consecutivo impulsado por el repunte de 11% en Amazon y por las acciones de semiconductores.",
-      "link": "https://www.reforma.com/sube-indice-nasdaq-ahora-impulsado-por-amazon/ar3250138",
-      "fecha": "31 Jul 2026, 08:17 hrs"
+      "titulo": "Caen 9% acciones de Apple",
+      "resumen": "Acciones de Apple 9.38% dado que la escasez de componentes afectó a las previsiones de ventas de la empresa.",
+      "link": "https://www.reforma.com/caen-9-acciones-de-apple/ar3250173",
+      "fecha": "31 Jul 2026, 09:46 hrs"
     }
   ]
 }
