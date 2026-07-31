@@ -1,16 +1,7 @@
 {
-  "actualizado": "31/07/2026 10:45 hrs",
+  "actualizado": "31/07/2026 12:20 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
-      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
-      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
-      "fecha": "31 Jul 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,33 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
+      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
+      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
+      "fecha": "29 Jul 2026, 11:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
+      "resumen": "La minorista redujo 4.9% sus ingresos, pero el menor costo financiero impulsó su utilidad neta durante el segundo trimestre.",
+      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
+      "fecha": "31 Jul 2026, 11:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex eleva sus ingresos, pero el aumento en costos e impuestos desploma 70% sus utilidades",
+      "resumen": "La petrolera estatal elevó sus ingresos gracias al repunte de los precios internacionales del crudo, pero mayores impuestos, costos operativos y gastos financieros redujo en casi 70% sus ganancias ent…",
+      "link": "https://expansion.mx/empresas/2026/07/31/pemex-eleva-sus-ingresos-pero-el-aumento-en-costos-e-impuestos-desploma-70-sus-utilidades",
+      "fecha": "31 Jul 2026, 10:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
@@ -127,24 +145,6 @@
       "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
       "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
       "fecha": "30 Jul 2026, 15:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
-      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/30/nunca-antes-me-habian-felicitado-por-manejar-coche-chino-zeekr-7x",
-      "fecha": "30 Jul 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Con OXXO o en tu celular: todas las formas de registrar tu línea desde el 1 de agosto si tu número termina en 0",
-      "resumen": "La vinculación obligatoria de líneas telefónicas ya comenzó de forma escalonada. Estas son las fechas límite, documentos necesarios y formas hacer el trámite sin filas.",
-      "link": "https://expansion.mx/empresas/2026/07/30/oxxo-todas-formas-de-registrar-linea-si-numero-termina-en-0",
-      "fecha": "30 Jul 2026, 15:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repite Corona como la marca más valiosa de México",
-      "resumen": "Corona Extra se volvió a coronar como la marca más valiosa de México, al alcanzar un valor en 2026 de 13.9 mil mdd.",
-      "link": "https://www.reforma.com/repite-corona-como-la-marca-mas-valiosa-de-mexico/ar3250023",
-      "fecha": "31 Jul 2026, 06:53 hrs"
+      "titulo": "Reporta Soriana baja de 4.3% en su flujo operativo",
+      "resumen": "Organización Soriana reportó una caída de 4.3% en su flujo operativo del segundo trimestre, hasta los 2 mil 886 millones de pesos.",
+      "link": "https://www.reforma.com/reporta-soriana-baja-de-4-3-en-su-flujo-operativo/ar3250237",
+      "fecha": "31 Jul 2026, 11:58 hrs"
     },
     {
       "fuente": "Reforma",
