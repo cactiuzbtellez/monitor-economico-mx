@@ -1,5 +1,5 @@
 {
-  "actualizado": "31/07/2026 14:20 hrs",
+  "actualizado": "31/07/2026 16:05 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mazda BT-50 e Isuzu D-MAX: las diferencias entre dos pickups con el mismo ADN, pero estrategias opuestas",
-      "resumen": "La BT-50 y la D-MAX reflejan dos maneras de competir en el mercado de pickups: Mazda busca atraer clientes de estilo de vida, mientras Isuzu pretende ampliar su presencia entre usuarios comerciales.",
-      "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
-      "fecha": "31 Jul 2026, 13:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
-      "resumen": "La minorista redujo 4.9% sus ingresos, pero el menor costo financiero impulsó su utilidad neta durante el segundo trimestre.",
-      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
-      "fecha": "31 Jul 2026, 11:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex eleva sus ingresos, pero el aumento en costos e impuestos desploma 70% sus utilidades",
-      "resumen": "La petrolera estatal elevó sus ingresos gracias al repunte de los precios internacionales del crudo, pero mayores impuestos, costos operativos y gastos financieros redujo en casi 70% sus ganancias ent…",
-      "link": "https://expansion.mx/empresas/2026/07/31/pemex-eleva-sus-ingresos-pero-el-aumento-en-costos-e-impuestos-desploma-70-sus-utilidades",
-      "fecha": "31 Jul 2026, 10:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
       "resumen": "El arrendamiento es el verdadero motor de Inmuebles Carso: aporta casi ocho de cada 10 pesos que factura la empresa y supera ampliamente a la venta de inmuebles y los hoteles.",
       "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
@@ -147,6 +120,33 @@
       "fecha": "30 Jul 2026, 16:30 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
+      "fecha": "30 Jul 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
+      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/nunca-antes-me-habian-felicitado-por-manejar-coche-chino-zeekr-7x",
+      "fecha": "30 Jul 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Con OXXO o en tu celular: todas las formas de registrar tu línea desde el 1 de agosto si tu número termina en 0",
+      "resumen": "La vinculación obligatoria de líneas telefónicas ya comenzó de forma escalonada. Estas son las fechas límite, documentos necesarios y formas hacer el trámite sin filas.",
+      "link": "https://expansion.mx/empresas/2026/07/30/oxxo-todas-formas-de-registrar-linea-si-numero-termina-en-0",
+      "fecha": "30 Jul 2026, 15:08 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "En el primer semestre, Pemex perdió 27 mil 968 millones de pesos, que contrasta con las utilidades de 16 mil 187 millones en dicho periodo.",
       "link": "https://www.reforma.com/pierde-pemex-27-9-mil-mdd-en-el-semestre/ar3250193",
       "fecha": "31 Jul 2026, 10:12 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ajustan el gasto  y mejora déficit fiscal",
+      "resumen": "Debido a recortes en el gasto, el déficit fiscal de México mejoró en el primer semestre según un análisis de Finamex Casa de Bolsa.",
+      "link": "https://www.reforma.com/ajustan-el-gasto-y-mejora-deficit-fiscal/ar3250325",
+      "fecha": "31 Jul 2026, 14:26 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,10 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Da Mundial impulso a economía en 2T",
-      "resumen": "Analistas atribuyen el crecimiento de 1.5% del PIB en el segundo trimestre de 2026 al Mundial de futbol.",
-      "link": "https://www.reforma.com/da-mundial-impulso-a-economia-en-2t/ar3250018",
-      "fecha": "31 Jul 2026, 05:01 hrs"
+      "titulo": "Plantea Kevin Warsh reducir el número de reuniones de la Fed",
+      "resumen": "Kevin Warsh, jefe de la Fed, considera reducir la frecuencia de las reuniones programadas del banco central sobre política monetaria.",
+      "link": "https://www.reforma.com/plantea-kevin-warsh-reducir-el-numero-de-reuniones-de-la-fed/ar3250385",
+      "fecha": "31 Jul 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben mercados de EU, pero Apple cae más de 7%",
+      "resumen": "Los principales índices bursátiles cerraron alza la última sesión bursátil de julio, pese al desplome de 7.35% de las acciones de Apple.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-pero-apple-cae-mas-de-7/ar3250342",
+      "fecha": "31 Jul 2026, 14:40 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,24 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene recaudación de ISR la peor caída desde 2015",
-      "resumen": "La recaudación de ingresos por ISR se ubicó en 226 mil 684 millones de pesos en junio de este año, una caída de 8.4% real anual.",
-      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2015/ar3250001",
-      "fecha": "31 Jul 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén que Sonora exporte 11 mil reses tras reapertura",
-      "resumen": "Estiman que Sonora exportará 10.5 mil cabezas por mes tras la reapertura de frontera.",
-      "link": "https://www.reforma.com/preven-que-sonora-exporte-11-mil-reses-tras-reapertura/ar3250042",
-      "fecha": "31 Jul 2026, 06:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Reporta Soriana baja de 4.3% en su flujo operativo",
       "resumen": "Organización Soriana reportó una caída de 4.3% en su flujo operativo del segundo trimestre, hasta los 2 mil 886 millones de pesos.",
       "link": "https://www.reforma.com/reporta-soriana-baja-de-4-3-en-su-flujo-operativo/ar3250237",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen 9% acciones de Apple",
-      "resumen": "Acciones de Apple 9.38% dado que la escasez de componentes afectó a las previsiones de ventas de la empresa.",
-      "link": "https://www.reforma.com/caen-9-acciones-de-apple/ar3250173",
-      "fecha": "31 Jul 2026, 09:46 hrs"
+      "titulo": "Ven riesgos por fallos de seguridad de OpenAI y Anthropic",
+      "resumen": "Advierten que las recientes intrusiones de Anthropic y OpenAI apuntan a riesgos para la seguridad nacional.",
+      "link": "https://www.reforma.com/ven-riesgos-por-fallos-de-seguridad-de-openai-y-anthropic/ar3250371",
+      "fecha": "31 Jul 2026, 15:13 hrs"
     }
   ]
 }
