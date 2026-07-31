@@ -1,7 +1,16 @@
 {
-  "actualizado": "31/07/2026 12:20 hrs",
+  "actualizado": "31/07/2026 14:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
+      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
+      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
+      "fecha": "31 Jul 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA México nombra a José Luis Elechiguerra como Country Manager",
-      "resumen": "El banco someterá a votación el cambio para que Eduardo Osuna ser el nuevo presidente del Consejo, en sustitución de Jaime Serra Puche.",
-      "link": "https://expansion.mx/economia/2026/07/29/bbva-mexico-nombra-jose-luis-elechiguerra-country-manager",
-      "fecha": "29 Jul 2026, 11:38 hrs"
+      "titulo": "Mazda BT-50 e Isuzu D-MAX: las diferencias entre dos pickups con el mismo ADN, pero estrategias opuestas",
+      "resumen": "La BT-50 y la D-MAX reflejan dos maneras de competir en el mercado de pickups: Mazda busca atraer clientes de estilo de vida, mientras Isuzu pretende ampliar su presencia entre usuarios comerciales.",
+      "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
+      "fecha": "31 Jul 2026, 13:37 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "30 Jul 2026, 16:30 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
-      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
-      "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
-      "fecha": "30 Jul 2026, 15:24 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,9 +177,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene recaudación de ISR la peor caída desde 2025",
+      "titulo": "Cierran precios del crudo con alza mensual de 24%",
+      "resumen": "Los precios del crudo subieron hoy más de 1% y, en julio, el Brent y WTI sumaron un avance del 24%, su mayor alza mensual desde marzo.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-alza-mensual-de-24/ar3250248",
+      "fecha": "31 Jul 2026, 12:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene recaudación de ISR la peor caída desde 2015",
       "resumen": "La recaudación de ingresos por ISR se ubicó en 226 mil 684 millones de pesos en junio de este año, una caída de 8.4% real anual.",
-      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2025/ar3250001",
+      "link": "https://www.reforma.com/tiene-recaudacion-de-isr-la-peor-caida-desde-2015/ar3250001",
       "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
@@ -190,15 +199,6 @@
       "resumen": "Estiman que Sonora exportará 10.5 mil cabezas por mes tras la reapertura de frontera.",
       "link": "https://www.reforma.com/preven-que-sonora-exporte-11-mil-reses-tras-reapertura/ar3250042",
       "fecha": "31 Jul 2026, 06:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urge dinero para fracking",
-      "resumen": "México requiere perforar 20 mil pozos de gas natural y una inversión de 300 mil millones de dólares para proyectos de fracking.",
-      "link": "https://www.reforma.com/urge-dinero-para-fracking/ar3249982",
-      "fecha": "31 Jul 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
