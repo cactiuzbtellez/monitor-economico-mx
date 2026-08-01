@@ -1,7 +1,52 @@
 {
-  "actualizado": "31/07/2026 22:20 hrs",
+  "actualizado": "01/08/2026 01:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
+      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
+      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
+      "fecha": "31 Jul 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
+      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
+      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
+      "fecha": "31 Jul 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
+      "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
+      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
+      "fecha": "31 Jul 2026, 17:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT y Aduanas amplían prórroga para presentar Manifestación de Valor Electrónica",
+      "resumen": "Esta medida permitirá que el usuario de comercio exterior cuente con un periodo adicional para realizar las adecuaciones correspondientes y familiarizarse con el nuevo esquema operativo.",
+      "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
+      "fecha": "31 Jul 2026, 15:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Usuarios de BBVA reportan fallas en transferencias y app en pleno viernes de pago de la quincena",
+      "resumen": "Las quejas contra BBVA crecieron este viernes por transferencias que no se reflejan. Los reportes se concentraron en varias ciudades del país.",
+      "link": "https://expansion.mx/economia/2026/07/31/bbva-fallas-app-transferencias-dia-quincena-31-julio-2026",
+      "fecha": "31 Jul 2026, 14:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,96 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
-      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
-      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
-      "fecha": "29 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
-      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
-      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
-      "fecha": "29 Jul 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Fitch ve a México con grado de inversión, pero alerta por Pemex y bajo crecimiento",
-      "resumen": "La agencia advierte que el incremento acelerado de la deuda pública, un fracaso en la consolidación fiscal o un choque económico severo que deteriore las finanzas pueden ejercer presión sobre la nota …",
-      "link": "https://expansion.mx/economia/2026/07/29/fitch-mexico-grado-inversion-riesgos",
-      "fecha": "29 Jul 2026, 13:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
-      "resumen": "el banco central de Estados Unidos dejó su tasa entre 3.50% y 3.75% por quinta reunión consecutiva; tres integrantes votaron por elevarla ante una inflación que sigue por encima de la meta.",
-      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
-      "fecha": "29 Jul 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "CetesDirecto descarta inversiones en efectivo por su alto costo",
-      "resumen": "La plataforma de inversiones intentó implementar depósitos en efectivo con el Banco del Bienestar, pero los elevados costos para su manejo frenaron el plan.",
-      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
-      "fecha": "29 Jul 2026, 12:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mazda BT-50 e Isuzu D-MAX: las diferencias entre dos pickups con el mismo ADN, pero estrategias opuestas",
-      "resumen": "La BT-50 y la D-MAX reflejan dos maneras de competir en el mercado de pickups: Mazda busca atraer clientes de estilo de vida, mientras Isuzu pretende ampliar su presencia entre usuarios comerciales.",
-      "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
-      "fecha": "31 Jul 2026, 13:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
-      "resumen": "La minorista redujo 4.9% sus ingresos, pero el menor costo financiero impulsó su utilidad neta durante el segundo trimestre.",
-      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
-      "fecha": "31 Jul 2026, 11:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex eleva sus ingresos, pero el aumento en costos e impuestos desploma 70% sus utilidades",
-      "resumen": "La petrolera estatal elevó sus ingresos gracias al repunte de los precios internacionales del crudo, pero mayores impuestos, costos operativos y gastos financieros redujo en casi 70% sus ganancias ent…",
-      "link": "https://expansion.mx/empresas/2026/07/31/pemex-eleva-sus-ingresos-pero-el-aumento-en-costos-e-impuestos-desploma-70-sus-utilidades",
-      "fecha": "31 Jul 2026, 10:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
-      "resumen": "El arrendamiento es el verdadero motor de Inmuebles Carso: aporta casi ocho de cada 10 pesos que factura la empresa y supera ampliamente a la venta de inmuebles y los hoteles.",
-      "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
-      "fecha": "31 Jul 2026, 07:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Berries Paradise fortalece exportaciones a Asia y Europa sin dejar de lado a EU y Canadá",
-      "resumen": "La empresa mexicana acelera su expansión internacional con foco en Japón, Europa y Canadá, mientras invierte en aumentar la producción y desarrollar el mercado nacional.",
-      "link": "https://expansion.mx/empresas/2026/07/31/berries-paradise-manda-70-fresas-berries-eu-vender-paises",
-      "fecha": "31 Jul 2026, 05:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
@@ -145,6 +100,51 @@
       "resumen": "Woodside avanza en la perforación e instalación de infraestructura del campo Trión, un yacimiento en aguas ultraprofundas con potencial para producir hasta 100,000 barriles diarios.",
       "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
       "fecha": "30 Jul 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Cuántos millones le ha generado Miniso a Carlos Slim? Así ha rendido su apuesta desde 2019",
+      "resumen": "La inversión de Carlos Slim en Miniso sobrevivió a la pandemia, dejó atrás las pérdidas y hoy aporta utilidades crecientes al conglomerado del empresario mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/carlos-slim-miniso-cuantos-millones-ha-ganado",
+      "fecha": "30 Jul 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nunca antes me habían felicitado por manejar un coche chino",
+      "resumen": "La anécdota revela cómo algunas marcas chinas comienzan a dejar atrás el estigma de su origen para construir algo mucho más difícil: prestigio y aspiración en el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/07/30/nunca-antes-me-habian-felicitado-por-manejar-coche-chino-zeekr-7x",
+      "fecha": "30 Jul 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Con OXXO o en tu celular: todas las formas de registrar tu línea desde el 1 de agosto si tu número termina en 0",
+      "resumen": "La vinculación obligatoria de líneas telefónicas ya comenzó de forma escalonada. Estas son las fechas límite, documentos necesarios y formas hacer el trámite sin filas.",
+      "link": "https://expansion.mx/empresas/2026/07/30/oxxo-todas-formas-de-registrar-linea-si-numero-termina-en-0",
+      "fecha": "30 Jul 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El maximalismo regresa y cambia las decisiones de negocio de las marcas de moda",
+      "resumen": "Las piezas grandes, los colores intensos y los accesorios acumulables recuperan espacio después de varios años dominados por diseños discretos.",
+      "link": "https://expansion.mx/empresas/2026/07/30/maximalismo-regresa-marcas-moda-joyeria",
+      "fecha": "30 Jul 2026, 13:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "AIFA entra por primera vez al Top 10 de aeropuertos con más viajeros internacionales tras el Mundial",
+      "resumen": "De acuerdo con datos de la Agencia Federal de Aviación Civil, el aeropuerto ubicado en la Base de Santa Lucía se colocó como el tercero de mayor incremento en tráfico internacional.",
+      "link": "https://expansion.mx/empresas/2026/07/30/aifa-entra-top-10-aeropuertos-mas-viajeros-mexico",
+      "fecha": "30 Jul 2026, 13:09 hrs"
     },
     {
       "fuente": "Reforma",
