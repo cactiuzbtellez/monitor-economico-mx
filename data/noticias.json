@@ -1,25 +1,7 @@
 {
-  "actualizado": "01/08/2026 03:58 hrs",
+  "actualizado": "01/08/2026 05:23 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
-      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
-      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
-      "fecha": "31 Jul 2026, 19:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
-      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
-      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
-      "fecha": "31 Jul 2026, 18:11 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
       "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
       "fecha": "30 Jul 2026, 06:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
+      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
+      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
+      "fecha": "29 Jul 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
+      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
+      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
+      "fecha": "29 Jul 2026, 13:53 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Empresa estatal mexicana perdió en semestre",
+      "resumen": "Mientras dos petroleras globales reportaron crecimientos, Pemex vivió una historia diametralmente opuesta: sufrió pérdidas.",
+      "link": "https://www.reforma.com/empresa-estatal-mexicana-perdio-en-semestre/ar3250596",
+      "fecha": "01 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Arrollan autos chinos a otras marcas",
+      "resumen": "Avance en las ventas de autos de marcas chinas en México ha \"arrollado\" la participación de mercado de otras armadoras, reveló Scotiabank",
+      "link": "https://www.reforma.com/arrollan-autos-chinos-a-otras-marcas/ar3250587",
+      "fecha": "01 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prefieren reclutadores ¡a revendedores de ropa!",
+      "resumen": "El 71% de los usuarios de la Generación Z afirma que la reventa en línea les ha aportado más conocimientos prácticos sobre negocios.",
+      "link": "https://www.reforma.com/prefieren-reclutadores-a-revendedores-de-ropa/ar3250593",
+      "fecha": "01 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Descarrilamiento en Sonora fue por deslave.- Ferromex",
       "resumen": "Ferromex informó que el descarrilamiento de un tren de carga en Naco, Sonora, se debipo a un deslave y que no hubo personas afectadas.",
       "link": "https://www.reforma.com/descarrilamiento-en-sonora-fue-por-deslave-ferromex/ar3250545",
@@ -190,33 +217,6 @@
       "resumen": "El financiamiento de autos de marcas chinas en el País se concentra en los créditos otorgados por los bancos, según reporte.",
       "link": "https://www.reforma.com/concentran-bancos-financiamiento-de-autos-chinos/ar3250427",
       "fecha": "31 Jul 2026, 17:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Plantea Kevin Warsh reducir el número de reuniones de la Fed",
-      "resumen": "Kevin Warsh, jefe de la Fed, considera reducir la frecuencia de las reuniones programadas del banco central sobre política monetaria.",
-      "link": "https://www.reforma.com/plantea-kevin-warsh-reducir-el-numero-de-reuniones-de-la-fed/ar3250385",
-      "fecha": "31 Jul 2026, 15:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven riesgos por fallos de seguridad de OpenAI y Anthropic",
-      "resumen": "Advierten que las recientes intrusiones de Anthropic y OpenAI apuntan a riesgos para la seguridad nacional.",
-      "link": "https://www.reforma.com/ven-riesgos-por-fallos-de-seguridad-de-openai-y-anthropic/ar3250371",
-      "fecha": "31 Jul 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suman Alphabet, Microsoft y Amazon Dls.1.5 billones en valor",
-      "resumen": "Microsoft aumentó su valor de mercado en más de 600 mmdd esta semana, mientras que Amazon y Alphabet sumaron más de 400 mmdd cada una.",
-      "link": "https://www.reforma.com/suman-alphabet-microsoft-y-amazon-dls-1-5-billones-en-valor/ar3250354",
-      "fecha": "31 Jul 2026, 14:49 hrs"
     }
   ]
 }
