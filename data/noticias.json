@@ -1,7 +1,25 @@
 {
-  "actualizado": "01/08/2026 05:23 hrs",
+  "actualizado": "01/08/2026 07:19 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
+      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
+      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
+      "fecha": "31 Jul 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
+      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
+      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
+      "fecha": "31 Jul 2026, 18:11 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
       "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
       "fecha": "30 Jul 2026, 06:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ignacio Deschamps deja el Consejo de Administración de Banamex",
-      "resumen": "Deschamps deja el cargo dentro del banco y se dedicará a asesorar otros proyectos relacionados con los nuevos retos de tecnología y operaciones a los que se enfrentan en el sector financiero.",
-      "link": "https://expansion.mx/economia/2026/07/29/ignacio-deschamps-deja-consejo-administracion-banamex",
-      "fecha": "29 Jul 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos consume su colchón petrolero: reservas caen 11 millones de barriles",
-      "resumen": "La caída de 7.2 millones de barriles en los inventarios comerciales y el retiro de otros 3.8 millones de la reserva estratégica reducen el margen de Estados Unidos para contener el alza del crudo.",
-      "link": "https://expansion.mx/economia/2026/07/29/estados-unidos-reservas-petroleo-caen-11-millones-barriles",
-      "fecha": "29 Jul 2026, 13:53 hrs"
     },
     {
       "fuente": "Expansión",
