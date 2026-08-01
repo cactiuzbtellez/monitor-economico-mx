@@ -1,25 +1,7 @@
 {
-  "actualizado": "31/07/2026 18:01 hrs",
+  "actualizado": "31/07/2026 22:20 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT y Aduanas amplían prórroga para presentar Manifestación de Valor Electrónica",
-      "resumen": "Esta medida permitirá que el usuario de comercio exterior cuente con un periodo adicional para realizar las adecuaciones correspondientes y familiarizarse con el nuevo esquema operativo.",
-      "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
-      "fecha": "31 Jul 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Usuarios de BBVA reportan fallas en transferencias y app en pleno viernes de pago de la quincena",
-      "resumen": "Las quejas contra BBVA crecieron este viernes por transferencias que no se reflejan. Los reportes se concentraron en varias ciudades del país.",
-      "link": "https://expansion.mx/economia/2026/07/31/bbva-fallas-app-transferencias-dia-quincena-31-julio-2026",
-      "fecha": "31 Jul 2026, 14:28 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,57 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
-      "resumen": "El centro comercial ubicado sobre avenida Insurgentes Sur abrió sus puertas en 1992 y forma parte de la estrategia inmobiliaria de una de las compañías más grandes de México.",
-      "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
-      "fecha": "31 Jul 2026, 16:37 hrs"
+      "titulo": "La Reserva Federal mantiene tasa de interés, pero crece presión para endurecer la política monetaria",
+      "resumen": "el banco central de Estados Unidos dejó su tasa entre 3.50% y 3.75% por quinta reunión consecutiva; tres integrantes votaron por elevarla ante una inflación que sigue por encima de la meta.",
+      "link": "https://expansion.mx/economia/2026/07/29/fed-mantiene-tasas-y-crece-presion-para-subirlas",
+      "fecha": "29 Jul 2026, 12:58 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La historia detrás de Prichos, el negocio de Walmart para que compres más en cada visita a sus tiendas",
-      "resumen": "De artículos de 13.90 pesos a productos con precio único de 25 pesos, Prichos ha mantenido una estrategia basada en accesibilidad y compras rápidas.",
-      "link": "https://expansion.mx/empresas/2026/07/31/prichos-historia-walmart-compras-de-impulso",
-      "fecha": "31 Jul 2026, 15:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Wendy's regresa a CDMX: quién es su dueño y por qué cerró su sucursal la primera vez",
-      "resumen": "Mientras la cadena seguía creciendo en otras regiones del país, la Ciudad de México permaneció sin restaurantes Wendy's durante años. Esta es la historia detrás de su regreso.",
-      "link": "https://expansion.mx/empresas/2026/07/31/wendys-regresa-cdmx-quien-es-dueno",
-      "fecha": "31 Jul 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
-      "link": "https://expansion.mx/empresas/2026/07/31/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "fecha": "31 Jul 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
-      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
-      "link": "https://expansion.mx/empresas/2026/07/31/historia-familia-duena-grupo-gigante",
-      "fecha": "31 Jul 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
-      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
-      "link": "https://expansion.mx/empresas/2026/07/31/carlos-slim-es-dueno-21-campus-universitarios",
-      "fecha": "31 Jul 2026, 15:09 hrs"
+      "titulo": "CetesDirecto descarta inversiones en efectivo por su alto costo",
+      "resumen": "La plataforma de inversiones intentó implementar depósitos en efectivo con el Banco del Bienestar, pero los elevados costos para su manejo frenaron el plan.",
+      "link": "https://expansion.mx/economia/2026/07/29/cetes-por-que-no-se-puede-invertir-con-efectivo",
+      "fecha": "29 Jul 2026, 12:02 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +91,78 @@
       "resumen": "La minorista redujo 4.9% sus ingresos, pero el menor costo financiero impulsó su utilidad neta durante el segundo trimestre.",
       "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
       "fecha": "31 Jul 2026, 11:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex eleva sus ingresos, pero el aumento en costos e impuestos desploma 70% sus utilidades",
+      "resumen": "La petrolera estatal elevó sus ingresos gracias al repunte de los precios internacionales del crudo, pero mayores impuestos, costos operativos y gastos financieros redujo en casi 70% sus ganancias ent…",
+      "link": "https://expansion.mx/empresas/2026/07/31/pemex-eleva-sus-ingresos-pero-el-aumento-en-costos-e-impuestos-desploma-70-sus-utilidades",
+      "fecha": "31 Jul 2026, 10:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Slim también vive de sus rentas millonarias: así es su imperio de hospitales, escuelas, oficinas y locales",
+      "resumen": "El arrendamiento es el verdadero motor de Inmuebles Carso: aporta casi ocho de cada 10 pesos que factura la empresa y supera ampliamente a la venta de inmuebles y los hoteles.",
+      "link": "https://expansion.mx/empresas/2026/07/31/slim-rentas-hospitales-escuelas-locales-carso",
+      "fecha": "31 Jul 2026, 07:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Berries Paradise fortalece exportaciones a Asia y Europa sin dejar de lado a EU y Canadá",
+      "resumen": "La empresa mexicana acelera su expansión internacional con foco en Japón, Europa y Canadá, mientras invierte en aumentar la producción y desarrollar el mercado nacional.",
+      "link": "https://expansion.mx/empresas/2026/07/31/berries-paradise-manda-70-fresas-berries-eu-vender-paises",
+      "fecha": "31 Jul 2026, 05:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Megacable supera los 6 millones de suscriptores y aumenta 11% su ganancia trimestral",
+      "resumen": "La compañía reportó una utilidad de 852 millones de pesos, apoyado por la incorporación de nuevos clientes, el avance de su oferta de streaming y la expansión de su negocio móvil.",
+      "link": "https://expansion.mx/empresas/2026/07/30/megacable-supera-los-6-millones-de-suscriptores-y-aumenta-11-su-ganancia-trimestral",
+      "fecha": "30 Jul 2026, 19:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Constellation Brands enfrenta el reto logístico de llevar por mar su cerveza de Veracruz a Estados Unidos",
+      "resumen": "La nueva planta de Veracruz incorporará por primera vez envíos marítimos hacia Estados Unidos, un modelo operativo que obliga a Constellation Brands a validar procesos logísticos antes de iniciar oper…",
+      "link": "https://expansion.mx/empresas/2026/07/30/constellation-brands-enfrenta-el-reto-logistico-de-llevar-por-mar-su-cerveza-de-veracruz-a-estados-unidos",
+      "fecha": "30 Jul 2026, 18:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Trión alcanza 64% con una inversión de 446 millones de dólares en el semestre",
+      "resumen": "Woodside avanza en la perforación e instalación de infraestructura del campo Trión, un yacimiento en aguas ultraprofundas con potencial para producir hasta 100,000 barriles diarios.",
+      "link": "https://expansion.mx/empresas/2026/07/30/trion-avance-desarrollo-64-produccion-2028-woodside",
+      "fecha": "30 Jul 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descarrilamiento en Sonora fue por deslave.- Ferromex",
+      "resumen": "Ferromex informó que el descarrilamiento de un tren de carga en Naco, Sonora, se debipo a un deslave y que no hubo personas afectadas.",
+      "link": "https://www.reforma.com/descarrilamiento-en-sonora-fue-por-deslave-ferromex/ar3250545",
+      "fecha": "31 Jul 2026, 20:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Gana Grupo Carso 13.44% en julio",
+      "resumen": "Grupo Carso reportó una ganancia de 13.44 por ciento en julio, mientras que la Bolsa Mexicana de Valores se ubicó en 66 mil 937 unidades.",
+      "link": "https://www.reforma.com/gana-grupo-carso-13-44-en-julio/ar3250511",
+      "fecha": "31 Jul 2026, 19:14 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Microsoft aumentó su valor de mercado en más de 600 mmdd esta semana, mientras que Amazon y Alphabet sumaron más de 400 mmdd cada una.",
       "link": "https://www.reforma.com/suman-alphabet-microsoft-y-amazon-dls-1-5-billones-en-valor/ar3250354",
       "fecha": "31 Jul 2026, 14:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran mercados de EU al alza, pero Apple cae más de 7%",
-      "resumen": "Los principales índices bursátiles cerraron alza la última sesión bursátil de julio, pese al desplome de 7.35% de las acciones de Apple.",
-      "link": "https://www.reforma.com/cierran-mercados-de-eu-al-alza-pero-apple-cae-mas-de-7/ar3250342",
-      "fecha": "31 Jul 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ajustan gasto y mejora déficit fiscal",
-      "resumen": "Debido a recortes en el gasto, el déficit fiscal de México mejoró en el primer semestre según un análisis de Finamex Casa de Bolsa.",
-      "link": "https://www.reforma.com/ajustan-gasto-y-mejora-deficit-fiscal/ar3250325",
-      "fecha": "31 Jul 2026, 14:26 hrs"
     }
   ]
 }
