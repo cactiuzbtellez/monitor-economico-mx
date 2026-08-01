@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/08/2026 10:08 hrs",
+  "actualizado": "01/08/2026 11:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
+      "resumen": "México es uno de los mercados estratégicos para MSD Salud Animal en Latinoamérica y se mantiene entre los 10 mercados más importantes de la compañía a nivel mundial.",
+      "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
+      "fecha": "01 Aug 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
       "resumen": "El centro comercial ubicado sobre avenida Insurgentes Sur abrió sus puertas en 1992 y forma parte de la estrategia inmobiliaria de una de las compañías más grandes de México.",
       "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
@@ -136,15 +145,6 @@
       "resumen": "La BT-50 y la D-MAX reflejan dos maneras de competir en el mercado de pickups: Mazda busca atraer clientes de estilo de vida, mientras Isuzu pretende ampliar su presencia entre usuarios comerciales.",
       "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
       "fecha": "31 Jul 2026, 13:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana vende menos, pero su utilidad salta 46.8% por un menor costo financiero",
-      "resumen": "La minorista redujo 4.9% sus ingresos, pero el menor costo financiero impulsó su utilidad neta durante el segundo trimestre.",
-      "link": "https://expansion.mx/empresas/2026/07/31/soriana-utilidad-crece-ventas-caen-segundo-trimestre-2026",
-      "fecha": "31 Jul 2026, 11:59 hrs"
     },
     {
       "fuente": "Reforma",
