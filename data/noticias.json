@@ -1,16 +1,7 @@
 {
-  "actualizado": "03/08/2026 11:50 hrs",
+  "actualizado": "03/08/2026 13:35 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
-      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
-      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
-      "fecha": "03 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
       "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
       "fecha": "30 Jul 2026, 16:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
+      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+      "fecha": "30 Jul 2026, 06:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -177,37 +177,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rebasa deuda los $20 billones",
-      "resumen": "El saldo de la deuda bruta pasó de representar 54.2% del PIB a finales de 2025 a 54.8% a junio pasado.",
-      "link": "https://www.reforma.com/rebasa-deuda-los-20-billones/ar3251279",
-      "fecha": "03 Aug 2026, 07:06 hrs"
+      "titulo": "Desplegarán oficinas móviles del SAT en zonas alejadas",
+      "resumen": "El SAT desplegará el programa Oficina Móvil en 22 estados durante la primera semana de agosto.",
+      "link": "https://www.reforma.com/desplegaran-oficinas-moviles-del-sat-en-zonas-alejadas/ar3251542",
+      "fecha": "03 Aug 2026, 12:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lo defrauda Peak... y ahora lo apresan",
-      "resumen": "Héctor Eduardo Gutiérrez Cortez, ex directivo de Peak, fue también una de las víctimas de la financiera y ahora es el único detenido.",
-      "link": "https://www.reforma.com/lo-defrauda-peak-y-ahora-lo-apresan/ar3251261",
-      "fecha": "03 Aug 2026, 07:06 hrs"
+      "titulo": "Es México pieza clave del auge de IA en EU.- FT",
+      "resumen": "México suministra el 40% de las importaciones de EU de equipos utilizados en los centros de datos que impulsan la IA, destacó el FT.",
+      "link": "https://www.reforma.com/es-mexico-pieza-clave-del-auge-de-ia-en-eu-ft/ar3251572",
+      "fecha": "03 Aug 2026, 12:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se desploman precios del crudo hasta 6%",
-      "resumen": "Tras la suspensión de un nuevo ataque de EU contra Irán, el crudo WTI restaba un 6%, a 79.6 dólares, mientras que el Brent caía 4.8%.",
-      "link": "https://www.reforma.com/se-desploman-precios-del-crudo-hasta-6/ar3251406",
-      "fecha": "03 Aug 2026, 07:20 hrs"
+      "titulo": "Cierran precios del crudo con baja de casi 5%",
+      "resumen": "Los futuros del crudo WTI cerraron con una baja de 5.11% hasta los 80.34 dólares por barril, y el Brent cedió 4.78% a 83.71 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-casi-5/ar3251575",
+      "fecha": "03 Aug 2026, 12:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inician mercados de EU agosto con sólido avance",
-      "resumen": "En las primeras operaciones, el Dow Jones sumana 710 puntos, o un 1.3%, el índice Nasdaq subía un 1.35% y el S&amp;P 500 ganaba un 1.03%.",
-      "link": "https://www.reforma.com/inician-mercados-de-eu-agosto-con-solido-avance/ar3251426",
-      "fecha": "03 Aug 2026, 08:33 hrs"
+      "titulo": "Retrocede confianza empresarial 1.35 puntos en julio",
+      "resumen": "En julio pasado, el Indicador de Confianza Empresarial sumó su descenso número 26, tras caer en 1.35 puntos respecto al mismo mes de 2025.",
+      "link": "https://www.reforma.com/retrocede-confianza-empresarial-1-35-puntos-en-julio/ar3251541",
+      "fecha": "03 Aug 2026, 12:01 hrs"
     },
     {
       "fuente": "Reforma",
