@@ -1,34 +1,7 @@
 {
-  "actualizado": "03/08/2026 15:01 hrs",
+  "actualizado": "03/08/2026 16:59 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
-      "resumen": "FinCEN concluyó que el banco suizo incumplió de forma reiterada sus obligaciones antilavado, incluyendo la supervisión de clientes de alto riesgo y el reporte de operaciones sospechosas.",
-      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
-      "fecha": "03 Aug 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
-      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
-      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
-      "fecha": "03 Aug 2026, 11:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
-      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
-      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
-      "fecha": "03 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +49,60 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
+      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
+      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
+      "fecha": "31 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
+      "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
+      "fecha": "30 Jul 2026, 16:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
+      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+      "fecha": "30 Jul 2026, 06:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
+      "resumen": "Con miles de tiendas abiertas en México, Tiendas 3B necesitaba capital para seguir creciendo y su solución fue llegar hasta la Bolsa de Nueva York.",
+      "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
+      "fecha": "03 Aug 2026, 16:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las ganancias mineras se disparan 21% gracias a altos precios de los metales, pero la inversión cae",
+      "resumen": "El valor de la producción minero-metalúrgica alcanzó un récord de 379,290 millones de pesos impulsado por el alza del oro, la plata y el cobre, mientras la inversión y el PIB del sector continuaron en…",
+      "link": "https://expansion.mx/empresas/2026/08/03/ganancias-mineras-se-disparan-21-altos-precios-metales",
+      "fecha": "03 Aug 2026, 16:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim vende 74,000 millones de pesos gracias a esta empresa: el verdadero negocio de Grupo Carso",
+      "resumen": "Aunque lo relacionan con la construcción o la energía, la división que sostiene las finanzas de Carso pertenece a otro sector. Así está conformado el negocio que lidera sus ventas.",
+      "link": "https://expansion.mx/empresas/2026/08/03/carlos-slim-gana-74000-mdp-verdadero-negocio-grupo-carso",
+      "fecha": "03 Aug 2026, 15:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Ni Nissan ni Toyota: esta fue la primera marca que instaló una armadora en México",
@@ -120,33 +147,6 @@
       "fecha": "31 Jul 2026, 15:37 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Wendy's regresa a CDMX: quién es su dueño y por qué cerró su sucursal la primera vez",
-      "resumen": "Mientras la cadena seguía creciendo en otras regiones del país, la Ciudad de México permaneció sin restaurantes Wendy's durante años. Esta es la historia detrás de su regreso.",
-      "link": "https://expansion.mx/empresas/2026/07/31/wendys-regresa-cdmx-quien-es-dueno",
-      "fecha": "31 Jul 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT deja en manos de los operadores el éxito del registro telefónico",
-      "resumen": "El regulador extendió por 184 días el plazo para registrar las líneas telefónicas, aunque sin presentar una estrategia para impulsar el proceso, por lo que los operadores deberán promover el registro …",
-      "link": "https://expansion.mx/empresas/2026/07/31/crt-responsabiliza-telcel-att-operadoras-exito-registro",
-      "fecha": "31 Jul 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es la familia detrás de Grupo Gigante? Los empresarios que ahora van por La Casa de Toño",
-      "resumen": "La historia de los Losada comenzó con un supermercado en 1962 y evolucionó hasta convertirse en un conglomerado con presencia en retail especializado, restaurantes e inmobiliario.",
-      "link": "https://expansion.mx/empresas/2026/07/31/historia-familia-duena-grupo-gigante",
-      "fecha": "31 Jul 2026, 15:13 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desplegarán oficinas móviles del SAT en zonas alejadas",
-      "resumen": "El SAT desplegará el programa Oficina Móvil en 22 estados durante la primera semana de agosto.",
-      "link": "https://www.reforma.com/desplegaran-oficinas-moviles-del-sat-en-zonas-alejadas/ar3251542",
-      "fecha": "03 Aug 2026, 12:10 hrs"
+      "titulo": "Contribuye minería con 78 mil mdp al erario.-Camimex",
+      "resumen": "Pese a que la industria minera aporta 78 mil millones de pesos al erario, el Gobierno detiene proyectos por 192.5 mil millones de pesos.",
+      "link": "https://www.reforma.com/contribuye-mineria-con-78-mil-mdp-al-erario-camimex/ar3251673",
+      "fecha": "03 Aug 2026, 15:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es México pieza clave del auge de IA en EU.- FT",
-      "resumen": "México suministra el 40% de las importaciones de EU de equipos utilizados en los centros de datos que impulsan la IA, destacó el FT.",
-      "link": "https://www.reforma.com/es-mexico-pieza-clave-del-auge-de-ia-en-eu-ft/ar3251572",
-      "fecha": "03 Aug 2026, 12:59 hrs"
+      "titulo": "Afirman que SuKarne analiza su venta",
+      "resumen": "El propietario de SuKarne, el mayor exportador de carne en México, está explorando una venta que la empresa podría valorar en más de 2 mmdd.",
+      "link": "https://www.reforma.com/afirman-que-sukarne-analiza-su-venta/ar3251691",
+      "fecha": "03 Aug 2026, 15:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede confianza empresarial 1.35 puntos en julio",
-      "resumen": "En julio pasado, el Indicador de Confianza Empresarial sumó su descenso número 26, tras caer en 1.35 puntos respecto al mismo mes de 2025.",
-      "link": "https://www.reforma.com/retrocede-confianza-empresarial-1-35-puntos-en-julio/ar3251541",
-      "fecha": "03 Aug 2026, 12:01 hrs"
+      "titulo": "Es México pieza clave del auge de IA en EU.- FT",
+      "resumen": "México suministra el 40% de las importaciones de EU de equipos utilizados en los centros de datos que impulsan la IA, destacó el FT.",
+      "link": "https://www.reforma.com/es-mexico-pieza-clave-del-auge-de-ia-en-eu-ft/ar3251572",
+      "fecha": "03 Aug 2026, 12:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen 4.2% remesas a México en junio",
-      "resumen": "Las remesas a México sumaron 5 mil 472 mdd en junio, un 4.2% más que igual mes de 2025, y ligaron su quinta alza mensual consecutiva.",
-      "link": "https://www.reforma.com/crecen-4-2-remesas-a-mexico-en-junio/ar3251472",
-      "fecha": "03 Aug 2026, 09:39 hrs"
+      "titulo": "Desplegarán oficinas móviles del SAT en zonas alejadas",
+      "resumen": "El SAT desplegará el programa Oficina Móvil en 22 estados durante la primera semana de agosto.",
+      "link": "https://www.reforma.com/desplegaran-oficinas-moviles-del-sat-en-zonas-alejadas/ar3251542",
+      "fecha": "03 Aug 2026, 12:10 hrs"
     }
   ]
 }
