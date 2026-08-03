@@ -1,7 +1,16 @@
 {
-  "actualizado": "03/08/2026 02:27 hrs",
+  "actualizado": "03/08/2026 06:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "fecha": "03 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
       "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
       "fecha": "30 Jul 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
-      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
-      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
-      "fecha": "30 Jul 2026, 06:44 hrs"
     },
     {
       "fuente": "Expansión",
