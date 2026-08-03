@@ -1,7 +1,34 @@
 {
-  "actualizado": "03/08/2026 13:35 hrs",
+  "actualizado": "03/08/2026 15:01 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
+      "resumen": "FinCEN concluyó que el banco suizo incumplió de forma reiterada sus obligaciones antilavado, incluyendo la supervisión de clientes de alto riesgo y el reporte de operaciones sospechosas.",
+      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
+      "fecha": "03 Aug 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
+      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
+      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
+      "fecha": "03 Aug 2026, 11:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "fecha": "03 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
-      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
-      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
-      "fecha": "31 Jul 2026, 05:55 hrs"
+      "titulo": "Ni Nissan ni Toyota: esta fue la primera marca que instaló una armadora en México",
+      "resumen": "Mucho antes de que las armadoras asiáticas llegaran al país, una empresa decidió apostar por México y puso en marcha una fábrica que cambiaría para siempre el rumbo de la industria nacional.",
+      "link": "https://expansion.mx/empresas/2026/08/03/historia-primera-marca-que-instalo-armadora-autos-mexico",
+      "fecha": "03 Aug 2026, 12:00 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
-      "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
-      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
-      "fecha": "30 Jul 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
-      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
-      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
-      "fecha": "30 Jul 2026, 06:44 hrs"
+      "titulo": "Ollamani de Emilio Azcárraga perdió más de 800 millones de pesos por el Mundial; estas fueron las razones",
+      "resumen": "Aunque el torneo generó pérdidas extraordinarias, la compañía asegura que la renovación del Estadio Banorte representa una inversión de largo plazo para ampliar sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/08/03/ollamani-azcarraga-perdio-800-millones-por-mundial-2026",
+      "fecha": "03 Aug 2026, 10:02 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,31 +147,13 @@
       "fecha": "31 Jul 2026, 15:13 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim y su imperio educativo: es dueño de 21 campus donde operan Unitec y UVM",
-      "resumen": "Detrás de decenas de campus universitarios hay un negocio inmobiliario de largo plazo. Estos son los estados donde se ubican los inmuebles propiedad de Carso.",
-      "link": "https://expansion.mx/empresas/2026/07/31/carlos-slim-es-dueno-21-campus-universitarios",
-      "fecha": "31 Jul 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mazda BT-50 e Isuzu D-MAX: las diferencias entre dos pickups con el mismo ADN, pero estrategias opuestas",
-      "resumen": "La BT-50 y la D-MAX reflejan dos maneras de competir en el mercado de pickups: Mazda busca atraer clientes de estilo de vida, mientras Isuzu pretende ampliar su presencia entre usuarios comerciales.",
-      "link": "https://expansion.mx/empresas/2026/07/31/isuzu-d-max-mazda-bt-50-pickups-mexico-algo-las-une",
-      "fecha": "31 Jul 2026, 13:37 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen 4.2%  remesas a México en junio",
-      "resumen": "Las remesas a México sumaron 5 mil 472 mdd en junio, un 4.2% más que igual mes de 2025, y ligaron su quinta alza mensual consecutiva.",
-      "link": "https://www.reforma.com/crecen-4-2-remesas-a-mexico-en-junio/ar3251472",
-      "fecha": "03 Aug 2026, 09:39 hrs"
+      "titulo": "Esperan que PIB crezca sólo 2% ¡hasta 2028!",
+      "resumen": "Los especialistas en economía del sector privado encuestados por Banxico avizoran un crecimiento del PIB de 2 por ciento hasta el año 2028.",
+      "link": "https://www.reforma.com/esperan-que-pib-crezca-solo-2-hasta-2028/ar3251590",
+      "fecha": "03 Aug 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dan nueva prórroga  a presentación de MVE",
-      "resumen": "El SAT y Aduanas ampliaron el plazo para presentar la Manifestación de Valor Electrónica (MVE) al 30 de septiembre de 2026.",
-      "link": "https://www.reforma.com/dan-nueva-prorroga-a-presentacion-de-mve/ar3251510",
-      "fecha": "03 Aug 2026, 10:50 hrs"
+      "titulo": "Ven difícil que País llegue  a una informalidad de 48.9%",
+      "resumen": "La meta del Plan Nacional de Desarrollo para llegar a una tasa de informalidad de 48.9 % es difícil de alcanzar, según México ¿Cómo Vamos?",
+      "link": "https://www.reforma.com/ven-dificil-que-pais-llegue-a-una-informalidad-de-48-9/ar3251599",
+      "fecha": "03 Aug 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja de casi 5%",
-      "resumen": "Los futuros del crudo WTI cerraron con una baja de 5.11% hasta los 80.34 dólares por barril, y el Brent cedió 4.78% a 83.71 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-casi-5/ar3251575",
-      "fecha": "03 Aug 2026, 12:59 hrs"
+      "titulo": "Demandan 25 estados a Trump por aranceles globales",
+      "resumen": "Coalición de 25 estados liderados por demócratas demandó al Gobierno de Trump por los últimos aranceles impuestos a 60 socios comerciales.",
+      "link": "https://www.reforma.com/demandan-25-estados-a-trump-por-aranceles-globales/ar3251629",
+      "fecha": "03 Aug 2026, 14:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera Amazon los 3 billones de dólares de valor bursátil",
-      "resumen": "Amazon superó los 3 billones de dólares en valor de mercado por primera vez, convirtiéndose en la quinta empresa en alcanzar este hito.",
-      "link": "https://www.reforma.com/supera-amazon-los-3-billones-de-dolares-de-valor-bursatil/ar3251431",
-      "fecha": "03 Aug 2026, 08:37 hrs"
+      "titulo": "Crecen 4.2% remesas a México en junio",
+      "resumen": "Las remesas a México sumaron 5 mil 472 mdd en junio, un 4.2% más que igual mes de 2025, y ligaron su quinta alza mensual consecutiva.",
+      "link": "https://www.reforma.com/crecen-4-2-remesas-a-mexico-en-junio/ar3251472",
+      "fecha": "03 Aug 2026, 09:39 hrs"
     }
   ]
 }
