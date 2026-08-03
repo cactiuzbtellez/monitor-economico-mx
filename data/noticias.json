@@ -1,7 +1,16 @@
 {
-  "actualizado": "03/08/2026 09:42 hrs",
+  "actualizado": "03/08/2026 11:50 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "fecha": "03 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
       "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
       "fecha": "30 Jul 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
-      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
-      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
-      "fecha": "30 Jul 2026, 06:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,10 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena el fisco  a nuevos negocios",
-      "resumen": "Un rezago anual de 15 mil citas para trámites como la firma electrónica ante SAT paraliza hasta por 6 meses apertura de nuevos negocios.",
-      "link": "https://www.reforma.com/frena-el-fisco-a-nuevos-negocios/ar3251265",
-      "fecha": "03 Aug 2026, 07:06 hrs"
+      "titulo": "Falla página del SAT para constancia de situación fiscal",
+      "resumen": "Además del rezago de citas para realizar trámites ante el SAT, ahora la página para sacar la Constancia de Situación Fiscal no funciona.",
+      "link": "https://www.reforma.com/falla-pagina-del-sat-para-constancia-de-situacion-fiscal/ar3251524",
+      "fecha": "03 Aug 2026, 11:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dan nueva prórroga  a presentación de MVE",
+      "resumen": "El SAT y Aduanas ampliaron el plazo para presentar la Manifestación de Valor Electrónica (MVE) al 30 de septiembre de 2026.",
+      "link": "https://www.reforma.com/dan-nueva-prorroga-a-presentacion-de-mve/ar3251510",
+      "fecha": "03 Aug 2026, 10:50 hrs"
     },
     {
       "fuente": "Reforma",
@@ -171,15 +180,6 @@
       "titulo": "Rebasa deuda los $20 billones",
       "resumen": "El saldo de la deuda bruta pasó de representar 54.2% del PIB a finales de 2025 a 54.8% a junio pasado.",
       "link": "https://www.reforma.com/rebasa-deuda-los-20-billones/ar3251279",
-      "fecha": "03 Aug 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Exploran Pemex-Petrobras nuevas reservas petroleras",
-      "resumen": "Pemex y Petrobras analizan datos geológicos del Golfo de México para identificar oportunidades de exploración en aguas profundas .",
-      "link": "https://www.reforma.com/exploran-pemex-petrobras-nuevas-reservas-petroleras/ar3251234",
       "fecha": "03 Aug 2026, 07:06 hrs"
     },
     {
