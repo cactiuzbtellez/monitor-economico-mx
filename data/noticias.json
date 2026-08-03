@@ -1,16 +1,7 @@
 {
-  "actualizado": "03/08/2026 06:22 hrs",
+  "actualizado": "03/08/2026 09:42 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
-      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
-      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
-      "fecha": "03 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
       "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
       "fecha": "30 Jul 2026, 16:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
+      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
+      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
+      "fecha": "30 Jul 2026, 06:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Empresa estatal mexicana perdió en semestre",
-      "resumen": "Mientras dos petroleras globales reportaron crecimientos, Pemex vivió una historia diametralmente opuesta: sufrió pérdidas.",
-      "link": "https://www.reforma.com/empresa-estatal-mexicana-perdio-en-semestre/ar3250596",
-      "fecha": "01 Aug 2026, 05:01 hrs"
+      "titulo": "Crecen 4.2%  remesas a México en junio",
+      "resumen": "Las remesas a México sumaron 5 mil 472 mdd en junio, un 4.2% más que igual mes de 2025, y ligaron su quinta alza mensual consecutiva.",
+      "link": "https://www.reforma.com/crecen-4-2-remesas-a-mexico-en-junio/ar3251472",
+      "fecha": "03 Aug 2026, 09:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arrollan autos chinos a otras marcas",
-      "resumen": "Avance en las ventas de autos de marcas chinas en México ha \"arrollado\" la participación de mercado de otras armadoras, reveló Scotiabank",
-      "link": "https://www.reforma.com/arrollan-autos-chinos-a-otras-marcas/ar3250587",
-      "fecha": "01 Aug 2026, 05:01 hrs"
+      "titulo": "Frena el fisco  a nuevos negocios",
+      "resumen": "Un rezago anual de 15 mil citas para trámites como la firma electrónica ante SAT paraliza hasta por 6 meses apertura de nuevos negocios.",
+      "link": "https://www.reforma.com/frena-el-fisco-a-nuevos-negocios/ar3251265",
+      "fecha": "03 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prefieren reclutadores ¡a revendedores de ropa!",
-      "resumen": "El 71% de los usuarios de la Generación Z afirma que la reventa en línea les ha aportado más conocimientos prácticos sobre negocios.",
-      "link": "https://www.reforma.com/prefieren-reclutadores-a-revendedores-de-ropa/ar3250593",
-      "fecha": "01 Aug 2026, 05:01 hrs"
+      "titulo": "Rebasa deuda los $20 billones",
+      "resumen": "El saldo de la deuda bruta pasó de representar 54.2% del PIB a finales de 2025 a 54.8% a junio pasado.",
+      "link": "https://www.reforma.com/rebasa-deuda-los-20-billones/ar3251279",
+      "fecha": "03 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarrilamiento en Sonora fue por deslave.- Ferromex",
-      "resumen": "Ferromex informó que el descarrilamiento de un tren de carga en Naco, Sonora, se debipo a un deslave y que no hubo personas afectadas.",
-      "link": "https://www.reforma.com/descarrilamiento-en-sonora-fue-por-deslave-ferromex/ar3250545",
-      "fecha": "31 Jul 2026, 20:05 hrs"
+      "titulo": "Exploran Pemex-Petrobras nuevas reservas petroleras",
+      "resumen": "Pemex y Petrobras analizan datos geológicos del Golfo de México para identificar oportunidades de exploración en aguas profundas .",
+      "link": "https://www.reforma.com/exploran-pemex-petrobras-nuevas-reservas-petroleras/ar3251234",
+      "fecha": "03 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Gana Grupo Carso 13.44% en julio",
-      "resumen": "Grupo Carso reportó una ganancia de 13.44 por ciento en julio, mientras que la Bolsa Mexicana de Valores se ubicó en 66 mil 937 unidades.",
-      "link": "https://www.reforma.com/gana-grupo-carso-13-44-en-julio/ar3250511",
-      "fecha": "31 Jul 2026, 19:14 hrs"
+      "titulo": "Lo defrauda Peak... y ahora lo apresan",
+      "resumen": "Héctor Eduardo Gutiérrez Cortez, ex directivo de Peak, fue también una de las víctimas de la financiera y ahora es el único detenido.",
+      "link": "https://www.reforma.com/lo-defrauda-peak-y-ahora-lo-apresan/ar3251261",
+      "fecha": "03 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Emite Nemak 7,400 mdp en certificados bursátiles",
-      "resumen": "Nemak emite 7,400 mdp en certificados bursátiles en dos tramos; recursos serán utilizados para refinanciar pasivos existentes.",
-      "link": "https://www.reforma.com/emite-nemak-7-400-mdp-en-certificados-bursatiles/ar3250464",
-      "fecha": "31 Jul 2026, 17:40 hrs"
+      "titulo": "Se desploman precios del crudo hasta 6%",
+      "resumen": "Tras la suspensión de un nuevo ataque de EU contra Irán, el crudo WTI restaba un 6%, a 79.6 dólares, mientras que el Brent caía 4.8%.",
+      "link": "https://www.reforma.com/se-desploman-precios-del-crudo-hasta-6/ar3251406",
+      "fecha": "03 Aug 2026, 07:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se aprecia peso en julio; retrocede dólar a $17.34",
-      "resumen": "Dólar cerró julio con una cotización de $17.34, acumulando un revés mensual de 14.51 centavos y representando su mayor declive desde abril.",
-      "link": "https://www.reforma.com/se-aprecia-peso-en-julio-retrocede-dolar-a-17-34/ar3250465",
-      "fecha": "31 Jul 2026, 17:41 hrs"
+      "titulo": "Inician mercados de EU agosto con sólido avance",
+      "resumen": "En las primeras operaciones, el Dow Jones sumana 710 puntos, o un 1.3%, el índice Nasdaq subía un 1.35% y el S&amp;P 500 ganaba un 1.03%.",
+      "link": "https://www.reforma.com/inician-mercados-de-eu-agosto-con-solido-avance/ar3251426",
+      "fecha": "03 Aug 2026, 08:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concentran bancos financiamiento de autos chinos",
-      "resumen": "El financiamiento de autos de marcas chinas en el País se concentra en los créditos otorgados por los bancos, según reporte.",
-      "link": "https://www.reforma.com/concentran-bancos-financiamiento-de-autos-chinos/ar3250427",
-      "fecha": "31 Jul 2026, 17:37 hrs"
+      "titulo": "Supera Amazon los 3 billones de dólares de valor bursátil",
+      "resumen": "Amazon superó los 3 billones de dólares en valor de mercado por primera vez, convirtiéndose en la quinta empresa en alcanzar este hito.",
+      "link": "https://www.reforma.com/supera-amazon-los-3-billones-de-dolares-de-valor-bursatil/ar3251431",
+      "fecha": "03 Aug 2026, 08:37 hrs"
     }
   ]
 }
