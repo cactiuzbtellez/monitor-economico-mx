@@ -1,25 +1,7 @@
 {
-  "actualizado": "03/08/2026 22:13 hrs",
+  "actualizado": "04/08/2026 01:39 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
-      "resumen": "FinCEN concluyó que el banco suizo incumplió de forma reiterada sus obligaciones antilavado, incluyendo la supervisión de clientes de alto riesgo y el reporte de operaciones sospechosas.",
-      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
-      "fecha": "03 Aug 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
-      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
-      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
-      "fecha": "03 Aug 2026, 11:58 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "Las quejas contra BBVA crecieron este viernes por transferencias que no se reflejan. Los reportes se concentraron en varias ciudades del país.",
       "link": "https://expansion.mx/economia/2026/07/31/bbva-fallas-app-transferencias-dia-quincena-31-julio-2026",
       "fecha": "31 Jul 2026, 14:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
+      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
+      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
+      "fecha": "31 Jul 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
+      "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
+      "fecha": "30 Jul 2026, 16:41 hrs"
     },
     {
       "fuente": "Expansión",
