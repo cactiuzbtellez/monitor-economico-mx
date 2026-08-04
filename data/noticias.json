@@ -1,5 +1,5 @@
 {
-  "actualizado": "04/08/2026 10:11 hrs",
+  "actualizado": "04/08/2026 12:26 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Cuánto cuesta hospedarse en el histórico y lujoso Hotel Geneve de Carlos Slim en CDMX?",
+      "resumen": "Abierto desde 1907, es uno de los hoteles más antiguos y emblemáticos del país, y funciona como un \"Hotel Museo\", con pasillos y rincones que exhiben antigüedades y obras de arte.",
+      "link": "https://expansion.mx/empresas/2026/08/04/hotel-geneve-carlos-slim-cdmx-historia-precios-hospedaje",
+      "fecha": "04 Aug 2026, 10:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
       "resumen": "Un comparativo de confiabilidad revela cuáles son las marcas de autos usados mejor calificadas y cuáles obtuvieron los puntajes más bajos.",
       "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
@@ -138,22 +147,13 @@
       "fecha": "01 Aug 2026, 08:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
-      "resumen": "El centro comercial ubicado sobre avenida Insurgentes Sur abrió sus puertas en 1992 y forma parte de la estrategia inmobiliaria de una de las compañías más grandes de México.",
-      "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
-      "fecha": "31 Jul 2026, 16:37 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quema Pemex  $6,800 millones  de gas natural",
-      "resumen": "En el primer semestre de 2026, Pemex quemó alrededor de 37.6 millones de pesos diarios en emisiones de gas.",
-      "link": "https://www.reforma.com/quema-pemex-6-800-millones-de-gas-natural/ar3251867",
-      "fecha": "04 Aug 2026, 05:01 hrs"
+      "titulo": "Tiene Pemex mayor pérdida por huachicol desde 2018",
+      "resumen": "En el primer semestre, Pemex registró la mayor pérdida por robo de combustible, que fue de 9 mil 180 millones de pesos, desde 2018.",
+      "link": "https://www.reforma.com/tiene-pemex-mayor-perdida-por-huachicol-desde-2018/ar3252092",
+      "fecha": "04 Aug 2026, 11:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,6 +163,15 @@
       "resumen": "De enero a julio, la industria automotriz vendió un volumen sin precedentes de 885 mil 349 unidades; significó un crecimiento anual de 5%.",
       "link": "https://www.reforma.com/suben-5-ventas-de-vehiculos-ligeros-y-logran-volumen-record/ar3252030",
       "fecha": "04 Aug 2026, 09:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se dispara 70% costo del transporte de contenedores",
+      "resumen": "Derivado del conflicto bélico entre EU e Irán, el costo promedio del transporte de contenedores subió 70% respecto el año pasado.",
+      "link": "https://www.reforma.com/se-dispara-70-costo-del-transporte-de-contenedores/ar3252120",
+      "fecha": "04 Aug 2026, 12:06 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alerta Comce de altos costos en etiquetado",
-      "resumen": "El Comce planteará al Gobierno la necesidad de sustituir el etiquetado por un código QR.",
-      "link": "https://www.reforma.com/alerta-comce-de-altos-costos-en-etiquetado/ar3251871",
-      "fecha": "04 Aug 2026, 07:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen precios del crudo otro 4% y el WTI ronda los 76 dólares",
-      "resumen": "Precios del crudo se desploman cerca de 4% después de que Qatar y el secretario del Tesoro de EU avivan esperanzas de solución diplomática.",
-      "link": "https://www.reforma.com/caen-precios-del-crudo-otro-4-y-el-wti-ronda-los-76-dolares/ar3251955",
-      "fecha": "04 Aug 2026, 07:21 hrs"
+      "titulo": "Cotiza crudo Brent por debajo de los 80 dólares",
+      "resumen": "Los precios del crudo caían cerca de 6%, luego que Scott Bessent dijera que acuerdo sobre el estrecho de Ormuz podría cerrarse esta semana.",
+      "link": "https://www.reforma.com/cotiza-crudo-brent-por-debajo-de-los-80-dolares/ar3252043",
+      "fecha": "04 Aug 2026, 10:14 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se abarata lechuga más en NL",
-      "resumen": "Precio al mayoreo de lechuga orejona en NL cerró julio en $10 por pieza, un desplome de 50%, ubicándose como la Entidad donde se abarató más",
-      "link": "https://www.reforma.com/se-abarata-lechuga-mas-en-nl/ar3251818",
-      "fecha": "04 Aug 2026, 07:09 hrs"
+      "titulo": "Retira Chipotle jalapeños ligados a salmonela en Minnesota",
+      "resumen": "Chipotle retiró los jalapeños de varios establecimientos en Minnesota ya que podrían estar relacionados con un brote de salmonela.",
+      "link": "https://www.reforma.com/retira-chipotle-jalapenos-ligados-a-salmonela-en-minnesota/ar3252106",
+      "fecha": "04 Aug 2026, 11:58 hrs"
     }
   ]
 }
