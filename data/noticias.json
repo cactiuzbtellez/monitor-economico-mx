@@ -1,16 +1,7 @@
 {
-  "actualizado": "04/08/2026 07:01 hrs",
+  "actualizado": "04/08/2026 10:11 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El PIB de México perderá impulso tras el rebote del Mundial 2026",
-      "resumen": "El crecimiento de 1.5% entre abril y junio no convenció al mercado de que la economía haya entrado en una recuperación sostenida, ante la debilidad de la inversión y el consumo.",
-      "link": "https://expansion.mx/economia/2026/08/04/economia-mexicana-sena-recuperacion-no-convence",
-      "fecha": "04 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
       "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
       "fecha": "31 Jul 2026, 17:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT y Aduanas amplían prórroga para presentar Manifestación de Valor Electrónica",
+      "resumen": "Esta medida permitirá que el usuario de comercio exterior cuente con un periodo adicional para realizar las adecuaciones correspondientes y familiarizarse con el nuevo esquema operativo.",
+      "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
+      "fecha": "31 Jul 2026, 15:46 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quema Pemex 6,800 mdp de gas natural",
+      "titulo": "Quema Pemex  $6,800 millones  de gas natural",
       "resumen": "En el primer semestre de 2026, Pemex quemó alrededor de 37.6 millones de pesos diarios en emisiones de gas.",
-      "link": "https://www.reforma.com/quema-pemex-6-800-mdp-de-gas-natural/ar3251867",
+      "link": "https://www.reforma.com/quema-pemex-6-800-millones-de-gas-natural/ar3251867",
       "fecha": "04 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Pierde' Pemex $33 mil millones",
-      "resumen": "Durante el primer semestre del año, Pemex perdió 32 mil 700 millones de pesos en sus registros, expuso Cifra2 Consultoría.",
-      "link": "https://www.reforma.com/pierde-pemex-33-mil-millones/ar3251840",
+      "titulo": "Suben 5% ventas de vehículos ligeros y logran volumen récord",
+      "resumen": "De enero a julio, la industria automotriz vendió un volumen sin precedentes de 885 mil 349 unidades; significó un crecimiento anual de 5%.",
+      "link": "https://www.reforma.com/suben-5-ventas-de-vehiculos-ligeros-y-logran-volumen-record/ar3252030",
+      "fecha": "04 Aug 2026, 09:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Compromete la 4T 68% de impuestos",
+      "resumen": "El llamado \"gasto rígido\" representó 67.8% de los ingresos tributarios del País al primer semestre, 15 puntos porcentuales más que en 2018.",
+      "link": "https://www.reforma.com/compromete-la-4t-68-de-impuestos/ar3251812",
       "fecha": "04 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten freno en AL por deuda y violencia",
-      "resumen": "Deuda pública, desconfianza en autoridades e inseguridad limita el desarrollo y crecimiento de América Latina, señaló Cepal.",
-      "link": "https://www.reforma.com/advierten-freno-en-al-por-deuda-y-violencia/ar3251846",
-      "fecha": "04 Aug 2026, 05:01 hrs"
+      "titulo": "Baja, pese a Mundial, recaudación por cerveza",
+      "resumen": "Pese a que el Mundial arrancó el 11 de junio y México fue una de sus tres sedes, en ese mes la recaudación del IEPS a la cerveza bajó 6.8%.",
+      "link": "https://www.reforma.com/baja-pese-a-mundial-recaudacion-por-cerveza/ar3251817",
+      "fecha": "04 Aug 2026, 07:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cerró Volaris con crecimiento 2025",
-      "resumen": "En 2025, Volaris transportó a más de 30 millones de pasajeros, lo que representó un crecimiento de 5% con respecto a 2024.",
-      "link": "https://www.reforma.com/cerro-volaris-con-crecimiento-2025/ar3251835",
-      "fecha": "04 Aug 2026, 05:01 hrs"
+      "titulo": "Alerta Comce de altos costos en etiquetado",
+      "resumen": "El Comce planteará al Gobierno la necesidad de sustituir el etiquetado por un código QR.",
+      "link": "https://www.reforma.com/alerta-comce-de-altos-costos-en-etiquetado/ar3251871",
+      "fecha": "04 Aug 2026, 07:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan cooperación con Japón en IA y energía",
-      "resumen": "Secretaria de Economía y el Ministro de Asuntos Exteriores de Japón acordaron impulsar oportunidades de cooperación en energía e IA.",
-      "link": "https://www.reforma.com/buscan-cooperacion-con-japon-en-ia-y-energia/ar3251805",
-      "fecha": "03 Aug 2026, 20:44 hrs"
+      "titulo": "Caen precios del crudo otro 4% y el WTI ronda los 76 dólares",
+      "resumen": "Precios del crudo se desploman cerca de 4% después de que Qatar y el secretario del Tesoro de EU avivan esperanzas de solución diplomática.",
+      "link": "https://www.reforma.com/caen-precios-del-crudo-otro-4-y-el-wti-ronda-los-76-dolares/ar3251955",
+      "fecha": "04 Aug 2026, 07:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene Pemex inversión más baja desde 2012.- Imco",
-      "resumen": "La inversión que realizó Pemex en el primer semestre de este año por 114 mil millones de pesos es la más baja desde 2012, señaló Imco.",
-      "link": "https://www.reforma.com/tiene-pemex-inversion-mas-baja-desde-2012-imco/ar3251776",
-      "fecha": "03 Aug 2026, 18:55 hrs"
+      "titulo": "Operan Dow Jones y S&amp;P 500 en nuevos máximos",
+      "resumen": "En los primeros intercambios, el Dow Jones subía 1.46%, el índice ampliado S&amp;P 500 ganaba 0.51% y el Nasdaq sumaba un 0.83%.",
+      "link": "https://www.reforma.com/operan-dow-jones-y-s-p-500-en-nuevos-maximos/ar3251983",
+      "fecha": "04 Aug 2026, 08:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirman que SuKarne analiza su venta",
-      "resumen": "El propietario de SuKarne, el mayor exportador de carne en México, está explorando una venta que la empresa podría valorar en más de 2 mmdd.",
-      "link": "https://www.reforma.com/afirman-que-sukarne-analiza-su-venta/ar3251691",
-      "fecha": "03 Aug 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tocan exportaciones de petróleo de EU mínimo en ocho meses",
-      "resumen": "Las exportaciones de crudo de EU en julio cayeron a 3.66 millones de bpd, un mínimo en 8 meses, según datos de seguimiento de buques.",
-      "link": "https://www.reforma.com/tocan-exportaciones-de-petroleo-de-eu-minimo-en-ocho-meses/ar3251677",
-      "fecha": "03 Aug 2026, 15:30 hrs"
+      "titulo": "Se abarata lechuga más en NL",
+      "resumen": "Precio al mayoreo de lechuga orejona en NL cerró julio en $10 por pieza, un desplome de 50%, ubicándose como la Entidad donde se abarató más",
+      "link": "https://www.reforma.com/se-abarata-lechuga-mas-en-nl/ar3251818",
+      "fecha": "04 Aug 2026, 07:09 hrs"
     }
   ]
 }
