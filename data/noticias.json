@@ -1,5 +1,5 @@
 {
-  "actualizado": "03/08/2026 18:14 hrs",
+  "actualizado": "03/08/2026 22:13 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,37 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan que PIB crezca sólo 2% ¡hasta 2028!",
-      "resumen": "Los especialistas en economía del sector privado encuestados por Banxico avizoran un crecimiento del PIB de 2 por ciento hasta el año 2028.",
-      "link": "https://www.reforma.com/esperan-que-pib-crezca-solo-2-hasta-2028/ar3251590",
-      "fecha": "03 Aug 2026, 14:11 hrs"
+      "titulo": "Buscan cooperación con Japón en IA y energía",
+      "resumen": "Secretaria de Economía y el Ministro de Asuntos Exteriores de Japón acordaron impulsar oportunidades de cooperación en energía e IA.",
+      "link": "https://www.reforma.com/buscan-cooperacion-con-japon-en-ia-y-energia/ar3251805",
+      "fecha": "03 Aug 2026, 20:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla página del SAT para constancia de situación fiscal",
-      "resumen": "Además del rezago de citas para realizar trámites ante el SAT, ahora la página para sacar la Constancia de Situación Fiscal no funciona.",
-      "link": "https://www.reforma.com/falla-pagina-del-sat-para-constancia-de-situacion-fiscal/ar3251524",
-      "fecha": "03 Aug 2026, 11:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven difícil que País llegue  a una informalidad de 48.9%",
-      "resumen": "La meta del Plan Nacional de Desarrollo para llegar a una tasa de informalidad de 48.9 % es difícil de alcanzar, según México ¿Cómo Vamos?",
-      "link": "https://www.reforma.com/ven-dificil-que-pais-llegue-a-una-informalidad-de-48-9/ar3251599",
-      "fecha": "03 Aug 2026, 14:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Contribuye minería con 78 mil mdp al erario.-Camimex",
-      "resumen": "Pese a que la industria minera aporta 78 mil millones de pesos al erario, el Gobierno detiene proyectos por 192.5 mil millones de pesos.",
-      "link": "https://www.reforma.com/contribuye-mineria-con-78-mil-mdp-al-erario-camimex/ar3251673",
-      "fecha": "03 Aug 2026, 15:30 hrs"
+      "titulo": "Tiene Pemex inversión más baja desde 2012.- Imco",
+      "resumen": "La inversión que realizó Pemex en el primer semestre de este año por 114 mil millones de pesos es la más baja desde 2012, señaló Imco.",
+      "link": "https://www.reforma.com/tiene-pemex-inversion-mas-baja-desde-2012-imco/ar3251776",
+      "fecha": "03 Aug 2026, 18:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,8 +177,35 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Tocan exportaciones de petróleo de EU mínimo en ocho meses",
+      "resumen": "Las exportaciones de crudo de EU en julio cayeron a 3.66 millones de bpd, un mínimo en 8 meses, según datos de seguimiento de buques.",
+      "link": "https://www.reforma.com/tocan-exportaciones-de-petroleo-de-eu-minimo-en-ocho-meses/ar3251677",
+      "fecha": "03 Aug 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Detiene Gobierno inversiones mineras de 11 mil mdd.- Camimex",
+      "resumen": "Pese a que la industria minera aporta 78 mil millones de pesos al erario, el Gobierno detiene proyectos por 192.5 mil millones de pesos.",
+      "link": "https://www.reforma.com/detiene-gobierno-inversiones-mineras-de-11-mil-mdd-camimex/ar3251673",
+      "fecha": "03 Aug 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Logra Dow Jones récord",
+      "resumen": "El Dow Jones avanzó 1.34%, a un récord de 53 mil 189 enteros; el S&amp;P 500 subió 1.48%, a 7 mil 600, y el Nasdaq ganó 2.12%, a 25 mil 912.",
+      "link": "https://www.reforma.com/logra-dow-jones-record/ar3251640",
+      "fecha": "03 Aug 2026, 14:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Demandan 25 estados a Trump por aranceles globales",
-      "resumen": "Coalición de 25 estados liderados por demócratas demandó al Gobierno de Trump por los últimos aranceles impuestos a 60 socios comerciales.",
+      "resumen": "Coalición de 25 estados liderados por demócratas demandó al Gobierno de Trump por los aranceles impuestos a 60 socios comerciales.",
       "link": "https://www.reforma.com/demandan-25-estados-a-trump-por-aranceles-globales/ar3251629",
       "fecha": "03 Aug 2026, 14:18 hrs"
     },
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es México pieza clave del auge de IA en EU.- FT",
-      "resumen": "México suministra el 40% de las importaciones de EU de equipos utilizados en los centros de datos que impulsan la IA, destacó el FT.",
-      "link": "https://www.reforma.com/es-mexico-pieza-clave-del-auge-de-ia-en-eu-ft/ar3251572",
-      "fecha": "03 Aug 2026, 12:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Desplegarán oficinas móviles del SAT en zonas alejadas",
-      "resumen": "El SAT desplegará el programa Oficina Móvil en 22 estados durante la primera semana de agosto.",
-      "link": "https://www.reforma.com/desplegaran-oficinas-moviles-del-sat-en-zonas-alejadas/ar3251542",
-      "fecha": "03 Aug 2026, 12:10 hrs"
+      "titulo": "Estiman difícil que México reduzca la informalidad a 48.9%",
+      "resumen": "La meta del Plan Nacional de Desarrollo para bajar la tasa de informalidad de 48.9% será difícil de alcanzar, señaló México ¿Cómo Vamos?.",
+      "link": "https://www.reforma.com/estiman-dificil-que-mexico-reduzca-la-informalidad-a-48-9/ar3251599",
+      "fecha": "03 Aug 2026, 14:11 hrs"
     }
   ]
 }
