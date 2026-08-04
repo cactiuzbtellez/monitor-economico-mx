@@ -1,7 +1,34 @@
 {
-  "actualizado": "03/08/2026 16:59 hrs",
+  "actualizado": "03/08/2026 18:14 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
+      "resumen": "FinCEN concluyó que el banco suizo incumplió de forma reiterada sus obligaciones antilavado, incluyendo la supervisión de clientes de alto riesgo y el reporte de operaciones sospechosas.",
+      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
+      "fecha": "03 Aug 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
+      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
+      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
+      "fecha": "03 Aug 2026, 11:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "fecha": "03 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Recaudación del IEPS a refrescos aumenta 59% en el Mundial",
-      "resumen": "El aumento de las cuotas del impuesto y un mayor consumo durante la Copa Mundial de Futbol elevaron los ingresos por bebidas saborizadas, que encabezaron la recaudación del IEPS distinto a combustible…",
-      "link": "https://expansion.mx/economia/2026/07/31/mundial-disparo-recaudacion-ieps-refrescos-tabaco",
-      "fecha": "31 Jul 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda prevé un crecimiento de la economía de al menos 1.5% para este año",
-      "resumen": "No solo fue el sector servicios de esparcimiento y alojamiento, impulsado por el Mundial de Futbol, el que empujó la economía, destacó el secretario de Hacienda, Édgar Amador Zamora.",
-      "link": "https://expansion.mx/economia/2026/07/30/hacienda-mayor-crecimiento-economico-2026",
-      "fecha": "30 Jul 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La economía de México crece 1.5% en el segundo trimestre de 2026",
-      "resumen": "El Inegi informó que las actividades primarias impulsaron el crecimiento del PIB con un avance de 7.3% entre abril y junio.",
-      "link": "https://expansion.mx/economia/2026/07/30/economia-mexico-pib-crece-segundo-trimestre-2026",
-      "fecha": "30 Jul 2026, 06:44 hrs"
+      "titulo": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
+      "resumen": "Un comparativo de confiabilidad revela cuáles son las marcas de autos usados mejor calificadas y cuáles obtuvieron los puntajes más bajos.",
+      "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
+      "fecha": "03 Aug 2026, 17:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "El centro comercial ubicado sobre avenida Insurgentes Sur abrió sus puertas en 1992 y forma parte de la estrategia inmobiliaria de una de las compañías más grandes de México.",
       "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
       "fecha": "31 Jul 2026, 16:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia detrás de Prichos, el negocio de Walmart para que compres más en cada visita a sus tiendas",
-      "resumen": "De artículos de 13.90 pesos a productos con precio único de 25 pesos, Prichos ha mantenido una estrategia basada en accesibilidad y compras rápidas.",
-      "link": "https://expansion.mx/empresas/2026/07/31/prichos-historia-walmart-compras-de-impulso",
-      "fecha": "31 Jul 2026, 15:37 hrs"
     },
     {
       "fuente": "Reforma",
