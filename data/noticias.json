@@ -1,7 +1,34 @@
 {
-  "actualizado": "04/08/2026 12:26 hrs",
+  "actualizado": "04/08/2026 14:23 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México vende 298,157 mdd a EU en el primer semestre y amplía su ventaja como proveedor",
+      "resumen": "México concentró 17.1% de las importaciones de bienes de Estados Unidos durante la primera mitad de 2026, muy por encima de Canadá, Taiwán y China, sus principales competidores.",
+      "link": "https://expansion.mx/economia/2026/08/04/mexico-mayor-proveedor-estados-unidos-primer-semestre-2026",
+      "fecha": "04 Aug 2026, 13:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El consumidor mexicano mejora su confianza, pero aún teme por el empleo y el ahorro",
+      "resumen": "La menor inflación y el mejor desempeño de la economía impulsaron la confianza del consumidor, aunque el indicador todavía se ubicó por debajo de los niveles registrados hace un año.",
+      "link": "https://expansion.mx/economia/2026/08/04/consumidor-mexicano-mejora-confianza-pero-teme-por-empleo",
+      "fecha": "04 Aug 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El PIB de México perderá impulso tras el rebote del Mundial 2026",
+      "resumen": "El crecimiento de 1.5% entre abril y junio no convenció al mercado de que la economía haya entrado en una recuperación sostenida, ante la debilidad de la inversión y el consumo.",
+      "link": "https://expansion.mx/economia/2026/08/04/economia-mexicana-sena-recuperacion-no-convence",
+      "fecha": "04 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
-      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
-      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
-      "fecha": "31 Jul 2026, 18:11 hrs"
+      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
+      "link": "https://expansion.mx/empresas/2026/08/04/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "fecha": "04 Aug 2026, 12:34 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-      "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
-      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
-      "fecha": "31 Jul 2026, 17:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT y Aduanas amplían prórroga para presentar Manifestación de Valor Electrónica",
-      "resumen": "Esta medida permitirá que el usuario de comercio exterior cuente con un periodo adicional para realizar las adecuaciones correspondientes y familiarizarse con el nuevo esquema operativo.",
-      "link": "https://expansion.mx/economia/2026/07/31/sat-aduanas-prorroga-manifestacion-valor-electronica",
-      "fecha": "31 Jul 2026, 15:46 hrs"
+      "titulo": "Chipotle, el experimento que Alsea intentará repetir sin los errores de Taco Bell",
+      "resumen": "La cadena estadounidense abrirá sus primeros restaurantes en México de la mano de Alsea. El desafío será convencer a consumidores acostumbrados a la comida mexicana tradicional y evitar el destino que…",
+      "link": "https://expansion.mx/empresas/2026/08/04/debacle-taco-bell-chipotle-tener-exito-mercado-mexicano",
+      "fecha": "04 Aug 2026, 12:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,24 +147,6 @@
       "fecha": "03 Aug 2026, 12:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ollamani de Emilio Azcárraga perdió más de 800 millones de pesos por el Mundial; estas fueron las razones",
-      "resumen": "Aunque el torneo generó pérdidas extraordinarias, la compañía asegura que la renovación del Estadio Banorte representa una inversión de largo plazo para ampliar sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/08/03/ollamani-azcarraga-perdio-800-millones-por-mundial-2026",
-      "fecha": "03 Aug 2026, 10:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
-      "resumen": "México es uno de los mercados estratégicos para MSD Salud Animal en Latinoamérica y se mantiene entre los 10 mercados más importantes de la compañía a nivel mundial.",
-      "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
-      "fecha": "01 Aug 2026, 08:00 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "En el primer semestre, Pemex registró la mayor pérdida por robo de combustible, que fue de 9 mil 180 millones de pesos, desde 2018.",
       "link": "https://www.reforma.com/tiene-pemex-mayor-perdida-por-huachicol-desde-2018/ar3252092",
       "fecha": "04 Aug 2026, 11:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crecen 13% exportaciones de México a EU",
+      "resumen": "Las exportaciones mexicanas a Estados Unidos aumentaron 13 por ciento anual en el primer semestre de 2026 a 298 mil 157 millones de dólares.",
+      "link": "https://www.reforma.com/crecen-13-exportaciones-de-mexico-a-eu/ar3252174",
+      "fecha": "04 Aug 2026, 14:12 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,28 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja, pese a Mundial, recaudación por cerveza",
-      "resumen": "Pese a que el Mundial arrancó el 11 de junio y México fue una de sus tres sedes, en ese mes la recaudación del IEPS a la cerveza bajó 6.8%.",
-      "link": "https://www.reforma.com/baja-pese-a-mundial-recaudacion-por-cerveza/ar3251817",
-      "fecha": "04 Aug 2026, 07:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cotiza crudo Brent por debajo de los 80 dólares",
-      "resumen": "Los precios del crudo caían cerca de 6%, luego que Scott Bessent dijera que acuerdo sobre el estrecho de Ormuz podría cerrarse esta semana.",
-      "link": "https://www.reforma.com/cotiza-crudo-brent-por-debajo-de-los-80-dolares/ar3252043",
+      "titulo": "Cierra crudo Brent por debajo de los 80 dólares",
+      "resumen": "El crudo Brent y WTI cerraron con bajas de más de 5%, luego que Bessent dijera que acuerdo sobre Ormuz podría cerrarse esta semana.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-por-debajo-de-los-80-dolares/ar3252043",
       "fecha": "04 Aug 2026, 10:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Operan Dow Jones y S&amp;P 500 en nuevos máximos",
-      "resumen": "En los primeros intercambios, el Dow Jones subía 1.46%, el índice ampliado S&amp;P 500 ganaba 0.51% y el Nasdaq sumaba un 0.83%.",
-      "link": "https://www.reforma.com/operan-dow-jones-y-s-p-500-en-nuevos-maximos/ar3251983",
-      "fecha": "04 Aug 2026, 08:15 hrs"
+      "titulo": "Alista EU veto a componentes chinos para centros de datos",
+      "resumen": "La FCC está elaborando una prohibición a las importaciones de algunos componentes chinos para centros de datos, según Reuters.",
+      "link": "https://www.reforma.com/alista-eu-veto-a-componentes-chinos-para-centros-de-datos/ar3252139",
+      "fecha": "04 Aug 2026, 12:40 hrs"
     },
     {
       "fuente": "Reforma",
