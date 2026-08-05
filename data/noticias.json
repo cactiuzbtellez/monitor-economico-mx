@@ -1,34 +1,7 @@
 {
-  "actualizado": "04/08/2026 16:11 hrs",
+  "actualizado": "04/08/2026 18:02 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Mientras EU y China se disputan los minerales críticos, México lleva 8 años con el freno puesto",
-      "resumen": "Mientras Estados Unidos acelera inversiones, producción y acuerdos para asegurar minerales críticos, México mantiene cero nuevas concesiones mineras desde el sexenio pasado, pese a su riqueza geológic…",
-      "link": "https://expansion.mx/economia/2026/08/04/eu-acelera-minerales-criticos-mexico-frena",
-      "fecha": "04 Aug 2026, 14:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vende 298,157 mdd a EU en el primer semestre y amplía su ventaja como proveedor",
-      "resumen": "México concentró 17.1% de las importaciones de bienes de Estados Unidos durante la primera mitad de 2026, muy por encima de Canadá, Taiwán y China, sus principales competidores.",
-      "link": "https://expansion.mx/economia/2026/08/04/estados-unidos-sigue-comprando-productos-mexico-exportaciones",
-      "fecha": "04 Aug 2026, 13:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El consumidor mexicano mejora su confianza, pero aún teme por el empleo y el ahorro",
-      "resumen": "La menor inflación y el mejor desempeño de la economía impulsaron la confianza del consumidor, aunque el indicador todavía se ubicó por debajo de los niveles registrados hace un año.",
-      "link": "https://expansion.mx/economia/2026/08/04/consumidor-mexicano-mejora-confianza-pero-teme-por-empleo",
-      "fecha": "04 Aug 2026, 13:16 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,42 @@
       "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
       "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
       "fecha": "03 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
+      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
+      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
+      "fecha": "31 Jul 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
+      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
+      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
+      "fecha": "31 Jul 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
+      "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
+      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
+      "fecha": "31 Jul 2026, 17:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Cuánto cuesta hospedarse en el histórico y lujoso Hotel Geneve de Carlos Slim en CDMX?",
+      "resumen": "Abierto desde 1907, es uno de los hoteles más antiguos y emblemáticos del país, y funciona como un \"Hotel Museo\", con pasillos y rincones que exhiben antigüedades y obras de arte.",
+      "link": "https://expansion.mx/empresas/2026/08/04/hotel-geneve-carlos-slim-cdmx-historia-precios-hospedaje",
+      "fecha": "04 Aug 2026, 10:22 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "México es uno de los mercados estratégicos para MSD Salud Animal en Latinoamérica y se mantiene entre los 10 mercados más importantes de la compañía a nivel mundial.",
       "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
       "fecha": "01 Aug 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Galerías Insurgentes pertenece a un imperio empresarial detrás de múltiples plazas y es hermana de Perisur",
-      "resumen": "El centro comercial ubicado sobre avenida Insurgentes Sur abrió sus puertas en 1992 y forma parte de la estrategia inmobiliaria de una de las compañías más grandes de México.",
-      "link": "https://expansion.mx/empresas/2026/07/31/dueno-de-galerias-insurgentes-plaza-de-liverpool",
-      "fecha": "31 Jul 2026, 16:37 hrs"
     },
     {
       "fuente": "Reforma",
