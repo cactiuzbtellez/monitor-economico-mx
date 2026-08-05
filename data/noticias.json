@@ -1,7 +1,34 @@
 {
-  "actualizado": "04/08/2026 18:02 hrs",
+  "actualizado": "04/08/2026 22:08 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras EU y China se disputan los minerales críticos, México lleva 8 años con el freno puesto",
+      "resumen": "Mientras Estados Unidos acelera inversiones, producción y acuerdos para asegurar minerales críticos, México mantiene cero nuevas concesiones mineras desde el sexenio pasado, pese a su riqueza geológic…",
+      "link": "https://expansion.mx/economia/2026/08/04/eu-acelera-minerales-criticos-mexico-frena",
+      "fecha": "04 Aug 2026, 14:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México vende 298,157 mdd a EU en el primer semestre y amplía su ventaja como proveedor",
+      "resumen": "México concentró 17.1% de las importaciones de bienes de Estados Unidos durante la primera mitad de 2026, muy por encima de Canadá, Taiwán y China, sus principales competidores.",
+      "link": "https://expansion.mx/economia/2026/08/04/estados-unidos-sigue-comprando-productos-mexico-exportaciones",
+      "fecha": "04 Aug 2026, 13:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El consumidor mexicano mejora su confianza, pero aún teme por el empleo y el ahorro",
+      "resumen": "La menor inflación y el mejor desempeño de la economía impulsaron la confianza del consumidor, aunque el indicador todavía se ubicó por debajo de los niveles registrados hace un año.",
+      "link": "https://expansion.mx/economia/2026/08/04/consumidor-mexicano-mejora-confianza-pero-teme-por-empleo",
+      "fecha": "04 Aug 2026, 13:16 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
-      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
-      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
-      "fecha": "31 Jul 2026, 19:42 hrs"
+      "titulo": "Ni el América ni el Estadio Azteca: el negocio más rentable de Azcárraga en Ollamani está en los casinos",
+      "resumen": "Los casinos aportan los márgenes de ganancia más altos de Ollamani y han resistido mejor las presiones financieras que el futbol y el negocio editorial.",
+      "link": "https://expansion.mx/empresas/2026/08/04/negocio-mas-rentable-emilio-azcarraga-ollamani-casinos",
+      "fecha": "04 Aug 2026, 15:56 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda sube el subsidio al diésel hasta 76%, mientras reduce los de Magna y Premium",
-      "resumen": "El combustible  utilizado para el transporte de mercancías, tiene mayores descuentos a su cuota del impuesto IEPS tras quinta semana consecutiva.",
-      "link": "https://expansion.mx/economia/2026/07/31/hacienda-subsidio-diesel-76-reduce-magna-y-premium",
-      "fecha": "31 Jul 2026, 18:11 hrs"
+      "titulo": "La venta de autos nuevos en México rompe récord y las marcas chinas son las ganadoras",
+      "resumen": "Las previsiones eran que el mercado creciera entre 1 y 1.2%, similar a la economía mexicana, pero los resultados correspondientes al mes de julio muestran otra historia.",
+      "link": "https://expansion.mx/empresas/2026/08/04/venta-autos-nuevos-rompe-record-marchas-chinas",
+      "fecha": "04 Aug 2026, 15:41 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-      "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
-      "link": "https://expansion.mx/economia/2026/07/31/app-nu-5-agosto-operaciones-que-estaran-pausadas",
-      "fecha": "31 Jul 2026, 17:58 hrs"
+      "titulo": "De Nissan a General Motors: estas son las armadoras que más empleos generan en México",
+      "resumen": "Además de fabricar automóviles, estas empresas operan complejos industriales que impulsan miles de puestos de trabajo y una parte clave de la producción nacional.",
+      "link": "https://expansion.mx/empresas/2026/08/04/de-nissan-a-china-chirey-armadoras-generan-mas-empleos",
+      "fecha": "04 Aug 2026, 15:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué Yema y Tiendas 3B aceptan devoluciones sin ticket? La estrategia para ganar clientes",
+      "resumen": "Mientras otros supermercados exigen comprobantes y condiciones específicas para aceptar devoluciones, Tiendas 3B y Yema no rechazan los cambios de sus productos.",
+      "link": "https://expansion.mx/empresas/2026/08/04/por-que-yema-y-tiendas-3b-aceptan-devoluciones-sin-ticket",
+      "fecha": "04 Aug 2026, 14:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
+      "link": "https://expansion.mx/empresas/2026/08/04/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "fecha": "04 Aug 2026, 12:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Chipotle, el experimento que Alsea intentará repetir sin los errores de Taco Bell",
+      "resumen": "La cadena estadounidense abrirá sus primeros restaurantes en México de la mano de Alsea. El desafío será convencer a consumidores acostumbrados a la comida mexicana tradicional y evitar el destino que…",
+      "link": "https://expansion.mx/empresas/2026/08/04/debacle-taco-bell-chipotle-tener-exito-mercado-mexicano",
+      "fecha": "04 Aug 2026, 12:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,60 +145,6 @@
       "resumen": "Un comparativo de confiabilidad revela cuáles son las marcas de autos usados mejor calificadas y cuáles obtuvieron los puntajes más bajos.",
       "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
       "fecha": "03 Aug 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La razón por la que Tiendas 3B prefirió Wall Street sobre la Bolsa Mexican de Valores",
-      "resumen": "Con miles de tiendas abiertas en México, Tiendas 3B necesitaba capital para seguir creciendo y su solución fue llegar hasta la Bolsa de Nueva York.",
-      "link": "https://expansion.mx/empresas/2026/08/03/por-que-tiendas-3b-cotiza-acciones-wall-street",
-      "fecha": "03 Aug 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las ganancias mineras se disparan 21% gracias a altos precios de los metales, pero la inversión cae",
-      "resumen": "El valor de la producción minero-metalúrgica alcanzó un récord de 379,290 millones de pesos impulsado por el alza del oro, la plata y el cobre, mientras la inversión y el PIB del sector continuaron en…",
-      "link": "https://expansion.mx/empresas/2026/08/03/ganancias-mineras-se-disparan-21-altos-precios-metales",
-      "fecha": "03 Aug 2026, 16:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim vende 74,000 millones de pesos gracias a esta empresa: el verdadero negocio de Grupo Carso",
-      "resumen": "Aunque lo relacionan con la construcción o la energía, la división que sostiene las finanzas de Carso pertenece a otro sector. Así está conformado el negocio que lidera sus ventas.",
-      "link": "https://expansion.mx/empresas/2026/08/03/carlos-slim-gana-74000-mdp-verdadero-negocio-grupo-carso",
-      "fecha": "03 Aug 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni Nissan ni Toyota: esta fue la primera marca que instaló una armadora en México",
-      "resumen": "Mucho antes de que las armadoras asiáticas llegaran al país, una empresa decidió apostar por México y puso en marcha una fábrica que cambiaría para siempre el rumbo de la industria nacional.",
-      "link": "https://expansion.mx/empresas/2026/08/03/historia-primera-marca-que-instalo-armadora-autos-mexico",
-      "fecha": "03 Aug 2026, 12:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ollamani de Emilio Azcárraga perdió más de 800 millones de pesos por el Mundial; estas fueron las razones",
-      "resumen": "Aunque el torneo generó pérdidas extraordinarias, la compañía asegura que la renovación del Estadio Banorte representa una inversión de largo plazo para ampliar sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/08/03/ollamani-azcarraga-perdio-800-millones-por-mundial-2026",
-      "fecha": "03 Aug 2026, 10:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fabiano Hideto Ikejiri asume la dirección de MSD Salud Animal en México",
-      "resumen": "México es uno de los mercados estratégicos para MSD Salud Animal en Latinoamérica y se mantiene entre los 10 mercados más importantes de la compañía a nivel mundial.",
-      "link": "https://expansion.mx/empresas/2026/08/01/fabiano-hideto-ikejiri-director-msd-salud-animal-mexico",
-      "fecha": "01 Aug 2026, 08:00 hrs"
     },
     {
       "fuente": "Reforma",
