@@ -1,5 +1,5 @@
 {
-  "actualizado": "05/08/2026 04:34 hrs",
+  "actualizado": "05/08/2026 06:51 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Desafía escasez de suelo a Plan de Vivienda",
+      "resumen": "El principal desafío del Programa de Vivienda para el Bienestar es la falta de suelo apto y bien ubicado, advierten especialistas.",
+      "link": "https://www.reforma.com/desafia-escasez-de-suelo-a-plan-de-vivienda/ar3252484",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Señalan que nearshoring concentra empleo",
+      "resumen": "El empleo generado a raíz del nearshoring  se concentra en ciudades donde ya existía mayor actividad industrial, advierte Banamex.",
+      "link": "https://www.reforma.com/senalan-que-nearshoring-concentra-empleo/ar3252470",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reportan automotrices chinas resultados mixtos",
+      "resumen": "Pese a gravámenes impuestos a las empresas chinas, Geely, Jetour y Changan reportaron cifras positivas en comparación con GWM, JAC y MG.",
+      "link": "https://www.reforma.com/reportan-automotrices-chinas-resultados-mixtos/ar3252515",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsó el Mundial mercados de apuesta",
+      "resumen": "Durante Mundial de futbol se movilizaron alrededor de 20 mil millones de dólares en mercados de predicción y apuestas, reveló Chainalysis.",
+      "link": "https://www.reforma.com/impulso-el-mundial-mercados-de-apuesta/ar3252480",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "'Respira' la economía gracias al consumo",
+      "resumen": "El gasto de los consumidores mexicanos fue uno de los principales motores de la recuperación económica del País, expuso Barclays.",
+      "link": "https://www.reforma.com/respira-la-economia-gracias-al-consumo/ar3252505",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Supera México brecha laboral de género de AL",
+      "resumen": "México registra una de las brechas laborales de género más altas de América Latina, con una diferencia de 28.5 puntos porcentuales.",
+      "link": "https://www.reforma.com/supera-mexico-brecha-laboral-de-genero-de-al/ar3252497",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae 0.83% PIB turístico durante primer trimestre",
+      "resumen": "Tras dos trimestres con expansión, el Producto Interno Bruto Turístico cayó 0.83% de enero a marzo de 2026, respecto a trimestre previo.",
+      "link": "https://www.reforma.com/cae-0-83-pib-turistico-durante-primer-trimestre/ar3252501",
+      "fecha": "05 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Está Pemex lejos de meta de producción.- BBVA Research",
       "resumen": "Pemex mantiene un panorama que lo aleja de la meta de producir 1.8 millones de barriles diarios al cierre del sexenio, señaló BBVA.",
       "link": "https://www.reforma.com/esta-pemex-lejos-de-meta-de-produccion-bbva-research/ar3252287",
       "fecha": "04 Aug 2026, 15:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "... Tiene mayor pérdida por huachicol desde 2018",
-      "resumen": "En el primer semestre, Pemex registró la mayor pérdida por robo de combustible, que fue de 9 mil 180 millones de pesos, desde 2018.",
-      "link": "https://www.reforma.com/tiene-mayor-perdida-por-huachicol-desde-2018/ar3252092",
-      "fecha": "04 Aug 2026, 11:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 13% exportaciones de México a EU",
-      "resumen": "Las exportaciones mexicanas a Estados Unidos aumentaron 13 por ciento anual en el primer semestre de 2026 a 298 mil 157 millones de dólares.",
-      "link": "https://www.reforma.com/crecen-13-exportaciones-de-mexico-a-eu/ar3252174",
-      "fecha": "04 Aug 2026, 14:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Es IA un 'salvavidas' para economías emergentes.- BM",
-      "resumen": "La IA podría permitir a los países en desarrollo lograr en una década lo que de otro modo llevaría un siglo, indicó el Banco Mundial.",
-      "link": "https://www.reforma.com/es-ia-un-salvavidas-para-economias-emergentes-bm/ar3252301",
-      "fecha": "04 Aug 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera S&amp;P 500 los 7,700 puntos y el Dow hila segundo récord",
-      "resumen": "El S&amp;P 500 avanzó 1.79% hasta 7 mil 736 puntos, por encima de su anterior récord de junio; el Nasdaq avanzó 2.59% y el Dow Jones 1.71%.",
-      "link": "https://www.reforma.com/supera-s-p-500-los-7-700-puntos-y-el-dow-hila-segundo-record/ar3252256",
-      "fecha": "04 Aug 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent por debajo de los 80 dólares",
-      "resumen": "El crudo Brent y WTI cerraron con bajas de más de 5%, luego que Bessent dijera que acuerdo sobre Ormuz podría cerrarse esta semana.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-por-debajo-de-los-80-dolares/ar3252043",
-      "fecha": "04 Aug 2026, 10:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suma 19 caídas confianza consumidor",
-      "resumen": "El Indicador de Confianza del Consumidor reportó una variación anual de menos 0.72 puntos en julio de 2026, acumulando 19 caídas.",
-      "link": "https://www.reforma.com/suma-19-caidas-confianza-consumidor/ar3252310",
-      "fecha": "04 Aug 2026, 15:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 92% ingresos de SpaceX en el segundo trimestre",
-      "resumen": "En su primer informe de resultados desde su OPI, SpaceX reportó ingresos de 7,810 mdd en el segundo trimestre, por encima de lo previsto.",
-      "link": "https://www.reforma.com/crecen-92-ingresos-de-spacex-en-el-segundo-trimestre/ar3252233",
-      "fecha": "04 Aug 2026, 14:35 hrs"
     }
   ]
 }
