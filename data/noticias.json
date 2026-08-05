@@ -1,14 +1,32 @@
 {
-  "actualizado": "04/08/2026 22:08 hrs",
+  "actualizado": "05/08/2026 01:37 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "HR Ratings duda de la meta fiscal de Hacienda; necesita un superávit de 57,400 mdp este semestre",
+      "resumen": "Aunque el déficit público fue menor al programado por Hacienda, aumentó 24% frente al primer semestre de 2025. La calificadora advierte que el ajuste al gasto aún no compensa la caída de los ingresos …",
+      "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
+      "fecha": "04 Aug 2026, 17:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Solo 4 de cada 10 mexicanos pueden aspirar a comprar una casa",
+      "resumen": "Mientras el precio de las viviendas continúa aumentando, solo una minoría de los hogares mexicanos tiene la capacidad económica para adquirir una casa.",
+      "link": "https://expansion.mx/economia/2026/08/04/solo-4-de-cada-10-mexicanos-pueden-comprar-una-casa",
+      "fecha": "04 Aug 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Mientras EU y China se disputan los minerales críticos, México lleva 8 años con el freno puesto",
       "resumen": "Mientras Estados Unidos acelera inversiones, producción y acuerdos para asegurar minerales críticos, México mantiene cero nuevas concesiones mineras desde el sexenio pasado, pese a su riqueza geológic…",
-      "link": "https://expansion.mx/economia/2026/08/04/eu-acelera-minerales-criticos-mexico-frena",
+      "link": "https://expansion.mx/economia/2026/08/04/mexico-rico-minerales-criticos-desaprovecha-potencial-congela-concesiones",
       "fecha": "04 Aug 2026, 14:50 hrs"
     },
     {
@@ -58,21 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
-      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
-      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
-      "fecha": "03 Aug 2026, 11:58 hrs"
+      "titulo": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
+      "resumen": "El registro obligatorio provocó la eliminación de millones de líneas, aunque los ingresos de las empresas crecieron 5.3% gracias al mayor consumo de datos y a planes de mayor valor.",
+      "link": "https://expansion.mx/empresas/2026/08/04/caen-millones-de-lineas-celulares-por-registro-obligatorio",
+      "fecha": "04 Aug 2026, 18:49 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
-      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
-      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
-      "fecha": "03 Aug 2026, 05:55 hrs"
+      "titulo": "El imperio educativo de los Baillères: así nació el ITAM y construyó su influencia en México",
+      "resumen": "El ITAM comenzó como una pequeña escuela de Economía en el Centro Histórico de la Ciudad de México y hoy figura entre las universidades privadas más influyentes del país.",
+      "link": "https://expansion.mx/empresas/2026/08/04/itam-imperio-educativo-bailleres-historia",
+      "fecha": "04 Aug 2026, 16:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex duplica índice de gravedad de accidentes en el segundo trimestre",
+      "resumen": "Los días perdidos por accidentes laborales aumentaron 100% respecto al trimestre previo y 61.9% frente al mismo periodo de 2025, en medio de una serie de incidentes registrados en refinerías y centros…",
+      "link": "https://expansion.mx/empresas/2026/08/04/pemex-duplica-gravedad-accidentes-en-un-trimestre",
+      "fecha": "04 Aug 2026, 16:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
       "link": "https://expansion.mx/empresas/2026/08/04/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
       "fecha": "04 Aug 2026, 12:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Chipotle, el experimento que Alsea intentará repetir sin los errores de Taco Bell",
-      "resumen": "La cadena estadounidense abrirá sus primeros restaurantes en México de la mano de Alsea. El desafío será convencer a consumidores acostumbrados a la comida mexicana tradicional y evitar el destino que…",
-      "link": "https://expansion.mx/empresas/2026/08/04/debacle-taco-bell-chipotle-tener-exito-mercado-mexicano",
-      "fecha": "04 Aug 2026, 12:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cuánto cuesta hospedarse en el histórico y lujoso Hotel Geneve de Carlos Slim en CDMX?",
-      "resumen": "Abierto desde 1907, es uno de los hoteles más antiguos y emblemáticos del país, y funciona como un \"Hotel Museo\", con pasillos y rincones que exhiben antigüedades y obras de arte.",
-      "link": "https://expansion.mx/empresas/2026/08/04/hotel-geneve-carlos-slim-cdmx-historia-precios-hospedaje",
-      "fecha": "04 Aug 2026, 10:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué marcas de autos usados fallan menos? Toyota, Mazda, Nissan y otras 23 fueron evaluadas",
-      "resumen": "Un comparativo de confiabilidad revela cuáles son las marcas de autos usados mejor calificadas y cuáles obtuvieron los puntajes más bajos.",
-      "link": "https://expansion.mx/empresas/2026/08/03/que-marcas-de-autos-usados-fallan-menos",
-      "fecha": "03 Aug 2026, 17:54 hrs"
     },
     {
       "fuente": "Reforma",
