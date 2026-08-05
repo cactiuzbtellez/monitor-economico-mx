@@ -1,50 +1,14 @@
 {
-  "actualizado": "05/08/2026 09:12 hrs",
+  "actualizado": "05/08/2026 11:36 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
-      "resumen": "La demanda de infraestructura para inteligencia artificial aceleró la consolidación de un eje manufacturero que hoy abastece buena parte de las cadenas globales de suministro electrónico.",
-      "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
-      "fecha": "05 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HR Ratings duda de la meta fiscal de Hacienda; necesita un superávit de 57,400 mdp este semestre",
-      "resumen": "Aunque el déficit público fue menor al programado por Hacienda, aumentó 24% frente al primer semestre de 2025. La calificadora advierte que el ajuste al gasto aún no compensa la caída de los ingresos …",
-      "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
-      "fecha": "04 Aug 2026, 17:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Solo 4 de cada 10 mexicanos pueden aspirar a comprar una casa",
-      "resumen": "Mientras el precio de las viviendas continúa aumentando, solo una minoría de los hogares mexicanos tiene la capacidad económica para adquirir una casa.",
-      "link": "https://expansion.mx/economia/2026/08/04/solo-4-de-cada-10-mexicanos-pueden-comprar-una-casa",
-      "fecha": "04 Aug 2026, 17:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Mientras EU y China se disputan los minerales críticos, México lleva 8 años con el freno puesto",
-      "resumen": "Mientras Estados Unidos acelera inversiones, producción y acuerdos para asegurar minerales críticos, México mantiene cero nuevas concesiones mineras desde el sexenio pasado, pese a su riqueza geológic…",
-      "link": "https://expansion.mx/economia/2026/08/04/mexico-rico-minerales-criticos-desaprovecha-potencial-congela-concesiones",
-      "fecha": "04 Aug 2026, 14:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
       "titulo": "México vende 298,157 mdd a EU en el primer semestre y amplía su ventaja como proveedor",
       "resumen": "México concentró 17.1% de las importaciones de bienes de Estados Unidos durante la primera mitad de 2026, muy por encima de Canadá, Taiwán y China, sus principales competidores.",
-      "link": "https://expansion.mx/economia/2026/08/04/estados-unidos-sigue-comprando-productos-mexico-exportaciones",
+      "link": "https://expansion.mx/economia/2026/08/04/mexico-mayor-proveedor-estados-unidos-primer-semestre-2026",
       "fecha": "04 Aug 2026, 13:55 hrs"
     },
     {
@@ -73,6 +37,60 @@
       "resumen": "México produjo 23% menos oro pese a precios 37% mayores en lo que va del año, mientras la creciente demanda de inversión en Asia abre nuevos motores para el metal.",
       "link": "https://expansion.mx/economia/2026/08/03/precio-del-oro-sube-mexico-produce-menos-mina-penasquito",
       "fecha": "03 Aug 2026, 17:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU impone multa histórica de 125 mdd a UBS por fallas contra lavado de dinero",
+      "resumen": "FinCEN concluyó que el banco suizo incumplió de forma reiterada sus obligaciones antilavado, incluyendo la supervisión de clientes de alto riesgo y el reporte de operaciones sospechosas.",
+      "link": "https://expansion.mx/economia/2026/08/03/ubs-multa-historica-eu-lavado-dinero",
+      "fecha": "03 Aug 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas mexicanas venden más, pero las líneas de producción siguen frenadas",
+      "resumen": "La manufactura recibió en julio más pedidos que en cualquier mes desde noviembre de 2023, pero las fábricas siguieron reduciendo la producción, el empleo y las exportaciones, de acuerdo con S&amp;P Gl…",
+      "link": "https://expansion.mx/economia/2026/08/03/fabricas-mexico-venden-mas-pero-producen-menos",
+      "fecha": "03 Aug 2026, 11:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca evitar nuevos aranceles de EU por acusación de sobrecapacidad industrial",
+      "resumen": "México argumenta que su industria opera al 80% de capacidad instalada y que las decisiones de expansión son privadas, mientras EU analiza posibles aranceles bajo la Sección 301.",
+      "link": "https://expansion.mx/economia/2026/08/03/mexico-responde-eu-aranceles-sobrecapacidad",
+      "fecha": "03 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cinépolis lanzó su tarjeta de crédito: siete cosas que debes conocer antes de solicitarla",
+      "resumen": "El nuevo plástico de Cinépolis no cobra anualidad e incluye promociones para los clientes frecuentes de la cadena.",
+      "link": "https://expansion.mx/economia/2026/07/31/cinepolis-tarjeta-de-credito-siete-cosas-que-debes-conocer",
+      "fecha": "31 Jul 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El primer auto que Nissan fabricó en México llevaba otra marca: así comenzó su historia",
+      "resumen": "Antes del Tsuru, Sentra o Versa, un compacto de diseño italiano abrió la primera etapa industrial de la compañía japonesa en el país.",
+      "link": "https://expansion.mx/empresas/2026/08/05/primer-auto-nissan-fabrico-mexico-no-llevo-logo-datsun",
+      "fecha": "05 Aug 2026, 11:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Chevrolet le baja el precio al Aveo hatchback y lo convierte en el segundo auto más barato de México",
+      "resumen": "El Aveo Hatchback cuesta hoy 56,300 pesos menos que cuando llegó al mercado en 2023, una reducción que lo coloca como el segundo automóvil más barato de México.",
+      "link": "https://expansion.mx/empresas/2026/08/05/chevrolet-aveo-hatchback-baja-precio-2026",
+      "fecha": "05 Aug 2026, 10:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,24 +147,6 @@
       "fecha": "04 Aug 2026, 15:28 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué Yema y Tiendas 3B aceptan devoluciones sin ticket? La estrategia para ganar clientes",
-      "resumen": "Mientras otros supermercados exigen comprobantes y condiciones específicas para aceptar devoluciones, Tiendas 3B y Yema no rechazan los cambios de sus productos.",
-      "link": "https://expansion.mx/empresas/2026/08/04/por-que-yema-y-tiendas-3b-aceptan-devoluciones-sin-ticket",
-      "fecha": "04 Aug 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
-      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
-      "link": "https://expansion.mx/empresas/2026/08/04/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
-      "fecha": "04 Aug 2026, 12:34 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,18 +159,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desafía escasez de suelo a Plan de Vivienda",
-      "resumen": "El principal desafío del Programa de Vivienda para el Bienestar es la falta de suelo apto y bien ubicado, advierten especialistas.",
-      "link": "https://www.reforma.com/desafia-escasez-de-suelo-a-plan-de-vivienda/ar3252484",
-      "fecha": "05 Aug 2026, 05:01 hrs"
+      "titulo": "Anuncia AICM  inicio de segunda fase de remodelación",
+      "resumen": "En este mes inicia la segunda fase de la remodelación y modernización del AICM, será durante el resto del año y en 2027.",
+      "link": "https://www.reforma.com/anuncia-aicm-inicio-de-segunda-fase-de-remodelacion/ar3252783",
+      "fecha": "05 Aug 2026, 10:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Señalan que nearshoring concentra empleo",
-      "resumen": "El empleo generado a raíz del nearshoring  se concentra en ciudades donde ya existía mayor actividad industrial, advierte Banamex.",
-      "link": "https://www.reforma.com/senalan-que-nearshoring-concentra-empleo/ar3252470",
+      "titulo": "Desafía escasez de suelo a Plan de Vivienda",
+      "resumen": "El principal desafío del Programa de Vivienda para el Bienestar es la falta de suelo apto y bien ubicado, advierten especialistas.",
+      "link": "https://www.reforma.com/desafia-escasez-de-suelo-a-plan-de-vivienda/ar3252484",
       "fecha": "05 Aug 2026, 05:01 hrs"
     },
     {
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retomarán en NL horarios escalonados",
-      "resumen": "Secretaria de Economía de NL intensificará la promoción de implementar horarios escalonados incluso buscará hacer sinergias con el escolar.",
-      "link": "https://www.reforma.com/retomaran-en-nl-horarios-escalonados/ar3252573",
-      "fecha": "05 Aug 2026, 07:03 hrs"
+      "titulo": "Reportan nuevas brechas de seguridad de OpenAI y Anthropic",
+      "resumen": "Instituto de Seguridad de IA del Reino Unido reportó incidentes de seguridad con Mythos 5, de Anthropic, y GPT-5.6-Sol, de OpenAI.",
+      "link": "https://www.reforma.com/reportan-nuevas-brechas-de-seguridad-de-openai-y-anthropic/ar3252689",
+      "fecha": "05 Aug 2026, 07:51 hrs"
     }
   ]
 }
