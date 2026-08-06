@@ -1,5 +1,5 @@
 {
-  "actualizado": "05/08/2026 18:04 hrs",
+  "actualizado": "05/08/2026 22:11 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La mina más importante de Peñoles: el negocio que genera millones para los Bailleres",
+      "resumen": "Ubicada en Sonora, Herradura procesa más mineral que cualquier otra operación del grupo y es uno de los activos que sostienen el negocio minero de la familia Baillères.",
+      "link": "https://expansion.mx/empresas/2026/08/05/mina-mas-importante-penoles-negocio-millones-bailleres",
+      "fecha": "05 Aug 2026, 19:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La marca que ayuda a Walmart a vender más barato sin fabricar un solo producto",
+      "resumen": "Hoy es la marca propia más importante de Walmart, está presente en nueve de cada 10 hogares de Estados Unidos y es la principal apuesta para las tiendas de México.",
+      "link": "https://expansion.mx/empresas/2026/08/05/historia-great-value-marca-walmart-vender-mas-barato",
+      "fecha": "05 Aug 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "“¿Qué culpa tienen otras empresas?”: CNA rechaza generalizar el caso de la lechuga de Taylor Farms",
       "resumen": "El Consejo Nacional Agropecuario afirma que las pruebas realizadas en México no detectaron Cyclospora cayetanensis en muestras analizadas y pide evitar afectaciones a productores que cumplen con están…",
       "link": "https://expansion.mx/empresas/2026/08/05/cna-rechaza-generalizar-caso-lechuga-taylor-farms",
@@ -129,58 +147,40 @@
       "fecha": "05 Aug 2026, 15:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana duplicó el número de vuelos en un año, ahora busca posicionarse como un jugador clave en el mercado",
-      "resumen": "De atravesar problemas como la escasez de flota, hoy la aerolínea estatal cuenta con un panorama mejor para su posicionamiento.",
-      "link": "https://expansion.mx/empresas/2026/08/05/mexicana-duplico-vuelos-en-un-ano",
-      "fecha": "05 Aug 2026, 15:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué tan lejos puedes llegar con las SUV eléctricas más accesibles de México en 2026?",
-      "resumen": "Comparamos la autonomía de las SUV eléctricas más accesibles de México y los viajes por carretera que pueden realizar con una sola carga desde CDMX.",
-      "link": "https://expansion.mx/empresas/2026/08/05/suv-electricas-mayor-autonomia-mas-accesibles-mexico-2026",
-      "fecha": "05 Aug 2026, 15:27 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tienen grupos aeroportuarios resultados mixtos a julio",
+      "resumen": "Grupos aeroportuarios del Sureste (Asur), Pacífico (GAP) y Centro Norte (OMA) registraron resultados mixtos en el acumulado a julio.",
+      "link": "https://www.reforma.com/tienen-grupos-aeroportuarios-resultados-mixtos-a-julio/ar3253193",
+      "fecha": "05 Aug 2026, 20:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden mayor certeza para liberar inversiones por 100 mil mdd",
-      "resumen": "Concamin solicitó cerrar la mayor cantidad de temas en la revisión del T-MEC para destrabar inversiones por 100 mil millones de dólares.",
-      "link": "https://www.reforma.com/piden-mayor-certeza-para-liberar-inversiones-por-100-mil-mdd/ar3252970",
-      "fecha": "05 Aug 2026, 15:13 hrs"
+      "titulo": "Pone en riesgo brecha eléctrica a inversión",
+      "resumen": "Brecha que existe entre la demanda de energía eléctrica y la capacidad del (SEN) podría convertirse en cuello de botella para la inversión.",
+      "link": "https://www.reforma.com/pone-en-riesgo-brecha-electrica-a-inversion/ar3253172",
+      "fecha": "05 Aug 2026, 20:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Gana México arbitraje a fondos de EU por caso TV Azteca",
-      "resumen": "México obtuvo una resolución favorable en un arbitraje internacional promovido por fondos de EU vinculados con acreedores de TV Azteca.",
-      "link": "https://www.reforma.com/gana-mexico-arbitraje-a-fondos-de-eu-por-caso-tv-azteca/ar3252876",
-      "fecha": "05 Aug 2026, 13:01 hrs"
+      "titulo": "Refuerzan central de turbogás en Cancún",
+      "resumen": "Para evitar 'apagones' en la Península de Yucatán, la CFE puso en operación comercial la unidad tres de su central de turbogás en Cancún.",
+      "link": "https://www.reforma.com/refuerzan-central-de-turbogas-en-cancun/ar3253012",
+      "fecha": "05 Aug 2026, 20:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena EU importación de aguacate michoacano por inseguridad",
-      "resumen": "Gobierno de EU suspendió temporalmente los envíos de aguacate de Michoacán a su territorio ante preocupaciones por inseguridad en la región.",
-      "link": "https://www.reforma.com/frena-eu-importacion-de-aguacate-michoacano-por-inseguridad/ar3252858",
-      "fecha": "05 Aug 2026, 12:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mejoran a 1.2% expectativa de PIB para 2026",
-      "resumen": "Analistas encuestados por Citi elevaron su proyección mediana de crecimiento del Producto Interno Bruto (PIB) a 1.2% desde 1.1% anterior.",
-      "link": "https://www.reforma.com/mejoran-a-1-2-expectativa-de-pib-para-2026/ar3252973",
-      "fecha": "05 Aug 2026, 15:26 hrs"
+      "titulo": "Vende Bezos acciones de Amazon por valor de 350 mdd",
+      "resumen": "Jeff Bezos se deshizo de acciones de Amazon por un valor cercano a los 350 mdd, justo cuando la cotización alcanzaba un máximo histórico.",
+      "link": "https://www.reforma.com/vende-bezos-acciones-de-amazon-por-valor-de-350-mdd/ar3253006",
+      "fecha": "05 Aug 2026, 15:59 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,7 +195,7 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inquietan políticas monetarias por precios de crudo.- BIS",
+      "titulo": "Inquietan políticas monetarias por precios de crudo.-BIS",
       "resumen": "BIS señaló que el repunte de los precios de energía por conflicto en Medio Oriente ha despertado inquietudes sobre las políticas monetarias.",
       "link": "https://www.reforma.com/inquietan-politicas-monetarias-por-precios-de-crudo-bis/ar3252982",
       "fecha": "05 Aug 2026, 15:33 hrs"
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Colocó Bancomext 150 mmdp en negocios de comercio exterior",
-      "resumen": "En el primer semestre, Bancomext canalizó 150 mil millones de pesos en crédito a empresas vinculadas al comercio exterior.",
-      "link": "https://www.reforma.com/coloco-bancomext-150-mmdp-en-negocios-de-comercio-exterior/ar3252834",
-      "fecha": "05 Aug 2026, 12:10 hrs"
+      "titulo": "Suben de 1.1 a 1.2% expectativa de crecimiento",
+      "resumen": "Analistas encuestados por Citi elevaron su expectativa mediana de crecimiento del Producto Interno Bruto (PIB) a 1.2% desde 1.1% anterior.",
+      "link": "https://www.reforma.com/suben-de-1-1-a-1-2-expectativa-de-crecimiento/ar3252973",
+      "fecha": "05 Aug 2026, 15:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concentra México el 27%  de los centros de datos de AL",
-      "resumen": "México concentra 27 por ciento de la capacidad instalada de América Latina del desarrollo de centros de datos, según Moody's Ratings.",
-      "link": "https://www.reforma.com/concentra-mexico-el-27-de-los-centros-de-datos-de-al/ar3252902",
-      "fecha": "05 Aug 2026, 14:18 hrs"
+      "titulo": "Piden mayor certeza para liberar inversiones por 100 mil mdd",
+      "resumen": "Concamin solicitó cerrar la mayor cantidad de temas en la revisión del T-MEC para destrabar inversiones por 100 mil millones de dólares.",
+      "link": "https://www.reforma.com/piden-mayor-certeza-para-liberar-inversiones-por-100-mil-mdd/ar3252970",
+      "fecha": "05 Aug 2026, 15:13 hrs"
     }
   ]
 }
