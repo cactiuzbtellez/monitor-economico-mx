@@ -1,7 +1,16 @@
 {
-  "actualizado": "06/08/2026 06:55 hrs",
+  "actualizado": "06/08/2026 09:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La fiscalización del SAT pierde fuerza y recauda 49% menos por cada auditoría",
+      "resumen": "Aunque aumentó el número de actos de fiscalización, el SAT obtuvo menos recursos por cada auditoría en el primer semestre. Especialistas atribuyen la caída al agotamiento de las grandes regularizacion…",
+      "link": "https://expansion.mx/economia/2026/08/06/sat-ingresos-fiscalizacion-agotan-cobro-auditoria-cae-49",
+      "fecha": "06 Aug 2026, 05:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Aunque el déficit público fue menor al programado por Hacienda, aumentó 24% frente al primer semestre de 2025. La calificadora advierte que el ajuste al gasto aún no compensa la caída de los ingresos …",
       "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
       "fecha": "04 Aug 2026, 17:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Solo 4 de cada 10 mexicanos pueden aspirar a comprar una casa",
-      "resumen": "Mientras el precio de las viviendas continúa aumentando, solo una minoría de los hogares mexicanos tiene la capacidad económica para adquirir una casa.",
-      "link": "https://expansion.mx/economia/2026/08/04/solo-4-de-cada-10-mexicanos-pueden-comprar-una-casa",
-      "fecha": "04 Aug 2026, 17:38 hrs"
     },
     {
       "fuente": "Expansión",
@@ -177,46 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Consolidará nuevo tren al AIQ en logística",
-      "resumen": "El Tren México-Querétaro fortalecerá al Aeropuerto Internacional de Querétaro como nodo logístico y multimodal.",
-      "link": "https://www.reforma.com/consolidara-nuevo-tren-al-aiq-en-logistica/ar3253203",
-      "fecha": "06 Aug 2026, 05:02 hrs"
+      "titulo": "Atora a construcción  Atlas de Riesgo sin funcionar",
+      "resumen": "Quienes quieran comprar o construir en NL ya no pueden verificar en el Atlas de Riesgo si la zona es susceptible de daños.",
+      "link": "https://www.reforma.com/atora-a-construccion-atlas-de-riesgo-sin-funcionar/ar3253217",
+      "fecha": "06 Aug 2026, 07:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece la oferta de oficinas premium en Ciudad de México",
+      "titulo": "Temen que vuelvan a bloquear el maíz transgénico",
+      "resumen": "El maíz es la exportación estadounidense más exitosa en ventas en el mercado agroalimentario mexicano.",
+      "link": "https://www.reforma.com/temen-que-vuelvan-a-bloquear-el-maiz-transgenico/ar3253232",
+      "fecha": "06 Aug 2026, 07:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pone en riesgo a inversión la brecha eléctrica",
+      "resumen": "Brecha que existe entre la demanda de energía eléctrica y la capacidad del (SEN) podría convertirse en cuello de botella para la inversión.",
+      "link": "https://www.reforma.com/pone-en-riesgo-a-inversion-la-brecha-electrica/ar3253172",
+      "fecha": "05 Aug 2026, 20:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Salvan data centers a electrodomésticos en NL",
+      "resumen": "Elevada demanda de sistemas de enfriamiento para la expansión de data centers en EU literalmente salvó al sector de electrodomésticos en NL.",
+      "link": "https://www.reforma.com/salvan-data-centers-a-electrodomesticos-en-nl/ar3253216",
+      "fecha": "06 Aug 2026, 07:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crece oferta de oficinas premium en Ciudad de México",
       "resumen": "El inventario total de oficinas Clase A y A+ en la Ciudad de México alcanzó 7.5 millones de metros cuadrados en el primer semestre de 2026.",
-      "link": "https://www.reforma.com/crece-la-oferta-de-oficinas-premium-en-ciudad-de-mexico/ar3253149",
+      "link": "https://www.reforma.com/crece-oferta-de-oficinas-premium-en-ciudad-de-mexico/ar3253149",
       "fecha": "06 Aug 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden mayor certeza para liberar inversiones por 100 mil mdd",
-      "resumen": "Concamin solicitó cerrar la mayor cantidad de temas en la revisión del T-MEC para destrabar inversiones por 100 mil millones de dólares.",
-      "link": "https://www.reforma.com/piden-mayor-certeza-para-liberar-inversiones-por-100-mil-mdd/ar3252970",
-      "fecha": "05 Aug 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Gana México arbitraje a fondos de EU por caso TV Azteca",
-      "resumen": "México obtuvo una resolución favorable en un arbitraje internacional promovido por fondos de EU vinculados con acreedores de TV Azteca.",
-      "link": "https://www.reforma.com/gana-mexico-arbitraje-a-fondos-de-eu-por-caso-tv-azteca/ar3252876",
-      "fecha": "05 Aug 2026, 13:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frena EU importación de aguacate michoacano por inseguridad",
-      "resumen": "Gobierno de EU suspendió temporalmente los envíos de aguacate de Michoacán a su territorio ante preocupaciones por inseguridad en la región.",
-      "link": "https://www.reforma.com/frena-eu-importacion-de-aguacate-michoacano-por-inseguridad/ar3252858",
-      "fecha": "05 Aug 2026, 12:35 hrs"
     }
   ]
 }
