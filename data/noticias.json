@@ -1,7 +1,16 @@
 {
-  "actualizado": "07/08/2026 07:01 hrs",
+  "actualizado": "07/08/2026 08:51 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
+      "resumen": "El Banco de México aplazó hasta finales de 2027 la convergencia de la inflación al 3%, mientras especialistas advierten que el combate a los precios será más lento por presiones estructurales.",
+      "link": "https://expansion.mx/economia/2026/08/07/el-salario-minimo-y-la-jornada-de-40-horas-presionaran-la-inflacion-de-servicios",
+      "fecha": "07 Aug 2026, 05:50 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Aunque aumentó el número de actos de fiscalización, el SAT obtuvo menos recursos por cada auditoría en el primer semestre. Especialistas atribuyen la caída al agotamiento de las grandes regularizacion…",
       "link": "https://expansion.mx/economia/2026/08/06/sat-ingresos-fiscalizacion-agotan-cobro-auditoria-cae-49",
       "fecha": "06 Aug 2026, 05:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "\"Hecho en México\" se queda corto, mexicanos acumulan un año consumiendo más importaciones",
-      "resumen": "El consumo de bienes nacionales permanece estancado, con un crecimiento anual de 0% durante los primeros cinco meses de 2026.",
-      "link": "https://expansion.mx/economia/2026/08/05/mexicanos-prefieren-productos-importados-que-hecho-en-mexico",
-      "fecha": "05 Aug 2026, 14:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,18 +150,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Omiten región para fracking",
-      "resumen": "El comité científico que analiza la factibilidad del uso de fracking recomendó prohibir actividad económica en la región Tampico-Misantla.",
-      "link": "https://www.reforma.com/omiten-region-para-fracking/ar3253898",
-      "fecha": "07 Aug 2026, 05:01 hrs"
+      "titulo": "Toca inflación de México el 3.12%, un mínimo en seis años",
+      "resumen": "La inflación de México desaceleró a un 3.12% interanual, su menor nivel desde mayo de 2020, según INEGI.",
+      "link": "https://www.reforma.com/toca-inflacion-de-mexico-el-3-12-un-minimo-en-seis-anos/ar3254068",
+      "fecha": "07 Aug 2026, 07:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja costo fiscal sin aliviar presión",
-      "resumen": "Reducción de costo financiero durante el primer semestre no será suficiente para quitar presión a finanzas públicas, anticipa HR Ratings.",
-      "link": "https://www.reforma.com/baja-costo-fiscal-sin-aliviar-presion/ar3253935",
+      "titulo": "Omiten región para fracking",
+      "resumen": "El comité científico que analiza la factibilidad del uso de fracking recomendó prohibir actividad económica en la región Tampico-Misantla.",
+      "link": "https://www.reforma.com/omiten-region-para-fracking/ar3253898",
       "fecha": "07 Aug 2026, 05:01 hrs"
     },
     {
@@ -195,19 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revisan para vuelos a mascotas por gusano",
-      "resumen": "Si usted planea viajar con una mascota de México a EU, o viceversa, deberá acreditar que ésta está libre del gusano barrenador.",
-      "link": "https://www.reforma.com/revisan-para-vuelos-a-mascotas-por-gusano/ar3253903",
-      "fecha": "07 Aug 2026, 06:58 hrs"
+      "titulo": "Bajan nóminas no agrícolas de EU en 23 mil en julio",
+      "resumen": "Estados Unidos perdió inesperadamente 23 mil puestos de trabajo durante julio, pero la tasa de desempleo se redujo de 4.2 a 4.1%",
+      "link": "https://www.reforma.com/bajan-nominas-no-agricolas-de-eu-en-23-mil-en-julio/ar3254065",
+      "fecha": "07 Aug 2026, 07:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan generación distribuida colectiva",
-      "resumen": "Gobierno federal pretende ampliar los alcances de la generación de energía mediante paneles solares a comunidades rurales.",
-      "link": "https://www.reforma.com/analizan-generacion-distribuida-colectiva/ar3253909",
-      "fecha": "07 Aug 2026, 05:01 hrs"
+      "titulo": "Revisan para vuelos a mascotas por gusano",
+      "resumen": "Si usted planea viajar con una mascota de México a EU, o viceversa, deberá acreditar que ésta está libre del gusano barrenador.",
+      "link": "https://www.reforma.com/revisan-para-vuelos-a-mascotas-por-gusano/ar3253903",
+      "fecha": "07 Aug 2026, 06:58 hrs"
     },
     {
       "fuente": "Reforma",
