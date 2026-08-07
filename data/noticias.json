@@ -1,13 +1,22 @@
 {
-  "actualizado": "06/08/2026 17:57 hrs",
+  "actualizado": "06/08/2026 20:56 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Hacienda recorta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-      "resumen": "La petrolera reporta menos recursos para apoyos financieros y para el desarrollo de infraestructura. También se registran descensos en presupuesto para infraestructura ferroviaria y carretera.",
+      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
+      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
+      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
+      "fecha": "06 Aug 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
+      "resumen": "La petrolera reporta menos recursos para apoyos financieros e inversión física. También se registran descensos en presupuestos para infraestructura ferroviaria y carretera.",
       "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
       "fecha": "06 Aug 2026, 16:26 hrs"
     },
@@ -67,129 +76,129 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México figura entre los países que exportan la mitad de los bienes para construir la IA",
-      "resumen": "El Banco Mundial plantea que la mayor oportunidad para México no está en desarrollar modelos propios, sino en fortalecer su manufactura y acelerar la adopción de inteligencia artificial.",
-      "link": "https://expansion.mx/economia/2026/08/05/mexico-exportaciones-inteligencia-artificial-banco-mundial",
-      "fecha": "05 Aug 2026, 13:33 hrs"
+      "titulo": "La mina más importante de Peñoles: el negocio que genera millones para los Bailleres",
+      "resumen": "Ubicada en Sonora, Herradura procesa más mineral que cualquier otra operación del grupo y es uno de los activos que sostienen el negocio minero de la familia Baillères.",
+      "link": "https://expansion.mx/empresas/2026/08/05/mina-mas-importante-penoles-negocio-millones-bailleres",
+      "fecha": "05 Aug 2026, 19:31 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
-      "resumen": "Ricardo Salinas Pliego, Germán Larrea y hasta Carlos Slim decidieron que su formación universitaria fuera en instituciones mexicanas sobre las internacionales.",
-      "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
-      "fecha": "06 Aug 2026, 17:34 hrs"
+      "titulo": "La marca que ayuda a Walmart a vender más barato sin fabricar un solo producto",
+      "resumen": "Hoy es la marca propia más importante de Walmart, está presente en nueve de cada 10 hogares de Estados Unidos y es la principal apuesta para las tiendas de México.",
+      "link": "https://expansion.mx/empresas/2026/08/05/historia-great-value-marca-walmart-vender-mas-barato",
+      "fecha": "05 Aug 2026, 18:08 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los usuarios dejan atrás el triple play y presionan los ingresos de Totalplay",
-      "resumen": "La migración de los usuarios hacia paquetes de doble play y el avance del streaming presionan el ingreso por usuario y el crecimiento del negocio residencial de la empresa de Grupo Salinas.",
-      "link": "https://expansion.mx/empresas/2026/08/06/mexicanos-dicen-adios-triple-play-total-play-ingresos",
-      "fecha": "06 Aug 2026, 16:38 hrs"
+      "titulo": "“¿Qué culpa tienen otras empresas?”: CNA rechaza generalizar el caso de la lechuga de Taylor Farms",
+      "resumen": "El Consejo Nacional Agropecuario afirma que las pruebas realizadas en México no detectaron Cyclospora cayetanensis en muestras analizadas y pide evitar afectaciones a productores que cumplen con están…",
+      "link": "https://expansion.mx/empresas/2026/08/05/cna-rechaza-generalizar-caso-lechuga-taylor-farms",
+      "fecha": "05 Aug 2026, 17:42 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "DAISO entra a México con un plan para abrir cinco tiendas antes de que termine el año",
-      "resumen": "DAISO iniciará operaciones en México con dos tiendas en el Estado de México y un plan para cerrar 2026 con cinco sucursales como parte de su expansión en América Latina.",
-      "link": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
-      "fecha": "06 Aug 2026, 16:32 hrs"
+      "titulo": "Si tu celular termina en 0, 1 o 2, esto pasará con WhatsApp y Uber si no registras tu línea",
+      "resumen": "Las primeras líneas podrían ser suspendidas en agosto, afectando aplicaciones que utilizan SMS o llamadas para autenticar usuarios.",
+      "link": "https://expansion.mx/empresas/2026/08/05/celular-termina-0-1-2-que-pasara-whatsapp-uber-registro",
+      "fecha": "05 Aug 2026, 16:49 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las 72 horas que pueden salvar tu línea celular si no haces el registro telefónico a tiempo",
-      "resumen": "Llamadas, SMS y datos móviles podrían quedar inhabilitados para quienes no registren su línea, pero la CRT dará hasta 3 días para evitar la suspensión.",
-      "link": "https://expansion.mx/empresas/2026/08/06/72-horas-pueden-salvar-linea-telefonica-si-no-haces-registro",
-      "fecha": "06 Aug 2026, 16:17 hrs"
+      "titulo": "Pemex avanza solo en 4 de 9 contratos mixtos; la estrategia para elevar la producción petrolera sigue sin sumar barriles",
+      "resumen": "De un total de 21 contratos mixtos que Pemex contemplaba adjudicar para aumentar su producción, solo 9 han logrado ser firmados y 11 ni siquiera han anunciado en proceso de adjudicación.",
+      "link": "https://expansion.mx/empresas/2026/08/05/pemex-dio-nueve-contratos-empresas-privadas-ninguna-suma",
+      "fecha": "05 Aug 2026, 16:46 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bayer prueba una fórmula para producir más maíz con menos recursos",
-      "resumen": "El proyecto operará en 70 hectáreas de Rancho Hontoria y combinará semillas, herramientas digitales y manejo del agua; Bayer evaluará los resultados antes de replicarlo.",
-      "link": "https://expansion.mx/empresas/2026/08/06/bayer-abre-primera-granja-futuro-mexico",
-      "fecha": "06 Aug 2026, 15:13 hrs"
+      "titulo": "La libreta que cambió la vida de Carlos Slim y dio origen a su fortuna de 128,000 millones de dólares",
+      "resumen": "Antes de comprar acciones a los 12 años y décadas antes de adquirir Telmex, Carlos Slim aprendió una rutina que moldeó su forma de administrar el dinero y hacer negocios.",
+      "link": "https://expansion.mx/empresas/2026/08/05/libreta-carlos-slim-fortuna-128-mil-millones",
+      "fecha": "05 Aug 2026, 16:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los 10 autos más vendidos en México en 2026: cuánto cuestan del Nissan Versa al Hyundai Grand i10",
-      "resumen": "Sedanes, hatchbacks, SUV y camionetas integran el grupo de los modelos más vendidos del país, una diferencia que también se refleja en el presupuesto necesario para comprar cada uno.",
-      "link": "https://expansion.mx/empresas/2026/08/06/nissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos",
-      "fecha": "06 Aug 2026, 14:35 hrs"
+      "titulo": "La masificación del internet satelital convirtió a Starlink en el motor financiero de SpaceX",
+      "resumen": "Starlink ya genera el 55% de las ventas de SpaceX gracias a una estrategia de expansión global basada en reducción de precios, nuevos mercados, contratos con gobiernos y empresas, a pesar de reducir s…",
+      "link": "https://expansion.mx/empresas/2026/08/05/starlink-genera-mas-dinero-cohetes-spacex",
+      "fecha": "05 Aug 2026, 16:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los negocios millonarios donde Carlos Slim compite contra Walmart, Amazon y Mercado Libre",
-      "resumen": "Claro Shop, Sears, iShop, Mixup y Dax forman parte de la estrategia con la que el magnate busca mantener terreno en un mercado transformado por las plataformas digitales.",
-      "link": "https://expansion.mx/empresas/2026/08/06/negocios-carlos-slim-compite-walmart-amazon-mercado",
-      "fecha": "06 Aug 2026, 13:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los lugares de México donde no se podrá hacer fracking de acuerdo con el comité de expertos de Sheinbaum",
-      "resumen": "Un grupo de 54 científicos y expertos asesoran al gobierno sobre la viabilidad del uso de fracking. Se analizaron diversos factores como ambientales, sociales y económicos.",
-      "link": "https://expansion.mx/empresas/2026/08/06/mapa-fracking-mexico-estados-donde-se-debe-prohibir",
-      "fecha": "06 Aug 2026, 11:43 hrs"
+      "titulo": "Del pollo al internet: la familia sonorense que está detrás de dos gigantes, Megacable y Bachoco",
+      "resumen": "Las compañías venden productos completamente diferentes, pero comparten una historia empresarial que comenzó hace más de 70 años en Sonora.",
+      "link": "https://expansion.mx/empresas/2026/08/05/familia-que-vende-pollo-bachoco-ofrece-megacable",
+      "fecha": "05 Aug 2026, 15:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Banxico tasa en 6.50%; prevén pausa el resto del año",
-      "resumen": "El Banco de México mantuvo su tasa clave en 6.50 por ciento, en un entorno de desaceleración de la inflación y mejor crecimiento económico.",
-      "link": "https://www.reforma.com/deja-banxico-tasa-en-6-50-preven-pausa-el-resto-del-ano/ar3253543",
-      "fecha": "06 Aug 2026, 13:00 hrs"
+      "titulo": "Libra veda de EU mango michoacano",
+      "resumen": "Calendario de exportación salvó al mango de Michoacán de padecer el mismo bloqueo de EU que enfrentan los envíos de aguacate de ese estado.",
+      "link": "https://www.reforma.com/libra-veda-de-eu-mango-michoacano/ar3253892",
+      "fecha": "06 Aug 2026, 20:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden en EU negar exención arancelaria a aluminio en T-MEC",
-      "resumen": "Coalición por una América Próspera pidió al USTR rechazar cualquier exención a Canadá y México en productos transformados de aluminio.",
-      "link": "https://www.reforma.com/piden-en-eu-negar-exencion-arancelaria-a-aluminio-en-t-mec/ar3253459",
-      "fecha": "06 Aug 2026, 11:13 hrs"
+      "titulo": "Licitan red de telecomunicaciones para trenes de pasajeros",
+      "resumen": "Agencia de Trenes y Transporte Público Integrado lanzó la convocatoria para instalación de red de telecomunicaciones en trenes de pasajeros.",
+      "link": "https://www.reforma.com/licitan-red-de-telecomunicaciones-para-trenes-de-pasajeros/ar3253866",
+      "fecha": "06 Aug 2026, 20:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten poca preparación de empresas para reducir jornada",
-      "resumen": "Sólo el 17.8% de las organizaciones están preparadas para la reducción de la jornada laboral en el País, según la firma Kelly.",
-      "link": "https://www.reforma.com/advierten-poca-preparacion-de-empresas-para-reducir-jornada/ar3253544",
-      "fecha": "06 Aug 2026, 14:05 hrs"
+      "titulo": "Buscan mexicanos trabajar en el extranjero por mejor salario",
+      "resumen": "El 79% de los mexicanos que buscan empleo en el extranjero lo hacen con el objetivo de obtener mejores salarios, reveló Indeed México.",
+      "link": "https://www.reforma.com/buscan-mexicanos-trabajar-en-el-extranjero-por-mejor-salario/ar3253856",
+      "fecha": "06 Aug 2026, 19:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aplicará Minera Peñasquito plan de reparación laboral",
-      "resumen": "La Minera Peñasquito se comprometió a aplicar una serie de medidas para respetar los derechos colectivos de los trabajadores.",
-      "link": "https://www.reforma.com/aplicara-minera-penasquito-plan-de-reparacion-laboral/ar3253575",
-      "fecha": "06 Aug 2026, 14:05 hrs"
+      "titulo": "Construirá Daimler Truck nueva planta en Estados Unidos",
+      "resumen": "Daimler Truck anunció que construirá una nueva planta de fabricación en Estados Unidos, aunque sin revelar la ubicación.",
+      "link": "https://www.reforma.com/construira-daimler-truck-nueva-planta-en-estados-unidos/ar3253839",
+      "fecha": "06 Aug 2026, 19:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pasa Mundial factura a mexicanos",
-      "resumen": "Pese al entusiasmo por el Mundial, más de la mitad de los mexicanos considera que trajo aumento de precios, según Ipsos.",
-      "link": "https://www.reforma.com/pasa-mundial-factura-a-mexicanos/ar3253557",
-      "fecha": "06 Aug 2026, 14:05 hrs"
+      "titulo": "Hila dólar seis reveses; cae a $17.20",
+      "resumen": "El dólar bajó por sexta ocasión frente al peso y cerró a $17.20, siendo su menor cotización desde el 16 de junio pasado.",
+      "link": "https://www.reforma.com/hila-dolar-seis-reveses-cae-a-17-20/ar3253821",
+      "fecha": "06 Aug 2026, 18:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden congresistas de EU a Greer hacer mejoras al T-MEC",
+      "resumen": "Congresistas de Estados Unidos pidieron al Representante Comercial, Jamieson Greer hacer mejoras al T-MEC para fortalecer la competitividad.",
+      "link": "https://www.reforma.com/piden-congresistas-de-eu-a-greer-hacer-mejoras-al-t-mec/ar3253798",
+      "fecha": "06 Aug 2026, 18:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Transferirá Swiss Re a GNP su cartera de seguros",
-      "resumen": "Swiss Re transferirá su cartera de seguros comerciales directos en México a GNP Seguros como parte de una colaboración a largo plazo.",
-      "link": "https://www.reforma.com/transferira-swiss-re-a-gnp-su-cartera-de-seguros/ar3253390",
-      "fecha": "06 Aug 2026, 09:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inquieta a Fed el vertiginoso ritmo de inversión en IA",
-      "resumen": "Autoridades de la Fed empiezan a plantearse si la frenética inversión en la IA se está descontrolando y generando riesgos financieros.",
-      "link": "https://www.reforma.com/inquieta-a-fed-el-vertiginoso-ritmo-de-inversion-en-ia/ar3253497",
-      "fecha": "06 Aug 2026, 12:15 hrs"
+      "titulo": "Eleva Airbnb perspectivas de ingresos para 2026",
+      "resumen": "Airbnb elevó su previsión de ingresos anuales por segunda vez este año tras registrar una sólida demanda, especialmente en EU y Europa.",
+      "link": "https://www.reforma.com/eleva-airbnb-perspectivas-de-ingresos-para-2026/ar3253670",
+      "fecha": "06 Aug 2026, 15:13 hrs"
     }
   ]
 }
