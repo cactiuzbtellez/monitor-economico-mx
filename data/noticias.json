@@ -1,7 +1,61 @@
 {
-  "actualizado": "06/08/2026 22:57 hrs",
+  "actualizado": "07/08/2026 00:10 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
+      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
+      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
+      "fecha": "06 Aug 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
+      "resumen": "La petrolera reporta menos recursos para apoyos financieros e inversión física. También se registran descensos en presupuestos para infraestructura ferroviaria y carretera.",
+      "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
+      "fecha": "06 Aug 2026, 16:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
+      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
+      "link": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
+      "fecha": "06 Aug 2026, 14:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tres argumentos legales ponen en jaque los aranceles por trabajo forzoso que incluyen a México",
+      "resumen": "La nueva estrategia comercial de Trump ya comenzó a ser impugnada. Los demandantes aseguran que los aranceles fueron diseñados como una medida casi general y no como respuesta a casos específicos.",
+      "link": "https://expansion.mx/economia/2026/08/06/batalla-legal-aranceles-trump-mexico",
+      "fecha": "06 Aug 2026, 13:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico es unánime y mantiene la tasa de interés en 6.5%",
+      "resumen": "El Banco de México (Banxico) votó por tercera vez consecutiva en dejar sin cambios la tasa de interés, en un entorno en el que la inflación ha mostrado un mejor comportamiento del esperado.",
+      "link": "https://expansion.mx/economia/2026/08/06/banxico-mantiene-tasa-de-interes-6-5",
+      "fecha": "06 Aug 2026, 13:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los millennials y la generación Z lideran las inversiones en CetesDirecto",
+      "resumen": "La plataforma suma 2.9 millones de inversionistas y más de un millón tiene entre 26 y 35 años, impulsando el relevo generacional en el ahorro en valores gubernamentales.",
+      "link": "https://expansion.mx/economia/2026/08/06/cetes-millennials-y-gen-z-desplazan-generaciones-mayores-invertir",
+      "fecha": "06 Aug 2026, 10:04 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -22,129 +76,75 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México figura entre los países que exportan la mitad de los bienes para construir la IA",
-      "resumen": "El Banco Mundial plantea que la mayor oportunidad para México no está en desarrollar modelos propios, sino en fortalecer su manufactura y acelerar la adopción de inteligencia artificial.",
-      "link": "https://expansion.mx/economia/2026/08/05/mexico-exportaciones-inteligencia-artificial-banco-mundial",
-      "fecha": "05 Aug 2026, 13:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¡Salud! El consumo de cerveza crece en México: el peso de la industria en el PIB y el empleo",
-      "resumen": "La cerveza es el producto agroalimentario mexicano más exportado, con presencia en más de 130 países y un valor superior a 6,176 millones de dólares anuales.",
-      "link": "https://expansion.mx/economia/2026/08/05/consumo-cerveza-impulsa-empleo-y-pib-mexico",
-      "fecha": "05 Aug 2026, 13:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Alerta de seguridad de EU frena embarques de aguacate michoacano para exportación",
-      "resumen": "La suspensión temporal de actividades del personal del USDA vuelve a afectar la operación exportadora del aguacate en el estado, un escenario que ya se presentó en 2022 y 2024 por incidentes de seguri…",
-      "link": "https://expansion.mx/economia/2026/08/05/alerta-seguridad-michoacan-exportacion-aguacate",
-      "fecha": "05 Aug 2026, 12:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu dejará de funcionar por unas horas el 5 de agosto; estas operaciones estarán pausadas",
-      "resumen": "Como parte de su transformación en banco, Nu interrumpirá por unas horas algunos de sus servicios digitales.",
-      "link": "https://expansion.mx/economia/2026/08/05/app-nu-dejara-funcionar-hoy-transferencias",
-      "fecha": "05 Aug 2026, 11:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Chihuahua y Jalisco dominan 80% del nuevo poder tecnológico exportador",
-      "resumen": "La demanda de infraestructura para inteligencia artificial aceleró la consolidación de un eje manufacturero que hoy abastece buena parte de las cadenas globales de suministro electrónico.",
-      "link": "https://expansion.mx/economia/2026/08/05/chihuahua-jalisco-concentran-exportaciones-tecnologia-ia",
-      "fecha": "05 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HR Ratings duda de la meta fiscal de Hacienda; necesita un superávit de 57,400 mdp este semestre",
-      "resumen": "Aunque el déficit público fue menor al programado por Hacienda, aumentó 24% frente al primer semestre de 2025. La calificadora advierte que el ajuste al gasto aún no compensa la caída de los ingresos …",
-      "link": "https://expansion.mx/economia/2026/08/04/hr-ratings-meta-fiscal-hacienda-superavit",
-      "fecha": "04 Aug 2026, 17:50 hrs"
+      "titulo": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
+      "resumen": "El nuevo EV3 estará disponible con dos tamaños de batería, hasta 605 kilómetros de autonomía y un precio de entrada de 689,700 pesos, en una apuesta por ampliar el mercado de vehículos eléctricos.",
+      "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
+      "fecha": "06 Aug 2026, 19:20 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La nómina evoluciona de proceso operativo a herramienta estratégica",
-      "resumen": "Banorte fortalece su posición en la gestión de servicios de Nómina a través de la Banca Transaccional con soluciones innovadoras y su modelo de atención 360.",
-      "link": "https://expansion.mx/empresas/2026/08/06/la-nomina-evoluciona-de-proceso-operativo-a-herramienta-estrategica",
-      "fecha": "06 Aug 2026, 08:47 hrs"
+      "titulo": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
+      "resumen": "Ricardo Salinas Pliego, Germán Larrea y hasta Carlos Slim decidieron que su formación universitaria fuera en instituciones mexicanas sobre las internacionales.",
+      "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
+      "fecha": "06 Aug 2026, 17:34 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La mina más importante de Peñoles: el negocio que genera millones para los Bailleres",
-      "resumen": "Ubicada en Sonora, Herradura procesa más mineral que cualquier otra operación del grupo y es uno de los activos que sostienen el negocio minero de la familia Baillères.",
-      "link": "https://expansion.mx/empresas/2026/08/05/mina-mas-importante-penoles-negocio-millones-bailleres",
-      "fecha": "05 Aug 2026, 19:31 hrs"
+      "titulo": "Los usuarios dejan atrás el triple play y presionan los ingresos de Totalplay",
+      "resumen": "La migración de los usuarios hacia paquetes de doble play y el avance del streaming presionan el ingreso por usuario y el crecimiento del negocio residencial de la empresa de Grupo Salinas.",
+      "link": "https://expansion.mx/empresas/2026/08/06/mexicanos-dicen-adios-triple-play-total-play-ingresos",
+      "fecha": "06 Aug 2026, 16:38 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La marca que ayuda a Walmart a vender más barato sin fabricar un solo producto",
-      "resumen": "Hoy es la marca propia más importante de Walmart, está presente en nueve de cada 10 hogares de Estados Unidos y es la principal apuesta para las tiendas de México.",
-      "link": "https://expansion.mx/empresas/2026/08/05/historia-great-value-marca-walmart-vender-mas-barato",
-      "fecha": "05 Aug 2026, 18:08 hrs"
+      "titulo": "DAISO entra a México con un plan para abrir cinco tiendas antes de que termine el año",
+      "resumen": "DAISO iniciará operaciones en México con dos tiendas en el Estado de México y un plan para cerrar 2026 con cinco sucursales como parte de su expansión en América Latina.",
+      "link": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
+      "fecha": "06 Aug 2026, 16:32 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "“¿Qué culpa tienen otras empresas?”: CNA rechaza generalizar el caso de la lechuga de Taylor Farms",
-      "resumen": "El Consejo Nacional Agropecuario afirma que las pruebas realizadas en México no detectaron Cyclospora cayetanensis en muestras analizadas y pide evitar afectaciones a productores que cumplen con están…",
-      "link": "https://expansion.mx/empresas/2026/08/05/cna-rechaza-generalizar-caso-lechuga-taylor-farms",
-      "fecha": "05 Aug 2026, 17:42 hrs"
+      "titulo": "Las 72 horas que pueden salvar tu línea celular si no haces el registro telefónico a tiempo",
+      "resumen": "Llamadas, SMS y datos móviles podrían quedar inhabilitados para quienes no registren su línea, pero la CRT dará hasta 3 días para evitar la suspensión.",
+      "link": "https://expansion.mx/empresas/2026/08/06/72-horas-pueden-salvar-linea-telefonica-si-no-haces-registro",
+      "fecha": "06 Aug 2026, 16:17 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Si tu celular termina en 0, 1 o 2, esto pasará con WhatsApp y Uber si no registras tu línea",
-      "resumen": "Las primeras líneas podrían ser suspendidas en agosto, afectando aplicaciones que utilizan SMS o llamadas para autenticar usuarios.",
-      "link": "https://expansion.mx/empresas/2026/08/05/celular-termina-0-1-2-que-pasara-whatsapp-uber-registro",
-      "fecha": "05 Aug 2026, 16:49 hrs"
+      "titulo": "Bayer prueba una fórmula para producir más maíz con menos recursos",
+      "resumen": "El proyecto operará en 70 hectáreas de Rancho Hontoria y combinará semillas, herramientas digitales y manejo del agua; Bayer evaluará los resultados antes de replicarlo.",
+      "link": "https://expansion.mx/empresas/2026/08/06/bayer-abre-primera-granja-futuro-mexico",
+      "fecha": "06 Aug 2026, 15:13 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pemex avanza solo en 4 de 9 contratos mixtos; la estrategia para elevar la producción petrolera sigue sin sumar barriles",
-      "resumen": "De un total de 21 contratos mixtos que Pemex contemplaba adjudicar para aumentar su producción, solo 9 han logrado ser firmados y 11 ni siquiera han anunciado en proceso de adjudicación.",
-      "link": "https://expansion.mx/empresas/2026/08/05/pemex-dio-nueve-contratos-empresas-privadas-ninguna-suma",
-      "fecha": "05 Aug 2026, 16:46 hrs"
+      "titulo": "Los 10 autos más vendidos en México en 2026: cuánto cuestan del Nissan Versa al Hyundai Grand i10",
+      "resumen": "Sedanes, hatchbacks, SUV y camionetas integran el grupo de los modelos más vendidos del país, una diferencia que también se refleja en el presupuesto necesario para comprar cada uno.",
+      "link": "https://expansion.mx/empresas/2026/08/06/nissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos",
+      "fecha": "06 Aug 2026, 14:35 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La libreta que cambió la vida de Carlos Slim y dio origen a su fortuna de 128,000 millones de dólares",
-      "resumen": "Antes de comprar acciones a los 12 años y décadas antes de adquirir Telmex, Carlos Slim aprendió una rutina que moldeó su forma de administrar el dinero y hacer negocios.",
-      "link": "https://expansion.mx/empresas/2026/08/05/libreta-carlos-slim-fortuna-128-mil-millones",
-      "fecha": "05 Aug 2026, 16:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La masificación del internet satelital convirtió a Starlink en el motor financiero de SpaceX",
-      "resumen": "Starlink ya genera el 55% de las ventas de SpaceX gracias a una estrategia de expansión global basada en reducción de precios, nuevos mercados, contratos con gobiernos y empresas, a pesar de reducir s…",
-      "link": "https://expansion.mx/empresas/2026/08/05/starlink-genera-mas-dinero-cohetes-spacex",
-      "fecha": "05 Aug 2026, 16:16 hrs"
+      "titulo": "Los negocios millonarios donde Carlos Slim compite contra Walmart, Amazon y Mercado Libre",
+      "resumen": "Claro Shop, Sears, iShop, Mixup y Dax forman parte de la estrategia con la que el magnate busca mantener terreno en un mercado transformado por las plataformas digitales.",
+      "link": "https://expansion.mx/empresas/2026/08/06/negocios-carlos-slim-compite-walmart-amazon-mercado",
+      "fecha": "06 Aug 2026, 13:00 hrs"
     },
     {
       "fuente": "Reforma",
