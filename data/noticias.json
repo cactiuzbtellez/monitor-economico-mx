@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/08/2026 12:55 hrs",
+  "actualizado": "07/08/2026 13:52 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Nissan March vs. Chevrolet Aveo Hatchback: qué ofrece cada uno por menos de 276,000 pesos",
+      "resumen": "Por menos de 276,000 pesos, estos dos hatchbacks ofrecen propuestas distintas: uno apuesta por potencia y seguridad, mientras el otro destaca por rendimiento y tecnología.",
+      "link": "https://expansion.mx/empresas/2026/08/07/nissan-march-vs-chevrolet-aveo-hatchback-que-ofrece-precio",
+      "fecha": "07 Aug 2026, 11:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Jalisco lanza una aceleradora para convertir a pymes de consumo en marcas globales",
+      "resumen": "La aceleradora busca que más empresas mexicanas de alimentos, bebidas, belleza y cuidado personal sigan el camino de marcas globales como Tajín.",
+      "link": "https://expansion.mx/empresas/2026/08/07/jalisco-convertir-pymes-empresas-globales",
+      "fecha": "07 Aug 2026, 11:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
       "resumen": "El nuevo EV3 estará disponible con dos tamaños de batería, hasta 605 kilómetros de autonomía y un precio de entrada de 689,700 pesos, en una apuesta por ampliar el mercado de vehículos eléctricos.",
       "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
@@ -127,24 +145,6 @@
       "resumen": "El proyecto operará en 70 hectáreas de Rancho Hontoria y combinará semillas, herramientas digitales y manejo del agua; Bayer evaluará los resultados antes de replicarlo.",
       "link": "https://expansion.mx/empresas/2026/08/06/bayer-abre-primera-granja-futuro-mexico",
       "fecha": "06 Aug 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 10 autos más vendidos en México en 2026: cuánto cuestan del Nissan Versa al Hyundai Grand i10",
-      "resumen": "Sedanes, hatchbacks, SUV y camionetas integran el grupo de los modelos más vendidos del país, una diferencia que también se refleja en el presupuesto necesario para comprar cada uno.",
-      "link": "https://expansion.mx/empresas/2026/08/06/nissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos",
-      "fecha": "06 Aug 2026, 14:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los negocios millonarios donde Carlos Slim compite contra Walmart, Amazon y Mercado Libre",
-      "resumen": "Claro Shop, Sears, iShop, Mixup y Dax forman parte de la estrategia con la que el magnate busca mantener terreno en un mercado transformado por las plataformas digitales.",
-      "link": "https://expansion.mx/empresas/2026/08/06/negocios-carlos-slim-compite-walmart-amazon-mercado",
-      "fecha": "06 Aug 2026, 13:00 hrs"
     },
     {
       "fuente": "Reforma",
