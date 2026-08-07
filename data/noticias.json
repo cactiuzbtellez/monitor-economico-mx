@@ -1,7 +1,16 @@
 {
-  "actualizado": "07/08/2026 15:38 hrs",
+  "actualizado": "07/08/2026 16:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
+      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
+      "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
+      "fecha": "07 Aug 2026, 14:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
-      "link": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
-      "fecha": "06 Aug 2026, 14:50 hrs"
+      "titulo": "Promtel y Viasat impulsará las redes privadas inteligentes para la industria 4.0",
+      "resumen": "Promtel y Viasat buscan posicionar a México en un mercado global de redes privadas que este año podría alcanzar un valor de 5,900 millones de dólares, impulsado por la digitalización industrial.",
+      "link": "https://expansion.mx/empresas/2026/08/07/promtel-y-viasat-redes-privadas-inteligentes-industria-4-0",
+      "fecha": "07 Aug 2026, 14:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué Yema y Tiendas 3B aceptan devoluciones sin ticket? La estrategia para ganar clientes",
+      "resumen": "Mientras otros supermercados exigen comprobantes y condiciones específicas para aceptar devoluciones, Tiendas 3B y Yema no rechazan los cambios de sus productos.",
+      "link": "https://expansion.mx/empresas/2026/08/07/tiendas-3b-yema-aceptan-devoluciones-sin-ticket-estrategia",
+      "fecha": "07 Aug 2026, 14:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Toyota rediseña la Hilux y elimina la versión de cabina sencilla en México para enfocarse en la doble cabina",
+      "resumen": "La pickup más vendida de la marca en el país estrena generación con mejoras en desempeño, seguridad y tecnología, mientras concentra su oferta únicamente en configuraciones de doble cabina.",
+      "link": "https://expansion.mx/empresas/2026/08/07/toyota-hilux-2027-doble-cabina",
+      "fecha": "07 Aug 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "José Cuervo nació antes que México: así sobrevivió a guerras y crisis hasta convertirse en un gigante mundial",
+      "resumen": "Desde una autorización otorgada por la Corona española hasta cotizar en la Bolsa Mexicana de Valores, José Cuervo ha sobrevivido a los cambios constantes de México.",
+      "link": "https://expansion.mx/empresas/2026/08/07/jose-cuervo-nacio-antes-que-mexico-historia-duenos",
+      "fecha": "07 Aug 2026, 14:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,42 +147,6 @@
       "fecha": "07 Aug 2026, 11:07 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
-      "resumen": "El nuevo EV3 estará disponible con dos tamaños de batería, hasta 605 kilómetros de autonomía y un precio de entrada de 689,700 pesos, en una apuesta por ampliar el mercado de vehículos eléctricos.",
-      "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
-      "fecha": "06 Aug 2026, 19:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
-      "resumen": "Ricardo Salinas Pliego, Germán Larrea y hasta Carlos Slim decidieron que su formación universitaria fuera en instituciones mexicanas sobre las internacionales.",
-      "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
-      "fecha": "06 Aug 2026, 17:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los usuarios dejan atrás el triple play y presionan los ingresos de Totalplay",
-      "resumen": "La migración de los usuarios hacia paquetes de doble play y el avance del streaming presionan el ingreso por usuario y el crecimiento del negocio residencial de la empresa de Grupo Salinas.",
-      "link": "https://expansion.mx/empresas/2026/08/06/mexicanos-dicen-adios-triple-play-total-play-ingresos",
-      "fecha": "06 Aug 2026, 16:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "DAISO entra a México con un plan para abrir cinco tiendas antes de que termine el año",
-      "resumen": "DAISO iniciará operaciones en México con dos tiendas en el Estado de México y un plan para cerrar 2026 con cinco sucursales como parte de su expansión en América Latina.",
-      "link": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
-      "fecha": "06 Aug 2026, 16:32 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca inflación de México el 3.12%, un mínimo en seis años",
-      "resumen": "La inflación de México desaceleró a un 3.12% interanual, su menor nivel desde mayo de 2020, según INEGI.",
-      "link": "https://www.reforma.com/toca-inflacion-de-mexico-el-3-12-un-minimo-en-seis-anos/ar3254068",
-      "fecha": "07 Aug 2026, 07:15 hrs"
+      "titulo": "Señala The Economist giro de Sheinbaum hacia Trump",
+      "resumen": "La Presidenta Sheinbaum ha dejado atrás su actitud serena ante los ataques de Trump a su partido político, señaló The Economist.",
+      "link": "https://www.reforma.com/senala-the-economist-giro-de-sheinbaum-hacia-trump/ar3254328",
+      "fecha": "07 Aug 2026, 15:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ajustan horarios de Tren México-Toluca por tiempo indefinido",
+      "resumen": "A partir del próximo 10 de agosto, el Tren Interurbano México-Toluca ajustará temporalmente sus horarios de servicio por mantenimiento.",
+      "link": "https://www.reforma.com/ajustan-horarios-de-tren-mexico-toluca-por-tiempo-indefinido/ar3254312",
+      "fecha": "07 Aug 2026, 15:44 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Anuncia Volaris ocho nuevas rutas",
+      "resumen": "Volaris anunció el lanzamiento de ocho nuevas rutas a partir del 1 de diciembre hacia Estados Unidos, México, Centro y Sudamérica.",
+      "link": "https://www.reforma.com/anuncia-volaris-ocho-nuevas-rutas/ar3254320",
+      "fecha": "07 Aug 2026, 15:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierran mercados de EU la semana con ganancias",
       "resumen": "El índice amplio S&amp;P 500 subió 0.62% y alcanzó un nuevo récord al cierre, de 7 mil 757.62 puntos; el Dow Jones ganó 0.28% y el Nasdaq 1.30%.",
       "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3254286",
       "fecha": "07 Aug 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Llevará OpenAI los anuncios de ChatGPT a Brasil y México",
-      "resumen": "OpenAI está extendiendo los anuncios de ChatGPT a Brasil y México como parte de su último esfuerzo por impulsar sus ingresos publicitarios.",
-      "link": "https://www.reforma.com/llevara-openai-los-anuncios-de-chatgpt-a-brasil-y-mexico/ar3254105",
-      "fecha": "07 Aug 2026, 09:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo ante la falta de acuerdo en Medio Oriente",
-      "resumen": "El crudo cerró con alza de 1%, en un mercado cada vez menos confiado en un posible acuerdo en Medio Oriente para reabrir estrecho de Ormuz.",
-      "link": "https://www.reforma.com/sube-crudo-ante-la-falta-de-acuerdo-en-medio-oriente/ar3254271",
-      "fecha": "07 Aug 2026, 14:21 hrs"
     }
   ]
 }
