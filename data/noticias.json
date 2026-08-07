@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/08/2026 05:44 hrs",
+  "actualizado": "07/08/2026 07:01 hrs",
   "total": 24,
   "noticias": [
     {
@@ -186,9 +186,27 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven poco asegurado Guerrero",
-      "resumen": "Guerrero sigue siendo una de las entidades más vulnerables frente a los huracanes, pero también una de las menos protegidas financieramente.",
-      "link": "https://www.reforma.com/ven-poco-asegurado-guerrero/ar3253922",
+      "titulo": "Libra veda de EU mango michoacano",
+      "resumen": "Calendario de exportación salvó al mango de Michoacán de padecer el mismo bloqueo de EU que enfrentan los envíos de aguacate de ese estado.",
+      "link": "https://www.reforma.com/libra-veda-de-eu-mango-michoacano/ar3253892",
+      "fecha": "06 Aug 2026, 20:39 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Revisan para vuelos a mascotas por gusano",
+      "resumen": "Si usted planea viajar con una mascota de México a EU, o viceversa, deberá acreditar que ésta está libre del gusano barrenador.",
+      "link": "https://www.reforma.com/revisan-para-vuelos-a-mascotas-por-gusano/ar3253903",
+      "fecha": "07 Aug 2026, 06:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Analizan generación distribuida colectiva",
+      "resumen": "Gobierno federal pretende ampliar los alcances de la generación de energía mediante paneles solares a comunidades rurales.",
+      "link": "https://www.reforma.com/analizan-generacion-distribuida-colectiva/ar3253909",
       "fecha": "07 Aug 2026, 05:01 hrs"
     },
     {
@@ -198,24 +216,6 @@
       "titulo": "Deben facilitar pagos de seguros",
       "resumen": "Las aseguradoras enfrentan el reto de ampliar los métodos de pago y fortalecer la confianza de los usuarios,recomendó Alianzas Comerciales.",
       "link": "https://www.reforma.com/deben-facilitar-pagos-de-seguros/ar3253918",
-      "fecha": "07 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa tecnología auge industrial",
-      "resumen": "Frente a la desaceleración industrial en diversas regiones del País, Jalisco mantiene crecimiento en infraestructura logística.",
-      "link": "https://www.reforma.com/impulsa-tecnologia-auge-industrial/ar3253911",
-      "fecha": "07 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Analizan generación distribuida colectiva",
-      "resumen": "Gobierno federal pretende ampliar los alcances de la generación de energía mediante paneles solares a comunidades rurales.",
-      "link": "https://www.reforma.com/analizan-generacion-distribuida-colectiva/ar3253909",
       "fecha": "07 Aug 2026, 05:01 hrs"
     }
   ]
