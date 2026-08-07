@@ -1,13 +1,22 @@
 {
-  "actualizado": "07/08/2026 10:53 hrs",
+  "actualizado": "07/08/2026 11:49 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Hacienda recorta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-      "resumen": "La petrolera reporta menos recursos para apoyos financieros y para el desarrollo de infraestructura. También se registran descensos en presupuesto para infraestructura ferroviaria y carretera.",
+      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
+      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
+      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
+      "fecha": "06 Aug 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
+      "resumen": "La petrolera reporta menos recursos para apoyos financieros e inversión física. También se registran descensos en presupuestos para infraestructura ferroviaria y carretera.",
       "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
       "fecha": "06 Aug 2026, 16:26 hrs"
     },
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México figura entre los países que exportan la mitad de los bienes para construir la IA",
-      "resumen": "El Banco Mundial plantea que la mayor oportunidad para México no está en desarrollar modelos propios, sino en fortalecer su manufactura y acelerar la adopción de inteligencia artificial.",
-      "link": "https://expansion.mx/economia/2026/08/05/mexico-exportaciones-inteligencia-artificial-banco-mundial",
-      "fecha": "05 Aug 2026, 13:33 hrs"
+      "titulo": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
+      "resumen": "El nuevo EV3 estará disponible con dos tamaños de batería, hasta 605 kilómetros de autonomía y un precio de entrada de 689,700 pesos, en una apuesta por ampliar el mercado de vehículos eléctricos.",
+      "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
+      "fecha": "06 Aug 2026, 19:20 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "Claro Shop, Sears, iShop, Mixup y Dax forman parte de la estrategia con la que el magnate busca mantener terreno en un mercado transformado por las plataformas digitales.",
       "link": "https://expansion.mx/empresas/2026/08/06/negocios-carlos-slim-compite-walmart-amazon-mercado",
       "fecha": "06 Aug 2026, 13:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los lugares de México donde no se podrá hacer fracking de acuerdo con el comité de expertos de Sheinbaum",
-      "resumen": "Un grupo de 54 científicos y expertos asesoran al gobierno sobre la viabilidad del uso de fracking. Se analizaron diversos factores como ambientales, sociales y económicos.",
-      "link": "https://expansion.mx/empresas/2026/08/06/mapa-fracking-mexico-estados-donde-se-debe-prohibir",
-      "fecha": "06 Aug 2026, 11:43 hrs"
     },
     {
       "fuente": "Reforma",
