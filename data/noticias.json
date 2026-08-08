@@ -1,7 +1,16 @@
 {
-  "actualizado": "08/08/2026 01:49 hrs",
+  "actualizado": "08/08/2026 02:39 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda reduce los subsidios para Magna, Premium y diésel",
+      "resumen": "El diésel continúa con el mayor descuento a la cuota del impuesto IEPS, que se le cobra por litro en estaciones de servicio.",
+      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
+      "fecha": "07 Aug 2026, 17:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
       "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
       "fecha": "06 Aug 2026, 18:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
-      "resumen": "La petrolera reporta menos recursos para apoyos financieros e inversión física. También se registran descensos en presupuestos para infraestructura ferroviaria y carretera.",
-      "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
-      "fecha": "06 Aug 2026, 16:26 hrs"
     },
     {
       "fuente": "Expansión",
