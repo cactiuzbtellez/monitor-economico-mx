@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/08/2026 17:32 hrs",
+  "actualizado": "07/08/2026 19:36 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Infiniti sustituye a la QX50 como vehículo de entrada con una nueva QX65 de carrocería fastback",
+      "resumen": "La nueva SUV fastback llega a México en una única versión Autograph AWD, con un precio de 1,449,900 pesos y toma el lugar de la QX50 como modelo de entrada de Infiniti.",
+      "link": "https://expansion.mx/empresas/2026/08/07/infiniti-qx65-precio-mexico",
+      "fecha": "07 Aug 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "DiDi se suma al registro de líneas celulares y pide a usuarios hacerlo antes del plazo",
+      "resumen": "Al igual que OXXO, la plataforma de movilidad se sumó a la difusión del registro obligatorio de líneas telefónicas entre sus usuarios.",
+      "link": "https://expansion.mx/empresas/2026/08/07/didi-alerta-a-usuarios-sobre-registro-de-lineas-telefonicas",
+      "fecha": "07 Aug 2026, 18:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Promtel y Viasat impulsará las redes privadas inteligentes para la industria 4.0",
       "resumen": "Promtel y Viasat buscan posicionar a México en un mercado global de redes privadas que este año podría alcanzar un valor de 5,900 millones de dólares, impulsado por la digitalización industrial.",
       "link": "https://expansion.mx/empresas/2026/08/07/promtel-y-viasat-redes-privadas-inteligentes-industria-4-0",
@@ -129,49 +147,22 @@
       "fecha": "07 Aug 2026, 13:09 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan March vs. Chevrolet Aveo Hatchback: qué ofrece cada uno por menos de 276,000 pesos",
-      "resumen": "Por menos de 276,000 pesos, estos dos hatchbacks ofrecen propuestas distintas: uno apuesta por potencia y seguridad, mientras el otro destaca por rendimiento y tecnología.",
-      "link": "https://expansion.mx/empresas/2026/08/07/nissan-march-vs-chevrolet-aveo-hatchback-que-ofrece-precio",
-      "fecha": "07 Aug 2026, 11:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Jalisco lanza una aceleradora para convertir a pymes de consumo en marcas globales",
-      "resumen": "La aceleradora busca que más empresas mexicanas de alimentos, bebidas, belleza y cuidado personal sigan el camino de marcas globales como Tajín.",
-      "link": "https://expansion.mx/empresas/2026/08/07/jalisco-convertir-pymes-empresas-globales",
-      "fecha": "07 Aug 2026, 11:07 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerda APEAM con EU liberar 1,000 toneladas de aguacate",
+      "resumen": "Aguacateros mexicanos acordaron con autoridades de Estados Unidos liberar más de mil toneladas de aguacate, reveló la APEAM.",
+      "link": "https://www.reforma.com/acuerda-apeam-con-eu-liberar-1-000-toneladas-de-aguacate/ar3254424",
+      "fecha": "07 Aug 2026, 19:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lanzan en EU nuevo llamado para topar aguacate mexicano",
-      "resumen": "La Comisión del Aguacate de California reiteró su petición de establecer un cupo arancelario estacional para los aguacates mexicanos.",
-      "link": "https://www.reforma.com/lanzan-en-eu-nuevo-llamado-para-topar-aguacate-mexicano/ar3254234",
-      "fecha": "07 Aug 2026, 14:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Regulan fondos ASG; invertirán 80% en activos sostenibles",
-      "resumen": "Gobierno federal modificó la normativa aplicable a fondos de inversión para que inviertan el 80% de sus activos en objetivos ambientales.",
-      "link": "https://www.reforma.com/regulan-fondos-asg-invertiran-80-en-activos-sostenibles/ar3254307",
-      "fecha": "07 Aug 2026, 15:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae 9.7% exportación de autos en julio",
-      "resumen": "Las exportaciones de vehículos ligeros bajaron 9.67% en julio, a tasa anual, a 261 mil 534 unidades, reportó hoy el Inegi.",
-      "link": "https://www.reforma.com/cae-9-7-exportacion-de-autos-en-julio/ar3254106",
-      "fecha": "07 Aug 2026, 09:27 hrs"
+      "titulo": "Cierra dólar su peor semana en seis meses",
+      "resumen": "Dólar cerró este viernes en el nivel de $17.34, lo que representó una depreciación acumulada de 1.2%, tocando su peor nivel en seis meses.",
+      "link": "https://www.reforma.com/cierra-dolar-su-peor-semana-en-seis-meses/ar3254380",
+      "fecha": "07 Aug 2026, 17:49 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,24 +177,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ajustan horarios de Tren México-Toluca por tiempo indefinido",
-      "resumen": "A partir del próximo 10 de agosto, el Tren Interurbano México-Toluca ajustará temporalmente sus horarios de servicio por mantenimiento.",
-      "link": "https://www.reforma.com/ajustan-horarios-de-tren-mexico-toluca-por-tiempo-indefinido/ar3254312",
-      "fecha": "07 Aug 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Edifican CEOs rancho para sobrevivir al Apocalipsis",
-      "resumen": "En los Andes, en la remota estancia Wamani en Argentina, un grupo de emprendedores se prepara para el fin del mundo, destacó el FT.",
-      "link": "https://www.reforma.com/edifican-ceos-rancho-para-sobrevivir-al-apocalipsis/ar3254184",
-      "fecha": "07 Aug 2026, 11:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Anuncia Volaris ocho nuevas rutas",
       "resumen": "Volaris anunció el lanzamiento de ocho nuevas rutas a partir del 1 de diciembre hacia Estados Unidos, México, Centro y Sudamérica.",
       "link": "https://www.reforma.com/anuncia-volaris-ocho-nuevas-rutas/ar3254320",
@@ -213,10 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Ajustan horarios de Tren México-Toluca por tiempo indefinido",
+      "resumen": "A partir del próximo 10 de agosto, el Tren Interurbano México-Toluca ajustará temporalmente sus horarios de servicio por mantenimiento.",
+      "link": "https://www.reforma.com/ajustan-horarios-de-tren-mexico-toluca-por-tiempo-indefinido/ar3254312",
+      "fecha": "07 Aug 2026, 15:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Regulan fondos ASG; invertirán 80% en activos sostenibles",
+      "resumen": "Gobierno federal modificó la normativa aplicable a fondos de inversión para que inviertan el 80% de sus activos en objetivos ambientales.",
+      "link": "https://www.reforma.com/regulan-fondos-asg-invertiran-80-en-activos-sostenibles/ar3254307",
+      "fecha": "07 Aug 2026, 15:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierran mercados de EU la semana con ganancias",
       "resumen": "El índice amplio S&amp;P 500 subió 0.62% y alcanzó un nuevo récord al cierre, de 7 mil 757.62 puntos; el Dow Jones ganó 0.28% y el Nasdaq 1.30%.",
       "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3254286",
       "fecha": "07 Aug 2026, 14:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube crudo ante la falta de acuerdo en Medio Oriente",
+      "resumen": "El precio del barril de Brent del Mar del Norte ganó 1.29% y cerró en 83.55 dólares, mientras que el WTI avanzó 1.15% hasta 78.18 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-ante-la-falta-de-acuerdo-en-medio-oriente/ar3254271",
+      "fecha": "07 Aug 2026, 14:21 hrs"
     }
   ]
 }
