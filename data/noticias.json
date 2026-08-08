@@ -1,34 +1,7 @@
 {
-  "actualizado": "08/08/2026 03:37 hrs",
+  "actualizado": "08/08/2026 04:32 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda reduce los subsidios para Magna, Premium y diésel",
-      "resumen": "El diésel continúa con el mayor descuento a la cuota del impuesto IEPS, que se le cobra por litro en estaciones de servicio.",
-      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
-      "fecha": "07 Aug 2026, 17:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
-      "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
-      "fecha": "07 Aug 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico revela los billetes y las monedas más falsificados en México; el de 500 pesos lidera la lista",
-      "resumen": "Los falsificadores tienen denominaciones favoritas: los registros de Banxico muestran cuáles acumulan más piezas falsas y qué tan lejos llega el problema en monedas metálicas.",
-      "link": "https://expansion.mx/economia/2026/08/07/billetes-monedas-mas-falsificados-mexico-banxico",
-      "fecha": "07 Aug 2026, 10:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,75 +49,102 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Infiniti sustituye a la QX50 como vehículo de entrada con una nueva QX65 de carrocería fastback",
-      "resumen": "La nueva SUV fastback llega a México en una única versión Autograph AWD, con un precio de 1,449,900 pesos y toma el lugar de la QX50 como modelo de entrada de Infiniti.",
-      "link": "https://expansion.mx/empresas/2026/08/07/infiniti-qx65-precio-mexico",
-      "fecha": "07 Aug 2026, 19:32 hrs"
+      "titulo": "Hacienda ajusta medio billón de pesos al gasto; Pemex, trenes y Bienestar concentran el 65%",
+      "resumen": "La petrolera reporta menos recursos para apoyos financieros e inversión física. También se registran descensos en presupuestos para infraestructura ferroviaria y carretera.",
+      "link": "https://expansion.mx/economia/2026/08/06/pemex-trenes-bienestar-ajuste-gasto-hacienda-medio-billon",
+      "fecha": "06 Aug 2026, 16:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
+      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
+      "link": "https://expansion.mx/economia/2026/08/06/transferir-a-nu-desde-otro-banco-cambio",
+      "fecha": "06 Aug 2026, 14:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tres argumentos legales ponen en jaque los aranceles por trabajo forzoso que incluyen a México",
+      "resumen": "La nueva estrategia comercial de Trump ya comenzó a ser impugnada. Los demandantes aseguran que los aranceles fueron diseñados como una medida casi general y no como respuesta a casos específicos.",
+      "link": "https://expansion.mx/economia/2026/08/06/batalla-legal-aranceles-trump-mexico",
+      "fecha": "06 Aug 2026, 13:14 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "DiDi se suma al registro de líneas celulares y pide a usuarios hacerlo antes del plazo",
-      "resumen": "Al igual que OXXO, la plataforma de movilidad se sumó a la difusión del registro obligatorio de líneas telefónicas entre sus usuarios.",
-      "link": "https://expansion.mx/empresas/2026/08/07/didi-alerta-a-usuarios-sobre-registro-de-lineas-telefonicas",
-      "fecha": "07 Aug 2026, 18:24 hrs"
+      "titulo": "Kia apuesta por el EV3 para acelerar su estrategia eléctrica en México con producción local",
+      "resumen": "El nuevo EV3 estará disponible con dos tamaños de batería, hasta 605 kilómetros de autonomía y un precio de entrada de 689,700 pesos, en una apuesta por ampliar el mercado de vehículos eléctricos.",
+      "link": "https://expansion.mx/empresas/2026/08/06/kia-ev3-suv-electrico-mexico-precio-autonomia",
+      "fecha": "06 Aug 2026, 19:20 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Promtel y Viasat impulsará las redes privadas inteligentes para la industria 4.0",
-      "resumen": "Promtel y Viasat buscan posicionar a México en un mercado global de redes privadas que este año podría alcanzar un valor de 5,900 millones de dólares, impulsado por la digitalización industrial.",
-      "link": "https://expansion.mx/empresas/2026/08/07/promtel-y-viasat-redes-privadas-inteligentes-industria-4-0",
-      "fecha": "07 Aug 2026, 14:38 hrs"
+      "titulo": "Los grandes empresarios mexicanos estudiaron más en México que en Harvard o Stanford",
+      "resumen": "Ricardo Salinas Pliego, Germán Larrea y hasta Carlos Slim decidieron que su formación universitaria fuera en instituciones mexicanas sobre las internacionales.",
+      "link": "https://expansion.mx/empresas/2026/08/06/empresarios-mexicanos-estudiaron-mexico-harvard-stanford",
+      "fecha": "06 Aug 2026, 17:34 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Por qué Yema y Tiendas 3B aceptan devoluciones sin ticket? La estrategia para ganar clientes",
-      "resumen": "Mientras otros supermercados exigen comprobantes y condiciones específicas para aceptar devoluciones, Tiendas 3B y Yema no rechazan los cambios de sus productos.",
-      "link": "https://expansion.mx/empresas/2026/08/07/tiendas-3b-yema-aceptan-devoluciones-sin-ticket-estrategia",
-      "fecha": "07 Aug 2026, 14:16 hrs"
+      "titulo": "Los usuarios dejan atrás el triple play y presionan los ingresos de Totalplay",
+      "resumen": "La migración de los usuarios hacia paquetes de doble play y el avance del streaming presionan el ingreso por usuario y el crecimiento del negocio residencial de la empresa de Grupo Salinas.",
+      "link": "https://expansion.mx/empresas/2026/08/06/mexicanos-dicen-adios-triple-play-total-play-ingresos",
+      "fecha": "06 Aug 2026, 16:38 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Toyota rediseña la Hilux y elimina la versión de cabina sencilla en México para enfocarse en la doble cabina",
-      "resumen": "La pickup más vendida de la marca en el país estrena generación con mejoras en desempeño, seguridad y tecnología, mientras concentra su oferta únicamente en configuraciones de doble cabina.",
-      "link": "https://expansion.mx/empresas/2026/08/07/toyota-hilux-2027-doble-cabina",
-      "fecha": "07 Aug 2026, 14:15 hrs"
+      "titulo": "DAISO entra a México con un plan para abrir cinco tiendas antes de que termine el año",
+      "resumen": "DAISO iniciará operaciones en México con dos tiendas en el Estado de México y un plan para cerrar 2026 con cinco sucursales como parte de su expansión en América Latina.",
+      "link": "https://expansion.mx/empresas/2026/08/06/daiso-llega-mexico-primeras-tiendas-expansion-2026",
+      "fecha": "06 Aug 2026, 16:32 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "José Cuervo nació antes que México: así sobrevivió a guerras y crisis hasta convertirse en un gigante mundial",
-      "resumen": "Desde una autorización otorgada por la Corona española hasta cotizar en la Bolsa Mexicana de Valores, José Cuervo ha sobrevivido a los cambios constantes de México.",
-      "link": "https://expansion.mx/empresas/2026/08/07/jose-cuervo-nacio-antes-que-mexico-historia-duenos",
-      "fecha": "07 Aug 2026, 14:00 hrs"
+      "titulo": "Las 72 horas que pueden salvar tu línea celular si no haces el registro telefónico a tiempo",
+      "resumen": "Llamadas, SMS y datos móviles podrían quedar inhabilitados para quienes no registren su línea, pero la CRT dará hasta 3 días para evitar la suspensión.",
+      "link": "https://expansion.mx/empresas/2026/08/06/72-horas-pueden-salvar-linea-telefonica-si-no-haces-registro",
+      "fecha": "06 Aug 2026, 16:17 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México gana arbitraje contra fondos estadounidenses por deuda de TV Azteca",
-      "resumen": "El tribunal del CIADI concluyó que los fondos Cyrus y Contrarian no estaban protegidos por el T-MEC, por lo que desechó su reclamación de 219 millones de dólares contra México por el impago de bonos d…",
-      "link": "https://expansion.mx/empresas/2026/08/07/mexico-no-tendra-pagar-deuda-tv-azteca",
-      "fecha": "07 Aug 2026, 13:14 hrs"
+      "titulo": "Bayer prueba una fórmula para producir más maíz con menos recursos",
+      "resumen": "El proyecto operará en 70 hectáreas de Rancho Hontoria y combinará semillas, herramientas digitales y manejo del agua; Bayer evaluará los resultados antes de replicarlo.",
+      "link": "https://expansion.mx/empresas/2026/08/06/bayer-abre-primera-granja-futuro-mexico",
+      "fecha": "06 Aug 2026, 15:13 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las 9 obras que más enorgullecen a Slim: del Centro Histórico de CDMX al Santiago Bernabéu en Madrid",
-      "resumen": "Museos, centros comerciales, desarrollos urbanos y recintos deportivos forman parte de las obras que el empresario mexicano considera más especiales de su trayectoria.",
-      "link": "https://expansion.mx/empresas/2026/08/07/carlos-slim-y-sus-9-grandes-obras-empresariales",
-      "fecha": "07 Aug 2026, 13:09 hrs"
+      "titulo": "Los 10 autos más vendidos en México en 2026: cuánto cuestan del Nissan Versa al Hyundai Grand i10",
+      "resumen": "Sedanes, hatchbacks, SUV y camionetas integran el grupo de los modelos más vendidos del país, una diferencia que también se refleja en el presupuesto necesario para comprar cada uno.",
+      "link": "https://expansion.mx/empresas/2026/08/06/nissan-versa-hyundai-i10-cuanto-cuestan-autos-mas-vendidos",
+      "fecha": "06 Aug 2026, 14:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los negocios millonarios donde Carlos Slim compite contra Walmart, Amazon y Mercado Libre",
+      "resumen": "Claro Shop, Sears, iShop, Mixup y Dax forman parte de la estrategia con la que el magnate busca mantener terreno en un mercado transformado por las plataformas digitales.",
+      "link": "https://expansion.mx/empresas/2026/08/06/negocios-carlos-slim-compite-walmart-amazon-mercado",
+      "fecha": "06 Aug 2026, 13:00 hrs"
     },
     {
       "fuente": "Reforma",
