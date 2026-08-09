@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/08/2026 07:49 hrs",
+  "actualizado": "09/08/2026 08:33 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Estado Natural ya tiene 50 tiendas y planea su asalto a otras cadenas con productos empacados",
+      "resumen": "Sus fundadores, Arturo Goldberg y Stephanie Katz, ignoraron las críticas de ser un mercado para millennials y hoy ya hacen pruebas con grandes autoservicios para introducir su marca.",
+      "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
+      "fecha": "09 Aug 2026, 06:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Starlink a Amazon Leo, los nuevos dueños del imperio móvil",
+      "resumen": "La industria de las telecomunicaciones enfrenta la irrupción de nuevos jugadores con el servicio D2D, que promete eliminar zonas sin señal mientras redefine el acceso al espectro y la conectividad.",
+      "link": "https://expansion.mx/empresas/2026/08/09/starlink-amazon-leo-nuevos-dueno-imperio-telefonia-movil",
+      "fecha": "09 Aug 2026, 06:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "GWM cambia la estrategia de Ora en México y lanza el ORA 5 con gasolina, híbrido y eléctrico",
       "resumen": "El fabricante chino busca ampliar el mercado de Ora en México con un SUV-B que ofrece tres alternativas de propulsión y precios desde 449,900 pesos.",
       "link": "https://expansion.mx/empresas/2026/08/08/gwm-cambia-estrategia-lanza-ora-5-gasolina-hibrido-electrico",
@@ -127,24 +145,6 @@
       "resumen": "La pickup más vendida de la marca en el país estrena generación con mejoras en desempeño, seguridad y tecnología, mientras concentra su oferta únicamente en configuraciones de doble cabina.",
       "link": "https://expansion.mx/empresas/2026/08/07/toyota-hilux-2027-doble-cabina",
       "fecha": "07 Aug 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "José Cuervo nació antes que México: así sobrevivió a guerras y crisis hasta convertirse en un gigante mundial",
-      "resumen": "Desde una autorización otorgada por la Corona española hasta cotizar en la Bolsa Mexicana de Valores, José Cuervo ha sobrevivido a los cambios constantes de México.",
-      "link": "https://expansion.mx/empresas/2026/08/07/jose-cuervo-nacio-antes-que-mexico-historia-duenos",
-      "fecha": "07 Aug 2026, 14:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México gana arbitraje contra fondos estadounidenses por deuda de TV Azteca",
-      "resumen": "El tribunal del CIADI concluyó que los fondos Cyrus y Contrarian no estaban protegidos por el T-MEC, por lo que desechó su reclamación de 219 millones de dólares contra México por el impago de bonos d…",
-      "link": "https://expansion.mx/empresas/2026/08/07/mexico-no-tendra-pagar-deuda-tv-azteca",
-      "fecha": "07 Aug 2026, 13:14 hrs"
     },
     {
       "fuente": "Reforma",
