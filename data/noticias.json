@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/08/2026 10:34 hrs",
+  "actualizado": "09/08/2026 11:30 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿En qué aeropuertos opera la aerolínea Mexicana y por qué casi tres años después no llega al AICM?",
+      "resumen": "La empresa que administra el Gobierno federal suma sus destinos hacia distintos estados en esta época vacacional. No opera en todos los aeropuertos del país.",
+      "link": "https://expansion.mx/empresas/2026/08/09/en-que-aeropuertos-opera-la-aerolinea-mexicana-y-por-que-casi-tres-anos-despues-no-llega-al-aicm",
+      "fecha": "09 Aug 2026, 10:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Estado Natural ya tiene 50 tiendas y planea su asalto a otras cadenas con productos empacados",
       "resumen": "Sus fundadores, Arturo Goldberg y Stephanie Katz, ignoraron las críticas de ser un mercado para millennials y hoy ya hacen pruebas con grandes autoservicios para introducir su marca.",
       "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
@@ -136,15 +145,6 @@
       "resumen": "Mientras otros supermercados exigen comprobantes y condiciones específicas para aceptar devoluciones, Tiendas 3B y Yema no rechazan los cambios de sus productos.",
       "link": "https://expansion.mx/empresas/2026/08/07/tiendas-3b-yema-aceptan-devoluciones-sin-ticket-estrategia",
       "fecha": "07 Aug 2026, 14:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Toyota rediseña la Hilux y elimina la versión de cabina sencilla en México para enfocarse en la doble cabina",
-      "resumen": "La pickup más vendida de la marca en el país estrena generación con mejoras en desempeño, seguridad y tecnología, mientras concentra su oferta únicamente en configuraciones de doble cabina.",
-      "link": "https://expansion.mx/empresas/2026/08/07/toyota-hilux-2027-doble-cabina",
-      "fecha": "07 Aug 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
