@@ -1,7 +1,25 @@
 {
-  "actualizado": "10/08/2026 12:56 hrs",
+  "actualizado": "10/08/2026 13:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
+      "resumen": "El Ministerio chino de Comercio estableció diferentes gravámenes a este alimento tras una análisis que realizó desde septiembre de 2025.",
+      "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
+      "fecha": "10 Aug 2026, 11:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
+      "resumen": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
+      "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
+      "fecha": "10 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Sin embargo, los precios de los servicios siguen creciendo por arriba de 4% anual y existen riesgos al alza derivados de conflictos geopolíticos y afectaciones climáticas, destacó INEGI.",
       "link": "https://expansion.mx/economia/2026/08/07/la-inflacion-baja-a-3-12-en-julio-su-menor-nivel-en-seis-anos",
       "fecha": "07 Aug 2026, 06:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
-      "resumen": "El Banco de México aplazó hasta finales de 2027 la convergencia de la inflación al 3%, mientras especialistas advierten que el combate a los precios será más lento por presiones estructurales.",
-      "link": "https://expansion.mx/economia/2026/08/07/el-salario-minimo-y-la-jornada-de-40-horas-presionaran-la-inflacion-de-servicios",
-      "fecha": "07 Aug 2026, 05:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
-      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
-      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
-      "fecha": "06 Aug 2026, 18:08 hrs"
     },
     {
       "fuente": "Expansión",
