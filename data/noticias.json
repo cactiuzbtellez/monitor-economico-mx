@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/08/2026 15:40 hrs",
+  "actualizado": "10/08/2026 16:36 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
+      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
+      "fecha": "10 Aug 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
       "resumen": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
       "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
@@ -138,13 +147,13 @@
       "fecha": "09 Aug 2026, 13:11 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuevo Laredo",
-      "resumen": "La licitación contempla el diseño, instalación y mantenimiento de una red 5G especializada que permitirá la comunicación y seguridad entre trenes, vías y centros de control a lo largo de 675 kilómetro…",
-      "link": "https://expansion.mx/empresas/2026/08/09/gobierno-licitara-una-red-5g-para-operar-los-nuevos-trenes-mexico-queretaro-irapuato-y-saltillo-nuevo-laredo",
-      "fecha": "09 Aug 2026, 12:14 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se pierden casi  20 mil empleos en julio",
+      "resumen": "En julio se perdieron 19 mil 550 puestos de trabajo tradicionales, además de crearse 10 mil 273 asociados a plataformas digitales.",
+      "link": "https://www.reforma.com/se-pierden-casi-20-mil-empleos-en-julio/ar3255503",
+      "fecha": "10 Aug 2026, 15:47 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,15 +177,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
-      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
-      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
-      "fecha": "10 Aug 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Recupera SAT 6,436 mdp en adeudos fiscales",
       "resumen": "El SAT recuperó 6 mil 436 millones de pesos con el Programa de Regularización Fiscal 2026; aplica para personas físicas y morales.",
       "link": "https://www.reforma.com/recupera-sat-6-436-mdp-en-adeudos-fiscales/ar3255385",
@@ -186,10 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta precio de vivienda 7.9% en primer semestre del año",
-      "resumen": "En el primer semestre, el precio de la vivienda subió 7.9%, según el Índice Sociedad Hipotecaria Federal (SHF) de Precios de la Vivienda.",
-      "link": "https://www.reforma.com/aumenta-precio-de-vivienda-7-9-en-primer-semestre-del-ano/ar3255416",
-      "fecha": "10 Aug 2026, 14:09 hrs"
+      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
+      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
+      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
+      "fecha": "10 Aug 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscaría Tesoro de EU  frenar alzas en tasas",
+      "resumen": "Estrategas de Wall Street consideran que el Secretario del Tesoro de EU  busca evitar que los rendimientos de los bonos sigan disparándose.",
+      "link": "https://www.reforma.com/buscaria-tesoro-de-eu-frenar-alzas-en-tasas/ar3255540",
+      "fecha": "10 Aug 2026, 16:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Adelantarán apertura de planta de moscas estériles de Texas",
+      "resumen": "Planta de Texas destinada a cría de moscas estériles para combatir el gusano barrenador se inaugurará antes de lo previsto, dijo la USDA.",
+      "link": "https://www.reforma.com/adelantaran-apertura-de-planta-de-moscas-esteriles-de-texas/ar3255504",
+      "fecha": "10 Aug 2026, 15:47 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Tras investigación, China decretó que nueces pecanas de EU paguen tarifa de 54.3%, mientras que para México las tasas son de 17.8% a 51.6%.",
       "link": "https://www.reforma.com/impone-china-aranceles-a-nueces-pecanas-de-eu-y-mexico/ar3255287",
       "fecha": "10 Aug 2026, 08:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aporta turismo deportivo 10% del PIB del sector",
-      "resumen": "El turismo deportivo representa 10% del PIB turístico nacional; su crecimiento anual es superior al 25%, según Sectur.",
-      "link": "https://www.reforma.com/aporta-turismo-deportivo-10-del-pib-del-sector/ar3255427",
-      "fecha": "10 Aug 2026, 14:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Generan aranceles nuevo  auge exportador en México",
-      "resumen": "México vive un nuevo auge de las exportaciones, el cual se produce en un contexto de creciente proteccionismo a nivel mundial.",
-      "link": "https://www.reforma.com/generan-aranceles-nuevo-auge-exportador-en-mexico/ar3255334",
-      "fecha": "10 Aug 2026, 10:32 hrs"
     }
   ]
 }
