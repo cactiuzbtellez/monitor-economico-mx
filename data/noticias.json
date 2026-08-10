@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/08/2026 07:06 hrs",
+  "actualizado": "10/08/2026 08:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alegan omisión en panel laboral contra Pirelli",
-      "resumen": "El panel se presentó el 18 de diciembre de 2024.",
-      "link": "https://www.reforma.com/alegan-omision-en-panel-laboral-contra-pirelli/ar3255152",
+      "titulo": "Disparan fintechs tarjetas de crédito",
+      "resumen": "El número de tarjetas de crédito en México se ha disparado. Del tercer trimestre del 2023 al primero del 2026 aumentó 54%.",
+      "link": "https://www.reforma.com/disparan-fintechs-tarjetas-de-credito/ar3255124",
       "fecha": "10 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impone China aranceles a las nueces pecanas de EU y México",
+      "resumen": "Tras investigación, China decretó que nueces pecanas de EU paguen tarifa de 54.3%, mientras que para México las tasas son de 17.8% a 51.6%.",
+      "link": "https://www.reforma.com/impone-china-aranceles-a-las-nueces-pecanas-de-eu-y-mexico/ar3255287",
+      "fecha": "10 Aug 2026, 08:54 hrs"
     },
     {
       "fuente": "Reforma",
@@ -162,6 +171,15 @@
       "titulo": "Emplean a 7.6 millones en informalidad laboral",
       "resumen": "En México 7.6 millones de personas trabajan como informales en empresas formales y por tanto carecen de prestaciones de ley.",
       "link": "https://www.reforma.com/emplean-a-7-6-millones-en-informalidad-laboral/ar3255138",
+      "fecha": "10 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frenarían 15 años a campo Lakach por su alto costo",
+      "resumen": "El yacimiento de gas en aguas profundas que recién abandonó Grupo Carso quedará en pausa al menos 15 años por su alto costo de producción.",
+      "link": "https://www.reforma.com/frenarian-15-anos-a-campo-lakach-por-su-alto-costo/ar3255112",
       "fecha": "10 Aug 2026, 05:01 hrs"
     },
     {
@@ -177,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disparan fintechs tarjetas de crédito",
-      "resumen": "El número de tarjetas de crédito en México se ha disparado. Del tercer trimestre del 2023 al primero del 2026 aumentó 54%.",
-      "link": "https://www.reforma.com/disparan-fintechs-tarjetas-de-credito/ar3255124",
-      "fecha": "10 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se fortalece depuración del mercado de telefonía",
-      "resumen": "Señalan como causa\nlimpieza de líneas\ninactivas, sobre todo\nen sector prepago",
-      "link": "https://www.reforma.com/se-fortalece-depuracion-del-mercado-de-telefonia/ar3255122",
-      "fecha": "10 Aug 2026, 05:01 hrs"
+      "titulo": "Muere 'padre' de Farmacias del Ahorro",
+      "resumen": "Este domingo se dio a conocer el fallecimiento de Maximiliano Leonardo Asturias, cofundador de Farmacias del Ahorro.",
+      "link": "https://www.reforma.com/muere-padre-de-farmacias-del-ahorro/ar3255131",
+      "fecha": "09 Aug 2026, 21:13 hrs"
     },
     {
       "fuente": "Reforma",
@@ -198,15 +207,6 @@
       "titulo": "Alertan a empresas sobre salud laboral",
       "resumen": "Ante los niveles altos de sobrepeso y estrés laboral, un análisis de la firma Prodensa advirtió que una salud física y mental .",
       "link": "https://www.reforma.com/alertan-a-empresas-sobre-salud-laboral/ar3255121",
-      "fecha": "10 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frenarían 15 años a campo Lakach por su alto costo",
-      "resumen": "El yacimiento de gas en aguas profundas que recién abandonó Grupo Carso quedará en pausa al menos 15 años por su alto costo de producción.",
-      "link": "https://www.reforma.com/frenarian-15-anos-a-campo-lakach-por-su-alto-costo/ar3255112",
       "fecha": "10 Aug 2026, 05:01 hrs"
     },
     {
