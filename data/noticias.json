@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/08/2026 19:45 hrs",
+  "actualizado": "09/08/2026 21:54 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Insisten en vender a EU",
+      "resumen": "México se ubicó como el principal proveedor\nautomotriz para el país del norte, mostrando\nuna participación de 40.4% del total importado.",
+      "link": "https://www.reforma.com/insisten-en-vender-a-eu/ar3255137",
+      "fecha": "09 Aug 2026, 21:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Muere 'padre' de Farmacias del Ahorro",
+      "resumen": "La confirmación de la noticia trascendió a través de mensajes de condolencia",
+      "link": "https://www.reforma.com/muere-padre-de-farmacias-del-ahorro/ar3255131",
+      "fecha": "09 Aug 2026, 21:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Murió Maximiliano Leonardo, fundador de Farmacias del Ahorro",
+      "resumen": "Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro, falleció y deja un legado de 5 décadas en el sector farmacéutico.",
+      "link": "https://www.reforma.com/murio-maximiliano-leonardo-fundador-de-farmacias-del-ahorro/ar3254924",
+      "fecha": "09 Aug 2026, 11:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "¿Olvidaste algo en el Uber?",
       "resumen": "CDMX, Guadalajara y Monterrey ocuparon el ranking a nivel nacional de objetos olvidados en Uber, donde dejaron desde teléfonos hasta pulpos.",
       "link": "https://www.reforma.com/olvidaste-algo-en-el-uber/ar3254405",
@@ -168,6 +195,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Acuerda APEAM con EU liberar 1,000 toneladas de aguacate",
+      "resumen": "Aguacateros mexicanos acordaron con autoridades de Estados Unidos liberar más de mil toneladas de aguacate, reveló la APEAM.",
+      "link": "https://www.reforma.com/acuerda-apeam-con-eu-liberar-1-000-toneladas-de-aguacate/ar3254424",
+      "fecha": "07 Aug 2026, 19:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierra dólar su peor semana en seis meses",
       "resumen": "Dólar cerró este viernes en el nivel de $17.34, lo que representó una depreciación acumulada de 1.2%, tocando su peor nivel en seis meses.",
       "link": "https://www.reforma.com/cierra-dolar-su-peor-semana-en-seis-meses/ar3254380",
@@ -181,42 +217,6 @@
       "resumen": "La Presidenta Sheinbaum ha dejado atrás su actitud serena ante los ataques de Trump a su partido político, señaló The Economist.",
       "link": "https://www.reforma.com/senala-the-economist-giro-de-sheinbaum-hacia-trump/ar3254328",
       "fecha": "07 Aug 2026, 15:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anuncia Volaris ocho nuevas rutas",
-      "resumen": "Volaris anunció el lanzamiento de ocho nuevas rutas a partir del 1 de diciembre hacia Estados Unidos, México, Centro y Sudamérica.",
-      "link": "https://www.reforma.com/anuncia-volaris-ocho-nuevas-rutas/ar3254320",
-      "fecha": "07 Aug 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ajustan horarios de Tren México-Toluca por tiempo indefinido",
-      "resumen": "A partir del próximo 10 de agosto, el Tren Interurbano México-Toluca ajustará temporalmente sus horarios de servicio por mantenimiento.",
-      "link": "https://www.reforma.com/ajustan-horarios-de-tren-mexico-toluca-por-tiempo-indefinido/ar3254312",
-      "fecha": "07 Aug 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Regulan fondos ASG; invertirán 80% en activos sostenibles",
-      "resumen": "Gobierno federal modificó la normativa aplicable a fondos de inversión para que inviertan el 80% de sus activos en objetivos ambientales.",
-      "link": "https://www.reforma.com/regulan-fondos-asg-invertiran-80-en-activos-sostenibles/ar3254307",
-      "fecha": "07 Aug 2026, 15:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran mercados de EU la semana con ganancias",
-      "resumen": "El índice amplio S&amp;P 500 subió 0.62% y alcanzó un nuevo récord al cierre, de 7 mil 757.62 puntos; el Dow Jones ganó 0.28% y el Nasdaq 1.30%.",
-      "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3254286",
-      "fecha": "07 Aug 2026, 14:44 hrs"
     }
   ]
 }
