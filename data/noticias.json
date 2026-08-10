@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/08/2026 14:41 hrs",
+  "actualizado": "10/08/2026 15:40 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
-      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
-      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
-      "fecha": "10 Aug 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
       "resumen": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
       "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
@@ -147,12 +138,39 @@
       "fecha": "09 Aug 2026, 13:11 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuevo Laredo",
+      "resumen": "La licitación contempla el diseño, instalación y mantenimiento de una red 5G especializada que permitirá la comunicación y seguridad entre trenes, vías y centros de control a lo largo de 675 kilómetro…",
+      "link": "https://expansion.mx/empresas/2026/08/09/gobierno-licitara-una-red-5g-para-operar-los-nuevos-trenes-mexico-queretaro-irapuato-y-saltillo-nuevo-laredo",
+      "fecha": "09 Aug 2026, 12:14 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Endurece Hacienda controles antilavado",
       "resumen": "SHCP publicó nuevas reglas contra el lavado de dinero con las que se deberán aplicar medidas acordes con el nivel de riesgo de cada cliente.",
       "link": "https://www.reforma.com/endurece-hacienda-controles-antilavado/ar3255386",
+      "fecha": "10 Aug 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se requiere más esfuerzo en sostenibilidad fiscal.-  Moody's",
+      "resumen": "Se requiere redoblar los esfuerzos para lograr la sostenibilidad fiscal, al tiempo que se reduce la carga de la deuda, dijo analista.",
+      "link": "https://www.reforma.com/se-requiere-mas-esfuerzo-en-sostenibilidad-fiscal-moody-s/ar3255460",
+      "fecha": "10 Aug 2026, 15:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
+      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
+      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
       "fecha": "10 Aug 2026, 12:40 hrs"
     },
     {
@@ -168,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
-      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
-      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
-      "fecha": "10 Aug 2026, 12:40 hrs"
+      "titulo": "Aumenta precio de vivienda 7.9% en primer semestre del año",
+      "resumen": "En el primer semestre, el precio de la vivienda subió 7.9%, según el Índice Sociedad Hipotecaria Federal (SHF) de Precios de la Vivienda.",
+      "link": "https://www.reforma.com/aumenta-precio-de-vivienda-7-9-en-primer-semestre-del-ano/ar3255416",
+      "fecha": "10 Aug 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Aporta turismo deportivo 10% del PIB del sector",
+      "resumen": "El turismo deportivo representa 10% del PIB turístico nacional; su crecimiento anual es superior al 25%, según Sectur.",
+      "link": "https://www.reforma.com/aporta-turismo-deportivo-10-del-pib-del-sector/ar3255427",
+      "fecha": "10 Aug 2026, 14:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Generan aranceles nuevo  auge exportador en México",
       "resumen": "México vive un nuevo auge de las exportaciones, el cual se produce en un contexto de creciente proteccionismo a nivel mundial.",
       "link": "https://www.reforma.com/generan-aranceles-nuevo-auge-exportador-en-mexico/ar3255334",
       "fecha": "10 Aug 2026, 10:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo 5% ante incertidumbre por acuerdo EU-Irán",
-      "resumen": "Tras intercambio de demandas de compensación entre EU e Irán, el Brent subió 4.98% a 87.70 dólares, y el WTI avanzó 5.05% a 82.13 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-5-ante-incertidumbre-por-acuerdo-eu-iran/ar3255381",
-      "fecha": "10 Aug 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Genera turismo deportivo 10% del PIB del sector",
-      "resumen": "El turismo deportivo representa 10% del PIB turístico nacional; su crecimiento anual es superior al 25%, según Sectur.",
-      "link": "https://www.reforma.com/genera-turismo-deportivo-10-del-pib-del-sector/ar3255427",
-      "fecha": "10 Aug 2026, 14:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta precio de vivienda 7.9  en primer semestre del año",
-      "resumen": "En el primer semestre, el precio de la vivienda subió 7.9%, según el Índice Sociedad Hipotecaria Federal (SHF) de Precios de la Vivienda.",
-      "link": "https://www.reforma.com/aumenta-precio-de-vivienda-7-9-en-primer-semestre-del-ano/ar3255416",
-      "fecha": "10 Aug 2026, 14:09 hrs"
     }
   ]
 }
