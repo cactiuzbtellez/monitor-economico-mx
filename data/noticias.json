@@ -1,16 +1,7 @@
 {
-  "actualizado": "10/08/2026 11:50 hrs",
+  "actualizado": "10/08/2026 12:56 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
-      "resumen": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
-      "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
-      "fecha": "10 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,33 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
+      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
+      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
+      "fecha": "06 Aug 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
+      "resumen": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
+      "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
+      "fecha": "10 Aug 2026, 11:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
+      "resumen": "La industria de electrodomésticos enfrenta el reto de modernizar sus procesos de manufactura ante el avance de la inteligencia artificial y los dispositivos conectados en los hogares.",
+      "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
+      "fecha": "10 Aug 2026, 11:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
@@ -129,39 +147,39 @@
       "fecha": "09 Aug 2026, 12:14 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿En qué aeropuertos opera la aerolínea Mexicana y por qué casi tres años después no llega al AICM?",
-      "resumen": "La empresa que administra el Gobierno federal suma sus destinos hacia distintos estados en esta época vacacional. No opera en todos los aeropuertos del país.",
-      "link": "https://expansion.mx/empresas/2026/08/09/en-que-aeropuertos-opera-la-aerolinea-mexicana-y-por-que-casi-tres-anos-despues-no-llega-al-aicm",
-      "fecha": "09 Aug 2026, 10:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Estado Natural ya tiene 50 tiendas y planea su asalto a otras cadenas con productos empacados",
-      "resumen": "Sus fundadores, Arturo Goldberg y Stephanie Katz, ignoraron las críticas de ser un mercado para millennials y hoy ya hacen pruebas con grandes autoservicios para introducir su marca.",
-      "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
-      "fecha": "09 Aug 2026, 06:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Endurece Hacienda controles antilavado",
+      "resumen": "SHCP publicó nuevas reglas contra el lavado de dinero con las que se deberán aplicar medidas acordes con el nivel de riesgo de cada cliente.",
+      "link": "https://www.reforma.com/endurece-hacienda-controles-antilavado/ar3255386",
+      "fecha": "10 Aug 2026, 12:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disparan fintechs tarjetas de crédito",
-      "resumen": "El número de tarjetas de crédito en México se ha disparado. Del tercer trimestre del 2023 al primero del 2026 aumentó 54%.",
-      "link": "https://www.reforma.com/disparan-fintechs-tarjetas-de-credito/ar3255124",
-      "fecha": "10 Aug 2026, 05:01 hrs"
+      "titulo": "Recupera SAT 6,436 mdp en adeudos fiscales",
+      "resumen": "El SAT recuperó 6 mil 436 millones de pesos con el Programa de Regularización Fiscal 2026; aplica para personas físicas y morales.",
+      "link": "https://www.reforma.com/recupera-sat-6-436-mdp-en-adeudos-fiscales/ar3255385",
+      "fecha": "10 Aug 2026, 12:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impone China aranceles a las nueces pecanas de EU y México",
+      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
+      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
+      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
+      "fecha": "10 Aug 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impone China aranceles  a nueces pecanas de EU y México",
       "resumen": "Tras investigación, China decretó que nueces pecanas de EU paguen tarifa de 54.3%, mientras que para México las tasas son de 17.8% a 51.6%.",
-      "link": "https://www.reforma.com/impone-china-aranceles-a-las-nueces-pecanas-de-eu-y-mexico/ar3255287",
+      "link": "https://www.reforma.com/impone-china-aranceles-a-nueces-pecanas-de-eu-y-mexico/ar3255287",
       "fecha": "10 Aug 2026, 08:54 hrs"
     },
     {
@@ -177,28 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenarían 15 años a campo Lakach por su alto costo",
-      "resumen": "El yacimiento de gas en aguas profundas que recién abandonó Grupo Carso quedará en pausa al menos 15 años por su alto costo de producción.",
-      "link": "https://www.reforma.com/frenarian-15-anos-a-campo-lakach-por-su-alto-costo/ar3255112",
-      "fecha": "10 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Emplean a 7.6 millones en informalidad laboral",
-      "resumen": "En México 7.6 millones de personas trabajan como informales en empresas formales y por tanto carecen de prestaciones de ley.",
-      "link": "https://www.reforma.com/emplean-a-7-6-millones-en-informalidad-laboral/ar3255138",
-      "fecha": "10 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Muere 'padre' de Farmacias del Ahorro",
-      "resumen": "Este domingo se dio a conocer el fallecimiento de Maximiliano Leonardo Asturias, cofundador de Farmacias del Ahorro.",
-      "link": "https://www.reforma.com/muere-padre-de-farmacias-del-ahorro/ar3255131",
-      "fecha": "09 Aug 2026, 21:13 hrs"
+      "titulo": "Sube crudo 5% ante incertidumbre por acuerdo EU-Irán",
+      "resumen": "Tras intercambio de demandas de compensación entre EU e Irán, el Brent subió 4.98% a 87.70 dólares, y el WTI avanzó 5.05% a 82.13 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-5-ante-incertidumbre-por-acuerdo-eu-iran/ar3255381",
+      "fecha": "10 Aug 2026, 12:40 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dependen obras de insumos 'fiados'",
-      "resumen": "Las constructoras recurren a esquemas informales de financiamiento por no son candidatas a un crédito bancario tradicional.",
-      "link": "https://www.reforma.com/dependen-obras-de-insumos-fiados/ar3255115",
-      "fecha": "10 Aug 2026, 05:01 hrs"
+      "titulo": "Muere 'padre' de Farmacias del Ahorro",
+      "resumen": "Este domingo se dio a conocer el fallecimiento de Maximiliano Leonardo Asturias, cofundador de Farmacias del Ahorro.",
+      "link": "https://www.reforma.com/muere-padre-de-farmacias-del-ahorro/ar3255131",
+      "fecha": "09 Aug 2026, 21:13 hrs"
     }
   ]
 }
