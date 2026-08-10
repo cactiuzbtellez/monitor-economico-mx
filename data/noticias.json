@@ -1,7 +1,16 @@
 {
-  "actualizado": "10/08/2026 08:57 hrs",
+  "actualizado": "10/08/2026 10:03 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
+      "resumen": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
+      "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
+      "fecha": "10 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Greer recibe respaldo del Congreso de EU para prolongar la revisión del T-MEC",
-      "resumen": "El Congreso quiere extender el tratado con México y Canadá, pero apoya que se negocie sin la presión de una fecha límite hasta alcanzar resultados.",
-      "link": "https://expansion.mx/economia/2026/08/06/congreso-eu-condiciona-extension-tmec-resultados",
-      "fecha": "06 Aug 2026, 18:08 hrs"
+      "titulo": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
+      "resumen": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
+      "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
+      "fecha": "10 Aug 2026, 09:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
+      "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "fecha": "10 Aug 2026, 09:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
+      "resumen": "El registro obligatorio provocó la eliminación de millones de líneas, aunque los ingresos de las empresas crecieron 5.3% gracias al mayor consumo de datos y a planes de mayor valor.",
+      "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
+      "fecha": "10 Aug 2026, 08:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
+      "resumen": "Las pérdidas de Pemex por sustracción de combustibles pasaron de 3,812 millones a 9,180 millones de pesos entre el primero y segundo trimestres, mientras las tomas clandestinas en ductos aumentaron 8.…",
+      "link": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
+      "fecha": "10 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "Sus fundadores, Arturo Goldberg y Stephanie Katz, ignoraron las críticas de ser un mercado para millennials y hoy ya hacen pruebas con grandes autoservicios para introducir su marca.",
       "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
       "fecha": "09 Aug 2026, 06:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Starlink a Amazon Leo, los nuevos dueños del imperio móvil",
-      "resumen": "La industria de las telecomunicaciones enfrenta la irrupción de nuevos jugadores con el servicio D2D, que promete eliminar zonas sin señal mientras redefine el acceso al espectro y la conectividad.",
-      "link": "https://expansion.mx/empresas/2026/08/09/starlink-amazon-leo-nuevos-dueno-imperio-telefonia-movil",
-      "fecha": "09 Aug 2026, 06:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La ruta de Alstom para construir trenes en Hidalgo",
-      "resumen": "La principal planta de Alstom se prepara no solo para dar continuidad a los proyectos que ha entregado, sino para la producción de 47 nuevos trenes que representan más de 20,200 mdp.",
-      "link": "https://expansion.mx/empresas/2026/08/09/alstom-construir-trenes-hidalgo",
-      "fecha": "09 Aug 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "GWM cambia la estrategia de Ora en México y lanza el ORA 5 con gasolina, híbrido y eléctrico",
-      "resumen": "El fabricante chino busca ampliar el mercado de Ora en México con un SUV-B que ofrece tres alternativas de propulsión y precios desde 449,900 pesos.",
-      "link": "https://expansion.mx/empresas/2026/08/08/gwm-cambia-estrategia-lanza-ora-5-gasolina-hibrido-electrico",
-      "fecha": "08 Aug 2026, 10:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Infiniti sustituye a la QX50 como vehículo de entrada con una nueva QX65 de carrocería fastback",
-      "resumen": "La nueva SUV fastback llega a México en una única versión Autograph AWD, con un precio de 1,449,900 pesos y toma el lugar de la QX50 como modelo de entrada de Infiniti.",
-      "link": "https://expansion.mx/empresas/2026/08/07/infiniti-qx65-precio-mexico",
-      "fecha": "07 Aug 2026, 19:32 hrs"
     },
     {
       "fuente": "Reforma",
