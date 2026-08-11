@@ -1,25 +1,7 @@
 {
-  "actualizado": "11/08/2026 14:42 hrs",
+  "actualizado": "11/08/2026 15:45 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
-      "resumen": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
-      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
-      "fecha": "10 Aug 2026, 22:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
-      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
-      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
-      "fecha": "10 Aug 2026, 20:28 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "11 Aug 2026, 12:23 hrs"
+      "titulo": "Hacienda reduce los subsidios para Magna, Premium y diésel",
+      "resumen": "El diésel continúa con el mayor descuento a la cuota del impuesto IEPS, que se le cobra por litro en estaciones de servicio.",
+      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
+      "fecha": "07 Aug 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
+      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
+      "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
+      "fecha": "07 Aug 2026, 14:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +136,15 @@
       "resumen": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
       "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
       "fecha": "10 Aug 2026, 09:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
+      "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "fecha": "10 Aug 2026, 09:10 hrs"
     },
     {
       "fuente": "Reforma",
