@@ -1,7 +1,34 @@
 {
-  "actualizado": "11/08/2026 01:06 hrs",
+  "actualizado": "11/08/2026 02:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "fecha": "10 Aug 2026, 20:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SAT espera más recaudación por auditorías; pone la mira en la regularización de 2027",
+      "resumen": "El SAT abre la puerta a mantener el próximo año el programa que reduce hasta 100% multas y recargos a contribuyentes.",
+      "link": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
+      "fecha": "10 Aug 2026, 16:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump disparó la conversación sobre aranceles entre las empresas de EU",
+      "resumen": "Un análisis del Peterson Institute for International Economics revisó 920 llamadas de resultados de 150 compañías para medir el peso que adquirieron los aranceles entre las empresas.",
+      "link": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
+      "fecha": "10 Aug 2026, 16:19 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
-      "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
-      "fecha": "07 Aug 2026, 14:25 hrs"
+      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
+      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
+      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
+      "fecha": "10 Aug 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banxico revela los billetes y las monedas más falsificados en México; el de 500 pesos lidera la lista",
-      "resumen": "Los falsificadores tienen denominaciones favoritas: los registros de Banxico muestran cuáles acumulan más piezas falsas y qué tan lejos llega el problema en monedas metálicas.",
-      "link": "https://expansion.mx/economia/2026/08/07/billetes-monedas-mas-falsificados-mexico-banxico",
-      "fecha": "07 Aug 2026, 10:55 hrs"
+      "titulo": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
+      "resumen": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
+      "link": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
+      "fecha": "10 Aug 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Jóvenes acumulan hasta cinco tarjetas de crédito y bancos reducen colocación",
-      "resumen": "Mientras los bancos digitales aumentan su cartera de crédito en tarjetas, la mayor competencia en el mercado provoca que los bancos tradicionales tomen cautela y cambien de estrategia.",
-      "link": "https://expansion.mx/economia/2026/08/07/jovenes-acumulan-hasta-cinco-tarjetas-de-credito-y-bancos-reducen-colocacion",
-      "fecha": "07 Aug 2026, 10:00 hrs"
+      "titulo": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
+      "resumen": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
+      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
+      "fecha": "10 Aug 2026, 15:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
       "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
       "fecha": "10 Aug 2026, 09:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
-      "resumen": "El registro obligatorio provocó la eliminación de millones de líneas, aunque los ingresos de las empresas crecieron 5.3% gracias al mayor consumo de datos y a planes de mayor valor.",
-      "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
-      "fecha": "10 Aug 2026, 08:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
-      "resumen": "Las pérdidas de Pemex por sustracción de combustibles pasaron de 3,812 millones a 9,180 millones de pesos entre el primero y segundo trimestres, mientras las tomas clandestinas en ductos aumentaron 8.…",
-      "link": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
-      "fecha": "10 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fallece Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro",
-      "resumen": "El empresario construyó junto con su hijo una de las principales cadenas farmacéuticas del país, con más de 30 años de trayectoria y presencia en todo México.",
-      "link": "https://expansion.mx/empresas/2026/08/09/fallece-maximiliano-leonardo-asturias-cofundador-de-farmacias-del-ahorro",
-      "fecha": "09 Aug 2026, 13:11 hrs"
     },
     {
       "fuente": "Reforma",
