@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/08/2026 11:55 hrs",
+  "actualizado": "11/08/2026 13:02 hrs",
   "total": 24,
   "noticias": [
     {
@@ -8,7 +8,7 @@
       "color": "#C8102E",
       "titulo": "Multiva busca financiar proyectos por 250,000 mdp en infraestructura y energía",
       "resumen": "La emisión AT1 de 300 mdd dará a Multiva mayor capacidad para financiar operaciones grandes, mientras el negocio fiduciario gana peso como fuente de ingresos y fondeo.",
-      "link": "https://expansion.mx/economia/2026/08/11/multiva-proyectos-250000-mdp-infraestructura-energia",
+      "link": "https://expansion.mx/economia/2026/08/11/tamara-caballero-directora-general-banco-multiva-financiar-proyectos",
       "fecha": "11 Aug 2026, 05:55 hrs"
     },
     {
@@ -150,37 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Crearán padrón de autoconsumo  de combustibles",
+      "resumen": "El Gobierno federal registrará empresas con instalaciones de despacho para autoconsumo de diesel, gasolina y gas LP que no tienen permiso.",
+      "link": "https://www.reforma.com/crearan-padron-de-autoconsumo-de-combustibles/ar3255979",
+      "fecha": "11 Aug 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crece producción industrial solo 0.08% en semestre",
+      "resumen": "En el periodo de enero a junio, a nivel nacional, el sector industrial presentó una variación positiva de apenas 0.08% anual.",
+      "link": "https://www.reforma.com/crece-produccion-industrial-solo-0-08-en-semestre/ar3255931",
+      "fecha": "11 Aug 2026, 11:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Pone lupa EU en México a autoridad aeronáutica",
       "resumen": "Auditores de la FAA iniciaron revisión a la Agencia Federal de Aviación Civil sobre el cumplimiento de normas internacionales de seguridad.",
       "link": "https://www.reforma.com/pone-lupa-eu-en-mexico-a-autoridad-aeronautica/ar3255719",
       "fecha": "11 Aug 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufren gaseras por conflicto y precios",
-      "resumen": "Conflicto en Medio Oriente y el tope al precio del gas LP redujeron los márgenes de ganancia de las comercializadoras del hidrocarburo",
-      "link": "https://www.reforma.com/sufren-gaseras-por-conflicto-y-precios/ar3255675",
-      "fecha": "11 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierden restaurantes 11 mdp por apagones el fin de semana",
-      "resumen": "Unos $10.5 millones es lo que pierden 150 restaurantes en Centro de Monterrey tras apagones por hasta 21 horas el sábado, según la Canirac.",
-      "link": "https://www.reforma.com/pierden-restaurantes-11-mdp-por-apagones-el-fin-de-semana/ar3255747",
-      "fecha": "11 Aug 2026, 07:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca acerera de SLP captar mercado de NL",
-      "resumen": "Grupo Acerero (GASA) arranca operaciones de una nueva acería en SLP, con la que planea proveer al mercado de manufactura en NL.",
-      "link": "https://www.reforma.com/busca-acerera-de-slp-captar-mercado-de-nl/ar3255715",
-      "fecha": "11 Aug 2026, 07:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,19 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 1.5% empleo en NL",
-      "resumen": "Al cierre de julio, NL registró un millón 975,321 puestos formales (incluyendo plataformas), 1.5% más respecto al iggual mes de 2025.",
-      "link": "https://www.reforma.com/aumenta-1-5-empleo-en-nl/ar3255717",
+      "titulo": "Pierden restaurantes 11 mdp por apagones el fin de semana",
+      "resumen": "Unos $10.5 millones es lo que pierden 150 restaurantes en Centro de Monterrey tras apagones por hasta 21 horas el sábado, según la Canirac.",
+      "link": "https://www.reforma.com/pierden-restaurantes-11-mdp-por-apagones-el-fin-de-semana/ar3255747",
       "fecha": "11 Aug 2026, 07:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo más de 2%  y Brent roza los 90 dólares",
-      "resumen": "El precio del barril de Brent avanzaba un 2.55% hasta los 89.96 dólares, mientras el West Texas Intermediate subía un 2.91% a 84.52 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-mas-de-2-y-brent-roza-los-90-dolares/ar3255797",
-      "fecha": "11 Aug 2026, 07:11 hrs"
+      "titulo": "Cierra crudo con alza de más de 1%",
+      "resumen": "Los futuros del West Texas Intermediate (WTI) subieron 1.3%, hasta los 83.20 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-con-alza-de-mas-de-1/ar3255972",
+      "fecha": "11 Aug 2026, 12:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Identificó Chipotle los jalapeños contaminados antes que FDA",
+      "resumen": "Chipotle logró identificar primero que los jalapeños estaban contaminados, días antes que autoridades anunciaran retiros a nivel nacional.",
+      "link": "https://www.reforma.com/identifico-chipotle-los-jalapenos-contaminados-antes-que-fda/ar3255953",
+      "fecha": "11 Aug 2026, 12:19 hrs"
     },
     {
       "fuente": "Reforma",
