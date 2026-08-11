@@ -1,7 +1,52 @@
 {
-  "actualizado": "10/08/2026 17:34 hrs",
+  "actualizado": "10/08/2026 19:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SAT espera más recaudación por auditorías; pone la mira en la regularización de 2027",
+      "resumen": "El SAT abre la puerta a mantener el próximo año el programa que reduce hasta 100% multas y recargos a contribuyentes.",
+      "link": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
+      "fecha": "10 Aug 2026, 16:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump disparó la conversación sobre aranceles entre las empresas de EU",
+      "resumen": "Un análisis del Peterson Institute for International Economics revisó 920 llamadas de resultados de 150 compañías para medir el peso que adquirieron los aranceles entre las empresas.",
+      "link": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
+      "fecha": "10 Aug 2026, 16:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda publica nuevas reglas para la prevención de lavado de dinero, ¿a quiénes aplican?",
+      "resumen": "Quienes realizan actividades vulnerables deberán identificar, evaluar, clasificar y documentar riesgos asociados con clientes o usuarios, mediante metodologías que fortalezcan la gestión de riesgos.",
+      "link": "https://expansion.mx/economia/2026/08/10/hacienda-nuevas-reglas-prevencion-lavado-dinero",
+      "fecha": "10 Aug 2026, 13:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
+      "resumen": "La Secretaría de Economía advierte que las cifras directas no muestran todo el riesgo, porque solo tiene identificados 21.9 millones de dólares exportados desde México a China.",
+      "link": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
+      "fecha": "10 Aug 2026, 12:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
+      "resumen": "El Ministerio chino de Comercio estableció diferentes gravámenes a este alimento tras una análisis que realizó desde septiembre de 2025.",
+      "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
+      "fecha": "10 Aug 2026, 11:45 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,174 +76,138 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banxico revela los billetes y las monedas más falsificados en México; el de 500 pesos lidera la lista",
-      "resumen": "Los falsificadores tienen denominaciones favoritas: los registros de Banxico muestran cuáles acumulan más piezas falsas y qué tan lejos llega el problema en monedas metálicas.",
-      "link": "https://expansion.mx/economia/2026/08/07/billetes-monedas-mas-falsificados-mexico-banxico",
-      "fecha": "07 Aug 2026, 10:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Jóvenes acumulan hasta cinco tarjetas de crédito y bancos reducen colocación",
-      "resumen": "Mientras los bancos digitales aumentan su cartera de crédito en tarjetas, la mayor competencia en el mercado provoca que los bancos tradicionales tomen cautela y cambien de estrategia.",
-      "link": "https://expansion.mx/economia/2026/08/07/jovenes-acumulan-hasta-cinco-tarjetas-de-credito-y-bancos-reducen-colocacion",
-      "fecha": "07 Aug 2026, 10:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Creer que la clase media depende sólo del salario es un error: los factores que realmente la determinan",
-      "resumen": "Ganar cierta cantidad de dinero no siempre significa vivir bajo las mismas condiciones. La forma en que un hogar está equipado también cambia su posición económica.",
-      "link": "https://expansion.mx/economia/2026/08/07/salario-no-basta-para-ser-clase-media-mexico",
-      "fecha": "07 Aug 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inflación baja a 3.12% en julio, su menor nivel en seis años",
-      "resumen": "Sin embargo, los precios de los servicios siguen creciendo por arriba de 4% anual y existen riesgos al alza derivados de conflictos geopolíticos y afectaciones climáticas, destacó INEGI.",
-      "link": "https://expansion.mx/economia/2026/08/07/la-inflacion-baja-a-3-12-en-julio-su-menor-nivel-en-seis-anos",
-      "fecha": "07 Aug 2026, 06:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El salario mínimo y la jornada de 40 horas presionarán la inflación de servicios",
-      "resumen": "El Banco de México aplazó hasta finales de 2027 la convergencia de la inflación al 3%, mientras especialistas advierten que el combate a los precios será más lento por presiones estructurales.",
-      "link": "https://expansion.mx/economia/2026/08/07/el-salario-minimo-y-la-jornada-de-40-horas-presionaran-la-inflacion-de-servicios",
-      "fecha": "07 Aug 2026, 05:50 hrs"
+      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
+      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
+      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
+      "fecha": "10 Aug 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Caen 1.7 millones de líneas celulares por el registro obligatorio",
-      "resumen": "El registro obligatorio provocó la eliminación de millones de líneas, aunque los ingresos de las empresas crecieron 5.3% gracias al mayor consumo de datos y a planes de mayor valor.",
-      "link": "https://expansion.mx/empresas/2026/08/10/caen-millones-de-lineas-telefonicas-registro-obligatorio",
-      "fecha": "10 Aug 2026, 08:43 hrs"
+      "titulo": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
+      "resumen": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
+      "link": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
+      "fecha": "10 Aug 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pemex aumenta 140% sus pérdidas por robo de combustible en tres meses",
-      "resumen": "Las pérdidas de Pemex por sustracción de combustibles pasaron de 3,812 millones a 9,180 millones de pesos entre el primero y segundo trimestres, mientras las tomas clandestinas en ductos aumentaron 8.…",
-      "link": "https://expansion.mx/empresas/2026/08/10/pemex-eleva-perdidas-por-robo-de-combustible-en-tres-meses",
-      "fecha": "10 Aug 2026, 05:55 hrs"
+      "titulo": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
+      "resumen": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
+      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
+      "fecha": "10 Aug 2026, 15:41 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Fallece Maximiliano Leonardo Asturias, fundador de Farmacias del Ahorro",
-      "resumen": "El empresario construyó junto con su hijo una de las principales cadenas farmacéuticas del país, con más de 30 años de trayectoria y presencia en todo México.",
-      "link": "https://expansion.mx/empresas/2026/08/09/fallece-maximiliano-leonardo-asturias-cofundador-de-farmacias-del-ahorro",
-      "fecha": "09 Aug 2026, 13:11 hrs"
+      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
+      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
+      "fecha": "10 Aug 2026, 14:25 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gobierno licitará una red 5G para operar los nuevos trenes México-Querétaro-Irapuato y Saltillo-Nuevo Laredo",
-      "resumen": "La licitación contempla el diseño, instalación y mantenimiento de una red 5G especializada que permitirá la comunicación y seguridad entre trenes, vías y centros de control a lo largo de 675 kilómetro…",
-      "link": "https://expansion.mx/empresas/2026/08/09/gobierno-licitara-una-red-5g-para-operar-los-nuevos-trenes-mexico-queretaro-irapuato-y-saltillo-nuevo-laredo",
-      "fecha": "09 Aug 2026, 12:14 hrs"
+      "titulo": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
+      "resumen": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
+      "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
+      "fecha": "10 Aug 2026, 11:30 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿En qué aeropuertos opera la aerolínea Mexicana y por qué casi tres años después no llega al AICM?",
-      "resumen": "La empresa que administra el Gobierno federal suma sus destinos hacia distintos estados en esta época vacacional. No opera en todos los aeropuertos del país.",
-      "link": "https://expansion.mx/empresas/2026/08/09/en-que-aeropuertos-opera-la-aerolinea-mexicana-y-por-que-casi-tres-anos-despues-no-llega-al-aicm",
-      "fecha": "09 Aug 2026, 10:39 hrs"
+      "titulo": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
+      "resumen": "La industria de electrodomésticos enfrenta el reto de modernizar sus procesos de manufactura ante el avance de la inteligencia artificial y los dispositivos conectados en los hogares.",
+      "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
+      "fecha": "10 Aug 2026, 11:14 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Estado Natural ya tiene 50 tiendas y planea su asalto a otras cadenas con productos empacados",
-      "resumen": "Sus fundadores, Arturo Goldberg y Stephanie Katz, ignoraron las críticas de ser un mercado para millennials y hoy ya hacen pruebas con grandes autoservicios para introducir su marca.",
-      "link": "https://expansion.mx/empresas/2026/08/09/estado-natural-50-tiendas-granel-productos-empacados",
-      "fecha": "09 Aug 2026, 06:09 hrs"
+      "titulo": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
+      "resumen": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
+      "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
+      "fecha": "10 Aug 2026, 09:42 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "De Starlink a Amazon Leo, los nuevos dueños del imperio móvil",
-      "resumen": "La industria de las telecomunicaciones enfrenta la irrupción de nuevos jugadores con el servicio D2D, que promete eliminar zonas sin señal mientras redefine el acceso al espectro y la conectividad.",
-      "link": "https://expansion.mx/empresas/2026/08/09/starlink-amazon-leo-nuevos-dueno-imperio-telefonia-movil",
-      "fecha": "09 Aug 2026, 06:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La ruta de Alstom para construir trenes en Hidalgo",
-      "resumen": "La principal planta de Alstom se prepara no solo para dar continuidad a los proyectos que ha entregado, sino para la producción de 47 nuevos trenes que representan más de 20,200 mdp.",
-      "link": "https://expansion.mx/empresas/2026/08/09/alstom-construir-trenes-hidalgo",
-      "fecha": "09 Aug 2026, 05:00 hrs"
+      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
+      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
+      "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
+      "fecha": "10 Aug 2026, 09:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se pierden casi  20 mil empleos en julio",
-      "resumen": "En julio se perdieron 19 mil 550 puestos de trabajo tradicionales, además de crearse 10 mil 273 asociados a plataformas digitales.",
-      "link": "https://www.reforma.com/se-pierden-casi-20-mil-empleos-en-julio/ar3255503",
-      "fecha": "10 Aug 2026, 15:47 hrs"
+      "titulo": "Aseguran que auditores de FAA iniciaron revisión a AFAC",
+      "resumen": "FAA ha iniciado revisión para evaluar el cumplimiento de las normativas de seguridad operacional por parte de la AFAC, aseguraron fuentes.",
+      "link": "https://www.reforma.com/aseguran-que-auditores-de-faa-iniciaron-revision-a-afac/ar3255634",
+      "fecha": "10 Aug 2026, 18:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Endurece Hacienda controles antilavado",
-      "resumen": "SHCP publicó nuevas reglas contra el lavado de dinero con las que se deberán aplicar medidas acordes con el nivel de riesgo de cada cliente.",
-      "link": "https://www.reforma.com/endurece-hacienda-controles-antilavado/ar3255386",
-      "fecha": "10 Aug 2026, 12:40 hrs"
+      "titulo": "Firma contrato CFE con fondo para comprar energía solar",
+      "resumen": "CFE Calificados firmó un contrato con Copenhagen Infrastructure Partners para adquirir energía de central fotovoltaica 'La Esperanza Solar'.",
+      "link": "https://www.reforma.com/firma-contrato-cfe-con-fondo-para-comprar-energia-solar/ar3255616",
+      "fecha": "10 Aug 2026, 18:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se requiere más esfuerzo en sostenibilidad fiscal.-  Moody's",
-      "resumen": "Se requiere redoblar los esfuerzos para lograr la sostenibilidad fiscal, al tiempo que se reduce la carga de la deuda, dijo analista.",
-      "link": "https://www.reforma.com/se-requiere-mas-esfuerzo-en-sostenibilidad-fiscal-moody-s/ar3255460",
-      "fecha": "10 Aug 2026, 15:00 hrs"
+      "titulo": "Crecen 6.2% suscripciones de streaming",
+      "resumen": "Los clientes de las plataformas de video bajo demanda por suscripción crecieron 6.2 % anual, al cerrar el segundo trimestre, según The CIU.",
+      "link": "https://www.reforma.com/crecen-6-2-suscripciones-de-streaming/ar3255548",
+      "fecha": "10 Aug 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recupera SAT 6,436 mdp en adeudos fiscales",
-      "resumen": "El SAT recuperó 6 mil 436 millones de pesos con el Programa de Regularización Fiscal 2026; aplica para personas físicas y morales.",
-      "link": "https://www.reforma.com/recupera-sat-6-436-mdp-en-adeudos-fiscales/ar3255385",
-      "fecha": "10 Aug 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Instan empresarios de Canadá-EU a mantener T-MEC",
-      "resumen": "El T-MEC fomenta economías más fuertes para EU y Canadá, concluyó el Consejo Empresarial Canadiense-Estadounidense.",
-      "link": "https://www.reforma.com/instan-empresarios-de-canada-eu-a-mantener-t-mec/ar3255378",
-      "fecha": "10 Aug 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscaría Tesoro de EU  frenar alzas en tasas",
-      "resumen": "Estrategas de Wall Street consideran que el Secretario del Tesoro de EU  busca evitar que los rendimientos de los bonos sigan disparándose.",
+      "titulo": "Buscaría Tesoro de EU frenar alzas en tasas",
+      "resumen": "Estrategas de Wall Street consideran que el Secretario del Tesoro de EU busca evitar que los rendimientos de los bonos sigan disparándose.",
       "link": "https://www.reforma.com/buscaria-tesoro-de-eu-frenar-alzas-en-tasas/ar3255540",
       "fecha": "10 Aug 2026, 16:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alerta CNB por empresas de blindaje sin certificación",
+      "resumen": "El Consejo Nacional de la Industria Balística (CNB) advirtió que hasta 60% de empresas del sector podrían operar fuera del marco operativo.",
+      "link": "https://www.reforma.com/alerta-cnb-por-empresas-de-blindaje-sin-certificacion/ar3255527",
+      "fecha": "10 Aug 2026, 18:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube gas natural ante previsiones de más calor en EU",
+      "resumen": "Futuros de gas natural con entrega en septiembre subieron hasta 5.2% por cierre de posiciones cortas ante previsiones de más calor en EU.",
+      "link": "https://www.reforma.com/sube-gas-natural-ante-previsiones-de-mas-calor-en-eu/ar3255520",
+      "fecha": "10 Aug 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se pierden casi 30 mil empleos en julio",
+      "resumen": "En julio se perdieron 29 mil 823 puestos de trabajo tradicionales, además de crearse 10 mil 273 asociados a plataformas digitales.",
+      "link": "https://www.reforma.com/se-pierden-casi-30-mil-empleos-en-julio/ar3255503",
+      "fecha": "10 Aug 2026, 15:47 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "Planta de Texas destinada a cría de moscas estériles para combatir el gusano barrenador se inaugurará antes de lo previsto, dijo la USDA.",
       "link": "https://www.reforma.com/adelantaran-apertura-de-planta-de-moscas-esteriles-de-texas/ar3255504",
       "fecha": "10 Aug 2026, 15:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impone China aranceles  a nueces pecanas de EU y México",
-      "resumen": "Tras investigación, China decretó que nueces pecanas de EU paguen tarifa de 54.3%, mientras que para México las tasas son de 17.8% a 51.6%.",
-      "link": "https://www.reforma.com/impone-china-aranceles-a-nueces-pecanas-de-eu-y-mexico/ar3255287",
-      "fecha": "10 Aug 2026, 08:54 hrs"
     }
   ]
 }
