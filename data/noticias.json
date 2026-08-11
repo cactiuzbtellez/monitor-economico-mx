@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/08/2026 04:58 hrs",
+  "actualizado": "11/08/2026 05:51 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Honra a 'Don Max' sector farmacéutico",
+      "resumen": "Historia de las cadenas farmacéuticas en México no puede entenderse sin Maximiliano Leonardo Asturias, cofundador de Farmacias del Ahorro.",
+      "link": "https://www.reforma.com/honra-a-don-max-sector-farmaceutico/ar3255131",
+      "fecha": "09 Aug 2026, 21:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sufren gaseras por conflicto y precios",
+      "resumen": "Conflicto en Medio Oriente y el tope al precio del gas LP redujeron los márgenes de ganancia de las comercializadoras del hidrocarburo",
+      "link": "https://www.reforma.com/sufren-gaseras-por-conflicto-y-precios/ar3255675",
+      "fecha": "11 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falleció Miguel Mancera Aguayo, ex Gobernador de Banxico",
+      "resumen": "Miguel Mancera Aguayo, economista y primer Gobernador autónomo del Banco de México, falleció este lunes a los 93 años.",
+      "link": "https://www.reforma.com/fallecio-miguel-mancera-aguayo-ex-gobernador-de-banxico/ar3255681",
+      "fecha": "10 Aug 2026, 20:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Toca récord demanda de electricidad en el País.- CFE",
       "resumen": "El 23 de julio, el Sistema Nacional Interconectado (SIN) tuvo una demanda de 54 mil 124 megawatts (MW), cifra superior a 2023 y 2025.",
       "link": "https://www.reforma.com/toca-record-demanda-de-electricidad-en-el-pais-cfe/ar3255666",
@@ -190,33 +217,6 @@
       "resumen": "Estrategas de Wall Street consideran que el Secretario del Tesoro de EU busca evitar que los rendimientos de los bonos sigan disparándose.",
       "link": "https://www.reforma.com/buscaria-tesoro-de-eu-frenar-alzas-en-tasas/ar3255540",
       "fecha": "10 Aug 2026, 16:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alerta CNB por empresas de blindaje sin certificación",
-      "resumen": "El Consejo Nacional de la Industria Balística (CNB) advirtió que hasta 60% de empresas del sector podrían operar fuera del marco operativo.",
-      "link": "https://www.reforma.com/alerta-cnb-por-empresas-de-blindaje-sin-certificacion/ar3255527",
-      "fecha": "10 Aug 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube gas natural ante previsiones de más calor en EU",
-      "resumen": "Futuros de gas natural con entrega en septiembre subieron hasta 5.2% por cierre de posiciones cortas ante previsiones de más calor en EU.",
-      "link": "https://www.reforma.com/sube-gas-natural-ante-previsiones-de-mas-calor-en-eu/ar3255520",
-      "fecha": "10 Aug 2026, 15:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se pierden casi 30 mil empleos en julio",
-      "resumen": "En julio se perdieron 29 mil 823 puestos de trabajo tradicionales, además de crearse 10 mil 273 asociados a plataformas digitales.",
-      "link": "https://www.reforma.com/se-pierden-casi-30-mil-empleos-en-julio/ar3255503",
-      "fecha": "10 Aug 2026, 15:47 hrs"
     }
   ]
 }
