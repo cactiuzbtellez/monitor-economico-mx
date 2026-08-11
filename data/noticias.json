@@ -1,7 +1,16 @@
 {
-  "actualizado": "11/08/2026 02:55 hrs",
+  "actualizado": "11/08/2026 03:59 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
+      "resumen": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
+      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
+      "fecha": "10 Aug 2026, 22:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
       "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
       "fecha": "10 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda reduce los subsidios para Magna, Premium y diésel",
-      "resumen": "El diésel continúa con el mayor descuento a la cuota del impuesto IEPS, que se le cobra por litro en estaciones de servicio.",
-      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
-      "fecha": "07 Aug 2026, 17:53 hrs"
     },
     {
       "fuente": "Expansión",
