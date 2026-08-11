@@ -1,7 +1,52 @@
 {
-  "actualizado": "11/08/2026 15:45 hrs",
+  "actualizado": "11/08/2026 16:40 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Desastres naturales cuestan 100,000 mdd al mundo; terremoto de Venezuela lidera",
+      "resumen": "Swiss Re calcula que las aseguradoras absorbieron 42,000 millones de dólares por desastres naturales, el menor monto para un primer semestre desde 2020.",
+      "link": "https://expansion.mx/economia/2026/08/11/swissre-perdidas-economicas-catastrofes-naturales-costo",
+      "fecha": "11 Aug 2026, 13:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SPEI mueve 600 billones de pesos y va por el trono de las tarjetas",
+      "resumen": "Las transferencias ganan terreno entre personas y empresas, ante un consumidor que busca pagos rápidos y sin costo, explica STP.",
+      "link": "https://expansion.mx/economia/2026/08/11/transferencias-spei-superan-pago-tarjetas-mexico",
+      "fecha": "11 Aug 2026, 12:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Multiva busca financiar proyectos por 250,000 mdp en infraestructura y energía",
+      "resumen": "La emisión AT1 de 300 mdd dará a Multiva mayor capacidad para financiar operaciones grandes, mientras el negocio fiduciario gana peso como fuente de ingresos y fondeo.",
+      "link": "https://expansion.mx/economia/2026/08/11/tamara-caballero-directora-general-banco-multiva-financiar-proyectos",
+      "fecha": "11 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
+      "resumen": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
+      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
+      "fecha": "10 Aug 2026, 22:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "fecha": "10 Aug 2026, 20:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nuez mexicana entra a China vía México y EU; el golpe de los aranceles antidumping es mayor",
-      "resumen": "La Secretaría de Economía advierte que las cifras directas no muestran todo el riesgo, porque solo tiene identificados 21.9 millones de dólares exportados desde México a China.",
-      "link": "https://expansion.mx/economia/2026/08/10/mexico-pierde-mas-que-eu-arancel-antidumping-china-nuez",
-      "fecha": "10 Aug 2026, 12:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nuez pecana mexicana enfrenta nuevo arancel en China: empresas pagarán hasta 52% por exportar",
-      "resumen": "El Ministerio chino de Comercio estableció diferentes gravámenes a este alimento tras una análisis que realizó desde septiembre de 2025.",
-      "link": "https://expansion.mx/economia/2026/08/10/china-impone-aranceles-a-nuez-pecana-de-mexico-y-eu",
-      "fecha": "10 Aug 2026, 11:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Lecheros de EU presionan a México en el T-MEC por los nombres de los quesos",
-      "resumen": "México importó 232,000 toneladas de queso en 2025 y 87% provino de Estados Unidos; la industria láctea busca evitar que las nuevas reglas sobre indicaciones geográficas afecten sus ventas.",
-      "link": "https://expansion.mx/economia/2026/08/10/lecheros-eu-mexico-nombres-quesos-tmec",
-      "fecha": "10 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda reduce los subsidios para Magna, Premium y diésel",
-      "resumen": "El diésel continúa con el mayor descuento a la cuota del impuesto IEPS, que se le cobra por litro en estaciones de servicio.",
-      "link": "https://expansion.mx/economia/2026/08/07/hacienda-reduce-subsidios-magna-premium-diesel-agosto",
-      "fecha": "07 Aug 2026, 17:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Vas a transferir dinero a Nu? Hay un cambio que podría impedirte hacer el depósito",
-      "resumen": "Tu cuenta Nu sigue funcionando igual, pero su conversión en banco trae cambios que podrían afectar la forma en que recibes y envías dinero desde otras instituciones.",
-      "link": "https://expansion.mx/economia/2026/08/07/nu-ya-es-nubank-clabe-no-cambia-transferencias",
-      "fecha": "07 Aug 2026, 14:25 hrs"
+      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
+      "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "fecha": "11 Aug 2026, 12:23 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
       "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
       "fecha": "10 Aug 2026, 09:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan vuelve a utilidades y da un respiro al mexicano Iván Espinosa tras presión de los accionistas",
-      "resumen": "La automotriz japonesa volvió a registrar utilidades trimestrales y mejoró su flujo de efectivo, mientras el plan Re:Nissan comienza a mostrar resultados pese a la menor previsión de ventas y la presi…",
-      "link": "https://expansion.mx/empresas/2026/08/10/primer-mexicano-dirigir-nissan-peticiones-renuncia-resultado",
-      "fecha": "10 Aug 2026, 09:10 hrs"
     },
     {
       "fuente": "Reforma",
