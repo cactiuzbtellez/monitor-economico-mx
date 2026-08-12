@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/08/2026 05:45 hrs",
+  "actualizado": "12/08/2026 07:07 hrs",
   "total": 24,
   "noticias": [
     {
@@ -159,27 +159,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "... Afirma agilizar trámites con 2 oficinas más",
+      "resumen": "El SAT aseguró que con la apertura de dos oficinas adicionales en NL ya agilizó trámites fiscales para las empresas del Estado.",
+      "link": "https://www.reforma.com/afirma-agilizar-tramites-con-2-oficinas-mas/ar3256377",
+      "fecha": "12 Aug 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dan IMSS total a 15.5% de trabajadores de apps",
       "resumen": "A un año de que arrancara la prueba piloto para la afiliación de trabajadores de plataforma, solo 15.5% superó el umbral salarial.",
       "link": "https://www.reforma.com/dan-imss-total-a-15-5-de-trabajadores-de-apps/ar3256392",
-      "fecha": "12 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aportan a empleo sistemas digitales",
-      "resumen": "De enero a julio, 17% de los puestos formales, es decir, 243 mil 78, provinieron de plataformas digitales.",
-      "link": "https://www.reforma.com/aportan-a-empleo-sistemas-digitales/ar3256387",
-      "fecha": "12 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Roban más productos agro",
-      "resumen": "Robo de productos agro creció en cuatro puntos porcentuales durante el segundo trimestre de 2026 siendo fertilizantes los más deseados.",
-      "link": "https://www.reforma.com/roban-mas-productos-agro/ar3256386",
       "fecha": "12 Aug 2026, 05:01 hrs"
     },
     {
@@ -195,10 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apuestan productores por longevidad canina",
-      "resumen": "Para los productores de alimentos de mascotas, un segmento que cada vez cobra mayor relevancia es el aumento de edad de los \"lomitos\".",
-      "link": "https://www.reforma.com/apuestan-productores-por-longevidad-canina/ar3256354",
-      "fecha": "12 Aug 2026, 05:01 hrs"
+      "titulo": "Demuestran con moscas urgencia de biotecnología",
+      "resumen": "Uso de insumos genéticamente mejorados para combate a plagas marca la diferencia, como moscas desarrolladas por EU contra gusano barrenador.",
+      "link": "https://www.reforma.com/demuestran-con-moscas-urgencia-de-biotecnologia/ar3256397",
+      "fecha": "12 Aug 2026, 06:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invierte 100 mdd regio en Texas",
+      "resumen": "La empresa regiomontana DM Mexicana abrirá allá una nueva línea de producción de suplementos alimenticios a base de leche de cabra.",
+      "link": "https://www.reforma.com/invierte-100-mdd-regio-en-texas/ar3256405",
+      "fecha": "12 Aug 2026, 06:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Exporta NL 6.6% más vehículos",
+      "resumen": "De enero a julio pasados, las exportaciones de vehículos de NL se elevaron 6.6% respecto al mismo periodo de 2025, a 153 mil 661 unidades.",
+      "link": "https://www.reforma.com/exporta-nl-6-6-mas-vehiculos/ar3256382",
+      "fecha": "12 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "Pese a que la CIRT reconoció avances en lineamientos sobre audiencias, advirtió que su posición definitiva dependerá del documento final.",
       "link": "https://www.reforma.com/ve-cirt-mejoras-en-lineamientos-pero-reserva-postura-fina/ar3256344",
       "fecha": "11 Aug 2026, 20:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firman convenio Comisión Nacional Antimonopolio y ASF",
-      "resumen": "La Comisión Nacional Antimonopolio y la ASF firmaron un convenio para promover mercados que funcionen en beneficio de los consumidores.",
-      "link": "https://www.reforma.com/firman-convenio-comision-nacional-antimonopolio-y-asf/ar3256254",
-      "fecha": "11 Aug 2026, 18:33 hrs"
     }
   ]
 }
