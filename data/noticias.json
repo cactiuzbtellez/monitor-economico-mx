@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/08/2026 04:03 hrs",
+  "actualizado": "12/08/2026 05:45 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
+      "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
+      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
+      "fecha": "11 Aug 2026, 20:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
       "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
       "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
@@ -138,13 +147,58 @@
       "fecha": "10 Aug 2026, 15:41 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
-      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
-      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
-      "fecha": "10 Aug 2026, 14:25 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven controbuyentes mal servicio del SAT",
+      "resumen": "Aunque el SAT ha digitalizado varios trámites y servicios, los contribuyentes siguen padeciendo problemas de saturación.",
+      "link": "https://www.reforma.com/ven-controbuyentes-mal-servicio-del-sat/ar3256398",
+      "fecha": "12 Aug 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dan IMSS total a 15.5% de trabajadores de apps",
+      "resumen": "A un año de que arrancara la prueba piloto para la afiliación de trabajadores de plataforma, solo 15.5% superó el umbral salarial.",
+      "link": "https://www.reforma.com/dan-imss-total-a-15-5-de-trabajadores-de-apps/ar3256392",
+      "fecha": "12 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aportan a empleo sistemas digitales",
+      "resumen": "De enero a julio, 17% de los puestos formales, es decir, 243 mil 78, provinieron de plataformas digitales.",
+      "link": "https://www.reforma.com/aportan-a-empleo-sistemas-digitales/ar3256387",
+      "fecha": "12 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Roban más productos agro",
+      "resumen": "Robo de productos agro creció en cuatro puntos porcentuales durante el segundo trimestre de 2026 siendo fertilizantes los más deseados.",
+      "link": "https://www.reforma.com/roban-mas-productos-agro/ar3256386",
+      "fecha": "12 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hará gasoducto firma venezolana",
+      "resumen": "Cenagas adjudicó a IS Machines México, Construforma del Golfo y Constructora Acetech la construcción del gasoducto Coatzacoalcos II.",
+      "link": "https://www.reforma.com/hara-gasoducto-firma-venezolana/ar3256383",
+      "fecha": "12 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apuestan productores por longevidad canina",
+      "resumen": "Para los productores de alimentos de mascotas, un segmento que cada vez cobra mayor relevancia es el aumento de edad de los \"lomitos\".",
+      "link": "https://www.reforma.com/apuestan-productores-por-longevidad-canina/ar3256354",
+      "fecha": "12 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,60 +217,6 @@
       "resumen": "La Comisión Nacional Antimonopolio y la ASF firmaron un convenio para promover mercados que funcionen en beneficio de los consumidores.",
       "link": "https://www.reforma.com/firman-convenio-comision-nacional-antimonopolio-y-asf/ar3256254",
       "fecha": "11 Aug 2026, 18:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen 10% suscriptores de TV de paga",
-      "resumen": "Suscriptores de TV de paga en México cayeron 9.8 por ciento anual en el segundo trimestre de 2026 al alcanzar 14.1 millones de usuarios.",
-      "link": "https://www.reforma.com/caen-10-suscriptores-de-tv-de-paga/ar3256236",
-      "fecha": "11 Aug 2026, 18:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Integran consumidores más uso de la IA en toma de decisiones",
-      "resumen": "La IA cada vez más está presente en la toma de decisiones de los consumidores, según la firma EY.",
-      "link": "https://www.reforma.com/integran-consumidores-mas-uso-de-la-ia-en-toma-de-decisiones/ar3256157",
-      "fecha": "11 Aug 2026, 18:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pacta GM acuerdo de suministro de piezas por hasta 4,500 mdd",
-      "resumen": "GM alcanza un acuerdo de hasta 4 mil 500 mdd para la adquisición de piezas, diseñado para evitar problemas en la cadena de suministro.",
-      "link": "https://www.reforma.com/pacta-gm-acuerdo-de-suministro-de-piezas-por-hasta-4-500-mdd/ar3256088",
-      "fecha": "11 Aug 2026, 14:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Hilan mercados de EU segundo cierre negativo",
-      "resumen": "Al cierre de Wall Street, el Dow Jones perdió un 0.35%, el índice Nasdaq retrocedió un 0.60% y el S&amp;P 500 cedió un 0.33%.",
-      "link": "https://www.reforma.com/hilan-mercados-de-eu-segundo-cierre-negativo/ar3256071",
-      "fecha": "11 Aug 2026, 14:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acceden pymes a créditos por 500 mdp",
-      "resumen": "Unas 172 pymes, socias de Caintra, accedieron a financiamiento por 500 millones de pesos.",
-      "link": "https://www.reforma.com/acceden-pymes-a-creditos-por-500-mdp/ar3256049",
-      "fecha": "11 Aug 2026, 14:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Proponen 96 medidas para cumplir metas climáticas",
-      "resumen": "La Iniciativa Climática de México (ICM) propuso 96 medidas para que el País pueda cumplir con sus compromisos climáticos.",
-      "link": "https://www.reforma.com/proponen-96-medidas-para-cumplir-metas-climaticas/ar3256050",
-      "fecha": "11 Aug 2026, 14:16 hrs"
     }
   ]
 }
