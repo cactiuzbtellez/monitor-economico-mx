@@ -1,25 +1,7 @@
 {
-  "actualizado": "12/08/2026 07:07 hrs",
+  "actualizado": "12/08/2026 08:55 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México encara dos medidas antidumping en Europa por insumos para plásticos",
-      "resumen": "La Unión Europea impuso una cuota antidumping de 24.1% al ácido tereftálico mexicano, mientras Reino Unido comenzó a vigilar las importaciones de PVC.",
-      "link": "https://expansion.mx/economia/2026/08/11/mexico-antidumping-europa-insumos-plasticos",
-      "fecha": "11 Aug 2026, 15:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La IA amenaza el primer empleo formal de 3 millones de mexicanos",
-      "resumen": "El mayor riesgo recae en las ocupaciones que suelen ofrecer a los jóvenes su primera oportunidad laboral con seguridad social y prestaciones.",
-      "link": "https://expansion.mx/economia/2026/08/11/ia-amenaza-primer-empleo-formal-jovenes-mexico",
-      "fecha": "11 Aug 2026, 15:47 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
-      "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
-      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
-      "fecha": "11 Aug 2026, 20:34 hrs"
+      "titulo": "Trump disparó la conversación sobre aranceles entre las empresas de EU",
+      "resumen": "Un análisis del Peterson Institute for International Economics revisó 920 llamadas de resultados de 150 compañías para medir el peso que adquirieron los aranceles entre las empresas.",
+      "link": "https://expansion.mx/economia/2026/08/10/aranceles-trump-impacto-empresas-eu",
+      "fecha": "10 Aug 2026, 16:19 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
-      "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
-      "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
-      "fecha": "11 Aug 2026, 17:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
-      "resumen": "México se ha convertido en un importante centro de producción de autos con tecnologías renovables, como es el caso de los eléctricos.",
-      "link": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
-      "fecha": "11 Aug 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
-      "resumen": "México importa entre 70% y 75% del gas natural que consume, mientras Pemex dejó sin aprovechar 778 millones de pies cúbicos diarios durante el segundo trimestre de 2026, casi el doble que un año antes…",
-      "link": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
-      "fecha": "11 Aug 2026, 16:34 hrs"
+      "titulo": "Hacienda publica nuevas reglas para la prevención de lavado de dinero, ¿a quiénes aplican?",
+      "resumen": "Quienes realizan actividades vulnerables deberán identificar, evaluar, clasificar y documentar riesgos asociados con clientes o usuarios, mediante metodologías que fortalezcan la gestión de riesgos.",
+      "link": "https://expansion.mx/economia/2026/08/10/hacienda-nuevas-reglas-prevencion-lavado-dinero",
+      "fecha": "10 Aug 2026, 13:17 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,12 +111,48 @@
       "fecha": "10 Aug 2026, 15:41 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
+      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
+      "fecha": "10 Aug 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿De qué tamaño es Farmacias del Ahorro, el negocio millonario que fundó Maximiliano Leonardo Asturias?",
+      "resumen": "El negocio que comenzó Maximiliano Leonardo Asturias hace décadas se convirtió en uno de los principales jugadores del sector farmacéutico, con ingresos millonarios y miles de empleados en México.",
+      "link": "https://expansion.mx/empresas/2026/08/10/farmacias-del-ahorro-negocio-de-maximiliano-asturias",
+      "fecha": "10 Aug 2026, 11:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "NL concentra 40% de la producción de electrodomésticos de México y apuesta por la IA para no perder competitividad",
+      "resumen": "La industria de electrodomésticos enfrenta el reto de modernizar sus procesos de manufactura ante el avance de la inteligencia artificial y los dispositivos conectados en los hogares.",
+      "link": "https://expansion.mx/empresas/2026/08/10/nuevo-leon-fabrica-40-electrodomesticos-mexico-reto-ia",
+      "fecha": "10 Aug 2026, 11:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely prepara sus primeros híbridos no enchufables para México y va por el mercado dominado por Toyota",
+      "resumen": "La automotriz china prepara el lanzamiento de sus primeros híbridos no enchufables en México hacia finales de 2027, con una tecnología desarrollada junto con Renault y Saudi Aramco.",
+      "link": "https://expansion.mx/empresas/2026/08/10/geely-autos-hibridos-no-enchufables-lanzamiento-mexico",
+      "fecha": "10 Aug 2026, 09:42 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven controbuyentes mal servicio del SAT",
+      "titulo": "Ven contribuyentes mal servicio del SAT",
       "resumen": "Aunque el SAT ha digitalizado varios trámites y servicios, los contribuyentes siguen padeciendo problemas de saturación.",
-      "link": "https://www.reforma.com/ven-controbuyentes-mal-servicio-del-sat/ar3256398",
+      "link": "https://www.reforma.com/ven-contribuyentes-mal-servicio-del-sat/ar3256398",
       "fecha": "12 Aug 2026, 05:00 hrs"
     },
     {
@@ -186,19 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Demuestran con moscas urgencia de biotecnología",
-      "resumen": "Uso de insumos genéticamente mejorados para combate a plagas marca la diferencia, como moscas desarrolladas por EU contra gusano barrenador.",
-      "link": "https://www.reforma.com/demuestran-con-moscas-urgencia-de-biotecnologia/ar3256397",
+      "titulo": "Invierte 100 mdd regio en Texas",
+      "resumen": "La empresa regiomontana DM Mexicana abrirá allá una nueva línea de producción de suplementos alimenticios a base de leche de cabra.",
+      "link": "https://www.reforma.com/invierte-100-mdd-regio-en-texas/ar3256405",
       "fecha": "12 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invierte 100 mdd regio en Texas",
-      "resumen": "La empresa regiomontana DM Mexicana abrirá allá una nueva línea de producción de suplementos alimenticios a base de leche de cabra.",
-      "link": "https://www.reforma.com/invierte-100-mdd-regio-en-texas/ar3256405",
-      "fecha": "12 Aug 2026, 06:55 hrs"
+      "titulo": "Se modera inflación en EU a 3.4% anual en julio",
+      "resumen": "En general, los precios al consumidor de EU aumentaron un 0.1% respecto al mes anterior y un 3.4% con relación al año anterior.",
+      "link": "https://www.reforma.com/se-modera-inflacion-en-eu-a-3-4-anual-en-julio/ar3256521",
+      "fecha": "12 Aug 2026, 07:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ve CIRT mejoras en lineamientos, pero reserva postura fina",
-      "resumen": "Pese a que la CIRT reconoció avances en lineamientos sobre audiencias, advirtió que su posición definitiva dependerá del documento final.",
-      "link": "https://www.reforma.com/ve-cirt-mejoras-en-lineamientos-pero-reserva-postura-fina/ar3256344",
-      "fecha": "11 Aug 2026, 20:53 hrs"
+      "titulo": "Demuestran con moscas urgencia de biotecnología",
+      "resumen": "Uso de insumos genéticamente mejorados para combate a plagas marca la diferencia, como moscas desarrolladas por EU contra gusano barrenador.",
+      "link": "https://www.reforma.com/demuestran-con-moscas-urgencia-de-biotecnologia/ar3256397",
+      "fecha": "12 Aug 2026, 06:55 hrs"
     }
   ]
 }
