@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/08/2026 13:00 hrs",
+  "actualizado": "12/08/2026 14:42 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Alertan desviación fiscal en Paquete Económico 2027",
+      "resumen": "La SHCP debe cuidar que la consolidación fiscal planteada en el Paquete Económico de 2027 ya no se desvíe tanto, advirtió Citi México.",
+      "link": "https://www.reforma.com/alertan-desviacion-fiscal-en-paquete-economico-2027/ar3256701",
+      "fecha": "12 Aug 2026, 14:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Estará crecimiento en piloto automático.- Franklin Templeton",
       "resumen": "El crecimiento económico se mantendrá en piloto automático, lo que implica estar igual que en los últimos 10 años, dijo Franklin Templeton.",
       "link": "https://www.reforma.com/estara-crecimiento-en-piloto-automatico-franklin-templeton/ar3256651",
@@ -168,28 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrentan restaurantes alzas de hasta 40% en insumos",
-      "resumen": "La industria restaurantera enfrenta el encarecimiento de hasta un 40 por ciento en insumos clave, alertó Canirac.",
-      "link": "https://www.reforma.com/enfrentan-restaurantes-alzas-de-hasta-40-en-insumos/ar3256571",
-      "fecha": "12 Aug 2026, 10:01 hrs"
+      "titulo": "Se aproxima dólar a los $17 en el mercado internacional",
+      "resumen": "El dólar bajó a cerca de 17.06 pesos en el mercado internacional de divisas ante el atractivo del diferencial de tasas entre México y EU.",
+      "link": "https://www.reforma.com/se-aproxima-dolar-a-los-17-en-el-mercado-internacional/ar3256744",
+      "fecha": "12 Aug 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven contribuyentes mal servicio del SAT",
-      "resumen": "Aunque el SAT ha digitalizado varios trámites y servicios, los contribuyentes siguen padeciendo problemas de saturación.",
-      "link": "https://www.reforma.com/ven-contribuyentes-mal-servicio-del-sat/ar3256398",
-      "fecha": "12 Aug 2026, 05:00 hrs"
+      "titulo": "Sube 4.7% precio de la vivienda en julio",
+      "resumen": "El precio de la vivienda a nivel nacional registró un incremento anual de 4.7%, en julio, según el Inbaprevi.",
+      "link": "https://www.reforma.com/sube-4-7-precio-de-la-vivienda-en-julio/ar3256762",
+      "fecha": "12 Aug 2026, 14:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan 1% en julio ventas de tiendas ANTAD",
-      "resumen": "Las ventas a tiendas iguales, que consideran a todas aquellas con más de un año de operación, crecieron 1% el mes pasado, según ANTAD.",
-      "link": "https://www.reforma.com/aumentan-1-en-julio-ventas-de-tiendas-antad/ar3256680",
-      "fecha": "12 Aug 2026, 12:57 hrs"
+      "titulo": "Prevén lento ajuste en exportaciones de res",
+      "resumen": "Con la reapertura de la frontera norte para exportaciones de ganado mexicano, no se prevé un cambio drástico en el mercado, dijo la ANETIF.",
+      "link": "https://www.reforma.com/preven-lento-ajuste-en-exportaciones-de-res/ar3256737",
+      "fecha": "12 Aug 2026, 14:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exporta NL 6.6% más vehículos",
-      "resumen": "De enero a julio pasados, las exportaciones de vehículos de NL se elevaron 6.6% respecto al mismo periodo de 2025, a 153 mil 661 unidades.",
-      "link": "https://www.reforma.com/exporta-nl-6-6-mas-vehiculos/ar3256382",
-      "fecha": "12 Aug 2026, 06:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Demuestran con moscas urgencia de biotecnología",
-      "resumen": "Uso de insumos genéticamente mejorados para combate a plagas marca la diferencia, como moscas desarrolladas por EU contra gusano barrenador.",
-      "link": "https://www.reforma.com/demuestran-con-moscas-urgencia-de-biotecnologia/ar3256397",
-      "fecha": "12 Aug 2026, 06:55 hrs"
+      "titulo": "Aumentan 1% en julio ventas de tiendas ANTAD",
+      "resumen": "Las ventas a tiendas iguales, que consideran a todas aquellas con más de un año de operación, crecieron 1% el mes pasado, según ANTAD.",
+      "link": "https://www.reforma.com/aumentan-1-en-julio-ventas-de-tiendas-antad/ar3256680",
+      "fecha": "12 Aug 2026, 12:57 hrs"
     }
   ]
 }
