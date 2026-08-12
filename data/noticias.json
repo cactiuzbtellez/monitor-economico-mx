@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/08/2026 02:16 hrs",
+  "actualizado": "12/08/2026 04:03 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
-      "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
-      "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
-      "fecha": "11 Aug 2026, 20:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
       "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
       "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
@@ -145,6 +136,15 @@
       "resumen": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
       "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
       "fecha": "10 Aug 2026, 15:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Harry Styles paga los churros de El Moro: la historia de la churrería que nació en el Zócalo",
+      "resumen": "El Moro pasó de vender churros en un carrito del Centro Histórico a convertirse en una marca con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/08/10/churreria-el-moro-empezo-carrito-centro-cdmx-historia",
+      "fecha": "10 Aug 2026, 14:25 hrs"
     },
     {
       "fuente": "Reforma",
