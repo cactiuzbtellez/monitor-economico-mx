@@ -1,7 +1,16 @@
 {
-  "actualizado": "12/08/2026 09:59 hrs",
+  "actualizado": "12/08/2026 11:04 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
+      "resumen": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
+      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
+      "fecha": "12 Aug 2026, 05:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
       "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
       "fecha": "10 Aug 2026, 20:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "SAT espera más recaudación por auditorías; pone la mira en la regularización de 2027",
-      "resumen": "El SAT abre la puerta a mantener el próximo año el programa que reduce hasta 100% multas y recargos a contribuyentes.",
-      "link": "https://expansion.mx/economia/2026/08/10/sat-recaudacion-auditorias-programa-regularizacion-2027",
-      "fecha": "10 Aug 2026, 16:27 hrs"
     },
     {
       "fuente": "Expansión",
@@ -168,6 +168,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Enfrentan restaurantes alzas de hasta 40% en insumos",
+      "resumen": "La industria restaurantera enfrenta el encarecimiento de hasta un 40 por ciento en insumos clave, alertó Canirac.",
+      "link": "https://www.reforma.com/enfrentan-restaurantes-alzas-de-hasta-40-en-insumos/ar3256571",
+      "fecha": "12 Aug 2026, 10:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dan IMSS total a 15.5% de trabajadores de apps",
       "resumen": "A un año de que arrancara la prueba piloto para la afiliación de trabajadores de plataforma, solo 15.5% superó el umbral salarial.",
       "link": "https://www.reforma.com/dan-imss-total-a-15-5-de-trabajadores-de-apps/ar3256392",
@@ -190,15 +199,6 @@
       "resumen": "La empresa regiomontana DM Mexicana abrirá allá una nueva línea de producción de suplementos alimenticios a base de leche de cabra.",
       "link": "https://www.reforma.com/invierte-100-mdd-regio-en-texas/ar3256405",
       "fecha": "12 Aug 2026, 06:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se modera inflación en EU a 3.4% anual en julio",
-      "resumen": "En general, los precios al consumidor de EU aumentaron un 0.1% respecto al mes anterior y un 3.4% con relación al año anterior.",
-      "link": "https://www.reforma.com/se-modera-inflacion-en-eu-a-3-4-anual-en-julio/ar3256521",
-      "fecha": "12 Aug 2026, 07:15 hrs"
     },
     {
       "fuente": "Reforma",
