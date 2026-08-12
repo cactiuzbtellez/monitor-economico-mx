@@ -1,16 +1,7 @@
 {
-  "actualizado": "12/08/2026 15:43 hrs",
+  "actualizado": "12/08/2026 16:39 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
-      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
-      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
-      "fecha": "12 Aug 2026, 14:13 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,36 +67,18 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
-      "resumen": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
-      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
-      "fecha": "12 Aug 2026, 14:31 hrs"
+      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "fecha": "10 Aug 2026, 20:28 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
-      "resumen": "La firma de origen alemán busca ampliar su presencia en México mediante alianzas con micro y pequeños permisionarios, con el objetivo de llevar su red a nuevas rutas y competir con los grandes operado…",
-      "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
-      "fecha": "12 Aug 2026, 11:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
-      "resumen": "Carne, lácteos, verduras, jitomate y aguacate acumularon alzas durante el primer semestre, mientras los restaurantes evalúan la automatización de procesos para contener el impacto de estos mayores cos…",
-      "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
-      "fecha": "12 Aug 2026, 10:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
+      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
       "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
       "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "fecha": "11 Aug 2026, 20:34 hrs"
@@ -147,13 +120,49 @@
       "fecha": "11 Aug 2026, 12:23 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
+      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
+      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
+      "fecha": "10 Aug 2026, 17:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
+      "resumen": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
+      "link": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
+      "fecha": "10 Aug 2026, 17:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
+      "resumen": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
+      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
+      "fecha": "10 Aug 2026, 15:41 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan desviación fiscal en Paquete Económico 2027",
-      "resumen": "La SHCP debe cuidar que la consolidación fiscal planteada en el Paquete Económico de 2027 ya no se desvíe tanto, advirtió Citi México.",
-      "link": "https://www.reforma.com/alertan-desviacion-fiscal-en-paquete-economico-2027/ar3256701",
-      "fecha": "12 Aug 2026, 14:08 hrs"
+      "titulo": "Batalla EU con aranceles de sección 301",
+      "resumen": "Negociación individual de 60 países ha frenado la aplicación de aranceles por parte de EU bajo la sección 301 o trabajo forzoso, reveló SE.",
+      "link": "https://www.reforma.com/batalla-eu-con-aranceles-de-seccion-301/ar3256854",
+      "fecha": "12 Aug 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar en $17.05; su peor nivel desde junio de 2024",
+      "resumen": "Dólar cerró este miércoles con cotización de $17.05, representando su nivel más bajo desde el 3 de junio de 2024, cuando se ubicó en $17.01.",
+      "link": "https://www.reforma.com/cierra-dolar-en-17-05-su-peor-nivel-desde-junio-de-2024/ar3256744",
+      "fecha": "12 Aug 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se aproxima dólar a los $17 en el mercado internacional",
-      "resumen": "El dólar bajó a cerca de 17.06 pesos en el mercado internacional de divisas ante el atractivo del diferencial de tasas entre México y EU.",
-      "link": "https://www.reforma.com/se-aproxima-dolar-a-los-17-en-el-mercado-internacional/ar3256744",
-      "fecha": "12 Aug 2026, 14:09 hrs"
+      "titulo": "Alerta Citi por desviación fiscal en Paquete Económico 2027",
+      "resumen": "La SHCP debe cuidar que la consolidación fiscal planteada en el Paquete Económico de 2027 ya no se desvíe tanto, advirtió Citi México.",
+      "link": "https://www.reforma.com/alerta-citi-por-desviacion-fiscal-en-paquete-economico-2027/ar3256701",
+      "fecha": "12 Aug 2026, 14:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén lento ajuste en exportaciones de res",
-      "resumen": "Con la reapertura de la frontera norte para exportaciones de ganado mexicano, no se prevé un cambio drástico en el mercado, dijo la ANETIF.",
-      "link": "https://www.reforma.com/preven-lento-ajuste-en-exportaciones-de-res/ar3256737",
-      "fecha": "12 Aug 2026, 14:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Suspende Colombia exportaciones de café por el Pacífico",
       "resumen": "Exportaciones de café desde el océano Pacífico fueron suspendidas temporalmente en Colombia para revisar daños causados por el terremoto.",
       "link": "https://www.reforma.com/suspende-colombia-exportaciones-de-cafe-por-el-pacifico/ar3256675",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan 1% en julio ventas de tiendas ANTAD",
-      "resumen": "Las ventas a tiendas iguales, que consideran a todas aquellas con más de un año de operación, crecieron 1% el mes pasado, según ANTAD.",
-      "link": "https://www.reforma.com/aumentan-1-en-julio-ventas-de-tiendas-antad/ar3256680",
-      "fecha": "12 Aug 2026, 12:57 hrs"
+      "titulo": "Aceptaría Canadá aranceles de EU a autos",
+      "resumen": "Canadá considera aceptar aranceles de EU a las exportaciones de autos a cambio de menores gravámenes sobre vehículos que cumplen con T-MEC.",
+      "link": "https://www.reforma.com/aceptaria-canada-aranceles-de-eu-a-autos/ar3256884",
+      "fecha": "12 Aug 2026, 16:16 hrs"
     }
   ]
 }
