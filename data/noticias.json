@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/08/2026 16:39 hrs",
+  "actualizado": "12/08/2026 17:40 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
+      "resumen": "México buscará recortar 0.7 puntos del PIB a su déficit fiscal entre 2026 y 2027, de acuerdo con las estimaciones de la institución financiera.",
+      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
+      "fecha": "12 Aug 2026, 14:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
+      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
+      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
+      "fecha": "12 Aug 2026, 14:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,27 +76,36 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
-      "resumen": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
-      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
-      "fecha": "10 Aug 2026, 22:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
-      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
-      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
-      "fecha": "10 Aug 2026, 20:28 hrs"
+      "titulo": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
+      "resumen": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
+      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
+      "fecha": "12 Aug 2026, 14:31 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactas",
+      "titulo": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
+      "resumen": "La firma de origen alemán busca ampliar su presencia en México mediante alianzas con micro y pequeños permisionarios, con el objetivo de llevar su red a nuevas rutas y competir con los grandes operado…",
+      "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
+      "fecha": "12 Aug 2026, 11:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
+      "resumen": "Carne, lácteos, verduras, jitomate y aguacate acumularon alzas durante el primer semestre, mientras los restaurantes evalúan la automatización de procesos para contener el impacto de estos mayores cos…",
+      "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
+      "fecha": "12 Aug 2026, 10:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen actualiza Taigun con nueva transmisión y diseño para competir en el mercado de SUV subcompactos",
       "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
       "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "fecha": "11 Aug 2026, 20:34 hrs"
@@ -118,33 +145,6 @@
       "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
       "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
       "fecha": "11 Aug 2026, 12:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
-      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
-      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
-      "fecha": "10 Aug 2026, 17:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
-      "resumen": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
-      "link": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
-      "fecha": "10 Aug 2026, 17:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de las tiendas más baratas de México? El poder detrás de 3B, Neto, Aurrera y Chedraui",
-      "resumen": "Las tiendas de bajo costo se han multiplicado en México y detrás de ellas hay grandes grupos empresariales, capital extranjero y familias con décadas en el comercio.",
-      "link": "https://expansion.mx/empresas/2026/08/10/duenos-tiendas-baratas-3b-neto-aurrera-chedraui",
-      "fecha": "10 Aug 2026, 15:41 hrs"
     },
     {
       "fuente": "Reforma",
