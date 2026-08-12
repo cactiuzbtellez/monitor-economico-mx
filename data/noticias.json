@@ -1,7 +1,16 @@
 {
-  "actualizado": "12/08/2026 14:42 hrs",
+  "actualizado": "12/08/2026 15:43 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
+      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
+      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
+      "fecha": "12 Aug 2026, 14:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
-      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
-      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
-      "fecha": "10 Aug 2026, 20:28 hrs"
+      "titulo": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
+      "resumen": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
+      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
+      "fecha": "12 Aug 2026, 14:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "11 Aug 2026, 12:23 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
-      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
-      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
-      "fecha": "10 Aug 2026, 17:29 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,19 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estará crecimiento en piloto automático.- Franklin Templeton",
-      "resumen": "El crecimiento económico se mantendrá en piloto automático, lo que implica estar igual que en los últimos 10 años, dijo Franklin Templeton.",
-      "link": "https://www.reforma.com/estara-crecimiento-en-piloto-automatico-franklin-templeton/ar3256651",
-      "fecha": "12 Aug 2026, 11:55 hrs"
+      "titulo": "Lanza México primeros plaguicidas biológicos",
+      "resumen": "Bajo el sello de GreenLight Biosciences, México lanzó el primer fungicida del mundo con biotecnología.",
+      "link": "https://www.reforma.com/lanza-mexico-primeros-plaguicidas-biologicos/ar3256825",
+      "fecha": "12 Aug 2026, 15:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Incrementan Afores participación en Fibras",
-      "resumen": "El crecimiento de la participación de los FIBRAs dentro de las carteras de las Afores ha hecho que ya representen el 3.13% de sus activos.",
-      "link": "https://www.reforma.com/incrementan-afores-participacion-en-fibras/ar3256619",
-      "fecha": "12 Aug 2026, 11:09 hrs"
+      "titulo": "Estará crecimiento en piloto automático.- Franklin Templeton",
+      "resumen": "El crecimiento económico se mantendrá en piloto automático, lo que implica estar igual que en los últimos 10 años, dijo Franklin Templeton.",
+      "link": "https://www.reforma.com/estara-crecimiento-en-piloto-automatico-franklin-templeton/ar3256651",
+      "fecha": "12 Aug 2026, 11:55 hrs"
     },
     {
       "fuente": "Reforma",
