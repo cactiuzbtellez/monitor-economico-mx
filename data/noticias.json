@@ -1,61 +1,7 @@
 {
-  "actualizado": "13/08/2026 10:00 hrs",
+  "actualizado": "13/08/2026 11:05 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México domina envíos a EU por 298,000 mdd, pero Taiwán y Vietnam le acortan distancia",
-      "resumen": "El desplome de 23% en las compras al mercado chino aceleró los pedidos de semiconductores, servidores y telefonía de otros proveedores asiáticos. La demanda de IA dispara las ventas de alto valor.",
-      "link": "https://expansion.mx/economia/2026/08/13/mexico-domina-ventas-eu-taiwan-vietnam-aceleran",
-      "fecha": "13 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
-      "resumen": "Expertos de la UNAM, CIDE, UAM, Tecnológico de Monterrey, entre otras, proponen elevar la inversión, fortalecer las finanzas públicas e impulsar la innovación para acelerar el crecimiento.",
-      "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
-      "fecha": "12 Aug 2026, 18:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
-      "resumen": "La seguridad económica abre una discusión que puede modificar las decisiones de inversión y la integración productiva de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
-      "fecha": "12 Aug 2026, 18:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México cuestiona el criterio con el que EU prepara nuevos aranceles por sobrecapacidad",
-      "resumen": "El secretario de Economía, Marcelo Ebrard, recurrió a uno de los principales productos que México compra a Estados Unidos para poner a prueba la lógica de la investigación de la USTR.",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
-      "fecha": "12 Aug 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
-      "resumen": "México buscará recortar 0.7 puntos del PIB a su déficit fiscal entre 2026 y 2027, de acuerdo con las estimaciones de la institución financiera.",
-      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
-      "fecha": "12 Aug 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
-      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
-      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
-      "fecha": "12 Aug 2026, 14:13 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,57 +22,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
-      "resumen": "Manuel Bravo, presidente del CEG, señala que la revisión del T-MEC ha modificado el ritmo de nuevas inversiones, pero no representa una pérdida generalizada de confianza empresarial.",
-      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
-      "fecha": "13 Aug 2026, 05:55 hrs"
+      "titulo": "La IA amenaza el primer empleo formal de 3 millones de mexicanos",
+      "resumen": "El mayor riesgo recae en las ocupaciones que suelen ofrecer a los jóvenes su primera oportunidad laboral con seguridad social y prestaciones.",
+      "link": "https://expansion.mx/economia/2026/08/11/ia-amenaza-primer-empleo-formal-jovenes-mexico",
+      "fecha": "11 Aug 2026, 15:47 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
-      "resumen": "La producción de hidrocarburos ronda 1.6 millones de barriles diarios y especialistas ven en el fracking una alternativa para acercarse a la meta de 1.8 millones.",
-      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
-      "fecha": "12 Aug 2026, 16:57 hrs"
+      "titulo": "Desastres naturales cuestan 100,000 mdd al mundo; terremoto de Venezuela lidera",
+      "resumen": "Swiss Re calcula que las aseguradoras absorbieron 42,000 millones de dólares por desastres naturales, el menor monto para un primer semestre desde 2020.",
+      "link": "https://expansion.mx/economia/2026/08/11/swissre-perdidas-economicas-catastrofes-naturales-costo",
+      "fecha": "11 Aug 2026, 13:05 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Mexicana vs. Volaris y Viva: ¿cómo compite la aerolínea estatal por los pasajeros de bajo costo?",
-      "resumen": "Las aerolíneas de bajo costo que operan en el país buscan colocarse entre las preferidas por los clientes, por lo que apuestan por lanzar promociones y aumentar su flotilla.",
-      "link": "https://expansion.mx/empresas/2026/08/12/mexicana-vs-volaris-y-viva-que-aerolinea-tiene-mas-vuelos",
-      "fecha": "12 Aug 2026, 16:47 hrs"
+      "titulo": "SPEI mueve 600 billones de pesos y va por el trono de las tarjetas",
+      "resumen": "Las transferencias ganan terreno entre personas y empresas, ante un consumidor que busca pagos rápidos y sin costo, explica STP.",
+      "link": "https://expansion.mx/economia/2026/08/11/transferencias-spei-superan-pago-tarjetas-mexico",
+      "fecha": "11 Aug 2026, 12:42 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "No todo son ganancias para Carlos Slim: sus empresas también registran miles de millones en impuestos",
-      "resumen": "Los reportes financieros de América Móvil y Grupo Carso revelan cuánto representó este concepto en sus resultados de 2025 y permiten dimensionar el tamaño de sus operaciones.",
-      "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
-      "fecha": "12 Aug 2026, 15:57 hrs"
+      "titulo": "Multiva busca financiar proyectos por 250,000 mdp en infraestructura y energía",
+      "resumen": "La emisión AT1 de 300 mdd dará a Multiva mayor capacidad para financiar operaciones grandes, mientras el negocio fiduciario gana peso como fuente de ingresos y fondeo.",
+      "link": "https://expansion.mx/economia/2026/08/11/tamara-caballero-directora-general-banco-multiva-financiar-proyectos",
+      "fecha": "11 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
-      "resumen": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
-      "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
-      "fecha": "12 Aug 2026, 14:31 hrs"
+      "titulo": "Muere Miguel Mancera Aguayo, primer gobernador de Banxico",
+      "resumen": "Mancera ingresó al banco central en 1957 y estuvo al frente de la institución durante la transición que marcó el inicio de su autonomía en 1994.",
+      "link": "https://expansion.mx/economia/2026/08/10/muere-miguel-mancera-primer-gobernador-banxico",
+      "fecha": "10 Aug 2026, 22:13 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
-      "resumen": "La firma de origen alemán busca ampliar su presencia en México mediante alianzas con micro y pequeños permisionarios, con el objetivo de llevar su red a nuevas rutas y competir con los grandes operado…",
-      "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
-      "fecha": "12 Aug 2026, 11:40 hrs"
+      "titulo": "El empleo formal camina a dos velocidades: Baja California crece mientras Campeche se hunde",
+      "resumen": "Los puestos asociados a plataformas digitales se dispararon 86.6% anual en julio. El empleo disminuyó en 19,550 plazas respecto a junio, informó el IMSS.",
+      "link": "https://expansion.mx/economia/2026/08/10/empleo-formal-julio-2026-imss",
+      "fecha": "10 Aug 2026, 20:28 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +91,60 @@
       "resumen": "A cuatro años de su llegada al país, Taigun recibe una renovación mayor que conserva el motor 1.0 TSI de 114 hp, pero incorpora una transmisión de ocho velocidades y nuevas funciones de tecnología y s…",
       "link": "https://expansion.mx/empresas/2026/08/11/volkswagen-taigun-precio-mexico",
       "fecha": "11 Aug 2026, 20:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
+      "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
+      "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
+      "fecha": "11 Aug 2026, 17:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
+      "resumen": "México se ha convertido en un importante centro de producción de autos con tecnologías renovables, como es el caso de los eléctricos.",
+      "link": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
+      "fecha": "11 Aug 2026, 16:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
+      "resumen": "México importa entre 70% y 75% del gas natural que consume, mientras Pemex dejó sin aprovechar 778 millones de pies cúbicos diarios durante el segundo trimestre de 2026, casi el doble que un año antes…",
+      "link": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
+      "fecha": "11 Aug 2026, 16:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
+      "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "fecha": "11 Aug 2026, 12:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Starlink deja de ser una amenaza y se declara rival de las grandes telefónicas",
+      "resumen": "Starlink disputará a las telefónicas tradicionales millones de clientes para ganar una parte de un mercado de 600,000 millones de dólares, en un contexto de crecientes presiones sobre la rentabilidad …",
+      "link": "https://expansion.mx/empresas/2026/08/10/starlink-va-clientes-america-movil-telefonicas-internet",
+      "fecha": "10 Aug 2026, 17:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las 7 pick-ups más económicas de México: modelos que puedes comprar sin gastar una fortuna",
+      "resumen": "Estos siete modelos destacan por la relación entre sus prestaciones y un precio relativamente accesible dentro de su segmento.",
+      "link": "https://expansion.mx/empresas/2026/08/10/pick-ups-mas-economicas-mexico-modelos",
+      "fecha": "10 Aug 2026, 17:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plantean a EU gravar sólo piezas extrarregionales de autos",
-      "resumen": "México plantea que EU cobre arancel sólo a componentes fuera de Norteamérica y reduzca la tasa general de 25% a entre 5% y 10%, reportó WSJ.",
-      "link": "https://www.reforma.com/plantean-a-eu-gravar-solo-piezas-extrarregionales-de-autos/ar3257058",
-      "fecha": "12 Aug 2026, 20:21 hrs"
+      "titulo": "Urge a negociar cese de aranceles",
+      "resumen": "México no sólo debió detener los aranceles, sino incluso responder con medidas similares, dijo el ex Secretario Ildefonso Guajardo.",
+      "link": "https://www.reforma.com/urge-a-negociar-cese-de-aranceles/ar3257101",
+      "fecha": "13 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
