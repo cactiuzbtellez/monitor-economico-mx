@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/08/2026 05:45 hrs",
+  "actualizado": "13/08/2026 07:08 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Muestra desplome  inversión minera",
-      "resumen": "Camimex reveló que en 2025, la inversión  privada en nuevos proyectos mineros se desplomó a su nivel más bajo en dos décadas.",
-      "link": "https://www.reforma.com/muestra-desplome-inversion-minera/ar3257046",
-      "fecha": "13 Aug 2026, 05:01 hrs"
+      "titulo": "Ahogan pensiones a Pemex y la CFE",
+      "resumen": "Incremento en los recursos destinados al pago de pensiones también amenaza a las finanzas de Pemex y CFE, aseguraron analistas del sector.",
+      "link": "https://www.reforma.com/ahogan-pensiones-a-pemex-y-la-cfe/ar3257160",
+      "fecha": "13 Aug 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Detecta salmonela desde 2024 en NL",
+      "resumen": "Operan empacadoras y exportadoras de chilesdesde el Mercado de Abastos Estrella.",
+      "link": "https://www.reforma.com/detecta-salmonela-desde-2024-en-nl/ar3257108",
+      "fecha": "13 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -162,15 +171,6 @@
       "titulo": "Aprietan a México por trabajo forzoso",
       "resumen": "Aranceles del Presidente Donald Trump a México por trabajo forzoso podría contaminar la revisión del T-MEC, consideran especialistas.",
       "link": "https://www.reforma.com/aprietan-a-mexico-por-trabajo-forzoso/ar3257028",
-      "fecha": "13 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan escasez crítica de ingenieros de datos",
-      "resumen": "Interrupción de IA ha impulsado 32% la demanda de ingenieros de datos y es uno de los perfiles más difíciles de cubrir, reveló Bluetab.",
-      "link": "https://www.reforma.com/alertan-escasez-critica-de-ingenieros-de-datos/ar3257016",
       "fecha": "13 Aug 2026, 05:01 hrs"
     },
     {
@@ -186,10 +186,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen economistas a acelerar el crecimiento",
-      "resumen": "Economistas señalaron la necesidad urgente de acelerar la economía del País mediante inversión y superar el clima de incertidumbre.",
-      "link": "https://www.reforma.com/urgen-economistas-a-acelerar-el-crecimiento/ar3256893",
-      "fecha": "12 Aug 2026, 20:14 hrs"
+      "titulo": "Alertan escasez crítica de ingenieros de datos",
+      "resumen": "Interrupción de IA ha impulsado 32% la demanda de ingenieros de datos y es uno de los perfiles más difíciles de cubrir, reveló Bluetab.",
+      "link": "https://www.reforma.com/alertan-escasez-critica-de-ingenieros-de-datos/ar3257016",
+      "fecha": "13 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tarda más México en certificar que EU",
+      "resumen": "Empresas de comercio exterior que buscan certificación OEA, que brinda el SAT, esperan hasta 18 meses para obtenerla.",
+      "link": "https://www.reforma.com/tarda-mas-mexico-en-certificar-que-eu/ar3257104",
+      "fecha": "13 Aug 2026, 06:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falla plataforma de identificación ganadera",
+      "resumen": "La plataforma digital encargada de la asignación de aretes identificadores de animales sumó dos días de fallas.",
+      "link": "https://www.reforma.com/falla-plataforma-de-identificacion-ganadera/ar3257105",
+      "fecha": "13 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Canadá considera aceptar aranceles de EU a las exportaciones de autos a cambio de menores gravámenes sobre vehículos que cumplen con T-MEC.",
       "link": "https://www.reforma.com/aceptaria-canada-aranceles-de-eu-a-autos/ar3256884",
       "fecha": "12 Aug 2026, 16:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Batalla EU con aranceles de sección 301.- SE",
-      "resumen": "Negociación individual de 60 países ha frenado la aplicación de aranceles por parte de EU bajo la sección 301 o trabajo forzoso, reveló SE.",
-      "link": "https://www.reforma.com/batalla-eu-con-aranceles-de-seccion-301-se/ar3256854",
-      "fecha": "12 Aug 2026, 15:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanza México primeros plaguicidas biológicos",
-      "resumen": "Bajo el sello de GreenLight Biosciences, México lanzó el primer fungicida del mundo con biotecnología.",
-      "link": "https://www.reforma.com/lanza-mexico-primeros-plaguicidas-biologicos/ar3256825",
-      "fecha": "12 Aug 2026, 15:33 hrs"
     }
   ]
 }
