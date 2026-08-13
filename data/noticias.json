@@ -1,5 +1,5 @@
 {
-  "actualizado": "12/08/2026 17:40 hrs",
+  "actualizado": "12/08/2026 19:56 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
+      "resumen": "La producción de hidrocarburos ronda 1.6 millones de barriles diarios y especialistas ven en el fracking una alternativa para acercarse a la meta de 1.8 millones.",
+      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
+      "fecha": "12 Aug 2026, 16:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana vs. Volaris y Viva: ¿cómo compite la aerolínea estatal por los pasajeros de bajo costo?",
+      "resumen": "Las aerolíneas de bajo costo que operan en el país buscan colocarse entre las preferidas por los clientes, por lo que apuestan por lanzar promociones y aumentar su flotilla.",
+      "link": "https://expansion.mx/empresas/2026/08/12/mexicana-vs-volaris-y-viva-que-aerolinea-tiene-mas-vuelos",
+      "fecha": "12 Aug 2026, 16:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "No todo son ganancias para Carlos Slim: sus empresas también registran miles de millones en impuestos",
+      "resumen": "Los reportes financieros de América Móvil y Grupo Carso revelan cuánto representó este concepto en sus resultados de 2025 y permiten dimensionar el tamaño de sus operaciones.",
+      "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
+      "fecha": "12 Aug 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "BYD Racco, el auto eléctrico de Japón que recuerda a Olinia por su tamaño y enfoque urbano",
       "resumen": "La compañía china BYD incursionó en la categoría de los llamados kei cars, que por años había sido exclusiva de las marcas japonesas.",
       "link": "https://expansion.mx/empresas/2026/08/12/byd-racco-electrico-parecido-olinia-tamano-urbano",
@@ -118,33 +145,6 @@
       "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
       "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
       "fecha": "11 Aug 2026, 17:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Chevrolet a Kia: los autos eléctricos que ya se fabrican en México y cuánto cuestan en 2026",
-      "resumen": "México se ha convertido en un importante centro de producción de autos con tecnologías renovables, como es el caso de los eléctricos.",
-      "link": "https://expansion.mx/empresas/2026/08/11/autos-electricos-fabricados-mexico-2026",
-      "fecha": "11 Aug 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex quema casi una quinta parte del gas que produce en medio de la dependencia de EU",
-      "resumen": "México importa entre 70% y 75% del gas natural que consume, mientras Pemex dejó sin aprovechar 778 millones de pies cúbicos diarios durante el segundo trimestre de 2026, casi el doble que un año antes…",
-      "link": "https://expansion.mx/empresas/2026/08/11/mexico-importa-70-gas-natural-pemex-quema-produce",
-      "fecha": "11 Aug 2026, 16:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/08/11/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "11 Aug 2026, 12:23 hrs"
     },
     {
       "fuente": "Reforma",
