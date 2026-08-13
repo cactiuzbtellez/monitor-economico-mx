@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/08/2026 07:08 hrs",
+  "actualizado": "13/08/2026 08:56 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
+      "resumen": "Manuel Bravo, presidente del CEG, señala que la revisión del T-MEC ha modificado el ritmo de nuevas inversiones, pero no representa una pérdida generalizada de confianza empresarial.",
+      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
+      "fecha": "13 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
       "resumen": "La producción de hidrocarburos ronda 1.6 millones de barriles diarios y especialistas ven en el fracking una alternativa para acercarse a la meta de 1.8 millones.",
       "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
@@ -138,15 +147,6 @@
       "fecha": "11 Aug 2026, 20:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Del imperio de Garza Sada a una institución nacional: quién controla al Tec de Monterrey",
-      "resumen": "La universidad fundada en Monterrey hace más de ocho décadas se convirtió en un ecosistema educativo y de salud que también incluye a Tecmilenio y TecSalud.",
-      "link": "https://expansion.mx/empresas/2026/08/11/historia-tec-de-monterrey-eugenio-garza-sada-dueno",
-      "fecha": "11 Aug 2026, 17:40 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla plataforma de identificación ganadera",
+      "titulo": "Falla plataforma digital de identificación ganadera",
       "resumen": "La plataforma digital encargada de la asignación de aretes identificadores de animales sumó dos días de fallas.",
-      "link": "https://www.reforma.com/falla-plataforma-de-identificacion-ganadera/ar3257105",
+      "link": "https://www.reforma.com/falla-plataforma-digital-de-identificacion-ganadera/ar3257105",
       "fecha": "13 Aug 2026, 06:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aceptaría Canadá aranceles de EU a autos",
-      "resumen": "Canadá considera aceptar aranceles de EU a las exportaciones de autos a cambio de menores gravámenes sobre vehículos que cumplen con T-MEC.",
-      "link": "https://www.reforma.com/aceptaria-canada-aranceles-de-eu-a-autos/ar3256884",
-      "fecha": "12 Aug 2026, 16:16 hrs"
+      "titulo": "Muestra desplome  inversión minera",
+      "resumen": "Camimex reveló que en 2025, la inversión  privada en nuevos proyectos mineros se desplomó a su nivel más bajo en dos décadas.",
+      "link": "https://www.reforma.com/muestra-desplome-inversion-minera/ar3257046",
+      "fecha": "13 Aug 2026, 05:01 hrs"
     }
   ]
 }
