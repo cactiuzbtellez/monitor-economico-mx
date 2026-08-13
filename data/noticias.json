@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/08/2026 14:41 hrs",
+  "actualizado": "13/08/2026 15:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El 15 de agosto es la fecha límite del registro de celular: qué líneas podrían quedar sin servicio",
-      "resumen": "Después de la terminación 0, las líneas con terminación 1 tendrán hasta el 31 de agosto para completar el registro.",
-      "link": "https://expansion.mx/empresas/2026/08/13/15-agosto-fecha-limite-regisro-linea-celular",
-      "fecha": "13 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Seis SUVs que puedes comprar en México por menos de 600,000 pesos",
-      "resumen": "El mercado mexicano automotriz cuenta con una amplia variedad de modelos SUV con precios por menos de los 600,000 pesos.",
-      "link": "https://expansion.mx/empresas/2026/08/13/seis-suv-por-menos-600-000-pesos-mexico",
-      "fecha": "13 Aug 2026, 13:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
       "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
       "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
@@ -147,6 +129,24 @@
       "fecha": "12 Aug 2026, 14:31 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Flix, la competencia de ADO y ETN, va por su expansión nacional con alianzas",
+      "resumen": "La firma de origen alemán busca ampliar su presencia en México mediante alianzas con micro y pequeños permisionarios, con el objetivo de llevar su red a nuevas rutas y competir con los grandes operado…",
+      "link": "https://expansion.mx/empresas/2026/08/12/flix-plan-expansion-autobuses-mexico-competir-ado-etn",
+      "fecha": "12 Aug 2026, 11:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Restaurantes enfrentan alzas de hasta 40% en insumos que presionan sus márgenes ante un menor consumo",
+      "resumen": "Carne, lácteos, verduras, jitomate y aguacate acumularon alzas durante el primer semestre, mientras los restaurantes evalúan la automatización de procesos para contener el impacto de estos mayores cos…",
+      "link": "https://expansion.mx/empresas/2026/08/12/restaurantes-alzas-40-insumos-precios-platillos",
+      "fecha": "12 Aug 2026, 10:09 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben 5.9% ingresos por turismo; cortan tres meses con bajas",
-      "resumen": "A tasa anual, en junio pasado, en el País, el total de ingresos por viajeros internacionales subió 5.9%.",
-      "link": "https://www.reforma.com/suben-5-9-ingresos-por-turismo-cortan-tres-meses-con-bajas/ar3257390",
-      "fecha": "13 Aug 2026, 12:20 hrs"
+      "titulo": "Cambia logo de Instagram tras más de 10 años",
+      "resumen": "Tras más de una década, Instagram reveló su nuevo logotipo de la mano de su director general, Adam Mosseti.",
+      "link": "https://www.reforma.com/cambia-logo-de-instagram-tras-mas-de-10-anos/ar3257511",
+      "fecha": "13 Aug 2026, 15:22 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Detectan salmonela desde 2024 en NL",
-      "resumen": "Exportadoras de chiles que operan en el Mercado de Abastos Estrella han sido señaladas por EU de enviar producto con salmonela desde 2024.",
-      "link": "https://www.reforma.com/detectan-salmonela-desde-2024-en-nl/ar3257108",
-      "fecha": "13 Aug 2026, 06:55 hrs"
+      "titulo": "Suben 5.9% ingresos por turismo; cortan tres meses con bajas",
+      "resumen": "A tasa anual, en junio pasado, en el País, el total de ingresos por viajeros internacionales subió 5.9%.",
+      "link": "https://www.reforma.com/suben-5-9-ingresos-por-turismo-cortan-tres-meses-con-bajas/ar3257390",
+      "fecha": "13 Aug 2026, 12:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ahogan pensiones a Pemex y la CFE",
-      "resumen": "Incremento en los recursos destinados al pago de pensiones también amenaza a las finanzas de Pemex y CFE, aseguraron analistas del sector.",
-      "link": "https://www.reforma.com/ahogan-pensiones-a-pemex-y-la-cfe/ar3257160",
-      "fecha": "13 Aug 2026, 05:00 hrs"
+      "titulo": "Detectan salmonela desde 2024 en NL",
+      "resumen": "Exportadoras de chiles que operan en el Mercado de Abastos Estrella han sido señaladas por EU de enviar producto con salmonela desde 2024.",
+      "link": "https://www.reforma.com/detectan-salmonela-desde-2024-en-nl/ar3257108",
+      "fecha": "13 Aug 2026, 06:55 hrs"
     }
   ]
 }
