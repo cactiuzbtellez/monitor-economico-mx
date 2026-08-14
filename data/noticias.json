@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/08/2026 22:08 hrs",
+  "actualizado": "14/08/2026 00:12 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,51 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
+      "resumen": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresarial.",
+      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
+      "fecha": "13 Aug 2026, 18:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
+      "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
+      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
+      "fecha": "13 Aug 2026, 18:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Suburbia apuesta por inventarios más sanos para evitar liquidaciones y cuidar el margen",
+      "resumen": "La cadena de El Puerto de Liverpool busca reducir excedentes de mercancía y depender menos de liquidaciones, mientras enfrenta una caída de 6.4% en ventas mismas tiendas.",
+      "link": "https://expansion.mx/empresas/2026/08/13/suburbia-decide-vender-menos-para-ganar-mas",
+      "fecha": "13 Aug 2026, 16:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Padrón de Telefonía te da tres intentos para desvincular un número que no reconoces: esto pasa si fallas",
+      "resumen": "Si encuentras una línea telefónica que no reconoces asociada a tu CURP, puedes solicitar su desvinculación ante tu compañía telefónica.",
+      "link": "https://expansion.mx/empresas/2026/08/13/padron-telefonia-tres-intentos-desvincular-numero",
+      "fecha": "13 Aug 2026, 16:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana tiene nuevos aviones Embraer: todas sus características y cuántos pasajeros transportan",
+      "resumen": "La aerolínea, que retomó operaciones el 26 de diciembre de 2023, está ampliando su flota con aviones Embraer. De acuerdo con la Sedena, el plan contempla contar con 20 aeronaves de este tipo.",
+      "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
+      "fecha": "13 Aug 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
       "resumen": "El formato de descuento de FEMSA pasó de 479 tiendas en 2024 a 786 en junio de 2026, mientras fortalece su logística y apuesta por marcas propias.",
       "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
@@ -100,51 +145,6 @@
       "resumen": "El mercado mexicano automotriz cuenta con una amplia variedad de modelos SUV con precios por menos de los 600,000 pesos.",
       "link": "https://expansion.mx/empresas/2026/08/13/seis-suv-por-menos-600-000-pesos-mexico",
       "fecha": "13 Aug 2026, 13:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "13 Aug 2026, 10:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
-      "resumen": "Manuel Bravo, presidente del CEG, señala que la revisión del T-MEC ha modificado el ritmo de nuevas inversiones, pero no representa una pérdida generalizada de confianza empresarial.",
-      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
-      "fecha": "13 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "No solo gas: especialistas proponen incluir petróleo en la estrategia de fracking en México",
-      "resumen": "La producción de hidrocarburos ronda 1.6 millones de barriles diarios y especialistas ven en el fracking una alternativa para acercarse a la meta de 1.8 millones.",
-      "link": "https://expansion.mx/empresas/2026/08/12/no-solo-gas-especialistas-proponen-incluir-petroleo-en-la-estrategia-de-fracking-en-mexico",
-      "fecha": "12 Aug 2026, 16:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana vs. Volaris y Viva: ¿cómo compite la aerolínea estatal por los pasajeros de bajo costo?",
-      "resumen": "Las aerolíneas de bajo costo que operan en el país buscan colocarse entre las preferidas por los clientes, por lo que apuestan por lanzar promociones y aumentar su flotilla.",
-      "link": "https://expansion.mx/empresas/2026/08/12/mexicana-vs-volaris-y-viva-que-aerolinea-tiene-mas-vuelos",
-      "fecha": "12 Aug 2026, 16:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "No todo son ganancias para Carlos Slim: sus empresas también registran miles de millones en impuestos",
-      "resumen": "Los reportes financieros de América Móvil y Grupo Carso revelan cuánto representó este concepto en sus resultados de 2025 y permiten dimensionar el tamaño de sus operaciones.",
-      "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
-      "fecha": "12 Aug 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
