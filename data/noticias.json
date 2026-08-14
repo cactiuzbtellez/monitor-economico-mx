@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/08/2026 19:53 hrs",
+  "actualizado": "13/08/2026 22:08 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mexicana tiene nuevos aviones Embraer: todas sus características y cuántos pasajeros transportan",
-      "resumen": "La aerolínea, que retomó operaciones el 26 de diciembre de 2023, está ampliando su flota con aviones Embraer. De acuerdo con la Sedena, el plan contempla contar con 20 aeronaves de este tipo.",
-      "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
-      "fecha": "13 Aug 2026, 15:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
       "resumen": "El formato de descuento de FEMSA pasó de 479 tiendas en 2024 a 786 en junio de 2026, mientras fortalece su logística y apuesta por marcas propias.",
       "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
@@ -147,48 +138,66 @@
       "fecha": "12 Aug 2026, 16:47 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acusa EU triangulación de exportaciones chinas vía México",
-      "resumen": "Según la Casa Blanca, China ha triangulado mercancías hacia EU, a través de 40 países, entre ellos México.",
-      "link": "https://www.reforma.com/acusa-eu-triangulacion-de-exportaciones-chinas-via-mexico/ar3257386",
-      "fecha": "13 Aug 2026, 12:16 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "No todo son ganancias para Carlos Slim: sus empresas también registran miles de millones en impuestos",
+      "resumen": "Los reportes financieros de América Móvil y Grupo Carso revelan cuánto representó este concepto en sus resultados de 2025 y permiten dimensionar el tamaño de sus operaciones.",
+      "link": "https://expansion.mx/empresas/2026/08/12/carlos-slim-gana-millones-empresas-pagan-impuestos",
+      "fecha": "12 Aug 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Resuelven queja laboral contra Grupo Yazaki",
-      "resumen": "USTR informó que la queja laboral contra Grupo Yasaki fue resuelta a favor de los trabajadores tras vulnerar derechos sindicales.",
-      "link": "https://www.reforma.com/resuelven-queja-laboral-contra-grupo-yazaki/ar3257477",
-      "fecha": "13 Aug 2026, 14:25 hrs"
+      "titulo": "Vence este sábado plazo para registrar líneas terminación 0",
+      "resumen": "CRT invitó a usuarios cuyo número de celular termine en 0 a realizar su vinculación antes del sábado 15 de agosto ya que no habrá prorroga.",
+      "link": "https://www.reforma.com/vence-este-sabado-plazo-para-registrar-lineas-terminacion-0/ar3257834",
+      "fecha": "13 Aug 2026, 22:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Temen automotrices que revisión de T-MEC les cueste caro",
-      "resumen": "Automotrices de Detroit temen que propuestas planteadas por EU en negociaciones con México el próximo mes disparen aún más sus costos.",
-      "link": "https://www.reforma.com/temen-automotrices-que-revision-de-t-mec-les-cueste-caro/ar3257349",
-      "fecha": "13 Aug 2026, 11:22 hrs"
+      "titulo": "Sostienen al 'superpeso' tasas de largo plazo",
+      "resumen": "Rendimiento de instrumentos mexicanos y la reducción en la diferencia de tasas entre México y EU han sostenido el superpeso, señaló Banamex.",
+      "link": "https://www.reforma.com/sostienen-al-superpeso-tasas-de-largo-plazo/ar3257798",
+      "fecha": "13 Aug 2026, 21:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuestionan mejoras en País debido a exportaciones",
-      "resumen": "El aumento de las exportaciones, no necesariamente refleja avances en la generación de empleos o el valor agregado nacional, dijo Deloitte.",
-      "link": "https://www.reforma.com/cuestionan-mejoras-en-pais-debido-a-exportaciones/ar3257441",
-      "fecha": "13 Aug 2026, 14:14 hrs"
+      "titulo": "Endurecen reglas y sanciones para asignar horarios de vuelos",
+      "resumen": "La SICT dio a conocer las nuevas Bases Generales para la asignación de slots en aeródromos con Saturación Nivel 3.",
+      "link": "https://www.reforma.com/endurecen-reglas-y-sanciones-para-asignar-horarios-de-vuelos/ar3257611",
+      "fecha": "13 Aug 2026, 17:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cambia logo de Instagram tras más de 10 años",
-      "resumen": "Tras más de una década, Instagram reveló su nuevo logotipo de la mano de su director general, Adam Mosseti.",
-      "link": "https://www.reforma.com/cambia-logo-de-instagram-tras-mas-de-10-anos/ar3257511",
+      "titulo": "Supera beneficio de Nubank los 1,000 mdd por primera vez",
+      "resumen": "El banco digital brasileño Nubank registró por primera vez un beneficio neto trimestral superior a mil mdd, por encima de las previsiones.",
+      "link": "https://www.reforma.com/supera-beneficio-de-nubank-los-1-000-mdd-por-primera-vez/ar3257558",
+      "fecha": "13 Aug 2026, 15:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben 11% acciones de Reddit tras su inclusión en el S&amp;P 500",
+      "resumen": "Las acciones de Reddit subieron un 11%, tras informarse que la empresa se incorporará al índice S&amp;P 500 a partir del 18 de agosto.",
+      "link": "https://www.reforma.com/suben-11-acciones-de-reddit-tras-su-inclusion-en-el-s-p-500/ar3257553",
+      "fecha": "13 Aug 2026, 15:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cambia Instagram logo tras más de 10 años",
+      "resumen": "Tras más de una década, Instagram reveló su nuevo logotipo 'más limpio y moderno' de la mano de su director general, Adam Mosseri.",
+      "link": "https://www.reforma.com/cambia-instagram-logo-tras-mas-de-10-anos/ar3257511",
       "fecha": "13 Aug 2026, 15:22 hrs"
     },
     {
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben 5.9% ingresos por turismo; cortan tres meses con bajas",
-      "resumen": "A tasa anual, en junio pasado, en el País, el total de ingresos por viajeros internacionales subió 5.9%.",
-      "link": "https://www.reforma.com/suben-5-9-ingresos-por-turismo-cortan-tres-meses-con-bajas/ar3257390",
-      "fecha": "13 Aug 2026, 12:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 11% acciones de Reddit tras su inclusión en el S&amp;P 500",
-      "resumen": "Las acciones de Reddit subieron un 11%, tras informarse que la empresa se incorporará al índice S&amp;P 500 a partir del 18 de agosto.",
-      "link": "https://www.reforma.com/suben-11-acciones-de-reddit-tras-su-inclusion-en-el-s-p-500/ar3257553",
-      "fecha": "13 Aug 2026, 15:43 hrs"
+      "titulo": "Cierran precios del crudo con baja de más de 2%",
+      "resumen": "Este jueves, el precio del crudo Brent cayó un 2.15%, hasta los 87.07 dólares por barril; el WTI descendió un 2.43%, a 81.25 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-mas-de-2/ar3257491",
+      "fecha": "13 Aug 2026, 14:25 hrs"
     }
   ]
 }
