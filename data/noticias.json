@@ -1,16 +1,7 @@
 {
-  "actualizado": "14/08/2026 14:30 hrs",
+  "actualizado": "14/08/2026 15:23 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "fecha": "14 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,42 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
+      "resumen": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
+      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
+      "fecha": "12 Aug 2026, 05:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "fecha": "14 Aug 2026, 14:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
+      "resumen": "La oferta de vehículos híbridos en México ha crecido durante los últimos años; estos modelos destacan por sus características y precios.",
+      "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
+      "fecha": "14 Aug 2026, 13:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
+      "resumen": "Las líneas que no sean vinculadas dentro del plazo correspondiente pueden ser suspendidas, aunque utilicen una eSIM en lugar de una tarjeta SIM tradicional.",
+      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
+      "fecha": "14 Aug 2026, 13:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
@@ -118,33 +145,6 @@
       "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
       "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
       "fecha": "13 Aug 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Suburbia apuesta por inventarios más sanos para evitar liquidaciones y cuidar el margen",
-      "resumen": "La cadena de El Puerto de Liverpool busca reducir excedentes de mercancía y depender menos de liquidaciones, mientras enfrenta una caída de 6.4% en ventas mismas tiendas.",
-      "link": "https://expansion.mx/empresas/2026/08/13/suburbia-decide-vender-menos-para-ganar-mas",
-      "fecha": "13 Aug 2026, 16:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Padrón de Telefonía te da tres intentos para desvincular un número que no reconoces: esto pasa si fallas",
-      "resumen": "Si encuentras una línea telefónica que no reconoces asociada a tu CURP, puedes solicitar su desvinculación ante tu compañía telefónica.",
-      "link": "https://expansion.mx/empresas/2026/08/13/padron-telefonia-tres-intentos-desvincular-numero",
-      "fecha": "13 Aug 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana tiene nuevos aviones Embraer: todas sus características y cuántos pasajeros transportan",
-      "resumen": "La aerolínea, que retomó operaciones el 26 de diciembre de 2023, está ampliando su flota con aviones Embraer. De acuerdo con la Sedena, el plan contempla contar con 20 aeronaves de este tipo.",
-      "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
-      "fecha": "13 Aug 2026, 15:59 hrs"
     },
     {
       "fuente": "Reforma",
