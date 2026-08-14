@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/08/2026 09:51 hrs",
+  "actualizado": "14/08/2026 10:51 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
+      "resumen": "Los 14 millones de usuarios con líneas terminadas en 0 enfrentan el primer vencimiento del registro y tras las 72 horas adicionales, los operadores determinarán cuánto tiempo conservarán el número ant…",
+      "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
+      "fecha": "14 Aug 2026, 09:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen apuesta todo por el ‘controvertido’ motor 1.0 turbo en Taigun",
+      "resumen": "¿Por qué Volkswagen mantiene un motor de tres cilindros en Taigun cuando existen opciones de mayor cilindrada? La respuesta está en la estrategia de negocio para México.",
+      "link": "https://expansion.mx/empresas/2026/08/14/volkswagen-mantiene-controvertido-motor-1-0-turbo-taigun",
+      "fecha": "14 Aug 2026, 08:37 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
       "resumen": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresarial.",
       "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
@@ -127,24 +145,6 @@
       "resumen": "El formato de descuento de FEMSA pasó de 479 tiendas en 2024 a 786 en junio de 2026, mientras fortalece su logística y apuesta por marcas propias.",
       "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
       "fecha": "13 Aug 2026, 15:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El 15 de agosto es la fecha límite del registro de celular: qué líneas podrían quedar sin servicio",
-      "resumen": "Después de la terminación 0, las líneas con terminación 1 tendrán hasta el 31 de agosto para completar el registro.",
-      "link": "https://expansion.mx/empresas/2026/08/13/15-agosto-fecha-limite-regisro-linea-celular",
-      "fecha": "13 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Seis SUVs que puedes comprar en México por menos de 600,000 pesos",
-      "resumen": "El mercado mexicano automotriz cuenta con una amplia variedad de modelos SUV con precios por menos de los 600,000 pesos.",
-      "link": "https://expansion.mx/empresas/2026/08/13/seis-suv-por-menos-600-000-pesos-mexico",
-      "fecha": "13 Aug 2026, 13:02 hrs"
     },
     {
       "fuente": "Reforma",
