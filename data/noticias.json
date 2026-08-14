@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/08/2026 05:42 hrs",
+  "actualizado": "14/08/2026 07:04 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
+      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
+      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
+      "fecha": "14 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
-      "resumen": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
-      "fecha": "12 Aug 2026, 05:56 hrs"
+      "titulo": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
+      "resumen": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresarial.",
+      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
+      "fecha": "13 Aug 2026, 18:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
+      "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
+      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
+      "fecha": "13 Aug 2026, 18:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "El mercado mexicano automotriz cuenta con una amplia variedad de modelos SUV con precios por menos de los 600,000 pesos.",
       "link": "https://expansion.mx/empresas/2026/08/13/seis-suv-por-menos-600-000-pesos-mexico",
       "fecha": "13 Aug 2026, 13:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "13 Aug 2026, 10:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
-      "resumen": "Manuel Bravo, presidente del CEG, señala que la revisión del T-MEC ha modificado el ritmo de nuevas inversiones, pero no representa una pérdida generalizada de confianza empresarial.",
-      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
-      "fecha": "13 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
