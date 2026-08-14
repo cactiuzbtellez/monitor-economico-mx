@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/08/2026 16:21 hrs",
+  "actualizado": "14/08/2026 17:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
-      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
-      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
-      "fecha": "14 Aug 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
       "resumen": "La oferta de vehículos híbridos en México ha crecido durante los últimos años; estos modelos destacan por sus características y precios.",
       "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
@@ -145,6 +136,15 @@
       "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
       "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
       "fecha": "13 Aug 2026, 18:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Suburbia apuesta por inventarios más sanos para evitar liquidaciones y cuidar el margen",
+      "resumen": "La cadena de El Puerto de Liverpool busca reducir excedentes de mercancía y depender menos de liquidaciones, mientras enfrenta una caída de 6.4% en ventas mismas tiendas.",
+      "link": "https://expansion.mx/empresas/2026/08/13/suburbia-decide-vender-menos-para-ganar-mas",
+      "fecha": "13 Aug 2026, 16:51 hrs"
     },
     {
       "fuente": "Reforma",
