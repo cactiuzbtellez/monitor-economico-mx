@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/08/2026 04:00 hrs",
+  "actualizado": "14/08/2026 05:42 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los empresarios mexicanos que hicieron millones al vender sus empresas",
-      "resumen": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresarial.",
-      "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
-      "fecha": "13 Aug 2026, 18:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
-      "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
-      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
-      "fecha": "13 Aug 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Suburbia apuesta por inventarios más sanos para evitar liquidaciones y cuidar el margen",
       "resumen": "La cadena de El Puerto de Liverpool busca reducir excedentes de mercancía y depender menos de liquidaciones, mientras enfrenta una caída de 6.4% en ventas mismas tiendas.",
       "link": "https://expansion.mx/empresas/2026/08/13/suburbia-decide-vender-menos-para-ganar-mas",
@@ -147,13 +129,49 @@
       "fecha": "13 Aug 2026, 13:02 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
+      "link": "https://expansion.mx/empresas/2026/08/13/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "fecha": "13 Aug 2026, 10:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“La cautela no debe interpretarse como una salida de inversión”, señala el presidente del Consejo de Empresas Globales",
+      "resumen": "Manuel Bravo, presidente del CEG, señala que la revisión del T-MEC ha modificado el ritmo de nuevas inversiones, pero no representa una pérdida generalizada de confianza empresarial.",
+      "link": "https://expansion.mx/empresas/2026/08/13/la-cautela-no-debe-interpretarse-como-una-salida-de-inversion-senala-el-presidente-del-consejo-de-empresas-globales",
+      "fecha": "13 Aug 2026, 05:55 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vence este sábado plazo para registrar líneas terminación 0",
-      "resumen": "CRT invitó a usuarios cuyo número de celular termine en 0 a realizar su vinculación antes del sábado 15 de agosto ya que no habrá prorroga.",
-      "link": "https://www.reforma.com/vence-este-sabado-plazo-para-registrar-lineas-terminacion-0/ar3257834",
-      "fecha": "13 Aug 2026, 22:03 hrs"
+      "titulo": "Busca Pemex 'oxígeno' 6 mil metros de profundidad",
+      "resumen": "Crisis de producción petrolera en encontraría \"oxígeno\" justo debajo del histórico campo Cantarell, a más de 6 mil metros de profundidad.",
+      "link": "https://www.reforma.com/busca-pemex-oxigeno-6-mil-metros-de-profundidad/ar3257769",
+      "fecha": "14 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sugieren dinamizar cadena de suministros",
+      "resumen": "Para los comercializadores mexicanos, el contar con un marco regulatorio como T-MEC  no garantiza la distribución de mercancías.",
+      "link": "https://www.reforma.com/sugieren-dinamizar-cadena-de-suministros/ar3257802",
+      "fecha": "14 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipan recuperación de aerolíneas mexicanas",
+      "resumen": "Aerolíneas mexicanas perfilan una recuperación operativa en la segunda mitad de 2026, apoyada en la reincorporación gradual de aeronaves.",
+      "link": "https://www.reforma.com/anticipan-recuperacion-de-aerolineas-mexicanas/ar3257783",
+      "fecha": "14 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Tras más de una década, Instagram reveló su nuevo logotipo 'más limpio y moderno' de la mano de su director general, Adam Mosseri.",
       "link": "https://www.reforma.com/cambia-instagram-logo-tras-mas-de-10-anos/ar3257511",
       "fecha": "13 Aug 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Logra S&amp;P 500 máximo histórico de cierre",
-      "resumen": "El índice S&amp;P 500 registró un máximo histórico de 7 mil 799 puntos, impulsado por los avances de Sandisk y otros valores tecnológicos.",
-      "link": "https://www.reforma.com/logra-s-p-500-maximo-historico-de-cierre/ar3257503",
-      "fecha": "13 Aug 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja de más de 2%",
-      "resumen": "Este jueves, el precio del crudo Brent cayó un 2.15%, hasta los 87.07 dólares por barril; el WTI descendió un 2.43%, a 81.25 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-mas-de-2/ar3257491",
-      "fecha": "13 Aug 2026, 14:25 hrs"
     }
   ]
 }
