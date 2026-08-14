@@ -1,16 +1,7 @@
 {
-  "actualizado": "14/08/2026 07:04 hrs",
+  "actualizado": "14/08/2026 08:50 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "fecha": "14 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
       "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
       "fecha": "12 Aug 2026, 14:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
+      "resumen": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
+      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
+      "fecha": "12 Aug 2026, 05:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,16 +150,43 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Pemex 'oxígeno' 6 mil metros de profundidad",
+      "titulo": "Perfora peso  la barrera de los 17.00 por dólar",
+      "resumen": "En el mercado internacional, el tipo de cambio cotizaba en 16.9805 pesos por dólar, un máximo para la moneda mexicana desde mayo de 2024.",
+      "link": "https://www.reforma.com/perfora-peso-la-barrera-de-los-17-00-por-dolar/ar3257944",
+      "fecha": "14 Aug 2026, 07:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Pemex 'oxígeno'  a más de 6 mil metros de profundidad",
       "resumen": "Crisis de producción petrolera en encontraría \"oxígeno\" justo debajo del histórico campo Cantarell, a más de 6 mil metros de profundidad.",
-      "link": "https://www.reforma.com/busca-pemex-oxigeno-6-mil-metros-de-profundidad/ar3257769",
+      "link": "https://www.reforma.com/busca-pemex-oxigeno-a-mas-de-6-mil-metros-de-profundidad/ar3257769",
       "fecha": "14 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren dinamizar cadena de suministros",
+      "titulo": "Golpearía degradación a viajeros y aerolíneas",
+      "resumen": "Si la autoridad aeronáutica mexicana es degrada otra vez por la FAA, habrá encarecimiento del servicio y golpe a aerolíneas, dicen expertos.",
+      "link": "https://www.reforma.com/golpearia-degradacion-a-viajeros-y-aerolineas/ar3257862",
+      "fecha": "14 Aug 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Adeuda Estado 2 años también a clusters",
+      "resumen": "Desde hace 2 años el Gobierno de NL no ha entregado a diferentes clusters industriales los fondos para su operación.",
+      "link": "https://www.reforma.com/adeuda-estado-2-anos-tambien-a-clusters/ar3257869",
+      "fecha": "14 Aug 2026, 07:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sugieren dinamizar  cadena de suministros",
       "resumen": "Para los comercializadores mexicanos, el contar con un marco regulatorio como T-MEC  no garantiza la distribución de mercancías.",
       "link": "https://www.reforma.com/sugieren-dinamizar-cadena-de-suministros/ar3257802",
       "fecha": "14 Aug 2026, 05:01 hrs"
@@ -168,55 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipan recuperación de aerolíneas mexicanas",
-      "resumen": "Aerolíneas mexicanas perfilan una recuperación operativa en la segunda mitad de 2026, apoyada en la reincorporación gradual de aeronaves.",
-      "link": "https://www.reforma.com/anticipan-recuperacion-de-aerolineas-mexicanas/ar3257783",
-      "fecha": "14 Aug 2026, 05:01 hrs"
+      "titulo": "Ligan energía y agua en NL a caídas en actividad",
+      "resumen": "Va en picada la actividad industrial en generación, transmisión, distribución y comercialización de energía eléctrica en NL.",
+      "link": "https://www.reforma.com/ligan-energia-y-agua-en-nl-a-caidas-en-actividad/ar3257843",
+      "fecha": "14 Aug 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sostienen al 'superpeso' tasas de largo plazo",
-      "resumen": "Rendimiento de instrumentos mexicanos y la reducción en la diferencia de tasas entre México y EU han sostenido el superpeso, señaló Banamex.",
-      "link": "https://www.reforma.com/sostienen-al-superpeso-tasas-de-largo-plazo/ar3257798",
-      "fecha": "13 Aug 2026, 21:05 hrs"
+      "titulo": "Pega falla informática al comercio exterior",
+      "resumen": "Distintos sistemas informáticos asociados al Senasica fallaron entre el martes y el jueves, retrasando procesos.",
+      "link": "https://www.reforma.com/pega-falla-informatica-al-comercio-exterior/ar3257845",
+      "fecha": "14 Aug 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Endurecen reglas y sanciones para asignar horarios de vuelos",
-      "resumen": "La SICT dio a conocer las nuevas Bases Generales para la asignación de slots en aeródromos con Saturación Nivel 3.",
-      "link": "https://www.reforma.com/endurecen-reglas-y-sanciones-para-asignar-horarios-de-vuelos/ar3257611",
-      "fecha": "13 Aug 2026, 17:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera beneficio de Nubank los 1,000 mdd por primera vez",
-      "resumen": "El banco digital brasileño Nubank registró por primera vez un beneficio neto trimestral superior a mil mdd, por encima de las previsiones.",
-      "link": "https://www.reforma.com/supera-beneficio-de-nubank-los-1-000-mdd-por-primera-vez/ar3257558",
-      "fecha": "13 Aug 2026, 15:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 11% acciones de Reddit tras su inclusión en el S&amp;P 500",
-      "resumen": "Las acciones de Reddit subieron un 11%, tras informarse que la empresa se incorporará al índice S&amp;P 500 a partir del 18 de agosto.",
-      "link": "https://www.reforma.com/suben-11-acciones-de-reddit-tras-su-inclusion-en-el-s-p-500/ar3257553",
-      "fecha": "13 Aug 2026, 15:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cambia Instagram logo tras más de 10 años",
-      "resumen": "Tras más de una década, Instagram reveló su nuevo logotipo 'más limpio y moderno' de la mano de su director general, Adam Mosseri.",
-      "link": "https://www.reforma.com/cambia-instagram-logo-tras-mas-de-10-anos/ar3257511",
-      "fecha": "13 Aug 2026, 15:22 hrs"
+      "titulo": "Apuntan precios del crudo a ganancia semanal cercana al 4%",
+      "resumen": "El Brent y el WTI se encaminan hacia unas ganancias semanales de alrededor del 4.3% y 4.6%, respectivamente.",
+      "link": "https://www.reforma.com/apuntan-precios-del-crudo-a-ganancia-semanal-cercana-al-4/ar3257937",
+      "fecha": "14 Aug 2026, 07:37 hrs"
     }
   ]
 }
