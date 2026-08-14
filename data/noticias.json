@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/08/2026 08:50 hrs",
+  "actualizado": "14/08/2026 09:51 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
+      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
+      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
+      "fecha": "14 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
       "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
       "fecha": "12 Aug 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La informalidad en México tiene un potencial recaudatorio de hasta 1.42 billones de pesos",
-      "resumen": "Con ingresos tributarios que avanzan lentamente y mayores presiones de gasto, ampliar la base de contribuyentes aparece como una fuente potencial de recursos para el gobierno, de acuerdo con expertos.",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-busca-ingresos-informalidad-billones-pesos",
-      "fecha": "12 Aug 2026, 05:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren dinamizar  cadena de suministros",
-      "resumen": "Para los comercializadores mexicanos, el contar con un marco regulatorio como T-MEC  no garantiza la distribución de mercancías.",
-      "link": "https://www.reforma.com/sugieren-dinamizar-cadena-de-suministros/ar3257802",
-      "fecha": "14 Aug 2026, 05:01 hrs"
+      "titulo": "Impone EU aranceles de hasta 100% a drones y sus componentes",
+      "resumen": "La administración Trump anunció que está imponiendo aranceles de hasta 100% a los drones importados y sus componentes.",
+      "link": "https://www.reforma.com/impone-eu-aranceles-de-hasta-100-a-drones-y-sus-componentes/ar3257968",
+      "fecha": "14 Aug 2026, 08:57 hrs"
     },
     {
       "fuente": "Reforma",
