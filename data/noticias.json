@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/08/2026 04:21 hrs",
+  "actualizado": "15/08/2026 05:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Promete CFE atender apagones de restauranteros",
+      "resumen": "CFE prometió atender de manera prioritaria los cortes de luz que padecen los restaurantes del Barrio Antiguo, informó Canirac.",
+      "link": "https://www.reforma.com/promete-cfe-atender-apagones-de-restauranteros/ar3258346",
+      "fecha": "15 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae dólar por abajo de $17",
+      "resumen": "En el mercado internacional del Forex el dólar llegó a cotizarse ayer por la mañana por debajo de los 17 pesos durante unos momentos.",
+      "link": "https://www.reforma.com/cae-dolar-por-abajo-de-17/ar3258357",
+      "fecha": "15 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Son faros de Tesla demasiado brillantes",
+      "resumen": "Tesla está retirando 20 mil vehículos debido a que los faros son demasiado brillantes para los conductores que se aproximan.",
+      "link": "https://www.reforma.com/son-faros-de-tesla-demasiado-brillantes/ar3258133",
+      "fecha": "15 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frena la falta de refinerías precio del crudo.- Krugman",
+      "resumen": "Una escasez global en la capacidad de refinación de crudo ha contenido los precios, dijo el Premio Nobel de Economía, Paul Krugman.",
+      "link": "https://www.reforma.com/frena-la-falta-de-refinerias-precio-del-crudo-krugman/ar3258131",
+      "fecha": "15 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Se desploma BMV 3.80% en la semana",
       "resumen": "La Bolsa Mexicana de Valores cayó 0.66% este viernes y cerró en 64 mil 397.45 puntos; sin embargo sufrió un desplome semanal de 3.80%",
       "link": "https://www.reforma.com/se-desploma-bmv-3-80-en-la-semana/ar3258222",
@@ -181,42 +217,6 @@
       "resumen": "Crisis de producción petrolera en encontraría \"oxígeno\" justo debajo del histórico campo Cantarell, a más de 6 mil metros de profundidad.",
       "link": "https://www.reforma.com/busca-pemex-oxigeno-a-mas-de-6-mil-metros-de-profundidad/ar3257769",
       "fecha": "14 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Golpearía degradación a viajeros y aerolíneas",
-      "resumen": "Si la autoridad aeronáutica mexicana es degrada otra vez por la FAA, habrá encarecimiento del servicio y golpe a aerolíneas, dicen expertos.",
-      "link": "https://www.reforma.com/golpearia-degradacion-a-viajeros-y-aerolineas/ar3257862",
-      "fecha": "14 Aug 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impone EU aranceles de hasta 100% a drones y sus componentes",
-      "resumen": "La administración Trump anunció que está imponiendo aranceles de hasta 100% a los drones importados y sus componentes.",
-      "link": "https://www.reforma.com/impone-eu-aranceles-de-hasta-100-a-drones-y-sus-componentes/ar3257968",
-      "fecha": "14 Aug 2026, 08:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ligan energía y agua en NL a caídas en actividad",
-      "resumen": "Va en picada la actividad industrial en generación, transmisión, distribución y comercialización de energía eléctrica en NL.",
-      "link": "https://www.reforma.com/ligan-energia-y-agua-en-nl-a-caidas-en-actividad/ar3257843",
-      "fecha": "14 Aug 2026, 07:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Superarán ingresos de OpenAI los 40 mmdd antes de OPI",
-      "resumen": "OpenAI va rumbo a generar ingresos de más de 40 mmdd anuales según su desempeño actual, cerca del doble de lo registrado a finales de 2025.",
-      "link": "https://www.reforma.com/superaran-ingresos-de-openai-los-40-mmdd-antes-de-opi/ar3257980",
-      "fecha": "14 Aug 2026, 09:27 hrs"
     }
   ]
 }
