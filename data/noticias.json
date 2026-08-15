@@ -1,25 +1,7 @@
 {
-  "actualizado": "14/08/2026 20:51 hrs",
+  "actualizado": "14/08/2026 21:37 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
-      "resumen": "La cuota IEPS para la gasolina Magna será de 5.60 pesos por litro, lo que representa un incremento de 1.34 pesos, en comparación con la cuota que aplicó los primeros siete días de agosto.",
-      "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
-      "fecha": "14 Aug 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
-      "resumen": "El ahorro que sirve para hacer frente a la falta de ingresos en los estados, reporta apenas el 17% de su saldo máximo reportado en 2018, refieren datos de la Secretaría de Hacienda y Crédito Público.",
-      "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
-      "fecha": "14 Aug 2026, 16:56 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "El secretario de Economía, Marcelo Ebrard, recurrió a uno de los principales productos que México compra a Estados Unidos para poner a prueba la lógica de la investigación de la USTR.",
       "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
       "fecha": "12 Aug 2026, 17:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
+      "resumen": "México buscará recortar 0.7 puntos del PIB a su déficit fiscal entre 2026 y 2027, de acuerdo con las estimaciones de la institución financiera.",
+      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
+      "fecha": "12 Aug 2026, 14:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
+      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
+      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
+      "fecha": "12 Aug 2026, 14:13 hrs"
     },
     {
       "fuente": "Expansión",
