@@ -1,7 +1,25 @@
 {
-  "actualizado": "14/08/2026 17:20 hrs",
+  "actualizado": "14/08/2026 19:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
+      "resumen": "La cuota IEPS para la gasolina Magna será de 5.60 pesos por litro, lo que representa un incremento de 1.34 pesos, en comparación con la cuota que aplicó los primeros siete días de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
+      "fecha": "14 Aug 2026, 18:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
+      "resumen": "El ahorro que sirve para hacer frente a la falta de ingresos en los estados, reporta apenas el 17% de su saldo máximo reportado en 2018, refieren datos de la Secretaría de Hacienda y Crédito Público.",
+      "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
+      "fecha": "14 Aug 2026, 16:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,51 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Citi anticipa que los ajustes al gasto público definan Paquete Económico de 2027",
-      "resumen": "México buscará recortar 0.7 puntos del PIB a su déficit fiscal entre 2026 y 2027, de acuerdo con las estimaciones de la institución financiera.",
-      "link": "https://expansion.mx/economia/2026/08/12/citi-ajustes-gasto-publico-paquete-economico-2027",
-      "fecha": "12 Aug 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU alista un “pasaporte digital” para vigilar el comercio de chips y minerales en el Canal de Panamá",
-      "resumen": "Estados Unidos destinará hasta 50 millones de dólares a rastrear el origen y recorrido de cargamentos tecnológicos.",
-      "link": "https://expansion.mx/economia/2026/08/12/eu-rastreara-chips-minerales-canal-panama",
-      "fecha": "12 Aug 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
-      "resumen": "La oferta de vehículos híbridos en México ha crecido durante los últimos años; estos modelos destacan por sus características y precios.",
-      "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
-      "fecha": "14 Aug 2026, 13:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
-      "resumen": "Las líneas que no sean vinculadas dentro del plazo correspondiente pueden ser suspendidas, aunque utilicen una eSIM en lugar de una tarjeta SIM tradicional.",
-      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
-      "fecha": "14 Aug 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
-      "resumen": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
-      "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
-      "fecha": "14 Aug 2026, 12:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
@@ -145,6 +118,42 @@
       "resumen": "La cadena de El Puerto de Liverpool busca reducir excedentes de mercancía y depender menos de liquidaciones, mientras enfrenta una caída de 6.4% en ventas mismas tiendas.",
       "link": "https://expansion.mx/empresas/2026/08/13/suburbia-decide-vender-menos-para-ganar-mas",
       "fecha": "13 Aug 2026, 16:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Padrón de Telefonía te da tres intentos para desvincular un número que no reconoces: esto pasa si fallas",
+      "resumen": "Si encuentras una línea telefónica que no reconoces asociada a tu CURP, puedes solicitar su desvinculación ante tu compañía telefónica.",
+      "link": "https://expansion.mx/empresas/2026/08/13/padron-telefonia-tres-intentos-desvincular-numero",
+      "fecha": "13 Aug 2026, 16:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana tiene nuevos aviones Embraer: todas sus características y cuántos pasajeros transportan",
+      "resumen": "La aerolínea, que retomó operaciones el 26 de diciembre de 2023, está ampliando su flota con aviones Embraer. De acuerdo con la Sedena, el plan contempla contar con 20 aeronaves de este tipo.",
+      "link": "https://expansion.mx/empresas/2026/08/13/mexicana-nuevos-aviones-embraer-como-son",
+      "fecha": "13 Aug 2026, 15:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "FEMSA quiere destronar a Tiendas 3B: Bara, el “primo” de Oxxo, acelera su expansión en México",
+      "resumen": "El formato de descuento de FEMSA pasó de 479 tiendas en 2024 a 786 en junio de 2026, mientras fortalece su logística y apuesta por marcas propias.",
+      "link": "https://expansion.mx/empresas/2026/08/13/femsa-bara-primo-de-oxxo-que-compite-tiendas-3b",
+      "fecha": "13 Aug 2026, 15:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se desploma BMV 3.80% en la semana",
+      "resumen": "La Bolsa Mexicana de Valores cayó 0.66% este viernes y cerró en 64 mil 397.45 puntos; sin embargo sufrió un desplome semanal de 3.80%",
+      "link": "https://www.reforma.com/se-desploma-bmv-3-80-en-la-semana/ar3258222",
+      "fecha": "14 Aug 2026, 18:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "OpenAI va rumbo a generar ingresos de más de 40 mmdd anuales según su desempeño actual, cerca del doble de lo registrado a finales de 2025.",
       "link": "https://www.reforma.com/superaran-ingresos-de-openai-los-40-mmdd-antes-de-opi/ar3257980",
       "fecha": "14 Aug 2026, 09:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con alza de más de 1%",
-      "resumen": "El precio del Brent aumentó 1.67%, hasta los 88.52 dólares por barril, mientras que el West Texas Intermediate subió 1.42%, a 82.40 dólares",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-alza-de-mas-de-1/ar3258123",
-      "fecha": "14 Aug 2026, 14:18 hrs"
     }
   ]
 }
