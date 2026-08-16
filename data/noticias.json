@@ -1,7 +1,16 @@
 {
-  "actualizado": "16/08/2026 08:21 hrs",
+  "actualizado": "16/08/2026 09:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Un PIB estancado: por qué México no crece",
+      "resumen": "El país esperaba una nueva etapa de expansión, pero la baja inversión y la productividad que no avanza apuntan a una economía con menos margen para crecer.",
+      "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
+      "fecha": "16 Aug 2026, 06:16 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La seguridad económica abre una discusión que puede modificar las decisiones de inversión y la integración productiva de Norteamérica.",
       "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
       "fecha": "12 Aug 2026, 18:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México cuestiona el criterio con el que EU prepara nuevos aranceles por sobrecapacidad",
-      "resumen": "El secretario de Economía, Marcelo Ebrard, recurrió a uno de los principales productos que México compra a Estados Unidos para poner a prueba la lógica de la investigación de la USTR.",
-      "link": "https://expansion.mx/economia/2026/08/12/mexico-cuestiona-aranceles-eu-sobrecapacidad",
-      "fecha": "12 Aug 2026, 17:57 hrs"
     },
     {
       "fuente": "Expansión",
