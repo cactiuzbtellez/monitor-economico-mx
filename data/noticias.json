@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/08/2026 17:19 hrs",
+  "actualizado": "15/08/2026 19:15 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Comisión Nacional Antimonopolios aprueba en México la fusión de Paramount y Warner Bros",
+      "resumen": "México se sumó a los 70 países que dieron luz verde a la fusión de los estudios de entretenimiento, una operación valuada en 110,000 mdd; sin embargo, Paramount aún enfrenta una demanda de 12 fiscales…",
+      "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
+      "fecha": "15 Aug 2026, 12:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
       "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
       "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
@@ -136,15 +145,6 @@
       "resumen": "Las familias Achar, Arango y Aramburuzabala dejaron de controlar Comex, Aurrera y Grupo Modelo, pero utilizaron el capital de esas operaciones para mantener su actividad empresarial.",
       "link": "https://expansion.mx/empresas/2026/08/13/empresarios-mexicanos-hicieron-millones-vender-sus-empresas",
       "fecha": "13 Aug 2026, 18:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex y CFE elevan sus pasivos laborales a 2.06 billones de pesos",
-      "resumen": "Ambas empresas acumulan 2.06 billones de pesos en obligaciones laborales de largo plazo al cierre de junio, de los cuales 1.51 billones corresponden a Pemex y 554,200 millones a CFE.",
-      "link": "https://expansion.mx/empresas/2026/08/13/pemex-cfe-acumulan-pasivos-laborales",
-      "fecha": "13 Aug 2026, 18:05 hrs"
     },
     {
       "fuente": "Reforma",
