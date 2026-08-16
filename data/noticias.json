@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/08/2026 15:18 hrs",
+  "actualizado": "16/08/2026 16:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La empresa familiar que convirtió a Charly en una marca que viste a equipos de la Liga MX",
+      "resumen": "Charly convirtió el futbol en una de sus principales estrategias de posicionamiento y actualmente mantiene vínculos con clubes como León, Santos, Atlante y Atlas.",
+      "link": "https://expansion.mx/empresas/2026/08/16/empresa-familiar-charly-marca-viste-a-equipos-de-la-liga-mx",
+      "fecha": "16 Aug 2026, 14:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Quién es el dueño de Bacardí? La familia que mantiene el control del imperio del famoso murciélago",
       "resumen": "Este 16 de agosto se celebra el Día Internacional del Ron, una de las bebidas alcohólicas destiladas que se obtiene de la caña de azúcar y de la que México también es productora.",
       "link": "https://expansion.mx/empresas/2026/08/16/quien-es-el-dueno-de-bacardi-la-familia-que-mantiene-el-control-del-imperio-del-famoso-murcielago",
@@ -136,15 +145,6 @@
       "resumen": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
       "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
       "fecha": "14 Aug 2026, 12:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las líneas sin registrar pasarán por un proceso de suspensión y después a reciclaje",
-      "resumen": "Los 14 millones de usuarios con líneas terminadas en 0 enfrentan el primer vencimiento del registro y tras las 72 horas adicionales, los operadores determinarán cuánto tiempo conservarán el número ant…",
-      "link": "https://expansion.mx/empresas/2026/08/14/que-pasa-si-no-vinculo-mi-linea-registro-celulares",
-      "fecha": "14 Aug 2026, 09:13 hrs"
     },
     {
       "fuente": "Reforma",
