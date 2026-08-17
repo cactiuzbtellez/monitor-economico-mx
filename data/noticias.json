@@ -1,16 +1,7 @@
 {
-  "actualizado": "17/08/2026 16:23 hrs",
+  "actualizado": "17/08/2026 17:21 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
-      "resumen": "La agrupación empresarial urge preservar la certeza jurídica en un momento decisivo para la integración económica de América del Norte.",
-      "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
-      "fecha": "17 Aug 2026, 13:19 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
-      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
-      "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
-      "fecha": "17 Aug 2026, 11:16 hrs"
+      "titulo": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
+      "resumen": "Expertos de la UNAM, CIDE, UAM, Tecnológico de Monterrey, entre otras, proponen elevar la inversión, fortalecer las finanzas públicas e impulsar la innovación para acelerar el crecimiento.",
+      "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
+      "fecha": "12 Aug 2026, 18:40 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +136,15 @@
       "resumen": "México se sumó a los 70 países que dieron luz verde a la fusión de los estudios de entretenimiento, una operación valuada en 110,000 mdd; sin embargo, Paramount aún enfrenta una demanda de 12 fiscales…",
       "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
       "fecha": "15 Aug 2026, 12:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "fecha": "14 Aug 2026, 14:36 hrs"
     },
     {
       "fuente": "Reforma",
