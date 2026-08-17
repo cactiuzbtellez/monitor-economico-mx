@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/08/2026 15:25 hrs",
+  "actualizado": "17/08/2026 16:23 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Tocan retiros por desempleo en Afores mayor nivel desde 2005",
+      "resumen": "Retiros por desempleo en Afores sumaron 27 mil 052 millones de pesos de enero a julio de 2026, su mayor monto desde 2005, reveló Consar.",
+      "link": "https://www.reforma.com/tocan-retiros-por-desempleo-en-afores-mayor-nivel-desde-2005/ar3259396",
+      "fecha": "17 Aug 2026, 16:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Prevé IMCP cierre de negocios por nuevas reglas antilavado",
       "resumen": "Endurecimiento de reglas y controles para prevenir lavado de dinero provocará el cierre de más empresas y negocios, advierte IMCP.",
       "link": "https://www.reforma.com/preve-imcp-cierre-de-negocios-por-nuevas-reglas-antilavado/ar3259353",
@@ -163,15 +172,6 @@
       "resumen": "Para este regreso a clases se espera un gasto de 2 mil 422 pesos por estudiante; 13.8% más que el año pasado, según Anpec.",
       "link": "https://www.reforma.com/aumenta-13-8-gasto-de-regreso-a-clases-anpec/ar3259259",
       "fecha": "17 Aug 2026, 12:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Les urge en EU ganado mexicano",
-      "resumen": "Con la carne de res encarecida en un 22% en EU, la próxima reapertura  de la frontera a sus importaciones ganaderas podría ser tardía.",
-      "link": "https://www.reforma.com/les-urge-en-eu-ganado-mexicano/ar3259036",
-      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
