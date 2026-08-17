@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/08/2026 11:26 hrs",
+  "actualizado": "17/08/2026 12:38 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
-      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
-      "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
-      "fecha": "17 Aug 2026, 11:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "La suspensión de tu línea telefónica puede ser usada para engañarte y robar tus datos y acceso a WhatsApp",
       "resumen": "La cancelación de líneas con terminación 0 puede ser aprovechada por delincuentes para llamar a usuarios y pedirles datos o códigos con el pretexto de reactivar el servicio.",
       "link": "https://expansion.mx/empresas/2026/08/17/suspension-lineas-telefonicas-registro-riesgo",
@@ -147,6 +138,15 @@
       "fecha": "15 Aug 2026, 12:31 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
+      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
+      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
+      "fecha": "14 Aug 2026, 14:36 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca extorsión máximo en 11 años",
-      "resumen": "La extorsión alcanzó su nivel más alto en 11 años durante el primer semestre, según el Monitor de Seguridad de Coparmex.",
-      "link": "https://www.reforma.com/toca-extorsion-maximo-en-11-anos/ar3259041",
-      "fecha": "17 Aug 2026, 05:00 hrs"
+      "titulo": "Aumenta 13.8% gasto de regreso a clases.- comerciantes",
+      "resumen": "Para este regreso a clases se espera un gasto de 2 mil 422 pesos por estudiante; 13.8% más que el año pasado, según Anpec.",
+      "link": "https://www.reforma.com/aumenta-13-8-gasto-de-regreso-a-clases-comerciantes/ar3259259",
+      "fecha": "17 Aug 2026, 12:17 hrs"
     },
     {
       "fuente": "Reforma",
