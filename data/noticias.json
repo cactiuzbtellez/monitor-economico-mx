@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/08/2026 13:26 hrs",
+  "actualizado": "17/08/2026 14:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México exporta 10 veces más bienes que servicios",
+      "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
+      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
+      "fecha": "17 Aug 2026, 04:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
-      "resumen": "La seguridad económica abre una discusión que puede modificar las decisiones de inversión y la integración productiva de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
-      "fecha": "12 Aug 2026, 18:15 hrs"
+      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
+      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
+      "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
+      "fecha": "17 Aug 2026, 11:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La suspensión de tu línea telefónica puede ser usada para engañarte y robar tus datos y acceso a WhatsApp",
+      "resumen": "La cancelación de líneas con terminación 0 puede ser aprovechada por delincuentes para llamar a usuarios y pedirles datos o códigos con el pretexto de reactivar el servicio.",
+      "link": "https://expansion.mx/empresas/2026/08/17/suspension-lineas-telefonicas-registro-riesgo",
+      "fecha": "17 Aug 2026, 09:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana estrena Embraer en el AIFA: el avión que promete más comodidad y menos ruido a bordo",
+      "resumen": "La Sedena ofreció detalles sobre la nueva aeronoave con el objetivo de aumentar su flotilla, la cual ha renovado desde el rescate por parte del Gobierno de la 4T.",
+      "link": "https://expansion.mx/empresas/2026/08/17/mexicana-estrena-embraer-aifa-avion",
+      "fecha": "17 Aug 2026, 08:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
+      "resumen": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
+      "link": "https://expansion.mx/empresas/2026/08/17/carlos-slim-inversion-polanco-inmuebles-carso",
+      "fecha": "17 Aug 2026, 08:38 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "México se sumó a los 70 países que dieron luz verde a la fusión de los estudios de entretenimiento, una operación valuada en 110,000 mdd; sin embargo, Paramount aún enfrenta una demanda de 12 fiscales…",
       "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
       "fecha": "15 Aug 2026, 12:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
-      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
-      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
-      "fecha": "14 Aug 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 7 autos híbridos más accesibles que puedes comprar en México durante agosto de 2026",
-      "resumen": "La oferta de vehículos híbridos en México ha crecido durante los últimos años; estos modelos destacan por sus características y precios.",
-      "link": "https://expansion.mx/empresas/2026/08/14/autos-hibridos-mas-economicos-en-mexico-2026",
-      "fecha": "14 Aug 2026, 13:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Tienes eSIM? Lo que debes saber sobre el registro de tu línea telefónica con CURP en México",
-      "resumen": "Las líneas que no sean vinculadas dentro del plazo correspondiente pueden ser suspendidas, aunque utilicen una eSIM en lugar de una tarjeta SIM tradicional.",
-      "link": "https://expansion.mx/empresas/2026/08/14/debo-registrarme-si-tengo-esim-vinculacion-lineas",
-      "fecha": "14 Aug 2026, 13:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
-      "resumen": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
-      "link": "https://expansion.mx/empresas/2026/08/14/carlos-slim-inversion-polanco-inmuebles-carso",
-      "fecha": "14 Aug 2026, 12:43 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arman plan de apoyo a pymes rurales de NL",
-      "resumen": "World Trade Center Monterrey de la UANL y Capital Común arrancarán proyecto para desarrollar a 600 pymes en 17 municipios rurales de NL.",
-      "link": "https://www.reforma.com/arman-plan-de-apoyo-a-pymes-rurales-de-nl/ar3258998",
-      "fecha": "17 Aug 2026, 07:16 hrs"
+      "titulo": "Entregarán equipo ferroviario de trenes híbridos en 2027",
+      "resumen": "Se prevé que para 2027 sean entregados los primeros vagones del equipo ferroviario de 47 trenes híbridos, según la SCT.",
+      "link": "https://www.reforma.com/entregaran-equipo-ferroviario-de-trenes-hibridos-en-2027/ar3259307",
+      "fecha": "17 Aug 2026, 14:12 hrs"
     },
     {
       "fuente": "Reforma",
