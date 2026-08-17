@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/08/2026 04:30 hrs",
+  "actualizado": "17/08/2026 05:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México exporta 10 veces más bienes que servicios",
+      "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
+      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
+      "fecha": "17 Aug 2026, 04:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Expertos de la UNAM, CIDE, UAM, Tecnológico de Monterrey, entre otras, proponen elevar la inversión, fortalecer las finanzas públicas e impulsar la innovación para acelerar el crecimiento.",
       "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
       "fecha": "12 Aug 2026, 18:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
-      "resumen": "La seguridad económica abre una discusión que puede modificar las decisiones de inversión y la integración productiva de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
-      "fecha": "12 Aug 2026, 18:15 hrs"
     },
     {
       "fuente": "Expansión",
