@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/08/2026 06:41 hrs",
+  "actualizado": "17/08/2026 07:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México exporta 10 veces más bienes que servicios",
+      "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
+      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
+      "fecha": "17 Aug 2026, 04:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Expertos de la UNAM, CIDE, UAM, Tecnológico de Monterrey, entre otras, proponen elevar la inversión, fortalecer las finanzas públicas e impulsar la innovación para acelerar el crecimiento.",
       "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
       "fecha": "12 Aug 2026, 18:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "UBS ve al origen del capital como el nuevo filtro del T-MEC",
-      "resumen": "La seguridad económica abre una discusión que puede modificar las decisiones de inversión y la integración productiva de Norteamérica.",
-      "link": "https://expansion.mx/economia/2026/08/12/ubs-t-mec-origen-capital-inversion-china-mexico",
-      "fecha": "12 Aug 2026, 18:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Promete CFE atender apagones de restauranteros",
-      "resumen": "CFE prometió atender de manera prioritaria los cortes de luz que padecen los restaurantes del Barrio Antiguo, informó Canirac.",
-      "link": "https://www.reforma.com/promete-cfe-atender-apagones-de-restauranteros/ar3258346",
-      "fecha": "15 Aug 2026, 05:01 hrs"
+      "titulo": "Toca extorsión su nivel más alto en 11 años",
+      "resumen": "La extorsión alcanzó su nivel más alto en 11 años durante el primer semestre, según el Monitor de Seguridad de Coparmex.",
+      "link": "https://www.reforma.com/toca-extorsion-su-nivel-mas-alto-en-11-anos/ar3259041",
+      "fecha": "17 Aug 2026, 05:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae dólar por abajo de $17",
-      "resumen": "En el mercado internacional del Forex el dólar llegó a cotizarse ayer por la mañana por debajo de los 17 pesos durante unos momentos.",
-      "link": "https://www.reforma.com/cae-dolar-por-abajo-de-17/ar3258357",
-      "fecha": "15 Aug 2026, 05:01 hrs"
+      "titulo": "Les urge en EU ganado mexicano",
+      "resumen": "Con la carne de res encarecida en un 22% en EU, la próxima reapertura  de la frontera a sus importaciones ganaderas podría ser tardía.",
+      "link": "https://www.reforma.com/les-urge-en-eu-ganado-mexicano/ar3259036",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Son faros de Tesla demasiado brillantes",
-      "resumen": "Tesla está retirando 20 mil vehículos debido a que los faros son demasiado brillantes para los conductores que se aproximan.",
-      "link": "https://www.reforma.com/son-faros-de-tesla-demasiado-brillantes/ar3258133",
-      "fecha": "15 Aug 2026, 05:01 hrs"
+      "titulo": "Frenan autos chinos producción de México",
+      "resumen": "México está incrementando el consumo de vehículos de China, una tendencia que ha incidido en el estancamiento de la producción automotriz.",
+      "link": "https://www.reforma.com/frenan-autos-chinos-produccion-de-mexico/ar3259002",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena la falta de refinerías precio del crudo.- Krugman",
-      "resumen": "Una escasez global en la capacidad de refinación de crudo ha contenido los precios, dijo el Premio Nobel de Economía, Paul Krugman.",
-      "link": "https://www.reforma.com/frena-la-falta-de-refinerias-precio-del-crudo-krugman/ar3258131",
-      "fecha": "15 Aug 2026, 05:01 hrs"
+      "titulo": "Advierten sanciones por errores de nómina",
+      "resumen": "Un análisis de Worky advierte que los errores en el registro de asistencia, tras la reforma para reducir jornada laboral generarán multas.",
+      "link": "https://www.reforma.com/advierten-sanciones-por-errores-de-nomina/ar3259003",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se desploma BMV 3.80% en la semana",
-      "resumen": "La Bolsa Mexicana de Valores cayó 0.66% este viernes y cerró en 64 mil 397.45 puntos; sin embargo sufrió un desplome semanal de 3.80%",
-      "link": "https://www.reforma.com/se-desploma-bmv-3-80-en-la-semana/ar3258222",
-      "fecha": "14 Aug 2026, 18:01 hrs"
+      "titulo": "Arman plan de apoyo a pymes rurales de NL",
+      "resumen": "World Trade Center Monterrey de la UANL y Capital Común arrancarán proyecto para desarrollar a 600 pymes en 17 municipios rurales de NL.",
+      "link": "https://www.reforma.com/arman-plan-de-apoyo-a-pymes-rurales-de-nl/ar3258998",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destraban inversiones por 3,500 mdd",
-      "resumen": "El CCE aseguró que el Gobierno ha destrabado inversiones por 3 mil 500 millones de dólares, desde mayo pasado a la fecha.",
-      "link": "https://www.reforma.com/destraban-inversiones-por-3-500-mdd/ar3258087",
-      "fecha": "14 Aug 2026, 14:03 hrs"
+      "titulo": "Urge fortalecer la manufactura",
+      "resumen": "Para lograr las metas del Plan México y aprovechar los efectos del nearshoring, es necesario añadir valor a la industria manufacturera",
+      "link": "https://www.reforma.com/urge-fortalecer-la-manufactura/ar3259004",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perfora peso la barrera de los 17.00 por dólar",
-      "resumen": "En el mercado internacional, el tipo de cambio cotizaba en 16.9805 pesos por dólar, un máximo para la moneda mexicana desde mayo de 2024.",
-      "link": "https://www.reforma.com/perfora-peso-la-barrera-de-los-17-00-por-dolar/ar3257944",
-      "fecha": "14 Aug 2026, 07:57 hrs"
+      "titulo": "Quiere México escalar al lugar 5 en turismo",
+      "resumen": "México busca articular una estrategia que combine inversión en seguridad y promoción turística.",
+      "link": "https://www.reforma.com/quiere-mexico-escalar-al-lugar-5-en-turismo/ar3258991",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Pemex 'oxígeno' a más de 6 mil metros de profundidad",
-      "resumen": "Crisis de producción petrolera en encontraría \"oxígeno\" justo debajo del histórico campo Cantarell, a más de 6 mil metros de profundidad.",
-      "link": "https://www.reforma.com/busca-pemex-oxigeno-a-mas-de-6-mil-metros-de-profundidad/ar3257769",
-      "fecha": "14 Aug 2026, 05:01 hrs"
+      "titulo": "Prevé sector hotelero  cierre de año con aumento",
+      "resumen": "El sector hotelero de la capital del País contempla un cierre de año optimista para este 2025.",
+      "link": "https://www.reforma.com/preve-sector-hotelero-cierre-de-ano-con-aumento/ar3258996",
+      "fecha": "17 Aug 2026, 07:16 hrs"
     }
   ]
 }
