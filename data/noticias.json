@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/08/2026 20:54 hrs",
+  "actualizado": "17/08/2026 21:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Grupo Modelo y Heineken vuelven a chocar por Michelob y Amstel Ultra: la pelea llega otra vez a la SCJN",
+      "resumen": "La disputa entre ambas marcas fue atraída por el pleno de la SCJN, su origen se remonta a 2018, cuando Heineken México lanzó Amstel Ultra en el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/08/17/grupo-modelo-heineken-choca-michelob-amstel-ultra-pelea-scjn",
+      "fecha": "17 Aug 2026, 17:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Cox anuncia construcción de desaladora en México con una inversión de 304 millones de dólares",
+      "resumen": "De acuerdo con la empresa, el proyecto \"reafirma\" su compromiso en México luego de la adquisición de Iberdrola.",
+      "link": "https://expansion.mx/empresas/2026/08/17/cox-anuncia-construccion-desaladora-en-mexico-por-304-mdd",
+      "fecha": "17 Aug 2026, 16:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿No puedes recargar Telcel? Usuarios reportan que el saldo no entra este lunes 17 de agosto",
+      "resumen": "La empresa de Carlos Slim informa que fue un fallo en los sistemas IP la razón de que usuarios no pudieran realizar recargas este lunes.",
+      "link": "https://expansion.mx/empresas/2026/08/17/se-cayo-telcel-fallas-en-recargas-senal-e-internet",
+      "fecha": "17 Aug 2026, 16:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
+      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
+      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
+      "fecha": "17 Aug 2026, 16:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
       "resumen": "Novo Nordisk estima que más de 70 millones de adultos en México viven con sobrepeso u obesidad.",
       "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
@@ -111,40 +147,13 @@
       "fecha": "17 Aug 2026, 08:47 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim no para en Polanco: tiene tres proyectos en marcha con una inversión de 17,300 mdp",
-      "resumen": "Carso III, Pabellón Polanco y un nuevo hospital forman parte de la nueva etapa de expansión inmobiliaria de Slim en una de las zonas más importantes de la CDMX.",
-      "link": "https://expansion.mx/empresas/2026/08/17/carlos-slim-inversion-polanco-inmuebles-carso",
-      "fecha": "17 Aug 2026, 08:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La empresa familiar que convirtió a Charly en una marca que viste a equipos de la Liga MX",
-      "resumen": "Charly convirtió el futbol en una de sus principales estrategias de posicionamiento y actualmente mantiene vínculos con clubes como León, Santos, Atlante y Atlas.",
-      "link": "https://expansion.mx/empresas/2026/08/16/empresa-familiar-charly-marca-viste-a-equipos-de-la-liga-mx",
-      "fecha": "16 Aug 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Bacardí? La familia que mantiene el control del imperio del famoso murciélago",
-      "resumen": "Este 16 de agosto se celebra el Día Internacional del Ron, una de las bebidas alcohólicas destiladas que se obtiene de la caña de azúcar y de la que México también es productora.",
-      "link": "https://expansion.mx/empresas/2026/08/16/quien-es-el-dueno-de-bacardi-la-familia-que-mantiene-el-control-del-imperio-del-famoso-murcielago",
-      "fecha": "16 Aug 2026, 09:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana de Aviación, la historia detrás de su caída, concurso mercantil, quiebra y regreso a los cielos",
-      "resumen": "Tras retomar operaciones en diciembre de 2023, Mexicana de Aviación busca ampliar su flota y rutas, pero su regreso ocurrió más de una década después de la quiebra de la antigua aerolínea.",
-      "link": "https://expansion.mx/empresas/2026/08/16/mexicana-aviacion-volar-4t-concurso-mercantil-perdio",
-      "fecha": "16 Aug 2026, 09:03 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Niegan fallas en vinculación de líneas telefónicas",
+      "resumen": "Telcel negó que haya sufrido fallas en su sistema como parte del proceso de vinculación de líneas telefónicas.",
+      "link": "https://www.reforma.com/niegan-fallas-en-vinculacion-de-lineas-telefonicas/ar3259593",
+      "fecha": "17 Aug 2026, 21:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "Endurecimiento de reglas y controles para prevenir lavado de dinero provocará el cierre de más empresas y negocios, advierte IMCP.",
       "link": "https://www.reforma.com/preve-imcp-cierre-de-negocios-por-nuevas-reglas-antilavado/ar3259353",
       "fecha": "17 Aug 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo con alza de más de 2.5%",
-      "resumen": "El precio del barril Brent aumentó 2.66%, hasta los 90.87 dólares, mientras que el del WTI ganó 2.55% y cerró en 84.50 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-con-alza-de-mas-de-2-5/ar3259335",
-      "fecha": "17 Aug 2026, 14:25 hrs"
     }
   ]
 }
