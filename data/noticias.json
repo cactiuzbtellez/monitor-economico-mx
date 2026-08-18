@@ -1,7 +1,34 @@
 {
-  "actualizado": "17/08/2026 17:21 hrs",
+  "actualizado": "17/08/2026 19:10 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
+      "resumen": "Previo a la entrega del Paquete Económico se descartan nuevas tasas o cuotas por impuestos, pero se espera una mayor vigilancia del SAT hacia los contribuyentes.",
+      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
+      "fecha": "17 Aug 2026, 17:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Millennials necesitan ganar 85,800 pesos para comprar casa en CDMX, menos del 4% lo logra",
+      "resumen": "Una vivienda de 60 metros cuadrados costaría cerca de 3.56 millones de pesos en la capital. Entre los ocupados de 30 a 39 años que reportaron ingresos, apenas 3.7% gana más de cinco salarios mínimos.",
+      "link": "https://expansion.mx/economia/2026/08/17/millennials-necesitan-ganar-85800-pesos-comprar-casa-cdmx",
+      "fecha": "17 Aug 2026, 16:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
+      "resumen": "La agrupación empresarial urge preservar la certeza jurídica en un momento decisivo para la integración económica de América del Norte.",
+      "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
+      "fecha": "17 Aug 2026, 13:19 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU acusa triangulación de mercancías chinas vía México para esquivar aranceles",
-      "resumen": "México, India y Vietnam concentraron un flujo estimado de 67,000 mdd en bienes transbordados desde China hacia EU durante 2025, según el informe de la Casa Blanca.",
-      "link": "https://expansion.mx/economia/2026/08/13/mexico-triangulacion-productos-china-eu",
-      "fecha": "13 Aug 2026, 12:40 hrs"
+      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
+      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
+      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
+      "fecha": "17 Aug 2026, 16:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México domina envíos a EU por 298,000 mdd, pero Taiwán y Vietnam le acortan distancia",
-      "resumen": "El desplome de 23% en las compras al mercado chino aceleró los pedidos de semiconductores, servidores y telefonía de otros proveedores asiáticos. La demanda de IA dispara las ventas de alto valor.",
-      "link": "https://expansion.mx/economia/2026/08/13/mexico-domina-ventas-eu-taiwan-vietnam-aceleran",
-      "fecha": "13 Aug 2026, 05:55 hrs"
+      "titulo": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
+      "resumen": "Novo Nordisk estima que más de 70 millones de adultos en México viven con sobrepeso u obesidad.",
+      "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
+      "fecha": "17 Aug 2026, 14:37 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Economistas se unen para plantear a Hacienda cómo acelerar el crecimiento de México",
-      "resumen": "Expertos de la UNAM, CIDE, UAM, Tecnológico de Monterrey, entre otras, proponen elevar la inversión, fortalecer las finanzas públicas e impulsar la innovación para acelerar el crecimiento.",
-      "link": "https://expansion.mx/economia/2026/08/12/economistas-propuestas-crecimiento-mexico-hacienda-2027",
-      "fecha": "12 Aug 2026, 18:40 hrs"
+      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
+      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
+      "link": "https://expansion.mx/empresas/2026/08/17/calendario-registro-lineas-fecha-limite",
+      "fecha": "17 Aug 2026, 11:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,33 +147,6 @@
       "fecha": "16 Aug 2026, 09:14 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana de Aviación, la historia detrás de su caída, concurso mercantil, quiebra y regreso a los cielos",
-      "resumen": "Tras retomar operaciones en diciembre de 2023, Mexicana de Aviación busca ampliar su flota y rutas, pero su regreso ocurrió más de una década después de la quiebra de la antigua aerolínea.",
-      "link": "https://expansion.mx/empresas/2026/08/16/mexicana-aviacion-volar-4t-concurso-mercantil-perdio",
-      "fecha": "16 Aug 2026, 09:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Comisión Nacional Antimonopolios aprueba en México la fusión de Paramount y Warner Bros",
-      "resumen": "México se sumó a los 70 países que dieron luz verde a la fusión de los estudios de entretenimiento, una operación valuada en 110,000 mdd; sin embargo, Paramount aún enfrenta una demanda de 12 fiscales…",
-      "link": "https://expansion.mx/empresas/2026/08/15/comision-nacional-antimonopolios-aprueba-en-mexico-la-fusion-de-paramount-y-warner-bros",
-      "fecha": "15 Aug 2026, 12:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué el dueño de Walmart, Aurrera y Sam’s Club pone tiendas tan cerca sin quitarse clientes entre sí?",
-      "resumen": "La empresa opera cuatro formatos en México y puede colocarlos en una misma zona porque cada uno responde a distintos niveles de ingreso, hábitos de consumo y necesidades de compra.",
-      "link": "https://expansion.mx/empresas/2026/08/14/walmart-tiendas-cerca-aurrera-sams-club-clientes",
-      "fecha": "14 Aug 2026, 14:36 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -163,6 +163,24 @@
       "resumen": "Endurecimiento de reglas y controles para prevenir lavado de dinero provocará el cierre de más empresas y negocios, advierte IMCP.",
       "link": "https://www.reforma.com/preve-imcp-cierre-de-negocios-por-nuevas-reglas-antilavado/ar3259353",
       "fecha": "17 Aug 2026, 14:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumentaron 76.5% exportaciones de motocicletas en 2025",
+      "resumen": "Exportación de motocicletas desde México alcanzó 90 millones 655 mil dólares en 2025; cifra 76.5% anual superior a 2024, reveló Banxico.",
+      "link": "https://www.reforma.com/aumentaron-76-5-exportaciones-de-motocicletas-en-2025/ar3259407",
+      "fecha": "17 Aug 2026, 17:28 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Aeroméxico volar a Milán para marzo de 2027",
+      "resumen": "Aeroméxico anunció que operará una nueva ruta desde la CDMX hacia el Aeropuerto Internacional de Milán a partir de marzo de 2027.",
+      "link": "https://www.reforma.com/busca-aeromexico-volar-a-milan-para-marzo-de-2027/ar3259497",
+      "fecha": "17 Aug 2026, 18:35 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Durante junio, el personal ocupado en la industria manufacturara aumentó 0.13% mensual.",
       "link": "https://www.reforma.com/corta-empleo-manufacturero-4-meses-con-caidas-avanza-0-13/ar3259229",
       "fecha": "17 Aug 2026, 11:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se prepara Canadá para aranceles del 50% de EU",
-      "resumen": "Canadá afrontará esta semana una nueva ronda de aranceles de EU del 50%, que podría provocar la pérdida de empleos en algunos sectores.",
-      "link": "https://www.reforma.com/se-prepara-canada-para-aranceles-del-50-de-eu/ar3259200",
-      "fecha": "17 Aug 2026, 10:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta Anthropic ingresos anualizados de 65 mmdd a julio",
-      "resumen": "Anthropic comunicó a los inversionistas que la tasa de ingresos anualizados ascendió a 65 mil millones de dólares en julio.",
-      "link": "https://www.reforma.com/reporta-anthropic-ingresos-anualizados-de-65-mmdd-a-julio/ar3259364",
-      "fecha": "17 Aug 2026, 14:55 hrs"
     }
   ]
 }
