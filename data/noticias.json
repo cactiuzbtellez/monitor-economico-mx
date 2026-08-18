@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/08/2026 22:34 hrs",
+  "actualizado": "17/08/2026 23:28 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
+      "resumen": "Previo a la entrega del Paquete Económico se descartan nuevas tasas o cuotas por impuestos, pero se espera una mayor vigilancia del SAT hacia los contribuyentes.",
+      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
+      "fecha": "17 Aug 2026, 17:27 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,15 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU acusa triangulación de mercancías chinas vía México para esquivar aranceles",
-      "resumen": "México, India y Vietnam concentraron un flujo estimado de 67,000 mdd en bienes transbordados desde China hacia EU durante 2025, según el informe de la Casa Blanca.",
-      "link": "https://expansion.mx/economia/2026/08/13/mexico-triangulacion-productos-china-eu",
-      "fecha": "13 Aug 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Grupo Modelo y Heineken vuelven a chocar por Michelob y Amstel Ultra: la pelea llega otra vez a la SCJN",
@@ -97,7 +97,7 @@
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "¿No puedes recargar Telcel? Usuarios reportan que el saldo no entra este lunes 17 de agosto",
-      "resumen": "La empresa de Carlos Slim informa que fue un fallo en los sistemas IP la razón de que usuarios no pudieran realizar recargas este lunes.",
+      "resumen": "Usuarios aseguran que pagaron una recarga, pero el saldo no apareció en su línea, mientras otros reportan problemas para realizar la operación.",
       "link": "https://expansion.mx/empresas/2026/08/17/se-cayo-telcel-fallas-en-recargas-senal-e-internet",
       "fecha": "17 Aug 2026, 16:28 hrs"
     },
