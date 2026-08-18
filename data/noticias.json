@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/08/2026 06:43 hrs",
+  "actualizado": "18/08/2026 07:41 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Solicita Braskem Idesa protección por bancarrota en EU",
+      "resumen": "La mexicana Braskem Idesa solicitó protección por bancarrota ante crecientes presiones financieras y agravamiento de su crisis de liquidez.",
+      "link": "https://www.reforma.com/solicita-braskem-idesa-proteccion-por-bancarrota-en-eu/ar3259731",
+      "fecha": "18 Aug 2026, 07:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Prevén petróleo caro; afectará al País",
       "resumen": "Cierre de Ormuz por el conflicto en Medio Oriente mantendrá elevados los precios del crudo entre seis meses y un año, señalan especialistas.",
       "link": "https://www.reforma.com/preven-petroleo-caro-afectara-al-pais/ar3259611",
       "fecha": "18 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Incertidumbre por aranceles afectará 'un poco más' a AL",
+      "resumen": "Incertidumbre por aranceles de Estados Unidos golpearán un poco más a las economías de América Latina en 2026, aseguró Cepal.",
+      "link": "https://www.reforma.com/incertidumbre-por-aranceles-afectara-un-poco-mas-a-al/ar3259615",
+      "fecha": "18 Aug 2026, 07:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Rechazan supuesto nuevo IVA a alimentos",
+      "resumen": "Ante versión de que CCE habría elaborado una propuesta para que el Gobierno cobre IVA de 16% a alimentos y medicinas, CNA estaría en contra.",
+      "link": "https://www.reforma.com/rechazan-supuesto-nuevo-iva-a-alimentos/ar3259591",
+      "fecha": "18 Aug 2026, 07:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Incautan controles gamer por posible piratería",
-      "resumen": "El IIMPI aseguró más de 22 mil controles para videojuegos durante un operativo realizado en la aduana de Manzanillo.",
-      "link": "https://www.reforma.com/incautan-controles-gamer-por-posible-pirateria/ar3259606",
-      "fecha": "18 Aug 2026, 05:01 hrs"
+      "titulo": "Presenta OpenAI una versión de ChatGPT para adolescentes",
+      "resumen": "OpenAI presentó \"ChatGPT for Teens\", una versión adaptada para menores de edad que incorpora controles parentales y seguridad reforzada.",
+      "link": "https://www.reforma.com/presenta-openai-una-version-de-chatgpt-para-adolescentes/ar3259738",
+      "fecha": "18 Aug 2026, 07:33 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tienen mujeres mayor disciplina fiscal",
-      "resumen": "Las mujeres presentan mejores indicadores de cumplimiento tributario que los hombres, reveló una análisis por Heru.",
-      "link": "https://www.reforma.com/tienen-mujeres-mayor-disciplina-fiscal/ar3259604",
+      "titulo": "Incautan controles gamer por posible piratería",
+      "resumen": "El IIMPI aseguró más de 22 mil controles para videojuegos durante un operativo realizado en la aduana de Manzanillo.",
+      "link": "https://www.reforma.com/incautan-controles-gamer-por-posible-pirateria/ar3259606",
       "fecha": "18 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierten riesgos por plantas de GNL en golfo de California",
-      "resumen": "Proyectos de gas natural licuado, Saguaro y AMIGO, producirían una ola de especies invasoras en golfo de California, aseguró Equal Routes.",
-      "link": "https://www.reforma.com/advierten-riesgos-por-plantas-de-gnl-en-golfo-de-california/ar3259541",
-      "fecha": "17 Aug 2026, 19:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Construirá Cox desaladora de 304 mdd en Baja California",
-      "resumen": "Cox anunció que construirá una planta desaladora en Rosarito, Baja California con una inversión cercana a 304 millones de dólares.",
-      "link": "https://www.reforma.com/construira-cox-desaladora-de-304-mdd-en-baja-california/ar3259538",
-      "fecha": "17 Aug 2026, 19:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca Aeroméxico volar a Milán para marzo de 2027",
-      "resumen": "Aeroméxico anunció que operará una nueva ruta desde la CDMX hacia el Aeropuerto Internacional de Milán a partir de marzo de 2027.",
-      "link": "https://www.reforma.com/busca-aeromexico-volar-a-milan-para-marzo-de-2027/ar3259497",
-      "fecha": "17 Aug 2026, 18:35 hrs"
     }
   ]
 }
