@@ -1,7 +1,16 @@
 {
-  "actualizado": "18/08/2026 10:30 hrs",
+  "actualizado": "18/08/2026 11:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
+      "resumen": "Las compras mexicanas al país asiático aumentaron 103% en el primer semestre, con los electrónicos como principal motor, mientras crecen las sospechas sobre el origen de las mercancías.",
+      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
+      "fecha": "18 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "fecha": "14 Aug 2026, 05:55 hrs"
+      "titulo": "INFINITI apuesta al lujo que elige diferente con la nueva QX65",
+      "resumen": "La QX65 es el tercer movimiento de un plan de cinco años para llevar a INFINITI al Top 5 del lujo en México.",
+      "link": "https://expansion.mx/empresas/2026/08/18/infiniti-apuesta-al-lujo-que-elige-diferente-con-la-nueva-qx65",
+      "fecha": "18 Aug 2026, 08:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "La cancelación de líneas con terminación 0 puede ser aprovechada por delincuentes para llamar a usuarios y pedirles datos o códigos con el pretexto de reactivar el servicio.",
       "link": "https://expansion.mx/empresas/2026/08/17/suspension-lineas-telefonicas-registro-riesgo",
       "fecha": "17 Aug 2026, 09:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana estrena Embraer en el AIFA: el avión que promete más comodidad y menos ruido a bordo",
-      "resumen": "La Sedena ofreció detalles sobre la nueva aeronoave con el objetivo de aumentar su flotilla, la cual ha renovado desde el rescate por parte del Gobierno de la 4T.",
-      "link": "https://expansion.mx/empresas/2026/08/17/mexicana-estrena-embraer-aifa-avion",
-      "fecha": "17 Aug 2026, 08:47 hrs"
     },
     {
       "fuente": "Reforma",
