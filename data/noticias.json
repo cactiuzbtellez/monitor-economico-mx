@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/08/2026 19:10 hrs",
+  "actualizado": "17/08/2026 20:54 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
-      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
-      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
-      "fecha": "17 Aug 2026, 16:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
       "resumen": "Novo Nordisk estima que más de 70 millones de adultos en México viven con sobrepeso u obesidad.",
       "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
@@ -147,31 +138,31 @@
       "fecha": "16 Aug 2026, 09:14 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tocan retiros por desempleo en Afores mayor nivel desde 2005",
-      "resumen": "Retiros por desempleo en Afores sumaron 27 mil 052 millones de pesos de enero a julio de 2026, su mayor monto desde 2005, reveló Consar.",
-      "link": "https://www.reforma.com/tocan-retiros-por-desempleo-en-afores-mayor-nivel-desde-2005/ar3259396",
-      "fecha": "17 Aug 2026, 16:02 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana de Aviación, la historia detrás de su caída, concurso mercantil, quiebra y regreso a los cielos",
+      "resumen": "Tras retomar operaciones en diciembre de 2023, Mexicana de Aviación busca ampliar su flota y rutas, pero su regreso ocurrió más de una década después de la quiebra de la antigua aerolínea.",
+      "link": "https://expansion.mx/empresas/2026/08/16/mexicana-aviacion-volar-4t-concurso-mercantil-perdio",
+      "fecha": "16 Aug 2026, 09:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé IMCP cierre de negocios por nuevas reglas antilavado",
-      "resumen": "Endurecimiento de reglas y controles para prevenir lavado de dinero provocará el cierre de más empresas y negocios, advierte IMCP.",
-      "link": "https://www.reforma.com/preve-imcp-cierre-de-negocios-por-nuevas-reglas-antilavado/ar3259353",
-      "fecha": "17 Aug 2026, 14:55 hrs"
+      "titulo": "Advierten riesgos por plantas de GNL en golfo de California",
+      "resumen": "Proyectos de gas natural licuado, Saguaro y AMIGO, producirían una ola de especies invasoras en golfo de California, aseguró Equal Routes.",
+      "link": "https://www.reforma.com/advierten-riesgos-por-plantas-de-gnl-en-golfo-de-california/ar3259541",
+      "fecha": "17 Aug 2026, 19:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentaron 76.5% exportaciones de motocicletas en 2025",
-      "resumen": "Exportación de motocicletas desde México alcanzó 90 millones 655 mil dólares en 2025; cifra 76.5% anual superior a 2024, reveló Banxico.",
-      "link": "https://www.reforma.com/aumentaron-76-5-exportaciones-de-motocicletas-en-2025/ar3259407",
-      "fecha": "17 Aug 2026, 17:28 hrs"
+      "titulo": "Construirá Cox desaladora de 304 mdd en Baja California",
+      "resumen": "Cox anunció que construirá una planta desaladora en Rosarito, Baja California con una inversión cercana a 304 millones de dólares.",
+      "link": "https://www.reforma.com/construira-cox-desaladora-de-304-mdd-en-baja-california/ar3259538",
+      "fecha": "17 Aug 2026, 19:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 13.8% gasto de regreso a clases.- Anpec",
-      "resumen": "Para este regreso a clases se espera un gasto de 2 mil 422 pesos por estudiante; 13.8% más que el año pasado, según Anpec.",
-      "link": "https://www.reforma.com/aumenta-13-8-gasto-de-regreso-a-clases-anpec/ar3259259",
-      "fecha": "17 Aug 2026, 12:17 hrs"
+      "titulo": "'Aceleran' 76.5% exportaciones de motocicletas en 2025",
+      "resumen": "Exportación de motocicletas desde México alcanzó 90 millones 655 mil dólares en 2025; cifra 76.5% anual superior a 2024, reveló Banxico.",
+      "link": "https://www.reforma.com/aceleran-76-5-exportaciones-de-motocicletas-en-2025/ar3259407",
+      "fecha": "17 Aug 2026, 17:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se mantiene fortaleza del peso; opera en 17.01 por dólar",
-      "resumen": "El peso mexicano se estabilizaba apenas por encima de 17 por dólar, favorecido por un declive generalizado del billete verde.",
-      "link": "https://www.reforma.com/se-mantiene-fortaleza-del-peso-opera-en-17-01-por-dolar/ar3259144",
-      "fecha": "17 Aug 2026, 08:07 hrs"
+      "titulo": "Tocan retiros por desempleo en Afores mayor nivel desde 2005",
+      "resumen": "Retiros por desempleo en Afores sumaron 27 mil 052 millones de pesos de enero a julio de 2026, su mayor monto desde 2005, reveló Consar.",
+      "link": "https://www.reforma.com/tocan-retiros-por-desempleo-en-afores-mayor-nivel-desde-2005/ar3259396",
+      "fecha": "17 Aug 2026, 16:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Entregarán equipo ferroviario de trenes híbridos en 2027",
-      "resumen": "Se prevé que para 2027 sean entregados los primeros vagones del equipo ferroviario de 47 trenes híbridos, según la SCT.",
-      "link": "https://www.reforma.com/entregaran-equipo-ferroviario-de-trenes-hibridos-en-2027/ar3259307",
-      "fecha": "17 Aug 2026, 14:12 hrs"
+      "titulo": "Reporta Anthropic ingresos anualizados de 65 mmdd a julio",
+      "resumen": "Anthropic comunicó a los inversionistas que la tasa de ingresos anualizados ascendió a 65 mil millones de dólares en julio.",
+      "link": "https://www.reforma.com/reporta-anthropic-ingresos-anualizados-de-65-mmdd-a-julio/ar3259364",
+      "fecha": "17 Aug 2026, 14:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Corta empleo manufacturero 4 meses con caídas; avanza 0.13%",
-      "resumen": "Durante junio, el personal ocupado en la industria manufacturara aumentó 0.13% mensual.",
-      "link": "https://www.reforma.com/corta-empleo-manufacturero-4-meses-con-caidas-avanza-0-13/ar3259229",
-      "fecha": "17 Aug 2026, 11:06 hrs"
+      "titulo": "Prevé IMCP cierre de negocios por nuevas reglas antilavado",
+      "resumen": "Endurecimiento de reglas y controles para prevenir lavado de dinero provocará el cierre de más empresas y negocios, advierte IMCP.",
+      "link": "https://www.reforma.com/preve-imcp-cierre-de-negocios-por-nuevas-reglas-antilavado/ar3259353",
+      "fecha": "17 Aug 2026, 14:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo con alza de más de 2.5%",
+      "resumen": "El precio del barril Brent aumentó 2.66%, hasta los 90.87 dólares, mientras que el del WTI ganó 2.55% y cerró en 84.50 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-con-alza-de-mas-de-2-5/ar3259335",
+      "fecha": "17 Aug 2026, 14:25 hrs"
     }
   ]
 }
