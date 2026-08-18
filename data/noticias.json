@@ -1,16 +1,7 @@
 {
-  "actualizado": "17/08/2026 21:43 hrs",
+  "actualizado": "17/08/2026 22:34 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
-      "resumen": "Previo a la entrega del Paquete Económico se descartan nuevas tasas o cuotas por impuestos, pero se espera una mayor vigilancia del SAT hacia los contribuyentes.",
-      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
-      "fecha": "17 Aug 2026, 17:27 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
       "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
       "fecha": "14 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU acusa triangulación de mercancías chinas vía México para esquivar aranceles",
+      "resumen": "México, India y Vietnam concentraron un flujo estimado de 67,000 mdd en bienes transbordados desde China hacia EU durante 2025, según el informe de la Casa Blanca.",
+      "link": "https://expansion.mx/economia/2026/08/13/mexico-triangulacion-productos-china-eu",
+      "fecha": "13 Aug 2026, 12:40 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,9 +150,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Niegan fallas en vinculación de líneas telefónicas",
-      "resumen": "Telcel negó que haya sufrido fallas en su sistema como parte del proceso de vinculación de líneas telefónicas.",
-      "link": "https://www.reforma.com/niegan-fallas-en-vinculacion-de-lineas-telefonicas/ar3259593",
+      "titulo": "Acusan fallas en vinculación de líneas telefónicas",
+      "resumen": "Telcel informó que sufrió fallas en su sistema como parte del proceso de vinculación de líneas telefónicas.",
+      "link": "https://www.reforma.com/acusan-fallas-en-vinculacion-de-lineas-telefonicas/ar3259593",
       "fecha": "17 Aug 2026, 21:28 hrs"
     },
     {
