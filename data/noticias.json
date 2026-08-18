@@ -1,16 +1,7 @@
 {
-  "actualizado": "18/08/2026 09:30 hrs",
+  "actualizado": "18/08/2026 10:30 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
-      "resumen": "Las compras mexicanas al país asiático aumentaron 103% en el primer semestre, con los electrónicos como principal motor, mientras crecen las sospechas sobre el origen de las mercancías.",
-      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
-      "fecha": "18 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "El ahorro que sirve para hacer frente a la falta de ingresos en los estados, reporta apenas el 17% de su saldo máximo reportado en 2018, refieren datos de la Secretaría de Hacienda y Crédito Público.",
       "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
       "fecha": "14 Aug 2026, 16:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
+      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
+      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
+      "fecha": "14 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Rechazan juicio sumario por corrupción en CFE Internacional",
+      "resumen": "Un tribunal federal de distrito en Houston, Texas rechazó la solicitud de juicio sumario de quienes lideraron CFE International.",
+      "link": "https://www.reforma.com/rechazan-juicio-sumario-por-corrupcion-en-cfe-internacional/ar3259812",
+      "fecha": "18 Aug 2026, 10:27 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Solicita Braskem Idesa protección por bancarrota en EU",
       "resumen": "La mexicana Braskem Idesa solicitó protección por bancarrota ante crecientes presiones financieras y agravamiento de su crisis de liquidez.",
       "link": "https://www.reforma.com/solicita-braskem-idesa-proteccion-por-bancarrota-en-eu/ar3259731",
@@ -171,15 +180,6 @@
       "titulo": "Incertidumbre por aranceles afectará 'un poco más' a AL",
       "resumen": "Incertidumbre por aranceles de Estados Unidos golpearán un poco más a las economías de América Latina en 2026, aseguró Cepal.",
       "link": "https://www.reforma.com/incertidumbre-por-aranceles-afectara-un-poco-mas-a-al/ar3259615",
-      "fecha": "18 Aug 2026, 07:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Rechazan supuesto nuevo IVA a alimentos",
-      "resumen": "Ante versión de que CCE habría elaborado una propuesta para que el Gobierno cobre IVA de 16% a alimentos y medicinas, CNA estaría en contra.",
-      "link": "https://www.reforma.com/rechazan-supuesto-nuevo-iva-a-alimentos/ar3259591",
       "fecha": "18 Aug 2026, 07:00 hrs"
     },
     {
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Incautan controles gamer por posible piratería",
-      "resumen": "El IIMPI aseguró más de 22 mil controles para videojuegos durante un operativo realizado en la aduana de Manzanillo.",
-      "link": "https://www.reforma.com/incautan-controles-gamer-por-posible-pirateria/ar3259606",
-      "fecha": "18 Aug 2026, 05:01 hrs"
+      "titulo": "Rechazan supuesto nuevo IVA a alimentos",
+      "resumen": "Ante versión de que CCE habría elaborado una propuesta para que el Gobierno cobre IVA de 16% a alimentos y medicinas, CNA estaría en contra.",
+      "link": "https://www.reforma.com/rechazan-supuesto-nuevo-iva-a-alimentos/ar3259591",
+      "fecha": "18 Aug 2026, 07:00 hrs"
     }
   ]
 }
