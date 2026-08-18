@@ -1,7 +1,16 @@
 {
-  "actualizado": "18/08/2026 07:41 hrs",
+  "actualizado": "18/08/2026 08:32 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
+      "resumen": "Las compras mexicanas al país asiático aumentaron 103% en el primer semestre, con los electrónicos como principal motor, mientras crecen las sospechas sobre el origen de las mercancías.",
+      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
+      "fecha": "18 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El ahorro que sirve para hacer frente a la falta de ingresos en los estados, reporta apenas el 17% de su saldo máximo reportado en 2018, refieren datos de la Secretaría de Hacienda y Crédito Público.",
       "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
       "fecha": "14 Aug 2026, 16:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda casi duplica el dinero para la inversión en infraestructura",
-      "resumen": "En el primer semestre de este año, por cada peso de endeudamiento sólo se han invertido 68 centavos, refieren cifras de Hacienda.",
-      "link": "https://expansion.mx/economia/2026/08/14/costo-deuda-casi-duplica-dinero-inversion-en-infraestructura",
-      "fecha": "14 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
