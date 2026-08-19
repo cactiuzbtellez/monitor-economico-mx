@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/08/2026 21:47 hrs",
+  "actualizado": "18/08/2026 22:35 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Viaja Ebrard a Washington por aranceles",
+      "resumen": "Secretario de Economía, Marcelo Ebrard informó que se reunirá en Washington con Jamieson Greer, titular del USTR.",
+      "link": "https://www.reforma.com/viaja-ebrard-a-washington-por-aranceles/ar3260359",
+      "fecha": "18 Aug 2026, 22:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Enfrentan dificultades usuarios por registro de líneas",
       "resumen": "Registro obligatorio de líneas móviles ha generado descontento de usuarios ante la saturación de los centros de atención de los operadores.",
       "link": "https://www.reforma.com/enfrentan-dificultades-usuarios-por-registro-de-lineas/ar3260305",
@@ -208,15 +217,6 @@
       "resumen": "Insistir en que Pemex refine gasolinas es uno de los errores más descomunales de la 4T, consideró el economista Suárez Vélez.",
       "link": "https://www.reforma.com/califican-de-absurdo-descomunal-la-refinacion-en-pemex/ar3259954",
       "fecha": "18 Aug 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apuesta Liverpool por estéticas y seguros ante bajo consumo",
-      "resumen": "Liverpool busca contrarrestar el bajo consumo con nuevos servicios para los clientes, como estéticas.",
-      "link": "https://www.reforma.com/apuesta-liverpool-por-esteticas-y-seguros-ante-bajo-consumo/ar3259874",
-      "fecha": "18 Aug 2026, 12:23 hrs"
     }
   ]
 }
