@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/08/2026 05:24 hrs",
+  "actualizado": "19/08/2026 06:44 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
+      "resumen": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
+      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
+      "fecha": "19 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La agrupación empresarial urge preservar la certeza jurídica en un momento decisivo para la integración económica de América del Norte.",
       "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
       "fecha": "17 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México exporta 10 veces más bienes que servicios",
-      "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
-      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
-      "fecha": "17 Aug 2026, 04:55 hrs"
     },
     {
       "fuente": "Expansión",
