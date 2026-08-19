@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 09:30 hrs",
+  "actualizado": "19/08/2026 10:30 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "fecha": "19 Aug 2026, 10:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
       "resumen": "La familia ya tenía vínculos con el sector asegurador desde los años 30. En 1972 tomó el control de dos compañías que, tras una larga integración, terminarían dando origen a GNP.",
       "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
@@ -138,15 +147,6 @@
       "fecha": "17 Aug 2026, 16:28 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
-      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
-      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
-      "fecha": "17 Aug 2026, 16:11 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,19 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Empuja Pemex a la bancarrota de Etileno XXI",
-      "resumen": "La incapacidad de Pemex para abastecer de gas natural a Braskem Idesa la mandó a la bancarrota.",
-      "link": "https://www.reforma.com/empuja-pemex-a-la-bancarrota-de-etileno-xxi/ar3260392",
-      "fecha": "19 Aug 2026, 05:01 hrs"
+      "titulo": "Preocupa a IP y SE criterio de estacionalidad en fresa",
+      "resumen": "La IP y la SE se mostraron preocupadas por la determinación preliminar de EU de aplicar arancel a las fresas mexicanas de invierno.",
+      "link": "https://www.reforma.com/preocupa-a-ip-y-se-criterio-de-estacionalidad-en-fresa/ar3260528",
+      "fecha": "19 Aug 2026, 09:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza en EU posible arancel contra fresa mexicana",
-      "resumen": "Estados Unidos emitió un fallo preliminar en el que asegura que las fresas de México se importaron a precios injustamente bajos.",
-      "link": "https://www.reforma.com/avanza-en-eu-posible-arancel-contra-fresa-mexicana/ar3260377",
-      "fecha": "18 Aug 2026, 23:39 hrs"
+      "titulo": "Empuja Pemex a la quiebra de Etileno XXI",
+      "resumen": "La incapacidad de Pemex para abastecer de gas natural a Braskem Idesa la mandó a la bancarrota.",
+      "link": "https://www.reforma.com/empuja-pemex-a-la-quiebra-de-etileno-xxi/ar3260392",
+      "fecha": "19 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
