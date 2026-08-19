@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/08/2026 20:56 hrs",
+  "actualizado": "18/08/2026 21:47 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Enfrentan dificultades usuarios por registro de líneas",
+      "resumen": "Registro obligatorio de líneas móviles ha generado descontento de usuarios ante la saturación de los centros de atención de los operadores.",
+      "link": "https://www.reforma.com/enfrentan-dificultades-usuarios-por-registro-de-lineas/ar3260305",
+      "fecha": "18 Aug 2026, 21:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cuestionan calidad de Techos Solares del Bienestar",
       "resumen": "El programa Techo Solar del Bienestar enfrenta deficiencias técnicas que deben corregirse, advierten especialistas.",
       "link": "https://www.reforma.com/cuestionan-calidad-de-techos-solares-del-bienestar/ar3260286",
@@ -208,15 +217,6 @@
       "resumen": "Liverpool busca contrarrestar el bajo consumo con nuevos servicios para los clientes, como estéticas.",
       "link": "https://www.reforma.com/apuesta-liverpool-por-esteticas-y-seguros-ante-bajo-consumo/ar3259874",
       "fecha": "18 Aug 2026, 12:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Modifica Apple comisiones aplicadas fuera de App Store en UE",
-      "resumen": "Apple dijo que las aplicaciones que usen sistemas alternativos de procesamiento de pagos estarán sujetas a una comisión del 20%, o menor.",
-      "link": "https://www.reforma.com/modifica-apple-comisiones-aplicadas-fuera-de-app-store-en-ue/ar3259837",
-      "fecha": "18 Aug 2026, 11:15 hrs"
     }
   ]
 }
