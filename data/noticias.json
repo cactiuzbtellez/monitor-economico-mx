@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 13:24 hrs",
+  "actualizado": "19/08/2026 14:26 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,10 +78,10 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cruz Azul invierte 6,500 millones de pesos para reactivar planta en Hidalgo",
-      "resumen": "Tras permanecer fuera de operación desde 2021 por un conflicto interno, la planta de Cruz Azul en Tula será rehabilitada para producir tres millones de toneladas de cemento.",
-      "link": "https://expansion.mx/empresas/2026/08/19/cooperativa-cruz-azul-reactiva-planta-tula-hidalgo",
-      "fecha": "19 Aug 2026, 11:20 hrs"
+      "titulo": "La historia detrás de Anforama, la cadena mexicana que cierra sucursales y remata mercancía",
+      "resumen": "La cadena mexicana comenzó en los años 50 como una pequeña cristalería y llegó a operar decenas de tiendas.",
+      "link": "https://expansion.mx/empresas/2026/08/19/anforama-cierra-sucursales-historia",
+      "fecha": "19 Aug 2026, 13:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,10 +150,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se llevan pensiones casi el 72% del ISR",
-      "resumen": "En primer semestre de 2026, el gasto en pensiones contributivas y no contributivas ascendió a 1.13 billones de pesos, igual a 71.9% del ISR.",
-      "link": "https://www.reforma.com/se-llevan-pensiones-casi-el-72-del-isr/ar3260327",
-      "fecha": "19 Aug 2026, 05:01 hrs"
+      "titulo": "Pedirán que operaciones de vivienda se vean como bajo riesgo",
+      "resumen": "Canadevi planteará a la UIF que las operaciones del sector sean considerados de bajo riesgo en la Ley Antilavado.",
+      "link": "https://www.reforma.com/pediran-que-operaciones-de-vivienda-se-vean-como-bajo-riesgo/ar3260677",
+      "fecha": "19 Aug 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,6 +163,15 @@
       "resumen": "Sectores como el de computo no se respalda en importaciones de China, lo que descarta la acusación de triangular mercancías, dijo el Imco.",
       "link": "https://www.reforma.com/cuestionan-triangulacion-china-a-traves-de-mexico/ar3260567",
       "fecha": "19 Aug 2026, 10:48 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reduciría EU a 25% aranceles a acero y aluminio de Canadá",
+      "resumen": "EU reduciría de 50% a 25% los aranceles a ciertas exportaciones canadienses de acero y aluminio, como parte de un acuerdo comercial.",
+      "link": "https://www.reforma.com/reduciria-eu-a-25-aranceles-a-acero-y-aluminio-de-canada/ar3260681",
+      "fecha": "19 Aug 2026, 13:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cotiza dólar en $16.95, mínimo desde junio de 2024",
-      "resumen": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
-      "link": "https://www.reforma.com/cotiza-dolar-en-16-95-minimo-desde-junio-de-2024/ar3260495",
-      "fecha": "19 Aug 2026, 07:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan fijar una cuota de contenido regional",
-      "resumen": "Para México es posible aprovechar las industrias que aumentaron su dinamismo en exportaciones ante los cambios comerciales de EU.",
-      "link": "https://www.reforma.com/buscan-fijar-una-cuota-de-contenido-regional/ar3260337",
-      "fecha": "19 Aug 2026, 05:01 hrs"
+      "titulo": "Dato mata relato en T-MEC.- CCE",
+      "resumen": "Ante narrativa de Trump de que el T-MEC es irrelevante para su país, presidente del CCE aseveró que cifras demuestran que sí ha funcionado.",
+      "link": "https://www.reforma.com/dato-mata-relato-en-t-mec-cce/ar3260318",
+      "fecha": "19 Aug 2026, 14:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se reúnen EU y Canadá tras suspensión de aranceles",
-      "resumen": "Negociadores de Canadá y EU se reunieron tras suspensión de 3 días para la aplicación de aranceles del 50% sobre productos canadienses.",
-      "link": "https://www.reforma.com/se-reunen-eu-y-canada-tras-suspension-de-aranceles/ar3260581",
-      "fecha": "19 Aug 2026, 11:14 hrs"
+      "titulo": "Traerán elecciones en EU más hostilidades en comercio",
+      "resumen": "Las elecciones en EU presionarían las hostilidades hacia el comercio del País, sobre todo si pierden los Republicanos, según especialistas.",
+      "link": "https://www.reforma.com/traeran-elecciones-en-eu-mas-hostilidades-en-comercio/ar3260674",
+      "fecha": "19 Aug 2026, 14:11 hrs"
     }
   ]
 }
