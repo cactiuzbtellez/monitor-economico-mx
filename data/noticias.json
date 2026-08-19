@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 12:34 hrs",
+  "actualizado": "19/08/2026 13:24 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Cruz Azul invierte 6,500 millones de pesos para reactivar planta en Hidalgo",
+      "resumen": "Tras permanecer fuera de operación desde 2021 por un conflicto interno, la planta de Cruz Azul en Tula será rehabilitada para producir tres millones de toneladas de cemento.",
+      "link": "https://expansion.mx/empresas/2026/08/19/cooperativa-cruz-azul-reactiva-planta-tula-hidalgo",
+      "fecha": "19 Aug 2026, 11:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "fecha": "19 Aug 2026, 10:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
       "resumen": "La familia ya tenía vínculos con el sector asegurador desde los años 30. En 1972 tomó el control de dos compañías que, tras una larga integración, terminarían dando origen a GNP.",
       "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
@@ -127,24 +145,6 @@
       "resumen": "De acuerdo con la empresa, el proyecto \"reafirma\" su compromiso en México luego de la adquisición de Iberdrola.",
       "link": "https://expansion.mx/empresas/2026/08/17/cox-anuncia-construccion-desaladora-en-mexico-por-304-mdd",
       "fecha": "17 Aug 2026, 16:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿No puedes recargar Telcel? Usuarios reportan que el saldo no entra este lunes 17 de agosto",
-      "resumen": "La empresa de Carlos Slim informa que fue un fallo en los sistemas IP la razón de que usuarios no pudieran realizar recargas este lunes.",
-      "link": "https://expansion.mx/empresas/2026/08/17/se-cayo-telcel-fallas-en-recargas-senal-e-internet",
-      "fecha": "17 Aug 2026, 16:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
-      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
-      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
-      "fecha": "17 Aug 2026, 16:11 hrs"
     },
     {
       "fuente": "Reforma",
