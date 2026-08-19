@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/08/2026 08:32 hrs",
+  "actualizado": "19/08/2026 09:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
+      "resumen": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
+      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
+      "fecha": "19 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La agrupación empresarial urge preservar la certeza jurídica en un momento decisivo para la integración económica de América del Norte.",
       "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
       "fecha": "17 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México exporta 10 veces más bienes que servicios",
-      "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
-      "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
-      "fecha": "17 Aug 2026, 04:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,19 +159,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Empuja Pemex a la bancarrota de Etileno XXI",
-      "resumen": "La incapacidad de Pemex para abastecer de gas natural a Braskem Idesa la mandó a la bancarrota.",
-      "link": "https://www.reforma.com/empuja-pemex-a-la-bancarrota-de-etileno-xxi/ar3260392",
-      "fecha": "19 Aug 2026, 05:01 hrs"
+      "titulo": "Cotiza dólar en $16.95, un mínimo desde junio de 2024",
+      "resumen": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
+      "link": "https://www.reforma.com/cotiza-dolar-en-16-95-un-minimo-desde-junio-de-2024/ar3260495",
+      "fecha": "19 Aug 2026, 07:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cotiza peso en 16.95 por dólar, mínimo desde junio de 2024",
-      "resumen": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
-      "link": "https://www.reforma.com/cotiza-peso-en-16-95-por-dolar-minimo-desde-junio-de-2024/ar3260495",
-      "fecha": "19 Aug 2026, 07:51 hrs"
+      "titulo": "Empuja Pemex a la bancarrota de Etileno XXI",
+      "resumen": "La incapacidad de Pemex para abastecer de gas natural a Braskem Idesa la mandó a la bancarrota.",
+      "link": "https://www.reforma.com/empuja-pemex-a-la-bancarrota-de-etileno-xxi/ar3260392",
+      "fecha": "19 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Viaja Ebrard a Washington por aranceles",
-      "resumen": "Secretario de Economía, Marcelo Ebrard informó que se reunirá en Washington con Jamieson Greer, titular del USTR.",
-      "link": "https://www.reforma.com/viaja-ebrard-a-washington-por-aranceles/ar3260359",
-      "fecha": "18 Aug 2026, 22:13 hrs"
+      "titulo": "Pagará Bidesa deuda con acciones y emisión",
+      "resumen": "Reestructura de Braskem Idesa  será por alrededor de 3.6 mil millones de dólares, de acuerdo con los documentos presentados en Texas.",
+      "link": "https://www.reforma.com/pagara-bidesa-deuda-con-acciones-y-emision/ar3260349",
+      "fecha": "19 Aug 2026, 05:01 hrs"
     }
   ]
 }
