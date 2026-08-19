@@ -1,7 +1,34 @@
 {
-  "actualizado": "19/08/2026 02:36 hrs",
+  "actualizado": "19/08/2026 03:32 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
+      "resumen": "La Secretaría de Economía rechaza los criterios de Estados Unidos y alerta sobre el impacto para casi 5,000 productores.",
+      "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
+      "fecha": "18 Aug 2026, 22:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump da tres días a Canadá ante aranceles de 50% y revive un oleoducto",
+      "resumen": "La prórroga evita una escalada inmediata entre los socios del T-MEC, aunque la amenaza arancelaria continuará vigente si fracasan las conversaciones.",
+      "link": "https://expansion.mx/economia/2026/08/18/trump-aplaza-aranceles-canada-oleoducto-keystone-xl",
+      "fecha": "18 Aug 2026, 22:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU endurece regla de inglés y pone en riesgo a 9,000 camioneros al año",
+      "resumen": "La medida puede generar hasta 14.4 millones de dólares anuales en costos para transportistas y sumar retrasos a una ruta que mueve 73.6% del comercio bilateral.",
+      "link": "https://expansion.mx/economia/2026/08/18/comercio-mexico-eu-nuevo-riesgo-camioneros-no-hablen-ingles",
+      "fecha": "18 Aug 2026, 15:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "Las actividades digitales aportaron 19,532 millones de dólares, apenas 0.37% del mercado global, mientras Estados Unidos y China avanzan con mayor velocidad.",
       "link": "https://expansion.mx/economia/2026/08/17/mexico-potencia-exportadora-rezago-servicios",
       "fecha": "17 Aug 2026, 04:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Un PIB estancado: por qué México no crece",
-      "resumen": "El país esperaba una nueva etapa de expansión, pero la baja inversión y la productividad que no avanza apuntan a una economía con menos margen para crecer.",
-      "link": "https://expansion.mx/economia/2026/08/16/por-que-mexico-no-crece-pib",
-      "fecha": "16 Aug 2026, 06:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda actualiza impuestos IEPS a gasolinas, usuarios pagarán aumento de más de 1 peso por cada litro",
-      "resumen": "La cuota IEPS para la gasolina Magna será de 5.60 pesos por litro, lo que representa un incremento de 1.34 pesos, en comparación con la cuota que aplicó los primeros siete días de agosto.",
-      "link": "https://expansion.mx/economia/2026/08/14/hacienda-impuestos-gasolinas-1-peso-por-litro",
-      "fecha": "14 Aug 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los fondos anticrisis de México operan con menos del 55% de sus máximos históricos",
-      "resumen": "El ahorro que sirve para hacer frente a la falta de ingresos en los estados, reporta apenas el 17% de su saldo máximo reportado en 2018, refieren datos de la Secretaría de Hacienda y Crédito Público.",
-      "link": "https://expansion.mx/economia/2026/08/14/fondos-anticrisis-mexico-55-maximos-historicos",
-      "fecha": "14 Aug 2026, 16:56 hrs"
     },
     {
       "fuente": "Expansión",
