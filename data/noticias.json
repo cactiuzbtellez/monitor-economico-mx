@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 07:42 hrs",
+  "actualizado": "19/08/2026 08:32 hrs",
   "total": 24,
   "noticias": [
     {
@@ -168,6 +168,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Cotiza peso en 16.95 por dólar, mínimo desde junio de 2024",
+      "resumen": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
+      "link": "https://www.reforma.com/cotiza-peso-en-16-95-por-dolar-minimo-desde-junio-de-2024/ar3260495",
+      "fecha": "19 Aug 2026, 07:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Avanza en EU posible arancel contra fresa mexicana",
       "resumen": "Estados Unidos emitió un fallo preliminar en el que asegura que las fresas de México se importaron a precios injustamente bajos.",
       "link": "https://www.reforma.com/avanza-en-eu-posible-arancel-contra-fresa-mexicana/ar3260377",
@@ -177,18 +186,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a explorar minerales críticos",
-      "resumen": "México tiene potencial para ser una pieza clave en la cadena de suministro de minerales críticos peo empresas apuestan por oro y plata.",
-      "link": "https://www.reforma.com/urgen-a-explorar-minerales-criticos/ar3260354",
-      "fecha": "19 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pesa industria en economía de la región Norte",
-      "resumen": "De acuerdo con Inegi la economía de los estados de la región Norte de México destaca por una concentración industrial de hasta 54.8%.",
-      "link": "https://www.reforma.com/pesa-industria-en-economia-de-la-region-norte/ar3260322",
+      "titulo": "Buscan fijar una cuota de contenido regional",
+      "resumen": "Para México es posible aprovechar las industrias que aumentaron su dinamismo en exportaciones ante los cambios comerciales de EU.",
+      "link": "https://www.reforma.com/buscan-fijar-una-cuota-de-contenido-regional/ar3260337",
       "fecha": "19 Aug 2026, 05:01 hrs"
     },
     {
