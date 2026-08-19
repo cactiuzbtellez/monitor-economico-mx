@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/08/2026 11:25 hrs",
+  "actualizado": "19/08/2026 12:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La cuota antidumping a la fresa mexicana puede ser solo el principio, advierte el CNA",
+      "resumen": "El sector agropecuario teme que los criterios de estacionalidad y regionalidad abran la puerta a nuevas investigaciones comerciales para otros productos del campo.",
+      "link": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
+      "fecha": "19 Aug 2026, 11:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,24 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión de EU en México exige reglas fiscales claras: AmSoc",
-      "resumen": "La agrupación empresarial urge preservar la certeza jurídica en un momento decisivo para la integración económica de América del Norte.",
-      "link": "https://expansion.mx/economia/2026/08/17/conflicto-fiscal-empresas-eu-mexico-amsoc",
-      "fecha": "17 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
-      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
-      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
-      "fecha": "19 Aug 2026, 10:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
@@ -147,6 +138,15 @@
       "fecha": "17 Aug 2026, 16:28 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Más que un sueldo: las 10 empresas con mejores prestaciones y condiciones para mujeres en México",
+      "resumen": "El ranking evalúa políticas, beneficios, flexibilidad, satisfacción laboral y liderazgo para identificar a las compañías con mejores resultados para las mujeres.",
+      "link": "https://expansion.mx/empresas/2026/08/17/super-empresas-para-mujeres-ranking-2026",
+      "fecha": "17 Aug 2026, 16:11 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,6 +177,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Incumple 93.5% de municipios con eliminación de trámites",
+      "resumen": "El 93.5% de los municipios del País han incumplido con al Ley Nacional para Eliminar Trámites Burocráticos, según Concanaco.",
+      "link": "https://www.reforma.com/incumple-93-5-de-municipios-con-eliminacion-de-tramites/ar3260601",
+      "fecha": "19 Aug 2026, 12:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cotiza dólar en $16.95, mínimo desde junio de 2024",
       "resumen": "Tras dos jornadas de pérdidas, el peso mexicano se negocia en 16.9585 unidades por dólar, con un alza de 0.60% frente al cierre del martes.",
       "link": "https://www.reforma.com/cotiza-dolar-en-16-95-minimo-desde-junio-de-2024/ar3260495",
@@ -190,15 +199,6 @@
       "resumen": "Para México es posible aprovechar las industrias que aumentaron su dinamismo en exportaciones ante los cambios comerciales de EU.",
       "link": "https://www.reforma.com/buscan-fijar-una-cuota-de-contenido-regional/ar3260337",
       "fecha": "19 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "¿Qué hacer si te desconectan tu línea por no registrarla?",
-      "resumen": "Si tu teléfono dejó de hacer llamadas o conectarse a internet y tu línea no fue vinculada, no necesariamente perdiste tu número.",
-      "link": "https://www.reforma.com/que-hacer-si-te-desconectan-tu-linea-por-no-registrarla/ar3260173",
-      "fecha": "19 Aug 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
