@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/08/2026 19:12 hrs",
+  "actualizado": "18/08/2026 20:56 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
+      "resumen": "La familia ya tenía vínculos con el sector asegurador desde los años 30. En 1972 tomó el control de dos compañías que, tras una larga integración, terminarían dando origen a GNP.",
+      "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
+      "fecha": "18 Aug 2026, 16:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Ingreso de mercancías provenientes de China crece 8% y el Pacífico capitaliza el aumento",
       "resumen": "Del otro lado, los contenedores movilizados en el litoral del Golfo de México, el volumen de contenedores movilizados disminuyó 7.8%",
       "link": "https://expansion.mx/empresas/2026/08/18/puertos-no-mienten-mexico-barreras-china-pacifico-mercancia",
@@ -138,13 +147,22 @@
       "fecha": "17 Aug 2026, 16:11 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México aprueba las tabletas Wegovy de Novo Nordisk para bajar de peso",
-      "resumen": "Novo Nordisk estima que más de 70 millones de adultos en México viven con sobrepeso u obesidad.",
-      "link": "https://expansion.mx/empresas/2026/08/17/mexico-aprueba-semaglutida-oral-novo-nordisk-wegovy",
-      "fecha": "17 Aug 2026, 14:37 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cuestionan calidad de Techos Solares del Bienestar",
+      "resumen": "El programa Techo Solar del Bienestar enfrenta deficiencias técnicas que deben corregirse, advierten especialistas.",
+      "link": "https://www.reforma.com/cuestionan-calidad-de-techos-solares-del-bienestar/ar3260286",
+      "fecha": "18 Aug 2026, 20:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reitera IMEF preocupación por deuda de 60% del PIB",
+      "resumen": "Ante la falta de crecimiento económico, es probable que la deuda bruta del sector público alcanzará el nivel de 60% del PIB, insistió IMEF.",
+      "link": "https://www.reforma.com/reitera-imef-preocupacion-por-deuda-de-60-del-pib/ar3260033",
+      "fecha": "18 Aug 2026, 15:21 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,37 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Califican de 'absurdo descomunal' la refinación en Pemex",
+      "titulo": "Se mantiene crudo Brent por encima de los 90 dólares",
+      "resumen": "El barril de Brent ganó un 0.17% y se mantuvo por encima de los 90 dólares, mientras que el de WTI avanzó un 0.52% hasta los 84.94 dólares.",
+      "link": "https://www.reforma.com/se-mantiene-crudo-brent-por-encima-de-los-90-dolares/ar3259988",
+      "fecha": "18 Aug 2026, 14:23 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Califican de absurdo descomunal la refinación en Pemex",
       "resumen": "Insistir en que Pemex refine gasolinas es uno de los errores más descomunales de la 4T, consideró el economista Suárez Vélez.",
       "link": "https://www.reforma.com/califican-de-absurdo-descomunal-la-refinacion-en-pemex/ar3259954",
       "fecha": "18 Aug 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reitera IMEF preocupación por deuda de 60% del PIB",
-      "resumen": "Ante la falta de crecimiento económico, es probable que la deuda bruta del sector público alcanzará el nivel de 60% del PIB, insistió IMEF.",
-      "link": "https://www.reforma.com/reitera-imef-preocupacion-por-deuda-de-60-del-pib/ar3260033",
-      "fecha": "18 Aug 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Solicita Braskem Idesa protección por bancarrota en EU",
-      "resumen": "La mexicana Braskem Idesa solicitó protección por bancarrota ante crecientes presiones financieras y agravamiento de su crisis de liquidez.",
-      "link": "https://www.reforma.com/solicita-braskem-idesa-proteccion-por-bancarrota-en-eu/ar3259731",
-      "fecha": "18 Aug 2026, 07:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Rechazan juicio sumario por corrupción en CFE Internacional",
-      "resumen": "Un tribunal federal de distrito en Houston, Texas rechazó la solicitud de juicio sumario de quienes lideraron CFE International.",
-      "link": "https://www.reforma.com/rechazan-juicio-sumario-por-corrupcion-en-cfe-internacional/ar3259812",
-      "fecha": "18 Aug 2026, 10:27 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se mantiene crudo Brent por encima de los 90 dólares",
-      "resumen": "El barril de Brent ganó un 0.17% y se mantuvo por encima de los 90 dólares, mientras que el de WTI avanzó un 0.52% hasta los 84.94 dólares.",
-      "link": "https://www.reforma.com/se-mantiene-crudo-brent-por-encima-de-los-90-dolares/ar3259988",
-      "fecha": "18 Aug 2026, 14:23 hrs"
+      "titulo": "Modifica Apple comisiones aplicadas fuera de App Store en UE",
+      "resumen": "Apple dijo que las aplicaciones que usen sistemas alternativos de procesamiento de pagos estarán sujetas a una comisión del 20%, o menor.",
+      "link": "https://www.reforma.com/modifica-apple-comisiones-aplicadas-fuera-de-app-store-en-ue/ar3259837",
+      "fecha": "18 Aug 2026, 11:15 hrs"
     }
   ]
 }
