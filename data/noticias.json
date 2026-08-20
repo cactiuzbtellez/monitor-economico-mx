@@ -1,7 +1,16 @@
 {
-  "actualizado": "20/08/2026 13:30 hrs",
+  "actualizado": "20/08/2026 14:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
+      "resumen": "La inflación llegará hacia su meta de 3% hasta el cuarto trimestre de 2027, la persistencia del conflicto en Medio Oriente es un factor que agrega presión al precio del petróleo.",
+      "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
+      "fecha": "20 Aug 2026, 12:39 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,33 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Vietnam duplica sus exportaciones a México entre alertas por triangulación china",
-      "resumen": "Las compras mexicanas al país asiático aumentaron 103% en el primer semestre, con los electrónicos como principal motor, mientras crecen las sospechas sobre el origen de las mercancías.",
-      "link": "https://expansion.mx/economia/2026/08/18/vietnam-exportaciones-mexico-triangulacion-china",
-      "fecha": "18 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "resumen": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "fecha": "20 Aug 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
-      "resumen": "Iván Espinosa, CEO de Nissan, detalló que la compañía recortó el tiempo de desarrollo de vehículos en 40% y recurrirá a socios para algunas tecnologías, mientras concentra esfuerzos en híbridos y e-Po…",
-      "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
-      "fecha": "20 Aug 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
@@ -147,6 +129,24 @@
       "fecha": "19 Aug 2026, 15:57 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia detrás de Anforama, la cadena mexicana que cierra sucursales y remata mercancía",
+      "resumen": "La cadena mexicana comenzó en los años 50 como una pequeña cristalería y llegó a operar decenas de tiendas.",
+      "link": "https://expansion.mx/empresas/2026/08/19/anforama-cierra-sucursales-historia",
+      "fecha": "19 Aug 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "fecha": "19 Aug 2026, 10:05 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "En 2026 México hilará tres años creciendo debajo de su promedio histórico, dijo uno de los integrantes de la Junta de Gobierno del Banxico.",
       "link": "https://www.reforma.com/hilara-crecimiento-3-anos-debajo-del-promedio-historico/ar3261277",
       "fecha": "20 Aug 2026, 10:49 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recorta Cepal a 1.3% pronóstico de PIB para 2026 en México",
+      "resumen": "La Cepal recortó de 1.5 a 1.3 por ciento su pronóstico de crecimiento económico para México en 2026.",
+      "link": "https://www.reforma.com/recorta-cepal-a-1-3-pronostico-de-pib-para-2026-en-mexico/ar3261376",
+      "fecha": "20 Aug 2026, 14:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Libran exportaciones 'súper peso' por la IA",
-      "resumen": "Pese a que el tipo de cambio acumula una apreciación menor a 17 pesos por dólar, su efecto no se percibe en las exportaciones mexicanas.",
-      "link": "https://www.reforma.com/libran-exportaciones-super-peso-por-la-ia/ar3260973",
-      "fecha": "20 Aug 2026, 05:02 hrs"
+      "titulo": "Sube crudo más de 2% ante amenaza de Trump a socios de Irán",
+      "resumen": "El precio del barril de Brent aumentó 2.36% hasta los 93.78 dólares, mientras que el WTI ganó 2.33% para cerrar en 87.83 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-mas-de-2-ante-amenaza-de-trump-a-socios-de-iran/ar3261448",
+      "fecha": "20 Aug 2026, 14:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden transportistas presupuesto para conservar carreteras",
+      "resumen": "La Canacar iniciará un cabildeo para que se incremente los recursos destinados a la conservación carretera en el presupuesto de 2027.",
+      "link": "https://www.reforma.com/piden-transportistas-presupuesto-para-conservar-carreteras/ar3261391",
+      "fecha": "20 Aug 2026, 14:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén cerrar en 2027 Junta de Conciliación",
-      "resumen": "Tras dejar de operar en 2022, la Secretaría del Trabajo de NL prevé que la Junta de Conciliación y Arbitraje cierre definitivamente en 2027.",
-      "link": "https://www.reforma.com/preven-cerrar-en-2027-junta-de-conciliacion/ar3261018",
-      "fecha": "20 Aug 2026, 07:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Arranca Volvo exportación por Puente Colombia",
-      "resumen": "Volvo inició la exportación de sus primeras unidades fabricadas en Ciénega de Flores hacia EU y Canadá.",
-      "link": "https://www.reforma.com/arranca-volvo-exportacion-por-puente-colombia/ar3261168",
-      "fecha": "20 Aug 2026, 07:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anuncia Tesoro de EU que podría aumentar recompras de bonos",
-      "resumen": "Secretario del Tesoro de EU, Scott Bessent, dijo que podría volver a aumentar el volumen de bonos del Tesoro que el Gobierno va a recomprar.",
-      "link": "https://www.reforma.com/anuncia-tesoro-de-eu-que-podria-aumentar-recompras-de-bonos/ar3261288",
-      "fecha": "20 Aug 2026, 11:08 hrs"
+      "titulo": "Busca Nissan competir  con innovaciones e IA propia",
+      "resumen": "Nissan basa su estrategia en acercar más innovaciones en sus vehículos y saber elegir la información que alimenta su IA.",
+      "link": "https://www.reforma.com/busca-nissan-competir-con-innovaciones-e-ia-propia/ar3261429",
+      "fecha": "20 Aug 2026, 14:08 hrs"
     }
   ]
 }
