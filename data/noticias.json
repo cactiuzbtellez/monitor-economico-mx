@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/08/2026 22:36 hrs",
+  "actualizado": "19/08/2026 23:29 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Herramientas tecnológicas impulsan hasta 97% el cumplimiento con el SAT",
+      "resumen": "Los trabajadores independientes en México buscan estar al día con el pago de impuestos, pero no cuentan con herramientas, ni conocimiento para lograrlo, explicó Stiven Rodríguez, CEO de Heru.",
+      "link": "https://expansion.mx/economia/2026/08/19/tecnologia-eleva-cumplimiento-obligaciones-sat",
+      "fecha": "19 Aug 2026, 17:07 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Previo a la entrega del Paquete Económico se descartan nuevas tasas o cuotas por impuestos, pero se espera una mayor vigilancia del SAT hacia los contribuyentes.",
       "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
       "fecha": "17 Aug 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Millennials necesitan ganar 85,800 pesos para comprar casa en CDMX, menos del 4% lo logra",
-      "resumen": "Una vivienda de 60 metros cuadrados costaría cerca de 3.56 millones de pesos en la capital. Entre los ocupados de 30 a 39 años que reportaron ingresos, apenas 3.7% gana más de cinco salarios mínimos.",
-      "link": "https://expansion.mx/economia/2026/08/17/millennials-necesitan-ganar-85800-pesos-comprar-casa-cdmx",
-      "fecha": "17 Aug 2026, 16:45 hrs"
     },
     {
       "fuente": "Expansión",
