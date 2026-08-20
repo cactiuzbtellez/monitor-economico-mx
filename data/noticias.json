@@ -1,7 +1,16 @@
 {
-  "actualizado": "20/08/2026 08:35 hrs",
+  "actualizado": "20/08/2026 09:32 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La riqueza que heredará la Generación Z en México puede ampliar la desigualdad",
+      "resumen": "Una fracción de los jóvenes recibirá empresas, inmuebles y portafolios, mientras otros tendrán que construir patrimonio principalmente con su salario.",
+      "link": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
+      "fecha": "20 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,24 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los contadores descartan nuevos impuestos para 2027, pero advierten sobre más fiscalización",
-      "resumen": "Previo a la entrega del Paquete Económico se descartan nuevas tasas o cuotas por impuestos, pero se espera una mayor vigilancia del SAT hacia los contribuyentes.",
-      "link": "https://expansion.mx/economia/2026/08/17/contadores-nuevos-impuestos-2027-advierten-mas-fiscalizacion",
-      "fecha": "17 Aug 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
-      "resumen": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
-      "fecha": "20 Aug 2026, 08:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
@@ -147,6 +138,15 @@
       "fecha": "19 Aug 2026, 10:05 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los Baillères compraron dos aseguradoras y hoy son los reyes de los seguros en México con ventas millonarias",
+      "resumen": "La familia ya tenía vínculos con el sector asegurador desde los años 30. En 1972 tomó el control de dos compañías que, tras una larga integración, terminarían dando origen a GNP.",
+      "link": "https://expansion.mx/empresas/2026/08/18/como-bailleres-construyeron-gnp-seguros-historia",
+      "fecha": "18 Aug 2026, 16:40 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Provoca EU caída de tasas",
-      "resumen": "Luego de que el rendimiento de la deuda del Tesoro llegara su nivel más alto, provocó ayer fuertes caídas en los rendimientos de los bonos.",
-      "link": "https://www.reforma.com/provoca-eu-caida-de-tasas/ar3261068",
-      "fecha": "20 Aug 2026, 07:01 hrs"
+      "titulo": "Se rezaga Pemex frente a otras petroleras",
+      "resumen": "Pemex dejó escapar el beneficio que dejó el conflicto de Medio Oriente y quedó rezagada frente a otras compañías, señaló Banamex.",
+      "link": "https://www.reforma.com/se-rezaga-pemex-frente-a-otras-petroleras/ar3260937",
+      "fecha": "19 Aug 2026, 19:19 hrs"
     },
     {
       "fuente": "Reforma",
