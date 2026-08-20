@@ -1,12 +1,12 @@
 {
-  "actualizado": "20/08/2026 15:27 hrs",
+  "actualizado": "20/08/2026 16:26 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan al alza de precios",
+      "titulo": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
       "resumen": "La inflación llegará hacia su meta de 3% hasta el cuarto trimestre de 2027, la persistencia del conflicto en Medio Oriente es un factor que agrega presión al precio del petróleo.",
       "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
       "fecha": "20 Aug 2026, 12:39 hrs"
@@ -78,42 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
-      "resumen": "La tendencia de los modelos electrificados llegó a un segmento relacionado estrictamente con la potencia y la fuerza de trabajo: las pick-ups.",
-      "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
-      "fecha": "20 Aug 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
-      "resumen": "La plataforma aseguró que el país es uno de los mercados clave para la producción de series y películas, así como para su propuesta deportiva.",
-      "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
-      "fecha": "20 Aug 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "resumen": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "fecha": "20 Aug 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
-      "resumen": "Iván Espinosa, CEO de Nissan, detalló que la compañía recortó el tiempo de desarrollo de vehículos en 40% y recurrirá a socios para algunas tecnologías, mientras concentra esfuerzos en híbridos y e-Po…",
-      "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
-      "fecha": "20 Aug 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
       "resumen": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
       "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
@@ -147,6 +111,42 @@
       "fecha": "19 Aug 2026, 18:00 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Cruz Azul nació como una fábrica de cal, casi desaparece y hoy la cooperativa vuelve a su antigua casa",
+      "resumen": "La Cruz Azul anunció la reapertura de su planta en Hidalgo, donde comenzó la historia de esta empresa cementera.",
+      "link": "https://expansion.mx/empresas/2026/08/19/cruz-azul-historia-cooperativa-nacio-hidalgo",
+      "fecha": "19 Aug 2026, 16:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Palacio de Hierro tiene 488 millones en puntos sin canjear; ¿por qué no es algo negativo para la empresa?",
+      "resumen": "El monto aparece como un pasivo en los estados financieros, pero el programa también busca mantener a los clientes dentro de la cadena e incentivar nuevas compras.",
+      "link": "https://expansion.mx/empresas/2026/08/19/palacio-de-hierro-puntos-sin-canjear-488-millones",
+      "fecha": "19 Aug 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia detrás de Anforama, la cadena mexicana que cierra sucursales y remata mercancía",
+      "resumen": "La cadena mexicana comenzó en los años 50 como una pequeña cristalería y llegó a operar decenas de tiendas.",
+      "link": "https://expansion.mx/empresas/2026/08/19/anforama-cierra-sucursales-historia",
+      "fecha": "19 Aug 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Líneas telefónicas 0 ya fueron suspendidas por no registrarse; esta es la fecha para los números 1",
+      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
+      "link": "https://expansion.mx/empresas/2026/08/19/lineas-telefonicas-1-fecha-registro-suspension",
+      "fecha": "19 Aug 2026, 10:05 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerdo Canadá-EU pone bajo presión a negociadores mexicanos",
-      "resumen": "Acuerdo comercial preliminar de Canadá con EU tomó por sorpresa a funcionarios y líderes empresariales mexicanos. Ahora, quieren uno propio.",
-      "link": "https://www.reforma.com/acuerdo-canada-eu-pone-bajo-presion-a-negociadores-mexicanos/ar3261247",
-      "fecha": "20 Aug 2026, 10:07 hrs"
+      "titulo": "Alcanza barrenador a Sonora",
+      "resumen": "Tras reapertura de exportaciones de ganado bovino a EU, Senasica informó la aparición de gusano barrenador de ganado en Sonora.",
+      "link": "https://www.reforma.com/alcanza-barrenador-a-sonora/ar3261512",
+      "fecha": "20 Aug 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Registra actividad económica avance de 2.7% en julio",
-      "resumen": "El Indicador Oportuno de la Actividad Económica del País aumentó 2.7% en julio de 2026, logrando su mayo alza desde marzo de 2024.",
-      "link": "https://www.reforma.com/registra-actividad-economica-avance-de-2-7-en-julio/ar3261282",
-      "fecha": "20 Aug 2026, 10:56 hrs"
+      "titulo": "Acuerdo Canadá-EU pone bajo presión a negociadores mexicanos",
+      "resumen": "Acuerdo comercial preliminar de Canadá con EU tomó por sorpresa a funcionarios y líderes empresariales mexicanos. Ahora, quieren uno propio.",
+      "link": "https://www.reforma.com/acuerdo-canada-eu-pone-bajo-presion-a-negociadores-mexicanos/ar3261247",
+      "fecha": "20 Aug 2026, 10:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Priorizan Petrobras y Pemex crudo ultraprofundo en golfo",
-      "resumen": "Pemex y Petrobras apuestan por un proyecto para extraer una reserva de crudo que no ha visto la luz del día en 160 millones de años.",
-      "link": "https://www.reforma.com/priorizan-petrobras-y-pemex-crudo-ultraprofundo-en-golfo/ar3261261",
-      "fecha": "20 Aug 2026, 10:26 hrs"
+      "titulo": "Registra actividad económica avance de 2.7% en julio",
+      "resumen": "El Indicador Oportuno de la Actividad Económica del País aumentó 2.7% en julio de 2026, logrando su mayo alza desde marzo de 2024.",
+      "link": "https://www.reforma.com/registra-actividad-economica-avance-de-2-7-en-julio/ar3261282",
+      "fecha": "20 Aug 2026, 10:56 hrs"
     }
   ]
 }
