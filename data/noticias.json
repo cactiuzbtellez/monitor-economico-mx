@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/08/2026 20:55 hrs",
+  "actualizado": "19/08/2026 21:47 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Industriales del plástico piden a Economía reducir la cuota al PVC estadounidense ante el avance asiático",
-      "resumen": "México mantiene una cuota compensatoria aplicada a la resina de PVC proveniente de Estados Unidos. Los industriales piden reducirla a un nivel que permita recuperar condiciones de competencia para las…",
-      "link": "https://expansion.mx/empresas/2026/08/19/industriales-del-plastico-piden-a-economia-reducir-la-cuota-al-pvc-estadounidense-ante-el-avance-asiatico",
-      "fecha": "19 Aug 2026, 18:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los Baillères convierten la marca GNP en sinónimo de entretenimiento: los recintos que llevan su nombre en el país",
-      "resumen": "GNP Seguros se ha convertido en sinónimo de entretenimiento, pues da nombra a recintos y eventos en todo el país.",
-      "link": "https://expansion.mx/empresas/2026/08/19/bailleres-gnp-entretenimiento-recintos-llevan-nombre-mexico",
-      "fecha": "19 Aug 2026, 18:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Cruz Azul nació como una fábrica de cal, casi desaparece y hoy la cooperativa vuelve a su antigua casa",
       "resumen": "La Cruz Azul anunció la reapertura de su planta en Hidalgo, donde comenzó la historia de esta empresa cementera.",
       "link": "https://expansion.mx/empresas/2026/08/19/cruz-azul-historia-cooperativa-nacio-hidalgo",
@@ -145,6 +127,24 @@
       "resumen": "Del otro lado, los contenedores movilizados en el litoral del Golfo de México, el volumen de contenedores movilizados disminuyó 7.8%",
       "link": "https://expansion.mx/empresas/2026/08/18/puertos-no-mienten-mexico-barreras-china-pacifico-mercancia",
       "fecha": "18 Aug 2026, 15:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Aeroméxico y Volaris abren nuevas rutas: las ciudades que ganan vuelos directos este año",
+      "resumen": "Ambas aerolíneas están aumentando los destinos de sus rutas con el objetivo de ofrecer a sus clientes más opciones. Estos son los puntos elegidos.",
+      "link": "https://expansion.mx/empresas/2026/08/18/volaris-aeromexico-nuevas-rutas-2026",
+      "fecha": "18 Aug 2026, 13:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "INFINITI apuesta al lujo que elige diferente con la nueva QX65",
+      "resumen": "La QX65 es el tercer movimiento de un plan de cinco años para llevar a INFINITI al Top 5 del lujo en México.",
+      "link": "https://expansion.mx/empresas/2026/08/18/infiniti-apuesta-al-lujo-que-elige-diferente-con-la-nueva-qx65",
+      "fecha": "18 Aug 2026, 08:49 hrs"
     },
     {
       "fuente": "Reforma",
