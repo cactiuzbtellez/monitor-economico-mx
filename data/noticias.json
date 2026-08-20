@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 06:47 hrs",
+  "actualizado": "20/08/2026 07:45 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
+      "resumen": "Los modelos de menos de 400,000 pesos ampliaron el mercado y aceleraron las ventas, pero ahora las marcas compiten por justificar el valor de sus vehículos.",
+      "link": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
+      "fecha": "20 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Industriales del plástico piden a Economía reducir la cuota al PVC estadounidense ante el avance asiático",
       "resumen": "México mantiene una cuota compensatoria aplicada a la resina de PVC proveniente de Estados Unidos. Los industriales piden reducirla a un nivel que permita recuperar condiciones de competencia para las…",
       "link": "https://expansion.mx/empresas/2026/08/19/industriales-del-plastico-piden-a-economia-reducir-la-cuota-al-pvc-estadounidense-ante-el-avance-asiatico",
@@ -138,15 +147,6 @@
       "fecha": "18 Aug 2026, 16:40 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ingreso de mercancías provenientes de China crece 8% y el Pacífico capitaliza el aumento",
-      "resumen": "Del otro lado, los contenedores movilizados en el litoral del Golfo de México, el volumen de contenedores movilizados disminuyó 7.8%",
-      "link": "https://expansion.mx/empresas/2026/08/18/puertos-no-mienten-mexico-barreras-china-pacifico-mercancia",
-      "fecha": "18 Aug 2026, 15:35 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,46 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aconsejan actualizar los datos bancarios",
-      "resumen": "Ante la implementación de las nuevas reglas antilavado, clientes de instituciones financieras deben actualizar su información personal.",
-      "link": "https://www.reforma.com/aconsejan-actualizar-los-datos-bancarios/ar3261027",
-      "fecha": "20 Aug 2026, 05:02 hrs"
+      "titulo": "Provoca EU caída de tasas",
+      "resumen": "Luego de que el rendimiento de la deuda del Tesoro llegara su nivel más alto, provocó ayer fuertes caídas en los rendimientos de los bonos.",
+      "link": "https://www.reforma.com/provoca-eu-caida-de-tasas/ar3261068",
+      "fecha": "20 Aug 2026, 07:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufre por insumos la industria química",
-      "resumen": "Reestructura financiera de Braskem Idesa dejó al descubierto el estancamiento que enfrenta desde hace siete años la industria química.",
-      "link": "https://www.reforma.com/sufre-por-insumos-la-industria-quimica/ar3261023",
-      "fecha": "20 Aug 2026, 05:02 hrs"
+      "titulo": "Ahuyenta a inversión incertidumbre política",
+      "resumen": "Incertidumbre política ahuyenta inversiones en México y EU, coincidieron desarrolladores inmobiliarios y líderes de centros de negocios.",
+      "link": "https://www.reforma.com/ahuyenta-a-inversion-incertidumbre-politica/ar3261026",
+      "fecha": "20 Aug 2026, 07:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afecta más a jóvenes sustitución por IA",
-      "resumen": "Los jóvenes son el grupo de población que puede sufrir en mayor medida las consecuencias del uso de la IA, advierte OIT.",
-      "link": "https://www.reforma.com/afecta-mas-a-jovenes-sustitucion-por-ia/ar3261014",
-      "fecha": "20 Aug 2026, 05:02 hrs"
+      "titulo": "Prevén cerrar en 2027 Junta de Conciliación",
+      "resumen": "Tras dejar de operar en 2022, la Secretaría del Trabajo de NL prevé que la Junta de Conciliación y Arbitraje cierre definitivamente en 2027.",
+      "link": "https://www.reforma.com/preven-cerrar-en-2027-junta-de-conciliacion/ar3261018",
+      "fecha": "20 Aug 2026, 07:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuando el trabajo quema",
-      "resumen": "El Gobierno Metropolitano de Tokio instó a los trabajadores varones a guardar los pantalones formales y presentarse en la oficina en shorts.",
-      "link": "https://www.reforma.com/cuando-el-trabajo-quema/ar3260271",
-      "fecha": "19 Aug 2026, 06:58 hrs"
+      "titulo": "Arranca Volvo exportación por Puente Colombia",
+      "resumen": "Volvo inició la exportación de sus primeras unidades fabricadas en Ciénega de Flores hacia EU y Canadá.",
+      "link": "https://www.reforma.com/arranca-volvo-exportacion-por-puente-colombia/ar3261168",
+      "fecha": "20 Aug 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Espera ABM que presupuesto de 2027 evite endeudamiento",
-      "resumen": "La ABM espera que el Presupuesto para 2027 logré evitar un mayor endeudamiento; así como solidificar el grado de inversión del País.",
-      "link": "https://www.reforma.com/espera-abm-que-presupuesto-de-2027-evite-endeudamiento/ar3260962",
-      "fecha": "19 Aug 2026, 20:00 hrs"
+      "titulo": "Alcanza barril de crudo Brent los 94 dólares",
+      "resumen": "Los futuros del crudo Brent ganaban 2.7%, a 94.06 dólares el barril, y los del West Texas Intermediate subían 1.84 dólares, a 87.67 dólares.",
+      "link": "https://www.reforma.com/alcanza-barril-de-crudo-brent-los-94-dolares/ar3261175",
+      "fecha": "20 Aug 2026, 07:25 hrs"
     }
   ]
 }
