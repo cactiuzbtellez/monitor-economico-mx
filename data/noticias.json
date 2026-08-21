@@ -1,15 +1,33 @@
 {
-  "actualizado": "21/08/2026 14:24 hrs",
+  "actualizado": "21/08/2026 15:23 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
+      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
+      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
+      "fecha": "21 Aug 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
+      "resumen": "El secretario de Economía asegura que los señalamientos sobre China reaparecen cada vez que México y EU entran en fases importantes de negociación.",
+      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
+      "fecha": "21 Aug 2026, 12:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
       "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/08/21/sat-gana-mas-dinero-contribuyentes-pese-a-menos-juicios",
-      "fecha": "21 Aug 2026, 05:55 hrs"
+      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
+      "fecha": "21 Aug 2026, 09:47 hrs"
     },
     {
       "fuente": "Expansión",
@@ -58,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
-      "resumen": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
-      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
-      "fecha": "19 Aug 2026, 05:55 hrs"
+      "titulo": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
+      "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
+      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
+      "fecha": "21 Aug 2026, 13:41 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
-      "resumen": "La Secretaría de Economía rechaza los criterios de Estados Unidos y alerta sobre el impacto para casi 5,000 productores.",
-      "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
-      "fecha": "18 Aug 2026, 22:30 hrs"
+      "titulo": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
+      "resumen": "Tras vender pocas unidades del EV6, Kia incorpora al EV3 cargador doméstico, gestión con CFE, infraestructura de carga y asistencia en carretera.",
+      "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
+      "fecha": "21 Aug 2026, 12:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Comprar un chip nuevo evita el registro telefónico? Hicimos el ejercicio con dos líneas",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/08/21/comprar-nuevo-chip-evita-registro-telefonico",
+      "fecha": "21 Aug 2026, 11:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
+      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
+      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
+      "fecha": "21 Aug 2026, 08:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio n…",
       "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
       "fecha": "20 Aug 2026, 16:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
-      "resumen": "El torneo dejó un impacto negativo de 813.1 millones de pesos a Ollamani, pero también permitió renovar el Estadio Banorte y abrir nuevas oportunidades de negocio.",
-      "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
-      "fecha": "20 Aug 2026, 15:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
-      "resumen": "La tendencia de los modelos electrificados llegó a un segmento relacionado estrictamente con la potencia y la fuerza de trabajo: las pick-ups.",
-      "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
-      "fecha": "20 Aug 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
-      "resumen": "La plataforma aseguró que el país es uno de los mercados clave para la producción de series y películas, así como para su propuesta deportiva.",
-      "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
-      "fecha": "20 Aug 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "resumen": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "fecha": "20 Aug 2026, 13:07 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ve BofA caída de dólar si Bessent no logra contener a bonos",
-      "resumen": "Un fracaso del plan del Tesoro de Estados Unidos para contener los rendimientos de los bonos a largo plazo presionaría al dólar, según BofA.",
-      "link": "https://www.reforma.com/ve-bofa-caida-de-dolar-si-bessent-no-logra-contener-a-bonos/ar3261919",
-      "fecha": "21 Aug 2026, 08:21 hrs"
+      "titulo": "Suben mercados de EU, pero registran pérdidas en la semana",
+      "resumen": "Este viernes, el Dow Jones ganó un 0.99%, el índice Nasdaq avanzó un 0.43% y el índice amplio S&amp;P 500 también subió, un 0.43%.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-pero-registran-perdidas-en-la-semana/ar3262108",
+      "fecha": "21 Aug 2026, 14:31 hrs"
     }
   ]
 }
