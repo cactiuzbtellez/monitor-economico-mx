@@ -1,7 +1,25 @@
 {
-  "actualizado": "21/08/2026 12:35 hrs",
+  "actualizado": "21/08/2026 13:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
+      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
+      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
+      "fecha": "21 Aug 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
+      "resumen": "El secretario de Economía asegura que los señalamientos sobre China reaparecen cada vez que México y EU entran en fases importantes de negociación.",
+      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
+      "fecha": "21 Aug 2026, 12:57 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El sector agropecuario teme que los criterios de estacionalidad y regionalidad abran la puerta a nuevas investigaciones comerciales para otros productos del campo.",
       "link": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
       "fecha": "19 Aug 2026, 11:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
-      "resumen": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
-      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
-      "fecha": "19 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
-      "resumen": "La Secretaría de Economía rechaza los criterios de Estados Unidos y alerta sobre el impacto para casi 5,000 productores.",
-      "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
-      "fecha": "18 Aug 2026, 22:30 hrs"
     },
     {
       "fuente": "Expansión",
