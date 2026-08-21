@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 19:15 hrs",
+  "actualizado": "20/08/2026 21:01 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
+      "resumen": "Durante la primera fecha de corte del registro, los usuarios enfrentaron dificultades para vincular sus números debido a que las plataformas de los operadores reportaron congestionamiento y errores.",
+      "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
+      "fecha": "20 Aug 2026, 17:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
       "resumen": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio n…",
       "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
@@ -136,15 +145,6 @@
       "resumen": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
       "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
       "fecha": "20 Aug 2026, 08:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
-      "resumen": "Los modelos de menos de 400,000 pesos ampliaron el mercado y aceleraron las ventas, pero ahora las marcas compiten por justificar el valor de sus vehículos.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
-      "fecha": "20 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
