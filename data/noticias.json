@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/08/2026 08:33 hrs",
+  "actualizado": "21/08/2026 09:32 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+      "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
+      "link": "https://expansion.mx/economia/2026/08/21/sat-gana-mas-dinero-contribuyentes-pese-a-menos-juicios",
+      "fecha": "21 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Trump da tres días a Canadá ante aranceles de 50% y revive un oleoducto",
-      "resumen": "La prórroga evita una escalada inmediata entre los socios del T-MEC, aunque la amenaza arancelaria continuará vigente si fracasan las conversaciones.",
-      "link": "https://expansion.mx/economia/2026/08/18/trump-aplaza-aranceles-canada-oleoducto-keystone-xl",
-      "fecha": "18 Aug 2026, 22:02 hrs"
+      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
+      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
+      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
+      "fecha": "21 Aug 2026, 08:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
+      "resumen": "Aunque la fusión fue aprobada para el mercado mexicano, especialistas advierten que la CNA deberá monitorear los precios de las suscripciones y el acceso de plataformas rivales a los contenidos de Par…",
+      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
+      "fecha": "21 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "La plataforma aseguró que el país es uno de los mercados clave para la producción de series y películas, así como para su propuesta deportiva.",
       "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
       "fecha": "20 Aug 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
-      "resumen": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
-      "fecha": "20 Aug 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan reduce a 30 meses el desarrollo de autos y apuesta por híbridos; eléctricos los hará con socios",
-      "resumen": "Iván Espinosa, CEO de Nissan, detalló que la compañía recortó el tiempo de desarrollo de vehículos en 40% y recurrirá a socios para algunas tecnologías, mientras concentra esfuerzos en híbridos y e-Po…",
-      "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
-      "fecha": "20 Aug 2026, 12:33 hrs"
     },
     {
       "fuente": "Reforma",
