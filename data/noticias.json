@@ -1,33 +1,15 @@
 {
-  "actualizado": "21/08/2026 13:24 hrs",
+  "actualizado": "21/08/2026 14:24 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
-      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
-      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
-      "fecha": "21 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
-      "resumen": "El secretario de Economía asegura que los señalamientos sobre China reaparecen cada vez que México y EU entran en fases importantes de negociación.",
-      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
-      "fecha": "21 Aug 2026, 12:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
       "titulo": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
       "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
-      "fecha": "21 Aug 2026, 09:47 hrs"
+      "link": "https://expansion.mx/economia/2026/08/21/sat-gana-mas-dinero-contribuyentes-pese-a-menos-juicios",
+      "fecha": "21 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -76,12 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
-      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
-      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
-      "fecha": "21 Aug 2026, 08:16 hrs"
+      "titulo": "BanBajío busca duplicar su negocio empresarial en CDMX para 2030",
+      "resumen": "Iván Lomelí busca acelerar el crecimiento del banco con más clientes, procesos de crédito ágiles y una expansión ofensiva hacia las principales zonas metropolitanas del país.",
+      "link": "https://expansion.mx/economia/2026/08/19/banbajio-quiere-colocar-mitad-negocio-cdmx",
+      "fecha": "19 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU da golpe preliminar a la fresa mexicana con tasa antidumping de hasta 5.28%",
+      "resumen": "La Secretaría de Economía rechaza los criterios de Estados Unidos y alerta sobre el impacto para casi 5,000 productores.",
+      "link": "https://expansion.mx/economia/2026/08/18/eu-da-golpe-preliminar-fresa-mexicana-cuota-antidumping",
+      "fecha": "18 Aug 2026, 22:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,13 +138,22 @@
       "fecha": "20 Aug 2026, 15:09 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia Van, el modelo que falta para completar la nueva familia de autos eléctricos mexicanos",
+      "resumen": "El Gobierno federal apuesta porque el vehículo se venda en todo el país y a nivel internacional. El de carga busca apoyar a los usuarios de transporte de mercancía en distancias cortas.",
+      "link": "https://expansion.mx/empresas/2026/08/20/autos-olinia-van-carga-modelos-carro-electrico-mexicano",
+      "fecha": "20 Aug 2026, 13:07 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan empresas de 'apretón fiscal'",
-      "resumen": "Empresas avizoran 'apretón fiscal' para 2027; analistas estiman que presión por alta fiscalización podría volverse 'terrorismo fiscal'.",
-      "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
-      "fecha": "21 Aug 2026, 05:01 hrs"
+      "titulo": "'Transborda'  México 1% de exportaciones.- Ebrard",
+      "resumen": "La SE dijo que las operaciones de transbordo de mercancías chinas a través del País alcanzaría el 1 % de las exportaciones mexicanas.",
+      "link": "https://www.reforma.com/transborda-mexico-1-de-exportaciones-ebrard/ar3262094",
+      "fecha": "21 Aug 2026, 14:10 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Renuevan Gobierno e IP pacto para regular precio de gasolina",
-      "resumen": "Gobierno federal y gasolineros acordaron renovar por seis meses más el pacto para regular precios de la gasolina magna y diesel.",
-      "link": "https://www.reforma.com/renuevan-gobierno-e-ip-pacto-para-regular-precio-de-gasolina/ar3261817",
-      "fecha": "20 Aug 2026, 22:43 hrs"
+      "titulo": "Alertan empresas de 'apretón fiscal'",
+      "resumen": "Empresas avizoran 'apretón fiscal' para 2027; analistas estiman que presión por alta fiscalización podría volverse 'terrorismo fiscal'.",
+      "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
+      "fecha": "21 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsan los servicios economía del Centro",
-      "resumen": "En la región Centro del País, la actividad económica se concentra principalmente en el sector servicios salvo excepciones como CDMX.",
-      "link": "https://www.reforma.com/impulsan-los-servicios-economia-del-centro/ar3261669",
-      "fecha": "21 Aug 2026, 05:02 hrs"
+      "titulo": "Cierra Brent semana con alza de más de 6% y el WTI sube 5%",
+      "resumen": "Este viernes, el Brent avanzó un 0.65%, a 94.39 dólares el barril, y el West Texas Intermediate subió un 0.26%, a 87.06 dólares.",
+      "link": "https://www.reforma.com/cierra-brent-semana-con-alza-de-mas-de-6-y-el-wti-sube-5/ar3262101",
+      "fecha": "21 Aug 2026, 14:22 hrs"
     },
     {
       "fuente": "Reforma",
