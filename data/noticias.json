@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 17:24 hrs",
+  "actualizado": "20/08/2026 19:15 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
+      "resumen": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio n…",
+      "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
+      "fecha": "20 Aug 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
+      "resumen": "El torneo dejó un impacto negativo de 813.1 millones de pesos a Ollamani, pero también permitió renovar el Estadio Banorte y abrir nuevas oportunidades de negocio.",
+      "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
+      "fecha": "20 Aug 2026, 15:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
       "resumen": "La tendencia de los modelos electrificados llegó a un segmento relacionado estrictamente con la potencia y la fuerza de trabajo: las pick-ups.",
       "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
@@ -129,67 +147,58 @@
       "fecha": "20 Aug 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Industriales del plástico piden a Economía reducir la cuota al PVC estadounidense ante el avance asiático",
-      "resumen": "México mantiene una cuota compensatoria aplicada a la resina de PVC proveniente de Estados Unidos. Los industriales piden reducirla a un nivel que permita recuperar condiciones de competencia para las…",
-      "link": "https://expansion.mx/empresas/2026/08/19/industriales-del-plastico-piden-a-economia-reducir-la-cuota-al-pvc-estadounidense-ante-el-avance-asiatico",
-      "fecha": "19 Aug 2026, 18:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los Baillères convierten la marca GNP en sinónimo de entretenimiento: los recintos que llevan su nombre en el país",
-      "resumen": "GNP Seguros se ha convertido en sinónimo de entretenimiento, pues da nombra a recintos y eventos en todo el país.",
-      "link": "https://expansion.mx/empresas/2026/08/19/bailleres-gnp-entretenimiento-recintos-llevan-nombre-mexico",
-      "fecha": "19 Aug 2026, 18:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se acerca deuda de Pemex a nivel histórico.- AMESPAC",
+      "resumen": "Deuda de Pemex con proveedores asciende a 21 mil millones de dólares; 85% del monto histórico implementado con Banobras, aseguró AMESPAC.",
+      "link": "https://www.reforma.com/se-acerca-deuda-de-pemex-a-nivel-historico-amespac/ar3261656",
+      "fecha": "20 Aug 2026, 18:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hilará crecimiento 3 años debajo del promedio histórico",
-      "resumen": "En 2026 México hilará tres años creciendo debajo de su promedio histórico, dijo uno de los integrantes de la Junta de Gobierno del Banxico.",
-      "link": "https://www.reforma.com/hilara-crecimiento-3-anos-debajo-del-promedio-historico/ar3261277",
-      "fecha": "20 Aug 2026, 10:49 hrs"
+      "titulo": "Anticipan un T-MEC restrictivo, pero saldo a favor de México",
+      "resumen": "Aunque se espera una versión más restrictiva del T-MEC, México seguiría teniendo ventajas, dijo Franklin Templeton.",
+      "link": "https://www.reforma.com/anticipan-un-t-mec-restrictivo-pero-saldo-a-favor-de-mexico/ar3261582",
+      "fecha": "20 Aug 2026, 18:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ganan Delta y Aeroméxico batalla para mantener  su alianza",
-      "resumen": "Tribunal de apelación de EU anuló orden del gobierno de Trump, que pretendía obligar a Delta y Aeroméxico a disolver una empresa conjunta.",
-      "link": "https://www.reforma.com/ganan-delta-y-aeromexico-batalla-para-mantener-su-alianza/ar3261456",
-      "fecha": "20 Aug 2026, 14:27 hrs"
+      "titulo": "Prevé CRT 'desconectar' 2.5 millones de líneas terminación 0",
+      "resumen": "La CRT prevé que durante los próximos días sean depuradas 2.5 millones de líneas terminación 0 al encontrarse en desuso.",
+      "link": "https://www.reforma.com/preve-crt-desconectar-2-5-millones-de-lineas-terminacion-0/ar3261575",
+      "fecha": "20 Aug 2026, 17:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recorta Cepal a 1.3% pronóstico de PIB para 2026 en México",
-      "resumen": "La Cepal recortó de 1.5 a 1.3 por ciento su pronóstico de crecimiento económico para México en 2026.",
-      "link": "https://www.reforma.com/recorta-cepal-a-1-3-pronostico-de-pib-para-2026-en-mexico/ar3261376",
-      "fecha": "20 Aug 2026, 14:08 hrs"
+      "titulo": "Pone FDA en alerta de máximo riesgo arándanos chilenos",
+      "resumen": "La FDA elevó a Clase I su categoría de mayor riesgo sanitario el retiro de arándanos y mezclas de frutos rojos congelados de Chile.",
+      "link": "https://www.reforma.com/pone-fda-en-alerta-de-maximo-riesgo-arandanos-chilenos/ar3261569",
+      "fecha": "20 Aug 2026, 18:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanza barrenador a Sonora",
+      "titulo": "Alcanza gusano barrenador a Sonora",
       "resumen": "Tras reapertura de exportaciones de ganado bovino a EU, Senasica informó la aparición de gusano barrenador de ganado en Sonora.",
-      "link": "https://www.reforma.com/alcanza-barrenador-a-sonora/ar3261512",
+      "link": "https://www.reforma.com/alcanza-gusano-barrenador-a-sonora/ar3261512",
       "fecha": "20 Aug 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo más de 2% ante amenaza de Trump a socios de Irán",
-      "resumen": "El precio del barril de Brent aumentó 2.36% hasta los 93.78 dólares, mientras que el WTI ganó 2.33% para cerrar en 87.83 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-mas-de-2-ante-amenaza-de-trump-a-socios-de-iran/ar3261448",
-      "fecha": "20 Aug 2026, 14:17 hrs"
+      "titulo": "Buscan expandir modelo de seguridad para carga a aeropuertos",
+      "resumen": "La ANERPV informó que buscará replicar su modelo de seguridad para evitar el hurto de mercancías a más aeropuertos tras éxito en el AIFA.",
+      "link": "https://www.reforma.com/buscan-expandir-modelo-de-seguridad-para-carga-a-aeropuertos/ar3261493",
+      "fecha": "20 Aug 2026, 15:54 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerdo Canadá-EU pone bajo presión a negociadores mexicanos",
-      "resumen": "Acuerdo comercial preliminar de Canadá con EU tomó por sorpresa a funcionarios y líderes empresariales mexicanos. Ahora, quieren uno propio.",
-      "link": "https://www.reforma.com/acuerdo-canada-eu-pone-bajo-presion-a-negociadores-mexicanos/ar3261247",
-      "fecha": "20 Aug 2026, 10:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra actividad económica avance de 2.7% en julio",
-      "resumen": "El Indicador Oportuno de la Actividad Económica del País aumentó 2.7% en julio de 2026, logrando su mayo alza desde marzo de 2024.",
-      "link": "https://www.reforma.com/registra-actividad-economica-avance-de-2-7-en-julio/ar3261282",
-      "fecha": "20 Aug 2026, 10:56 hrs"
+      "titulo": "Ganan Delta y Aeroméxico batalla para mantener su alianza",
+      "resumen": "Tribunal de apelación de EU anuló orden del Gobierno de Trump que pretendía obligar a Delta y Aeroméxico a disolver una empresa conjunta.",
+      "link": "https://www.reforma.com/ganan-delta-y-aeromexico-batalla-para-mantener-su-alianza/ar3261456",
+      "fecha": "20 Aug 2026, 14:27 hrs"
     }
   ]
 }
