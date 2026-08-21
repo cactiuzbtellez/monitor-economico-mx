@@ -1,7 +1,16 @@
 {
-  "actualizado": "20/08/2026 23:31 hrs",
+  "actualizado": "21/08/2026 00:44 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+      "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
+      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+      "fecha": "20 Aug 2026, 20:01 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU endurece regla de inglés y pone en riesgo a 9,000 camioneros al año",
-      "resumen": "La medida puede generar hasta 14.4 millones de dólares anuales en costos para transportistas y sumar retrasos a una ruta que mueve 73.6% del comercio bilateral.",
-      "link": "https://expansion.mx/economia/2026/08/18/comercio-mexico-eu-nuevo-riesgo-camioneros-no-hablen-ingles",
-      "fecha": "18 Aug 2026, 15:55 hrs"
+      "titulo": "No solo es el rey del cobre, Germán Larrea también tiene dos de los trenes turísticos más populares",
+      "resumen": "El cobre es uno de los pilares de la fortuna de Germán Larrea, pero el empresario también tiene presencia en un negocio mucho más cercano al turismo: los trenes de pasajeros.",
+      "link": "https://expansion.mx/empresas/2026/08/20/german-larrea-tiene-dos-trenes-turisticos-populares",
+      "fecha": "20 Aug 2026, 19:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
+      "resumen": "Durante la primera fecha de corte del registro, los usuarios enfrentaron dificultades para vincular sus números debido a que las plataformas de los operadores reportaron congestionamiento y errores.",
+      "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
+      "fecha": "20 Aug 2026, 17:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
+      "resumen": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio n…",
+      "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
+      "fecha": "20 Aug 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "“La parte económica no fue la que esperábamos”: Azcárraga reconoce pérdidas millonarias por el Mundial 2026",
+      "resumen": "El torneo dejó un impacto negativo de 813.1 millones de pesos a Ollamani, pero también permitió renovar el Estadio Banorte y abrir nuevas oportunidades de negocio.",
+      "link": "https://expansion.mx/empresas/2026/08/20/azcarraga-reconoce-perdidas-millonarias-por-mundial-2026",
+      "fecha": "20 Aug 2026, 15:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Adiós a la gasolina: esta es la nueva oferta de pick-ups electrificadas en México",
+      "resumen": "La tendencia de los modelos electrificados llegó a un segmento relacionado estrictamente con la potencia y la fuerza de trabajo: las pick-ups.",
+      "link": "https://expansion.mx/empresas/2026/08/20/adios-gasolina-nueva-oferta-pick-ups-electrificadas-mexico",
+      "fecha": "20 Aug 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Prime Video invertirá más de 2,000 mdd para producciones originales en Latinoamérica; México será clave",
+      "resumen": "La plataforma aseguró que el país es uno de los mercados clave para la producción de series y películas, así como para su propuesta deportiva.",
+      "link": "https://expansion.mx/empresas/2026/08/20/prime-video-invertira-mas-2000-mdd-producciones-originales",
+      "fecha": "20 Aug 2026, 15:09 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,60 +145,6 @@
       "resumen": "Iván Espinosa, CEO de Nissan, detalló que la compañía recortó el tiempo de desarrollo de vehículos en 40% y recurrirá a socios para algunas tecnologías, mientras concentra esfuerzos en híbridos y e-Po…",
       "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
       "fecha": "20 Aug 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
-      "resumen": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
-      "fecha": "20 Aug 2026, 08:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hubo un momento en que los autos eléctricos costaban más que un auto de lujo, hasta que los chinos cambiaron eso",
-      "resumen": "Los modelos de menos de 400,000 pesos ampliaron el mercado y aceleraron las ventas, pero ahora las marcas compiten por justificar el valor de sus vehículos.",
-      "link": "https://expansion.mx/empresas/2026/08/20/autos-electricos-eran-lujo-hasta-que-llegaron-marcas-chinas",
-      "fecha": "20 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Industriales del plástico piden a Economía reducir la cuota al PVC estadounidense ante el avance asiático",
-      "resumen": "México mantiene una cuota compensatoria aplicada a la resina de PVC proveniente de Estados Unidos. Los industriales piden reducirla a un nivel que permita recuperar condiciones de competencia para las…",
-      "link": "https://expansion.mx/empresas/2026/08/19/industriales-del-plastico-piden-a-economia-reducir-la-cuota-al-pvc-estadounidense-ante-el-avance-asiatico",
-      "fecha": "19 Aug 2026, 18:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los Baillères convierten la marca GNP en sinónimo de entretenimiento: los recintos que llevan su nombre en el país",
-      "resumen": "GNP Seguros se ha convertido en sinónimo de entretenimiento, pues da nombra a recintos y eventos en todo el país.",
-      "link": "https://expansion.mx/empresas/2026/08/19/bailleres-gnp-entretenimiento-recintos-llevan-nombre-mexico",
-      "fecha": "19 Aug 2026, 18:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cruz Azul nació como una fábrica de cal, casi desaparece y hoy la cooperativa vuelve a su antigua casa",
-      "resumen": "La Cruz Azul anunció la reapertura de su planta en Hidalgo, donde comenzó la historia de esta empresa cementera.",
-      "link": "https://expansion.mx/empresas/2026/08/19/cruz-azul-historia-cooperativa-nacio-hidalgo",
-      "fecha": "19 Aug 2026, 16:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Palacio de Hierro tiene 488 millones en puntos sin canjear; ¿por qué no es algo negativo para la empresa?",
-      "resumen": "El monto aparece como un pasivo en los estados financieros, pero el programa también busca mantener a los clientes dentro de la cadena e incentivar nuevas compras.",
-      "link": "https://expansion.mx/empresas/2026/08/19/palacio-de-hierro-puntos-sin-canjear-488-millones",
-      "fecha": "19 Aug 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
