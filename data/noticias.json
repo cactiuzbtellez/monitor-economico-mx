@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/08/2026 21:01 hrs",
+  "actualizado": "20/08/2026 22:36 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "No solo es el rey del cobre, Germán Larrea también tiene dos de los trenes turísticos más populares",
+      "resumen": "El cobre es uno de los pilares de la fortuna de Germán Larrea, pero el empresario también tiene presencia en un negocio mucho más cercano al turismo: los trenes de pasajeros.",
+      "link": "https://expansion.mx/empresas/2026/08/20/german-larrea-tiene-dos-trenes-turisticos-populares",
+      "fecha": "20 Aug 2026, 19:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Registro telefónico deja 4.4 millones de líneas desconectadas en su primer corte",
       "resumen": "Durante la primera fecha de corte del registro, los usuarios enfrentaron dificultades para vincular sus números debido a que las plataformas de los operadores reportaron congestionamiento y errores.",
       "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
@@ -136,15 +145,6 @@
       "resumen": "Iván Espinosa, CEO de Nissan, detalló que la compañía recortó el tiempo de desarrollo de vehículos en 40% y recurrirá a socios para algunas tecnologías, mientras concentra esfuerzos en híbridos y e-Po…",
       "link": "https://expansion.mx/empresas/2026/08/20/nissan-se-hace-pequena-para-sobrevivir-ceo-revela-plan",
       "fecha": "20 Aug 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sheinbaum presenta el nuevo Olinia de carga: ¿cuánto costará, cuándo llegará al mercado y qué tendrá?",
-      "resumen": "Roberto Capuano informó sobre las fechas de la convocatoria para que las empresas interesadas en participar en la producción de los diferentes modelos eléctricos presenten sus propuestas.",
-      "link": "https://expansion.mx/empresas/2026/08/20/sheinbaum-olinia-carga-costo-llegara-mercado-que-tendra",
-      "fecha": "20 Aug 2026, 08:13 hrs"
     },
     {
       "fuente": "Reforma",
