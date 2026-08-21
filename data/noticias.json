@@ -1,5 +1,5 @@
 {
-  "actualizado": "21/08/2026 06:44 hrs",
+  "actualizado": "21/08/2026 07:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,9 +150,27 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla Pemex en su plan ambiental y operativo",
+      "titulo": "Alertan empresas de 'apretón fiscal'",
+      "resumen": "Empresas avizoran 'apretón fiscal' para 2027; analistas estiman que presión por alta fiscalización podría volverse 'terrorismo fiscal'.",
+      "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
+      "fecha": "21 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se acerca Pemex a adeudo histórico",
+      "resumen": "Deuda de Pemex con proveedores asciende a unos 21 mmdd, un 85% del monto histórico que llevó a implementar programa de pago con Banobras.",
+      "link": "https://www.reforma.com/se-acerca-pemex-a-adeudo-historico/ar3261831",
+      "fecha": "21 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falla en su plan ambiental y operativo",
       "resumen": "Pemexse ha quedado muy por debajo de las metas planteadas en materia operativa y ambiental, expuso su Consejo de Administración.",
-      "link": "https://www.reforma.com/falla-pemex-en-su-plan-ambiental-y-operativo/ar3261688",
+      "link": "https://www.reforma.com/falla-en-su-plan-ambiental-y-operativo/ar3261688",
       "fecha": "21 Aug 2026, 05:02 hrs"
     },
     {
@@ -168,27 +186,27 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Renuevan Gobierno e IP pacto para regular precio de gasolina",
+      "resumen": "Gobierno federal y gasolineros acordaron renovar por seis meses más el pacto para regular precios de la gasolina magna y diesel.",
+      "link": "https://www.reforma.com/renuevan-gobierno-e-ip-pacto-para-regular-precio-de-gasolina/ar3261817",
+      "fecha": "20 Aug 2026, 22:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Procesará NL reses no exportadas a EU",
+      "resumen": "Abastecedora de Carnes San Gabriel alista una nueva planta de procesamiento de bovinos en Escobedo.",
+      "link": "https://www.reforma.com/procesara-nl-reses-no-exportadas-a-eu/ar3261812",
+      "fecha": "21 Aug 2026, 07:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Impulsan los servicios economía del Centro",
       "resumen": "En la región Centro del País, la actividad económica se concentra principalmente en el sector servicios salvo excepciones como CDMX.",
       "link": "https://www.reforma.com/impulsan-los-servicios-economia-del-centro/ar3261669",
-      "fecha": "21 Aug 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ahuyenta a talento un mal liderazgo",
-      "resumen": "Un mal liderazgo es un factor que puede determinar la permanencia del talento dentro de las empresas.",
-      "link": "https://www.reforma.com/ahuyenta-a-talento-un-mal-liderazgo/ar3261776",
-      "fecha": "21 Aug 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan aumento la exigencia del talento ejecutivo por la IA",
-      "resumen": "Reclutar ejecutivos para las organizaciones es cada vez más complejo ya que también deben contar con competencias digitales, aseguró LHH.",
-      "link": "https://www.reforma.com/alertan-aumento-la-exigencia-del-talento-ejecutivo-por-la-ia/ar3261674",
       "fecha": "21 Aug 2026, 05:02 hrs"
     },
     {
@@ -199,24 +217,6 @@
       "resumen": "En la región Sur del País, el comercio minorista tiene un peso predominante en la actividad económica  de Chiapas, Guerrero y Yucatán.",
       "link": "https://www.reforma.com/y-al-sur-pesa-mas-el-comercio-minorista/ar3261666",
       "fecha": "21 Aug 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Avanza la recuperación de oficinas en la CDMX",
-      "resumen": "La absorción de espacio nuevo en oficinas Clase A en la CDMX en el segundo trimestre de 2026 avanzó 9.0 por ciento anual.",
-      "link": "https://www.reforma.com/avanza-la-recuperacion-de-oficinas-en-la-cdmx/ar3261620",
-      "fecha": "21 Aug 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevé CRT 'desconectar' 2.5 millones de líneas terminación 0",
-      "resumen": "La CRT prevé que durante los próximos días sean depuradas 2.5 millones de líneas terminación 0 al encontrarse en desuso.",
-      "link": "https://www.reforma.com/preve-crt-desconectar-2-5-millones-de-lineas-terminacion-0/ar3261575",
-      "fecha": "20 Aug 2026, 17:32 hrs"
     }
   ]
 }
