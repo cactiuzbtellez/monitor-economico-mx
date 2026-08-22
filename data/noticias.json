@@ -1,7 +1,16 @@
 {
-  "actualizado": "22/08/2026 09:19 hrs",
+  "actualizado": "22/08/2026 10:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
+      "resumen": "Después de tres días de conversaciones, Washington y Ottawa se culparon mutuamente por el fracaso del acuerdo. Canadá suspendió las negociaciones, llamó de regreso a su equipo y anunció represalias “d…",
+      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
+      "fecha": "22 Aug 2026, 08:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La inflación llegará hacia su meta de 3% hasta el cuarto trimestre de 2027, la persistencia del conflicto en Medio Oriente es un factor que agrega presión al precio del petróleo.",
       "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
       "fecha": "20 Aug 2026, 12:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La riqueza que heredará la Generación Z en México puede ampliar la desigualdad",
-      "resumen": "Una fracción de los jóvenes recibirá empresas, inmuebles y portafolios, mientras otros tendrán que construir patrimonio principalmente con su salario.",
-      "link": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
-      "fecha": "20 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
