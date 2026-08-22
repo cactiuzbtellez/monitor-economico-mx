@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/08/2026 04:22 hrs",
+  "actualizado": "22/08/2026 05:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Cómo registrar mi número celular",
+      "resumen": "Existen dos maneras de realizar la vinculación con los operadores, la digital -desde cualquier dispositivo con cámara- y la presencial.",
+      "link": "https://www.reforma.com/como-registrar-mi-numero-celular/ar3262117",
+      "fecha": "22 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Mueve Trump hilos y dispara al bitcoin",
+      "resumen": "Con un alza en su precio de 19.2% en los últimos tres días, el bitcoin ganó 22.4% en la semana, la mejor en poco más de dos años.",
+      "link": "https://www.reforma.com/mueve-trump-hilos-y-dispara-al-bitcoin/ar3262135",
+      "fecha": "22 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Y ahora, rentan pilas para los apagones",
+      "resumen": "Propietarios de viviendas en Texas pueden alquilar sistemas Tesla Powerwall con una capacidad de 27 kilovatios-hora por 35 dólares al mes.",
+      "link": "https://www.reforma.com/y-ahora-rentan-pilas-para-los-apagones/ar3262127",
+      "fecha": "22 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Le compiten chinos a cohete de SpaceX",
+      "resumen": "La startup LandSpace se convirtió en la semana en la primera empresa china en lograr que aterrizara para su reuso un cohete, el Zhuque-3.",
+      "link": "https://www.reforma.com/le-compiten-chinos-a-cohete-de-spacex/ar3262120",
+      "fecha": "22 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "'Transborda'  México 1% de exportaciones.- Ebrard",
       "resumen": "La SE dijo que las operaciones de transbordo de mercancías chinas a través del País alcanzaría el 1 % de las exportaciones mexicanas.",
       "link": "https://www.reforma.com/transborda-mexico-1-de-exportaciones-ebrard/ar3262094",
@@ -181,42 +217,6 @@
       "resumen": "Empresas avizoran 'apretón fiscal' para 2027; analistas estiman que presión por alta fiscalización podría volverse 'terrorismo fiscal'.",
       "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
       "fecha": "21 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen ventas al menudeo segundo revés mensual",
-      "resumen": "Las empresas comerciales al menudeo disminuyeron sus ingresos por suministro de bienes y servicios 0.23% en junio de 2026.",
-      "link": "https://www.reforma.com/tienen-ventas-al-menudeo-segundo-reves-mensual/ar3262007",
-      "fecha": "21 Aug 2026, 11:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Permitirá Trump importación de carne para moler sin arancel",
-      "resumen": "El Presidente Trump anunció que EU permitirá importación libre de aranceles de hasta 300 mil toneladas de carne para moler durante 90 días.",
-      "link": "https://www.reforma.com/permitira-trump-importacion-de-carne-para-moler-sin-arancel/ar3261949",
-      "fecha": "21 Aug 2026, 09:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra Brent semana con alza de más de 6% y el WTI sube 5%",
-      "resumen": "Este viernes, el Brent avanzó un 0.65%, a 94.39 dólares el barril, y el West Texas Intermediate subió un 0.26%, a 87.06 dólares.",
-      "link": "https://www.reforma.com/cierra-brent-semana-con-alza-de-mas-de-6-y-el-wti-sube-5/ar3262101",
-      "fecha": "21 Aug 2026, 14:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben mercados de EU, pero registran pérdidas en la semana",
-      "resumen": "Este viernes, el Dow Jones ganó un 0.99%, el índice Nasdaq avanzó un 0.43% y el índice amplio S&amp;P 500 también subió, un 0.43%.",
-      "link": "https://www.reforma.com/suben-mercados-de-eu-pero-registran-perdidas-en-la-semana/ar3262108",
-      "fecha": "21 Aug 2026, 14:31 hrs"
     }
   ]
 }
