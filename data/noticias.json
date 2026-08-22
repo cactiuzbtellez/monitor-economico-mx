@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/08/2026 17:22 hrs",
+  "actualizado": "21/08/2026 19:10 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México busca convertir la innovación en patentes y riqueza",
+      "resumen": "El secretario de Economía, Marcelo Ebrard, llamó a fondos de inversión, empresas, universidades y gobiernos a financiar la innovación nacional para que México genere tecnología propia.",
+      "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
+      "fecha": "21 Aug 2026, 16:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Los trabajadores independientes en México buscan estar al día con el pago de impuestos, pero no cuentan con herramientas, ni conocimiento para lograrlo, explicó Stiven Rodríguez, CEO de Heru.",
       "link": "https://expansion.mx/economia/2026/08/19/tecnologia-eleva-cumplimiento-obligaciones-sat",
       "fecha": "19 Aug 2026, 17:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La cuota antidumping a la fresa mexicana puede ser solo el principio, advierte el CNA",
-      "resumen": "El sector agropecuario teme que los criterios de estacionalidad y regionalidad abran la puerta a nuevas investigaciones comerciales para otros productos del campo.",
-      "link": "https://expansion.mx/economia/2026/08/19/cuota-antidumping-fresa-mexicana-riesgo-campo-cna",
-      "fecha": "19 Aug 2026, 11:21 hrs"
     },
     {
       "fuente": "Expansión",
