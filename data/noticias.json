@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/08/2026 22:31 hrs",
+  "actualizado": "21/08/2026 23:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
+      "resumen": "Para la semana del 22 al 28 de agosto, cada litro de diésel tendrá una cuota por el Impuesto Especial sobre Producción y Servicios (IEPS) de 1.28 pesos, la más baja reportada en lo que va del año.",
+      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
+      "fecha": "21 Aug 2026, 18:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Una fracción de los jóvenes recibirá empresas, inmuebles y portafolios, mientras otros tendrán que construir patrimonio principalmente con su salario.",
       "link": "https://expansion.mx/economia/2026/08/20/gen-z-herencia-mexico-3-por-ciento",
       "fecha": "20 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Herramientas tecnológicas impulsan hasta 97% el cumplimiento con el SAT",
-      "resumen": "Los trabajadores independientes en México buscan estar al día con el pago de impuestos, pero no cuentan con herramientas, ni conocimiento para lograrlo, explicó Stiven Rodríguez, CEO de Heru.",
-      "link": "https://expansion.mx/economia/2026/08/19/tecnologia-eleva-cumplimiento-obligaciones-sat",
-      "fecha": "19 Aug 2026, 17:07 hrs"
     },
     {
       "fuente": "Expansión",
