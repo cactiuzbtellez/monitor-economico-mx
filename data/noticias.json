@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/08/2026 14:21 hrs",
+  "actualizado": "23/08/2026 15:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
+      "resumen": "Viajar por carretera puede representar un ahorro frente al avión, aunque los tiempos de traslado son considerablemente mayores y algunos recorridos requieren conexiones.",
+      "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
+      "fecha": "23 Aug 2026, 14:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "25 millones de líneas podrían desaparecer del registro: la CRT explica cuáles serán depuradas",
       "resumen": "Las líneas suspendidas pueden recuperar el servicio una vez que sus usuarios completen la vinculación, pero otras serán eliminadas.",
       "link": "https://expansion.mx/empresas/2026/08/23/las-lineas-que-podrian-desaparecer-del-registro-la-crt",
@@ -136,15 +145,6 @@
       "resumen": "Aunque la fusión fue aprobada para el mercado mexicano, especialistas advierten que la CNA deberá monitorear los precios de las suscripciones y el acceso de plataformas rivales a los contenidos de Par…",
       "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
       "fecha": "21 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "No solo es el rey del cobre, Germán Larrea también tiene dos de los trenes turísticos más populares",
-      "resumen": "El cobre es uno de los pilares de la fortuna de Germán Larrea, pero el empresario también tiene presencia en un negocio mucho más cercano al turismo: los trenes de pasajeros.",
-      "link": "https://expansion.mx/empresas/2026/08/20/german-larrea-tiene-dos-trenes-turisticos-populares",
-      "fecha": "20 Aug 2026, 19:48 hrs"
     },
     {
       "fuente": "Reforma",
