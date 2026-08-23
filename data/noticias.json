@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/08/2026 06:37 hrs",
+  "actualizado": "23/08/2026 07:31 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
+      "resumen": "La presencia de este material es amplio en nuestra vida cotidiana. Las empresas que lideran este sector también aparecen en las 500 de Expansión.",
+      "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
+      "fecha": "23 Aug 2026, 06:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
       "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
       "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
@@ -136,15 +145,6 @@
       "resumen": "Durante la primera fecha de corte del registro, los usuarios enfrentaron dificultades para vincular sus números debido a que las plataformas de los operadores reportaron congestionamiento y errores.",
       "link": "https://expansion.mx/empresas/2026/08/20/registro-telefonico-deja-4-4-millones-lineas-desconectadas",
       "fecha": "20 Aug 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México mueve pasajeros y mercancías en camiones y autobuses de hasta 20 años, cuatro veces la edad recomendada",
-      "resumen": "El deterioro de componentes críticos, así como las mayores emisiones de vehículos antiguos, elevan los desafíos para un sector que mueve mercancías y pasajeros a través de buena parte del territorio n…",
-      "link": "https://expansion.mx/empresas/2026/08/20/mexico-autobuses-y-camiones-20-anos",
-      "fecha": "20 Aug 2026, 16:22 hrs"
     },
     {
       "fuente": "Reforma",
