@@ -1,16 +1,7 @@
 {
-  "actualizado": "22/08/2026 22:35 hrs",
+  "actualizado": "22/08/2026 23:28 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "fecha": "22 Aug 2026, 17:25 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
       "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
       "fecha": "20 Aug 2026, 20:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico advierte que los conflictos geopolíticos, servicios y clima presionan el alza de precios",
+      "resumen": "La inflación llegará hacia su meta de 3% hasta el cuarto trimestre de 2027, la persistencia del conflicto en Medio Oriente es un factor que agrega presión al precio del petróleo.",
+      "link": "https://expansion.mx/economia/2026/08/20/banxico-conflictos-geopoliticos-servicios-clima-inflacion",
+      "fecha": "20 Aug 2026, 12:39 hrs"
     },
     {
       "fuente": "Expansión",
