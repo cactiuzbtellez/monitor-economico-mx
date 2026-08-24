@@ -1,7 +1,16 @@
 {
-  "actualizado": "24/08/2026 16:25 hrs",
+  "actualizado": "24/08/2026 17:21 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
+      "resumen": "Las empresas extranjeras reinvirtieron 30,957 mdd de sus utilidades en México, mientras las nuevas inversiones sumaron 2,726 mdd.",
+      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
+      "fecha": "24 Aug 2026, 13:19 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México busca convertir la innovación en patentes y riqueza",
-      "resumen": "El secretario de Economía, Marcelo Ebrard, llamó a fondos de inversión, empresas, universidades y gobiernos a financiar la innovación nacional para que México genere tecnología propia.",
-      "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
-      "fecha": "21 Aug 2026, 16:15 hrs"
+      "titulo": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
+      "resumen": "Antes de elegir una alternativa eléctrica para reparto, hay diferencias de autonomía, capacidad y operación que pueden hacer más adecuado un modelo que otro.",
+      "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
+      "fecha": "24 Aug 2026, 14:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
+      "resumen": "Los clientes de Bait tendrán nuevos puntos para realizar recargas gracias a un acuerdo con OXXO, que suma más de 24,000 establecimientos y la plataforma Spin by OXXO.",
+      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
+      "fecha": "24 Aug 2026, 12:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
       "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
       "fecha": "21 Aug 2026, 13:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
-      "resumen": "Tras vender pocas unidades del EV6, Kia incorpora al EV3 cargador doméstico, gestión con CFE, infraestructura de carga y asistencia en carretera.",
-      "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
-      "fecha": "21 Aug 2026, 12:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
-      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
-      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
-      "fecha": "21 Aug 2026, 08:16 hrs"
     },
     {
       "fuente": "Reforma",
