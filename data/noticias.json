@@ -1,16 +1,7 @@
 {
-  "actualizado": "24/08/2026 09:38 hrs",
+  "actualizado": "24/08/2026 10:36 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "resumen": "El presidente estadounidense eleva la presión sobre Canadá después del fracaso de las negociaciones comerciales.",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "fecha": "24 Aug 2026, 09:01 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "El secretario de Economía, Marcelo Ebrard, llamó a fondos de inversión, empresas, universidades y gobiernos a financiar la innovación nacional para que México genere tecnología propia.",
       "link": "https://expansion.mx/economia/2026/08/21/mexico-busca-convertir-la-innovacion-en-patentes-y-riqueza",
       "fecha": "21 Aug 2026, 16:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
+      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
+      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
+      "fecha": "21 Aug 2026, 13:19 hrs"
     },
     {
       "fuente": "Expansión",
