@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/08/2026 07:50 hrs",
+  "actualizado": "24/08/2026 08:40 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "No es solo Tesla: 8 automotrices chinas retiran millones de autos por una falla que podría atraparte durante un choque",
+      "resumen": "El diseño de las puertas de algunos vehículos eléctricos genera preocupación entre las autoridades chinas por la forma en que los ocupantes podrían utilizarlas durante una emergencia.",
+      "link": "https://expansion.mx/empresas/2026/08/24/tesla-8-automotrices-chinas-retiran-autos-falla-choque",
+      "fecha": "24 Aug 2026, 08:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
       "resumen": "Viajar por carretera puede representar un ahorro frente al avión, aunque los tiempos de traslado son considerablemente mayores y algunos recorridos requieren conexiones.",
       "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
@@ -138,15 +147,6 @@
       "fecha": "21 Aug 2026, 08:16 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
-      "resumen": "Aunque la fusión fue aprobada para el mercado mexicano, especialistas advierten que la CNA deberá monitorear los precios de las suscripciones y el acceso de plataformas rivales a los contenidos de Par…",
-      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
-      "fecha": "21 Aug 2026, 05:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "La inflación general de México avanzó 3.26% en la primera quincena de agosto, menos de lo previsto, según el Inegi.",
       "link": "https://www.reforma.com/alcanza-inflacion-el-3-26-en-primera-quincena-de-agosto/ar3263189",
       "fecha": "24 Aug 2026, 07:31 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afirma Trump que elevará aranceles a autos canadienses a 50%",
+      "resumen": "El Presidente Trump dijo que EU aumentará los aranceles a los autos, camiones y autopartes de Canadá al 50% a partir del 1 de enero de 2027.",
+      "link": "https://www.reforma.com/afirma-trump-que-elevara-aranceles-a-autos-canadienses-a-50/ar3263199",
+      "fecha": "24 Aug 2026, 08:04 hrs"
     },
     {
       "fuente": "Reforma",
@@ -189,15 +198,6 @@
       "titulo": "Amortigua cumplimiento del T-MEC alza en precios",
       "resumen": "El mayor contenido de integración regional entre las empresas de México y Canadá, como estrategia para mitigar el impacto de los aranceles.",
       "link": "https://www.reforma.com/amortigua-cumplimiento-del-t-mec-alza-en-precios/ar3263083",
-      "fecha": "24 Aug 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sobresale Femsa en crear empleos",
-      "resumen": "En segundo trimestre del año, 16 empresas regias que cotizan en la BMV añadieron en conjunto 10,048 empleos formales, sobresaliendo Femsa.",
-      "link": "https://www.reforma.com/sobresale-femsa-en-crear-empleos/ar3263064",
       "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
