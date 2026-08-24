@@ -1,7 +1,43 @@
 {
-  "actualizado": "24/08/2026 11:30 hrs",
+  "actualizado": "24/08/2026 12:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
+      "resumen": "El presidente estadounidense eleva la presión sobre Canadá después del fracaso de las negociaciones comerciales.",
+      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
+      "fecha": "24 Aug 2026, 09:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
+      "resumen": "La inflación subyacente sorprendió a la baja y avanzó apenas 0.08% en la quincena, frente al 0.14% esperado, y se ubicó en 3.93% anual.",
+      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
+      "fecha": "24 Aug 2026, 07:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
+      "resumen": "La economía mexicana creció ligeramente menos de lo estimado en el indicador oportuno del Inegi. El sector primario fue el que sufrió la mayor revisión a la baja.",
+      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
+      "fecha": "24 Aug 2026, 07:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
+      "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
+      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
+      "fecha": "24 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
-      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
-      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
-      "fecha": "21 Aug 2026, 13:19 hrs"
+      "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/08/24/comprar-nuevo-chip-evita-registro-telefonico",
+      "fecha": "24 Aug 2026, 08:44 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
-      "resumen": "El secretario de Economía asegura que los señalamientos sobre China reaparecen cada vez que México y EU entran en fases importantes de negociación.",
-      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
-      "fecha": "21 Aug 2026, 12:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
-      "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
-      "fecha": "21 Aug 2026, 09:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México se encamina a otra década perdida de crecimiento económico: Cepal",
-      "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
-      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
-      "fecha": "20 Aug 2026, 20:01 hrs"
+      "titulo": "No es solo Tesla: 8 automotrices chinas retiran millones de autos por una falla que podría atraparte durante un choque",
+      "resumen": "El diseño de las puertas de algunos vehículos eléctricos genera preocupación entre las autoridades chinas por la forma en que los ocupantes podrían utilizarlas durante una emergencia.",
+      "link": "https://expansion.mx/empresas/2026/08/24/tesla-8-automotrices-chinas-retiran-autos-falla-choque",
+      "fecha": "24 Aug 2026, 08:19 hrs"
     },
     {
       "fuente": "Expansión",
@@ -123,28 +141,10 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
-      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
-      "link": "https://expansion.mx/empresas/2026/08/21/comprar-nuevo-chip-evita-registro-telefonico",
-      "fecha": "21 Aug 2026, 11:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
       "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
       "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
       "fecha": "21 Aug 2026, 08:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fusión Paramount-Warner enfrenta riesgos de concentración y mayores precios para usuarios del streaming en México",
-      "resumen": "Aunque la fusión fue aprobada para el mercado mexicano, especialistas advierten que la CNA deberá monitorear los precios de las suscripciones y el acceso de plataformas rivales a los contenidos de Par…",
-      "link": "https://expansion.mx/empresas/2026/08/21/cna-aprobo-fusion-paramount-warner-mexico",
-      "fecha": "21 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,18 +204,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amortigua cumplimiento del T-MEC alza en precios",
-      "resumen": "El mayor contenido de integración regional entre las empresas de México y Canadá, como estrategia para mitigar el impacto de los aranceles.",
-      "link": "https://www.reforma.com/amortigua-cumplimiento-del-t-mec-alza-en-precios/ar3263083",
-      "fecha": "24 Aug 2026, 07:03 hrs"
+      "titulo": "Concreta LATAM Airlines Group crédito por 505 mdd",
+      "resumen": "La aerolínea LATAM Airlines Group cerró un crédito por alrededor 505 millones de dólares para financiar la incorporación de 11 aeronaves.",
+      "link": "https://www.reforma.com/concreta-latam-airlines-group-credito-por-505-mdd/ar3263311",
+      "fecha": "24 Aug 2026, 11:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Padecen agroexportaciones por EU",
-      "resumen": "El Gobierno de EU ha vapuleado a productos estrella del campo mexicano con aranceles, restricciones fitosanitarias y de seguridad.",
-      "link": "https://www.reforma.com/padecen-agroexportaciones-por-eu/ar3263032",
+      "titulo": "Amortigua cumplimiento del T-MEC alza en precios",
+      "resumen": "El mayor contenido de integración regional entre las empresas de México y Canadá, como estrategia para mitigar el impacto de los aranceles.",
+      "link": "https://www.reforma.com/amortigua-cumplimiento-del-t-mec-alza-en-precios/ar3263083",
       "fecha": "24 Aug 2026, 07:03 hrs"
     }
   ]
