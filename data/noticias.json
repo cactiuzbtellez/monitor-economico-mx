@@ -1,34 +1,7 @@
 {
-  "actualizado": "24/08/2026 10:36 hrs",
+  "actualizado": "24/08/2026 11:30 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
-      "resumen": "La inflación subyacente sorprendió a la baja y avanzó apenas 0.08% en la quincena, frente al 0.14% esperado, y se ubicó en 3.93% anual.",
-      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
-      "fecha": "24 Aug 2026, 07:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
-      "resumen": "La economía mexicana creció ligeramente menos de lo estimado en el indicador oportuno del Inegi. El sector primario fue el que sufrió la mayor revisión a la baja.",
-      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
-      "fecha": "24 Aug 2026, 07:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
-      "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
-      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
-      "fecha": "24 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,33 @@
       "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
       "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
       "fecha": "21 Aug 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Triangulación china desde México no rebasa 1%; “se los vamos a demostrar”: Ebrard",
+      "resumen": "El secretario de Economía asegura que los señalamientos sobre China reaparecen cada vez que México y EU entran en fases importantes de negociación.",
+      "link": "https://expansion.mx/economia/2026/08/21/ebrard-niega-triangulacion-china-mexico-estados-unidos",
+      "fecha": "21 Aug 2026, 12:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT gana menos juicios, pero recupera más dinero de los contribuyentes",
+      "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
+      "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
+      "fecha": "21 Aug 2026, 09:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+      "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
+      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+      "fecha": "20 Aug 2026, 20:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,10 +159,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma Trump que elevará aranceles a autos canadienses a 50%",
-      "resumen": "El Presidente Trump dijo que EU aumentará los aranceles a los autos, camiones y autopartes de Canadá al 50% a partir del 1 de enero de 2027.",
-      "link": "https://www.reforma.com/afirma-trump-que-elevara-aranceles-a-autos-canadienses-a-50/ar3263199",
-      "fecha": "24 Aug 2026, 08:04 hrs"
+      "titulo": "Alista México colocación de primer bono samurái desde 2024",
+      "resumen": "México tiene previsto colocar bonos samurái esta semana, en lo que sería su regreso al mercado japonés por primera vez en dos años.",
+      "link": "https://www.reforma.com/alista-mexico-colocacion-de-primer-bono-samurai-desde-2024/ar3263269",
+      "fecha": "24 Aug 2026, 10:44 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,19 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Padecen agroexportaciones por EU",
-      "resumen": "El Gobierno de EU ha vapuleado a productos estrella del campo mexicano con aranceles, restricciones fitosanitarias y de seguridad.",
-      "link": "https://www.reforma.com/padecen-agroexportaciones-por-eu/ar3263032",
-      "fecha": "24 Aug 2026, 07:03 hrs"
+      "titulo": "Será Marcelo Hernández CEO de seguros y pensiones en Banamex",
+      "resumen": "A partir del 1 de septiembre de 2026, Marcelo Hernández se incorporará a Banamex como director general de Seguros y Pensiones.",
+      "link": "https://www.reforma.com/sera-marcelo-hernandez-ceo-de-seguros-y-pensiones-en-banamex/ar3263265",
+      "fecha": "24 Aug 2026, 10:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plantean exentar ISR  a sueldos más bajos",
-      "resumen": "Proponen exentar del ISR a salarios de hasta 14 mil 400 pesos y unificar ISR e IMSS para reducir la informalidad.",
-      "link": "https://www.reforma.com/plantean-exentar-isr-a-sueldos-mas-bajos/ar3263029",
-      "fecha": "24 Aug 2026, 07:03 hrs"
+      "titulo": "Reportan impago 1 de cada 4 en Sofipos",
+      "resumen": "Los créditos digitales en las Sofipos están en impago en México en 1 de cada 4 casos; expertos ven toma de riesgos por inclusión financiera.",
+      "link": "https://www.reforma.com/reportan-impago-1-de-cada-4-en-sofipos/ar3263097",
+      "fecha": "24 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Persiste preocupación por propagación del gusano barrenador",
+      "resumen": "México está intensificando su campaña de contención del gusano barrenador en Sonora y Chihuahua, donde se han detectado casos recientes.",
+      "link": "https://www.reforma.com/persiste-preocupacion-por-propagacion-del-gusano-barrenador/ar3263276",
+      "fecha": "24 Aug 2026, 10:49 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Están códigos de barras en vías de extinción",
-      "resumen": "Supermercados y departamentales preparan \"el último adiós\" al uso de códigos de barras para identificar sus productos.",
-      "link": "https://www.reforma.com/estan-codigos-de-barras-en-vias-de-extincion/ar3263067",
+      "titulo": "Padecen agroexportaciones por EU",
+      "resumen": "El Gobierno de EU ha vapuleado a productos estrella del campo mexicano con aranceles, restricciones fitosanitarias y de seguridad.",
+      "link": "https://www.reforma.com/padecen-agroexportaciones-por-eu/ar3263032",
       "fecha": "24 Aug 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reportan impago 1 de cada 4 en Sofipos",
-      "resumen": "Los créditos digitales en las Sofipos están en impago en México en 1 de cada 4 casos; expertos ven toma de riesgos por inclusión financiera.",
-      "link": "https://www.reforma.com/reportan-impago-1-de-cada-4-en-sofipos/ar3263097",
-      "fecha": "24 Aug 2026, 05:01 hrs"
     }
   ]
 }
