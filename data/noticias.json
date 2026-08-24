@@ -1,16 +1,7 @@
 {
-  "actualizado": "24/08/2026 06:48 hrs",
+  "actualizado": "24/08/2026 07:50 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
-      "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
-      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
-      "fecha": "24 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
       "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
       "fecha": "21 Aug 2026, 09:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se encamina a otra década perdida de crecimiento económico: Cepal",
+      "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
+      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
+      "fecha": "20 Aug 2026, 20:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cómo registrar mi número celular",
-      "resumen": "Existen dos maneras de realizar la vinculación con los operadores, la digital -desde cualquier dispositivo con cámara- y la presencial.",
-      "link": "https://www.reforma.com/como-registrar-mi-numero-celular/ar3262117",
-      "fecha": "22 Aug 2026, 05:01 hrs"
+      "titulo": "Alcanza inflación el 3.26% en primera quincena de agosto",
+      "resumen": "La inflación general de México avanzó 3.26% en la primera quincena de agosto, menos de lo previsto, según el Inegi.",
+      "link": "https://www.reforma.com/alcanza-inflacion-el-3-26-en-primera-quincena-de-agosto/ar3263189",
+      "fecha": "24 Aug 2026, 07:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mueve Trump hilos y dispara al bitcoin",
-      "resumen": "Con un alza en su precio de 19.2% en los últimos tres días, el bitcoin ganó 22.4% en la semana, la mejor en poco más de dos años.",
-      "link": "https://www.reforma.com/mueve-trump-hilos-y-dispara-al-bitcoin/ar3262135",
-      "fecha": "22 Aug 2026, 05:01 hrs"
+      "titulo": "Revisan a la baja crecimiento de economía mexicana, a 1.4%",
+      "resumen": "PIB de México creció 1.4% en el segundo trimestre, menos de lo estimado inicialmente, tras revisiones a la baja en sector agro y servicios.",
+      "link": "https://www.reforma.com/revisan-a-la-baja-crecimiento-de-economia-mexicana-a-1-4/ar3263184",
+      "fecha": "24 Aug 2026, 07:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Y ahora, rentan pilas para los apagones",
-      "resumen": "Propietarios de viviendas en Texas pueden alquilar sistemas Tesla Powerwall con una capacidad de 27 kilovatios-hora por 35 dólares al mes.",
-      "link": "https://www.reforma.com/y-ahora-rentan-pilas-para-los-apagones/ar3262127",
-      "fecha": "22 Aug 2026, 05:01 hrs"
+      "titulo": "Padecen agroexportaciones por EU",
+      "resumen": "El Gobierno de EU ha vapuleado a productos estrella del campo mexicano con aranceles, restricciones fitosanitarias y de seguridad.",
+      "link": "https://www.reforma.com/padecen-agroexportaciones-por-eu/ar3263032",
+      "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Le compiten chinos a cohete de SpaceX",
-      "resumen": "La startup LandSpace se convirtió en la semana en la primera empresa china en lograr que aterrizara para su reuso un cohete, el Zhuque-3.",
-      "link": "https://www.reforma.com/le-compiten-chinos-a-cohete-de-spacex/ar3262120",
-      "fecha": "22 Aug 2026, 05:01 hrs"
+      "titulo": "Plantean exentar ISR  a sueldos más bajos",
+      "resumen": "Proponen exentar del ISR a salarios de hasta 14 mil 400 pesos y unificar ISR e IMSS para reducir la informalidad.",
+      "link": "https://www.reforma.com/plantean-exentar-isr-a-sueldos-mas-bajos/ar3263029",
+      "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Transborda'  México 1% de exportaciones.- Ebrard",
-      "resumen": "La SE dijo que las operaciones de transbordo de mercancías chinas a través del País alcanzaría el 1 % de las exportaciones mexicanas.",
-      "link": "https://www.reforma.com/transborda-mexico-1-de-exportaciones-ebrard/ar3262094",
-      "fecha": "21 Aug 2026, 14:10 hrs"
+      "titulo": "Amortigua cumplimiento del T-MEC alza en precios",
+      "resumen": "El mayor contenido de integración regional entre las empresas de México y Canadá, como estrategia para mitigar el impacto de los aranceles.",
+      "link": "https://www.reforma.com/amortigua-cumplimiento-del-t-mec-alza-en-precios/ar3263083",
+      "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se acerca Pemex a adeudo histórico",
-      "resumen": "Deuda de Pemex con proveedores asciende a unos 21 mmdd, un 85% del monto histórico que llevó a implementar programa de pago con Banobras.",
-      "link": "https://www.reforma.com/se-acerca-pemex-a-adeudo-historico/ar3261831",
-      "fecha": "21 Aug 2026, 05:01 hrs"
+      "titulo": "Sobresale Femsa en crear empleos",
+      "resumen": "En segundo trimestre del año, 16 empresas regias que cotizan en la BMV añadieron en conjunto 10,048 empleos formales, sobresaliendo Femsa.",
+      "link": "https://www.reforma.com/sobresale-femsa-en-crear-empleos/ar3263064",
+      "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estima Inegi aumento de 2% de actividad manufacturera",
-      "resumen": "El Inegi estimó un alza de 2% del Indicador Mensual Oportuno de la Actividad Manufacturera en julio.",
-      "link": "https://www.reforma.com/estima-inegi-aumento-de-2-de-actividad-manufacturera/ar3261931",
-      "fecha": "21 Aug 2026, 09:47 hrs"
+      "titulo": "Están códigos de barras en vías de extinción",
+      "resumen": "Supermercados y departamentales preparan \"el último adiós\" al uso de códigos de barras para identificar sus productos.",
+      "link": "https://www.reforma.com/estan-codigos-de-barras-en-vias-de-extincion/ar3263067",
+      "fecha": "24 Aug 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan empresas de 'apretón fiscal'",
-      "resumen": "Empresas avizoran 'apretón fiscal' para 2027; analistas estiman que presión por alta fiscalización podría volverse 'terrorismo fiscal'.",
-      "link": "https://www.reforma.com/alertan-empresas-de-apreton-fiscal/ar3261829",
-      "fecha": "21 Aug 2026, 05:01 hrs"
+      "titulo": "Reportan impago 1 de cada 4 en Sofipos",
+      "resumen": "Los créditos digitales en las Sofipos están en impago en México en 1 de cada 4 casos; expertos ven toma de riesgos por inclusión financiera.",
+      "link": "https://www.reforma.com/reportan-impago-1-de-cada-4-en-sofipos/ar3263097",
+      "fecha": "24 Aug 2026, 05:01 hrs"
     }
   ]
 }
