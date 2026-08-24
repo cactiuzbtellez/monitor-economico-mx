@@ -1,16 +1,7 @@
 {
-  "actualizado": "24/08/2026 13:28 hrs",
+  "actualizado": "24/08/2026 14:29 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "resumen": "El presidente estadounidense eleva la presión sobre Canadá después del fracaso de las negociaciones comerciales.",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "fecha": "24 Aug 2026, 09:01 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
-      "resumen": "Los clientes de Bait tendrán nuevos puntos para realizar recargas gracias a un acuerdo con OXXO, que suma más de 24,000 establecimientos y la plataforma Spin by OXXO.",
-      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
-      "fecha": "24 Aug 2026, 12:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
-      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
-      "link": "https://expansion.mx/empresas/2026/08/24/comprar-nuevo-chip-evita-registro-telefonico",
-      "fecha": "24 Aug 2026, 08:44 hrs"
+      "titulo": "Trump reduce los aranceles a la carne previo a elecciones de noviembre",
+      "resumen": "El mandatario de Estados Unidos no detalló de qué países provendrán las importaciones, pero señaló que la carne será vendida con una rebaja de 25% sobre los precios de mercado.",
+      "link": "https://expansion.mx/economia/2026/08/21/trump-aranceles-carne-elecciones",
+      "fecha": "21 Aug 2026, 13:19 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,13 +129,31 @@
       "fecha": "21 Aug 2026, 12:25 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/08/21/comprar-nuevo-chip-evita-registro-telefonico",
+      "fecha": "21 Aug 2026, 11:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
+      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
+      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
+      "fecha": "21 Aug 2026, 08:16 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanza inflación el 3.26% en primera quincena de agosto",
-      "resumen": "La inflación general de México avanzó 3.26% en la primera quincena de agosto, menos de lo previsto, según el Inegi.",
-      "link": "https://www.reforma.com/alcanza-inflacion-el-3-26-en-primera-quincena-de-agosto/ar3263189",
-      "fecha": "24 Aug 2026, 07:31 hrs"
+      "titulo": "Alcanza IED 34,968 mdd; su menor crecimiento desde 2021",
+      "resumen": "En el primer semestre del año, la IED fue de 34 mil 968 millones de dólares, un alza de 2.1 %; su menor tasa de crecimiento desde 2021.",
+      "link": "https://www.reforma.com/alcanza-ied-34-968-mdd-su-menor-crecimiento-desde-2021/ar3263376",
+      "fecha": "24 Aug 2026, 14:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concreta LATAM Airlines Group crédito por 505 mdd",
-      "resumen": "La aerolínea LATAM Airlines Group cerró un crédito por alrededor 505 millones de dólares para financiar la incorporación de 11 aeronaves.",
-      "link": "https://www.reforma.com/concreta-latam-airlines-group-credito-por-505-mdd/ar3263311",
-      "fecha": "24 Aug 2026, 11:41 hrs"
+      "titulo": "Llaman a CRT a evitar ser juez de medios",
+      "resumen": "La regulación de derechos de audiencias no debe dar a la CRT facultades en contra de la libertad de expresión, dijo México Evalúa y la AIMX.",
+      "link": "https://www.reforma.com/llaman-a-crt-a-evitar-ser-juez-de-medios/ar3263381",
+      "fecha": "24 Aug 2026, 14:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amortigua cumplimiento del T-MEC alza en precios",
-      "resumen": "El mayor contenido de integración regional entre las empresas de México y Canadá, como estrategia para mitigar el impacto de los aranceles.",
-      "link": "https://www.reforma.com/amortigua-cumplimiento-del-t-mec-alza-en-precios/ar3263083",
-      "fecha": "24 Aug 2026, 07:03 hrs"
+      "titulo": "Cierran precios del crudo con baja de 2.35%",
+      "resumen": "Los precios del crudo terminaron a la baja en un mercado que esperaba la nueva salva de sanciones económicas de Washington contra Irán.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-2-35/ar3263398",
+      "fecha": "24 Aug 2026, 14:20 hrs"
     }
   ]
 }
