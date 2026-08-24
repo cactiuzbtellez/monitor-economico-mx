@@ -1,7 +1,16 @@
 {
-  "actualizado": "24/08/2026 05:27 hrs",
+  "actualizado": "24/08/2026 06:48 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
+      "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
+      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
+      "fecha": "24 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El fisco ganó 80.4% del dinero en disputa durante el primer semestre, el porcentaje más alto para un periodo igual desde 2018, y recuperó 115,658 millones de pesos.",
       "link": "https://expansion.mx/economia/2026/08/21/aunque-sat-enfrenta-menos-juicios-si-gana-mas-dinero",
       "fecha": "21 Aug 2026, 09:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México se encamina a otra década perdida de crecimiento económico: Cepal",
-      "resumen": "Si las previsiones actuales se cumplen, 2019-2027 quedará como un periodo de nueve años en el que la economía mexicana habrá avanzado a un ritmo promedio cercano a 1% anual.",
-      "link": "https://expansion.mx/economia/2026/08/20/mexico-se-encamina-a-otra-decada-perdida-de-crecimiento-economico-cepal",
-      "fecha": "20 Aug 2026, 20:01 hrs"
     },
     {
       "fuente": "Expansión",
