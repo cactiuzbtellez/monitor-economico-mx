@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/08/2026 15:27 hrs",
+  "actualizado": "24/08/2026 16:25 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
-      "resumen": "Los clientes de Bait tendrán nuevos puntos para realizar recargas gracias a un acuerdo con OXXO, que suma más de 24,000 establecimientos y la plataforma Spin by OXXO.",
-      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
-      "fecha": "24 Aug 2026, 12:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
       "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
       "link": "https://expansion.mx/empresas/2026/08/24/comprar-nuevo-chip-evita-registro-telefonico",
@@ -147,6 +138,15 @@
       "fecha": "21 Aug 2026, 12:25 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La gasolina no subirá de 24 pesos por seis meses más tras acuerdo del gobierno con gasolineros",
+      "resumen": "El acuerdo también contempla el precio del diésel y condiciones distintas para las zonas fronterizas, mientras autoridades y empresarios mantienen mesas de trabajo.",
+      "link": "https://expansion.mx/empresas/2026/08/21/gasolina-acuerdo-gobierno-gasolineros-precio-seis-meses",
+      "fecha": "21 Aug 2026, 08:16 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,19 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abrirá EU más puertos al ganado mexicano",
-      "resumen": "La secretaria de Agricultura de EU permitirá la entrada de ganado mexicano a través de dos puertos adicionales en los próximos dos meses.",
-      "link": "https://www.reforma.com/abrira-eu-mas-puertos-al-ganado-mexicano/ar3263435",
-      "fecha": "24 Aug 2026, 15:00 hrs"
+      "titulo": "Inicia envíos ganaderos con 750 unidades",
+      "resumen": "Sader anunció que tras arranque de operaciones de exportación ganadera a través de Agua Prieta se enviaron 750 unidades a EU.",
+      "link": "https://www.reforma.com/inicia-envios-ganaderos-con-750-unidades/ar3263444",
+      "fecha": "24 Aug 2026, 15:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Liga actividad económica 2 meses con reveses",
-      "resumen": "Durante junio, en México, el Indicador Global de la Actividad Económica vio uno ligera reducción de 0.06%.",
-      "link": "https://www.reforma.com/liga-actividad-economica-2-meses-con-reveses/ar3263338",
-      "fecha": "24 Aug 2026, 12:42 hrs"
+      "titulo": "Abrirá EU más puertos al ganado mexicano",
+      "resumen": "La secretaria de Agricultura de EU permitirá la entrada de ganado mexicano a través de dos puertos adicionales en los próximos dos meses.",
+      "link": "https://www.reforma.com/abrira-eu-mas-puertos-al-ganado-mexicano/ar3263435",
+      "fecha": "24 Aug 2026, 15:00 hrs"
     },
     {
       "fuente": "Reforma",
