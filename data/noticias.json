@@ -1,25 +1,7 @@
 {
-  "actualizado": "25/08/2026 10:36 hrs",
+  "actualizado": "25/08/2026 11:30 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Empleo ligado a la IA crece 7.6% mientras maquila y automotriz van en retroceso",
-      "resumen": "El personal ocupado en la industria automotriz, en cambio, cayó a niveles no vistos desde 2021. Al mismo tiempo, el empleo en fabricación de computadoras creció más de 21% en los últimos 5 años.",
-      "link": "https://expansion.mx/economia/2026/08/25/empleo-ligado-ia-crece-7-6-mientras-automotriz-hunde",
-      "fecha": "25 Aug 2026, 10:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
-      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
-      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
-      "fecha": "25 Aug 2026, 05:54 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
-      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
-      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
-      "fecha": "25 Aug 2026, 09:25 hrs"
+      "titulo": "Pimiento, arándano, pepino y calabacita enfrentan presión de EU por el T-MEC",
+      "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
+      "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
+      "fecha": "24 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
+      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
+      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
+      "fecha": "22 Aug 2026, 17:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +136,15 @@
       "resumen": "Las líneas suspendidas pueden recuperar el servicio una vez que sus usuarios completen la vinculación, pero otras serán eliminadas.",
       "link": "https://expansion.mx/empresas/2026/08/23/las-lineas-que-podrian-desaparecer-del-registro-la-crt",
       "fecha": "23 Aug 2026, 12:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
+      "resumen": "La presencia de este material es amplio en nuestra vida cotidiana. Las empresas que lideran este sector también aparecen en las 500 de Expansión.",
+      "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
+      "fecha": "23 Aug 2026, 06:45 hrs"
     },
     {
       "fuente": "Reforma",
