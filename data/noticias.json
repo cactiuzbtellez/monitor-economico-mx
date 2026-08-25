@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/08/2026 04:31 hrs",
+  "actualizado": "25/08/2026 05:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
+      "resumen": "Mientras BBVA concentra la mayor cantidad de créditos y acreditados, Ualá presenta el mayor nivel de morosidad entre las instituciones analizadas.",
+      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
+      "fecha": "24 Aug 2026, 19:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+      "resumen": "La decisión de los ministros podría marcar el rumbo del conflicto y establecer un criterio que también sea utilizado en futuras huelgas en México.",
+      "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+      "fecha": "24 Aug 2026, 17:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
-      "resumen": "Después de tres días de conversaciones, Washington y Ottawa se culparon mutuamente por el fracaso del acuerdo. Canadá suspendió las negociaciones y anunció represalias a partir del 8 de septiembre.",
-      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
-      "fecha": "22 Aug 2026, 08:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
-      "resumen": "Para la semana del 22 al 28 de agosto, cada litro de diésel tendrá una cuota por el Impuesto Especial sobre Producción y Servicios (IEPS) de 1.28 pesos, la más baja reportada en lo que va del año.",
-      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
-      "fecha": "21 Aug 2026, 18:25 hrs"
+      "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
+      "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
+      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
+      "fecha": "24 Aug 2026, 17:11 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,58 @@
       "fecha": "23 Aug 2026, 06:45 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
-      "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
-      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
-      "fecha": "21 Aug 2026, 13:41 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Complica T-MEC pelea EU- Canadá",
+      "resumen": "El rompimiento del acuerdo entre Canadá y EU anticipa un mayor reto para acelerar las conversaciones rumbo a un acuerdo común regional.",
+      "link": "https://www.reforma.com/complica-t-mec-pelea-eu-canada/ar3263673",
+      "fecha": "25 Aug 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan riesgos penales por vinculación de líneas",
+      "resumen": "Usuarios enfrentarían investigaciones penales por delitos cometidos con sus número sin su consentimiento, advierten especialistas.",
+      "link": "https://www.reforma.com/alertan-riesgos-penales-por-vinculacion-de-lineas/ar3263663",
+      "fecha": "25 Aug 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acelera inflación 3.26% anual",
+      "resumen": "La inflación general de México avanzó 3.26% en la primera quincena de agosto, menos de lo previsto, según el Inegi.",
+      "link": "https://www.reforma.com/acelera-inflacion-3-26-anual/ar3263189",
+      "fecha": "24 Aug 2026, 07:31 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crece economía menos de lo previsto",
+      "resumen": "PIB de México creció 1.4% en el segundo trimestre, menos de lo estimado inicialmente, tras revisiones a la baja en sector agro y servicios.",
+      "link": "https://www.reforma.com/crece-economia-menos-de-lo-previsto/ar3263184",
+      "fecha": "24 Aug 2026, 07:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Encarece reforma laboral la operación de empresas",
+      "resumen": "'Cascada' de reformas laborales impulsadas por 4T ejercerá cada vez mayor presión sobre costos y gastos de empresas, advierten expertos.",
+      "link": "https://www.reforma.com/encarece-reforma-laboral-la-operacion-de-empresas/ar3263662",
+      "fecha": "25 Aug 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tienen guardería 24% de empleados",
+      "resumen": "Sólo 24% de la población subordinada y remunerada tiene acceso a guarderías o servicios de cuidados para sus hijos.",
+      "link": "https://www.reforma.com/tienen-guarderia-24-de-empleados/ar3263649",
+      "fecha": "25 Aug 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,60 +217,6 @@
       "resumen": "Banobras afirmó estar listo para participar en el financiamiento de proyectos de Pemex; así como optimizar su liquidez.",
       "link": "https://www.reforma.com/evalua-banobras-esquemas-para-respaldar-proyectos-de-pemex/ar3263618",
       "fecha": "24 Aug 2026, 20:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pide IP Paquete Económico congruente con situación del País",
-      "resumen": "El CCE prevé que el próximo Paquete Económico sea congruente con la situación del País y transparente en la asignación de recortes.",
-      "link": "https://www.reforma.com/pide-ip-paquete-economico-congruente-con-situacion-del-pais/ar3263572",
-      "fecha": "24 Aug 2026, 20:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Temen trabajadores de Monte de Piedad que se alargue huelga",
-      "resumen": "Trabajadores del sindicato minoritario de Nacional Monte de Piedad temen que la atracción de caso por la SCJN alargue la huelga.",
-      "link": "https://www.reforma.com/temen-trabajadores-de-monte-de-piedad-que-se-alargue-huelga/ar3263534",
-      "fecha": "24 Aug 2026, 18:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inicia envíos ganaderos con 750 unidades",
-      "resumen": "Sader anunció que tras arranque de operaciones de exportación ganadera a través de Agua Prieta se enviaron 750 unidades a EU.",
-      "link": "https://www.reforma.com/inicia-envios-ganaderos-con-750-unidades/ar3263444",
-      "fecha": "24 Aug 2026, 15:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Abrirá EU más puertos al ganado mexicano",
-      "resumen": "La secretaria de Agricultura de EU permitirá la entrada de ganado mexicano a través de dos puertos adicionales en los próximos dos meses.",
-      "link": "https://www.reforma.com/abrira-eu-mas-puertos-al-ganado-mexicano/ar3263435",
-      "fecha": "24 Aug 2026, 15:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca Aeroméxico recompra de acciones por 100 mdd",
-      "resumen": "Grupo Aeroméxico anunció su intención de llevar a cabo una recompra de acciones por un monto cercano a 100 millones de dólares anuales.",
-      "link": "https://www.reforma.com/busca-aeromexico-recompra-de-acciones-por-100-mdd/ar3263414",
-      "fecha": "24 Aug 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja de 2.35%",
-      "resumen": "Los precios del crudo terminaron a la baja en un mercado que esperaba la nueva salva de sanciones económicas de Washington contra Irán.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-2-35/ar3263398",
-      "fecha": "24 Aug 2026, 14:20 hrs"
     }
   ]
 }
