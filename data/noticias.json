@@ -1,7 +1,16 @@
 {
-  "actualizado": "25/08/2026 06:45 hrs",
+  "actualizado": "25/08/2026 07:49 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "fecha": "25 Aug 2026, 05:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
       "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
       "fecha": "24 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "fecha": "22 Aug 2026, 17:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,6 +159,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Rondan bonos de México la 'categoría basura' gracias a Pemex",
+      "resumen": "Con su crisis de deuda, Pemex está arrastrando consigo, de forma gradual, a todo el gobierno y agravando sus dificultades fiscales.",
+      "link": "https://www.reforma.com/rondan-bonos-de-mexico-la-categoria-basura-gracias-a-pemex/ar3263774",
+      "fecha": "25 Aug 2026, 07:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Alertan riesgos penales por vinculación de líneas",
       "resumen": "Usuarios enfrentarían investigaciones penales por delitos cometidos con sus número sin su consentimiento, advierten especialistas.",
       "link": "https://www.reforma.com/alertan-riesgos-penales-por-vinculacion-de-lineas/ar3263663",
@@ -168,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acelera inflación 3.26% anual",
-      "resumen": "La inflación general de México avanzó 3.26% en la primera quincena de agosto, menos de lo previsto, según el Inegi.",
-      "link": "https://www.reforma.com/acelera-inflacion-3-26-anual/ar3263189",
-      "fecha": "24 Aug 2026, 07:31 hrs"
+      "titulo": "Produce EU menos y castiga a agroproductos",
+      "resumen": "Detrás de investigaciones antidumping de EU a cultivos mexicanos se encuentra declive de producción hortofrutícola de la Unión Americana.",
+      "link": "https://www.reforma.com/produce-eu-menos-y-castiga-a-agroproductos/ar3263623",
+      "fecha": "25 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece economía menos de lo previsto",
-      "resumen": "PIB de México creció 1.4% en el segundo trimestre, menos de lo estimado inicialmente, tras revisiones a la baja en sector agro y servicios.",
-      "link": "https://www.reforma.com/crece-economia-menos-de-lo-previsto/ar3263184",
-      "fecha": "24 Aug 2026, 07:18 hrs"
+      "titulo": "Sube en semestre 22.4% IED en NL",
+      "resumen": "En primer semestre, NL captó 3,712 mdd de IED, 22.4% más en relación con el mismo periodo de 2025.",
+      "link": "https://www.reforma.com/sube-en-semestre-22-4-ied-en-nl/ar3263620",
+      "fecha": "25 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tienen guardería 24% de empleados",
-      "resumen": "Sólo 24% de la población subordinada y remunerada tiene acceso a guarderías o servicios de cuidados para sus hijos.",
-      "link": "https://www.reforma.com/tienen-guarderia-24-de-empleados/ar3263649",
-      "fecha": "25 Aug 2026, 05:02 hrs"
+      "titulo": "Impulsa gasto educativo las aportaciones en NL",
+      "resumen": "En el primer semestre de este año, Nuevo León recibió 18 mil 471.30 millones de pesos por concepto de aportaciones federales.",
+      "link": "https://www.reforma.com/impulsa-gasto-educativo-las-aportaciones-en-nl/ar3263660",
+      "fecha": "25 Aug 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "SHCP señaló que se están buscando mecanismos para que las afores puedan ser canalizadas en proyectos de infraestructura.",
       "link": "https://www.reforma.com/pide-shcp-que-ahorro-interno-se-use-en-infraestructura/ar3263638",
       "fecha": "24 Aug 2026, 21:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Evalúa Banobras esquemas para respaldar proyectos de Pemex",
-      "resumen": "Banobras afirmó estar listo para participar en el financiamiento de proyectos de Pemex; así como optimizar su liquidez.",
-      "link": "https://www.reforma.com/evalua-banobras-esquemas-para-respaldar-proyectos-de-pemex/ar3263618",
-      "fecha": "24 Aug 2026, 20:54 hrs"
     }
   ]
 }
