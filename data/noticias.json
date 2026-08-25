@@ -1,7 +1,25 @@
 {
-  "actualizado": "24/08/2026 21:53 hrs",
+  "actualizado": "24/08/2026 22:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
+      "resumen": "Mientras BBVA concentra la mayor cantidad de créditos y acreditados, Ualá presenta el mayor nivel de morosidad entre las instituciones analizadas.",
+      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
+      "fecha": "24 Aug 2026, 19:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+      "resumen": "La decisión de los ministros podría marcar el rumbo del conflicto y establecer un criterio que también sea utilizado en futuras huelgas en México.",
+      "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+      "fecha": "24 Aug 2026, 17:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
-      "resumen": "Después de tres días de conversaciones, Washington y Ottawa se culparon mutuamente por el fracaso del acuerdo. Canadá suspendió las negociaciones y anunció represalias a partir del 8 de septiembre.",
-      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
-      "fecha": "22 Aug 2026, 08:56 hrs"
+      "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
+      "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
+      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
+      "fecha": "24 Aug 2026, 17:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
-      "resumen": "Para la semana del 22 al 28 de agosto, cada litro de diésel tendrá una cuota por el Impuesto Especial sobre Producción y Servicios (IEPS) de 1.28 pesos, la más baja reportada en lo que va del año.",
-      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
-      "fecha": "21 Aug 2026, 18:25 hrs"
+      "titulo": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
+      "resumen": "Antes de elegir una alternativa eléctrica para reparto, hay diferencias de autonomía, capacidad y operación que pueden hacer más adecuado un modelo que otro.",
+      "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
+      "fecha": "24 Aug 2026, 14:03 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "La presencia de este material es amplio en nuestra vida cotidiana. Las empresas que lideran este sector también aparecen en las 500 de Expansión.",
       "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
       "fecha": "23 Aug 2026, 06:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
-      "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
-      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
-      "fecha": "21 Aug 2026, 13:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kia cambia su estrategia tras el EV6 y apuesta con el EV3 para ir por los clientes de BYD y Volvo",
-      "resumen": "Tras vender pocas unidades del EV6, Kia incorpora al EV3 cargador doméstico, gestión con CFE, infraestructura de carga y asistencia en carretera.",
-      "link": "https://expansion.mx/empresas/2026/08/21/kia-aprendio-tropiezo-ev-6-apuesta-auto-ev3",
-      "fecha": "21 Aug 2026, 12:25 hrs"
     },
     {
       "fuente": "Reforma",
