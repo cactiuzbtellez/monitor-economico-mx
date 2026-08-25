@@ -1,7 +1,16 @@
 {
-  "actualizado": "25/08/2026 11:30 hrs",
+  "actualizado": "25/08/2026 12:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "fecha": "25 Aug 2026, 05:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
       "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
       "fecha": "24 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "fecha": "22 Aug 2026, 17:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Complica T-MEC pelea EU- Canadá",
-      "resumen": "El rompimiento del acuerdo entre Canadá y EU anticipa un mayor reto para acelerar las conversaciones rumbo a un acuerdo común regional.",
-      "link": "https://www.reforma.com/complica-t-mec-pelea-eu-canada/ar3263673",
-      "fecha": "25 Aug 2026, 05:02 hrs"
+      "titulo": "Busca SHCP digitalizar economía 'lo más rápido posible'",
+      "resumen": "La prioridad de la política pública es digitalizar la economía 'lo más rápido posible' y disminuir el uso del efectivo, dijo la SHCP.",
+      "link": "https://www.reforma.com/busca-shcp-digitalizar-economia-lo-mas-rapido-posible/ar3263927",
+      "fecha": "25 Aug 2026, 12:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Disminuye desocupación a 2.67% en trimestre",
+      "resumen": "En el segundo trimestre del año, la Tasa de Desocupación del País (TD) bajó 0.04 puntos porcentuales a 2.6% de la PEA.",
+      "link": "https://www.reforma.com/disminuye-desocupacion-a-2-67-en-trimestre/ar3263914",
+      "fecha": "25 Aug 2026, 11:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,15 +181,6 @@
       "resumen": "Con su crisis de deuda, Pemex está arrastrando consigo, de forma gradual, a todo el gobierno y agravando sus dificultades fiscales.",
       "link": "https://www.reforma.com/rondan-bonos-de-mexico-la-categoria-basura-gracias-a-pemex/ar3263774",
       "fecha": "25 Aug 2026, 07:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan riesgos penales por vinculación de líneas",
-      "resumen": "Usuarios enfrentarían investigaciones penales por delitos cometidos con sus número sin su consentimiento, advierten especialistas.",
-      "link": "https://www.reforma.com/alertan-riesgos-penales-por-vinculacion-de-lineas/ar3263663",
-      "fecha": "25 Aug 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
