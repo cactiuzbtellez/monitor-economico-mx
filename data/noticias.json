@@ -1,7 +1,16 @@
 {
-  "actualizado": "25/08/2026 08:43 hrs",
+  "actualizado": "25/08/2026 09:40 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "fecha": "25 Aug 2026, 05:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
       "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
       "fecha": "24 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
-      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
-      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
-      "fecha": "22 Aug 2026, 17:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,6 +159,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Anuncia Canadá aranceles de represalia contra EU por 20 mmdd",
+      "resumen": "Canadá anunció aranceles de represalia sobre productos estadounidenses por un valor aproximado de 20 mil millones de dólares.",
+      "link": "https://www.reforma.com/anuncia-canada-aranceles-de-represalia-contra-eu-por-20-mmdd/ar3263810",
+      "fecha": "25 Aug 2026, 09:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Rondan bonos de México la 'categoría basura' gracias a Pemex",
       "resumen": "Con su crisis de deuda, Pemex está arrastrando consigo, de forma gradual, a todo el gobierno y agravando sus dificultades fiscales.",
       "link": "https://www.reforma.com/rondan-bonos-de-mexico-la-categoria-basura-gracias-a-pemex/ar3263774",
@@ -190,15 +199,6 @@
       "resumen": "En primer semestre, NL captó 3,712 mdd de IED, 22.4% más en relación con el mismo periodo de 2025.",
       "link": "https://www.reforma.com/sube-en-semestre-22-4-ied-en-nl/ar3263620",
       "fecha": "25 Aug 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Encarece reforma laboral la operación de empresas",
-      "resumen": "'Cascada' de reformas laborales impulsadas por 4T ejercerá cada vez mayor presión sobre costos y gastos de empresas, advierten expertos.",
-      "link": "https://www.reforma.com/encarece-reforma-laboral-la-operacion-de-empresas/ar3263662",
-      "fecha": "25 Aug 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
