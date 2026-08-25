@@ -1,7 +1,43 @@
 {
-  "actualizado": "25/08/2026 15:27 hrs",
+  "actualizado": "25/08/2026 16:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
+      "resumen": "Moody’s anticipa un T-MEC con más negociaciones bilaterales; Fitch alerta que la escalada arancelaria sacudirá la cadena automotriz.",
+      "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
+      "fecha": "25 Aug 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
+      "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
+      "link": "https://expansion.mx/economia/2026/08/25/remesas-exportadores-turismo-victimas-peso-mexicano",
+      "fecha": "25 Aug 2026, 15:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
+      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
+      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
+      "fecha": "25 Aug 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
+      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
+      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
+      "fecha": "25 Aug 2026, 11:29 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
-      "resumen": "Las empresas extranjeras reinvirtieron 30,957 mdd de sus utilidades en México, mientras las nuevas inversiones sumaron 2,726 mdd.",
-      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
-      "fecha": "24 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "resumen": "El presidente estadounidense eleva la presión sobre Canadá después del fracaso de las negociaciones comerciales.",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "fecha": "24 Aug 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
-      "resumen": "La inflación subyacente sorprendió a la baja y avanzó apenas 0.08% en la quincena, frente al 0.14% esperado, y se ubicó en 3.93% anual.",
-      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
-      "fecha": "24 Aug 2026, 07:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
-      "resumen": "La economía mexicana creció ligeramente menos de lo estimado en el indicador oportuno del Inegi. El sector primario fue el que sufrió la mayor revisión a la baja.",
-      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
-      "fecha": "24 Aug 2026, 07:29 hrs"
+      "titulo": "Palacio de Hierro tiene otro negocio millonario: son dueños de parte de Centro Santa Fe y Angelópolis",
+      "resumen": "La compañía combina su negocio departamental con una división inmobiliaria que generó más ingresos durante el primer semestre de 2026.",
+      "link": "https://expansion.mx/empresas/2026/08/25/palacio-de-hierro-bailleres-plazas-santa-fe-angelopolis",
+      "fecha": "25 Aug 2026, 11:53 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "El diseño de las puertas de algunos vehículos eléctricos genera preocupación entre las autoridades chinas por la forma en que los ocupantes podrían utilizarlas durante una emergencia.",
       "link": "https://expansion.mx/empresas/2026/08/24/tesla-8-automotrices-chinas-retiran-autos-falla-choque",
       "fecha": "24 Aug 2026, 08:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
-      "resumen": "Viajar por carretera puede representar un ahorro frente al avión, aunque los tiempos de traslado son considerablemente mayores y algunos recorridos requieren conexiones.",
-      "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
-      "fecha": "23 Aug 2026, 14:12 hrs"
     },
     {
       "fuente": "Reforma",
