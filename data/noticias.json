@@ -1,16 +1,7 @@
 {
-  "actualizado": "25/08/2026 07:49 hrs",
+  "actualizado": "25/08/2026 08:43 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
-      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
-      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
-      "fecha": "25 Aug 2026, 05:54 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "México exporta 3,151 millones de dólares de estos productos, de los cuales 96% tiene como destino Estados Unidos, donde productores buscan restricciones estacionales.",
       "link": "https://expansion.mx/economia/2026/08/24/eu-mira-pimiento-arandano-pepino-calabacita-mexicanos",
       "fecha": "24 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México voltea hacia América Latina ante la fragmentación del comercio mundial",
+      "resumen": "Chile y Costa Rica aparecen en la apuesta mexicana por reducir riesgos y fortalecer las cadenas productivas latinoamericanas.",
+      "link": "https://expansion.mx/economia/2026/08/22/mexico-integracion-america-latina-comercio",
+      "fecha": "22 Aug 2026, 17:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide SHCP que ahorro interno se use en infraestructura",
-      "resumen": "SHCP señaló que se están buscando mecanismos para que las afores puedan ser canalizadas en proyectos de infraestructura.",
-      "link": "https://www.reforma.com/pide-shcp-que-ahorro-interno-se-use-en-infraestructura/ar3263638",
-      "fecha": "24 Aug 2026, 21:15 hrs"
+      "titulo": "Evalúa Banobras esquemas para respaldar proyectos de Pemex",
+      "resumen": "Banobras afirmó estar listo para participar en el financiamiento de proyectos de Pemex; así como optimizar su liquidez.",
+      "link": "https://www.reforma.com/evalua-banobras-esquemas-para-respaldar-proyectos-de-pemex/ar3263618",
+      "fecha": "24 Aug 2026, 20:54 hrs"
     }
   ]
 }
