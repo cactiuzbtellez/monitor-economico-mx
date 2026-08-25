@@ -1,7 +1,25 @@
 {
-  "actualizado": "24/08/2026 19:12 hrs",
+  "actualizado": "24/08/2026 20:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
+      "resumen": "Mientras BBVA concentra la mayor cantidad de créditos y acreditados, Ualá presenta el mayor nivel de morosidad entre las instituciones analizadas.",
+      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
+      "fecha": "24 Aug 2026, 19:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Monte de Piedad lleva casi un año en huelga y la Suprema Corte acaba de entrar al conflicto laboral",
+      "resumen": "La decisión de los ministros podría marcar el rumbo del conflicto y establecer un criterio que también sea utilizado en futuras huelgas en México.",
+      "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
+      "fecha": "24 Aug 2026, 17:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU y Canadá rozaron un acuerdo, pero las negociaciones fracasaron y llegó el arancel de 50%",
-      "resumen": "Después de tres días de conversaciones, Washington y Ottawa se culparon mutuamente por el fracaso del acuerdo. Canadá suspendió las negociaciones y anunció represalias a partir del 8 de septiembre.",
-      "link": "https://expansion.mx/economia/2026/08/22/eu-canada-fracasa-acuerdo-arancel-50",
-      "fecha": "22 Aug 2026, 08:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diésel tendrá el impuesto más bajo del año, Hacienda da subsidio de 83%",
-      "resumen": "Para la semana del 22 al 28 de agosto, cada litro de diésel tendrá una cuota por el Impuesto Especial sobre Producción y Servicios (IEPS) de 1.28 pesos, la más baja reportada en lo que va del año.",
-      "link": "https://expansion.mx/economia/2026/08/21/diesel-gasolinas-impuesto-ieps",
-      "fecha": "21 Aug 2026, 18:25 hrs"
+      "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
+      "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
+      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
+      "fecha": "24 Aug 2026, 17:11 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,22 @@
       "fecha": "23 Aug 2026, 06:45 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El plan de Emilio Azcárraga para llenar estadios: copiar al Harp Helú y vender algo más que futbol",
-      "resumen": "El empresario considera que la operación de recintos como el Harp Helú ofrece pistas para que el futbol conecte con nuevos públicos.",
-      "link": "https://expansion.mx/empresas/2026/08/21/azcarraga-quiere-llevar-el-modelo-del-harp-helu-al-futbol",
-      "fecha": "21 Aug 2026, 13:41 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Evalúa Banobras esquemas para respaldar proyectos de Pemex",
+      "resumen": "Banobras afirmó estar listo para participar en el financiamiento de proyectos de Pemex; así como optimizar su liquidez.",
+      "link": "https://www.reforma.com/evalua-banobras-esquemas-para-respaldar-proyectos-de-pemex/ar3263618",
+      "fecha": "24 Aug 2026, 20:54 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide IP Paquete Económico congruente con situación del País",
+      "resumen": "El CCE prevé que el próximo Paquete Económico sea congruente con la situación del País y transparente en la asignación de recortes.",
+      "link": "https://www.reforma.com/pide-ip-paquete-economico-congruente-con-situacion-del-pais/ar3263572",
+      "fecha": "24 Aug 2026, 20:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "La regulación de derechos de audiencias no debe dar a la CRT facultades en contra de la libertad de expresión, dijo México Evalúa y la AIMX.",
       "link": "https://www.reforma.com/llaman-a-crt-a-evitar-ser-juez-de-medios/ar3263381",
       "fecha": "24 Aug 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanza IED 34,968 mdd; su menor crecimiento desde 2021",
-      "resumen": "En el primer semestre del año, la IED fue de 34 mil 968 millones de dólares, un alza de 2.1 %; su menor tasa de crecimiento desde 2021.",
-      "link": "https://www.reforma.com/alcanza-ied-34-968-mdd-su-menor-crecimiento-desde-2021/ar3263376",
-      "fecha": "24 Aug 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Liga actividad económica 2 meses con reveses",
-      "resumen": "Durante junio, en México, el Indicador Global de la Actividad Económica vio uno ligera reducción de 0.06 por ciento.",
-      "link": "https://www.reforma.com/liga-actividad-economica-2-meses-con-reveses/ar3263338",
-      "fecha": "24 Aug 2026, 12:42 hrs"
     }
   ]
 }
