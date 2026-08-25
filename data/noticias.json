@@ -1,25 +1,7 @@
 {
-  "actualizado": "25/08/2026 14:27 hrs",
+  "actualizado": "25/08/2026 15:27 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
-      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
-      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
-      "fecha": "25 Aug 2026, 11:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
-      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
-      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
-      "fecha": "25 Aug 2026, 11:29 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,42 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
+      "resumen": "La inflación subyacente sorprendió a la baja y avanzó apenas 0.08% en la quincena, frente al 0.14% esperado, y se ubicó en 3.93% anual.",
+      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
+      "fecha": "24 Aug 2026, 07:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
+      "resumen": "La economía mexicana creció ligeramente menos de lo estimado en el indicador oportuno del Inegi. El sector primario fue el que sufrió la mayor revisión a la baja.",
+      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
+      "fecha": "24 Aug 2026, 07:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia Carga cuesta 4 veces menos de operar que un motocarro de carga: ¿cuánto puedes ahorrar por kilómetro?",
+      "resumen": "Para un repartidor, cada kilómetro representa un costo que se acumula durante la jornada y termina impactando directamente sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/08/25/olinia-carga-cuesta-4-veces-menos-que-motocarro-carga-operar",
+      "fecha": "25 Aug 2026, 11:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
+      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
+      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
+      "fecha": "25 Aug 2026, 09:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
@@ -127,24 +145,6 @@
       "resumen": "Viajar por carretera puede representar un ahorro frente al avión, aunque los tiempos de traslado son considerablemente mayores y algunos recorridos requieren conexiones.",
       "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
       "fecha": "23 Aug 2026, 14:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "25 millones de líneas podrían desaparecer del registro: la CRT explica cuáles serán depuradas",
-      "resumen": "Las líneas suspendidas pueden recuperar el servicio una vez que sus usuarios completen la vinculación, pero otras serán eliminadas.",
-      "link": "https://expansion.mx/empresas/2026/08/23/las-lineas-que-podrian-desaparecer-del-registro-la-crt",
-      "fecha": "23 Aug 2026, 12:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
-      "resumen": "La presencia de este material es amplio en nuestra vida cotidiana. Las empresas que lideran este sector también aparecen en las 500 de Expansión.",
-      "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
-      "fecha": "23 Aug 2026, 06:45 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,18 +204,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Brent por debajo de los 90 dólares",
-      "resumen": "El crudo bajó más de 3%, ya que operadores esperan que continúen los esfuerzos diplomáticos entre EU e Irán pese a nueva tanda de sanciones.",
-      "link": "https://www.reforma.com/cierra-brent-por-debajo-de-los-90-dolares/ar3263983",
-      "fecha": "25 Aug 2026, 14:22 hrs"
+      "titulo": "Navega economía global entre crisis y oportunidad.- FMI",
+      "resumen": "Directora del FMI comparó la economía mundial con un barco que navega entre alta inflación y guerras comerciales, mientras avanza por la IA.",
+      "link": "https://www.reforma.com/navega-economia-global-entre-crisis-y-oportunidad-fmi/ar3264006",
+      "fecha": "25 Aug 2026, 14:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza 0.11% valor de producción de constructoras en junio",
-      "resumen": "El valor de producción de las empresas constructoras presentó un aumento de 0.11 por ciento mensual en junio de 2026.",
-      "link": "https://www.reforma.com/avanza-0-11-valor-de-produccion-de-constructoras-en-junio/ar3263970",
+      "titulo": "Cierra Brent por debajo de los 90 dólares",
+      "resumen": "El crudo bajó más de 3%, ya que operadores esperan que continúen los esfuerzos diplomáticos entre EU e Irán pese a nueva tanda de sanciones.",
+      "link": "https://www.reforma.com/cierra-brent-por-debajo-de-los-90-dolares/ar3263983",
       "fecha": "25 Aug 2026, 14:22 hrs"
     }
   ]
