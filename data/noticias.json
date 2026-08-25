@@ -1,5 +1,5 @@
 {
-  "actualizado": "25/08/2026 13:30 hrs",
+  "actualizado": "25/08/2026 14:27 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Palacio de Hierro tiene otro negocio millonario: son dueños de parte de Centro Santa Fe y Angelópolis",
-      "resumen": "La compañía combina su negocio departamental con una división inmobiliaria que generó más ingresos durante el primer semestre de 2026.",
-      "link": "https://expansion.mx/empresas/2026/08/25/palacio-de-hierro-bailleres-plazas-santa-fe-angelopolis",
-      "fecha": "25 Aug 2026, 11:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Carga cuesta 4 veces menos de operar que un motocarro de carga: ¿cuánto puedes ahorrar por kilómetro?",
-      "resumen": "Para un repartidor, cada kilómetro representa un costo que se acumula durante la jornada y termina impactando directamente sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/08/25/olinia-carga-cuesta-4-veces-menos-que-motocarro-carga-operar",
-      "fecha": "25 Aug 2026, 11:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
-      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
-      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
-      "fecha": "25 Aug 2026, 09:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
       "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
       "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
@@ -147,6 +120,33 @@
       "fecha": "24 Aug 2026, 08:19 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De CDMX a Estados Unidos en autobús: Flix y Greyhound tienen una red que cruza la frontera",
+      "resumen": "Viajar por carretera puede representar un ahorro frente al avión, aunque los tiempos de traslado son considerablemente mayores y algunos recorridos requieren conexiones.",
+      "link": "https://expansion.mx/empresas/2026/08/23/cdmx-estados-unidos-autobus-flix-precios-ciudades-requisitos",
+      "fecha": "23 Aug 2026, 14:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "25 millones de líneas podrían desaparecer del registro: la CRT explica cuáles serán depuradas",
+      "resumen": "Las líneas suspendidas pueden recuperar el servicio una vez que sus usuarios completen la vinculación, pero otras serán eliminadas.",
+      "link": "https://expansion.mx/empresas/2026/08/23/las-lineas-que-podrian-desaparecer-del-registro-la-crt",
+      "fecha": "23 Aug 2026, 12:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De la matriz de Scribe a Smurfit Westrock: los gigantes que dominan el negocio del papel en México",
+      "resumen": "La presencia de este material es amplio en nuestra vida cotidiana. Las empresas que lideran este sector también aparecen en las 500 de Expansión.",
+      "link": "https://expansion.mx/empresas/2026/08/23/3-empresas-lideran-papel-libretas-carton",
+      "fecha": "23 Aug 2026, 06:45 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "La prioridad de la política pública es digitalizar la economía 'lo más rápido posible' y disminuir el uso del efectivo, dijo la SHCP.",
       "link": "https://www.reforma.com/busca-shcp-digitalizar-economia-lo-mas-rapido-posible/ar3263927",
       "fecha": "25 Aug 2026, 12:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Exigen marco de propiedad intelectual sólido en medicamentos",
+      "resumen": "Una soberanía científica requiere un marco de propiedad intelectual sólido y predecible, aseguró Anafam.",
+      "link": "https://www.reforma.com/exigen-marco-de-propiedad-intelectual-solido-en-medicamentos/ar3263959",
+      "fecha": "25 Aug 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,6 +186,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Invertirá Genux 165 mdd en 2 centrales en Edomex",
+      "resumen": "Con una inversión de 165 millones de dólares, Genux construirá las centrales eléctricas solares Lagartija y Ocelote en el Estado de México.",
+      "link": "https://www.reforma.com/invertira-genux-165-mdd-en-2-centrales-en-edomex/ar3263946",
+      "fecha": "25 Aug 2026, 14:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Rondan bonos de México la 'categoría basura' gracias a Pemex",
       "resumen": "Con su crisis de deuda, Pemex está arrastrando consigo, de forma gradual, a todo el gobierno y agravando sus dificultades fiscales.",
       "link": "https://www.reforma.com/rondan-bonos-de-mexico-la-categoria-basura-gracias-a-pemex/ar3263774",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Produce EU menos y castiga a agroproductos",
-      "resumen": "Detrás de investigaciones antidumping de EU a cultivos mexicanos se encuentra declive de producción hortofrutícola de la Unión Americana.",
-      "link": "https://www.reforma.com/produce-eu-menos-y-castiga-a-agroproductos/ar3263623",
-      "fecha": "25 Aug 2026, 07:06 hrs"
+      "titulo": "Cierra Brent por debajo de los 90 dólares",
+      "resumen": "El crudo bajó más de 3%, ya que operadores esperan que continúen los esfuerzos diplomáticos entre EU e Irán pese a nueva tanda de sanciones.",
+      "link": "https://www.reforma.com/cierra-brent-por-debajo-de-los-90-dolares/ar3263983",
+      "fecha": "25 Aug 2026, 14:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube en semestre 22.4% IED en NL",
-      "resumen": "En primer semestre, NL captó 3,712 mdd de IED, 22.4% más en relación con el mismo periodo de 2025.",
-      "link": "https://www.reforma.com/sube-en-semestre-22-4-ied-en-nl/ar3263620",
-      "fecha": "25 Aug 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsa gasto educativo las aportaciones en NL",
-      "resumen": "En el primer semestre de este año, Nuevo León recibió 18 mil 471.30 millones de pesos por concepto de aportaciones federales.",
-      "link": "https://www.reforma.com/impulsa-gasto-educativo-las-aportaciones-en-nl/ar3263660",
-      "fecha": "25 Aug 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanza Index NL plataforma de proveedores confiables",
-      "resumen": "Index NL lanzará en septiembre la plataforma Proveedor Confiable para la Industria Manufacturera (Procim).",
-      "link": "https://www.reforma.com/lanza-index-nl-plataforma-de-proveedores-confiables/ar3263832",
-      "fecha": "25 Aug 2026, 09:52 hrs"
+      "titulo": "Avanza 0.11% valor de producción de constructoras en junio",
+      "resumen": "El valor de producción de las empresas constructoras presentó un aumento de 0.11 por ciento mensual en junio de 2026.",
+      "link": "https://www.reforma.com/avanza-0-11-valor-de-produccion-de-constructoras-en-junio/ar3263970",
+      "fecha": "25 Aug 2026, 14:22 hrs"
     }
   ]
 }
