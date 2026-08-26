@@ -1,16 +1,7 @@
 {
-  "actualizado": "26/08/2026 10:16 hrs",
+  "actualizado": "26/08/2026 13:01 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México está en el top 3 de fricción con China, pero 66.2% de sus empresas confía en el país",
-      "resumen": "Estados Unidos busca limitar inversiones, insumos y componentes chinos en las cadenas productivas de México durante la revisión del T-MEC.",
-      "link": "https://expansion.mx/economia/2026/08/26/friccion-comercial-china-empresas-mexico",
-      "fecha": "26 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
-      "resumen": "La cadena llegó a 3,084 unidades, mientras sus gastos operativos crecen más rápido que las ventas y la utilidad neta cayó 4.9% en el primer semestre.",
-      "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
-      "fecha": "26 Aug 2026, 05:55 hrs"
+      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
+      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
+      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
+      "fecha": "25 Aug 2026, 05:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,13 +138,31 @@
       "fecha": "25 Aug 2026, 11:20 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
+      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
+      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
+      "fecha": "25 Aug 2026, 09:25 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acude CFE a Bolsa por más recursos",
-      "resumen": "Ante la falta de recursos para invertir, la CFE recargará su estrategia financiera en el mercado capitales.",
-      "link": "https://www.reforma.com/acude-cfe-a-bolsa-por-mas-recursos/ar3264379",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Acota CRT su intervención en contenido de medios",
+      "resumen": "Acota CRT su intervención en contenido de medios tras consulta sobre derechos de las audiencias.",
+      "link": "https://www.reforma.com/acota-crt-su-intervencion-en-contenido-de-medios/ar3264673",
+      "fecha": "26 Aug 2026, 12:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge Canaco a combatir redes de comercio ilegal",
+      "resumen": "La Canaco Ciudad de México urgió a que se cambie la estrategia para desarticular redes de comercio ilegal.",
+      "link": "https://www.reforma.com/urge-canaco-a-combatir-redes-de-comercio-ilegal/ar3264637",
+      "fecha": "26 Aug 2026, 11:54 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,9 +177,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suman informales récord de 33 millones",
-      "resumen": "De abril a junio, las personas empleadas en la informalidad ascendió a 33 millones 83 mil 675; 494 mil 607 más que igual periodo de 2025.",
-      "link": "https://www.reforma.com/suman-informales-record-de-33-millones/ar3264371",
+      "titulo": "Acude CFE a Bolsa por más recursos",
+      "resumen": "Ante la falta de recursos para invertir, la CFE recargará su estrategia financiera en el mercado capitales.",
+      "link": "https://www.reforma.com/acude-cfe-a-bolsa-por-mas-recursos/ar3264379",
       "fecha": "26 Aug 2026, 05:01 hrs"
     },
     {
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen a 3.1% ingresos de hidrocarburos",
-      "resumen": "Los ingresos por hidrocarburos en AL y el Caribe cayeron de 4.4% del PIB en 2022 a 3.1% en 2024, reveló Cepal.",
-      "link": "https://www.reforma.com/caen-a-3-1-ingresos-de-hidrocarburos/ar3264363",
-      "fecha": "26 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan por mal uso de visas",
-      "resumen": "Exceder el tiempo autorizado o utilizar tu visa para actividades ajenas a las permitidas pueden arriesgar tu estatus migratorio.",
-      "link": "https://www.reforma.com/alertan-por-mal-uso-de-visas/ar3264340",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Buscan desarrollar liderazgo en organismos de IP",
+      "resumen": "A través de ANDAMOS, los agremiados impulsan el desarrollo de los actuales directores y de los nuevos liderazgos que los relevarán.",
+      "link": "https://www.reforma.com/buscan-desarrollar-liderazgo-en-organismos-de-ip/ar3264691",
+      "fecha": "26 Aug 2026, 12:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,9 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presiona el pollo brasileño a México",
-      "resumen": "Para productores avícolas, el aumento de las importaciones de pollo desde Brasil ya es un tema que causa estragos en la producción nacional.",
-      "link": "https://www.reforma.com/presiona-el-pollo-brasileno-a-mexico/ar3264330",
+      "titulo": "Suman informales récord de 33 millones",
+      "resumen": "De abril a junio, las personas empleadas en la informalidad ascendió a 33 millones 83 mil 675; 494 mil 607 más que igual periodo de 2025.",
+      "link": "https://www.reforma.com/suman-informales-record-de-33-millones/ar3264371",
       "fecha": "26 Aug 2026, 05:01 hrs"
     }
   ]
