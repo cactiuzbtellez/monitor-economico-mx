@@ -1,7 +1,16 @@
 {
-  "actualizado": "26/08/2026 13:01 hrs",
+  "actualizado": "26/08/2026 16:45 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México está en el top 3 de fricción con China, pero 66.2% de sus empresas confía en el país",
+      "resumen": "Estados Unidos busca limitar inversiones, insumos y componentes chinos en las cadenas productivas de México durante la revisión del T-MEC.",
+      "link": "https://expansion.mx/economia/2026/08/26/mexico-friccion-comercial-china-empresas-confian-pais",
+      "fecha": "26 Aug 2026, 09:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los impuestos financiarán 70% del gasto público en 2027, un máximo desde 1990",
-      "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
-      "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
-      "fecha": "25 Aug 2026, 05:54 hrs"
+      "titulo": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
+      "resumen": "La cadena llegó a 3,084 unidades, mientras sus gastos operativos crecen más rápido que las ventas y la utilidad neta cayó 4.9% en el primer semestre.",
+      "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
+      "fecha": "26 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,31 @@
       "fecha": "25 Aug 2026, 11:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
-      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
-      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
-      "fecha": "25 Aug 2026, 09:25 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube Banxico a 1.5% pronóstico de PIB para 2026",
+      "resumen": "Banxico subió a 1.5 por ciento su pronóstico de crecimiento económico en 2026 pese a incertidumbre por T-MEC.",
+      "link": "https://www.reforma.com/sube-banxico-a-1-5-pronostico-de-pib-para-2026/ar3264707",
+      "fecha": "26 Aug 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descarta ICC ruptura comercial en Norteamérica",
+      "resumen": "Para México y EU el alto grado de integración comercial es tan fuerte que se mantendrá, pese a las tensiones, dijo la ICC.",
+      "link": "https://www.reforma.com/descarta-icc-ruptura-comercial-en-norteamerica/ar3264777",
+      "fecha": "26 Aug 2026, 14:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierte Monte de Piedad nuevo juicio por veredicto de SCJN",
+      "resumen": "Nacional Monte de Piedad advirtió que declarar legal la huelga de sus trabajadores por parte de la SCJN provocaría un nuevo juicio.",
+      "link": "https://www.reforma.com/advierte-monte-de-piedad-nuevo-juicio-por-veredicto-de-scjn/ar3264828",
+      "fecha": "26 Aug 2026, 15:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge Canaco a combatir redes de comercio ilegal",
-      "resumen": "La Canaco Ciudad de México urgió a que se cambie la estrategia para desarticular redes de comercio ilegal.",
-      "link": "https://www.reforma.com/urge-canaco-a-combatir-redes-de-comercio-ilegal/ar3264637",
-      "fecha": "26 Aug 2026, 11:54 hrs"
+      "titulo": "Ayudan empresas a restaurar Cuenca del Río Bravo",
+      "resumen": "Más de 15 empresas lideradas por Heineken México, lanzaron el programa \"Manos al agua\" para rehabilitar la Cuenca del Río Bravo.",
+      "link": "https://www.reforma.com/ayudan-empresas-a-restaurar-cuenca-del-rio-bravo/ar3264736",
+      "fecha": "26 Aug 2026, 14:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Castigan vínculos con deudores al SAT",
-      "resumen": "Mediante una especie de \"buró de incumplimiento\", el SAT ya niega la inscripción en RFC a nuevos negocios.",
-      "link": "https://www.reforma.com/castigan-vinculos-con-deudores-al-sat/ar3264352",
-      "fecha": "26 Aug 2026, 07:01 hrs"
+      "titulo": "Harta a los negocios el ambiente político.- Concanaco",
+      "resumen": "Los pequeños negocios están cansados del 'espectáculo' que se da en materia política, a nivel nacional, destacó Concanaco.",
+      "link": "https://www.reforma.com/harta-a-los-negocios-el-ambiente-politico-concanaco/ar3264741",
+      "fecha": "26 Aug 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acude CFE a Bolsa por más recursos",
-      "resumen": "Ante la falta de recursos para invertir, la CFE recargará su estrategia financiera en el mercado capitales.",
-      "link": "https://www.reforma.com/acude-cfe-a-bolsa-por-mas-recursos/ar3264379",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Piden plan en minerales críticos",
+      "resumen": "Industria minera propone crear un plan de minerales críticos que incluya inversiones en refinación; así como un capítulo dentro del T-MEC.",
+      "link": "https://www.reforma.com/piden-plan-en-minerales-criticos/ar3264763",
+      "fecha": "26 Aug 2026, 14:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pagará Meta 16,700 mdd a estados de EU por daño a menores",
-      "resumen": "Meta acordó pagar 16,680 mdd para resolver demandas presentadas por estados de EU sobre fallas en protección infantil y adicción a redes.",
-      "link": "https://www.reforma.com/pagara-meta-16-700-mdd-a-estados-de-eu-por-dano-a-menores/ar3264512",
-      "fecha": "26 Aug 2026, 07:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan desarrollar liderazgo en organismos de IP",
-      "resumen": "A través de ANDAMOS, los agremiados impulsan el desarrollo de los actuales directores y de los nuevos liderazgos que los relevarán.",
-      "link": "https://www.reforma.com/buscan-desarrollar-liderazgo-en-organismos-de-ip/ar3264691",
-      "fecha": "26 Aug 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Analiza Trane construir  su quinta planta en NL",
-      "resumen": "La compañía estadounidense Trane analiza construir su quinta planta dentro del campus industrial que opera en Apodaca.",
-      "link": "https://www.reforma.com/analiza-trane-construir-su-quinta-planta-en-nl/ar3264385",
-      "fecha": "26 Aug 2026, 07:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suman informales récord de 33 millones",
-      "resumen": "De abril a junio, las personas empleadas en la informalidad ascendió a 33 millones 83 mil 675; 494 mil 607 más que igual periodo de 2025.",
-      "link": "https://www.reforma.com/suman-informales-record-de-33-millones/ar3264371",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Desacelera preferencia por autos seminuevos",
+      "resumen": "En el primer semestre de 2026, la participación del segmento de seminuevos en la venta de autos se redujo 2.4% anual, reveló MStar.",
+      "link": "https://www.reforma.com/desacelera-preferencia-por-autos-seminuevos/ar3264840",
+      "fecha": "26 Aug 2026, 15:53 hrs"
     }
   ]
 }
