@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/08/2026 05:28 hrs",
+  "actualizado": "26/08/2026 06:50 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
+      "resumen": "La cadena llegó a 3,084 unidades, mientras sus gastos operativos crecen más rápido que las ventas y la utilidad neta cayó 4.9% en el primer semestre.",
+      "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
+      "fecha": "26 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
       "resumen": "El puerto de Lázaro Cárdenas pasó de atender el boom de los autos asiáticos a enfrentar un escenario más moderado, luego de que los vehículos fabricados en China, India, Indonesia y Tailandia comenzar…",
       "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
@@ -136,15 +145,6 @@
       "resumen": "Para un repartidor, cada kilómetro representa un costo que se acumula durante la jornada y termina impactando directamente sus ingresos.",
       "link": "https://expansion.mx/empresas/2026/08/25/olinia-carga-cuesta-4-veces-menos-que-motocarro-carga-operar",
       "fecha": "25 Aug 2026, 11:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
-      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
-      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
-      "fecha": "25 Aug 2026, 09:25 hrs"
     },
     {
       "fuente": "Reforma",
