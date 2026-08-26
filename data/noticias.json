@@ -1,7 +1,16 @@
 {
-  "actualizado": "25/08/2026 23:33 hrs",
+  "actualizado": "26/08/2026 00:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los jóvenes gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta",
+      "resumen": "El pago con tarjeta no solo cambia la forma de comprar en la tiendita, también eleva el ticket promedio y el número de productos adquiridos.",
+      "link": "https://expansion.mx/economia/2026/08/25/jovenes-gastan-mas-tiendita-esquina-cuando-pagan-tarjeta",
+      "fecha": "25 Aug 2026, 19:40 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La caída de los ingresos petroleros eleva la dependencia fiscal de México, mientras Hacienda busca aumentar la recaudación sin crear nuevos impuestos.",
       "link": "https://expansion.mx/economia/2026/08/25/impuestos-2027-paquete-economico",
       "fecha": "25 Aug 2026, 05:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Ualá, BBVA o Banorte? Estos bancos tienen más créditos sin pagar",
-      "resumen": "Mientras BBVA concentra la mayor cantidad de créditos y acreditados, Ualá presenta el mayor nivel de morosidad entre las instituciones analizadas.",
-      "link": "https://expansion.mx/economia/2026/08/24/uala-bbva-banorte-bancos-mas-creditos-sin-pagar",
-      "fecha": "24 Aug 2026, 19:11 hrs"
     },
     {
       "fuente": "Expansión",
