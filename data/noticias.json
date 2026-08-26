@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/08/2026 19:15 hrs",
+  "actualizado": "25/08/2026 21:03 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
+      "resumen": "Moody’s anticipa un T-MEC con más negociaciones bilaterales; Fitch alerta que la escalada arancelaria sacudirá la cadena automotriz.",
+      "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
+      "fecha": "25 Aug 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
+      "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
+      "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
+      "fecha": "25 Aug 2026, 15:43 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,33 +73,6 @@
       "resumen": "La decisión de los ministros podría marcar el rumbo del conflicto y establecer un criterio que también sea utilizado en futuras huelgas en México.",
       "link": "https://expansion.mx/economia/2026/08/24/scjn-monte-de-piedad-puede-poner-fin-a-la-huelga",
       "fecha": "24 Aug 2026, 17:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "IED alcanza récord de 34,968 mdd en México en primer semestre, pero modera su crecimiento",
-      "resumen": "Las empresas extranjeras reinvirtieron 30,957 mdd de sus utilidades en México, mientras las nuevas inversiones sumaron 2,726 mdd.",
-      "link": "https://expansion.mx/economia/2026/08/24/ied-mexico-record-primer-semestre-2026",
-      "fecha": "24 Aug 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trump endurece el golpe a Canadá: autos, autopartes y acero enfrentarán arancel de 50%",
-      "resumen": "El presidente estadounidense eleva la presión sobre Canadá después del fracaso de las negociaciones comerciales.",
-      "link": "https://expansion.mx/economia/2026/08/24/trump-endurece-arancel-50-autos-acero-canada",
-      "fecha": "24 Aug 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
-      "resumen": "El puerto de Lázaro Cárdenas pasó de atender el boom de los autos asiáticos a enfrentar un escenario más moderado, luego de que los vehículos fabricados en China, India, Indonesia y Tailandia comenzar…",
-      "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
-      "fecha": "25 Aug 2026, 17:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +138,24 @@
       "fecha": "25 Aug 2026, 09:25 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
+      "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
+      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
+      "fecha": "24 Aug 2026, 17:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "El 'superpeso' volvió: qué lo impulsa y quién gana y pierde",
+      "resumen": "Pese a los pronósticos de Banxico y Wall Street y un entorno de volatilidad el peso ha logrado cotizarse por debajo de los $17 por dólar.",
+      "link": "https://www.reforma.com/el-superpeso-volvio-que-lo-impulsa-y-quien-gana-y-pierde/ar3264218",
+      "fecha": "25 Aug 2026, 19:34 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -207,15 +216,6 @@
       "titulo": "Cierra crudo Brent por debajo de los 90 dólares",
       "resumen": "El precio del barril Brent perdió un 3.89%, hasta los 88.58 dólares, mientras que el WTI retrocedió un 3.12%, a 82.36 dólares.",
       "link": "https://www.reforma.com/cierra-crudo-brent-por-debajo-de-los-90-dolares/ar3263983",
-      "fecha": "25 Aug 2026, 14:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Avanza 0.11% valor producción constructoras en junio",
-      "resumen": "El valor de producción de las empresas constructoras presentó un aumento de 0.11 por ciento mensual en junio de 2026.",
-      "link": "https://www.reforma.com/avanza-0-11-valor-produccion-constructoras-en-junio/ar3263970",
       "fecha": "25 Aug 2026, 14:22 hrs"
     }
   ]
