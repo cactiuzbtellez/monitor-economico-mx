@@ -1,5 +1,5 @@
 {
-  "actualizado": "25/08/2026 21:03 hrs",
+  "actualizado": "25/08/2026 22:38 hrs",
   "total": 24,
   "noticias": [
     {
@@ -17,7 +17,7 @@
       "color": "#C8102E",
       "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
       "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
-      "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
+      "link": "https://expansion.mx/economia/2026/08/25/remesas-exportadores-turismo-victimas-peso-mexicano",
       "fecha": "25 Aug 2026, 15:43 hrs"
     },
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "SUVs híbridas: opciones para evitar el Hoy No Circula y contingencias ambientales",
-      "resumen": "Estos modelos de SUVs destacan por las características con las que cuentan, desde precio hasta un gran rendimiento de combustible.",
-      "link": "https://expansion.mx/empresas/2026/08/25/suvs-hibridas-evitar-hoy-no-circula-contingencia-ambiental",
-      "fecha": "25 Aug 2026, 17:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Telcel o AT&T? La telefónica que ha perdido 1.7 millones de usuarios en medio del registro telefónico obligatorio",
-      "resumen": "El registro obligatorio de líneas reduce la rotación de usuarios y cambia la competencia entre las principales compañías telefónicas.",
-      "link": "https://expansion.mx/empresas/2026/08/25/telcel-att-pierde-1-7-millones-usuarios-registro-telefonico",
-      "fecha": "25 Aug 2026, 16:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Natura duplicará su producción en México para reducir las  importaciones de sus productos",
-      "resumen": "La empresa brasileña elevará de 30% a 60% la proporción de productos Natura fabricados en el país durante 2027, con una ampliación de su planta en Guanajuato y el desarrollo de proveedores locales.",
-      "link": "https://expansion.mx/empresas/2026/08/25/natura-fabricara-60-por-ciento-productos-mexico-2027",
-      "fecha": "25 Aug 2026, 16:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Antes de Televisa, Emilio Azcárraga Vidaurreta vendía autos Ford y fundó su propia distribuidora en Monterrey",
       "resumen": "La historia empresarial de la dinastía Azcárraga comenzó lejos de los medios: pasó por la venta de vehículos, los fonógrafos y la música antes de llegar a la radio.",
       "link": "https://expansion.mx/empresas/2026/08/25/emilio-azcarraga-vidaurreta-venta-autos-ford",
@@ -145,6 +118,33 @@
       "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
       "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
       "fecha": "24 Aug 2026, 17:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia Carga llegará en 2027, pero ya tiene rivales desde 25,000 pesos y con hasta 700 kg de carga",
+      "resumen": "Antes de elegir una alternativa eléctrica para reparto, hay diferencias de autonomía, capacidad y operación que pueden hacer más adecuado un modelo que otro.",
+      "link": "https://expansion.mx/empresas/2026/08/24/olinia-carga-rivales-desde-25-000-pesos",
+      "fecha": "24 Aug 2026, 14:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait se alía con OXXO para ampliar recargas a sus 26.8 millones de usuarios",
+      "resumen": "Los clientes de Bait tendrán nuevos puntos para realizar recargas gracias a un acuerdo con OXXO, que suma más de 24,000 establecimientos y la plataforma Spin by OXXO.",
+      "link": "https://expansion.mx/empresas/2026/08/24/bait-alia-oxxo-recargas",
+      "fecha": "24 Aug 2026, 12:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué pasa con el registro al comprar un chip nuevo? Hicimos el ejercicio con dos líneas telefónicas",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/08/24/comprar-nuevo-chip-evita-registro-telefonico",
+      "fecha": "24 Aug 2026, 08:44 hrs"
     },
     {
       "fuente": "Reforma",
