@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/08/2026 06:50 hrs",
+  "actualizado": "26/08/2026 07:53 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
-      "resumen": "La cadena llegó a 3,084 unidades, mientras sus gastos operativos crecen más rápido que las ventas y la utilidad neta cayó 4.9% en el primer semestre.",
-      "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
-      "fecha": "26 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
       "resumen": "El puerto de Lázaro Cárdenas pasó de atender el boom de los autos asiáticos a enfrentar un escenario más moderado, luego de que los vehículos fabricados en China, India, Indonesia y Tailandia comenzar…",
       "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
@@ -147,6 +138,15 @@
       "fecha": "25 Aug 2026, 11:20 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen anuncia 50,000 despidos adicionales en medio de su peor crisis en años",
+      "resumen": "La automotriz intenta contener su crisis sin cerrar plantas, mientras los trabajadores exigen compromisos concretos sobre su futuro industrial.",
+      "link": "https://expansion.mx/empresas/2026/08/25/volkswagen-anuncia-50-000-despidos",
+      "fecha": "25 Aug 2026, 09:25 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,27 +159,27 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suman informales 33 millones, cifra récord",
+      "titulo": "Castigan vínculos con deudores al SAT",
+      "resumen": "Mediante una especie de \"buró de incumplimiento\", el SAT ya niega la inscripción en RFC a nuevos negocios.",
+      "link": "https://www.reforma.com/castigan-vinculos-con-deudores-al-sat/ar3264352",
+      "fecha": "26 Aug 2026, 07:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suman informales récord de 33 millones",
       "resumen": "De abril a junio, las personas empleadas en la informalidad ascendió a 33 millones 83 mil 675; 494 mil 607 más que igual periodo de 2025.",
-      "link": "https://www.reforma.com/suman-informales-33-millones-cifra-record/ar3264371",
+      "link": "https://www.reforma.com/suman-informales-record-de-33-millones/ar3264371",
       "fecha": "26 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen a 3.1% ingresos de los hidrocarburos",
+      "titulo": "Caen a 3.1% ingresos de hidrocarburos",
       "resumen": "Los ingresos por hidrocarburos en AL y el Caribe cayeron de 4.4% del PIB en 2022 a 3.1% en 2024, reveló Cepal.",
-      "link": "https://www.reforma.com/caen-a-3-1-ingresos-de-los-hidrocarburos/ar3264363",
-      "fecha": "26 Aug 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece 1.2% tráfico del AICM",
-      "resumen": "El AICM movilizó 25 millones 982 mil 584 pasajeros de enero a julio de 2026, un alza de 1.2 por ciento respecto del mismo periodo de 2025.",
-      "link": "https://www.reforma.com/crece-1-2-trafico-del-aicm/ar3264349",
+      "link": "https://www.reforma.com/caen-a-3-1-ingresos-de-hidrocarburos/ar3264363",
       "fecha": "26 Aug 2026, 05:01 hrs"
     },
     {
@@ -195,19 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Capacita a su personal solo 10% de empresas",
-      "resumen": "Pese a que la IA reconfigurará muchos perfiles profesionales, solo 10% de ñas empresas invierte en la capacitación de su personal.",
-      "link": "https://www.reforma.com/capacita-a-su-personal-solo-10-de-empresas/ar3264337",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Pagará Meta 16,700 mdd para resolver caso de daño a menores",
+      "resumen": "Meta mantiene conversaciones con varios estados de EU para resolver de forma extrajudicial una demanda sobre la seguridad de menores.",
+      "link": "https://www.reforma.com/pagara-meta-16-700-mdd-para-resolver-caso-de-dano-a-menores/ar3264512",
+      "fecha": "26 Aug 2026, 07:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen ciberataques hasta 40%",
-      "resumen": "Ciberataques aumentan 40% al año, mientras que la IA obliga a empresas a reducir los tiempos de actualización de sus equipos, reveló F5.",
-      "link": "https://www.reforma.com/crecen-ciberataques-hasta-40/ar3264333",
-      "fecha": "26 Aug 2026, 05:01 hrs"
+      "titulo": "Analiza Trane construir  su quinta planta en NL",
+      "resumen": "La compañía estadounidense Trane analiza construir su quinta planta dentro del campus industrial que opera en Apodaca.",
+      "link": "https://www.reforma.com/analiza-trane-construir-su-quinta-planta-en-nl/ar3264385",
+      "fecha": "26 Aug 2026, 07:01 hrs"
     },
     {
       "fuente": "Reforma",
