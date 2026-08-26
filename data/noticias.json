@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/08/2026 17:23 hrs",
+  "actualizado": "25/08/2026 19:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
+      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
+      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
+      "fecha": "25 Aug 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
+      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
+      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
+      "fecha": "25 Aug 2026, 11:29 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Inflación llega a 3.26% en la primera quincena de agosto, por debajo de lo esperado",
-      "resumen": "La inflación subyacente sorprendió a la baja y avanzó apenas 0.08% en la quincena, frente al 0.14% esperado, y se ubicó en 3.93% anual.",
-      "link": "https://expansion.mx/economia/2026/08/24/inflacion-primera-quincena-agosto-inegi",
-      "fecha": "24 Aug 2026, 07:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crece 1.4% en segundo trimestre, menos de lo previsto",
-      "resumen": "La economía mexicana creció ligeramente menos de lo estimado en el indicador oportuno del Inegi. El sector primario fue el que sufrió la mayor revisión a la baja.",
-      "link": "https://expansion.mx/economia/2026/08/24/pib-mexico-crece-1-4-segundo-trimestre-menos-previsto-inegi",
-      "fecha": "24 Aug 2026, 07:29 hrs"
+      "titulo": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
+      "resumen": "El puerto de Lázaro Cárdenas pasó de atender el boom de los autos asiáticos a enfrentar un escenario más moderado, luego de que los vehículos fabricados en China, India, Indonesia y Tailandia comenzar…",
+      "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
+      "fecha": "25 Aug 2026, 17:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,67 +147,49 @@
       "fecha": "25 Aug 2026, 09:25 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ollamani de Azcárraga no solo tiene el Azteca, también posee terrenos millonarios y hasta un teatro antiguo",
-      "resumen": "La compañía que controla el equipo de futbol también tiene propiedades que forman parte de su estrategia de negocio y que pocas veces aparecen cuando se habla de su patrimonio.",
-      "link": "https://expansion.mx/empresas/2026/08/24/ollamani-terrenos-millonarios-azcarraga",
-      "fecha": "24 Aug 2026, 17:11 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invirtió Peñoles 776 mdd en exploración y activos",
+      "resumen": "Grupo Peñoles informó que en 2025 invirtió alrededor de 776 millones de dólares en exploración y activos para sostener su operación.",
+      "link": "https://www.reforma.com/invirtio-penoles-776-mdd-en-exploracion-y-activos/ar3264145",
+      "fecha": "25 Aug 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca SHCP digitalizar economía 'lo más rápido posible'",
-      "resumen": "La prioridad de la política pública es digitalizar la economía 'lo más rápido posible' y disminuir el uso del efectivo, dijo la SHCP.",
-      "link": "https://www.reforma.com/busca-shcp-digitalizar-economia-lo-mas-rapido-posible/ar3263927",
-      "fecha": "25 Aug 2026, 12:22 hrs"
+      "titulo": "Plantean 16 reformas a los impuestos saludables",
+      "resumen": "La AJF y el SUR plantearon 16 propuestas de reforma al cobro y gasto de los impuestos saludables.",
+      "link": "https://www.reforma.com/plantean-16-reformas-a-los-impuestos-saludables/ar3264133",
+      "fecha": "25 Aug 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exigen marco de propiedad intelectual sólido en medicamentos",
-      "resumen": "Una soberanía científica requiere un marco de propiedad intelectual sólido y predecible, aseguró Anafam.",
-      "link": "https://www.reforma.com/exigen-marco-de-propiedad-intelectual-solido-en-medicamentos/ar3263959",
-      "fecha": "25 Aug 2026, 14:13 hrs"
+      "titulo": "Presiona desacuerdo EU-Canadá certidumbre del T-MEC",
+      "resumen": "Los aranceles anunciados por EU en contra de Canadá, aportan incertidumbre a las negociaciones del T-MEC, dijo Moody's Raitings.",
+      "link": "https://www.reforma.com/presiona-desacuerdo-eu-canada-certidumbre-del-t-mec/ar3264099",
+      "fecha": "25 Aug 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disminuye desocupación a 2.67% en trimestre",
-      "resumen": "En el segundo trimestre del año, la Tasa de Desocupación del País (TD) bajó 0.04 puntos porcentuales a 2.6% de la PEA.",
-      "link": "https://www.reforma.com/disminuye-desocupacion-a-2-67-en-trimestre/ar3263914",
-      "fecha": "25 Aug 2026, 11:56 hrs"
+      "titulo": "Pide Concamin priorizar lo nacional en compras públicas",
+      "resumen": "Concamin solicitó se priorice la proveeduría nacional en las compras públicas así como igualdad de condiciones para competir.",
+      "link": "https://www.reforma.com/pide-concamin-priorizar-lo-nacional-en-compras-publicas/ar3264082",
+      "fecha": "25 Aug 2026, 17:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Canadá aranceles de represalia contra EU por 20 mmdd",
-      "resumen": "Canadá anunció aranceles de represalia sobre productos estadounidenses por un valor aproximado de 20 mil millones de dólares.",
-      "link": "https://www.reforma.com/anuncia-canada-aranceles-de-represalia-contra-eu-por-20-mmdd/ar3263810",
-      "fecha": "25 Aug 2026, 09:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Invertirá Genux 165 mdd en 2 centrales en Edomex",
-      "resumen": "Con una inversión de 165 millones de dólares, Genux construirá las centrales eléctricas solares Lagartija y Ocelote en el Estado de México.",
-      "link": "https://www.reforma.com/invertira-genux-165-mdd-en-2-centrales-en-edomex/ar3263946",
-      "fecha": "25 Aug 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Rondan bonos de México la 'categoría basura' gracias a Pemex",
-      "resumen": "Con su crisis de deuda, Pemex está arrastrando consigo, de forma gradual, a todo el gobierno y agravando sus dificultades fiscales.",
-      "link": "https://www.reforma.com/rondan-bonos-de-mexico-la-categoria-basura-gracias-a-pemex/ar3263774",
-      "fecha": "25 Aug 2026, 07:42 hrs"
+      "titulo": "Lanzará Waymo servicio de robotaxi en Alemania en 2027",
+      "resumen": "Waymo lanzará viajes sin conductor en Alemania para 2027, entrando así en su tercer mercado fuera de Estados Unidos y el primero en la UE.",
+      "link": "https://www.reforma.com/lanzara-waymo-servicio-de-robotaxi-en-alemania-en-2027/ar3264031",
+      "fecha": "25 Aug 2026, 15:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,9 +204,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Brent por debajo de los 90 dólares",
-      "resumen": "El crudo bajó más de 3%, ya que operadores esperan que continúen los esfuerzos diplomáticos entre EU e Irán pese a nueva tanda de sanciones.",
-      "link": "https://www.reforma.com/cierra-brent-por-debajo-de-los-90-dolares/ar3263983",
+      "titulo": "Cierra crudo Brent por debajo de los 90 dólares",
+      "resumen": "El precio del barril Brent perdió un 3.89%, hasta los 88.58 dólares, mientras que el WTI retrocedió un 3.12%, a 82.36 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-por-debajo-de-los-90-dolares/ar3263983",
+      "fecha": "25 Aug 2026, 14:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Avanza 0.11% valor producción constructoras en junio",
+      "resumen": "El valor de producción de las empresas constructoras presentó un aumento de 0.11 por ciento mensual en junio de 2026.",
+      "link": "https://www.reforma.com/avanza-0-11-valor-produccion-constructoras-en-junio/ar3263970",
       "fecha": "25 Aug 2026, 14:22 hrs"
     }
   ]
