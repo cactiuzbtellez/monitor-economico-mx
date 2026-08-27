@@ -1,41 +1,14 @@
 {
-  "actualizado": "26/08/2026 22:17 hrs",
+  "actualizado": "27/08/2026 10:06 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "México puede duplicar su industria aeroespacial, pero la inversión pierde vuelo",
-      "resumen": "La inversión extranjera en el sector pasó de 340.7 a 171.8 millones de dólares en un año, pese al crecimiento de las exportaciones aeroespaciales.",
-      "link": "https://expansion.mx/economia/2026/08/26/industria-aeroespacial-mexico-inversion-baja",
-      "fecha": "26 Aug 2026, 15:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banxico se pone optimista y mejora a 1.5% su pronóstico para la economía mexicana en 2026",
-      "resumen": "El ajuste obedece al mejor desempeño al esperado en el segundo trimestre, informó Victoria Rodríguez Ceja, gobernadora del banco central. Para 2027, redujo ligeramente a la baja a 2%",
-      "link": "https://expansion.mx/economia/2026/08/26/banxico-economia-pib-2026-1-5",
-      "fecha": "26 Aug 2026, 13:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cetes: el plazo que hoy paga hasta 7.06% mientras otros se quedan en 6.13%",
-      "resumen": "Las tasas cambiaron en la última actualización y no todos los plazos se movieron igual; además, la inflación permite medir qué tanto conservan su atractivo estas inversiones.",
-      "link": "https://expansion.mx/economia/2026/08/26/cetes-plazo-hoy-paga-7-06-mientras-otros-6-13",
-      "fecha": "26 Aug 2026, 13:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
       "titulo": "Con incentivos, gobierno mexicano quiere convencer a Hollywood de filmar más en el país",
       "resumen": "Como parte de una estrategia encabezada por el secretario de Economía, Marcelo Ebrard, representantes de Netflix, Disney, Apple TV+, HBO y Telemundo exploran el país y analizan apoyos. Buscan impulsar…",
-      "link": "https://expansion.mx/economia/2026/08/26/mexico-incentivos-producciones-hollywood-netflix-disney",
+      "link": "",
       "fecha": "26 Aug 2026, 12:54 hrs"
     },
     {
@@ -73,6 +46,33 @@
       "resumen": "Moody’s anticipa un T-MEC con más negociaciones bilaterales; Fitch alerta que la escalada arancelaria sacudirá la cadena automotriz.",
       "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
       "fecha": "25 Aug 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
+      "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
+      "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
+      "fecha": "25 Aug 2026, 15:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
+      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
+      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
+      "fecha": "25 Aug 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
+      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
+      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
+      "fecha": "25 Aug 2026, 11:29 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "¿Cómo afectaría que México perdiera el grado de inversión?",
+      "resumen": "Si México pierde el grado de inversión los usuarios podrían enfrentar créditos más caros o condiciones de otorgamiento más estrictas.",
+      "link": "https://www.reforma.com/como-afectaria-que-mexico-perdiera-el-grado-de-inversion/ar3265050",
+      "fecha": "27 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Encarecen operación los cambios laborales",
+      "resumen": "La \"cascada\" de reformas y cambios laborales han provocado más presión en los costos y gastos operativos de las empresas en México.",
+      "link": "https://www.reforma.com/encarecen-operacion-los-cambios-laborales/ar3265048",
+      "fecha": "27 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "ABM 'cierra filas' con SHCP por grado de inversión",
       "resumen": "El gremio bancario del País está \"cerrando filas\" con SHCP con el objetivo de que el Paquete Económico 2027 afiance el grado de inversión.",
       "link": "https://www.reforma.com/abm-cierra-filas-con-shcp-por-grado-de-inversion/ar3265013",
@@ -159,64 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firma convenio SE con Universidad de Arizona",
-      "resumen": "Secretario de Economía, Marcelo Ebrard, anunció la firma de un convenio de colaboración entre la dependencia y la Arizona State University.",
-      "link": "https://www.reforma.com/firma-convenio-se-con-universidad-de-arizona/ar3264974",
-      "fecha": "26 Aug 2026, 18:49 hrs"
+      "titulo": "Pierden Dls. 672 millones engordadores de EU",
+      "resumen": "El cierre de la frontera al ganado mexicano provocó una pérdida de 672 millones de dólares a engordadores en EU.",
+      "link": "https://www.reforma.com/pierden-dls-672-millones-engordadores-de-eu/ar3265127",
+      "fecha": "27 Aug 2026, 07:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reconoce Pemex aportaciones por 100 mil 400 mdp del Gobierno",
+      "titulo": "Reconoce Pemex aportaciones por 100,400 mdp del Gobierno",
       "resumen": "Pemex reconoció que en el primer semestre de 2026, recibió aportaciones de capital por 100 mil 400 millones de pesos del Gobierno federal.",
-      "link": "https://www.reforma.com/reconoce-pemex-aportaciones-por-100-mil-400-mdp-del-gobierno/ar3264945",
+      "link": "https://www.reforma.com/reconoce-pemex-aportaciones-por-100-400-mdp-del-gobierno/ar3264945",
       "fecha": "26 Aug 2026, 18:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerdan incremento de 10.04% en VW Puebla",
+      "titulo": "Se estanca recaudación por hospedaje en NL",
+      "resumen": "En segundo trimestre, que coincidió con Mundial, la recaudación del ISH en NL prácticamente se estancó al registrar un alza de sólo 0.9%.",
+      "link": "https://www.reforma.com/se-estanca-recaudacion-por-hospedaje-en-nl/ar3265093",
+      "fecha": "27 Aug 2026, 07:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pactan incremento de 10.04% en VW Puebla",
       "resumen": "Sindicato de Volkswagen Puebla y la empresa acordaron un incremento salarial de 10.04% en prerrogativas laborales evitando una huelga.",
-      "link": "https://www.reforma.com/acuerdan-incremento-de-10-04-en-vw-puebla/ar3264923",
+      "link": "https://www.reforma.com/pactan-incremento-de-10-04-en-vw-puebla/ar3264923",
       "fecha": "26 Aug 2026, 17:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desacelera preferencia por autos seminuevos",
-      "resumen": "En el primer semestre de 2026, la participación del segmento de seminuevos en la venta de autos se redujo 2.4% anual, reveló MStar.",
-      "link": "https://www.reforma.com/desacelera-preferencia-por-autos-seminuevos/ar3264840",
-      "fecha": "26 Aug 2026, 15:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierte Monte de Piedad nuevo juicio por veredicto de SCJN",
-      "resumen": "Nacional Monte de Piedad advirtió que declarar legal la huelga de sus trabajadores por parte de la SCJN provocaría un nuevo juicio.",
-      "link": "https://www.reforma.com/advierte-monte-de-piedad-nuevo-juicio-por-veredicto-de-scjn/ar3264828",
-      "fecha": "26 Aug 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera Nvidia expectativas de ingresos y ganancias",
-      "resumen": "Nvidia reportó ingresos de 96 mil 220 mdd en el segundo trimestre y ganancias de 53 mil 950 mdd, en ambos casos mejores de lo esperado.",
-      "link": "https://www.reforma.com/supera-nvidia-expectativas-de-ingresos-y-ganancias/ar3264790",
-      "fecha": "26 Aug 2026, 14:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 14% acciones de Salesforce tras superar previsiones",
-      "resumen": "Las acciones de Salesforce se dispararon un 14% gracias al crecimiento de la IA y a la ganancia de su inversión de Anthropic.",
-      "link": "https://www.reforma.com/suben-14-acciones-de-salesforce-tras-superar-previsiones/ar3264782",
-      "fecha": "26 Aug 2026, 14:36 hrs"
+      "titulo": "Firma SE un convenio con Universidad de Arizona",
+      "resumen": "Secretario de Economía, Marcelo Ebrard, anunció la firma de un convenio de colaboración entre la dependencia y la Arizona State University.",
+      "link": "https://www.reforma.com/firma-se-un-convenio-con-universidad-de-arizona/ar3264974",
+      "fecha": "26 Aug 2026, 18:49 hrs"
     }
   ]
 }
