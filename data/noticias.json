@@ -1,7 +1,43 @@
 {
-  "actualizado": "26/08/2026 16:45 hrs",
+  "actualizado": "26/08/2026 22:17 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México puede duplicar su industria aeroespacial, pero la inversión pierde vuelo",
+      "resumen": "La inversión extranjera en el sector pasó de 340.7 a 171.8 millones de dólares en un año, pese al crecimiento de las exportaciones aeroespaciales.",
+      "link": "https://expansion.mx/economia/2026/08/26/industria-aeroespacial-mexico-inversion-baja",
+      "fecha": "26 Aug 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico se pone optimista y mejora a 1.5% su pronóstico para la economía mexicana en 2026",
+      "resumen": "El ajuste obedece al mejor desempeño al esperado en el segundo trimestre, informó Victoria Rodríguez Ceja, gobernadora del banco central. Para 2027, redujo ligeramente a la baja a 2%",
+      "link": "https://expansion.mx/economia/2026/08/26/banxico-economia-pib-2026-1-5",
+      "fecha": "26 Aug 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cetes: el plazo que hoy paga hasta 7.06% mientras otros se quedan en 6.13%",
+      "resumen": "Las tasas cambiaron en la última actualización y no todos los plazos se movieron igual; además, la inflación permite medir qué tanto conservan su atractivo estas inversiones.",
+      "link": "https://expansion.mx/economia/2026/08/26/cetes-plazo-hoy-paga-7-06-mientras-otros-6-13",
+      "fecha": "26 Aug 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con incentivos, gobierno mexicano quiere convencer a Hollywood de filmar más en el país",
+      "resumen": "Como parte de una estrategia encabezada por el secretario de Economía, Marcelo Ebrard, representantes de Netflix, Disney, Apple TV+, HBO y Telemundo exploran el país y analizan apoyos. Buscan impulsar…",
+      "link": "https://expansion.mx/economia/2026/08/26/mexico-incentivos-producciones-hollywood-netflix-disney",
+      "fecha": "26 Aug 2026, 12:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
-      "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
-      "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
-      "fecha": "25 Aug 2026, 15:43 hrs"
+      "titulo": "Soriana cerrará 20 tiendas y reducirá el tamaño de otras 60 para ganar más dinero por cada metro cuadrado",
+      "resumen": "La minorista modificará el tamaño de sus hipermercados y concentrará su operación en unidades más eficientes, mientras mantiene inversiones y una reserva de más de 50 terrenos para futuras expansiones…",
+      "link": "https://expansion.mx/empresas/2026/08/26/soriana-cerrara-20-tiendas-y-achicara-60-para-ganar-mas",
+      "fecha": "26 Aug 2026, 19:20 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
-      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
-      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
-      "fecha": "25 Aug 2026, 11:36 hrs"
+      "titulo": "Compró un terreno para vivir y terminó creando Xcaret, uno de los parques más famosos de México",
+      "resumen": "La historia empresarial de Quintana Pali comenzó con muebles y decoración, pero una compra destinada a construir su propia casa terminó dando origen a Xcaret.",
+      "link": "https://expansion.mx/empresas/2026/08/26/compro-terreno-vivir-termino-creando-xcaret-mexico",
+      "fecha": "26 Aug 2026, 19:01 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
-      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
-      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
-      "fecha": "25 Aug 2026, 11:29 hrs"
+      "titulo": "El empresario detrás de OXIO que ahora va por el negocio de Movistar",
+      "resumen": "OXIO ya tenía presencia en México, pero la compra de Movistar le dará una posición mucho mayor dentro del mercado de telecomunicaciones.",
+      "link": "https://expansion.mx/empresas/2026/08/26/quien-es-dueno-oxio-movistar",
+      "fecha": "26 Aug 2026, 14:18 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Empleo ligado a la IA crece 7.6% mientras maquila y automotriz van en retroceso",
-      "resumen": "El personal ocupado en la industria automotriz, en cambio, cayó a niveles no vistos desde 2021. Al mismo tiempo, el empleo en fabricación de computadoras creció más de 21% en los últimos 5 años.",
-      "link": "https://expansion.mx/economia/2026/08/25/empleo-ligado-ia-crece-7-6-mientras-automotriz-hunde",
-      "fecha": "25 Aug 2026, 10:00 hrs"
+      "titulo": "CRT aprueba con modificaciones su proyecto de lineamientos sobre derechos de las audiencias",
+      "resumen": "Los nuevos lineamientos acotan la intervención de la CRT en las quejas y la revisión de contenidos, pero mantienen mecanismos de defensa, defensores de audiencias y sanciones para los medios.",
+      "link": "https://expansion.mx/empresas/2026/08/26/crt-modifica-reglas-derechos-audiencias",
+      "fecha": "26 Aug 2026, 14:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Suzuki lanza el Across indio para llenar el hueco de Gran Vitara: va por los clientes de Kia Seltos y Hyundai Creta",
+      "resumen": "El nuevo SUV llega con más tecnología y seguridad que su antecesor, pero enfrenta un segmento donde Seltos y Creta parten por debajo de 500,000 pesos.",
+      "link": "https://expansion.mx/empresas/2026/08/26/suzuki-cross-indio-mexico-precio-versiones",
+      "fecha": "26 Aug 2026, 11:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,67 +147,49 @@
       "fecha": "25 Aug 2026, 17:12 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Telcel o AT&T? La telefónica que ha perdido 1.7 millones de usuarios en medio del registro telefónico obligatorio",
-      "resumen": "El registro obligatorio de líneas reduce la rotación de usuarios y cambia la competencia entre las principales compañías telefónicas.",
-      "link": "https://expansion.mx/empresas/2026/08/25/telcel-att-pierde-1-7-millones-usuarios-registro-telefonico",
-      "fecha": "25 Aug 2026, 16:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Natura duplicará su producción en México para reducir las  importaciones de sus productos",
-      "resumen": "La empresa brasileña elevará de 30% a 60% la proporción de productos Natura fabricados en el país durante 2027, con una ampliación de su planta en Guanajuato y el desarrollo de proveedores locales.",
-      "link": "https://expansion.mx/empresas/2026/08/25/natura-fabricara-60-por-ciento-productos-mexico-2027",
-      "fecha": "25 Aug 2026, 16:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Televisa, Emilio Azcárraga Vidaurreta vendía autos Ford y fundó su propia distribuidora en Monterrey",
-      "resumen": "La historia empresarial de la dinastía Azcárraga comenzó lejos de los medios: pasó por la venta de vehículos, los fonógrafos y la música antes de llegar a la radio.",
-      "link": "https://expansion.mx/empresas/2026/08/25/emilio-azcarraga-vidaurreta-venta-autos-ford",
-      "fecha": "25 Aug 2026, 15:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Palacio de Hierro tiene otro negocio millonario: son dueños de parte de Centro Santa Fe y Angelópolis",
-      "resumen": "La compañía combina su negocio departamental con una división inmobiliaria que generó más ingresos durante el primer semestre de 2026.",
-      "link": "https://expansion.mx/empresas/2026/08/25/palacio-de-hierro-bailleres-plazas-santa-fe-angelopolis",
-      "fecha": "25 Aug 2026, 11:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia Carga cuesta 4 veces menos de operar que un motocarro de carga: ¿cuánto puedes ahorrar por kilómetro?",
-      "resumen": "Para un repartidor, cada kilómetro representa un costo que se acumula durante la jornada y termina impactando directamente sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/08/25/olinia-carga-cuesta-4-veces-menos-que-motocarro-carga-operar",
-      "fecha": "25 Aug 2026, 11:20 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "ABM 'cierra filas' con SHCP por grado de inversión",
+      "resumen": "El gremio bancario del País está \"cerrando filas\" con SHCP con el objetivo de que el Paquete Económico 2027 afiance el grado de inversión.",
+      "link": "https://www.reforma.com/abm-cierra-filas-con-shcp-por-grado-de-inversion/ar3265013",
+      "fecha": "26 Aug 2026, 20:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube Banxico a 1.5% pronóstico de PIB para 2026",
-      "resumen": "Banxico subió a 1.5 por ciento su pronóstico de crecimiento económico en 2026 pese a incertidumbre por T-MEC.",
-      "link": "https://www.reforma.com/sube-banxico-a-1-5-pronostico-de-pib-para-2026/ar3264707",
-      "fecha": "26 Aug 2026, 14:15 hrs"
+      "titulo": "Firma convenio SE con Universidad de Arizona",
+      "resumen": "Secretario de Economía, Marcelo Ebrard, anunció la firma de un convenio de colaboración entre la dependencia y la Arizona State University.",
+      "link": "https://www.reforma.com/firma-convenio-se-con-universidad-de-arizona/ar3264974",
+      "fecha": "26 Aug 2026, 18:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta ICC ruptura comercial en Norteamérica",
-      "resumen": "Para México y EU el alto grado de integración comercial es tan fuerte que se mantendrá, pese a las tensiones, dijo la ICC.",
-      "link": "https://www.reforma.com/descarta-icc-ruptura-comercial-en-norteamerica/ar3264777",
-      "fecha": "26 Aug 2026, 14:47 hrs"
+      "titulo": "Reconoce Pemex aportaciones por 100 mil 400 mdp del Gobierno",
+      "resumen": "Pemex reconoció que en el primer semestre de 2026, recibió aportaciones de capital por 100 mil 400 millones de pesos del Gobierno federal.",
+      "link": "https://www.reforma.com/reconoce-pemex-aportaciones-por-100-mil-400-mdp-del-gobierno/ar3264945",
+      "fecha": "26 Aug 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerdan incremento de 10.04% en VW Puebla",
+      "resumen": "Sindicato de Volkswagen Puebla y la empresa acordaron un incremento salarial de 10.04% en prerrogativas laborales evitando una huelga.",
+      "link": "https://www.reforma.com/acuerdan-incremento-de-10-04-en-vw-puebla/ar3264923",
+      "fecha": "26 Aug 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Desacelera preferencia por autos seminuevos",
+      "resumen": "En el primer semestre de 2026, la participación del segmento de seminuevos en la venta de autos se redujo 2.4% anual, reveló MStar.",
+      "link": "https://www.reforma.com/desacelera-preferencia-por-autos-seminuevos/ar3264840",
+      "fecha": "26 Aug 2026, 15:53 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acota CRT su intervención en contenido de medios",
-      "resumen": "Acota CRT su intervención en contenido de medios tras consulta sobre derechos de las audiencias.",
-      "link": "https://www.reforma.com/acota-crt-su-intervencion-en-contenido-de-medios/ar3264673",
-      "fecha": "26 Aug 2026, 12:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ayudan empresas a restaurar Cuenca del Río Bravo",
-      "resumen": "Más de 15 empresas lideradas por Heineken México, lanzaron el programa \"Manos al agua\" para rehabilitar la Cuenca del Río Bravo.",
-      "link": "https://www.reforma.com/ayudan-empresas-a-restaurar-cuenca-del-rio-bravo/ar3264736",
-      "fecha": "26 Aug 2026, 14:19 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Harta a los negocios el ambiente político.- Concanaco",
-      "resumen": "Los pequeños negocios están cansados del 'espectáculo' que se da en materia política, a nivel nacional, destacó Concanaco.",
-      "link": "https://www.reforma.com/harta-a-los-negocios-el-ambiente-politico-concanaco/ar3264741",
-      "fecha": "26 Aug 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden plan en minerales críticos",
-      "resumen": "Industria minera propone crear un plan de minerales críticos que incluya inversiones en refinación; así como un capítulo dentro del T-MEC.",
-      "link": "https://www.reforma.com/piden-plan-en-minerales-criticos/ar3264763",
+      "titulo": "Supera Nvidia expectativas de ingresos y ganancias",
+      "resumen": "Nvidia reportó ingresos de 96 mil 220 mdd en el segundo trimestre y ganancias de 53 mil 950 mdd, en ambos casos mejores de lo esperado.",
+      "link": "https://www.reforma.com/supera-nvidia-expectativas-de-ingresos-y-ganancias/ar3264790",
       "fecha": "26 Aug 2026, 14:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Desacelera preferencia por autos seminuevos",
-      "resumen": "En el primer semestre de 2026, la participación del segmento de seminuevos en la venta de autos se redujo 2.4% anual, reveló MStar.",
-      "link": "https://www.reforma.com/desacelera-preferencia-por-autos-seminuevos/ar3264840",
-      "fecha": "26 Aug 2026, 15:53 hrs"
+      "titulo": "Suben 14% acciones de Salesforce tras superar previsiones",
+      "resumen": "Las acciones de Salesforce se dispararon un 14% gracias al crecimiento de la IA y a la ganancia de su inversión de Anthropic.",
+      "link": "https://www.reforma.com/suben-14-acciones-de-salesforce-tras-superar-previsiones/ar3264782",
+      "fecha": "26 Aug 2026, 14:36 hrs"
     }
   ]
 }
