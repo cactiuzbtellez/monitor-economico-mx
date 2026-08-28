@@ -1,7 +1,52 @@
 {
-  "actualizado": "27/08/2026 19:16 hrs",
+  "actualizado": "28/08/2026 07:49 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
+      "resumen": "La operación, en caso de aprobarse, le sumaría a Afore Coppel 1.9 millones de cuentas de trabajadores y 349 mil millones de pesos en recursos administrados.",
+      "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
+      "fecha": "27 Aug 2026, 21:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico y CNBV suavizan su propuesta para bajar las cuotas por pagos con tarjeta",
+      "resumen": "La nueva propuesta tendrá topes menos agresivos y una aplicación gradual, con un límite de 1.30% para las cuotas de intercambio en tarjetas de crédito.",
+      "link": "https://expansion.mx/economia/2026/08/27/banxico-cnbv-suaviza-propuesta-cuotas-por-pagos-con-tarjeta",
+      "fecha": "27 Aug 2026, 18:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasto mundialista y sobreoferta de tarjetas atrasan el pago de deudas de mexicanos",
+      "resumen": "La ABM reconoce un aumento de la morosidad en México; sin embargo, lo consideran razonable ante mayor colocación de crédito en el país.",
+      "link": "https://expansion.mx/economia/2026/08/27/mexicanos-gastaron-mundial-tarjeta-morosidad",
+      "fecha": "27 Aug 2026, 17:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sofomes enfrentan un déficit de fondeo de 200,000 mdp para cubrir la demanda de crédito",
+      "resumen": "De acuerdo con especialistas, el problema no es la falta de recursos, sino que algunas Sofomes enfrentan dificultades para cumplir institucionalización que demandan grandes inversionistas.",
+      "link": "https://expansion.mx/economia/2026/08/27/sofomes-enfrentan-deficit-fondeo-200-000-mdp-demanda-credito",
+      "fecha": "27 Aug 2026, 17:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nafin y Bancomext absorberán primeras pérdidas para impulsar el crédito a Pymes",
+      "resumen": "Respaldarán a intermediarios no bancarios como las Sofomes para ampliar su apetito de riesgo y llevar financiamiento a empresas que hoy enfrentan dificultades para obtener financiamiento.",
+      "link": "https://expansion.mx/economia/2026/08/27/nafin-bancomext-perdidas-credito-micronegocios-pymes",
+      "fecha": "27 Aug 2026, 12:03 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La huelga de Monte de Piedad llega a la SCJN, pero aún no hay una salida, reconoce la institución",
-      "resumen": "Si tienes una joya, reloj, celular u otro artículo empeñado en Monte de Piedad, la atracción del caso por la SCJN no significa que puedas recuperarlo de inmediato.",
-      "link": "https://expansion.mx/economia/2026/08/26/huelga-monte-de-piedad-scjn-pero-aun-no-hay-fecha",
-      "fecha": "26 Aug 2026, 17:14 hrs"
+      "titulo": "Suzuki resiente el arancel de 50% y ajusta su oferta de autos para mantener precios competitivos",
+      "resumen": "La automotriz japonesa elevó sus importaciones desde Japón mientras sus ventas en México cayeron 18% entre enero y julio. Baleno se encamina a salir de su portafolio.",
+      "link": "https://expansion.mx/empresas/2026/08/28/suzuki-importara-mas-swift-jimny-japon-esquivar-arancel-50",
+      "fecha": "28 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México puede duplicar su industria aeroespacial, pero la inversión pierde vuelo",
-      "resumen": "La inversión extranjera en el sector pasó de 340.7 a 171.8 millones de dólares en un año, pese al crecimiento de las exportaciones aeroespaciales.",
-      "link": "https://expansion.mx/economia/2026/08/26/industria-aeroespacial-mexico-inversion-baja",
-      "fecha": "26 Aug 2026, 15:16 hrs"
+      "titulo": "Axtel aprueba oferta de 4TechPlus para comprar hasta 100% de las acciones",
+      "resumen": "4TechPlus, representada por Tomás Milmo Santos y algunos accionistas de Axtel, ya presentó la documentación ante la CNBV para avanzar con las ofertas.",
+      "link": "https://expansion.mx/empresas/2026/08/27/axtel-aprueba-oferta-de-4techplus-para-comprar-hasta-100-de-las-acciones",
+      "fecha": "27 Aug 2026, 18:03 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banxico se pone optimista y mejora a 1.5% su pronóstico para la economía mexicana en 2026",
-      "resumen": "El ajuste obedece al mejor desempeño al esperado en el segundo trimestre, informó Victoria Rodríguez Ceja, gobernadora del banco central. Para 2027, redujo ligeramente a la baja a 2%",
-      "link": "https://expansion.mx/economia/2026/08/26/banxico-economia-pib-2026-1-5",
-      "fecha": "26 Aug 2026, 13:25 hrs"
+      "titulo": "Telcel reporta caída en ventas de celulares por registro telefónico y escasez de chips",
+      "resumen": "Telcel vio caer sus ingresos 1.7% en equipos debido al registro telefónico que modifica los hábitos de la renovación y un escenario de mayor presión en los precios de los celulares por los semiconduct…",
+      "link": "https://expansion.mx/empresas/2026/08/27/telcel-registro-telefonico-frena-ventas-escasez-chips",
+      "fecha": "27 Aug 2026, 17:49 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cetes: el plazo que hoy paga hasta 7.06% mientras otros se quedan en 6.13%",
-      "resumen": "Las tasas cambiaron en la última actualización y no todos los plazos se movieron igual; además, la inflación permite medir qué tanto conservan su atractivo estas inversiones.",
-      "link": "https://expansion.mx/economia/2026/08/26/cetes-plazo-hoy-paga-7-06-mientras-otros-6-13",
-      "fecha": "26 Aug 2026, 13:03 hrs"
+      "titulo": "KidZania cambia su estrategia en México tras el cierre de Kinezis: ahora va por los adultos",
+      "resumen": "La empresa proyecta sumar 22,000 visitantes al mes con su nueva experiencia nocturna, mientras ajusta sus formatos y retoma la expansión internacional tras cinco años de aperturas limitadas.",
+      "link": "https://expansion.mx/empresas/2026/08/27/kidzania-cambia-estrategia-mexico-adultos",
+      "fecha": "27 Aug 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Con incentivos, gobierno mexicano quiere convencer a Hollywood de filmar más en el país",
-      "resumen": "Como parte de una estrategia encabezada por el secretario de Economía, Marcelo Ebrard, representantes de Netflix, Disney, Apple TV+, HBO y Telemundo exploran el país y analizan apoyos. Buscan impulsar…",
-      "link": "https://expansion.mx/economia/2026/08/26/mexico-incentivos-producciones-hollywood-netflix-disney",
-      "fecha": "26 Aug 2026, 12:54 hrs"
+      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
+      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
+      "link": "https://expansion.mx/empresas/2026/08/27/calendario-registro-lineas-fecha-limite",
+      "fecha": "27 Aug 2026, 15:20 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,58 +147,49 @@
       "fecha": "26 Aug 2026, 14:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CRT aprueba con modificaciones su proyecto de lineamientos sobre derechos de las audiencias",
-      "resumen": "Los nuevos lineamientos acotan la intervención de la CRT en las quejas y la revisión de contenidos, pero mantienen mecanismos de defensa, defensores de audiencias y sanciones para los medios.",
-      "link": "https://expansion.mx/empresas/2026/08/26/crt-modifica-reglas-derechos-audiencias",
-      "fecha": "26 Aug 2026, 14:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Suzuki lanza el Across indio para llenar el hueco de Gran Vitara: va por los clientes de Kia Seltos y Hyundai Creta",
-      "resumen": "El nuevo SUV llega con más tecnología y seguridad que su antecesor, pero enfrenta un segmento donde Seltos y Creta parten por debajo de 500,000 pesos.",
-      "link": "https://expansion.mx/empresas/2026/08/26/suzuki-cross-indio-mexico-precio-versiones",
-      "fecha": "26 Aug 2026, 11:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Farmacias Guadalajara crece con más tiendas, pero su rentabilidad se deteriora",
-      "resumen": "La cadena llegó a 3,084 unidades, mientras sus gastos operativos crecen más rápido que las ventas y la utilidad neta cayó 4.9% en el primer semestre.",
-      "link": "https://expansion.mx/empresas/2026/08/26/farmacias-guadalajara-abre-sucursales-costos-crecen",
-      "fecha": "26 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El arancel de 50% enfría el negocio de importar autos chinos y el puerto de Lázaro Cárdenas es muestra de ello",
-      "resumen": "El puerto de Lázaro Cárdenas pasó de atender el boom de los autos asiáticos a enfrentar un escenario más moderado, luego de que los vehículos fabricados en China, India, Indonesia y Tailandia comenzar…",
-      "link": "https://expansion.mx/empresas/2026/08/25/arancel-enfria-negocio-importar-autos-chinos-lazaro-cardenas",
-      "fecha": "25 Aug 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "SUVs híbridas: opciones para evitar el Hoy No Circula y contingencias ambientales",
-      "resumen": "Estos modelos de SUVs destacan por las características con las que cuentan, desde precio hasta un gran rendimiento de combustible.",
-      "link": "https://expansion.mx/empresas/2026/08/25/suvs-hibridas-evitar-hoy-no-circula-contingencia-ambiental",
-      "fecha": "25 Aug 2026, 17:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Vende México bonos samurái por primera vez en dos años",
+      "resumen": "México regresó al mercado de bonos samurái por primera vez en dos años y recaudó 282 mil 800 millones de yenes con emisiones en 4 tramos.",
+      "link": "https://www.reforma.com/vende-mexico-bonos-samurai-por-primera-vez-en-dos-anos/ar3265927",
+      "fecha": "28 Aug 2026, 07:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firman SHCP y Pemex convenio contra el robo de hidrocarburos",
-      "resumen": "Pemex y SHCP suscribieron un convenio de colaboración para combatir delitos financieros y el robo de hidrocarburo.",
-      "link": "https://www.reforma.com/firman-shcp-y-pemex-convenio-contra-el-robo-de-hidrocarburos/ar3265673",
-      "fecha": "27 Aug 2026, 18:29 hrs"
+      "titulo": "Ven debilidad en la inversión",
+      "resumen": "Debilidad de la inversión privada es la principal restricción para el crecimiento económico del País en la segunda mitad de 2026.",
+      "link": "https://www.reforma.com/ven-debilidad-en-la-inversion/ar3265753",
+      "fecha": "28 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Rebasan al Nadbank peticiones para agua",
+      "resumen": "Proyectos de infraestructura hídrica en las 6 entidades fronterizas del norte del País están solicitando, en conjunto, créditos al Nadbank",
+      "link": "https://www.reforma.com/rebasan-al-nadbank-peticiones-para-agua/ar3265825",
+      "fecha": "28 Aug 2026, 07:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acelera IA la inversión, pero no la productividad",
+      "resumen": "Este año, la inversión empresarial mundial en IA superará el billón de dólares, de los cuales unos 581 mil millones corresponderán a EU.",
+      "link": "https://www.reforma.com/acelera-ia-la-inversion-pero-no-la-productividad/ar3265775",
+      "fecha": "28 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Da México menos oportunidades para los mayores de 50",
+      "resumen": "En el País hay 9.3 millones de personas mayores de 50 años que están subordinadas a una empresa, y las oportunidades van disminuyendo.",
+      "link": "https://www.reforma.com/da-mexico-menos-oportunidades-para-los-mayores-de-50/ar3265748",
+      "fecha": "28 Aug 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ojalá que EU y Canadá lleguen pronto a un acuerdo.- Ebrard",
-      "resumen": "Marcelo Ebrard, Secretario de Economía, abogó porque Canadá logre un acuerdo comercial con EU para poder garantizar la integración regional.",
-      "link": "https://www.reforma.com/ojala-que-eu-y-canada-lleguen-pronto-a-un-acuerdo-ebrard/ar3265552",
-      "fecha": "27 Aug 2026, 16:02 hrs"
+      "titulo": "Invertirá Finsa 220 mdd en parque industrial en NL",
+      "resumen": "La empresa Finsa anunció ayer una inversión de 220 millones de dólares para la construcción de un nuevo parque industrial.",
+      "link": "https://www.reforma.com/invertira-finsa-220-mdd-en-parque-industrial-en-nl/ar3265817",
+      "fecha": "28 Aug 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben casi 9% acciones de Nvidia",
-      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por los resultados del gigante de los chips Nvidia y sus perspectivas positivas.",
-      "link": "https://www.reforma.com/suben-casi-9-acciones-de-nvidia/ar3265502",
-      "fecha": "27 Aug 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con alza de 2.12%",
-      "resumen": "La cotización del crudo Brent subió un 2.12% hasta los 89.70 dólares por barril, mientras que el WTI ganó un 1.58% y cerró en 83.53 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-2-12/ar3265485",
-      "fecha": "27 Aug 2026, 14:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alista Banxico reglas para fomentar pagos con tarjeta",
-      "resumen": "Banxico emitió un proyecto de reglas para fomentar el uso de los pagos con tarjeta en el País y que haya menores costos de transacción.",
-      "link": "https://www.reforma.com/alista-banxico-reglas-para-fomentar-pagos-con-tarjeta/ar3265472",
-      "fecha": "27 Aug 2026, 14:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen exportaciones récord en julio: 77 mil 263 mdd",
-      "resumen": "En julio, el valor de las exportaciones de México ascendió a un máximo histórico de 77 mil 263 millones de dólares, según datos del Inegi.",
-      "link": "https://www.reforma.com/tienen-exportaciones-record-en-julio-77-mil-263-mdd/ar3265445",
-      "fecha": "27 Aug 2026, 14:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Empeoran los balances fiscales pese a mayor recaudación",
-      "resumen": "Aunque México alcanzó el máximo nivel de recaudación tributaria en 2025, los balances fiscales siguieron deteriorándose de manera relevante.",
-      "link": "https://www.reforma.com/empeoran-los-balances-fiscales-pese-a-mayor-recaudacion/ar3265440",
-      "fecha": "27 Aug 2026, 14:18 hrs"
+      "titulo": "Miden salario emocional para evitar alta rotación",
+      "resumen": "Algunas empresas en Nuevo León comienzan a cuantificar el salario emocional como dato duro para evitar la alta rotación de personal.",
+      "link": "https://www.reforma.com/miden-salario-emocional-para-evitar-alta-rotacion/ar3265824",
+      "fecha": "28 Aug 2026, 07:07 hrs"
     }
   ]
 }
