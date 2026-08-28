@@ -1,78 +1,78 @@
 {
-  "actualizado": "27/08/2026 10:06 hrs",
+  "actualizado": "27/08/2026 19:16 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "México rompe otro récord exportador con 81,420 mdd en julio, impulsado por electrónicos",
+      "resumen": "El comercio exterior alcanzó niveles inéditos, aunque el mayor crecimiento de las importaciones dejó un déficit de 848 millones de dólares, de acuerdo con los datos del Inegi.",
+      "link": "https://expansion.mx/economia/2026/08/27/exportaciones-mexico-record-electronicos-julio",
+      "fecha": "27 Aug 2026, 07:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El superpeso reduce el costo de la deuda, pero golpea los ingresos petroleros",
+      "resumen": "Una apreciación de un peso frente al dólar implica para Hacienda una pérdida neta estimada de 24,700 mdp por menores ingresos petroleros.",
+      "link": "https://expansion.mx/economia/2026/08/27/superpeso-menos-deuda-falta-ingresos-petroleros",
+      "fecha": "27 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Afores, en la mira para colocar deuda; Sofomes preparan emisiones conjuntas por 10,000 mdp",
+      "resumen": "La Asofom buscar dar el salto y dejar su dependencia de bancos, banca de desarrollo y fondos especializados para atraer directamente recursos de grandes inversionistas institucionales.",
+      "link": "https://expansion.mx/economia/2026/08/26/sofomes-deuda-10-000-mdp-afores",
+      "fecha": "26 Aug 2026, 18:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La huelga de Monte de Piedad llega a la SCJN, pero aún no hay una salida, reconoce la institución",
+      "resumen": "Si tienes una joya, reloj, celular u otro artículo empeñado en Monte de Piedad, la atracción del caso por la SCJN no significa que puedas recuperarlo de inmediato.",
+      "link": "https://expansion.mx/economia/2026/08/26/huelga-monte-de-piedad-scjn-pero-aun-no-hay-fecha",
+      "fecha": "26 Aug 2026, 17:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México puede duplicar su industria aeroespacial, pero la inversión pierde vuelo",
+      "resumen": "La inversión extranjera en el sector pasó de 340.7 a 171.8 millones de dólares en un año, pese al crecimiento de las exportaciones aeroespaciales.",
+      "link": "https://expansion.mx/economia/2026/08/26/industria-aeroespacial-mexico-inversion-baja",
+      "fecha": "26 Aug 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banxico se pone optimista y mejora a 1.5% su pronóstico para la economía mexicana en 2026",
+      "resumen": "El ajuste obedece al mejor desempeño al esperado en el segundo trimestre, informó Victoria Rodríguez Ceja, gobernadora del banco central. Para 2027, redujo ligeramente a la baja a 2%",
+      "link": "https://expansion.mx/economia/2026/08/26/banxico-economia-pib-2026-1-5",
+      "fecha": "26 Aug 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cetes: el plazo que hoy paga hasta 7.06% mientras otros se quedan en 6.13%",
+      "resumen": "Las tasas cambiaron en la última actualización y no todos los plazos se movieron igual; además, la inflación permite medir qué tanto conservan su atractivo estas inversiones.",
+      "link": "https://expansion.mx/economia/2026/08/26/cetes-plazo-hoy-paga-7-06-mientras-otros-6-13",
+      "fecha": "26 Aug 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Con incentivos, gobierno mexicano quiere convencer a Hollywood de filmar más en el país",
       "resumen": "Como parte de una estrategia encabezada por el secretario de Economía, Marcelo Ebrard, representantes de Netflix, Disney, Apple TV+, HBO y Telemundo exploran el país y analizan apoyos. Buscan impulsar…",
-      "link": "",
+      "link": "https://expansion.mx/economia/2026/08/26/mexico-incentivos-producciones-hollywood-netflix-disney",
       "fecha": "26 Aug 2026, 12:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México está en el top 3 de fricción con China, pero 66.2% de sus empresas confía en el país",
-      "resumen": "Estados Unidos busca limitar inversiones, insumos y componentes chinos en las cadenas productivas de México durante la revisión del T-MEC.",
-      "link": "https://expansion.mx/economia/2026/08/26/mexico-friccion-comercial-china-empresas-confian-pais",
-      "fecha": "26 Aug 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los jóvenes gastan 22% más en la tiendita de la esquina cuando pagan con tarjeta",
-      "resumen": "El pago con tarjeta no solo cambia la forma de comprar en la tiendita, también eleva el ticket promedio y el número de productos adquiridos.",
-      "link": "https://expansion.mx/economia/2026/08/25/jovenes-gastan-mas-tiendita-esquina-cuando-pagan-tarjeta",
-      "fecha": "25 Aug 2026, 19:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Bebidas alcohólicas se suben a la discusión previa del Paquete Económico 2027; proponen ajustar IEPS",
-      "resumen": "Productores e investigadores coinciden en que se debe cambiar a un gravamen por contenido alcohólico.",
-      "link": "https://expansion.mx/economia/2026/08/25/bebidas-alcoholicas-impuesto-paquete-economico-2027",
-      "fecha": "25 Aug 2026, 17:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Tensión de EU con Canadá abre grietas en el T-MEC y añade presión a la inversión mexicana",
-      "resumen": "Moody’s anticipa un T-MEC con más negociaciones bilaterales; Fitch alerta que la escalada arancelaria sacudirá la cadena automotriz.",
-      "link": "https://expansion.mx/economia/2026/08/25/choque-eu-canada-impacto-t-mec-mexico",
-      "fecha": "25 Aug 2026, 15:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Remesas, exportadores y turismo: las tres víctimas del superpeso",
-      "resumen": "Al considerar la inflación y el efecto del tipo de cambio, los hogares receptores de dinero desde EU recibieron 8.3% menos recursos que el año anterior.",
-      "link": "https://expansion.mx/economia/2026/08/25/superpeso-victimas-remesas-exportadores-turistas",
-      "fecha": "25 Aug 2026, 15:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Informalidad genera el 83% de los empleos en México en el segundo trimestre",
-      "resumen": "La tasa de informalidad laboral pasó de 54.8% de la población ocupada en el segundo trimestre de 2025 a 55.1% en 2026, pese a que la tasa de desempleo se mantuvo estable en 2.7%.",
-      "link": "https://expansion.mx/economia/2026/08/25/mexico-599000-empleos-pero-oculta-dato-informalidad",
-      "fecha": "25 Aug 2026, 11:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Canadá devuelve el golpe a Trump con aranceles de 50% a lácteos, acero y electrodomésticos",
-      "resumen": "Las medidas entrarán en vigor el 8 de septiembre y alcanzarán importaciones estadounidenses por 27,600 millones de dólares canadienses.",
-      "link": "https://expansion.mx/economia/2026/08/25/canada-aranceles-estados-unidos-productos-50-por-ciento",
-      "fecha": "25 Aug 2026, 11:29 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "¿Cómo afectaría que México perdiera el grado de inversión?",
-      "resumen": "Si México pierde el grado de inversión los usuarios podrían enfrentar créditos más caros o condiciones de otorgamiento más estrictas.",
-      "link": "https://www.reforma.com/como-afectaria-que-mexico-perdiera-el-grado-de-inversion/ar3265050",
-      "fecha": "27 Aug 2026, 05:01 hrs"
+      "titulo": "Firman SHCP y Pemex convenio contra el robo de hidrocarburos",
+      "resumen": "Pemex y SHCP suscribieron un convenio de colaboración para combatir delitos financieros y el robo de hidrocarburo.",
+      "link": "https://www.reforma.com/firman-shcp-y-pemex-convenio-contra-el-robo-de-hidrocarburos/ar3265673",
+      "fecha": "27 Aug 2026, 18:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Encarecen operación los cambios laborales",
-      "resumen": "La \"cascada\" de reformas y cambios laborales han provocado más presión en los costos y gastos operativos de las empresas en México.",
-      "link": "https://www.reforma.com/encarecen-operacion-los-cambios-laborales/ar3265048",
-      "fecha": "27 Aug 2026, 05:01 hrs"
+      "titulo": "Busca Tomás Milmo Santos quedarse con el 100% de Axtel",
+      "resumen": "El empresario Tomás Milmo Santos busca tomar el control total de la operadora Axtel y su holding mediante una OPA por acciones que no posee.",
+      "link": "https://www.reforma.com/busca-tomas-milmo-santos-quedarse-con-el-100-de-axtel/ar3265638",
+      "fecha": "27 Aug 2026, 17:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "ABM 'cierra filas' con SHCP por grado de inversión",
-      "resumen": "El gremio bancario del País está \"cerrando filas\" con SHCP con el objetivo de que el Paquete Económico 2027 afiance el grado de inversión.",
-      "link": "https://www.reforma.com/abm-cierra-filas-con-shcp-por-grado-de-inversion/ar3265013",
-      "fecha": "26 Aug 2026, 20:05 hrs"
+      "titulo": "Ojalá que EU y Canadá lleguen pronto a un acuerdo.- Ebrard",
+      "resumen": "Marcelo Ebrard, Secretario de Economía, abogó porque Canadá logre un acuerdo comercial con EU para poder garantizar la integración regional.",
+      "link": "https://www.reforma.com/ojala-que-eu-y-canada-lleguen-pronto-a-un-acuerdo-ebrard/ar3265552",
+      "fecha": "27 Aug 2026, 16:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierden Dls. 672 millones engordadores de EU",
-      "resumen": "El cierre de la frontera al ganado mexicano provocó una pérdida de 672 millones de dólares a engordadores en EU.",
-      "link": "https://www.reforma.com/pierden-dls-672-millones-engordadores-de-eu/ar3265127",
-      "fecha": "27 Aug 2026, 07:11 hrs"
+      "titulo": "Suben casi 9% acciones de Nvidia",
+      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por los resultados del gigante de los chips Nvidia y sus perspectivas positivas.",
+      "link": "https://www.reforma.com/suben-casi-9-acciones-de-nvidia/ar3265502",
+      "fecha": "27 Aug 2026, 14:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reconoce Pemex aportaciones por 100,400 mdp del Gobierno",
-      "resumen": "Pemex reconoció que en el primer semestre de 2026, recibió aportaciones de capital por 100 mil 400 millones de pesos del Gobierno federal.",
-      "link": "https://www.reforma.com/reconoce-pemex-aportaciones-por-100-400-mdp-del-gobierno/ar3264945",
-      "fecha": "26 Aug 2026, 18:11 hrs"
+      "titulo": "Cierra crudo Brent con alza de 2.12%",
+      "resumen": "La cotización del crudo Brent subió un 2.12% hasta los 89.70 dólares por barril, mientras que el WTI ganó un 1.58% y cerró en 83.53 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-2-12/ar3265485",
+      "fecha": "27 Aug 2026, 14:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se estanca recaudación por hospedaje en NL",
-      "resumen": "En segundo trimestre, que coincidió con Mundial, la recaudación del ISH en NL prácticamente se estancó al registrar un alza de sólo 0.9%.",
-      "link": "https://www.reforma.com/se-estanca-recaudacion-por-hospedaje-en-nl/ar3265093",
-      "fecha": "27 Aug 2026, 07:11 hrs"
+      "titulo": "Alista Banxico reglas para fomentar pagos con tarjeta",
+      "resumen": "Banxico emitió un proyecto de reglas para fomentar el uso de los pagos con tarjeta en el País y que haya menores costos de transacción.",
+      "link": "https://www.reforma.com/alista-banxico-reglas-para-fomentar-pagos-con-tarjeta/ar3265472",
+      "fecha": "27 Aug 2026, 14:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pactan incremento de 10.04% en VW Puebla",
-      "resumen": "Sindicato de Volkswagen Puebla y la empresa acordaron un incremento salarial de 10.04% en prerrogativas laborales evitando una huelga.",
-      "link": "https://www.reforma.com/pactan-incremento-de-10-04-en-vw-puebla/ar3264923",
-      "fecha": "26 Aug 2026, 17:44 hrs"
+      "titulo": "Tienen exportaciones récord en julio: 77 mil 263 mdd",
+      "resumen": "En julio, el valor de las exportaciones de México ascendió a un máximo histórico de 77 mil 263 millones de dólares, según datos del Inegi.",
+      "link": "https://www.reforma.com/tienen-exportaciones-record-en-julio-77-mil-263-mdd/ar3265445",
+      "fecha": "27 Aug 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firma SE un convenio con Universidad de Arizona",
-      "resumen": "Secretario de Economía, Marcelo Ebrard, anunció la firma de un convenio de colaboración entre la dependencia y la Arizona State University.",
-      "link": "https://www.reforma.com/firma-se-un-convenio-con-universidad-de-arizona/ar3264974",
-      "fecha": "26 Aug 2026, 18:49 hrs"
+      "titulo": "Empeoran los balances fiscales pese a mayor recaudación",
+      "resumen": "Aunque México alcanzó el máximo nivel de recaudación tributaria en 2025, los balances fiscales siguieron deteriorándose de manera relevante.",
+      "link": "https://www.reforma.com/empeoran-los-balances-fiscales-pese-a-mayor-recaudacion/ar3265440",
+      "fecha": "27 Aug 2026, 14:18 hrs"
     }
   ]
 }
