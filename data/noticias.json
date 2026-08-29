@@ -1,7 +1,43 @@
 {
-  "actualizado": "28/08/2026 17:24 hrs",
+  "actualizado": "28/08/2026 23:50 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+      "resumen": "El pago del Impuesto Sobre la Renta (ISR), registró una diferencia de 119,000 millones de pesos entre lo programado y lo observado para enero-julio, de acuerdo con la dependencia.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+      "fecha": "28 Aug 2026, 17:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México coloca bonos samurái por más de 1,700 millones de dólares",
+      "resumen": "Con esta oferta en el mercado japonés, la Secretaría de Hacienda concluye su programa de emisiones en los mercados externos para 2026.",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
+      "fecha": "28 Aug 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
+      "resumen": "México alcanzó el cuarto mayor crecimiento exportador entre las grandes economías en el segundo trimestre del año, por encima del promedio de 5.9%.",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
+      "fecha": "28 Aug 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
+      "resumen": "No solo el huevo, otros alimentos que forman parte de la dieta de los mexicanos registraron un aumento en la primera quincena de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
+      "fecha": "28 Aug 2026, 10:06 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nafin y Bancomext absorberán primeras pérdidas para impulsar el crédito a Pymes",
-      "resumen": "Respaldarán a intermediarios no bancarios como las Sofomes para ampliar su apetito de riesgo y llevar financiamiento a empresas que hoy enfrentan dificultades para obtener financiamiento.",
-      "link": "https://expansion.mx/economia/2026/08/27/nafin-bancomext-perdidas-credito-micronegocios-pymes",
-      "fecha": "27 Aug 2026, 12:03 hrs"
+      "titulo": "Porsche cambia el rumbo de su electrificación y ofrecerá la Cayenne en tres motorizaciones en México",
+      "resumen": "La Cayenne eléctrica llega a México como parte de una estrategia más flexible de Porsche, que mantendrá motores de combustión e híbridos enchufables hasta bien entrada la década de 2030.",
+      "link": "https://expansion.mx/empresas/2026/08/28/porsche-lanza-cayenne-no-abandona-gasolina-cambia-estrategia",
+      "fecha": "28 Aug 2026, 13:44 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México rompe otro récord exportador con 81,420 mdd en julio, impulsado por electrónicos",
-      "resumen": "El comercio exterior alcanzó niveles inéditos, aunque el mayor crecimiento de las importaciones dejó un déficit de 848 millones de dólares, de acuerdo con los datos del Inegi.",
-      "link": "https://expansion.mx/economia/2026/08/27/exportaciones-mexico-record-electronicos-julio",
-      "fecha": "27 Aug 2026, 07:45 hrs"
+      "titulo": "¿Quieres \"poner\" un Oxxo? Lo que necesitas para administrar una tienda sin desembolsar millones en una franquicia",
+      "resumen": "Oxxo es una de las principales cadenas de tiendas de conveniencia en México, con una expansión constante por todo el país.",
+      "link": "https://expansion.mx/empresas/2026/08/28/quieres-poner-oxxo-necesitas-administrar-tienda-franquicia",
+      "fecha": "28 Aug 2026, 13:23 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El superpeso reduce el costo de la deuda, pero golpea los ingresos petroleros",
-      "resumen": "Una apreciación de un peso frente al dólar implica para Hacienda una pérdida neta estimada de 24,700 mdp por menores ingresos petroleros.",
-      "link": "https://expansion.mx/economia/2026/08/27/superpeso-menos-deuda-falta-ingresos-petroleros",
-      "fecha": "27 Aug 2026, 05:55 hrs"
+      "titulo": "El día que Emilio Azcárraga Milmo regañó a un empleado por traer su gafete en el cinturón y terminó regalándole su Rolex",
+      "resumen": "Un encuentro en el elevador de Televisa mostró la obsesión de “El Tigre” con la disciplina y terminó con un inesperado premio para un empleado.",
+      "link": "https://expansion.mx/empresas/2026/08/28/emilio-azcarraga-milmo-regano-empleado-por-gafete",
+      "fecha": "28 Aug 2026, 12:17 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Afores, en la mira para colocar deuda; Sofomes preparan emisiones conjuntas por 10,000 mdp",
-      "resumen": "La Asofom buscar dar el salto y dejar su dependencia de bancos, banca de desarrollo y fondos especializados para atraer directamente recursos de grandes inversionistas institucionales.",
-      "link": "https://expansion.mx/economia/2026/08/26/sofomes-deuda-10-000-mdp-afores",
-      "fecha": "26 Aug 2026, 18:45 hrs"
+      "titulo": "Tu línea Telcel, AT&T o Bait termina en número 1: este es el último día para el registro telefónico",
+      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
+      "link": "https://expansion.mx/empresas/2026/08/28/linea-termina-1-ultimo-dia-registro-telefonico",
+      "fecha": "28 Aug 2026, 09:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,55 +147,55 @@
       "fecha": "27 Aug 2026, 17:08 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Calendario de registro de líneas telefónicas: fecha límite según la terminación de tu número celular",
-      "resumen": "La CRT amplió hasta el 31 de diciembre el plazo para registrar líneas telefónicas, mediante un calendario escalonado según el último dígito del número. Las líneas que incumplan serán suspendidas 72 ho…",
-      "link": "https://expansion.mx/empresas/2026/08/27/calendario-registro-lineas-fecha-limite",
-      "fecha": "27 Aug 2026, 15:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana cerrará 20 tiendas y reducirá el tamaño de otras 60 para ganar más dinero por cada metro cuadrado",
-      "resumen": "La minorista modificará el tamaño de sus hipermercados y concentrará su operación en unidades más eficientes, mientras mantiene inversiones y una reserva de más de 50 terrenos para futuras expansiones…",
-      "link": "https://expansion.mx/empresas/2026/08/26/soriana-cerrara-20-tiendas-y-achicara-60-para-ganar-mas",
-      "fecha": "26 Aug 2026, 19:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Compró un terreno para vivir y terminó creando Xcaret, uno de los parques más famosos de México",
-      "resumen": "La historia empresarial de Quintana Pali comenzó con muebles y decoración, pero una compra destinada a construir su propia casa terminó dando origen a Xcaret.",
-      "link": "https://expansion.mx/empresas/2026/08/26/compro-terreno-vivir-termino-creando-xcaret-mexico",
-      "fecha": "26 Aug 2026, 19:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El empresario detrás de OXIO que ahora va por el negocio de Movistar",
-      "resumen": "OXIO ya tenía presencia en México, pero la compra de Movistar le dará una posición mucho mayor dentro del mercado de telecomunicaciones.",
-      "link": "https://expansion.mx/empresas/2026/08/26/quien-es-dueno-oxio-movistar",
-      "fecha": "26 Aug 2026, 14:18 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reduce VW Puebla un turno y plazas por 'contexto desafiante'",
+      "resumen": "Volkswagen de México anunció que recortará un turno y plazas en su complejo de Puebla debido a un 'contexto desafiante' en el sector.",
+      "link": "https://www.reforma.com/reduce-vw-puebla-un-turno-y-plazas-por-contexto-desafiante/ar3266245",
+      "fecha": "28 Aug 2026, 18:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vende México bonos samurái por primera vez en dos años",
-      "resumen": "México regresó al mercado de bonos samurái por primera vez en dos años y recaudó 282 mil 800 millones de yenes con emisiones en 4 tramos.",
-      "link": "https://www.reforma.com/vende-mexico-bonos-samurai-por-primera-vez-en-dos-anos/ar3265927",
-      "fecha": "28 Aug 2026, 07:20 hrs"
+      "titulo": "Oficializan nuevos lineamientos de derechos de audiencias",
+      "resumen": "La CRT publicó este viernes en el DOF los Lineamientos Generales de los Derechos de las Audiencias, los cuales entrarán en vigor en un mes.",
+      "link": "https://www.reforma.com/oficializan-nuevos-lineamientos-de-derechos-de-audiencias/ar3266216",
+      "fecha": "28 Aug 2026, 18:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se eleva mochila escolar  55.3% para este regreso a clases",
+      "titulo": "Cierra dólar la semana en $17.03 ante comentarios de Warsh",
+      "resumen": "El dólar cerró la semana con una cotización de $17.03; logrando un avance semanal de 11.95 centavos frente al peso.",
+      "link": "https://www.reforma.com/cierra-dolar-la-semana-en-17-03-ante-comentarios-de-warsh/ar3266208",
+      "fecha": "28 Aug 2026, 18:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae 6% recaudación de ISR; es la mayor baja desde 2010",
+      "resumen": "La recaudación del ISR fue de 1.77 billones de pesos de enero a julio, una reducción de 6 % real anual y la mayor caída desde el año 2010.",
+      "link": "https://www.reforma.com/cae-6-recaudacion-de-isr-es-la-mayor-baja-desde-2010/ar3266152",
+      "fecha": "28 Aug 2026, 17:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo estable, pendiente de Medio Oriente",
+      "resumen": "Los precios del petróleo descendieron entre 4% y 5% durante la semana.",
+      "link": "https://www.reforma.com/cierra-crudo-estable-pendiente-de-medio-oriente/ar3266095",
+      "fecha": "28 Aug 2026, 14:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se eleva mochila escolar 55.3% para este regreso a clases",
       "resumen": "El precio de la mochila subió 55.3% para este regreso a clases, lo que tiró las ventas de este artículo, según Tiendanube.",
       "link": "https://www.reforma.com/se-eleva-mochila-escolar-55-3-para-este-regreso-a-clases/ar3266085",
       "fecha": "28 Aug 2026, 14:29 hrs"
@@ -181,42 +217,6 @@
       "resumen": "México Evalúa destacó que el País tiene condiciones para avanzar a una mayor adopción de pagos digitales, pero está rezagado frente a AL.",
       "link": "https://www.reforma.com/llama-mexico-evalua-a-acelerar-adopcion-de-pagos-digitales/ar3266054",
       "fecha": "28 Aug 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se dispara acción de Axtel tras oferta de Tomás Milmo Santos",
-      "resumen": "Las acciones de Axtel subían más de 16%, luego que Tomás Milmo Santos lanzó una oferta para adquirir totalidad de los títulos de la empresa.",
-      "link": "https://www.reforma.com/se-dispara-accion-de-axtel-tras-oferta-de-tomas-milmo-santos/ar3265948",
-      "fecha": "28 Aug 2026, 08:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera dólar los $17.00  tras discurso de Warsh",
-      "resumen": "El peso perdía fuerza frente al dólar tras comentarios del presidente de la Fed que impulsaron la expectativa de un alza de las tasas en EU.",
-      "link": "https://www.reforma.com/supera-dolar-los-17-00-tras-discurso-de-warsh/ar3265959",
-      "fecha": "28 Aug 2026, 09:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Invertirá Finsa 220 mdd en parque industrial en NL",
-      "resumen": "La empresa Finsa anunció ayer una inversión de 220 millones de dólares para la construcción de un nuevo parque industrial.",
-      "link": "https://www.reforma.com/invertira-finsa-220-mdd-en-parque-industrial-en-nl/ar3265817",
-      "fecha": "28 Aug 2026, 07:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Miden salario emocional para evitar alta rotación",
-      "resumen": "Algunas empresas en Nuevo León comienzan a cuantificar el salario emocional como dato duro para evitar la alta rotación de personal.",
-      "link": "https://www.reforma.com/miden-salario-emocional-para-evitar-alta-rotacion/ar3265824",
-      "fecha": "28 Aug 2026, 07:07 hrs"
     }
   ]
 }
