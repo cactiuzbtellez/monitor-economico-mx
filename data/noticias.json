@@ -1,7 +1,16 @@
 {
-  "actualizado": "28/08/2026 23:50 hrs",
+  "actualizado": "29/08/2026 06:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
+      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
+      "fecha": "28 Aug 2026, 18:41 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La ABM reconoce un aumento de la morosidad en México; sin embargo, lo consideran razonable ante mayor colocación de crédito en el país.",
       "link": "https://expansion.mx/economia/2026/08/27/mexicanos-gastaron-mundial-tarjeta-morosidad",
       "fecha": "27 Aug 2026, 17:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sofomes enfrentan un déficit de fondeo de 200,000 mdp para cubrir la demanda de crédito",
-      "resumen": "De acuerdo con especialistas, el problema no es la falta de recursos, sino que algunas Sofomes enfrentan dificultades para cumplir institucionalización que demandan grandes inversionistas.",
-      "link": "https://expansion.mx/economia/2026/08/27/sofomes-enfrentan-deficit-fondeo-200-000-mdp-demanda-credito",
-      "fecha": "27 Aug 2026, 17:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Esperan incremento de tasa en septiembre",
+      "resumen": "En Jackson Hole, el presidente de la Fed expuso que es posible que no se haya terminado de combatir la inflación mediante el alza de tasas.",
+      "link": "https://www.reforma.com/esperan-incremento-de-tasa-en-septiembre/ar3266142",
+      "fecha": "29 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierte Moody's que viene ya el día 'del ajuste de cuentas'",
+      "resumen": "Moody's muestra una creciente inquietud ante la posibilidad de que EU se encamine, casi sin darse cuenta, hacia una crisis económica.",
+      "link": "https://www.reforma.com/advierte-moody-s-que-viene-ya-el-dia-del-ajuste-de-cuentas/ar3266114",
+      "fecha": "29 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ahorrarían robots un 66% de costos laborales en EU",
+      "resumen": "Los robots humanoides podrían cubrir gran parte de las vacantes en el sector fabril de EU, pues su costo por hora es de menos de 10 dólares.",
+      "link": "https://www.reforma.com/ahorrarian-robots-un-66-de-costos-laborales-en-eu/ar3266106",
+      "fecha": "29 Aug 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Reduce VW Puebla un turno y plazas por 'contexto desafiante'",
       "resumen": "Volkswagen de México anunció que recortará un turno y plazas en su complejo de Puebla debido a un 'contexto desafiante' en el sector.",
       "link": "https://www.reforma.com/reduce-vw-puebla-un-turno-y-plazas-por-contexto-desafiante/ar3266245",
@@ -190,33 +217,6 @@
       "resumen": "Los precios del petróleo descendieron entre 4% y 5% durante la semana.",
       "link": "https://www.reforma.com/cierra-crudo-estable-pendiente-de-medio-oriente/ar3266095",
       "fecha": "28 Aug 2026, 14:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se eleva mochila escolar 55.3% para este regreso a clases",
-      "resumen": "El precio de la mochila subió 55.3% para este regreso a clases, lo que tiró las ventas de este artículo, según Tiendanube.",
-      "link": "https://www.reforma.com/se-eleva-mochila-escolar-55-3-para-este-regreso-a-clases/ar3266085",
-      "fecha": "28 Aug 2026, 14:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanzó Audi producción de 1.5 millones de la Q5 en Puebla",
-      "resumen": "Audi México alcanzó la producción de un millón y medio de la SUV Audi Q5 en su planta de San José Chiapa, Puebla.",
-      "link": "https://www.reforma.com/alcanzo-audi-produccion-de-1-5-millones-de-la-q5-en-puebla/ar3266057",
-      "fecha": "28 Aug 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Llama México Evalúa a acelerar adopción de pagos digitales",
-      "resumen": "México Evalúa destacó que el País tiene condiciones para avanzar a una mayor adopción de pagos digitales, pero está rezagado frente a AL.",
-      "link": "https://www.reforma.com/llama-mexico-evalua-a-acelerar-adopcion-de-pagos-digitales/ar3266054",
-      "fecha": "28 Aug 2026, 14:17 hrs"
     }
   ]
 }
