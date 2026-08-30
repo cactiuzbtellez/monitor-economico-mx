@@ -1,7 +1,16 @@
 {
-  "actualizado": "29/08/2026 16:24 hrs",
+  "actualizado": "29/08/2026 19:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
+      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+      "fecha": "29 Aug 2026, 18:03 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La nueva propuesta tendrá topes menos agresivos y una aplicación gradual, con un límite de 1.30% para las cuotas de intercambio en tarjetas de crédito.",
       "link": "https://expansion.mx/economia/2026/08/27/banxico-cnbv-suaviza-propuesta-cuotas-por-pagos-con-tarjeta",
       "fecha": "27 Aug 2026, 18:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasto mundialista y sobreoferta de tarjetas atrasan el pago de deudas de mexicanos",
-      "resumen": "La ABM reconoce un aumento de la morosidad en México; sin embargo, lo consideran razonable ante mayor colocación de crédito en el país.",
-      "link": "https://expansion.mx/economia/2026/08/27/mexicanos-gastaron-mundial-tarjeta-morosidad",
-      "fecha": "27 Aug 2026, 17:58 hrs"
     },
     {
       "fuente": "Expansión",
