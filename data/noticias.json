@@ -1,7 +1,16 @@
 {
-  "actualizado": "30/08/2026 14:43 hrs",
+  "actualizado": "30/08/2026 17:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
+      "resumen": "Además de resolver la huelga, la institución tendrá que encontrar una forma más eficiente de vender las prendas que sus clientes ya no recuperen.",
+      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
+      "fecha": "30 Aug 2026, 15:23 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banxico y CNBV suavizan su propuesta para bajar las cuotas por pagos con tarjeta",
-      "resumen": "La nueva propuesta tendrá topes menos agresivos y una aplicación gradual, con un límite de 1.30% para las cuotas de intercambio en tarjetas de crédito.",
-      "link": "https://expansion.mx/economia/2026/08/27/banxico-cnbv-suaviza-propuesta-cuotas-por-pagos-con-tarjeta",
-      "fecha": "27 Aug 2026, 18:23 hrs"
+      "titulo": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
+      "resumen": "La automotriz alemana anunció que eliminará de manera indefinida uno de los tres turnos enfocados en la producción de Jetta y Tiguan en Puebla, una medida que afectará a 786 trabajadores.",
+      "link": "https://expansion.mx/empresas/2026/08/30/que-pasara-con-la-produccion-del-jetta-y-tiguan-en-mexico",
+      "fecha": "30 Aug 2026, 10:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Telmex, dos compañías telefónicas competían en México y sus clientes no podían llamarse entre sí",
+      "resumen": "A pesar de que la telefonía llegó al país en el siglo XIX, las familias que tenían el servicio con una compañía, no podían comunicarse con quienes estuvieran con la competencia.",
+      "link": "https://expansion.mx/tendencias/2026/08/30/antes-de-telmex-dos-companias-telefonicas-competian",
+      "fecha": "30 Aug 2026, 10:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "4TechPlus, representada por Tomás Milmo Santos y algunos accionistas de Axtel, ya presentó la documentación ante la CNBV para avanzar con las ofertas.",
       "link": "https://expansion.mx/empresas/2026/08/27/axtel-aprueba-oferta-de-4techplus-para-comprar-hasta-100-de-las-acciones",
       "fecha": "27 Aug 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telcel reporta caída en ventas de celulares por registro telefónico y escasez de chips",
-      "resumen": "Telcel vio caer sus ingresos 1.7% en equipos debido al registro telefónico que modifica los hábitos de la renovación y un escenario de mayor presión en los precios de los celulares por los semiconduct…",
-      "link": "https://expansion.mx/empresas/2026/08/27/telcel-registro-telefonico-frena-ventas-escasez-chips",
-      "fecha": "27 Aug 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "KidZania cambia su estrategia en México tras el cierre de Kinezis: ahora va por los adultos",
-      "resumen": "La empresa proyecta sumar 22,000 visitantes al mes con su nueva experiencia nocturna, mientras ajusta sus formatos y retoma la expansión internacional tras cinco años de aperturas limitadas.",
-      "link": "https://expansion.mx/empresas/2026/08/27/kidzania-cambia-estrategia-mexico-adultos",
-      "fecha": "27 Aug 2026, 17:08 hrs"
     },
     {
       "fuente": "Reforma",
