@@ -1,16 +1,7 @@
 {
-  "actualizado": "31/08/2026 11:54 hrs",
+  "actualizado": "31/08/2026 16:31 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
-      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
-      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
-      "fecha": "31 Aug 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,51 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
+      "resumen": "La operación, en caso de aprobarse, le sumaría a Afore Coppel 1.9 millones de cuentas de trabajadores y 349 mil millones de pesos en recursos administrados.",
+      "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
+      "fecha": "27 Aug 2026, 21:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
+      "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
+      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
+      "fecha": "31 Aug 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Qué pasará con tu línea telefónica si no haces el registro celular antes de la fecha límite",
+      "resumen": "Los usuarios con números telefónicos que terminan en 2 podrían perder su línea y enfrentar una reasignación por parte de la empresa telefónica si no cumplenn con el registro celular.",
+      "link": "https://expansion.mx/empresas/2026/08/31/que-pasa-con-mi-linea-si-no-hago-registro-celular-fecha-limite",
+      "fecha": "31 Aug 2026, 11:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México atrae inversiones millonarias en centros de datos, pero los apagones exhiben el límite de su red eléctrica",
+      "resumen": "Querétaro es atractivo por su baja sismicidad y cercanía con la capital. En la entidad se han instalado centros de datos, empresas del sector automotriz y aeroespacial.",
+      "link": "https://expansion.mx/empresas/2026/08/31/mexico-inversiones-centros-datos-apagon-limite-red-electrica",
+      "fecha": "31 Aug 2026, 08:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Telcel reporta caída en ventas de celulares por registro telefónico y escasez de chips",
+      "resumen": "Telcel vio caer sus ingresos 1.7% en equipos debido al registro telefónico que modifica los hábitos de la renovación y un escenario de mayor presión en los precios de los celulares por los semiconduct…",
+      "link": "https://expansion.mx/empresas/2026/08/31/adios-chip-telefono-barato-telcel",
+      "fecha": "31 Aug 2026, 08:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
@@ -109,42 +145,6 @@
       "resumen": "Oxxo es una de las principales cadenas de tiendas de conveniencia en México, con una expansión constante por todo el país.",
       "link": "https://expansion.mx/empresas/2026/08/28/quieres-poner-oxxo-necesitas-administrar-tienda-franquicia",
       "fecha": "28 Aug 2026, 13:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El día que Emilio Azcárraga Milmo regañó a un empleado por traer su gafete en el cinturón y terminó regalándole su Rolex",
-      "resumen": "Un encuentro en el elevador de Televisa mostró la obsesión de “El Tigre” con la disciplina y terminó con un inesperado premio para un empleado.",
-      "link": "https://expansion.mx/empresas/2026/08/28/emilio-azcarraga-milmo-regano-empleado-por-gafete",
-      "fecha": "28 Aug 2026, 12:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tu línea Telcel, AT&T o Bait termina en número 1: este es el último día para el registro telefónico",
-      "resumen": "El proceso seguirá de forma escalonada hasta diciembre. Conoce el calendario, los plazos para registrar tu línea y qué hacer si ya fue suspendida.",
-      "link": "https://expansion.mx/empresas/2026/08/28/linea-termina-1-ultimo-dia-registro-telefonico",
-      "fecha": "28 Aug 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Suzuki resiente el arancel de 50% y ajusta su oferta de autos para mantener precios competitivos",
-      "resumen": "La automotriz japonesa elevó sus importaciones desde Japón mientras sus ventas en México cayeron 18% entre enero y julio. Baleno se encamina a salir de su portafolio.",
-      "link": "https://expansion.mx/empresas/2026/08/28/suzuki-importara-mas-swift-jimny-japon-esquivar-arancel-50",
-      "fecha": "28 Aug 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Axtel aprueba oferta de 4TechPlus para comprar hasta 100% de las acciones",
-      "resumen": "4TechPlus, representada por Tomás Milmo Santos y algunos accionistas de Axtel, ya presentó la documentación ante la CNBV para avanzar con las ofertas.",
-      "link": "https://expansion.mx/empresas/2026/08/27/axtel-aprueba-oferta-de-4techplus-para-comprar-hasta-100-de-las-acciones",
-      "fecha": "27 Aug 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
