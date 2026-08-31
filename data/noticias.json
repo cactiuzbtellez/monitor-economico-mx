@@ -1,7 +1,16 @@
 {
-  "actualizado": "31/08/2026 04:43 hrs",
+  "actualizado": "31/08/2026 11:54 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
+      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
+      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
+      "fecha": "31 Aug 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "No solo el huevo, otros alimentos que forman parte de la dieta de los mexicanos registraron un aumento en la primera quincena de agosto.",
       "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
       "fecha": "28 Aug 2026, 10:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Coppel, cerca de adquirir Afore Invercap por 4,620 millones de pesos",
-      "resumen": "La operación, en caso de aprobarse, le sumaría a Afore Coppel 1.9 millones de cuentas de trabajadores y 349 mil millones de pesos en recursos administrados.",
-      "link": "https://expansion.mx/economia/2026/08/27/afore-coppel-compra-invercap-por-4-620-millones-pesos",
-      "fecha": "27 Aug 2026, 21:24 hrs"
     },
     {
       "fuente": "Expansión",
