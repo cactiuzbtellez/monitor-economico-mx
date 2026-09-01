@@ -1,25 +1,7 @@
 {
-  "actualizado": "01/09/2026 07:08 hrs",
+  "actualizado": "01/09/2026 11:38 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
-      "resumen": "La sequía y el estrés hídrico podrían afectar cultivos como maíz, frijol y café, mientras el golpe se extendería hasta el año próximo por el rezago de los  agropecuarios y su impacto al consumidor.",
-      "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
-      "fecha": "31 Aug 2026, 18:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
-      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum para reformar la Ley de Inversión Extranjera llega cuando la seguridad económica gana peso en la revisión del tratado y el origen del capital cobra rel…",
-      "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
-      "fecha": "31 Aug 2026, 15:57 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,83 +58,110 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Tope a gasolina regular y diésel se extiende por otros seis meses",
-      "resumen": "En 24 pesos el litro de gasolina verde y 27 pesos el litro de diésel es el precio máximo sugerido por el gobierno para venta al público.",
-      "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
-      "fecha": "31 Aug 2026, 22:38 hrs"
+      "titulo": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
+      "resumen": "México alcanzó el cuarto mayor crecimiento exportador entre las grandes economías en el segundo trimestre del año, por encima del promedio de 5.9%.",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
+      "fecha": "28 Aug 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Huevo y otros alimentos que subieron de precio en agosto y que presionan el bolsillo de los mexicanos",
+      "resumen": "No solo el huevo, otros alimentos que forman parte de la dieta de los mexicanos registraron un aumento en la primera quincena de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/huevo-otros-alimentos-subieron-precio-agosto-2026-inflacion",
+      "fecha": "28 Aug 2026, 10:06 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Acero mexicano se suma al contenido nacional que deben tener obras públicas",
-      "resumen": "El porcentaje de acero que tendrá cada obra dependerá de la disponibilidad que haya en el país, los plazos de entrega y la calidad requerida.",
-      "link": "https://expansion.mx/empresas/2026/08/31/acero-mexicano-se-suma-al-contenido-nacional-que-deben-tener-obras-publicas",
-      "fecha": "31 Aug 2026, 21:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
-      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
-      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
-      "fecha": "31 Aug 2026, 18:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
-      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
-      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
-      "fecha": "31 Aug 2026, 18:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
-      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
-      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
-      "fecha": "31 Aug 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Esta es la fecha oficial del Buen Fin 2026: cuándo empieza y todo lo que debes saber para aprovechar los descuentos",
-      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
-      "link": "https://expansion.mx/empresas/2026/08/31/fecha-oficial-buen-fin-2026-cuando-empieza-descuentos",
-      "fecha": "31 Aug 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
+      "titulo": "SUV eléctricas: 120,100 pesos separan a la más barata de la más cara, pero ambas pueden hacer esto",
       "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
-      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
-      "fecha": "31 Aug 2026, 15:30 hrs"
+      "link": "https://expansion.mx/empresas/2026/08/31/suv-electricas-120-100-pesos-separan-a-mas-barata-mas-cara",
+      "fecha": "31 Aug 2026, 09:30 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Qué pasará con tu línea telefónica si no haces el registro celular antes de la fecha límite",
-      "resumen": "Los usuarios con números telefónicos que terminan en 2 podrían perder su línea y enfrentar una reasignación por parte de la empresa telefónica si no cumplenn con el registro celular.",
-      "link": "https://expansion.mx/empresas/2026/08/31/que-pasa-con-mi-linea-si-no-hago-registro-celular-fecha-limite",
-      "fecha": "31 Aug 2026, 11:13 hrs"
+      "titulo": "México atrae inversiones millonarias en centros de datos, pero los apagones exhiben el límite de su red eléctrica",
+      "resumen": "Querétaro es atractivo por su baja sismicidad y cercanía con la capital. En la entidad se han instalado centros de datos, empresas del sector automotriz y aeroespacial.",
+      "link": "https://expansion.mx/empresas/2026/08/31/mexico-inversiones-centros-datos-apagon-limite-red-electrica",
+      "fecha": "31 Aug 2026, 08:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Telcel reporta caída en ventas de celulares por registro telefónico y escasez de chips",
+      "resumen": "Telcel vio caer sus ingresos 1.7% en equipos debido al registro telefónico que modifica los hábitos de la renovación y un escenario de mayor presión en los precios de los celulares por los semiconduct…",
+      "link": "https://expansion.mx/empresas/2026/08/31/adios-chip-telefono-barato-telcel",
+      "fecha": "31 Aug 2026, 08:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen reduce un turno en Puebla: ¿qué pasará con la producción del Jetta y Tiguan en México?",
+      "resumen": "La automotriz alemana anunció que eliminará de manera indefinida uno de los tres turnos enfocados en la producción de Jetta y Tiguan en Puebla, una medida que afectará a 786 trabajadores.",
+      "link": "https://expansion.mx/empresas/2026/08/30/que-pasara-con-la-produccion-del-jetta-y-tiguan-en-mexico",
+      "fecha": "30 Aug 2026, 10:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Telmex, dos compañías telefónicas competían en México y sus clientes no podían llamarse entre sí",
+      "resumen": "A pesar de que la telefonía llegó al país en el siglo XIX, las familias que tenían el servicio con una compañía, no podían comunicarse con quienes estuvieran con la competencia.",
+      "link": "https://expansion.mx/tendencias/2026/08/30/antes-de-telmex-dos-companias-telefonicas-competian",
+      "fecha": "30 Aug 2026, 10:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Porsche cambia el rumbo de su electrificación y ofrecerá la Cayenne en tres motorizaciones en México",
+      "resumen": "La Cayenne eléctrica llega a México como parte de una estrategia más flexible de Porsche, que mantendrá motores de combustión e híbridos enchufables hasta bien entrada la década de 2030.",
+      "link": "https://expansion.mx/empresas/2026/08/28/porsche-lanza-cayenne-no-abandona-gasolina-cambia-estrategia",
+      "fecha": "28 Aug 2026, 13:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quieres \"poner\" un Oxxo? Lo que necesitas para administrar una tienda sin desembolsar millones en una franquicia",
+      "resumen": "Oxxo es una de las principales cadenas de tiendas de conveniencia en México, con una expansión constante por todo el país.",
+      "link": "https://expansion.mx/empresas/2026/08/28/quieres-poner-oxxo-necesitas-administrar-tienda-franquicia",
+      "fecha": "28 Aug 2026, 13:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El día que Emilio Azcárraga Milmo regañó a un empleado por traer su gafete en el cinturón y terminó regalándole su Rolex",
+      "resumen": "Un encuentro en el elevador de Televisa mostró la obsesión de “El Tigre” con la disciplina y terminó con un inesperado premio para un empleado.",
+      "link": "https://expansion.mx/empresas/2026/08/28/emilio-azcarraga-milmo-regano-empleado-por-gafete",
+      "fecha": "28 Aug 2026, 12:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se reconfigura sector industrial",
-      "resumen": "Para la industria mexicana, la aplicación de aranceles de 25% al sector automotriz ha reordenado las exportaciones y la creación de empleos.",
-      "link": "https://www.reforma.com/se-reconfigura-sector-industrial/ar3267697",
+      "titulo": "Restablece CFE energía al 100% tras apagón por 'vandalismo'",
+      "resumen": "CFE restableció energía al 100% a usuarios de Yucatán, QR, Campeche y Chiapas tras afectación por 'vandalismo' en dos líneas de transmisión.",
+      "link": "https://www.reforma.com/restablece-cfe-energia-al-100-tras-apagon-por-vandalismo/ar3267812",
+      "fecha": "01 Sep 2026, 06:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Golpea apagón a la Península",
+      "resumen": "Un mega-apagón se registró ayer en QR, Yucatán, Campeche y Chiapas; a las 23:00, CFE dijo que había restablecido servicio apenas a un 12%.",
+      "link": "https://www.reforma.com/golpea-apagon-a-la-peninsula/ar3267746",
       "fecha": "01 Sep 2026, 05:01 hrs"
     },
     {
@@ -168,55 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lidera Quintana Roo inflación entre los estados",
-      "resumen": "Quintana Roo registró la mayor inflación del País durante la primera quincena de agosto, con una tasa anual de 4.84%, reveló Inegi.",
-      "link": "https://www.reforma.com/lidera-quintana-roo-inflacion-entre-los-estados/ar3267690",
+      "titulo": "Sube deuda pública 32.6% durante la 4T",
+      "resumen": "En julio, deuda de sector público federal se ubicó en 20 billones 603,590.9 mdp, 32.6% más respecto a diciembre de 2018, cuando asumió AMLO.",
+      "link": "https://www.reforma.com/sube-deuda-publica-32-6-durante-la-4t/ar3267709",
       "fecha": "01 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Olvida la CFE 'apagar' centrales de ¡50 años!",
-      "resumen": "Programa de retiro de centrales eléctricas de la CFE tiene más de seis años detenido provocando que 25% de su tiempo estés fuera por fallas.",
-      "link": "https://www.reforma.com/olvida-la-cfe-apagar-centrales-de-50-anos/ar3267688",
-      "fecha": "01 Sep 2026, 05:01 hrs"
+      "titulo": "Detienen exportación bovina por exceso de peso",
+      "resumen": "Ganaderos informaron que su exportación a EU desde Agua Prieta fue detenida debido a intentos de cruzar animales demasiado pesados.",
+      "link": "https://www.reforma.com/detienen-exportacion-bovina-por-exceso-de-peso/ar3267707",
+      "fecha": "01 Sep 2026, 08:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierden carreteras por falta de fondos",
-      "resumen": "Política de austeridad presupuestal ha provocado que el Estado pierda su capacidad para garantizar la seguridad en las carreteras del País.",
-      "link": "https://www.reforma.com/pierden-carreteras-por-falta-de-fondos/ar3267684",
-      "fecha": "01 Sep 2026, 05:01 hrs"
+      "titulo": "Subirían 35% nóminas hoteleras en NL por reforma",
+      "resumen": "Advierte sector hotelero que implementar jornada recortada \na 40 horas elevaría costos operativos.",
+      "link": "https://www.reforma.com/subirian-35-nominas-hoteleras-en-nl-por-reforma/ar3267705",
+      "fecha": "01 Sep 2026, 08:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a ampliar el padrón fiscal",
-      "resumen": "Es urgente ampliar el padrón de contribuyentes en México para aliviar la presión sobre las finanzas públicas, coinciden especialistas.",
-      "link": "https://www.reforma.com/urgen-a-ampliar-el-padron-fiscal/ar3267678",
-      "fecha": "01 Sep 2026, 05:01 hrs"
+      "titulo": "Sufren empresas hasta 6 apagones en un día",
+      "resumen": "Revelan que industria de NL llega a sufrir en un solo día hasta 6 interrupciones de corta duración en el suministro eléctrico de la CFE.",
+      "link": "https://www.reforma.com/sufren-empresas-hasta-6-apagones-en-un-dia/ar3267695",
+      "fecha": "01 Sep 2026, 08:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preocupa competencia textil asiática en licitaciones",
-      "resumen": "Contrabando, piratería, dumping y licitaciones no son los únicos retos que enfrenta la industria textil nacional, señaló Canaintex.",
-      "link": "https://www.reforma.com/preocupa-competencia-textil-asiatica-en-licitaciones/ar3267661",
-      "fecha": "01 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene sector turístico deficiencias contra trata de personas",
-      "resumen": "Mayoría del personal del sector turístico carece de capacitación para actuar antes casos sospechoso de trata de personas, señaló UNODC.",
-      "link": "https://www.reforma.com/tiene-sector-turistico-deficiencias-contra-trata-de-personas/ar3267516",
-      "fecha": "31 Aug 2026, 17:47 hrs"
+      "titulo": "Cae 16% recaudación de ISR en manufactura",
+      "resumen": "Ante menor dinamismo de industria manufactura en el País, la recaudación del ISR en ese sector bajó 15.7% real anual en el primer semestre.",
+      "link": "https://www.reforma.com/cae-16-recaudacion-de-isr-en-manufactura/ar3267694",
+      "fecha": "01 Sep 2026, 08:50 hrs"
     }
   ]
 }
