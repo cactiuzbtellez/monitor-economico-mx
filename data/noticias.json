@@ -1,7 +1,16 @@
 {
-  "actualizado": "01/09/2026 01:20 hrs",
+  "actualizado": "01/09/2026 07:08 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
+      "resumen": "La sequía y el estrés hídrico podrían afectar cultivos como maíz, frijol y café, mientras el golpe se extendería hasta el año próximo por el rezago de los  agropecuarios y su impacto al consumidor.",
+      "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
+      "fecha": "31 Aug 2026, 18:07 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Con esta oferta en el mercado japonés, la Secretaría de Hacienda concluye su programa de emisiones en los mercados externos para 2026.",
       "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
       "fecha": "28 Aug 2026, 15:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
-      "resumen": "México alcanzó el cuarto mayor crecimiento exportador entre las grandes economías en el segundo trimestre del año, por encima del promedio de 5.9%.",
-      "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
-      "fecha": "28 Aug 2026, 13:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,19 +150,64 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Debuta Shein en bolsa; cae más de 9%",
-      "resumen": "La firma de moda ultrarrápida Shein finalmente salió a bolsa, pero sus acciones cayeron cerca de 10 por ciento en su debut en Hong Kong.",
-      "link": "https://www.reforma.com/debuta-shein-en-bolsa-cae-mas-de-9/ar3267655",
-      "fecha": "31 Aug 2026, 21:11 hrs"
+      "titulo": "Se reconfigura sector industrial",
+      "resumen": "Para la industria mexicana, la aplicación de aranceles de 25% al sector automotriz ha reordenado las exportaciones y la creación de empleos.",
+      "link": "https://www.reforma.com/se-reconfigura-sector-industrial/ar3267697",
+      "fecha": "01 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afectan apagones a Yucatán, QR y Chiapas",
-      "resumen": "CFE informó que derivado de la desconexión de 2 líneas de transmisión se afectó suministro de energía a usuarios de Yucatán, QR y Chiapas.",
-      "link": "https://www.reforma.com/afectan-apagones-a-yucatan-qr-y-chiapas/ar3267644",
-      "fecha": "31 Aug 2026, 20:32 hrs"
+      "titulo": "Presentan más riesgos derechos de audiencias",
+      "resumen": "Los nuevos Lineamientos de Derechos de las Audiencias aún mantienen facultades para generar incertidumbre, advirtió AIXM.",
+      "link": "https://www.reforma.com/presentan-mas-riesgos-derechos-de-audiencias/ar3267716",
+      "fecha": "01 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lidera Quintana Roo inflación entre los estados",
+      "resumen": "Quintana Roo registró la mayor inflación del País durante la primera quincena de agosto, con una tasa anual de 4.84%, reveló Inegi.",
+      "link": "https://www.reforma.com/lidera-quintana-roo-inflacion-entre-los-estados/ar3267690",
+      "fecha": "01 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Olvida la CFE 'apagar' centrales de ¡50 años!",
+      "resumen": "Programa de retiro de centrales eléctricas de la CFE tiene más de seis años detenido provocando que 25% de su tiempo estés fuera por fallas.",
+      "link": "https://www.reforma.com/olvida-la-cfe-apagar-centrales-de-50-anos/ar3267688",
+      "fecha": "01 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierden carreteras por falta de fondos",
+      "resumen": "Política de austeridad presupuestal ha provocado que el Estado pierda su capacidad para garantizar la seguridad en las carreteras del País.",
+      "link": "https://www.reforma.com/pierden-carreteras-por-falta-de-fondos/ar3267684",
+      "fecha": "01 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen a ampliar el padrón fiscal",
+      "resumen": "Es urgente ampliar el padrón de contribuyentes en México para aliviar la presión sobre las finanzas públicas, coinciden especialistas.",
+      "link": "https://www.reforma.com/urgen-a-ampliar-el-padron-fiscal/ar3267678",
+      "fecha": "01 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Preocupa competencia textil asiática en licitaciones",
+      "resumen": "Contrabando, piratería, dumping y licitaciones no son los únicos retos que enfrenta la industria textil nacional, señaló Canaintex.",
+      "link": "https://www.reforma.com/preocupa-competencia-textil-asiatica-en-licitaciones/ar3267661",
+      "fecha": "01 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "Mayoría del personal del sector turístico carece de capacitación para actuar antes casos sospechoso de trata de personas, señaló UNODC.",
       "link": "https://www.reforma.com/tiene-sector-turistico-deficiencias-contra-trata-de-personas/ar3267516",
       "fecha": "31 Aug 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden que Segundo Informe incluya objetivos a largo plazo",
-      "resumen": "Consultores Internacionales solicitó que para el Segundo Informe se explique cómo se sostendrán en el tiempo los avances logrados.",
-      "link": "https://www.reforma.com/piden-que-segundo-informe-incluya-objetivos-a-largo-plazo/ar3267442",
-      "fecha": "31 Aug 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ve Multiva oportunidades para invertir por nearshoring",
-      "resumen": "Nearshoring está creando oportunidades para invertir y desarrollar infraestructura que potencie la economía, aseveró Banco Multiva.",
-      "link": "https://www.reforma.com/ve-multiva-oportunidades-para-invertir-por-nearshoring/ar3267438",
-      "fecha": "31 Aug 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pide IP un Paquete Económico responsable para 2027",
-      "resumen": "Líderes empresariales advirtieron que el Paquete Económico para el 2027 debe ser responsable y con un gasto eficiente.",
-      "link": "https://www.reforma.com/pide-ip-un-paquete-economico-responsable-para-2027/ar3267357",
-      "fecha": "31 Aug 2026, 15:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aseguran reducción a la mitad de la deuda pública de Hidalgo",
-      "resumen": "Hidalgo disminuyó casi a la mitad la deuda pública, aseguró, sin dar cifras, Ramírez Vargas, Secretaria de Hacienda de la entidad.",
-      "link": "https://www.reforma.com/aseguran-reduccion-a-la-mitad-de-la-deuda-publica-de-hidalgo/ar3267346",
-      "fecha": "31 Aug 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar agosto en $16.99",
-      "resumen": "El dólar cerró este lunes con una cotización de $16.99; cifra 3.87 centavos menor a lo registrado el viernes.",
-      "link": "https://www.reforma.com/cierra-dolar-agosto-en-16-99/ar3267166",
-      "fecha": "31 Aug 2026, 18:46 hrs"
     }
   ]
 }
