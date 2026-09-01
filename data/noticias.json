@@ -1,5 +1,222 @@
 {
-  "actualizado": "31/08/2026 19:40 hrs",
-  "total": 0,
-  "noticias": []
+  "actualizado": "01/09/2026 01:20 hrs",
+  "total": 24,
+  "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
+      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum para reformar la Ley de Inversión Extranjera llega cuando la seguridad económica gana peso en la revisión del tratado y el origen del capital cobra rel…",
+      "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
+      "fecha": "31 Aug 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
+      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
+      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
+      "fecha": "31 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
+      "resumen": "Además de resolver la huelga, la institución tendrá que encontrar una forma más eficiente de vender las prendas que sus clientes ya no recuperen.",
+      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
+      "fecha": "30 Aug 2026, 15:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
+      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+      "fecha": "29 Aug 2026, 18:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
+      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
+      "fecha": "28 Aug 2026, 18:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+      "resumen": "El pago del Impuesto Sobre la Renta (ISR), registró una diferencia de 119,000 millones de pesos entre lo programado y lo observado para enero-julio, de acuerdo con la dependencia.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+      "fecha": "28 Aug 2026, 17:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México coloca bonos samurái por más de 1,700 millones de dólares",
+      "resumen": "Con esta oferta en el mercado japonés, la Secretaría de Hacienda concluye su programa de emisiones en los mercados externos para 2026.",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-bonos-samurai-1700-millones-dolares",
+      "fecha": "28 Aug 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México deja atrás a China y EU en crecimiento exportador dentro del G20",
+      "resumen": "México alcanzó el cuarto mayor crecimiento exportador entre las grandes economías en el segundo trimestre del año, por encima del promedio de 5.9%.",
+      "link": "https://expansion.mx/economia/2026/08/28/mexico-supera-china-eu-crecimiento-exportaciones-g20",
+      "fecha": "28 Aug 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tope a gasolina regular y diésel se extiende por otros seis meses",
+      "resumen": "En 24 pesos el litro de gasolina verde y 27 pesos el litro de diésel es el precio máximo sugerido por el gobierno para venta al público.",
+      "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
+      "fecha": "31 Aug 2026, 22:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Acero mexicano se suma al contenido nacional que deben tener obras públicas",
+      "resumen": "El porcentaje de acero que tendrá cada obra dependerá de la disponibilidad que haya en el país, los plazos de entrega y la calidad requerida.",
+      "link": "https://expansion.mx/empresas/2026/08/31/acero-mexicano-se-suma-al-contenido-nacional-que-deben-tener-obras-publicas",
+      "fecha": "31 Aug 2026, 21:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
+      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
+      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
+      "fecha": "31 Aug 2026, 18:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
+      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
+      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
+      "fecha": "31 Aug 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
+      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
+      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
+      "fecha": "31 Aug 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta es la fecha oficial del Buen Fin 2026: cuándo empieza y todo lo que debes saber para aprovechar los descuentos",
+      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
+      "link": "https://expansion.mx/empresas/2026/08/31/fecha-oficial-buen-fin-2026-cuando-empieza-descuentos",
+      "fecha": "31 Aug 2026, 17:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
+      "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
+      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
+      "fecha": "31 Aug 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Qué pasará con tu línea telefónica si no haces el registro celular antes de la fecha límite",
+      "resumen": "Los usuarios con números telefónicos que terminan en 2 podrían perder su línea y enfrentar una reasignación por parte de la empresa telefónica si no cumplenn con el registro celular.",
+      "link": "https://expansion.mx/empresas/2026/08/31/que-pasa-con-mi-linea-si-no-hago-registro-celular-fecha-limite",
+      "fecha": "31 Aug 2026, 11:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Debuta Shein en bolsa; cae más de 9%",
+      "resumen": "La firma de moda ultrarrápida Shein finalmente salió a bolsa, pero sus acciones cayeron cerca de 10 por ciento en su debut en Hong Kong.",
+      "link": "https://www.reforma.com/debuta-shein-en-bolsa-cae-mas-de-9/ar3267655",
+      "fecha": "31 Aug 2026, 21:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afectan apagones a Yucatán, QR y Chiapas",
+      "resumen": "CFE informó que derivado de la desconexión de 2 líneas de transmisión se afectó suministro de energía a usuarios de Yucatán, QR y Chiapas.",
+      "link": "https://www.reforma.com/afectan-apagones-a-yucatan-qr-y-chiapas/ar3267644",
+      "fecha": "31 Aug 2026, 20:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene sector turístico deficiencias contra trata de personas",
+      "resumen": "Mayoría del personal del sector turístico carece de capacitación para actuar antes casos sospechoso de trata de personas, señaló UNODC.",
+      "link": "https://www.reforma.com/tiene-sector-turistico-deficiencias-contra-trata-de-personas/ar3267516",
+      "fecha": "31 Aug 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden que Segundo Informe incluya objetivos a largo plazo",
+      "resumen": "Consultores Internacionales solicitó que para el Segundo Informe se explique cómo se sostendrán en el tiempo los avances logrados.",
+      "link": "https://www.reforma.com/piden-que-segundo-informe-incluya-objetivos-a-largo-plazo/ar3267442",
+      "fecha": "31 Aug 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ve Multiva oportunidades para invertir por nearshoring",
+      "resumen": "Nearshoring está creando oportunidades para invertir y desarrollar infraestructura que potencie la economía, aseveró Banco Multiva.",
+      "link": "https://www.reforma.com/ve-multiva-oportunidades-para-invertir-por-nearshoring/ar3267438",
+      "fecha": "31 Aug 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide IP un Paquete Económico responsable para 2027",
+      "resumen": "Líderes empresariales advirtieron que el Paquete Económico para el 2027 debe ser responsable y con un gasto eficiente.",
+      "link": "https://www.reforma.com/pide-ip-un-paquete-economico-responsable-para-2027/ar3267357",
+      "fecha": "31 Aug 2026, 15:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aseguran reducción a la mitad de la deuda pública de Hidalgo",
+      "resumen": "Hidalgo disminuyó casi a la mitad la deuda pública, aseguró, sin dar cifras, Ramírez Vargas, Secretaria de Hacienda de la entidad.",
+      "link": "https://www.reforma.com/aseguran-reduccion-a-la-mitad-de-la-deuda-publica-de-hidalgo/ar3267346",
+      "fecha": "31 Aug 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar agosto en $16.99",
+      "resumen": "El dólar cerró este lunes con una cotización de $16.99; cifra 3.87 centavos menor a lo registrado el viernes.",
+      "link": "https://www.reforma.com/cierra-dolar-agosto-en-16-99/ar3267166",
+      "fecha": "31 Aug 2026, 18:46 hrs"
+    }
+  ]
 }
