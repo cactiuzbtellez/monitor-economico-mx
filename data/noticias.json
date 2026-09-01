@@ -1,7 +1,16 @@
 {
-  "actualizado": "01/09/2026 14:37 hrs",
+  "actualizado": "01/09/2026 17:03 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
+      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
+      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
+      "fecha": "01 Sep 2026, 16:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
-      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
-      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
-      "fecha": "28 Aug 2026, 18:41 hrs"
+      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
+      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
+      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
+      "fecha": "01 Sep 2026, 15:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bayer apuesta por 10 productos agrícolas para impulsar ventas por más de 3,500 millones de euros",
+      "resumen": "Entre los 10 productos está Preceon, un sistema de maíz de baja altura que ya se comercializa en México. Su menor tamaño y su sistema de raíces reduce la exposición de las plantas a condiciones climát…",
+      "link": "https://expansion.mx/empresas/2026/09/01/bayer-apuesta-10-productos-agricolas-500-millones-euros",
+      "fecha": "01 Sep 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
+      "resumen": "La disputa por Axtel suma un nuevo contendiente, Flō Networks que busca quedarse con hasta 100% de la compañía, apenas días después de la oferta encabezada por el empresario Tomás Milmo.",
+      "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
+      "fecha": "01 Sep 2026, 12:23 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
       "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
       "fecha": "31 Aug 2026, 18:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
-      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
-      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
-      "fecha": "31 Aug 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Esta es la fecha oficial del Buen Fin 2026: cuándo empieza y todo lo que debes saber para aprovechar los descuentos",
-      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
-      "link": "https://expansion.mx/empresas/2026/08/31/fecha-oficial-buen-fin-2026-cuando-empieza-descuentos",
-      "fecha": "31 Aug 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
-      "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
-      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
-      "fecha": "31 Aug 2026, 15:30 hrs"
     },
     {
       "fuente": "Reforma",
