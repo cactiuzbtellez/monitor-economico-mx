@@ -1,34 +1,7 @@
 {
-  "actualizado": "02/09/2026 11:37 hrs",
+  "actualizado": "02/09/2026 14:34 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
-      "resumen": "Se revisará y actualizará el Impuesto Especial a Producción y Servicios (IEPS) a alimentos con alto contenido de sodio, como sopas instantáneas y a bebidas alcohólicas para 2027.",
-      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
-      "fecha": "02 Sep 2026, 09:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México debe reducir el déficit para blindar su grado de inversión en 2027",
-      "resumen": "Las calificadoras vigilan la deuda y el bajo crecimiento, mientras Hacienda busca llevar los requerimientos financieros del sector público a una senda de mayor consolidación.",
-      "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
-      "fecha": "02 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
-      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
-      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
-      "fecha": "01 Sep 2026, 17:26 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +49,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
-      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
-      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
-      "fecha": "01 Sep 2026, 18:26 hrs"
+      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
+      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
+      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
+      "fecha": "31 Aug 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
-      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
-      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
-      "fecha": "01 Sep 2026, 17:45 hrs"
+      "titulo": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
+      "resumen": "Además de resolver la huelga, la institución tendrá que encontrar una forma más eficiente de vender las prendas que sus clientes ya no recuperen.",
+      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
+      "fecha": "30 Aug 2026, 15:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
+      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+      "fecha": "29 Aug 2026, 18:03 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +129,42 @@
       "fecha": "31 Aug 2026, 21:06 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
+      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
+      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
+      "fecha": "31 Aug 2026, 18:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
+      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
+      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
+      "fecha": "31 Aug 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reportan fallas en la red X",
+      "resumen": "En el transcurso de la mañana se han presentado fallas en la red X, antes Twitter.",
+      "link": "https://www.reforma.com/reportan-fallas-en-la-red-x/ar3268712",
+      "fecha": "02 Sep 2026, 11:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Deja Canadá antecedente negativo para revisión de T-MEC",
+      "resumen": "La caída de acuerdo con Canadá y EU deja el antecedente de que Trump puede endurecer requisitos de último momento en la revisión del T-MEC.",
+      "link": "https://www.reforma.com/deja-canada-antecedente-negativo-para-revision-de-t-mec/ar3268695",
+      "fecha": "02 Sep 2026, 11:53 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -177,10 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evita Google venta de plataforma de intercambio de anuncios",
-      "resumen": "Google no tendrá que vender su plataforma de intercambio de anuncios, pero deberá hacerla compatible con las de sus competidores.",
-      "link": "https://www.reforma.com/evita-google-venta-de-plataforma-de-intercambio-de-anuncios/ar3268602",
-      "fecha": "02 Sep 2026, 09:46 hrs"
+      "titulo": "Polarización distrae de lo fundamental.- JAF",
+      "resumen": "José Antonio Fernández Carbajal, presidente de Femsa, urgió a mantener un diálogo y respeto de ideas para afrontar los problemas del País.",
+      "link": "https://www.reforma.com/polarizacion-distrae-de-lo-fundamental-jaf/ar3268789",
+      "fecha": "02 Sep 2026, 13:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "¿Está barato el dólar? Pregúntele a una Big Mac",
+      "resumen": "De acuerdo con el Índice Big Mac, el peso mexicano estaría sobrevaluado alrededor de 26.5% frente al dólar.",
+      "link": "https://www.reforma.com/esta-barato-el-dolar-preguntele-a-una-big-mac/ar3268221",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "Los mercados en EU abrieron sin una dirección clara luego de dos sesiones consecutivas a la baja.",
       "link": "https://www.reforma.com/abre-wall-street-sin-direccion-clara/ar3268596",
       "fecha": "02 Sep 2026, 09:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Retrocede peso tras débiles datos empleo privado de EU",
-      "resumen": "El peso cotiza en 16.9 unidades por dólar, con una pérdida de 0.12 por ciento.",
-      "link": "https://www.reforma.com/retrocede-peso-tras-debiles-datos-empleo-privado-de-eu/ar3268594",
-      "fecha": "02 Sep 2026, 09:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sugiere Heath no bajar tasa de interés en el corto plazo",
-      "resumen": "El subgobernador del Banxico, Jonathan Heath, se mostró partidario de no bajar la tasa de interés de referencia en el corto plazo.",
-      "link": "https://www.reforma.com/sugiere-heath-no-bajar-tasa-de-interes-en-el-corto-plazo/ar3268573",
-      "fecha": "02 Sep 2026, 08:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Indagan posible dumping en placas de acero de Japón",
-      "resumen": "México inició una investigación antidumping sobre las importaciones de placas de acero originarias de Japón.",
-      "link": "https://www.reforma.com/indagan-posible-dumping-en-placas-de-acero-de-japon/ar3268572",
-      "fecha": "02 Sep 2026, 08:56 hrs"
     }
   ]
 }
