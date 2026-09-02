@@ -1,7 +1,34 @@
 {
-  "actualizado": "01/09/2026 21:07 hrs",
+  "actualizado": "02/09/2026 02:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
+      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
+      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
+      "fecha": "01 Sep 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
+      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
+      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
+      "fecha": "01 Sep 2026, 16:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "App de Banamex presenta fallas este 1 de septiembre; usuarios reciben alerta por otra sesión activa",
+      "resumen": "Usuarios reportan problemas para ingresar, transferir dinero y operar desde la app de Banamex durante las primeras horas de septiembre.",
+      "link": "https://expansion.mx/economia/2026/09/01/banamex-presenta-fallas-app-1-septiembre",
+      "fecha": "01 Sep 2026, 07:51 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
-      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
-      "fecha": "29 Aug 2026, 18:03 hrs"
+      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
+      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
+      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
+      "fecha": "01 Sep 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
-      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
-      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
-      "fecha": "28 Aug 2026, 18:41 hrs"
+      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
+      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
+      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
+      "fecha": "01 Sep 2026, 17:45 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
-      "resumen": "El pago del Impuesto Sobre la Renta (ISR), registró una diferencia de 119,000 millones de pesos entre lo programado y lo observado para enero-julio, de acuerdo con la dependencia.",
-      "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
-      "fecha": "28 Aug 2026, 17:18 hrs"
+      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
+      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
+      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
+      "fecha": "01 Sep 2026, 15:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bayer apuesta por 10 productos agrícolas para impulsar ventas por más de 3,500 millones de euros",
+      "resumen": "Entre los 10 productos está Preceon, un sistema de maíz de baja altura que ya se comercializa en México. Su menor tamaño y su sistema de raíces reduce la exposición de las plantas a condiciones climát…",
+      "link": "https://expansion.mx/empresas/2026/09/01/bayer-apuesta-10-productos-agricolas-500-millones-euros",
+      "fecha": "01 Sep 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
+      "resumen": "La disputa por Axtel suma un nuevo contendiente, Flō Networks que busca quedarse con hasta 100% de la compañía, apenas días después de la oferta encabezada por el empresario Tomás Milmo.",
+      "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
+      "fecha": "01 Sep 2026, 12:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El sedán subcompacto más caro cuesta 47,100 pesos más que el más barato, pero tiene menos espacio",
+      "resumen": "Aveo, Mazda 2, Kia K3 y Nissan Versa parten de distintos precios y ofrecen diferencias clave en espacio, cajuela, potencia y equipamiento.",
+      "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
+      "fecha": "01 Sep 2026, 11:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,58 +147,13 @@
       "fecha": "31 Aug 2026, 21:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
-      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
-      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
-      "fecha": "31 Aug 2026, 18:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
-      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
-      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
-      "fecha": "31 Aug 2026, 18:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
-      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
-      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
-      "fecha": "31 Aug 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Esta es la fecha oficial del Buen Fin 2026: cuándo empieza y todo lo que debes saber para aprovechar los descuentos",
-      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
-      "link": "https://expansion.mx/empresas/2026/08/31/fecha-oficial-buen-fin-2026-cuando-empieza-descuentos",
-      "fecha": "31 Aug 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
-      "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
-      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
-      "fecha": "31 Aug 2026, 15:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Qué pasará con tu línea telefónica si no haces el registro celular antes de la fecha límite",
-      "resumen": "Los usuarios con números telefónicos que terminan en 2 podrían perder su línea y enfrentar una reasignación por parte de la empresa telefónica si no cumplenn con el registro celular.",
-      "link": "https://expansion.mx/empresas/2026/08/31/que-pasa-con-mi-linea-si-no-hago-registro-celular-fecha-limite",
-      "fecha": "31 Aug 2026, 11:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Son pendientes de Gobierno combate a extorsión.- Coparmex",
+      "resumen": "En un balance sobre el Segundo Informe de Gobierno, Coparmex urgió a recuperar la confianza para invertir.",
+      "link": "https://www.reforma.com/son-pendientes-de-gobierno-combate-a-extorsion-coparmex/ar3268447",
+      "fecha": "01 Sep 2026, 22:45 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apalancará Bancomext inversiones en energía por 8,400 mdd",
-      "resumen": "Bancomext prevé apalancar proyectos energéticos por hasta 8 mil 400 millones de dólares.",
-      "link": "https://www.reforma.com/apalancara-bancomext-inversiones-en-energia-por-8-400-mdd/ar3268213",
-      "fecha": "01 Sep 2026, 17:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Vivaria nuevo Master Plan que redefine el sur de Monterrey",
       "resumen": "Vivaria fue concebido para familias jóvenes y en crecimiento, así como para inversionistas que buscan aprovechar la plusvalía",
       "link": "https://www.reforma.com/vivaria-nuevo-master-plan-que-redefine-el-sur-de-monterrey/ar3265592",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Usará USDA la IA para mejorar estimaciones de cosechas",
-      "resumen": "Departamento de Agricultura de EU usará la IA para mejorar sus estimaciones sobre la superficie cultivada y el rendimiento de los cultivos.",
-      "link": "https://www.reforma.com/usara-usda-la-ia-para-mejorar-estimaciones-de-cosechas/ar3268134",
-      "fecha": "01 Sep 2026, 15:15 hrs"
+      "titulo": "Apalancará Bancomext inversiones en energía por 8,400 mdd",
+      "resumen": "Bancomext prevé apalancar proyectos energéticos por hasta 8 mil 400 millones de dólares.",
+      "link": "https://www.reforma.com/apalancara-bancomext-inversiones-en-energia-por-8-400-mdd/ar3268213",
+      "fecha": "01 Sep 2026, 17:20 hrs"
     }
   ]
 }
