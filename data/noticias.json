@@ -1,25 +1,7 @@
 {
-  "actualizado": "01/09/2026 17:03 hrs",
+  "actualizado": "01/09/2026 21:07 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
-      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
-      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
-      "fecha": "01 Sep 2026, 16:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "App de Banamex presenta fallas este 1 de septiembre; usuarios reciben alerta por otra sesión activa",
-      "resumen": "Usuarios reportan problemas para ingresar, transferir dinero y operar desde la app de Banamex durante las primeras horas de septiembre.",
-      "link": "https://expansion.mx/economia/2026/09/01/banamex-presenta-fallas-app-1-septiembre",
-      "fecha": "01 Sep 2026, 07:51 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
-      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
-      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
-      "fecha": "01 Sep 2026, 15:49 hrs"
+      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
+      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
+      "fecha": "28 Aug 2026, 18:41 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Bayer apuesta por 10 productos agrícolas para impulsar ventas por más de 3,500 millones de euros",
-      "resumen": "Entre los 10 productos está Preceon, un sistema de maíz de baja altura que ya se comercializa en México. Su menor tamaño y su sistema de raíces reduce la exposición de las plantas a condiciones climát…",
-      "link": "https://expansion.mx/empresas/2026/09/01/bayer-apuesta-10-productos-agricolas-500-millones-euros",
-      "fecha": "01 Sep 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
-      "resumen": "La disputa por Axtel suma un nuevo contendiente, Flō Networks que busca quedarse con hasta 100% de la compañía, apenas días después de la oferta encabezada por el empresario Tomás Milmo.",
-      "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
-      "fecha": "01 Sep 2026, 12:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El sedán subcompacto más caro cuesta 47,100 pesos más que el más barato, pero tiene menos espacio",
-      "resumen": "Aveo, Mazda 2, Kia K3 y Nissan Versa parten de distintos precios y ofrecen diferencias clave en espacio, cajuela, potencia y equipamiento.",
-      "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
-      "fecha": "01 Sep 2026, 11:31 hrs"
+      "titulo": "Ingresos en picada; Hacienda reporta faltante por 170,000 mdp rumbo al Paquete Económico 2027",
+      "resumen": "El pago del Impuesto Sobre la Renta (ISR), registró una diferencia de 119,000 millones de pesos entre lo programado y lo observado para enero-julio, de acuerdo con la dependencia.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-ingresos-petroleros-paquete-economico-2027",
+      "fecha": "28 Aug 2026, 17:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +111,112 @@
       "fecha": "31 Aug 2026, 18:11 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevé CEO de Apple lanzamiento 'fenomenal' de iPhone",
-      "resumen": "El nuevo CEO de Apple, John Ternus, adelantó un lanzamiento \"fenomenal\" del iPhone en sus primeras declaraciones a los empleados.",
-      "link": "https://www.reforma.com/preve-ceo-de-apple-lanzamiento-fenomenal-de-iphone/ar3268014",
-      "fecha": "01 Sep 2026, 13:04 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
+      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
+      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
+      "fecha": "31 Aug 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta es la fecha oficial del Buen Fin 2026: cuándo empieza y todo lo que debes saber para aprovechar los descuentos",
+      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
+      "link": "https://expansion.mx/empresas/2026/08/31/fecha-oficial-buen-fin-2026-cuando-empieza-descuentos",
+      "fecha": "31 Aug 2026, 17:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Entre la SUV eléctrica más barata y la más cara hay 120,000 pesos de diferencia y no es por la batería",
+      "resumen": "La BYD Yuan Pro comparte con la Geely EX5 una tecnología que puede darle un uso adicional a la batería y cambiar lo que el conductor puede hacer con ella.",
+      "link": "https://expansion.mx/empresas/2026/08/31/vale-la-pena-pagar-120-000-pesos-mas-suv-electricas",
+      "fecha": "31 Aug 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Qué pasará con tu línea telefónica si no haces el registro celular antes de la fecha límite",
+      "resumen": "Los usuarios con números telefónicos que terminan en 2 podrían perder su línea y enfrentar una reasignación por parte de la empresa telefónica si no cumplenn con el registro celular.",
+      "link": "https://expansion.mx/empresas/2026/08/31/que-pasa-con-mi-linea-si-no-hago-registro-celular-fecha-limite",
+      "fecha": "31 Aug 2026, 11:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscará Flo Networks comprar 100% de Axtel",
-      "resumen": "Flo Networks, anunció su intención de lanzar ofertas públicas de adquisición simultáneas por hasta el 100% de Controladora Axtel y Axtel.",
-      "link": "https://www.reforma.com/buscara-flo-networks-comprar-100-de-axtel/ar3267959",
-      "fecha": "01 Sep 2026, 12:42 hrs"
+      "titulo": "Inicia depuración de líneas móviles terminación 1",
+      "resumen": "CRT informó que líneas de telefonía celular con terminación 1 que no hayan sido vinculadas serán suspendidas tras vencerse el 31 de agosto.",
+      "link": "https://www.reforma.com/inicia-depuracion-de-lineas-moviles-terminacion-1/ar3268364",
+      "fecha": "01 Sep 2026, 21:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recortan a 1.9% expectativa de crecimiento del PIB para 2028",
-      "resumen": "Los analistas del sector privado nacional y extranjero redujeron de 2 a 1.92 por ciento sus pronósticos de crecimiento del PIB.",
-      "link": "https://www.reforma.com/recortan-a-1-9-expectativa-de-crecimiento-del-pib-para-2028/ar3267949",
-      "fecha": "01 Sep 2026, 12:47 hrs"
+      "titulo": "Destaca Informe colocación de créditos del Infonavit",
+      "resumen": "El Infonavit aseguró que de octubre de 2024 a julio de 2026 ha otorgado más de 631 mil 576 créditos hipotecarios.",
+      "link": "https://www.reforma.com/destaca-informe-colocacion-de-creditos-del-infonavit/ar3268346",
+      "fecha": "01 Sep 2026, 20:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tocan rendimientos de bonos máximos de 20 años",
-      "resumen": "Rendimientos de bonos globales suben a máximos de 20 años, ya que alza en precios del crudo avivó temores por la inflación.",
-      "link": "https://www.reforma.com/tocan-rendimientos-de-bonos-maximos-de-20-anos/ar3267927",
-      "fecha": "01 Sep 2026, 12:42 hrs"
+      "titulo": "Avanza 60% infraestructura de carga del Tren Maya",
+      "resumen": "Gobienro federal informó que la infraestructura del Tren Maya con la cual se busca pueda mover carga, registra un avance del 60%.",
+      "link": "https://www.reforma.com/avanza-60-infraestructura-de-carga-del-tren-maya/ar3268321",
+      "fecha": "01 Sep 2026, 20:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cerrará GrafTech planta en Apodaca",
-      "resumen": "GrafTech anunció su decisión de cerrar definitivamente su planta de fabricación de electrodos de grafito ubicada en Apodaca.",
-      "link": "https://www.reforma.com/cerrara-graftech-planta-en-apodaca/ar3267891",
-      "fecha": "01 Sep 2026, 12:42 hrs"
+      "titulo": "Presumen 'control' en precios de alimentos",
+      "resumen": "Gobierno federal aseguró que, tras 4 años, el Paquete Contra la Inflación y la Carestía redujo 23.7% en el precio de la Canasta Básica.",
+      "link": "https://www.reforma.com/presumen-control-en-precios-de-alimentos/ar3268281",
+      "fecha": "01 Sep 2026, 18:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben remesas a México en julio, por sexto mes seguido",
-      "resumen": "Los capitales recibidos alcanzaron los 5 mil 571 millones de dólares, un 3 por ciento más que en el séptimo mes de 2025.",
-      "link": "https://www.reforma.com/suben-remesas-a-mexico-en-julio-por-sexto-mes-seguido/ar3267869",
-      "fecha": "01 Sep 2026, 12:43 hrs"
+      "titulo": "Prepara STPS mecanismo para detectar trabajo forzoso",
+      "resumen": "STPA, SE y Agencia Nacional de Aduanas preparan un mecanismo conjunto para evitar la importación de productos hechos bajo trabajo forzado.",
+      "link": "https://www.reforma.com/prepara-stps-mecanismo-para-detectar-trabajo-forzoso/ar3268240",
+      "fecha": "01 Sep 2026, 17:50 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se modera actividad manufacturera de EU en agosto",
-      "resumen": "La actividad manufacturera en Estados Unidos perdió ritmo en agosto y tuvo un desempeño inferior a las expectativas.",
-      "link": "https://www.reforma.com/se-modera-actividad-manufacturera-de-eu-en-agosto/ar3267853",
-      "fecha": "01 Sep 2026, 12:45 hrs"
+      "titulo": "Apalancará Bancomext inversiones en energía por 8,400 mdd",
+      "resumen": "Bancomext prevé apalancar proyectos energéticos por hasta 8 mil 400 millones de dólares.",
+      "link": "https://www.reforma.com/apalancara-bancomext-inversiones-en-energia-por-8-400-mdd/ar3268213",
+      "fecha": "01 Sep 2026, 17:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se estanca nueva IED ante creciente incertidumbre por T-MEC",
-      "resumen": "Incertidumbre por T-MEC está disuadiendo las nuevas inversiones y lleva a algunas empresas establecidas en México a buscar otras opciones.",
-      "link": "https://www.reforma.com/se-estanca-nueva-ied-ante-creciente-incertidumbre-por-t-mec/ar3267851",
-      "fecha": "01 Sep 2026, 12:42 hrs"
+      "titulo": "Vivaria nuevo Master Plan que redefine el sur de Monterrey",
+      "resumen": "Vivaria fue concebido para familias jóvenes y en crecimiento, así como para inversionistas que buscan aprovechar la plusvalía",
+      "link": "https://www.reforma.com/vivaria-nuevo-master-plan-que-redefine-el-sur-de-monterrey/ar3265592",
+      "fecha": "31 Aug 2026, 10:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Usará USDA la IA para mejorar estimaciones de cosechas",
+      "resumen": "Departamento de Agricultura de EU usará la IA para mejorar sus estimaciones sobre la superficie cultivada y el rendimiento de los cultivos.",
+      "link": "https://www.reforma.com/usara-usda-la-ia-para-mejorar-estimaciones-de-cosechas/ar3268134",
+      "fecha": "01 Sep 2026, 15:15 hrs"
     }
   ]
 }
