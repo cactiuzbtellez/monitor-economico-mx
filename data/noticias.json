@@ -1,25 +1,7 @@
 {
-  "actualizado": "02/09/2026 02:26 hrs",
+  "actualizado": "02/09/2026 07:16 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
-      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
-      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
-      "fecha": "01 Sep 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
-      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
-      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
-      "fecha": "01 Sep 2026, 16:20 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,30 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
-      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
-      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
-      "fecha": "01 Sep 2026, 18:26 hrs"
+      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
+      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
+      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
+      "fecha": "29 Aug 2026, 18:03 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
-      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
-      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
-      "fecha": "01 Sep 2026, 17:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
-      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
-      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
-      "fecha": "01 Sep 2026, 15:49 hrs"
+      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
+      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
+      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
+      "fecha": "28 Aug 2026, 18:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,58 +120,85 @@
       "fecha": "31 Aug 2026, 21:06 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Son pendientes de Gobierno combate a extorsión.- Coparmex",
-      "resumen": "En un balance sobre el Segundo Informe de Gobierno, Coparmex urgió a recuperar la confianza para invertir.",
-      "link": "https://www.reforma.com/son-pendientes-de-gobierno-combate-a-extorsion-coparmex/ar3268447",
-      "fecha": "01 Sep 2026, 22:45 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
+      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
+      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
+      "fecha": "31 Aug 2026, 18:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
+      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
+      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
+      "fecha": "31 Aug 2026, 18:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
+      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
+      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
+      "fecha": "31 Aug 2026, 17:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inicia depuración de líneas móviles terminación 1",
-      "resumen": "CRT informó que líneas de telefonía celular con terminación 1 que no hayan sido vinculadas serán suspendidas tras vencerse el 31 de agosto.",
-      "link": "https://www.reforma.com/inicia-depuracion-de-lineas-moviles-terminacion-1/ar3268364",
-      "fecha": "01 Sep 2026, 21:01 hrs"
+      "titulo": "Suben deuda 7 estados",
+      "resumen": "Durante los Gobiernos de la 4T, la deuda de algunos estados del País se ha incrementado hasta doble dígito.",
+      "link": "https://www.reforma.com/suben-deuda-7-estados/ar3268442",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca Informe colocación de créditos del Infonavit",
-      "resumen": "El Infonavit aseguró que de octubre de 2024 a julio de 2026 ha otorgado más de 631 mil 576 créditos hipotecarios.",
-      "link": "https://www.reforma.com/destaca-informe-colocacion-de-creditos-del-infonavit/ar3268346",
-      "fecha": "01 Sep 2026, 20:27 hrs"
+      "titulo": "Dudan que apagón sea por vandalismo",
+      "resumen": "Especialistas consideraron poco creíble que un acto vandálico en cadenas de aislamiento provocaran el apagón en la península de Yucatán.",
+      "link": "https://www.reforma.com/dudan-que-apagon-sea-por-vandalismo/ar3268424",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza 60% infraestructura de carga del Tren Maya",
-      "resumen": "Gobienro federal informó que la infraestructura del Tren Maya con la cual se busca pueda mover carga, registra un avance del 60%.",
-      "link": "https://www.reforma.com/avanza-60-infraestructura-de-carga-del-tren-maya/ar3268321",
-      "fecha": "01 Sep 2026, 20:09 hrs"
+      "titulo": "Señalan imprecisiones y ausencias en energía en Informe",
+      "resumen": "Segundo Informe tiene imprecisiones sobre temas críticos como el derrame de crudo en el Golfo de México, señalan especialistas.",
+      "link": "https://www.reforma.com/senalan-imprecisiones-y-ausencias-en-energia-en-informe/ar3268437",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presumen 'control' en precios de alimentos",
-      "resumen": "Gobierno federal aseguró que, tras 4 años, el Paquete Contra la Inflación y la Carestía redujo 23.7% en el precio de la Canasta Básica.",
-      "link": "https://www.reforma.com/presumen-control-en-precios-de-alimentos/ar3268281",
-      "fecha": "01 Sep 2026, 18:41 hrs"
+      "titulo": "Alista Multiva 50 mil mdp a obras de infraestructura",
+      "resumen": "Banco Multiva prevé desplegar 50 mil millones de pesos durante los próximos 18 meses para financiar proyectos de infraestructura.",
+      "link": "https://www.reforma.com/alista-multiva-50-mil-mdp-a-obras-de-infraestructura/ar3268429",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prepara STPS mecanismo para detectar trabajo forzoso",
-      "resumen": "STPA, SE y Agencia Nacional de Aduanas preparan un mecanismo conjunto para evitar la importación de productos hechos bajo trabajo forzado.",
-      "link": "https://www.reforma.com/prepara-stps-mecanismo-para-detectar-trabajo-forzoso/ar3268240",
-      "fecha": "01 Sep 2026, 17:50 hrs"
+      "titulo": "Se pierde México grandes OPIs",
+      "resumen": "Auge de IA está creando empresas gigantes antes de llegar a Bolsa y concentrando riqueza de inversionistas con acceso a mercados privados.",
+      "link": "https://www.reforma.com/se-pierde-mexico-grandes-opis/ar3268409",
+      "fecha": "02 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden crear firma para el fracking",
+      "resumen": "Especialistas consideran que se debería crear una empresa estatal con participación de la iniciativa privada para implementar fracking.",
+      "link": "https://www.reforma.com/piden-crear-firma-para-el-fracking/ar3268398",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apalancará Bancomext inversiones en energía por 8,400 mdd",
-      "resumen": "Bancomext prevé apalancar proyectos energéticos por hasta 8 mil 400 millones de dólares.",
-      "link": "https://www.reforma.com/apalancara-bancomext-inversiones-en-energia-por-8-400-mdd/ar3268213",
-      "fecha": "01 Sep 2026, 17:20 hrs"
+      "titulo": "Sigue negativa confianza fabril",
+      "resumen": "La confianza de los empresarios manufactureros extendió en agosto su deterioro anual y acumuló 27 meses consecutivos con retrocesos.",
+      "link": "https://www.reforma.com/sigue-negativa-confianza-fabril/ar3268396",
+      "fecha": "02 Sep 2026, 05:01 hrs"
     }
   ]
 }
