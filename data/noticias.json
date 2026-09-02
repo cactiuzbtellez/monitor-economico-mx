@@ -1,7 +1,34 @@
 {
-  "actualizado": "02/09/2026 14:34 hrs",
+  "actualizado": "02/09/2026 17:00 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
+      "resumen": "Se revisará y actualizará el Impuesto Especial a Producción y Servicios (IEPS) a alimentos con alto contenido de sodio, como sopas instantáneas y a bebidas alcohólicas para 2027.",
+      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
+      "fecha": "02 Sep 2026, 09:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México debe reducir el déficit para blindar su grado de inversión en 2027",
+      "resumen": "Las calificadoras vigilan la deuda y el bajo crecimiento, mientras Hacienda busca llevar los requerimientos financieros del sector público a una senda de mayor consolidación.",
+      "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
+      "fecha": "02 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
+      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
+      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
+      "fecha": "01 Sep 2026, 17:26 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
-      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
-      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
-      "fecha": "31 Aug 2026, 05:55 hrs"
+      "titulo": "Antes del Tsuru el 'Vocho' fue el auto preferido en México, ¿qué causó su fin?",
+      "resumen": "El modelo alcanzó más de 21.5 millones de unidades producidas y Puebla terminó convirtiéndose en la última fábrica del mundo que lo mantuvo en las líneas.",
+      "link": "https://expansion.mx/empresas/2026/09/02/vocho-auto-preferido-en-mexico-que-causo-su-fin",
+      "fecha": "02 Sep 2026, 08:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
-      "resumen": "Además de resolver la huelga, la institución tendrá que encontrar una forma más eficiente de vender las prendas que sus clientes ya no recuperen.",
-      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
-      "fecha": "30 Aug 2026, 15:23 hrs"
+      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
+      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
+      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
+      "fecha": "01 Sep 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
-      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
-      "fecha": "29 Aug 2026, 18:03 hrs"
+      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
+      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
+      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
+      "fecha": "01 Sep 2026, 17:45 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "En 24 pesos el litro de gasolina verde y 27 pesos el litro de diésel es el precio máximo sugerido por el gobierno para venta al público.",
       "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
       "fecha": "31 Aug 2026, 22:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Acero mexicano se suma al contenido nacional que deben tener obras públicas",
-      "resumen": "El porcentaje de acero que tendrá cada obra dependerá de la disponibilidad que haya en el país, los plazos de entrega y la calidad requerida.",
-      "link": "https://expansion.mx/empresas/2026/08/31/acero-mexicano-se-suma-al-contenido-nacional-que-deben-tener-obras-publicas",
-      "fecha": "31 Aug 2026, 21:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
-      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
-      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
-      "fecha": "31 Aug 2026, 18:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
-      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
-      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
-      "fecha": "31 Aug 2026, 18:11 hrs"
     },
     {
       "fuente": "Reforma",
