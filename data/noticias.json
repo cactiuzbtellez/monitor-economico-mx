@@ -1,7 +1,43 @@
 {
-  "actualizado": "02/09/2026 07:16 hrs",
+  "actualizado": "02/09/2026 11:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
+      "resumen": "Se revisará y actualizará el Impuesto Especial a Producción y Servicios (IEPS) a alimentos con alto contenido de sodio, como sopas instantáneas y a bebidas alcohólicas para 2027.",
+      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
+      "fecha": "02 Sep 2026, 09:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México debe reducir el déficit para blindar su grado de inversión en 2027",
+      "resumen": "Las calificadoras vigilan la deuda y el bajo crecimiento, mientras Hacienda busca llevar los requerimientos financieros del sector público a una senda de mayor consolidación.",
+      "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
+      "fecha": "02 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
+      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
+      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
+      "fecha": "01 Sep 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
+      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
+      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
+      "fecha": "01 Sep 2026, 16:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
-      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
-      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
-      "fecha": "31 Aug 2026, 05:55 hrs"
+      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
+      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
+      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
+      "fecha": "01 Sep 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Puede sobrevivir el Monte de Piedad sin sus sucursales? El negocio que tendrá que reinventar",
-      "resumen": "Además de resolver la huelga, la institución tendrá que encontrar una forma más eficiente de vender las prendas que sus clientes ya no recuperen.",
-      "link": "https://expansion.mx/economia/2026/08/30/puede-sobrevivir-monte-de-piedad-sucursales-negocio",
-      "fecha": "30 Aug 2026, 15:23 hrs"
+      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
+      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
+      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
+      "fecha": "01 Sep 2026, 17:45 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La deuda de México rebasa los 19.2 billones de pesos, sube 1.4 en un año",
-      "resumen": "Hacienda destacó que la deuda pública tiene un “nivel moderado frente a otras economías emergentes y de América Latina, consistente con una gestión fiscal responsable y un manejo prudente del financia…",
-      "link": "https://expansion.mx/economia/2026/08/29/deuda-publica-mexico-hacienda-19-billones-pesos",
-      "fecha": "29 Aug 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasolinas, con menor carga de impuestos; disminuye IEPS por segunda semana consecutiva",
-      "resumen": "Los consumidores de Magna y Premium pagarán cuotas por el gravamen ligeramente menores a las que aplicaron hasta el último viernes de agosto.",
-      "link": "https://expansion.mx/economia/2026/08/28/impuestos-gasolinas-ieps-magna-premium",
-      "fecha": "28 Aug 2026, 18:41 hrs"
+      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
+      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
+      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
+      "fecha": "01 Sep 2026, 15:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "31 Aug 2026, 21:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y sindicato llegan a preacuerdo de última hora: buscan evitar huelga",
-      "resumen": "El pacto provisional contempla un aumento salarial, así como el pago de un bono de parte de la automotriz.",
-      "link": "https://expansion.mx/empresas/2026/08/31/volkswagen-sindicato-llegan-preacuerdo-ultima-hora-huelga",
-      "fecha": "31 Aug 2026, 18:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Palacio de Hierro y Peñoles, los Baillères hicieron negocio con esta cerveza",
-      "resumen": "La familia Baillères también tuvo negocios en la industria cervecera antes de consolidar su presencia en minería, comercio y servicios financieros.",
-      "link": "https://expansion.mx/empresas/2026/08/31/antes-palacio-de-hierro-penoles-bailleres-negocio-cerveza",
-      "fecha": "31 Aug 2026, 18:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México frena la exploración minera mientras el mundo acelera la carrera por los minerales críticos",
-      "resumen": "Mientras China y Estados Unidos aseguran reservas estratégicas, México mantiene detenida la exploración privada y concentra sus esfuerzos en tres zonas que no incluyen tierras raras.",
-      "link": "https://expansion.mx/empresas/2026/08/31/mexico-polemica-estrategia-minera-tierras-raras",
-      "fecha": "31 Aug 2026, 17:56 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recortará Uber 3,300 empleos para simplificar estructura",
+      "resumen": "Uber eliminará 3,300 empleos para reducir niveles jerárquicos y reasignar gasto a negocios de transporte, reparto y robotaxis.",
+      "link": "https://www.reforma.com/recortara-uber-3-300-empleos-para-simplificar-estructura/ar3268667",
+      "fecha": "02 Sep 2026, 10:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben deuda 7 estados",
-      "resumen": "Durante los Gobiernos de la 4T, la deuda de algunos estados del País se ha incrementado hasta doble dígito.",
-      "link": "https://www.reforma.com/suben-deuda-7-estados/ar3268442",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Superan ventas de vehículos el millón, cifra histórica",
+      "resumen": "De enero a agosto, las ventas de vehículos ligeros sumaron un millón 14 mil 832 unidades, su mayor volumen desde que se tiene registro.",
+      "link": "https://www.reforma.com/superan-ventas-de-vehiculos-el-millon-cifra-historica/ar3268607",
+      "fecha": "02 Sep 2026, 09:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dudan que apagón sea por vandalismo",
-      "resumen": "Especialistas consideraron poco creíble que un acto vandálico en cadenas de aislamiento provocaran el apagón en la península de Yucatán.",
-      "link": "https://www.reforma.com/dudan-que-apagon-sea-por-vandalismo/ar3268424",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Analiza Trump más aranceles a importaciones de chips",
+      "resumen": "La administración Trump analiza nueva ronda de aranceles a los semiconductores importados, en un intento por atraer más manufactura a EU.",
+      "link": "https://www.reforma.com/analiza-trump-mas-aranceles-a-importaciones-de-chips/ar3268613",
+      "fecha": "02 Sep 2026, 09:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Señalan imprecisiones y ausencias en energía en Informe",
-      "resumen": "Segundo Informe tiene imprecisiones sobre temas críticos como el derrame de crudo en el Golfo de México, señalan especialistas.",
-      "link": "https://www.reforma.com/senalan-imprecisiones-y-ausencias-en-energia-en-informe/ar3268437",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Evita Google venta de plataforma de intercambio de anuncios",
+      "resumen": "Google no tendrá que vender su plataforma de intercambio de anuncios, pero deberá hacerla compatible con las de sus competidores.",
+      "link": "https://www.reforma.com/evita-google-venta-de-plataforma-de-intercambio-de-anuncios/ar3268602",
+      "fecha": "02 Sep 2026, 09:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alista Multiva 50 mil mdp a obras de infraestructura",
-      "resumen": "Banco Multiva prevé desplegar 50 mil millones de pesos durante los próximos 18 meses para financiar proyectos de infraestructura.",
-      "link": "https://www.reforma.com/alista-multiva-50-mil-mdp-a-obras-de-infraestructura/ar3268429",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Abre Wall Street sin dirección clara",
+      "resumen": "Los mercados en EU abrieron sin una dirección clara luego de dos sesiones consecutivas a la baja.",
+      "link": "https://www.reforma.com/abre-wall-street-sin-direccion-clara/ar3268596",
+      "fecha": "02 Sep 2026, 09:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se pierde México grandes OPIs",
-      "resumen": "Auge de IA está creando empresas gigantes antes de llegar a Bolsa y concentrando riqueza de inversionistas con acceso a mercados privados.",
-      "link": "https://www.reforma.com/se-pierde-mexico-grandes-opis/ar3268409",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Retrocede peso tras débiles datos empleo privado de EU",
+      "resumen": "El peso cotiza en 16.9 unidades por dólar, con una pérdida de 0.12 por ciento.",
+      "link": "https://www.reforma.com/retrocede-peso-tras-debiles-datos-empleo-privado-de-eu/ar3268594",
+      "fecha": "02 Sep 2026, 09:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden crear firma para el fracking",
-      "resumen": "Especialistas consideran que se debería crear una empresa estatal con participación de la iniciativa privada para implementar fracking.",
-      "link": "https://www.reforma.com/piden-crear-firma-para-el-fracking/ar3268398",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Sugiere Heath no bajar tasa de interés en el corto plazo",
+      "resumen": "El subgobernador del Banxico, Jonathan Heath, se mostró partidario de no bajar la tasa de interés de referencia en el corto plazo.",
+      "link": "https://www.reforma.com/sugiere-heath-no-bajar-tasa-de-interes-en-el-corto-plazo/ar3268573",
+      "fecha": "02 Sep 2026, 08:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vivaria nuevo Master Plan que redefine el sur de Monterrey",
-      "resumen": "Vivaria fue concebido para familias jóvenes y en crecimiento, así como para inversionistas que buscan aprovechar la plusvalía",
-      "link": "https://www.reforma.com/vivaria-nuevo-master-plan-que-redefine-el-sur-de-monterrey/ar3265592",
-      "fecha": "31 Aug 2026, 10:19 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sigue negativa confianza fabril",
-      "resumen": "La confianza de los empresarios manufactureros extendió en agosto su deterioro anual y acumuló 27 meses consecutivos con retrocesos.",
-      "link": "https://www.reforma.com/sigue-negativa-confianza-fabril/ar3268396",
-      "fecha": "02 Sep 2026, 05:01 hrs"
+      "titulo": "Indagan posible dumping en placas de acero de Japón",
+      "resumen": "México inició una investigación antidumping sobre las importaciones de placas de acero originarias de Japón.",
+      "link": "https://www.reforma.com/indagan-posible-dumping-en-placas-de-acero-de-japon/ar3268572",
+      "fecha": "02 Sep 2026, 08:56 hrs"
     }
   ]
 }
