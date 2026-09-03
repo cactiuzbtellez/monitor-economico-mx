@@ -1,7 +1,43 @@
 {
-  "actualizado": "02/09/2026 19:04 hrs",
+  "actualizado": "03/09/2026 00:54 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
+      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
+      "link": "https://expansion.mx/economia/2026/09/02/despachos-cobranza-buscan-deudores-cartas-visitas",
+      "fecha": "02 Sep 2026, 19:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
+      "resumen": "Index Mexicali esperará a ver cómo opera el nuevo filtro de seguridad a la llegada de capitales foráneos y confía en que su aplicación sea ágil.",
+      "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
+      "fecha": "02 Sep 2026, 18:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tras el salto de Nu, Finsus ve a las Sofipos como semillero de nuevos bancos",
+      "resumen": "La historia de Nu de convertirse de Sofipo a banco es positiva para el país, porque deja el precedente de ser una plataforma para brindar más servicios financieros, dijo el director general de Finsus",
+      "link": "https://expansion.mx/economia/2026/09/02/modelo-finsus-va-contracorriente-nu",
+      "fecha": "02 Sep 2026, 17:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Límite a China o reclamo del T-MEC? México afila su control de inversión extranjera",
+      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum no menciona países ni establece vetos por nacionalidad, pero atiende una preocupación que Washington planteó formalmente desde 2023.",
+      "link": "https://expansion.mx/economia/2026/09/02/mexico-no-veta-china-si-cambia-reglas-invertir",
+      "fecha": "02 Sep 2026, 14:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
-      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
-      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
-      "fecha": "01 Sep 2026, 16:20 hrs"
+      "titulo": "Volkswagen Puebla: la planta que una vez produjo 600,000 unidades ahora debe reducir su escala para una nueva realidad",
+      "resumen": "En 2012, la planta de Puebla alcanzó por última vez 600,000 unidades con un Jetta negro del tercer turno destinado a Estados Unidos. Hoy, uno de los tres turnos de trabajo dedicados a ese modelo será …",
+      "link": "https://expansion.mx/empresas/2026/09/02/volkswagen-puebla-planta-que-una-vez-produjo-600-000-autos",
+      "fecha": "02 Sep 2026, 16:48 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "App de Banamex presenta fallas este 1 de septiembre; usuarios reciben alerta por otra sesión activa",
-      "resumen": "Usuarios reportan problemas para ingresar, transferir dinero y operar desde la app de Banamex durante las primeras horas de septiembre.",
-      "link": "https://expansion.mx/economia/2026/09/01/banamex-presenta-fallas-app-1-septiembre",
-      "fecha": "01 Sep 2026, 07:51 hrs"
+      "titulo": "La producción petrolera de Pemex se estanca en los primeros siete meses de 2026; el gas ya sigue una tendencia similar",
+      "resumen": "La producción de crudo de Pemex ronda 1.3 millones de barriles diarios desde diciembre de 2024, mientras el gas natural se mantiene prácticamente sin cambios durante 2026.",
+      "link": "https://expansion.mx/empresas/2026/09/02/pemex-se-estanca-produccion-petrolera-y-gas-2026",
+      "fecha": "02 Sep 2026, 16:43 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México aumenta 20.2% sus exportaciones a Canadá en plena tensión con EU",
-      "resumen": "Los productos automotrices concentran el avance, mientras los aranceles entre Washington y Ottawa abren oportunidades para proveedores mexicanos en ese mercado.",
-      "link": "https://expansion.mx/economia/2026/09/01/exportaciones-mexico-canada-crecen-tension-eu",
-      "fecha": "01 Sep 2026, 05:55 hrs"
+      "titulo": "¿Quién es el dueño de Little Caesars en México? Así creció la pizzería que cumple 20 años",
+      "resumen": "La cadena estadounidense comenzó como una pequeña pizzería familiar en Michigan y llegó a México mediante un modelo de franquicias que hoy suma más de 700 unidades.",
+      "link": "https://expansion.mx/empresas/2026/09/02/quien-dueno-little-caesars-mexico-cumple-20-anos",
+      "fecha": "02 Sep 2026, 16:32 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
-      "resumen": "La sequía y el estrés hídrico podrían afectar cultivos como maíz, frijol y café, mientras el golpe se extendería hasta el año próximo por el rezago de los  agropecuarios y su impacto al consumidor.",
-      "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
-      "fecha": "31 Aug 2026, 18:07 hrs"
+      "titulo": "OXIO migrará a los usuarios de Movistar a la nube, ¿en qué país estarán los datos y quién los controlará?",
+      "resumen": "Migrar a la nube a todos los usuarios de Movistar para acelerar la operación de OXIO plantea interrogantes sobre dónde se almacenará su información, qué leyes la protegerán y quién podrá acceder a ell…",
+      "link": "https://expansion.mx/empresas/2026/09/02/oxio-usuarios-movistar-estaran-datos-quien-controlara",
+      "fecha": "02 Sep 2026, 16:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia de Tomás Milmo con Axtel de fundador a empresario que busca comprarla",
+      "resumen": "La posible compra ocurre mientras Flō Networks también prepara una oferta para adquirir hasta 100% de los títulos de Axtel y Controladora Axtel.",
+      "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
+      "fecha": "02 Sep 2026, 14:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,57 +147,30 @@
       "fecha": "01 Sep 2026, 18:26 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tras conquistar las ventas de barrio, Tiendas 3B, Neto y Zorro van por los clientes de mayor poder adquisitivo",
-      "resumen": "Los formatos de descuento y mayoristas adaptan sus tiendas y surtidos para atraer nuevos clientes y disputar a los supermercados una mayor parte del presupuesto familiar.",
-      "link": "https://expansion.mx/empresas/2026/09/01/tiendas-3b-neto-van-clientes-walmart",
-      "fecha": "01 Sep 2026, 17:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Con un carrito afuera de la tienda fue como empezó la historia del icónico hot dog de Costco",
-      "resumen": "El hot dog de Costco es un clásico con más de 40 años de historia, y desde sus orígenes ha mantenido el mismo precio.",
-      "link": "https://expansion.mx/empresas/2026/09/01/carrito-tienda-historia-iconico-hot-dog-costco",
-      "fecha": "01 Sep 2026, 15:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bayer apuesta por 10 productos agrícolas para impulsar ventas por más de 3,500 millones de euros",
-      "resumen": "Entre los 10 productos está Preceon, un sistema de maíz de baja altura que ya se comercializa en México. Su menor tamaño y su sistema de raíces reduce la exposición de las plantas a condiciones climát…",
-      "link": "https://expansion.mx/empresas/2026/09/01/bayer-apuesta-10-productos-agricolas-500-millones-euros",
-      "fecha": "01 Sep 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Flō Networks prepara oferta para adquirir Axtel tras propuesta de compra de Tomás Milmo",
-      "resumen": "La disputa por Axtel suma un nuevo contendiente, Flō Networks que busca quedarse con hasta 100% de la compañía, apenas días después de la oferta encabezada por el empresario Tomás Milmo.",
-      "link": "https://expansion.mx/empresas/2026/09/01/flo-networks-adquirir-axtel-propuesta-compra-tomas-milmo",
-      "fecha": "01 Sep 2026, 12:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El sedán subcompacto más caro cuesta 47,100 pesos más que el más barato, pero tiene menos espacio",
-      "resumen": "Aveo, Mazda 2, Kia K3 y Nissan Versa parten de distintos precios y ofrecen diferencias clave en espacio, cajuela, potencia y equipamiento.",
-      "link": "https://expansion.mx/empresas/2026/09/01/subcompacto-cuesta-poco-mas-300-mil-pesos-el-mas-espacioso",
-      "fecha": "01 Sep 2026, 11:31 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presenta CFE denuncia por daños a infraestructura",
+      "resumen": "CFE informó que presentó una denuncia tras identificar indicios de daños provocados deliberadamente a infraestructura en Campeche.",
+      "link": "https://www.reforma.com/presenta-cfe-denuncia-por-danos-a-infraestructura/ar3269261",
+      "fecha": "02 Sep 2026, 22:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abre Pemex puerta a nuevos esquemas contractuales con IP",
+      "titulo": "Señala CCE que filtro de 4T a IED se alinea con EU",
+      "resumen": "Filtro que propone la 4T a IED es un reflejo de cómo funciona el Comité de Inversiones de EU y que se estará viendo en T-MEC, dijo CCE.",
+      "link": "https://www.reforma.com/senala-cce-que-filtro-de-4t-a-ied-se-alinea-con-eu/ar3269114",
+      "fecha": "02 Sep 2026, 19:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prometen construir 100 centrales a partir del próximo año",
       "resumen": "Pemex aseguró que no limitará la inversión de la iniciativa privada a los contratos mixtos, sino a otros esquemas contractuales.",
-      "link": "https://www.reforma.com/abre-pemex-puerta-a-nuevos-esquemas-contractuales-con-ip/ar3269071",
+      "link": "https://www.reforma.com/prometen-construir-100-centrales-a-partir-del-proximo-ano/ar3269071",
       "fecha": "02 Sep 2026, 17:45 hrs"
     },
     {
@@ -186,24 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Herdez alianza con Froneri en negocio de helados",
-      "resumen": "Grupo Herdez y Froneri concretaron una alianza estratégica al 50 por ciento en el negocio de helados en México.",
-      "link": "https://www.reforma.com/anuncia-herdez-alianza-con-froneri-en-negocio-de-helados/ar3268873",
-      "fecha": "02 Sep 2026, 17:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ingresará Asur a Brasil con compra de activos de Motiva",
-      "resumen": "Asur ingresará en el mercado aeroportuario brasileño, tras compra de los activos de Motiva.",
-      "link": "https://www.reforma.com/ingresara-asur-a-brasil-con-compra-de-activos-de-motiva/ar3268855",
-      "fecha": "02 Sep 2026, 17:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "¿Está barato el dólar? Pregúntele a una Big Mac",
       "resumen": "De acuerdo con el Índice Big Mac, el peso mexicano estaría sobrevaluado alrededor de 26.5% frente al dólar.",
       "link": "https://www.reforma.com/esta-barato-el-dolar-preguntele-a-una-big-mac/ar3268221",
@@ -213,9 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prefieren calidad a volumen en mercado de carbono",
-      "resumen": "La competencia en el mercado de carbono empieza a centrarse en quién demuestra mayor calidad, especialista.",
-      "link": "https://www.reforma.com/prefieren-calidad-a-volumen-en-mercado-de-carbono/ar3268831",
+      "titulo": "Anuncia Herdez alianza con Froneri en negocio de helados",
+      "resumen": "Grupo Herdez y Froneri concretaron una alianza estratégica al 50 por ciento en el negocio de helados en México.",
+      "link": "https://www.reforma.com/anuncia-herdez-alianza-con-froneri-en-negocio-de-helados/ar3268873",
       "fecha": "02 Sep 2026, 17:34 hrs"
     }
   ]
