@@ -1,61 +1,7 @@
 {
-  "actualizado": "03/09/2026 00:54 hrs",
+  "actualizado": "03/09/2026 05:57 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
-      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
-      "link": "https://expansion.mx/economia/2026/09/02/despachos-cobranza-buscan-deudores-cartas-visitas",
-      "fecha": "02 Sep 2026, 19:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
-      "resumen": "Index Mexicali esperará a ver cómo opera el nuevo filtro de seguridad a la llegada de capitales foráneos y confía en que su aplicación sea ágil.",
-      "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
-      "fecha": "02 Sep 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Tras el salto de Nu, Finsus ve a las Sofipos como semillero de nuevos bancos",
-      "resumen": "La historia de Nu de convertirse de Sofipo a banco es positiva para el país, porque deja el precedente de ser una plataforma para brindar más servicios financieros, dijo el director general de Finsus",
-      "link": "https://expansion.mx/economia/2026/09/02/modelo-finsus-va-contracorriente-nu",
-      "fecha": "02 Sep 2026, 17:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Límite a China o reclamo del T-MEC? México afila su control de inversión extranjera",
-      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum no menciona países ni establece vetos por nacionalidad, pero atiende una preocupación que Washington planteó formalmente desde 2023.",
-      "link": "https://expansion.mx/economia/2026/09/02/mexico-no-veta-china-si-cambia-reglas-invertir",
-      "fecha": "02 Sep 2026, 14:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HSBC celebra su primer Wealth Investment Summit en México",
-      "resumen": "El encuentro convocó a clientes con necesidades patrimoniales sofisticadas e internacionales con especialistas en temas económicos, comerciales y de inversión.",
-      "link": "https://expansion.mx/economia/2026/09/02/hsbc-celebra-su-primer-wealth-investment-summit-en-mexico",
-      "fecha": "02 Sep 2026, 11:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
-      "resumen": "Se revisará y actualizará el Impuesto Especial a Producción y Servicios (IEPS) a alimentos con alto contenido de sodio, como sopas instantáneas y a bebidas alcohólicas para 2027.",
-      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
-      "fecha": "02 Sep 2026, 09:06 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +19,69 @@
       "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
       "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
       "fecha": "01 Sep 2026, 17:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
+      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
+      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
+      "fecha": "01 Sep 2026, 16:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "App de Banamex presenta fallas este 1 de septiembre; usuarios reciben alerta por otra sesión activa",
+      "resumen": "Usuarios reportan problemas para ingresar, transferir dinero y operar desde la app de Banamex durante las primeras horas de septiembre.",
+      "link": "https://expansion.mx/economia/2026/09/01/banamex-presenta-fallas-app-1-septiembre",
+      "fecha": "01 Sep 2026, 07:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México aumenta 20.2% sus exportaciones a Canadá en plena tensión con EU",
+      "resumen": "Los productos automotrices concentran el avance, mientras los aranceles entre Washington y Ottawa abren oportunidades para proveedores mexicanos en ese mercado.",
+      "link": "https://expansion.mx/economia/2026/09/01/exportaciones-mexico-canada-crecen-tension-eu",
+      "fecha": "01 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Niño amenaza con encarecer precios de alimentos en México hasta 2027, advierte S&P Global",
+      "resumen": "La sequía y el estrés hídrico podrían afectar cultivos como maíz, frijol y café, mientras el golpe se extendería hasta el año próximo por el rezago de los  agropecuarios y su impacto al consumidor.",
+      "link": "https://expansion.mx/economia/2026/08/31/s-p-global-el-nino-encarecer-comida-mexico-2027",
+      "fecha": "31 Aug 2026, 18:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
+      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum para reformar la Ley de Inversión Extranjera llega cuando la seguridad económica gana peso en la revisión del tratado y el origen del capital cobra rel…",
+      "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
+      "fecha": "31 Aug 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA apuesta por tecnología y riesgos con Elechiguerra al frente en México",
+      "resumen": "El relevo ocurre mientras Banamex busca recuperar terreno con Edgardo del Rincón y la banca tradicional enfrenta la presión de nuevos jugadores digitales.",
+      "link": "https://expansion.mx/economia/2026/08/31/elechiguerra-nuevo-director-bbva-mexico",
+      "fecha": "31 Aug 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
+      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
+      "fecha": "02 Sep 2026, 19:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,22 +147,31 @@
       "fecha": "02 Sep 2026, 08:11 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
-      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
-      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
-      "fecha": "01 Sep 2026, 18:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae 25% exportación petrolera",
+      "resumen": "Exportaciones de petróleo crudo en julio promediaron 450 mil barriles diarios, 25% anual menos, de acuerdo con las estadísticas de Pemex.",
+      "link": "https://www.reforma.com/cae-25-exportacion-petrolera/ar3269245",
+      "fecha": "03 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presenta CFE denuncia por daños a infraestructura",
-      "resumen": "CFE informó que presentó una denuncia tras identificar indicios de daños provocados deliberadamente a infraestructura en Campeche.",
-      "link": "https://www.reforma.com/presenta-cfe-denuncia-por-danos-a-infraestructura/ar3269261",
-      "fecha": "02 Sep 2026, 22:16 hrs"
+      "titulo": "Otorgan estímulos a 148 proyectos",
+      "resumen": "Como parte del Plan México, se dictaminaron favorablemente 148 proyectos de inversión en bienes nuevos de activo fijo.",
+      "link": "https://www.reforma.com/otorgan-estimulos-a-148-proyectos/ar3269231",
+      "fecha": "03 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dan los estados giro económico",
+      "resumen": "Diversos estados han observado cambios en la estructura de sus principales actividades económicas en los 21 años que se tiene registro.",
+      "link": "https://www.reforma.com/dan-los-estados-giro-economico/ar3269215",
+      "fecha": "03 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,24 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Complicarán emisiones de carbono a exportaciones.- BM",
-      "resumen": "Costo de emisiones de carbono por la Unión Europea afectaría las exportaciones de México debido a sobrecostos, advierte el Banco Mundial.",
-      "link": "https://www.reforma.com/complicaran-emisiones-de-carbono-a-exportaciones-bm/ar3269041",
-      "fecha": "02 Sep 2026, 17:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Hablan Ebrard y CEO de Nvidia sobre la IA",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard, se reunió con Jensen Huang, CEO de Nvidia, quien destacó la importancia de la IA para México.",
-      "link": "https://www.reforma.com/hablan-ebrard-y-ceo-de-nvidia-sobre-la-ia/ar3268939",
-      "fecha": "02 Sep 2026, 16:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "¿Está barato el dólar? Pregúntele a una Big Mac",
       "resumen": "De acuerdo con el Índice Big Mac, el peso mexicano estaría sobrevaluado alrededor de 26.5% frente al dólar.",
       "link": "https://www.reforma.com/esta-barato-el-dolar-preguntele-a-una-big-mac/ar3268221",
@@ -213,9 +213,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Herdez alianza con Froneri en negocio de helados",
-      "resumen": "Grupo Herdez y Froneri concretaron una alianza estratégica al 50 por ciento en el negocio de helados en México.",
-      "link": "https://www.reforma.com/anuncia-herdez-alianza-con-froneri-en-negocio-de-helados/ar3268873",
+      "titulo": "Complicarán emisiones de carbono a exportaciones.- BM",
+      "resumen": "Costo de emisiones de carbono por la Unión Europea afectaría las exportaciones de México debido a sobrecostos, advierte el Banco Mundial.",
+      "link": "https://www.reforma.com/complicaran-emisiones-de-carbono-a-exportaciones-bm/ar3269041",
       "fecha": "02 Sep 2026, 17:34 hrs"
     }
   ]
