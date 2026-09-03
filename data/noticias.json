@@ -1,5 +1,5 @@
 {
-  "actualizado": "03/09/2026 13:39 hrs",
+  "actualizado": "03/09/2026 16:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
-      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
-      "link": "https://expansion.mx/empresas/2026/09/03/riesgo-no-registrar-linea-chips-nuevos",
-      "fecha": "03 Sep 2026, 12:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Muere el empresario Raymundo Gómez Flores, padre de Altagracia Gómez Sierra",
-      "resumen": "El empresario de origen jaliscience falleció a los 74 años. La presidenta Claudia Sheinbaum y representantes de sectores empresariales expresan sus condolencias.",
-      "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
-      "fecha": "03 Sep 2026, 09:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
-      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
-      "fecha": "03 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
       "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
       "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
@@ -147,6 +120,60 @@
       "fecha": "02 Sep 2026, 16:04 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La historia de Tomás Milmo con Axtel de fundador a empresario que busca comprarla",
+      "resumen": "La posible compra ocurre mientras Flō Networks también prepara una oferta para adquirir hasta 100% de los títulos de Axtel y Controladora Axtel.",
+      "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
+      "fecha": "02 Sep 2026, 14:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Olinia de verdad es eficiente? La calificación de un experto del IPN al probar el auto eléctrico mexicano",
+      "resumen": "El Olinia pasó por pruebas de autonomía, carga y desempeño, en las que especialistas evaluaron su comportamiento bajo distintas condiciones.",
+      "link": "https://expansion.mx/empresas/2026/09/02/olinia-calificacion-de-experto-del-ipn-al-probar-el-auto",
+      "fecha": "02 Sep 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes del Tsuru el 'Vocho' fue el auto preferido en México, ¿qué causó su fin?",
+      "resumen": "El modelo alcanzó más de 21.5 millones de unidades producidas y Puebla terminó convirtiéndose en la última fábrica del mundo que lo mantuvo en las líneas.",
+      "link": "https://expansion.mx/empresas/2026/09/02/vocho-auto-preferido-en-mexico-que-causo-su-fin",
+      "fecha": "02 Sep 2026, 08:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén concluir revisión de T-MEC hacia diciembre",
+      "resumen": "Es posible que hacia diciembre se concluyan los trabajos de revisión del T-MEC, previó la AmSoc.",
+      "link": "https://www.reforma.com/preven-concluir-revision-de-t-mec-hacia-diciembre/ar3269631",
+      "fecha": "03 Sep 2026, 14:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Destaca México en crecimiento  de ventas de K-Beauty",
+      "resumen": "México, junto con Brasil, registraron un aumento de ventas de cosmética coreana de 135 por ciento entre 2023 y 2025, según NielsenIQ.",
+      "link": "https://www.reforma.com/destaca-mexico-en-crecimiento-de-ventas-de-k-beauty/ar3269645",
+      "fecha": "03 Sep 2026, 14:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan México y China fortalecer cooperación",
+      "resumen": "Titular de la SRE realiza visita a China, en momentos en EU presiona al país para reducir sus vínculos comerciales con el país asiático.",
+      "link": "https://www.reforma.com/buscan-mexico-y-china-fortalecer-cooperacion/ar3269750",
+      "fecha": "03 Sep 2026, 15:31 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,46 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Otorgan estímulos a 148 proyectos",
-      "resumen": "Como parte del Plan México, se dictaminaron favorablemente 148 proyectos de inversión en bienes nuevos de activo fijo.",
-      "link": "https://www.reforma.com/otorgan-estimulos-a-148-proyectos/ar3269231",
-      "fecha": "03 Sep 2026, 05:01 hrs"
+      "titulo": "Alerta Moody's por carga fiscal de gasto  social en estados",
+      "resumen": "El gasto social de los estados se aceleró de forma sostenida y ya consume una mayor parte del gasto operativo, alertó Moody's.",
+      "link": "https://www.reforma.com/alerta-moodys-por-carga-fiscal-de-gasto-social-en-estados/ar3269627",
+      "fecha": "03 Sep 2026, 14:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva EU 24% déficit comercial en julio",
-      "resumen": "El déficit comercial de EU se amplió en julio, ya que la fuerte demanda interna impulsó las importaciones.",
-      "link": "https://www.reforma.com/eleva-eu-24-deficit-comercial-en-julio/ar3269426",
-      "fecha": "03 Sep 2026, 09:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Señala CCE que filtro de 4T a IED se alinea con EU",
-      "resumen": "Filtro que propone la 4T a IED es un reflejo de cómo funciona el Comité de Inversiones de EU y que se estará viendo en T-MEC, dijo CCE.",
-      "link": "https://www.reforma.com/senala-cce-que-filtro-de-4t-a-ied-se-alinea-con-eu/ar3269114",
-      "fecha": "02 Sep 2026, 19:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prometen construir 100 centrales a partir del próximo año",
-      "resumen": "Pemex aseguró que no limitará la inversión de la iniciativa privada a los contratos mixtos, sino a otros esquemas contractuales.",
-      "link": "https://www.reforma.com/prometen-construir-100-centrales-a-partir-del-proximo-ano/ar3269071",
-      "fecha": "02 Sep 2026, 17:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Generan empresas baja demanda de créditos de carbono",
-      "resumen": "Mercado mexicano de créditos de carbono sigue limitado por la escasa demanda empresarial a nivel local, sostuvo MÉXICO2.",
-      "link": "https://www.reforma.com/generan-empresas-baja-demanda-de-creditos-de-carbono/ar3269046",
-      "fecha": "02 Sep 2026, 17:34 hrs"
+      "titulo": "Aprueba VW reestructuración; recortaría 50 mil empleos",
+      "resumen": "El consejo de supervisión de Volkswagen aprobó un plan de transformación integral que podría incluir una reducción de unos 50 mil empleos.",
+      "link": "https://www.reforma.com/aprueba-vw-reestructuracion-recortaria-50-mil-empleos/ar3269723",
+      "fecha": "03 Sep 2026, 14:59 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte FMI por alza en rendimientos de bonos",
-      "resumen": "Aumento de la deuda y alza de los rendimientos de los bonos amenazan los avances logrados por los países en desarrollo, dijo el FMI.",
-      "link": "https://www.reforma.com/advierte-fmi-por-alza-en-rendimientos-de-bonos/ar3269413",
-      "fecha": "03 Sep 2026, 08:50 hrs"
+      "titulo": "Alista México mercado de emisiones para 2027",
+      "resumen": "México podría finalmente poner en marcha la fase operativa de su Sistema de Comercio de Emisiones (SCE) a principios de 2027.",
+      "link": "https://www.reforma.com/alista-mexico-mercado-de-emisiones-para-2027/ar3269665",
+      "fecha": "03 Sep 2026, 14:43 hrs"
     }
   ]
 }
