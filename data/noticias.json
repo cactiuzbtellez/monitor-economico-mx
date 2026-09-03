@@ -1,7 +1,16 @@
 {
-  "actualizado": "03/09/2026 10:08 hrs",
+  "actualizado": "03/09/2026 13:39 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
+      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
+      "link": "https://expansion.mx/economia/2026/09/02/despachos-cobranza-buscan-deudores-cartas-visitas",
+      "fecha": "02 Sep 2026, 19:04 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "21 grandes bancos globales preparan stablecoin en dólares para 2027 y apuntan al euro",
-      "resumen": "Participan firmas como Bank of America, Citi, Goldman Sachs, Santander, BBVA, Deutsche Bank, entre otras. Sería una forma de dinero digital de confianza en pagos transfronterizos y más servicios.",
-      "link": "https://expansion.mx/economia/2026/09/01/bancos-alistan-stablecoin-dolares-y-euros",
-      "fecha": "01 Sep 2026, 16:20 hrs"
+      "titulo": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/09/03/riesgo-no-registrar-linea-chips-nuevos",
+      "fecha": "03 Sep 2026, 12:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Muere el empresario Raymundo Gómez Flores, padre de Altagracia Gómez Sierra",
+      "resumen": "El empresario de origen jaliscience falleció a los 74 años. La presidenta Claudia Sheinbaum y representantes de sectores empresariales expresan sus condolencias.",
+      "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
+      "fecha": "03 Sep 2026, 09:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
+      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
+      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
+      "fecha": "03 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
+      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
+      "fecha": "02 Sep 2026, 19:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,49 +147,13 @@
       "fecha": "02 Sep 2026, 16:04 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia de Tomás Milmo con Axtel de fundador a empresario que busca comprarla",
-      "resumen": "La posible compra ocurre mientras Flō Networks también prepara una oferta para adquirir hasta 100% de los títulos de Axtel y Controladora Axtel.",
-      "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
-      "fecha": "02 Sep 2026, 14:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Olinia de verdad es eficiente? La calificación de un experto del IPN al probar el auto eléctrico mexicano",
-      "resumen": "El Olinia pasó por pruebas de autonomía, carga y desempeño, en las que especialistas evaluaron su comportamiento bajo distintas condiciones.",
-      "link": "https://expansion.mx/empresas/2026/09/02/olinia-calificacion-de-experto-del-ipn-al-probar-el-auto",
-      "fecha": "02 Sep 2026, 13:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes del Tsuru el 'Vocho' fue el auto preferido en México, ¿qué causó su fin?",
-      "resumen": "El modelo alcanzó más de 21.5 millones de unidades producidas y Puebla terminó convirtiéndose en la última fábrica del mundo que lo mantuvo en las líneas.",
-      "link": "https://expansion.mx/empresas/2026/09/02/vocho-auto-preferido-en-mexico-que-causo-su-fin",
-      "fecha": "02 Sep 2026, 08:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Contenido nacional impulsa el acero local, pero alivio real exige bajar aranceles de Estados Unidos",
-      "resumen": "Aunque priorizar el acero local en la obra pública dará un respiro clave a las plantas mexicanas, la verdadera batalla de la industria nacional se sigue librando frente a las duras barreras arancelari…",
-      "link": "https://expansion.mx/empresas/2026/09/01/contenido-nacional-acero-alivio-aranceles-estados-unidos",
-      "fecha": "01 Sep 2026, 18:26 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 25% exportación petrolera",
-      "resumen": "Exportaciones de petróleo crudo en julio promediaron 450 mil barriles diarios, 25% anual menos, de acuerdo con las estadísticas de Pemex.",
-      "link": "https://www.reforma.com/cae-25-exportacion-petrolera/ar3269245",
-      "fecha": "03 Sep 2026, 05:01 hrs"
+      "titulo": "Aumenta 16% exportación de México a EU en siete meses",
+      "resumen": "De enero a julio, exportación de mercancías de México a EU ascendió a un récord de 358 mil 707 mdd, un 16% respecto al año anterior.",
+      "link": "https://www.reforma.com/aumenta-16-exportacion-de-mexico-a-eu-en-siete-meses/ar3269494",
+      "fecha": "03 Sep 2026, 10:53 hrs"
     },
     {
       "fuente": "Reforma",
