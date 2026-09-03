@@ -1,7 +1,16 @@
 {
-  "actualizado": "02/09/2026 17:00 hrs",
+  "actualizado": "02/09/2026 19:04 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "HSBC celebra su primer Wealth Investment Summit en México",
+      "resumen": "El encuentro convocó a clientes con necesidades patrimoniales sofisticadas e internacionales con especialistas en temas económicos, comerciales y de inversión.",
+      "link": "https://expansion.mx/economia/2026/09/02/hsbc-celebra-su-primer-wealth-investment-summit-en-mexico",
+      "fecha": "02 Sep 2026, 11:34 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México se alinea con sus socios del T-MEC para revisar inversiones por seguridad nacional",
-      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum para reformar la Ley de Inversión Extranjera llega cuando la seguridad económica gana peso en la revisión del tratado y el origen del capital cobra rel…",
-      "link": "https://expansion.mx/economia/2026/08/31/mexico-revision-inversion-extranjera-seguridad-tmec",
-      "fecha": "31 Aug 2026, 15:57 hrs"
+      "titulo": "¿Olinia de verdad es eficiente? La calificación de un experto del IPN al probar el auto eléctrico mexicano",
+      "resumen": "El Olinia pasó por pruebas de autonomía, carga y desempeño, en las que especialistas evaluaron su comportamiento bajo distintas condiciones.",
+      "link": "https://expansion.mx/empresas/2026/09/02/olinia-calificacion-de-experto-del-ipn-al-probar-el-auto",
+      "fecha": "02 Sep 2026, 13:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,67 +147,58 @@
       "fecha": "01 Sep 2026, 11:31 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tope a gasolina regular y diésel se extiende por otros seis meses",
-      "resumen": "En 24 pesos el litro de gasolina verde y 27 pesos el litro de diésel es el precio máximo sugerido por el gobierno para venta al público.",
-      "link": "https://expansion.mx/empresas/2026/08/31/tope-a-gasolina-regular-y-diesel-se-extiende-por-otros-seis-meses",
-      "fecha": "31 Aug 2026, 22:38 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Abre Pemex puerta a nuevos esquemas contractuales con IP",
+      "resumen": "Pemex aseguró que no limitará la inversión de la iniciativa privada a los contratos mixtos, sino a otros esquemas contractuales.",
+      "link": "https://www.reforma.com/abre-pemex-puerta-a-nuevos-esquemas-contractuales-con-ip/ar3269071",
+      "fecha": "02 Sep 2026, 17:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reportan fallas en la red X",
-      "resumen": "En el transcurso de la mañana se han presentado fallas en la red X, antes Twitter.",
-      "link": "https://www.reforma.com/reportan-fallas-en-la-red-x/ar3268712",
-      "fecha": "02 Sep 2026, 11:53 hrs"
+      "titulo": "Generan empresas baja demanda de créditos de carbono",
+      "resumen": "Mercado mexicano de créditos de carbono sigue limitado por la escasa demanda empresarial a nivel local, sostuvo MÉXICO2.",
+      "link": "https://www.reforma.com/generan-empresas-baja-demanda-de-creditos-de-carbono/ar3269046",
+      "fecha": "02 Sep 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Canadá antecedente negativo para revisión de T-MEC",
-      "resumen": "La caída de acuerdo con Canadá y EU deja el antecedente de que Trump puede endurecer requisitos de último momento en la revisión del T-MEC.",
-      "link": "https://www.reforma.com/deja-canada-antecedente-negativo-para-revision-de-t-mec/ar3268695",
-      "fecha": "02 Sep 2026, 11:53 hrs"
+      "titulo": "Complicarán emisiones de carbono a exportaciones.- BM",
+      "resumen": "Costo de emisiones de carbono por la Unión Europea afectaría las exportaciones de México debido a sobrecostos, advierte el Banco Mundial.",
+      "link": "https://www.reforma.com/complicaran-emisiones-de-carbono-a-exportaciones-bm/ar3269041",
+      "fecha": "02 Sep 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recortará Uber 3,300 empleos para simplificar estructura",
-      "resumen": "Uber eliminará 3,300 empleos para reducir niveles jerárquicos y reasignar gasto a negocios de transporte, reparto y robotaxis.",
-      "link": "https://www.reforma.com/recortara-uber-3-300-empleos-para-simplificar-estructura/ar3268667",
-      "fecha": "02 Sep 2026, 10:22 hrs"
+      "titulo": "Hablan Ebrard y CEO de Nvidia sobre la IA",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard, se reunió con Jensen Huang, CEO de Nvidia, quien destacó la importancia de la IA para México.",
+      "link": "https://www.reforma.com/hablan-ebrard-y-ceo-de-nvidia-sobre-la-ia/ar3268939",
+      "fecha": "02 Sep 2026, 16:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Superan ventas de vehículos el millón, cifra histórica",
-      "resumen": "De enero a agosto, las ventas de vehículos ligeros sumaron un millón 14 mil 832 unidades, su mayor volumen desde que se tiene registro.",
-      "link": "https://www.reforma.com/superan-ventas-de-vehiculos-el-millon-cifra-historica/ar3268607",
-      "fecha": "02 Sep 2026, 09:46 hrs"
+      "titulo": "Anuncia Herdez alianza con Froneri en negocio de helados",
+      "resumen": "Grupo Herdez y Froneri concretaron una alianza estratégica al 50 por ciento en el negocio de helados en México.",
+      "link": "https://www.reforma.com/anuncia-herdez-alianza-con-froneri-en-negocio-de-helados/ar3268873",
+      "fecha": "02 Sep 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analiza Trump más aranceles a importaciones de chips",
-      "resumen": "La administración Trump analiza nueva ronda de aranceles a los semiconductores importados, en un intento por atraer más manufactura a EU.",
-      "link": "https://www.reforma.com/analiza-trump-mas-aranceles-a-importaciones-de-chips/ar3268613",
-      "fecha": "02 Sep 2026, 09:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Polarización distrae de lo fundamental.- JAF",
-      "resumen": "José Antonio Fernández Carbajal, presidente de Femsa, urgió a mantener un diálogo y respeto de ideas para afrontar los problemas del País.",
-      "link": "https://www.reforma.com/polarizacion-distrae-de-lo-fundamental-jaf/ar3268789",
-      "fecha": "02 Sep 2026, 13:21 hrs"
+      "titulo": "Ingresará Asur a Brasil con compra de activos de Motiva",
+      "resumen": "Asur ingresará en el mercado aeroportuario brasileño, tras compra de los activos de Motiva.",
+      "link": "https://www.reforma.com/ingresara-asur-a-brasil-con-compra-de-activos-de-motiva/ar3268855",
+      "fecha": "02 Sep 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abre Wall Street sin dirección clara",
-      "resumen": "Los mercados en EU abrieron sin una dirección clara luego de dos sesiones consecutivas a la baja.",
-      "link": "https://www.reforma.com/abre-wall-street-sin-direccion-clara/ar3268596",
-      "fecha": "02 Sep 2026, 09:46 hrs"
+      "titulo": "Prefieren calidad a volumen en mercado de carbono",
+      "resumen": "La competencia en el mercado de carbono empieza a centrarse en quién demuestra mayor calidad, especialista.",
+      "link": "https://www.reforma.com/prefieren-calidad-a-volumen-en-mercado-de-carbono/ar3268831",
+      "fecha": "02 Sep 2026, 17:34 hrs"
     }
   ]
 }
