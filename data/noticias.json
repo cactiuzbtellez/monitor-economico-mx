@@ -1,7 +1,25 @@
 {
-  "actualizado": "03/09/2026 23:33 hrs",
+  "actualizado": "04/09/2026 04:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cervezas, ‘aguas locas’ más caras y tequila más accesible; así pinta la renovación al IEPS para 2027",
+      "resumen": "Rumbo al Paquete Económico 2027, diputados buscan que la mayor parte del cambio, que proponen, para calcular el impuesto a bebidas alcohólicas se redistribuya a cervezas e incremente en aguardiente.",
+      "link": "https://expansion.mx/economia/2026/09/03/cerveza-aguas-locas-tequila-mezcal-ieps-2027",
+      "fecha": "03 Sep 2026, 20:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Presión comercial de Trump empujaría a México y Canadá por la ruta del Pacífico",
+      "resumen": "Un escenario de la Hinrich Foundation plantea que ambos países buscarían nuevos mercados y proveedores si Estados Unidos endurece el T-MEC.",
+      "link": "https://expansion.mx/economia/2026/09/03/presion-trump-mexico-canada-giro-asia",
+      "fecha": "03 Sep 2026, 18:30 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tras el salto de Nu, Finsus ve a las Sofipos como semillero de nuevos bancos",
-      "resumen": "La historia de Nu de convertirse de Sofipo a banco es positiva para el país, porque deja el precedente de ser una plataforma para brindar más servicios financieros, dijo el director general de Finsus",
-      "link": "https://expansion.mx/economia/2026/09/02/modelo-finsus-va-contracorriente-nu",
-      "fecha": "02 Sep 2026, 17:28 hrs"
+      "titulo": "Volkswagen pone a SEAT en la mira mientras acelera recorte de costos y prepara reestructura hasta 2029",
+      "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
+      "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
+      "fecha": "03 Sep 2026, 20:16 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Límite a China o reclamo del T-MEC? México afila su control de inversión extranjera",
-      "resumen": "La iniciativa de la presidenta Claudia Sheinbaum no menciona países ni establece vetos por nacionalidad, pero atiende una preocupación que Washington planteó formalmente desde 2023.",
-      "link": "https://expansion.mx/economia/2026/09/02/mexico-no-veta-china-si-cambia-reglas-invertir",
-      "fecha": "02 Sep 2026, 14:54 hrs"
+      "titulo": "OXXO quiere convertir sus tiendas en puntos de entrega y desafía a Amazon, Mercado Libre y Estafeta",
+      "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
+      "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
+      "fecha": "03 Sep 2026, 19:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Se fue el internet? El derecho poco conocido para que Telmex o Izzi te reembolsen dinero",
+      "resumen": "Los contratos de Izzi y Telmex establecen mecanismos de compensación por interrupciones del servicio, pero el procedimiento y las condiciones no son exactamente iguales.",
+      "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
+      "fecha": "03 Sep 2026, 16:51 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "El empresario de origen jaliscience falleció a los 74 años. La presidenta Claudia Sheinbaum y representantes de sectores empresariales expresan sus condolencias.",
       "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
       "fecha": "03 Sep 2026, 09:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
-      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
-      "fecha": "03 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
-      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
-      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
-      "fecha": "02 Sep 2026, 19:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen Puebla: la planta que una vez produjo 600,000 unidades ahora debe reducir su escala para una nueva realidad",
-      "resumen": "En 2012, la planta de Puebla alcanzó por última vez 600,000 unidades con un Jetta negro del tercer turno destinado a Estados Unidos. Hoy, uno de los tres turnos de trabajo dedicados a ese modelo será …",
-      "link": "https://expansion.mx/empresas/2026/09/02/volkswagen-puebla-planta-que-una-vez-produjo-600-000-autos",
-      "fecha": "02 Sep 2026, 16:48 hrs"
     },
     {
       "fuente": "Reforma",
