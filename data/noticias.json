@@ -1,7 +1,25 @@
 {
-  "actualizado": "03/09/2026 16:19 hrs",
+  "actualizado": "03/09/2026 18:48 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "De puertos a algoritmos: la inversión extranjera tech entra al filtro de seguridad nacional",
+      "resumen": "La iniciativa presidencial sometería a revisión por seguridad nacional las compras extranjeras mayores a 49%, cuando la empresa supere el umbral de activos y opere en una actividad sensible.",
+      "link": "https://expansion.mx/economia/2026/09/03/mexico-vigilara-seguridad-nacional-ia-semiconductores",
+      "fecha": "03 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pemex pone a prueba el grado de inversión de México, aunque el mercado aún no prende las alarmas",
+      "resumen": "México necesitaría avanzar hacia un superávit primario cercano a 1% del PIB para contener la deuda. El presupuesto de 2027 será prueba de la capacidad del gobierno para acercarse a esa trayectoria.",
+      "link": "https://expansion.mx/economia/2026/09/03/mexico-grado-inversion-pemex-bonos-basura",
+      "fecha": "03 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México debe reducir el déficit para blindar su grado de inversión en 2027",
-      "resumen": "Las calificadoras vigilan la deuda y el bajo crecimiento, mientras Hacienda busca llevar los requerimientos financieros del sector público a una senda de mayor consolidación.",
-      "link": "https://expansion.mx/economia/2026/09/02/paquete-economico-2027-grado-inversion-mexico",
-      "fecha": "02 Sep 2026, 05:55 hrs"
+      "titulo": "Muere el empresario Raymundo Gómez Flores, padre de Altagracia Gómez Sierra",
+      "resumen": "El empresario de origen jaliscience falleció a los 74 años. La presidenta Claudia Sheinbaum y representantes de sectores empresariales expresan sus condolencias.",
+      "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
+      "fecha": "03 Sep 2026, 09:39 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Impuesto a comida chatarra tiene el pendiente de subir de 8 a 20%; organizaciones presionan para incrementar IEPS",
-      "resumen": "Para el siguiente año, se exploran opciones para continuar con la revisión de gravámenes saludables, que inició a finales de 2025 en refrescos y tabaco.",
-      "link": "https://expansion.mx/economia/2026/09/01/ieps-impuesto-comida-chatarra-2027-8-20",
-      "fecha": "01 Sep 2026, 17:26 hrs"
+      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
+      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
+      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
+      "fecha": "03 Sep 2026, 08:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,40 +147,49 @@
       "fecha": "02 Sep 2026, 14:49 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Olinia de verdad es eficiente? La calificación de un experto del IPN al probar el auto eléctrico mexicano",
-      "resumen": "El Olinia pasó por pruebas de autonomía, carga y desempeño, en las que especialistas evaluaron su comportamiento bajo distintas condiciones.",
-      "link": "https://expansion.mx/empresas/2026/09/02/olinia-calificacion-de-experto-del-ipn-al-probar-el-auto",
-      "fecha": "02 Sep 2026, 13:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes del Tsuru el 'Vocho' fue el auto preferido en México, ¿qué causó su fin?",
-      "resumen": "El modelo alcanzó más de 21.5 millones de unidades producidas y Puebla terminó convirtiéndose en la última fábrica del mundo que lo mantuvo en las líneas.",
-      "link": "https://expansion.mx/empresas/2026/09/02/vocho-auto-preferido-en-mexico-que-causo-su-fin",
-      "fecha": "02 Sep 2026, 08:11 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Lanza OpenAI GPT-6 Astra su modelo de IA más potente",
+      "resumen": "OpenAI reveló su más reciente modelo de IA llamado GPT-6 Astra mismo que estará disponible temporalmente para ciertas organizaciones.",
+      "link": "https://www.reforma.com/lanza-openai-gpt-6-astra-su-modelo-de-ia-mas-potente/ar3269892",
+      "fecha": "03 Sep 2026, 18:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén concluir revisión de T-MEC hacia diciembre",
-      "resumen": "Es posible que hacia diciembre se concluyan los trabajos de revisión del T-MEC, previó la AmSoc.",
-      "link": "https://www.reforma.com/preven-concluir-revision-de-t-mec-hacia-diciembre/ar3269631",
-      "fecha": "03 Sep 2026, 14:43 hrs"
+      "titulo": "Se posiciona México en el 'Top 4' mundial de turismo",
+      "resumen": "México se ubicó en la cuarta posición global tanto en contribución directa del turismo al PIB como en gasto generado por viajes de placer.",
+      "link": "https://www.reforma.com/se-posiciona-mexico-en-el-top-4-mundial-de-turismo/ar3269835",
+      "fecha": "03 Sep 2026, 17:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca México en crecimiento  de ventas de K-Beauty",
-      "resumen": "México, junto con Brasil, registraron un aumento de ventas de cosmética coreana de 135 por ciento entre 2023 y 2025, según NielsenIQ.",
-      "link": "https://www.reforma.com/destaca-mexico-en-crecimiento-de-ventas-de-k-beauty/ar3269645",
-      "fecha": "03 Sep 2026, 14:43 hrs"
+      "titulo": "Proponen bajar IVA e ISR en plataformas digitales",
+      "resumen": "Organizaciones proponen un ajuste a la baja de las tasas de retención actuales a 2 por ciento del IVA y 1 por ciento de ISR.",
+      "link": "https://www.reforma.com/proponen-bajar-iva-e-isr-en-plataformas-digitales/ar3269832",
+      "fecha": "03 Sep 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Llega la Cybercab de Tesla a Austin",
+      "resumen": "La Cybercab de Tesla llega a las calles del centro de Austin, Texas y se prevé que Elon Musk haga la presentación oficial hoy.",
+      "link": "https://www.reforma.com/llega-la-cybercab-de-tesla-a-austin/ar3269792",
+      "fecha": "03 Sep 2026, 16:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Propone Caniem tasa 0% de IVA a editoriales",
+      "resumen": "Cámara Nacional de la Industria Editorial Mexicana propuso al Gobierno federal otorgar una tasa de 0% de IVA a editoriales y distribuidores.",
+      "link": "https://www.reforma.com/propone-caniem-tasa-0-de-iva-a-editoriales/ar3269767",
+      "fecha": "03 Sep 2026, 16:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,33 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 16% exportación de México a EU en siete meses",
-      "resumen": "De enero a julio, exportación de mercancías de México a EU ascendió a un récord de 358 mil 707 mdd, un 16% respecto al año anterior.",
-      "link": "https://www.reforma.com/aumenta-16-exportacion-de-mexico-a-eu-en-siete-meses/ar3269494",
-      "fecha": "03 Sep 2026, 10:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alerta Moody's por carga fiscal de gasto  social en estados",
-      "resumen": "El gasto social de los estados se aceleró de forma sostenida y ya consume una mayor parte del gasto operativo, alertó Moody's.",
-      "link": "https://www.reforma.com/alerta-moodys-por-carga-fiscal-de-gasto-social-en-estados/ar3269627",
-      "fecha": "03 Sep 2026, 14:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aprueba VW reestructuración; recortaría 50 mil empleos",
-      "resumen": "El consejo de supervisión de Volkswagen aprobó un plan de transformación integral que podría incluir una reducción de unos 50 mil empleos.",
-      "link": "https://www.reforma.com/aprueba-vw-reestructuracion-recortaria-50-mil-empleos/ar3269723",
-      "fecha": "03 Sep 2026, 14:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Entrenar a tu reemplazo",
       "resumen": "Mientras las empresas invierten en IA y entregan herramientas a sus empleados buscando elevar la productividad, el compromiso no ha mejorado",
       "link": "https://www.reforma.com/entrenar-a-tu-reemplazo/ar3269222",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alista México mercado de emisiones para 2027",
-      "resumen": "México podría finalmente poner en marcha la fase operativa de su Sistema de Comercio de Emisiones (SCE) a principios de 2027.",
-      "link": "https://www.reforma.com/alista-mexico-mercado-de-emisiones-para-2027/ar3269665",
-      "fecha": "03 Sep 2026, 14:43 hrs"
+      "titulo": "Aprueba VW reestructuración; recortaría 50 mil empleos",
+      "resumen": "El consejo de supervisión de Volkswagen aprobó un plan de transformación integral que podría incluir una reducción de unos 50 mil empleos.",
+      "link": "https://www.reforma.com/aprueba-vw-reestructuracion-recortaria-50-mil-empleos/ar3269723",
+      "fecha": "03 Sep 2026, 14:59 hrs"
     }
   ]
 }
