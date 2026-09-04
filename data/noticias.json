@@ -1,5 +1,5 @@
 {
-  "actualizado": "04/09/2026 15:15 hrs",
+  "actualizado": "04/09/2026 17:44 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,51 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Volkswagen reducirá a la mitad su oferta de vehículos y recortará 75% las configuraciones hacia 2035",
+      "resumen": "El grupo alemán, que agrupa las marcas Volkswagen, Seat, Cupra, Audi y Porsche entre otras, eliminará gradualmente modelos y versiones de menor desempeño comercial para simplificar producción y mejora…",
+      "link": "https://expansion.mx/empresas/2026/09/04/volkswagen-recortara-a-la-mitad-su-oferta-de-vehiculos",
+      "fecha": "04 Sep 2026, 08:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
+      "resumen": "La intención es reducir la deuda en 920 millones de dólares para poder fortalecer la estructura financiera de la compañía.",
+      "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
+      "fecha": "04 Sep 2026, 08:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tienditas temen perder clientes si sube el IEPS a cervezas y sopas Maruchan",
+      "resumen": "Las compras pueden desplazarse hacia Oxxo, 3B y Bodega Aurrerá, donde la mayor escala permite ofrecer promociones que las tiendas pequeñas difícilmente pueden igualar.",
+      "link": "https://expansion.mx/empresas/2026/09/04/tienditas-esquina-resentiran-impuesto-cervezas-maruchan",
+      "fecha": "04 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen pone a SEAT en la mira mientras acelera recorte de costos y prepara reestructura hasta 2029",
+      "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
+      "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
+      "fecha": "03 Sep 2026, 20:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXXO quiere convertir sus tiendas en puntos de entrega y desafía a Amazon, Mercado Libre y Estafeta",
+      "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
+      "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
+      "fecha": "03 Sep 2026, 19:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Se fue el internet? El derecho poco conocido para que Telmex o Izzi te reembolsen dinero",
       "resumen": "Los contratos de Izzi y Telmex establecen mecanismos de compensación por interrupciones del servicio, pero el procedimiento y las condiciones no son exactamente iguales.",
       "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
@@ -102,49 +147,13 @@
       "fecha": "03 Sep 2026, 15:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El empresario detrás de Estrella Blanca y Minsa que comenzó trabajando en una lavandería",
-      "resumen": "Antes de estar detrás de empresas como DINA, Minsa y GIG, Raymundo Gómez Flores trabajó como cajero y almacenista y ayudó en los negocios familiares.",
-      "link": "https://expansion.mx/empresas/2026/09/03/empresario-estrella-blanca-minsa-lavanderia-raymundo-gomez",
-      "fecha": "03 Sep 2026, 14:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
-      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
-      "link": "https://expansion.mx/empresas/2026/09/03/riesgo-no-registrar-linea-chips-nuevos",
-      "fecha": "03 Sep 2026, 12:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Muere el empresario Raymundo Gómez Flores, padre de Altagracia Gómez Sierra",
-      "resumen": "El empresario de origen jaliscience falleció a los 74 años. La presidenta Claudia Sheinbaum y representantes de sectores empresariales expresan sus condolencias.",
-      "link": "https://expansion.mx/empresas/2026/09/03/muere-empresario-raymundo-gomez-flores",
-      "fecha": "03 Sep 2026, 09:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
-      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
-      "fecha": "03 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
-      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
-      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
-      "fecha": "02 Sep 2026, 19:34 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerda sindicato de Pemex aumento de 7.5%",
+      "resumen": "Sindicato de Trabajadores Petroleros de la República Mexicana y Pemex acordaron un incremento salarial total de 7.5%.",
+      "link": "https://www.reforma.com/acuerda-sindicato-de-pemex-aumento-de-7-5/ar3270466",
+      "fecha": "04 Sep 2026, 16:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repunta generación de empleo en EU en agosto",
-      "resumen": "Generación de empleo en EU se acelera en agosto, con 162 mil puestos, mientras que tasa de desempleo se mantiene en el 4.1%.",
-      "link": "https://www.reforma.com/repunta-generacion-de-empleo-en-eu-en-agosto/ar3270158",
-      "fecha": "04 Sep 2026, 07:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "¿Quién puede invertir en México?",
       "resumen": "México pasaría de un sistema enfocado en cuánto y dónde puede invertir el extranjero, hacia uno que también pregunta quién está invirtiendo.",
       "link": "https://www.reforma.com/quien-puede-invertir-en-mexico/ar3269717",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exportaciones tecnológicas no se reflejan en PIB.- UBS",
-      "resumen": "Pese a que México es el principal exportador tecnológico de EU e incluso registra superávit, esto no se refleja en el PIB, señaló UBS.",
-      "link": "https://www.reforma.com/exportaciones-tecnologicas-no-se-reflejan-en-pib-ubs/ar3269934",
-      "fecha": "03 Sep 2026, 19:11 hrs"
+      "titulo": "Repunta generación de empleo en EU en agosto",
+      "resumen": "Generación de empleo en EU se acelera en agosto, con 162 mil puestos, mientras que tasa de desempleo se mantiene en el 4.1%.",
+      "link": "https://www.reforma.com/repunta-generacion-de-empleo-en-eu-en-agosto/ar3270158",
+      "fecha": "04 Sep 2026, 07:23 hrs"
     }
   ]
 }
