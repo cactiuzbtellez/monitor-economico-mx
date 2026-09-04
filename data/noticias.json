@@ -1,16 +1,7 @@
 {
-  "actualizado": "04/09/2026 08:48 hrs",
+  "actualizado": "04/09/2026 12:08 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados van contra los aumentos de hasta 80% en seguros de gastos médicos",
-      "resumen": "La reforma plantea transparentar las tarifas de hospitales, limitar el alza de las pólizas, eliminar el IVA para adultos mayores y permitir cambiar de aseguradora sin perder antigüedad.",
-      "link": "https://expansion.mx/economia/2026/09/04/diputados-van-contra-los-aumentos-de-hasta-80-en-seguros-de-gastos-medicos",
-      "fecha": "04 Sep 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,69 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
+      "resumen": "Index Mexicali esperará a ver cómo opera el nuevo filtro de seguridad a la llegada de capitales foráneos y confía en que su aplicación sea ágil.",
+      "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
+      "fecha": "02 Sep 2026, 18:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen pone a SEAT en la mira mientras acelera recorte de costos y prepara reestructura hasta 2029",
+      "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
+      "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
+      "fecha": "03 Sep 2026, 20:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXXO quiere convertir sus tiendas en puntos de entrega y desafía a Amazon, Mercado Libre y Estafeta",
+      "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
+      "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
+      "fecha": "03 Sep 2026, 19:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Se fue el internet? El derecho poco conocido para que Telmex o Izzi te reembolsen dinero",
+      "resumen": "Los contratos de Izzi y Telmex establecen mecanismos de compensación por interrupciones del servicio, pero el procedimiento y las condiciones no son exactamente iguales.",
+      "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
+      "fecha": "03 Sep 2026, 16:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Gonzalo Hevia Baillères se suma al grupo propietario de los Seattle Seahawks",
+      "resumen": "El empresario mexicano, fundador de HBeyond, se incorpora al grupo propietario de los Seattle Seahawks, actuales campeones del Super Bowl LX, junto con inversionistas internacionales.",
+      "link": "https://expansion.mx/empresas/2026/09/03/gonzalo-hevia-bailleres-grupo-propietario-seattle-seahawks",
+      "fecha": "03 Sep 2026, 15:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El auto con el motor más longevo, según un estudio: tiene 8 veces más probabilidades de pasar los 402 mil km",
+      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
+      "link": "https://expansion.mx/empresas/2026/09/03/auto-mas-longevo-tiene-probabilidades-pasar-402-mil-km",
+      "fecha": "03 Sep 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El empresario detrás de Estrella Blanca y Minsa que comenzó trabajando en una lavandería",
+      "resumen": "Antes de estar detrás de empresas como DINA, Minsa y GIG, Raymundo Gómez Flores trabajó como cajero y almacenista y ayudó en los negocios familiares.",
+      "link": "https://expansion.mx/empresas/2026/09/03/empresario-estrella-blanca-minsa-lavanderia-raymundo-gomez",
+      "fecha": "03 Sep 2026, 14:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
@@ -93,76 +147,22 @@
       "fecha": "03 Sep 2026, 09:39 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
-      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
-      "fecha": "03 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
-      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
-      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
-      "fecha": "02 Sep 2026, 19:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen Puebla: la planta que una vez produjo 600,000 unidades ahora debe reducir su escala para una nueva realidad",
-      "resumen": "En 2012, la planta de Puebla alcanzó por última vez 600,000 unidades con un Jetta negro del tercer turno destinado a Estados Unidos. Hoy, uno de los tres turnos de trabajo dedicados a ese modelo será …",
-      "link": "https://expansion.mx/empresas/2026/09/02/volkswagen-puebla-planta-que-una-vez-produjo-600-000-autos",
-      "fecha": "02 Sep 2026, 16:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La producción petrolera de Pemex se estanca en los primeros siete meses de 2026; el gas ya sigue una tendencia similar",
-      "resumen": "La producción de crudo de Pemex ronda 1.3 millones de barriles diarios desde diciembre de 2024, mientras el gas natural se mantiene prácticamente sin cambios durante 2026.",
-      "link": "https://expansion.mx/empresas/2026/09/02/pemex-se-estanca-produccion-petrolera-y-gas-2026",
-      "fecha": "02 Sep 2026, 16:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Little Caesars en México? Así creció la pizzería que cumple 20 años",
-      "resumen": "La cadena estadounidense comenzó como una pequeña pizzería familiar en Michigan y llegó a México mediante un modelo de franquicias que hoy suma más de 700 unidades.",
-      "link": "https://expansion.mx/empresas/2026/09/02/quien-dueno-little-caesars-mexico-cumple-20-anos",
-      "fecha": "02 Sep 2026, 16:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXIO migrará a los usuarios de Movistar a la nube, ¿en qué país estarán los datos y quién los controlará?",
-      "resumen": "Migrar a la nube a todos los usuarios de Movistar para acelerar la operación de OXIO plantea interrogantes sobre dónde se almacenará su información, qué leyes la protegerán y quién podrá acceder a ell…",
-      "link": "https://expansion.mx/empresas/2026/09/02/oxio-usuarios-movistar-estaran-datos-quien-controlara",
-      "fecha": "02 Sep 2026, 16:04 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene inversión mejor resultado en 23 meses",
+      "resumen": "Durante junio de 2026, el total de la Inversión Fija Bruta registró su mejor desempeño relativo en 23 meses, al expandirse 5.8 % anual.",
+      "link": "https://www.reforma.com/tiene-inversion-mejor-resultado-en-23-meses/ar3270245",
+      "fecha": "04 Sep 2026, 10:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Temen 'ola expansiva' de sanciones del SAT",
-      "resumen": "Alerta \"ola expansiva\" de cancelación de sellos digitales contra contribuyentes cumplidos que interactúen con firmas sancionadas por el SAT.",
-      "link": "https://www.reforma.com/temen-ola-expansiva-de-sanciones-del-sat/ar3270036",
-      "fecha": "04 Sep 2026, 07:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Triplica el huachicol a empresas formales",
-      "resumen": "Las empresas sancionadas por el SAT por huachicol fiscal representan el triple de las que tienen permisos de comercialización en México.",
-      "link": "https://www.reforma.com/triplica-el-huachicol-a-empresas-formales/ar3270025",
-      "fecha": "04 Sep 2026, 05:01 hrs"
+      "titulo": "Caen 6% acciones de Tesla tras decepción de Cybercab",
+      "resumen": "Acciones de Tesla caen 6% después de que la presentación del Cybercab decepcionara a los inversionistas e investigación de los reguladores.",
+      "link": "https://www.reforma.com/caen-6-acciones-de-tesla-tras-decepcion-de-cybercab/ar3270272",
+      "fecha": "04 Sep 2026, 11:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben costos por jornada laboral",
-      "resumen": "Reducción de la jornada laboral significará que se incrementen los costos de hasta 35% en el servicio que se brindan guardias de seguridad.",
-      "link": "https://www.reforma.com/suben-costos-por-jornada-laboral/ar3270028",
-      "fecha": "04 Sep 2026, 05:01 hrs"
+      "titulo": "Temen 'ola expansiva' de sanciones del SAT",
+      "resumen": "Alerta \"ola expansiva\" de cancelación de sellos digitales contra contribuyentes cumplidos que interactúen con firmas sancionadas por el SAT.",
+      "link": "https://www.reforma.com/temen-ola-expansiva-de-sanciones-del-sat/ar3270036",
+      "fecha": "04 Sep 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exhiben retos del nearshoring",
-      "resumen": "Oportunidad para aprovechar el nearshoring dependerá de factores como infraestructura, energía, talento, innovación y seguridad jurídica.",
-      "link": "https://www.reforma.com/exhiben-retos-del-nearshoring/ar3270012",
-      "fecha": "04 Sep 2026, 05:01 hrs"
+      "titulo": "Aprueba EU pacto entre Volaris y Viva",
+      "resumen": "La FTC de EU dio luz verde a la operación entre las aerolíneas mexicanas Volaris y Viva; pasa a ser analizada por las autoridades mexicanas.",
+      "link": "https://www.reforma.com/aprueba-eu-pacto-entre-volaris-y-viva/ar3270208",
+      "fecha": "04 Sep 2026, 09:55 hrs"
     },
     {
       "fuente": "Reforma",
