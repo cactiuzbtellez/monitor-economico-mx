@@ -1,15 +1,60 @@
 {
-  "actualizado": "04/09/2026 12:08 hrs",
+  "actualizado": "04/09/2026 15:15 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
+      "resumen": "Los apoyos públicos elevan 142.6% el ingreso de los pensionados beneficiados, de acuerdo con cifras del Segundo Informe de Gobierno.",
+      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
+      "fecha": "04 Sep 2026, 14:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
+      "resumen": "Los datos ponen en perspectiva el paso directo de mercancías chinas por México, pero abren una pregunta mayor: cuánto contenido chino llevan los productos hechos en el país.",
+      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
+      "fecha": "04 Sep 2026, 12:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Cervezas, ‘aguas locas’ más caras y tequila más accesible; así pinta la renovación al IEPS para 2027",
       "resumen": "Rumbo al Paquete Económico 2027, diputados buscan que la mayor parte del cambio, que proponen, para calcular el impuesto a bebidas alcohólicas se redistribuya a cervezas e incremente en aguardiente.",
-      "link": "https://expansion.mx/economia/2026/09/03/cerveza-aguas-locas-tequila-mezcal-ieps-2027",
-      "fecha": "03 Sep 2026, 20:33 hrs"
+      "link": "https://expansion.mx/economia/2026/09/04/cerveza-podria-pagar-mas-impuesto-mexico",
+      "fecha": "04 Sep 2026, 12:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
+      "resumen": "Cuando una casa pasa a manos de varios hermanos, venderla no siempre es sencillo. Si uno se opone, existen alternativas legales para resolver la copropiedad y repartir el patrimonio.",
+      "link": "https://expansion.mx/economia/2026/09/04/heredar-casa-entre-hermanos-que-pasa-nadie-quiere-vender",
+      "fecha": "04 Sep 2026, 11:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inversión sorprende al alza, pero el consumo revela la debilidad de la demanda, reporta Inegi",
+      "resumen": "En junio, la construcción concentró el crecimiento de la inversión, mientras maquinaria y equipo siguen estancados.",
+      "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
+      "fecha": "04 Sep 2026, 08:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados van contra los aumentos de hasta 80% en seguros de gastos médicos",
+      "resumen": "La reforma plantea transparentar las tarifas de hospitales, limitar el alza de las pólizas, eliminar el IVA para adultos mayores y permitir cambiar de aseguradora sin perder antigüedad.",
+      "link": "https://expansion.mx/economia/2026/09/04/diputados-van-contra-los-aumentos-de-hasta-80-en-seguros-de-gastos-medicos",
+      "fecha": "04 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -28,69 +73,6 @@
       "resumen": "La iniciativa planteada en la Comisión de Hacienda de la Cámara de Diputados busca impedir que la venta de una deuda reinicie su antigüedad, transparentar el cálculo del score crediticio, entre otros …",
       "link": "https://expansion.mx/economia/2026/09/03/salir-buro-de-credito-si-ya-pagaste-rapido-reforma",
       "fecha": "03 Sep 2026, 15:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Paquete Económico 2027, cuándo vence el plazo de entrega y qué sigue en el Congreso",
-      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
-      "link": "https://expansion.mx/economia/2026/09/03/paquete-economico-2027-cuando-se-presenta",
-      "fecha": "03 Sep 2026, 14:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
-      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
-      "link": "https://expansion.mx/economia/2026/09/03/deuda-despachos-cobranza-tienen-otras-formas-encontrarte",
-      "fecha": "03 Sep 2026, 11:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "De puertos a algoritmos: la inversión extranjera tech entra al filtro de seguridad nacional",
-      "resumen": "La iniciativa presidencial sometería a revisión por seguridad nacional las compras extranjeras mayores a 49%, cuando la empresa supere el umbral de activos y opere en una actividad sensible.",
-      "link": "https://expansion.mx/economia/2026/09/03/mexico-vigilara-seguridad-nacional-ia-semiconductores",
-      "fecha": "03 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pemex pone a prueba el grado de inversión de México, aunque el mercado aún no prende las alarmas",
-      "resumen": "México necesitaría avanzar hacia un superávit primario cercano a 1% del PIB para contener la deuda. El presupuesto de 2027 será prueba de la capacidad del gobierno para acercarse a esa trayectoria.",
-      "link": "https://expansion.mx/economia/2026/09/03/mexico-grado-inversion-pemex-bonos-basura",
-      "fecha": "03 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Manufactureras de exportación avalan reforma a inversión extranjera, pero ponen foco en tiempos",
-      "resumen": "Index Mexicali esperará a ver cómo opera el nuevo filtro de seguridad a la llegada de capitales foráneos y confía en que su aplicación sea ágil.",
-      "link": "https://expansion.mx/economia/2026/09/02/manufactureras-avalan-control-inversion-extranjera",
-      "fecha": "02 Sep 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen pone a SEAT en la mira mientras acelera recorte de costos y prepara reestructura hasta 2029",
-      "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
-      "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
-      "fecha": "03 Sep 2026, 20:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXXO quiere convertir sus tiendas en puntos de entrega y desafía a Amazon, Mercado Libre y Estafeta",
-      "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
-      "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
-      "fecha": "03 Sep 2026, 19:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +129,24 @@
       "fecha": "03 Sep 2026, 09:39 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "\"A veces, simplemente no me caes bien”: Así fue como Henry Ford II despidió al creador del Mustang",
+      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
+      "link": "https://expansion.mx/empresas/2026/09/03/asi-fue-como-henry-ford-ii-despidio-al-creador-del-mustang",
+      "fecha": "03 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Fracking requiere 108,000 mdd y hasta una década para producir el gas que hoy demanda México",
+      "resumen": "El país consume actualmente alrededor de 9,000 millones de pies cúbicos diarios de gas natural, una demanda que seguirá creciendo en los próximos años.",
+      "link": "https://expansion.mx/empresas/2026/09/02/fracking-108000-mdd-decada-producir-gas-demanda-mexico",
+      "fecha": "02 Sep 2026, 19:34 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanza nuevo récord la importación de gas",
-      "resumen": "La importación de gas natural volvió a tocar un nuevo récord en junio ya que México importó 8 mil 300 millones de pies cúbicos.",
-      "link": "https://www.reforma.com/alcanza-nuevo-record-la-importacion-de-gas/ar3270033",
-      "fecha": "04 Sep 2026, 05:01 hrs"
+      "titulo": "Reconoce Slim Domit al Plan México para atraer inversiones",
+      "resumen": "Carlos Slim Domit, presidente del Consejo de Administración de Grupo Carso, reconoció que el Plan México ayuda a atraer inversiones al País.",
+      "link": "https://www.reforma.com/reconoce-slim-domit-al-plan-mexico-para-atraer-inversiones/ar3270263",
+      "fecha": "04 Sep 2026, 11:54 hrs"
     },
     {
       "fuente": "Reforma",
