@@ -1,7 +1,34 @@
 {
-  "actualizado": "03/09/2026 18:48 hrs",
+  "actualizado": "03/09/2026 23:33 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Ya pagaste y sigues con mala nota en Buró de Crédito? Reforma busca acelerar la limpieza del historial",
+      "resumen": "La iniciativa planteada en la Comisión de Hacienda de la Cámara de Diputados busca impedir que la venta de una deuda reinicie su antigüedad, transparentar el cálculo del score crediticio, entre otros …",
+      "link": "https://expansion.mx/economia/2026/09/03/salir-buro-de-credito-si-ya-pagaste-rapido-reforma",
+      "fecha": "03 Sep 2026, 15:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Paquete Económico 2027, cuándo vence el plazo de entrega y qué sigue en el Congreso",
+      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
+      "link": "https://expansion.mx/economia/2026/09/03/paquete-economico-2027-cuando-se-presenta",
+      "fecha": "03 Sep 2026, 14:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
+      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
+      "link": "https://expansion.mx/economia/2026/09/03/deuda-despachos-cobranza-tienen-otras-formas-encontrarte",
+      "fecha": "03 Sep 2026, 11:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,15 +46,6 @@
       "resumen": "México necesitaría avanzar hacia un superávit primario cercano a 1% del PIB para contener la deuda. El presupuesto de 2027 será prueba de la capacidad del gobierno para acercarse a esa trayectoria.",
       "link": "https://expansion.mx/economia/2026/09/03/mexico-grado-inversion-pemex-bonos-basura",
       "fecha": "03 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con cartas y visitas domiciliarias, despachos de cobranza buscan encontrar a deudores que no registren línea telefónica",
-      "resumen": "En un escenario moderado, se estiman pérdidas de hasta 16 mil 500 mdp por créditos que no se paguen por parte de clientes de bancos y fintech que no puedan ser localizados.",
-      "link": "https://expansion.mx/economia/2026/09/02/despachos-cobranza-buscan-deudores-cartas-visitas",
-      "fecha": "02 Sep 2026, 19:04 hrs"
     },
     {
       "fuente": "Expansión",
@@ -58,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "HSBC celebra su primer Wealth Investment Summit en México",
-      "resumen": "El encuentro convocó a clientes con necesidades patrimoniales sofisticadas e internacionales con especialistas en temas económicos, comerciales y de inversión.",
-      "link": "https://expansion.mx/economia/2026/09/02/hsbc-celebra-su-primer-wealth-investment-summit-en-mexico",
-      "fecha": "02 Sep 2026, 11:34 hrs"
+      "titulo": "Gonzalo Hevia Baillères se suma al grupo propietario de los Seattle Seahawks",
+      "resumen": "El empresario mexicano, fundador de HBeyond, se incorpora al grupo propietario de los Seattle Seahawks, actuales campeones del Super Bowl LX, junto con inversionistas internacionales.",
+      "link": "https://expansion.mx/empresas/2026/09/03/gonzalo-hevia-bailleres-grupo-propietario-seattle-seahawks",
+      "fecha": "03 Sep 2026, 15:46 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Impuesto a sopas Maruchan? Alistan ajustes a IEPS en botanas y bebidas alcohólicas en Paquete Económico 2027",
-      "resumen": "Se revisará y actualizará el Impuesto Especial a Producción y Servicios (IEPS) a alimentos con alto contenido de sodio, como sopas instantáneas y a bebidas alcohólicas para 2027.",
-      "link": "https://expansion.mx/economia/2026/09/02/impuestos-sopas-maruchan-botanas-alcohol-ieps-2027",
-      "fecha": "02 Sep 2026, 09:06 hrs"
+      "titulo": "El auto con el motor más longevo, según un estudio: tiene 8 veces más probabilidades de pasar los 402 mil km",
+      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
+      "link": "https://expansion.mx/empresas/2026/09/03/auto-mas-longevo-tiene-probabilidades-pasar-402-mil-km",
+      "fecha": "03 Sep 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El empresario detrás de Estrella Blanca y Minsa que comenzó trabajando en una lavandería",
+      "resumen": "Antes de estar detrás de empresas como DINA, Minsa y GIG, Raymundo Gómez Flores trabajó como cajero y almacenista y ayudó en los negocios familiares.",
+      "link": "https://expansion.mx/empresas/2026/09/03/empresario-estrella-blanca-minsa-lavanderia-raymundo-gomez",
+      "fecha": "03 Sep 2026, 14:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El riesgo de no registrar tu línea telefónica: lo que pasa con los chips nuevos sin vinculación",
+      "resumen": "Algunos usuarios compran chips nuevos para evitar la vinculación de su línea. Expansión realizó un ejercicio para comprobar si es posible utilizar una línea sin realizar este proceso.",
+      "link": "https://expansion.mx/empresas/2026/09/03/riesgo-no-registrar-linea-chips-nuevos",
+      "fecha": "03 Sep 2026, 12:42 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,13 @@
       "fecha": "02 Sep 2026, 16:48 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La producción petrolera de Pemex se estanca en los primeros siete meses de 2026; el gas ya sigue una tendencia similar",
-      "resumen": "La producción de crudo de Pemex ronda 1.3 millones de barriles diarios desde diciembre de 2024, mientras el gas natural se mantiene prácticamente sin cambios durante 2026.",
-      "link": "https://expansion.mx/empresas/2026/09/02/pemex-se-estanca-produccion-petrolera-y-gas-2026",
-      "fecha": "02 Sep 2026, 16:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Little Caesars en México? Así creció la pizzería que cumple 20 años",
-      "resumen": "La cadena estadounidense comenzó como una pequeña pizzería familiar en Michigan y llegó a México mediante un modelo de franquicias que hoy suma más de 700 unidades.",
-      "link": "https://expansion.mx/empresas/2026/09/02/quien-dueno-little-caesars-mexico-cumple-20-anos",
-      "fecha": "02 Sep 2026, 16:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXIO migrará a los usuarios de Movistar a la nube, ¿en qué país estarán los datos y quién los controlará?",
-      "resumen": "Migrar a la nube a todos los usuarios de Movistar para acelerar la operación de OXIO plantea interrogantes sobre dónde se almacenará su información, qué leyes la protegerán y quién podrá acceder a ell…",
-      "link": "https://expansion.mx/empresas/2026/09/02/oxio-usuarios-movistar-estaran-datos-quien-controlara",
-      "fecha": "02 Sep 2026, 16:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia de Tomás Milmo con Axtel de fundador a empresario que busca comprarla",
-      "resumen": "La posible compra ocurre mientras Flō Networks también prepara una oferta para adquirir hasta 100% de los títulos de Axtel y Controladora Axtel.",
-      "link": "https://expansion.mx/empresas/2026/09/02/tomas-milmo-axtel-fundador-empresario-busca-comprarla",
-      "fecha": "02 Sep 2026, 14:49 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Exportaciones tecnológicas no se reflejan en PIB.- UBS",
+      "resumen": "Pese a que México es el principal exportador tecnológico de EU e incluso registra superávit, esto no se refleja en el PIB, señaló UBS.",
+      "link": "https://www.reforma.com/exportaciones-tecnologicas-no-se-reflejan-en-pib-ubs/ar3269934",
+      "fecha": "03 Sep 2026, 19:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan México y China fortalecer cooperación",
-      "resumen": "Titular de la SRE realiza visita a China, en momentos en EU presiona al país para reducir sus vínculos comerciales con el país asiático.",
-      "link": "https://www.reforma.com/buscan-mexico-y-china-fortalecer-cooperacion/ar3269750",
-      "fecha": "03 Sep 2026, 15:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Entrenar a tu reemplazo",
       "resumen": "Mientras las empresas invierten en IA y entregan herramientas a sus empleados buscando elevar la productividad, el compromiso no ha mejorado",
       "link": "https://www.reforma.com/entrenar-a-tu-reemplazo/ar3269222",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprueba VW reestructuración; recortaría 50 mil empleos",
-      "resumen": "El consejo de supervisión de Volkswagen aprobó un plan de transformación integral que podría incluir una reducción de unos 50 mil empleos.",
-      "link": "https://www.reforma.com/aprueba-vw-reestructuracion-recortaria-50-mil-empleos/ar3269723",
-      "fecha": "03 Sep 2026, 14:59 hrs"
+      "titulo": "Buscan México y China fortalecer cooperación",
+      "resumen": "Titular de la SRE realiza visita a China, en momentos en EU presiona al país para reducir sus vínculos comerciales con el país asiático.",
+      "link": "https://www.reforma.com/buscan-mexico-y-china-fortalecer-cooperacion/ar3269750",
+      "fecha": "03 Sep 2026, 15:31 hrs"
     }
   ]
 }
