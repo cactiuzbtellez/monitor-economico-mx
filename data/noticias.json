@@ -1,5 +1,5 @@
 {
-  "actualizado": "04/09/2026 21:11 hrs",
+  "actualizado": "05/09/2026 02:05 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Del Vocho al Jetta: la evolución de Volkswagen en México y su planta en Puebla",
+      "resumen": "Volkswagen llegó a México desde hace más de 70 años, y desde entonces ha generado un fuerte vínculo con los consumidores mexicanos.",
+      "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
+      "fecha": "04 Sep 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
       "resumen": "La creciente dependencia de Starlink para comunicaciones críticas abre un nuevo debate sobre quién controla las redes, los datos y la infraestructura que conecta a millones de usuarios desde el espaci…",
       "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
@@ -136,15 +145,6 @@
       "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
       "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
       "fecha": "03 Sep 2026, 19:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Se fue el internet? El derecho poco conocido para que Telmex o Izzi te reembolsen dinero",
-      "resumen": "Los contratos de Izzi y Telmex establecen mecanismos de compensación por interrupciones del servicio, pero el procedimiento y las condiciones no son exactamente iguales.",
-      "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
-      "fecha": "03 Sep 2026, 16:51 hrs"
     },
     {
       "fuente": "Reforma",
