@@ -1,5 +1,5 @@
 {
-  "actualizado": "05/09/2026 14:05 hrs",
+  "actualizado": "05/09/2026 16:39 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Creó el Mustang, pero cometió un error: No caerle bien a Henry Ford II; así fue el despido del creador del famoso auto",
+      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
+      "link": "https://expansion.mx/empresas/2026/09/05/henry-ford-ii-despidio-al-creador-del-mustang",
+      "fecha": "05 Sep 2026, 15:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El carro con el motor que más aguanta tiene 8 veces más probabilidades de pasar los 402 mil km, según estudio",
+      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
+      "link": "https://expansion.mx/empresas/2026/09/05/auto-motor-ma-aguanta-probabilidades-pasar-402-mil-km",
+      "fecha": "05 Sep 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "1.9 millones de líneas con terminación 1 quedaron suspendidas tras segunda fecha del registro telefónico",
       "resumen": "De las 11.4 millones de líneas con terminación 1 que existen en el país, 9.5 millones completaron su vinculación y 1.9 millones quedaron suspendidas.",
       "link": "https://expansion.mx/empresas/2026/09/04/1-9-millones-de-lineas-suspendidas-registro-telefonico",
@@ -127,24 +145,6 @@
       "resumen": "La intención es reducir la deuda en 920 millones de dólares para poder fortalecer la estructura financiera de la compañía.",
       "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
       "fecha": "04 Sep 2026, 08:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tienditas temen perder clientes si sube el IEPS a cervezas y sopas Maruchan",
-      "resumen": "Las compras pueden desplazarse hacia Oxxo, 3B y Bodega Aurrerá, donde la mayor escala permite ofrecer promociones que las tiendas pequeñas difícilmente pueden igualar.",
-      "link": "https://expansion.mx/empresas/2026/09/04/tienditas-esquina-resentiran-impuesto-cervezas-maruchan",
-      "fecha": "04 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen pone a SEAT en la mira mientras acelera recorte de costos y prepara reestructura hasta 2029",
-      "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
-      "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
-      "fecha": "03 Sep 2026, 20:16 hrs"
     },
     {
       "fuente": "Reforma",
