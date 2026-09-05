@@ -1,7 +1,16 @@
 {
-  "actualizado": "04/09/2026 17:44 hrs",
+  "actualizado": "04/09/2026 21:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las gasolinas y diésel tendrán menos impuestos, pero precios no bajarán",
+      "resumen": "Hacienda redujo las cuotas que cobra a los combustibles por el Impuesto Especial sobre Producción y Servicios (IEPS), para la semana del 5 al 11 de septiembre.",
+      "link": "https://expansion.mx/economia/2026/09/04/gasolinas-impuesto-ieps-precio",
+      "fecha": "04 Sep 2026, 18:35 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Ya pagaste y sigues con mala nota en Buró de Crédito? Reforma busca acelerar la limpieza del historial",
-      "resumen": "La iniciativa planteada en la Comisión de Hacienda de la Cámara de Diputados busca impedir que la venta de una deuda reinicie su antigüedad, transparentar el cálculo del score crediticio, entre otros …",
-      "link": "https://expansion.mx/economia/2026/09/03/salir-buro-de-credito-si-ya-pagaste-rapido-reforma",
-      "fecha": "03 Sep 2026, 15:27 hrs"
+      "titulo": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
+      "resumen": "La creciente dependencia de Starlink para comunicaciones críticas abre un nuevo debate sobre quién controla las redes, los datos y la infraestructura que conecta a millones de usuarios desde el espaci…",
+      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
+      "fecha": "04 Sep 2026, 14:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
+      "resumen": "En Monterrey se entregó el Premio Eugenio Garza Sada en tres categorías que en conjunto suman 4 millones 500 mil pesos para los proyectos y reconocimientos ganadores.",
+      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
+      "fecha": "04 Sep 2026, 13:21 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,22 +147,22 @@
       "fecha": "03 Sep 2026, 16:51 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gonzalo Hevia Baillères se suma al grupo propietario de los Seattle Seahawks",
-      "resumen": "El empresario mexicano, fundador de HBeyond, se incorpora al grupo propietario de los Seattle Seahawks, actuales campeones del Super Bowl LX, junto con inversionistas internacionales.",
-      "link": "https://expansion.mx/empresas/2026/09/03/gonzalo-hevia-bailleres-grupo-propietario-seattle-seahawks",
-      "fecha": "03 Sep 2026, 15:46 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan fundidores revertir caída",
+      "resumen": "Industria de fundición enfrenta presión por el tipo de cambio, aranceles e incertidumbre de exportaciones hacia EU, señaló AMF.",
+      "link": "https://www.reforma.com/buscan-fundidores-revertir-caida/ar3270588",
+      "fecha": "04 Sep 2026, 20:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El auto con el motor más longevo, según un estudio: tiene 8 veces más probabilidades de pasar los 402 mil km",
-      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
-      "link": "https://expansion.mx/empresas/2026/09/03/auto-mas-longevo-tiene-probabilidades-pasar-402-mil-km",
-      "fecha": "03 Sep 2026, 15:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae dólar a 16.88; tiene peso mayor apreciación en 4 semanas",
+      "resumen": "El dólar cerró la semana con una cotización de $16.88; cifra 3.48 centavos menor al jueves y acumulando su peor depreciación en 4 semanas.",
+      "link": "https://www.reforma.com/cae-dolar-a-16-88-tiene-peso-mayor-apreciacion-en-4-semanas/ar3270523",
+      "fecha": "04 Sep 2026, 18:23 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,10 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene inversión mejor resultado en 23 meses",
-      "resumen": "Durante junio de 2026, el total de la Inversión Fija Bruta registró su mejor desempeño relativo en 23 meses, al expandirse 5.8 % anual.",
-      "link": "https://www.reforma.com/tiene-inversion-mejor-resultado-en-23-meses/ar3270245",
-      "fecha": "04 Sep 2026, 10:33 hrs"
+      "titulo": "Amenaza Trump suspender comercio si Fed no recorta tasas",
+      "resumen": "Trump suspendería comercio con algunos países que tienen superávit comercial con EU, a menos que Fed recorte tasas.",
+      "link": "https://www.reforma.com/amenaza-trump-suspender-comercio-si-fed-no-recorta-tasas/ar3270343",
+      "fecha": "04 Sep 2026, 14:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Deben México y Canadá trabajar juntos por el T-MEC-. Trudeau",
+      "resumen": "México y Canadá deben trabajar juntos, como amigos, en el marco de la revisión del T-MEC, dijo Trudeau, ex primer ministro canadiense.",
+      "link": "https://www.reforma.com/deben-mexico-y-canada-trabajar-juntos-por-el-t-mec-trudeau/ar3270327",
+      "fecha": "04 Sep 2026, 13:49 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,33 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reconoce Slim Domit al Plan México para atraer inversiones",
-      "resumen": "Carlos Slim Domit, presidente del Consejo de Administración de Grupo Carso, reconoció que el Plan México ayuda a atraer inversiones al País.",
-      "link": "https://www.reforma.com/reconoce-slim-domit-al-plan-mexico-para-atraer-inversiones/ar3270263",
-      "fecha": "04 Sep 2026, 11:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Temen 'ola expansiva' de sanciones del SAT",
-      "resumen": "Alerta \"ola expansiva\" de cancelación de sellos digitales contra contribuyentes cumplidos que interactúen con firmas sancionadas por el SAT.",
-      "link": "https://www.reforma.com/temen-ola-expansiva-de-sanciones-del-sat/ar3270036",
-      "fecha": "04 Sep 2026, 07:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aprueba EU pacto entre Volaris y Viva",
-      "resumen": "La FTC de EU dio luz verde a la operación entre las aerolíneas mexicanas Volaris y Viva; pasa a ser analizada por las autoridades mexicanas.",
-      "link": "https://www.reforma.com/aprueba-eu-pacto-entre-volaris-y-viva/ar3270208",
-      "fecha": "04 Sep 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "¿Quién puede invertir en México?",
       "resumen": "México pasaría de un sistema enfocado en cuánto y dónde puede invertir el extranjero, hacia uno que también pregunta quién está invirtiendo.",
       "link": "https://www.reforma.com/quien-puede-invertir-en-mexico/ar3269717",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repunta generación de empleo en EU en agosto",
-      "resumen": "Generación de empleo en EU se acelera en agosto, con 162 mil puestos, mientras que tasa de desempleo se mantiene en el 4.1%.",
-      "link": "https://www.reforma.com/repunta-generacion-de-empleo-en-eu-en-agosto/ar3270158",
-      "fecha": "04 Sep 2026, 07:23 hrs"
+      "titulo": "Reconoce Slim Domit al Plan México para atraer inversiones",
+      "resumen": "Carlos Slim Domit, presidente del Consejo de Administración de Grupo Carso, reconoció que el Plan México ayuda a atraer inversiones al País.",
+      "link": "https://www.reforma.com/reconoce-slim-domit-al-plan-mexico-para-atraer-inversiones/ar3270263",
+      "fecha": "04 Sep 2026, 11:54 hrs"
     }
   ]
 }
