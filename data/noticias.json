@@ -1,5 +1,5 @@
 {
-  "actualizado": "05/09/2026 06:24 hrs",
+  "actualizado": "05/09/2026 09:48 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "1.9 millones de líneas con terminación 1 quedaron suspendidas tras segunda fecha del registro telefónico",
+      "resumen": "De las 11.4 millones de líneas con terminación 1 que existen en el país, 9.5 millones completaron su vinculación y 1.9 millones quedaron suspendidas.",
+      "link": "https://expansion.mx/empresas/2026/09/04/1-9-millones-de-lineas-suspendidas-registro-telefonico",
+      "fecha": "04 Sep 2026, 20:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Del Vocho al Jetta: la evolución de Volkswagen en México y su planta en Puebla",
+      "resumen": "Volkswagen llegó a México desde hace más de 70 años, y desde entonces ha generado un fuerte vínculo con los consumidores mexicanos.",
+      "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
+      "fecha": "04 Sep 2026, 15:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
+      "resumen": "La creciente dependencia de Starlink para comunicaciones críticas abre un nuevo debate sobre quién controla las redes, los datos y la infraestructura que conecta a millones de usuarios desde el espaci…",
+      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
+      "fecha": "04 Sep 2026, 14:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
+      "resumen": "En Monterrey se entregó el Premio Eugenio Garza Sada en tres categorías que en conjunto suman 4 millones 500 mil pesos para los proyectos y reconocimientos ganadores.",
+      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
+      "fecha": "04 Sep 2026, 13:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Volkswagen reducirá a la mitad su oferta de vehículos y recortará 75% las configuraciones hacia 2035",
       "resumen": "El grupo alemán, que agrupa las marcas Volkswagen, Seat, Cupra, Audi y Porsche entre otras, eliminará gradualmente modelos y versiones de menor desempeño comercial para simplificar producción y mejora…",
       "link": "https://expansion.mx/empresas/2026/09/04/volkswagen-recortara-a-la-mitad-su-oferta-de-vehiculos",
@@ -109,42 +145,6 @@
       "resumen": "La marca española, propiedad de Volkswagen desde 1990, quedaría fuera de la estrategia hacia 2030 como parte de un plan para reducir complejidad e inversión.",
       "link": "https://expansion.mx/empresas/2026/09/03/seat-desaparecera-2029",
       "fecha": "03 Sep 2026, 20:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXXO quiere convertir sus tiendas en puntos de entrega y desafía a Amazon, Mercado Libre y Estafeta",
-      "resumen": "OXXO y Cubbo activaron puntos de recolección y devolución en tiendas seleccionadas de Ciudad de México para que las compras en línea se recojan en la tienda y no necesariamente en casa",
-      "link": "https://expansion.mx/empresas/2026/09/03/oxxo-cubb-tiendas-puntos-de-entrega-desafia-amazon",
-      "fecha": "03 Sep 2026, 19:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Se fue el internet? El derecho poco conocido para que Telmex o Izzi te reembolsen dinero",
-      "resumen": "Los contratos de Izzi y Telmex establecen mecanismos de compensación por interrupciones del servicio, pero el procedimiento y las condiciones no son exactamente iguales.",
-      "link": "https://expansion.mx/empresas/2026/09/03/se-fue-internet-puedes-reclamarle-izzi-telmex-interrupcion",
-      "fecha": "03 Sep 2026, 16:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gonzalo Hevia Baillères se suma al grupo propietario de los Seattle Seahawks",
-      "resumen": "El empresario mexicano, fundador de HBeyond, se incorpora al grupo propietario de los Seattle Seahawks, actuales campeones del Super Bowl LX, junto con inversionistas internacionales.",
-      "link": "https://expansion.mx/empresas/2026/09/03/gonzalo-hevia-bailleres-grupo-propietario-seattle-seahawks",
-      "fecha": "03 Sep 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El auto con el motor más longevo, según un estudio: tiene 8 veces más probabilidades de pasar los 402 mil km",
-      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
-      "link": "https://expansion.mx/empresas/2026/09/03/auto-mas-longevo-tiene-probabilidades-pasar-402-mil-km",
-      "fecha": "03 Sep 2026, 15:24 hrs"
     },
     {
       "fuente": "Reforma",
