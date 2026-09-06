@@ -1,5 +1,5 @@
 {
-  "actualizado": "06/09/2026 15:04 hrs",
+  "actualizado": "06/09/2026 17:30 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Batalla País por credibilidad del PEF.- Economist",
+      "resumen": "The Economist aseguró que el Presupuesto de Egresos de 2027 será clave para los inversionistas, cuya confianza en México se erosiona.",
+      "link": "https://www.reforma.com/batalla-pais-por-credibilidad-del-pef-economist/ar3271239",
+      "fecha": "06 Sep 2026, 16:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cinco años sin gas...y sin bienestar",
+      "resumen": "A cinco años de su creación, Gas Bienestar sigue lejos de la cobertura nacional y enfrenta pendientes en infraestructura y rentabilidad.",
+      "link": "https://www.reforma.com/cinco-anos-sin-gas-y-sin-bienestar/ar3270988",
+      "fecha": "06 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aprieta fisco más, pero a los mismos",
+      "resumen": "Durante administraciones de 4T el padrón de contribuyentes activos ha registrado avances mínimos y SAT ha ampliado actos de fiscalización.",
+      "link": "https://www.reforma.com/aprieta-fisco-mas-pero-a-los-mismos/ar3270637",
+      "fecha": "05 Sep 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Alcanza diesel máximo histórico",
       "resumen": "El precio promedio del diesel en EU llegó ayer a 5.85 dólares por galón, rompiendo el récord histórico de 5.82 de junio del 2022.",
       "link": "https://www.reforma.com/alcanza-diesel-maximo-historico/ar3270571",
@@ -160,9 +187,18 @@
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Mejora inversión en maquinaria",
-      "resumen": "En julio, el 32% de  empresas manufactureras en NL invirtió en maquinaria o construcción, la tasa más alta registrada desde octubre de 2024.",
+      "resumen": "En julio, el 32% de empresas manufactureras en NL invirtió en maquinaria o construcción, la tasa más alta registrada desde octubre de 2024.",
       "link": "https://www.reforma.com/mejora-inversion-en-maquinaria/ar3270563",
       "fecha": "05 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan fundidores revertir caída",
+      "resumen": "Industria de fundición enfrenta presión por el tipo de cambio, aranceles e incertidumbre de exportaciones hacia EU, señaló AMF.",
+      "link": "https://www.reforma.com/buscan-fundidores-revertir-caida/ar3270588",
+      "fecha": "04 Sep 2026, 20:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -181,42 +217,6 @@
       "resumen": "Sindicato de Trabajadores Petroleros de la República Mexicana y Pemex acordaron un incremento salarial total de 7.5%.",
       "link": "https://www.reforma.com/acuerda-sindicato-de-pemex-aumento-de-7-5/ar3270466",
       "fecha": "04 Sep 2026, 16:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amenaza Trump suspender comercio si Fed no recorta tasas",
-      "resumen": "Trump suspendería comercio con algunos países que tienen superávit comercial con EU, a menos que Fed recorte tasas.",
-      "link": "https://www.reforma.com/amenaza-trump-suspender-comercio-si-fed-no-recorta-tasas/ar3270343",
-      "fecha": "04 Sep 2026, 14:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Deben México y Canadá trabajar juntos por el T-MEC-. Trudeau",
-      "resumen": "México y Canadá deben trabajar juntos, como amigos, en el marco de la revisión del T-MEC, dijo Trudeau, ex primer ministro canadiense.",
-      "link": "https://www.reforma.com/deben-mexico-y-canada-trabajar-juntos-por-el-t-mec-trudeau/ar3270327",
-      "fecha": "04 Sep 2026, 13:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "¿Quién puede invertir en México?",
-      "resumen": "México pasaría de un sistema enfocado en cuánto y dónde puede invertir el extranjero, hacia uno que también pregunta quién está invirtiendo.",
-      "link": "https://www.reforma.com/quien-puede-invertir-en-mexico/ar3269717",
-      "fecha": "04 Sep 2026, 07:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen 6% acciones de Tesla tras decepción de Cybercab",
-      "resumen": "Acciones de Tesla caen 6% después de que la presentación del Cybercab decepcionara a los inversionistas e investigación de los reguladores.",
-      "link": "https://www.reforma.com/caen-6-acciones-de-tesla-tras-decepcion-de-cybercab/ar3270272",
-      "fecha": "04 Sep 2026, 11:01 hrs"
     }
   ]
 }
