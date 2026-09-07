@@ -1,7 +1,16 @@
 {
-  "actualizado": "07/09/2026 13:05 hrs",
+  "actualizado": "07/09/2026 16:31 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresarios ven al Paquete Económico 2027 entre impuestos, recortes y más deuda",
+      "resumen": "El sector privado pide reducir el déficit sin castigar la inversión pública ni imponer nuevas cargas a los contribuyentes que ya cumplen con sus obligaciones fiscales.",
+      "link": "https://expansion.mx/economia/2026/09/07/paquete-conomico-presupuesto-2027-mas-impuestos-recortes-deuda",
+      "fecha": "07 Sep 2026, 11:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Diputados van contra los aumentos de hasta 80% en seguros de gastos médicos",
-      "resumen": "La reforma plantea transparentar las tarifas de hospitales, limitar el alza de las pólizas, eliminar el IVA para adultos mayores y permitir cambiar de aseguradora sin perder antigüedad.",
-      "link": "https://expansion.mx/economia/2026/09/04/diputados-van-contra-los-aumentos-de-hasta-80-en-seguros-de-gastos-medicos",
-      "fecha": "04 Sep 2026, 05:55 hrs"
+      "titulo": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
+      "resumen": "La aerolínea mexicana informó sobre los horarios y las ciudades que se tienen contempladas en sus rutas hacia Europa.",
+      "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
+      "fecha": "07 Sep 2026, 16:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Todavía existe la sección amarilla? Lo que pasó con la empresa y cómo cambió el negocio",
+      "resumen": "La guía telefónica que marcó a generaciones pasó de TELMEX a Grupo Carso y terminó transformando su negocio.",
+      "link": "https://expansion.mx/empresas/2026/09/07/todavia-existe-seccion-amarilla-lo-que-paso-con-la-empresa",
+      "fecha": "07 Sep 2026, 16:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim se arriesgó con El Globo; compró barato, triplicó su valor y lo vendió a Bimbo por 1,350 millones",
+      "resumen": "La pastelería había crecido con fuerza bajo Grupo Sanborns, pero terminó fuera de la estrategia de negocios que Carlos Slim trazó para Carso.",
+      "link": "https://expansion.mx/empresas/2026/09/07/carlos-slim-compro-el-globo-y-lo-vendio-a-bimbo",
+      "fecha": "07 Sep 2026, 16:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Datos ilimitados desde 169 pesos, ¿qué esconden los planes de Bait, izzi, Movistar, Telcel y AT&T?",
+      "resumen": "Antes de contratar un plan de datos ilimitados conviene revisar cuántos gigas puedes utilizar a la mayor velocidad disponible y qué ocurre después de alcanzar ese consumo.",
+      "link": "https://expansion.mx/empresas/2026/09/07/telcel-bait-movistar-att-plan-datos-ilimitados-diferencia",
+      "fecha": "07 Sep 2026, 15:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Lexus amplía su oferta deportiva en México con el NX 350h F Sport de 1.27 millones de pesos",
+      "resumen": "Las versiones deportivas representan un nicho lucrativo para las marcas de lujo porque permiten elevar el valor de sus vehículos a partir de atributos como diseño, potencia, equipamiento y experiencia…",
+      "link": "https://expansion.mx/empresas/2026/09/07/lexus-nx-350h-f-sport-de-1-27-millones-de-pesos",
+      "fecha": "07 Sep 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Dish pierde cada vez más clientes y contenido en medio de la crisis del triple play",
+      "resumen": "La empresa perdió casi 28% de sus clientes reflejando el desgaste de un modelo de negocio que enfrenta la competencia de las plataformas de streaming, la migración de contenidos y nuevos hábitos de co…",
+      "link": "https://expansion.mx/empresas/2026/09/07/fin-triple-play-dish-contra-cuerdas",
+      "fecha": "07 Sep 2026, 09:24 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,67 +147,22 @@
       "fecha": "07 Sep 2026, 07:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Creó el Mustang, pero cometió un error: No caerle bien a Henry Ford II; así fue el despido del creador del famoso auto",
-      "resumen": "Antes de impulsar el Mustang, Lee Iacocca comenzó su carrera en Ford como ingeniero y vendedor, donde una peculiar campaña de financiamiento llamó la atención de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/05/henry-ford-ii-despidio-al-creador-del-mustang",
-      "fecha": "05 Sep 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El carro con el motor que más aguanta tiene 8 veces más probabilidades de pasar los 402 mil km, según estudio",
-      "resumen": "Más allá del precio y el equipamiento, la duración de un vehículo también puede pesar en la decisión de compra.",
-      "link": "https://expansion.mx/empresas/2026/09/05/auto-motor-ma-aguanta-probabilidades-pasar-402-mil-km",
-      "fecha": "05 Sep 2026, 14:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "1.9 millones de líneas con terminación 1 quedaron suspendidas tras segunda fecha del registro telefónico",
-      "resumen": "De las 11.4 millones de líneas con terminación 1 que existen en el país, 9.5 millones completaron su vinculación y 1.9 millones quedaron suspendidas.",
-      "link": "https://expansion.mx/empresas/2026/09/04/1-9-millones-de-lineas-suspendidas-registro-telefonico",
-      "fecha": "04 Sep 2026, 20:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Del Vocho al Jetta: la evolución de Volkswagen en México y su planta en Puebla",
-      "resumen": "Volkswagen llegó a México desde hace más de 70 años, y desde entonces ha generado un fuerte vínculo con los consumidores mexicanos.",
-      "link": "https://expansion.mx/empresas/2026/09/04/vocho-jetta-evolucion-volkswagen-mexico-planta-puebla",
-      "fecha": "04 Sep 2026, 15:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La expansión de Starlink abre una batalla por el control de las comunicaciones desde el espacio",
-      "resumen": "La creciente dependencia de Starlink para comunicaciones críticas abre un nuevo debate sobre quién controla las redes, los datos y la infraestructura que conecta a millones de usuarios desde el espaci…",
-      "link": "https://expansion.mx/empresas/2026/09/04/starlink-batalla-control-comunicaciones-espacio",
-      "fecha": "04 Sep 2026, 14:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liderazgo, educación financiera y tecnología para el campo destacan en el Premio Eugenio Garza Sada 2026",
-      "resumen": "En Monterrey se entregó el Premio Eugenio Garza Sada en tres categorías que en conjunto suman 4 millones 500 mil pesos para los proyectos y reconocimientos ganadores.",
-      "link": "https://expansion.mx/empresas/2026/09/04/ganadores-premio-eugenio-garza-sada-2026",
-      "fecha": "04 Sep 2026, 13:21 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Planean reservas por 7.3 mmbpd y aumentar gasolina y diesel",
+      "resumen": "Sener prevé incorporar 7.3 mil millones de barriles de petróleo equivalente a las reservas nacionales y duplicar la producción de diesel.",
+      "link": "https://www.reforma.com/planean-reservas-por-7-3-mmbpd-y-aumentar-gasolina-y-diesel/ar3271835",
+      "fecha": "07 Sep 2026, 15:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen hasta un 44.5% inversiones a México",
-      "resumen": "Distintos subsectores de la economía registran caídas de entre 12.5% y 44.5% en sus proyectos de inversión.",
-      "link": "https://www.reforma.com/caen-hasta-un-44-5-inversiones-a-mexico/ar3271458",
-      "fecha": "07 Sep 2026, 05:02 hrs"
+      "titulo": "Piden transparencia oportuna en Paquete Económico 2027",
+      "resumen": "Organizaciones exhortaron al Gobierno federal a que publique oportunamente los datos abiertos del presupuesto.",
+      "link": "https://www.reforma.com/piden-transparencia-oportuna-en-paquete-economico-2027/ar3271757",
+      "fecha": "07 Sep 2026, 14:10 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,15 +181,6 @@
       "resumen": "Tanto la producción de vehículos ligeros como la exportación disminuyeron en los primeros ocho meses de 2026.",
       "link": "https://www.reforma.com/baja-0-7-produccion-de-vehiculos-ligeros-y-0-1-exportacion/ar3271622",
       "fecha": "07 Sep 2026, 10:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se reduce en México margen de maniobra fiscal",
-      "resumen": "México ha reducido su margen de maniobra para hacer política pública. El gasto rígido ha crecido 73% en 8 años.",
-      "link": "https://www.reforma.com/se-reduce-en-mexico-margen-de-maniobra-fiscal/ar3271388",
-      "fecha": "07 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca cobre récord en Londres ante posibles tarifas de Trump",
-      "resumen": "Los futuros del cobre en la LME subieron un 0.8%, a 14 mil 533 dólares la tonelada, superando el récord anterior establecido en enero.",
-      "link": "https://www.reforma.com/toca-cobre-record-en-londres-ante-posibles-tarifas-de-trump/ar3271721",
-      "fecha": "07 Sep 2026, 12:33 hrs"
+      "titulo": "Cierra crudo Brent con alza de 1.1% a 97.31 dólares",
+      "resumen": "Los futuros del crudo Brent subieron un 1.1%, a 97.31 dólares por barril, tras haber alcanzado antes su nivel más alto desde el 24 de julio.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-1-a-97-31-dolares/ar3271801",
+      "fecha": "07 Sep 2026, 14:22 hrs"
     }
   ]
 }
