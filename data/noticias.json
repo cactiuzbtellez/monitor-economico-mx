@@ -1,5 +1,5 @@
 {
-  "actualizado": "06/09/2026 17:30 hrs",
+  "actualizado": "06/09/2026 21:09 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Pide Coparmex reorientar gasto para crecer",
+      "resumen": "Coparmex pidió reorientar el gasto del Paquete Económico 2027 para reducir el déficit y contener la deuda sin frenar la inversión.",
+      "link": "https://www.reforma.com/pide-coparmex-reorientar-gasto-para-crecer/ar3271399",
+      "fecha": "06 Sep 2026, 20:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Batalla País por credibilidad del PEF.- Economist",
       "resumen": "The Economist aseguró que el Presupuesto de Egresos de 2027 será clave para los inversionistas, cuya confianza en México se erosiona.",
       "link": "https://www.reforma.com/batalla-pais-por-credibilidad-del-pef-economist/ar3271239",
@@ -208,15 +217,6 @@
       "resumen": "El dólar cerró la semana con una cotización de $16.88; cifra 3.48 centavos menor al jueves y acumulando su peor depreciación en 4 semanas.",
       "link": "https://www.reforma.com/cae-dolar-a-16-88-tiene-peso-mayor-apreciacion-en-4-semanas/ar3270523",
       "fecha": "04 Sep 2026, 18:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acuerda sindicato de Pemex aumento de 7.5%",
-      "resumen": "Sindicato de Trabajadores Petroleros de la República Mexicana y Pemex acordaron un incremento salarial total de 7.5%.",
-      "link": "https://www.reforma.com/acuerda-sindicato-de-pemex-aumento-de-7-5/ar3270466",
-      "fecha": "04 Sep 2026, 16:37 hrs"
     }
   ]
 }
