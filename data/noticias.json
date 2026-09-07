@@ -1,7 +1,16 @@
 {
-  "actualizado": "07/09/2026 08:59 hrs",
+  "actualizado": "07/09/2026 13:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "AMLO y Sheinbaum elevan la recaudación sin reforma tributaria a través de IEPS y fiscalización",
+      "resumen": "Bajo la promesa de no subir impuestos, una serie de ajustes iniciada en 2019 ha encarecido productos y elevado la carga para empresas y contribuyentes, mientras los ingresos tributarios alcanzan máxim…",
+      "link": "https://expansion.mx/economia/2026/09/07/reforma-fiscal-paquete-economico-2027-impuestos-saludables",
+      "fecha": "07 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Presión comercial de Trump empujaría a México y Canadá por la ruta del Pacífico",
-      "resumen": "Un escenario de la Hinrich Foundation plantea que ambos países buscarían nuevos mercados y proveedores si Estados Unidos endurece el T-MEC.",
-      "link": "https://expansion.mx/economia/2026/09/03/presion-trump-mexico-canada-giro-asia",
-      "fecha": "03 Sep 2026, 18:30 hrs"
+      "titulo": "Jaguar Land Rover anuncia recorte de 4,000 empleos y una cifra explica por qué la decisión llegó ahora",
+      "resumen": "El fabricante británico enfrenta una reestructuración mientras mantiene su apuesta por nuevos modelos y mercados internacionales.",
+      "link": "https://expansion.mx/empresas/2026/09/07/jaguar-land-rover-recorte-4-000-empleos",
+      "fecha": "07 Sep 2026, 08:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Aranceles de Trump frenan a la industria automotriz mexicana y producción cae 1.4% en agosto",
+      "resumen": "La producción de vehículos ligeros en México hiló una baja en el acumulado del año, mientras las exportaciones dejaron atrás el crecimiento y ya registran una ligera contracción.",
+      "link": "https://expansion.mx/empresas/2026/09/07/aranceles-trump-frenan-produccion-autos-mexico-nissan-mazda",
+      "fecha": "07 Sep 2026, 07:59 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,33 +147,6 @@
       "fecha": "04 Sep 2026, 13:21 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen reducirá a la mitad su oferta de vehículos y recortará 75% las configuraciones hacia 2035",
-      "resumen": "El grupo alemán, que agrupa las marcas Volkswagen, Seat, Cupra, Audi y Porsche entre otras, eliminará gradualmente modelos y versiones de menor desempeño comercial para simplificar producción y mejora…",
-      "link": "https://expansion.mx/empresas/2026/09/04/volkswagen-recortara-a-la-mitad-su-oferta-de-vehiculos",
-      "fecha": "04 Sep 2026, 08:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Braskem Idesa va por reestructura de deuda y asegura que mantendrá operaciones en México",
-      "resumen": "La intención es reducir la deuda en 920 millones de dólares para poder fortalecer la estructura financiera de la compañía.",
-      "link": "https://expansion.mx/empresas/2026/09/04/braskem-idesa-reestructura-deuda-mantendra-operacion-mexico",
-      "fecha": "04 Sep 2026, 08:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se reduce en México margen de maniobra fiscal",
-      "resumen": "México ha reducido su margen de maniobra para hacer política pública. El gasto rígido ha crecido 73 por ciento en 8 años.",
-      "link": "https://www.reforma.com/se-reduce-en-mexico-margen-de-maniobra-fiscal/ar3271388",
-      "fecha": "07 Sep 2026, 05:02 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,9 +159,27 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube 5% deuda de municipios de NL",
-      "resumen": "La deuda de los municipios de Nuevo León alcanzó un saldo de 4 mil 755.3 millones de pesos durante el segundo trimestre del año.",
-      "link": "https://www.reforma.com/sube-5-deuda-de-municipios-de-nl/ar3271456",
+      "titulo": "Se hunden acciones de Televisa tras salida del S&amp;P/BMV IPC",
+      "resumen": "La acciones de Televisa caían 12% tras conocerse su posible salida del S&amp;P/BMV IPC, lugar que sería ocupado por la petroquímica Alpek.",
+      "link": "https://www.reforma.com/se-hunden-acciones-de-televisa-tras-salida-del-s-p-bmv-ipc/ar3271555",
+      "fecha": "07 Sep 2026, 08:06 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja 0.7% producción de vehículos ligeros y 0.1% exportación",
+      "resumen": "Tanto la producción de vehículos ligeros como la exportación disminuyeron en los primeros ocho meses de 2026.",
+      "link": "https://www.reforma.com/baja-0-7-produccion-de-vehiculos-ligeros-y-0-1-exportacion/ar3271622",
+      "fecha": "07 Sep 2026, 10:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se reduce en México margen de maniobra fiscal",
+      "resumen": "México ha reducido su margen de maniobra para hacer política pública. El gasto rígido ha crecido 73% en 8 años.",
+      "link": "https://www.reforma.com/se-reduce-en-mexico-margen-de-maniobra-fiscal/ar3271388",
       "fecha": "07 Sep 2026, 05:02 hrs"
     },
     {
@@ -186,37 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Imponen nuevos controles al acero",
-      "resumen": "La publicación de la NOM-251-SE-2025 eleva a carácter obligatorio el cumplimiento de calidad en productos de acero",
-      "link": "https://www.reforma.com/imponen-nuevos-controles-al-acero/ar3271440",
+      "titulo": "Alista Canadá represalia a aranceles de Trump",
+      "resumen": "Canadá impondrá aranceles del 15% al 50% a cientos de productos de EU el martes, como represalia a los aplicados por Trump el 22 de agosto.",
+      "link": "https://www.reforma.com/alista-canada-represalia-a-aranceles-de-trump/ar3271633",
+      "fecha": "07 Sep 2026, 10:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Inicia puja por AHMSA el 20 de septiembre",
+      "resumen": "El 20 de septiembre arrancará el proceso que culminará con la subasta de los activos de AHMSA y de su división MINOSA.",
+      "link": "https://www.reforma.com/inicia-puja-por-ahmsa-el-20-de-septiembre/ar3271429",
       "fecha": "07 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Entra Alpek al S&amp;P/BMV IPC y sale Televisa",
-      "resumen": "La acción de Alpek subía 4.54% tras anuncio preliminar de su ingreso al S&amp;P/BMV IPC, mientras que salida de Televisa hundía sus títulos 10%.",
-      "link": "https://www.reforma.com/entra-alpek-al-s-p-bmv-ipc-y-sale-televisa/ar3271555",
-      "fecha": "07 Sep 2026, 08:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Libra pacto aéreo freno legal en EU",
-      "resumen": "Se presentó un resolución a favor del Acuerdo de Colaboración entre Aeroméxico y Delta Air Lines.",
-      "link": "https://www.reforma.com/libra-pacto-aereo-freno-legal-en-eu/ar3271437",
-      "fecha": "07 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierten por barrera a la carne mexicana",
-      "resumen": "Una orden ejecutiva emitida por Trump encendió las alarmas en el sector agropecuario por miedo de que reinstaure el etiquetado obligatorio",
-      "link": "https://www.reforma.com/advierten-por-barrera-a-la-carne-mexicana/ar3271431",
-      "fecha": "07 Sep 2026, 05:02 hrs"
+      "titulo": "Toca cobre récord en Londres ante posibles tarifas de Trump",
+      "resumen": "Los futuros del cobre en la LME subieron un 0.8%, a 14 mil 533 dólares la tonelada, superando el récord anterior establecido en enero.",
+      "link": "https://www.reforma.com/toca-cobre-record-en-londres-ante-posibles-tarifas-de-trump/ar3271721",
+      "fecha": "07 Sep 2026, 12:33 hrs"
     }
   ]
 }
