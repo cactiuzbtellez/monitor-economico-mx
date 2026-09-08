@@ -1,7 +1,25 @@
 {
-  "actualizado": "07/09/2026 16:31 hrs",
+  "actualizado": "07/09/2026 18:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
+      "resumen": "Previo al Paquete Económico 2027,  la bancada de Morena presentó propuestas para eliminar el desvío de recursos públicos a través de proveedores fantasmas que emiten facturas falsas.",
+      "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
+      "fecha": "07 Sep 2026, 17:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
+      "resumen": "La banca refuerza sus campañas de prevención ante el aumento de mensajes fraudulentos que buscan acceder a los datos personales y financieros de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
+      "fecha": "07 Sep 2026, 13:47 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
-      "resumen": "Cuando una casa pasa a manos de varios hermanos, venderla no siempre es sencillo. Si uno se opone, existen alternativas legales para resolver la copropiedad y repartir el patrimonio.",
-      "link": "https://expansion.mx/economia/2026/09/04/heredar-casa-entre-hermanos-que-pasa-nadie-quiere-vender",
-      "fecha": "04 Sep 2026, 11:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La inversión sorprende al alza, pero el consumo revela la debilidad de la demanda, reporta Inegi",
-      "resumen": "En junio, la construcción concentró el crecimiento de la inversión, mientras maquinaria y equipo siguen estancados.",
-      "link": "https://expansion.mx/economia/2026/09/04/inversion-repunta-junio-pero-consumo-pierde-fuerza-inegi",
-      "fecha": "04 Sep 2026, 08:53 hrs"
+      "titulo": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
+      "resumen": "El proyecto insignia de conectividad pierde ritmo, con una caída de 74.3% en puntos de recarga, menos sitios de venta y una desaceleración en el despliegue de WiFi gratuito, en medio de un recorte pre…",
+      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
+      "fecha": "07 Sep 2026, 16:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,22 @@
       "fecha": "07 Sep 2026, 08:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aranceles de Trump frenan a la industria automotriz mexicana y producción cae 1.4% en agosto",
-      "resumen": "La producción de vehículos ligeros en México hiló una baja en el acumulado del año, mientras las exportaciones dejaron atrás el crecimiento y ya registran una ligera contracción.",
-      "link": "https://expansion.mx/empresas/2026/09/07/aranceles-trump-frenan-produccion-autos-mexico-nissan-mazda",
-      "fecha": "07 Sep 2026, 07:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide CONG aumentar 10% presupuesto para Senasica",
+      "resumen": "La Confederación Nacional de Organizaciones Ganaderas (CONG) expreso la necesidad de aumentar 10% el presupuesto para Senasica.",
+      "link": "https://www.reforma.com/pide-cong-aumentar-10-presupuesto-para-senasica/ar3271948",
+      "fecha": "07 Sep 2026, 18:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsa consumo de carne demanda de vacunas para ganado",
+      "resumen": "Mayor consumo de carne ha generado un aumento en la demanda de producción pecuaria; así como en la producción de vacunas, aseguró Sader.",
+      "link": "https://www.reforma.com/impulsa-consumo-de-carne-demanda-de-vacunas-para-ganado/ar3271851",
+      "fecha": "07 Sep 2026, 18:24 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Canadá impondrá aranceles del 15% al 50% a cientos de productos de EU el martes, como represalia a los aplicados por Trump el 22 de agosto.",
       "link": "https://www.reforma.com/alista-canada-represalia-a-aranceles-de-trump/ar3271633",
       "fecha": "07 Sep 2026, 10:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inicia puja por AHMSA el 20 de septiembre",
-      "resumen": "El 20 de septiembre arrancará el proceso que culminará con la subasta de los activos de AHMSA y de su división MINOSA.",
-      "link": "https://www.reforma.com/inicia-puja-por-ahmsa-el-20-de-septiembre/ar3271429",
-      "fecha": "07 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con alza de 1.1% a 97.31 dólares",
-      "resumen": "Los futuros del crudo Brent subieron un 1.1%, a 97.31 dólares por barril, tras haber alcanzado antes su nivel más alto desde el 24 de julio.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-1-a-97-31-dolares/ar3271801",
-      "fecha": "07 Sep 2026, 14:22 hrs"
     }
   ]
 }
