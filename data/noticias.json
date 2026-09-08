@@ -1,7 +1,25 @@
 {
-  "actualizado": "08/09/2026 08:55 hrs",
+  "actualizado": "08/09/2026 12:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "“Ese tiempo terminó”: Carney marca el fin de 40 años del modelo de dependencia comercial canadiense de EU",
+      "resumen": "Canadá activó aranceles de hasta 50% contra productos estadounidenses y acelerará su apertura hacia Europa, Asia y China ante la presión de Trump.",
+      "link": "https://expansion.mx/economia/2026/09/08/carney-fin-dependencia-comercial-canada-eu-aranceles",
+      "fecha": "08 Sep 2026, 11:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fechas clave del paquete económico 2027: qué sigue después de la presentación del presupuesto",
+      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
+      "link": "https://expansion.mx/economia/2026/09/08/fechas-paquete-economico-2027",
+      "fecha": "08 Sep 2026, 08:58 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
-      "resumen": "Los apoyos públicos elevan 142.6% el ingreso de los pensionados beneficiados, de acuerdo con cifras del Segundo Informe de Gobierno.",
-      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
-      "fecha": "04 Sep 2026, 14:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
-      "resumen": "Los datos ponen en perspectiva el paso directo de mercancías chinas por México, pero abren una pregunta mayor: cuánto contenido chino llevan los productos hechos en el país.",
-      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
-      "fecha": "04 Sep 2026, 12:59 hrs"
+      "titulo": "¿Por qué se hundieron las acciones de Televisa 12.7% en la BMV? La razón detrás de la caída",
+      "resumen": "Las acciones de Televisa tuvieron una jornada de fuertes pérdidas. La empresa explicó a la Bolsa qué pudo provocar el desplome.",
+      "link": "https://expansion.mx/empresas/2026/09/08/por-que-cayeron-las-acciones-de-televisa-en-la-bolsa",
+      "fecha": "08 Sep 2026, 09:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -98,7 +107,7 @@
       "color": "#C8102E",
       "titulo": "¿Odias tu trabajo? México se convierte en el país de Latinoamérica donde más cayó la felicidad laboral",
       "resumen": "México es el país de la región donde se registró una mayor caída de satisfacción laboral en el último año.",
-      "link": "https://expansion.mx/empresas/2026/09/07/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
+      "link": "https://expansion.mx/carrera/2026/09/08/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
       "fecha": "07 Sep 2026, 19:06 hrs"
     },
     {
@@ -138,40 +147,40 @@
       "fecha": "07 Sep 2026, 16:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Datos ilimitados desde 169 pesos, ¿qué esconden los planes de Bait, izzi, Movistar, Telcel y AT&T?",
-      "resumen": "Antes de contratar un plan de datos ilimitados conviene revisar cuántos gigas puedes utilizar a la mayor velocidad disponible y qué ocurre después de alcanzar ese consumo.",
-      "link": "https://expansion.mx/empresas/2026/09/07/telcel-bait-movistar-att-plan-datos-ilimitados-diferencia",
-      "fecha": "07 Sep 2026, 15:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge fortalecer ingresos y reducir dependencia de la deuda",
+      "resumen": "México necesita fortalecer sus ingresos sin depender cada vez más de la deuda, dijeron México ¿Cómo Vamos? y México Evalúa.",
+      "link": "https://www.reforma.com/urge-fortalecer-ingresos-y-reducir-dependencia-de-la-deuda/ar3272337",
+      "fecha": "08 Sep 2026, 12:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pronostican más apoyos a Pemex",
-      "resumen": "Compromiso del Gobierno federal de que Pemex cumpla son sus obligaciones fiscales sin apoyo a partir de 2027 no se cumplirá.",
-      "link": "https://www.reforma.com/pronostican-mas-apoyos-a-pemex/ar3272008",
-      "fecha": "08 Sep 2026, 05:01 hrs"
+      "titulo": "Amplia Gobierno plazo para migración de contratos legados",
+      "resumen": "El Gobierno federal amplió el plazo para participar en migración de contratos legados a un nuevo esquema bajo la ley del sector eléctrico.",
+      "link": "https://www.reforma.com/amplia-gobierno-plazo-para-migracion-de-contratos-legados/ar3272262",
+      "fecha": "08 Sep 2026, 10:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan por trayectoria de la deuda pública",
-      "resumen": "La deuda bruta del sector público del País ha mantenido una tendencia ascendente al pasar en diez años de 42.4% en 54.8% del PIB.",
-      "link": "https://www.reforma.com/alertan-por-trayectoria-de-la-deuda-publica/ar3272050",
-      "fecha": "08 Sep 2026, 05:01 hrs"
+      "titulo": "Elevan cuota compensatoria a bicicletas chinas",
+      "resumen": "Secretaría de Economía modificó A 57.19 dólares por pieza la cuota compensatoria a las importaciones de bicicletas para niños de China.",
+      "link": "https://www.reforma.com/elevan-cuota-compensatoria-a-bicicletas-chinas/ar3272318",
+      "fecha": "08 Sep 2026, 11:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Asciende monto de pensiones",
-      "resumen": "Monto promedio de pensión mensual en 2026 es de 13 mil 745 pesos lo que representa un incremento a etapa de retiro de 142.6%.",
-      "link": "https://www.reforma.com/asciende-monto-de-pensiones/ar3272038",
-      "fecha": "08 Sep 2026, 05:01 hrs"
+      "titulo": "Concretan GMéxico y Saavi Energía fusión",
+      "resumen": "Grupo México, a través de su División de Infraestructura, concretó la operación para fusionar sus activos de generación con Saavi Energía.",
+      "link": "https://www.reforma.com/concretan-gmexico-y-saavi-energia-fusion/ar3272296",
+      "fecha": "08 Sep 2026, 11:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,18 +195,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca expansión de México en logística",
-      "resumen": "La IED ligada a la manufactura está dando mayor impulso a los servicios de logística en México.",
-      "link": "https://www.reforma.com/destaca-expansion-de-mexico-en-logistica/ar3272045",
-      "fecha": "08 Sep 2026, 07:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierten rezago en red eléctrica",
-      "resumen": "Falta de mantenimiento y ampliación de las redes de transmisión y distribución eléctrica ha puesto en jaque al Sistema Eléctrico Nacional.",
-      "link": "https://www.reforma.com/advierten-rezago-en-red-electrica/ar3272046",
+      "titulo": "Asciende monto de pensiones",
+      "resumen": "Monto promedio de pensión mensual en 2026 es de 13 mil 745 pesos lo que representa un incremento a etapa de retiro de 142.6%.",
+      "link": "https://www.reforma.com/asciende-monto-de-pensiones/ar3272038",
       "fecha": "08 Sep 2026, 05:01 hrs"
     },
     {
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llega más IED asiática al Estado",
-      "resumen": "Aunque el entorno de incertidumbre ha desacelerado la IED procedente de Asia, hay algunos proyectos de que se siguen concretando en NL.",
-      "link": "https://www.reforma.com/llega-mas-ied-asiatica-al-estado/ar3271999",
-      "fecha": "08 Sep 2026, 07:08 hrs"
+      "titulo": "Urgen más recursos para cuidar infancias",
+      "resumen": "Para atender la demanda de cuidados infantiles de niños de 0 a 3 años, se requerirían alrededor de 260 mil millones de pesos anuales.",
+      "link": "https://www.reforma.com/urgen-mas-recursos-para-cuidar-infancias/ar3272043",
+      "fecha": "08 Sep 2026, 05:01 hrs"
     }
   ]
 }
