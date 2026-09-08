@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/09/2026 23:38 hrs",
+  "actualizado": "08/09/2026 04:40 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,33 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Flix compite por precio, pero ADO y ETN tienen otras reglas para cambiar o cancelar boletos",
+      "resumen": "Antes de comprar, conviene revisar las políticas de empresa, pues una cancelación puede significar desde un reembolso parcial hasta no recuperar el dinero.",
+      "link": "https://expansion.mx/empresas/2026/09/07/flix-precio-ado-etn-reglas-cambiar-cancelar-boletos",
+      "fecha": "07 Sep 2026, 19:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Odias tu trabajo? México se convierte en el país de Latinoamérica donde más cayó la felicidad laboral",
+      "resumen": "México es el país de la región donde se registró una mayor caída de satisfacción laboral en el último año.",
+      "link": "https://expansion.mx/empresas/2026/09/07/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
+      "fecha": "07 Sep 2026, 19:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
+      "resumen": "El proyecto insignia de conectividad pierde ritmo, con una caída de 74.3% en puntos de recarga, menos sitios de venta y una desaceleración en el despliegue de WiFi gratuito, en medio de un recorte pre…",
+      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
+      "fecha": "07 Sep 2026, 16:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
       "resumen": "La aerolínea mexicana informó sobre los horarios y las ciudades que se tienen contempladas en sus rutas hacia Europa.",
       "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
@@ -118,33 +145,6 @@
       "resumen": "Las versiones deportivas representan un nicho lucrativo para las marcas de lujo porque permiten elevar el valor de sus vehículos a partir de atributos como diseño, potencia, equipamiento y experiencia…",
       "link": "https://expansion.mx/empresas/2026/09/07/lexus-nx-350h-f-sport-de-1-27-millones-de-pesos",
       "fecha": "07 Sep 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Dish pierde cada vez más clientes y contenido en medio de la crisis del triple play",
-      "resumen": "La empresa perdió casi 28% de sus clientes reflejando el desgaste de un modelo de negocio que enfrenta la competencia de las plataformas de streaming, la migración de contenidos y nuevos hábitos de co…",
-      "link": "https://expansion.mx/empresas/2026/09/07/fin-triple-play-dish-contra-cuerdas",
-      "fecha": "07 Sep 2026, 09:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Jaguar Land Rover anuncia recorte de 4,000 empleos y una cifra explica por qué la decisión llegó ahora",
-      "resumen": "El fabricante británico enfrenta una reestructuración mientras mantiene su apuesta por nuevos modelos y mercados internacionales.",
-      "link": "https://expansion.mx/empresas/2026/09/07/jaguar-land-rover-recorte-4-000-empleos",
-      "fecha": "07 Sep 2026, 08:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aranceles de Trump frenan a la industria automotriz mexicana y producción cae 1.4% en agosto",
-      "resumen": "La producción de vehículos ligeros en México hiló una baja en el acumulado del año, mientras las exportaciones dejaron atrás el crecimiento y ya registran una ligera contracción.",
-      "link": "https://expansion.mx/empresas/2026/09/07/aranceles-trump-frenan-produccion-autos-mexico-nissan-mazda",
-      "fecha": "07 Sep 2026, 07:59 hrs"
     },
     {
       "fuente": "Reforma",
