@@ -1,5 +1,5 @@
 {
-  "actualizado": "08/09/2026 12:20 hrs",
+  "actualizado": "08/09/2026 15:35 hrs",
   "total": 24,
   "noticias": [
     {
@@ -159,10 +159,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplia Gobierno plazo para migración de contratos legados",
-      "resumen": "El Gobierno federal amplió el plazo para participar en migración de contratos legados a un nuevo esquema bajo la ley del sector eléctrico.",
-      "link": "https://www.reforma.com/amplia-gobierno-plazo-para-migracion-de-contratos-legados/ar3272262",
-      "fecha": "08 Sep 2026, 10:36 hrs"
+      "titulo": "Espera ManpowerGroup hasta 250 mil empleos para 2026",
+      "resumen": "Este año se espera una generación de entre 150 mil y 250 mil empleos formales, por debajo de la expectativa de Banxico, dijo ManpowerGroup.",
+      "link": "https://www.reforma.com/espera-manpowergroup-hasta-250-mil-empleos-para-2026/ar3272390",
+      "fecha": "08 Sep 2026, 12:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,6 +186,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Amplia Gobierno plazo para migración de contratos legados",
+      "resumen": "El Gobierno federal amplió el plazo para participar en migración de contratos legados a un nuevo esquema bajo la ley del sector eléctrico.",
+      "link": "https://www.reforma.com/amplia-gobierno-plazo-para-migracion-de-contratos-legados/ar3272262",
+      "fecha": "08 Sep 2026, 10:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsan financiamiento para pymes",
+      "resumen": "Mediante convenios con la banca de desarrollo y comercial, han otorgado más de 500 mdp en financiamiento accesible a pymes, afirmó Caintra.",
+      "link": "https://www.reforma.com/impulsan-financiamiento-para-pymes/ar3272437",
+      "fecha": "08 Sep 2026, 14:40 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Dejan gasolineras de vender diesel",
       "resumen": "Lo incosteable de asumir un precio máximo de $27 por litro de diesel ya está provocando que gasolineras abandonen la venta del producto.",
       "link": "https://www.reforma.com/dejan-gasolineras-de-vender-diesel/ar3272183",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Asciende monto de pensiones",
-      "resumen": "Monto promedio de pensión mensual en 2026 es de 13 mil 745 pesos lo que representa un incremento a etapa de retiro de 142.6%.",
-      "link": "https://www.reforma.com/asciende-monto-de-pensiones/ar3272038",
-      "fecha": "08 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Lidera NL en deuda pactada a corto plazo",
       "resumen": "De acuerdo con un análisis de Fitch Ratings, NL concentra el 20.3% de la deuda de corto plazo de los 17 estados que tendrán elecciones",
       "link": "https://www.reforma.com/lidera-nl-en-deuda-pactada-a-corto-plazo/ar3272085",
       "fecha": "08 Sep 2026, 07:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen más recursos para cuidar infancias",
-      "resumen": "Para atender la demanda de cuidados infantiles de niños de 0 a 3 años, se requerirían alrededor de 260 mil millones de pesos anuales.",
-      "link": "https://www.reforma.com/urgen-mas-recursos-para-cuidar-infancias/ar3272043",
-      "fecha": "08 Sep 2026, 05:01 hrs"
     }
   ]
 }
