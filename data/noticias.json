@@ -1,7 +1,16 @@
 {
-  "actualizado": "08/09/2026 04:40 hrs",
+  "actualizado": "08/09/2026 08:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Paquete Económico 2027 pone a prueba el crecimiento, mejorar el gasto y elevar los ingresos",
+      "resumen": "El gobierno deberá contener el déficit sin frenar la inversión, mientras busca una mayor recaudación para sostener las finanzas públicas y darle margen al PIB.",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-pib-gasto-inversion-impuestos-deficit",
+      "fecha": "08 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cervezas, ‘aguas locas’ más caras y tequila más accesible; así pinta la renovación al IEPS para 2027",
-      "resumen": "Rumbo al Paquete Económico 2027, diputados buscan que la mayor parte del cambio, que proponen, para calcular el impuesto a bebidas alcohólicas se redistribuya a cervezas e incremente en aguardiente.",
-      "link": "https://expansion.mx/economia/2026/09/04/cerveza-podria-pagar-mas-impuesto-mexico",
-      "fecha": "04 Sep 2026, 12:00 hrs"
+      "titulo": "De medir litros a perseguir facturas, así cambia la estrategia del gobierno contra el huachicol fiscal",
+      "resumen": "El gobierno federal busca reforzar el combate al huachicol fiscal mediante la trazabilidad del IEPS a los combustibles, un mecanismo contemplado en el Paquete Económico 2027.",
+      "link": "https://expansion.mx/empresas/2026/09/08/perseguir-facturas-asi-cambia-estrategia-huachicol-fiscal",
+      "fecha": "08 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "07 Sep 2026, 15:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Lexus amplía su oferta deportiva en México con el NX 350h F Sport de 1.27 millones de pesos",
-      "resumen": "Las versiones deportivas representan un nicho lucrativo para las marcas de lujo porque permiten elevar el valor de sus vehículos a partir de atributos como diseño, potencia, equipamiento y experiencia…",
-      "link": "https://expansion.mx/empresas/2026/09/07/lexus-nx-350h-f-sport-de-1-27-millones-de-pesos",
-      "fecha": "07 Sep 2026, 13:19 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pronostican más apoyos a Pemex",
+      "resumen": "Compromiso del Gobierno federal de que Pemex cumpla son sus obligaciones fiscales sin apoyo a partir de 2027 no se cumplirá.",
+      "link": "https://www.reforma.com/pronostican-mas-apoyos-a-pemex/ar3272008",
+      "fecha": "08 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan Pemex y CFE condiciones eléctricas en Tabasco",
-      "resumen": "CFE y Pemex analizaron las condiciones operativas e infraestructura asociada a la central de cogeneración en Nuevo México, Tabasco.",
-      "link": "https://www.reforma.com/analizan-pemex-y-cfe-condiciones-electricas-en-tabasco/ar3272027",
-      "fecha": "07 Sep 2026, 20:43 hrs"
+      "titulo": "Alertan por trayectoria de la deuda pública",
+      "resumen": "La deuda bruta del sector público del País ha mantenido una tendencia ascendente al pasar en diez años de 42.4% en 54.8% del PIB.",
+      "link": "https://www.reforma.com/alertan-por-trayectoria-de-la-deuda-publica/ar3272050",
+      "fecha": "08 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Planean reservas por 7.3 mmbpd y aumentar gasolina y diesel",
-      "resumen": "Sener prevé incorporar 7.3 mil millones de barriles de petróleo equivalente a las reservas nacionales y duplicar la producción de diesel.",
-      "link": "https://www.reforma.com/planean-reservas-por-7-3-mmbpd-y-aumentar-gasolina-y-diesel/ar3271835",
-      "fecha": "07 Sep 2026, 15:17 hrs"
+      "titulo": "Asciende monto de pensiones",
+      "resumen": "Monto promedio de pensión mensual en 2026 es de 13 mil 745 pesos lo que representa un incremento a etapa de retiro de 142.6%.",
+      "link": "https://www.reforma.com/asciende-monto-de-pensiones/ar3272038",
+      "fecha": "08 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide CONG aumentar 10% presupuesto para Senasica",
-      "resumen": "La Confederación Nacional de Organizaciones Ganaderas (CONG) expreso la necesidad de aumentar 10% el presupuesto para Senasica.",
-      "link": "https://www.reforma.com/pide-cong-aumentar-10-presupuesto-para-senasica/ar3271948",
-      "fecha": "07 Sep 2026, 18:34 hrs"
+      "titulo": "Dejan gasolineras de vender diesel",
+      "resumen": "Lo incosteable de asumir un precio máximo de $27 por litro de diesel ya está provocando que gasolineras abandonen la venta del producto.",
+      "link": "https://www.reforma.com/dejan-gasolineras-de-vender-diesel/ar3272183",
+      "fecha": "08 Sep 2026, 07:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsa consumo de carne demanda de vacunas para ganado",
-      "resumen": "Mayor consumo de carne ha generado un aumento en la demanda de producción pecuaria; así como en la producción de vacunas, aseguró Sader.",
-      "link": "https://www.reforma.com/impulsa-consumo-de-carne-demanda-de-vacunas-para-ganado/ar3271851",
-      "fecha": "07 Sep 2026, 18:24 hrs"
+      "titulo": "Destaca expansión de México en logística",
+      "resumen": "La IED ligada a la manufactura está dando mayor impulso a los servicios de logística en México.",
+      "link": "https://www.reforma.com/destaca-expansion-de-mexico-en-logistica/ar3272045",
+      "fecha": "08 Sep 2026, 07:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden transparencia oportuna en Paquete Económico 2027",
-      "resumen": "Organizaciones exhortaron al Gobierno federal a que publique oportunamente los datos abiertos del presupuesto.",
-      "link": "https://www.reforma.com/piden-transparencia-oportuna-en-paquete-economico-2027/ar3271757",
-      "fecha": "07 Sep 2026, 14:10 hrs"
+      "titulo": "Advierten rezago en red eléctrica",
+      "resumen": "Falta de mantenimiento y ampliación de las redes de transmisión y distribución eléctrica ha puesto en jaque al Sistema Eléctrico Nacional.",
+      "link": "https://www.reforma.com/advierten-rezago-en-red-electrica/ar3272046",
+      "fecha": "08 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se hunden acciones de Televisa tras salida del S&amp;P/BMV IPC",
-      "resumen": "La acciones de Televisa caían 12% tras conocerse su posible salida del S&amp;P/BMV IPC, lugar que sería ocupado por la petroquímica Alpek.",
-      "link": "https://www.reforma.com/se-hunden-acciones-de-televisa-tras-salida-del-s-p-bmv-ipc/ar3271555",
-      "fecha": "07 Sep 2026, 08:06 hrs"
+      "titulo": "Lidera NL en deuda pactada a corto plazo",
+      "resumen": "De acuerdo con un análisis de Fitch Ratings, NL concentra el 20.3% de la deuda de corto plazo de los 17 estados que tendrán elecciones",
+      "link": "https://www.reforma.com/lidera-nl-en-deuda-pactada-a-corto-plazo/ar3272085",
+      "fecha": "08 Sep 2026, 07:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja 0.7% producción de vehículos ligeros y 0.1% exportación",
-      "resumen": "Tanto la producción de vehículos ligeros como la exportación disminuyeron en los primeros ocho meses de 2026.",
-      "link": "https://www.reforma.com/baja-0-7-produccion-de-vehiculos-ligeros-y-0-1-exportacion/ar3271622",
-      "fecha": "07 Sep 2026, 10:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan de credibilidad en presupuesto 2027",
-      "resumen": "The Economist advierte que el PEF 2027 será clave para frenar la erosión de confianza y evitar que México siga pagando altas tasas de deuda.",
-      "link": "https://www.reforma.com/alertan-de-credibilidad-en-presupuesto-2027/ar3271356",
-      "fecha": "07 Sep 2026, 05:01 hrs"
+      "titulo": "Llega más IED asiática al Estado",
+      "resumen": "Aunque el entorno de incertidumbre ha desacelerado la IED procedente de Asia, hay algunos proyectos de que se siguen concretando en NL.",
+      "link": "https://www.reforma.com/llega-mas-ied-asiatica-al-estado/ar3271999",
+      "fecha": "08 Sep 2026, 07:08 hrs"
     }
   ]
 }
