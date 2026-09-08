@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/09/2026 18:55 hrs",
+  "actualizado": "07/09/2026 23:38 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
-      "resumen": "El proyecto insignia de conectividad pierde ritmo, con una caída de 74.3% en puntos de recarga, menos sitios de venta y una desaceleración en el despliegue de WiFi gratuito, en medio de un recorte pre…",
-      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
-      "fecha": "07 Sep 2026, 16:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
       "resumen": "La aerolínea mexicana informó sobre los horarios y las ciudades que se tienen contempladas en sus rutas hacia Europa.",
       "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
@@ -147,6 +138,33 @@
       "fecha": "07 Sep 2026, 08:18 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Aranceles de Trump frenan a la industria automotriz mexicana y producción cae 1.4% en agosto",
+      "resumen": "La producción de vehículos ligeros en México hiló una baja en el acumulado del año, mientras las exportaciones dejaron atrás el crecimiento y ya registran una ligera contracción.",
+      "link": "https://expansion.mx/empresas/2026/09/07/aranceles-trump-frenan-produccion-autos-mexico-nissan-mazda",
+      "fecha": "07 Sep 2026, 07:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Analizan Pemex y CFE condiciones eléctricas en Tabasco",
+      "resumen": "CFE y Pemex analizaron las condiciones operativas e infraestructura asociada a la central de cogeneración en Nuevo México, Tabasco.",
+      "link": "https://www.reforma.com/analizan-pemex-y-cfe-condiciones-electricas-en-tabasco/ar3272027",
+      "fecha": "07 Sep 2026, 20:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Planean reservas por 7.3 mmbpd y aumentar gasolina y diesel",
+      "resumen": "Sener prevé incorporar 7.3 mil millones de barriles de petróleo equivalente a las reservas nacionales y duplicar la producción de diesel.",
+      "link": "https://www.reforma.com/planean-reservas-por-7-3-mmbpd-y-aumentar-gasolina-y-diesel/ar3271835",
+      "fecha": "07 Sep 2026, 15:17 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -163,15 +181,6 @@
       "resumen": "Mayor consumo de carne ha generado un aumento en la demanda de producción pecuaria; así como en la producción de vacunas, aseguró Sader.",
       "link": "https://www.reforma.com/impulsa-consumo-de-carne-demanda-de-vacunas-para-ganado/ar3271851",
       "fecha": "07 Sep 2026, 18:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Planean reservas por 7.3 mmbpd y aumentar gasolina y diesel",
-      "resumen": "Sener prevé incorporar 7.3 mil millones de barriles de petróleo equivalente a las reservas nacionales y duplicar la producción de diesel.",
-      "link": "https://www.reforma.com/planean-reservas-por-7-3-mmbpd-y-aumentar-gasolina-y-diesel/ar3271835",
-      "fecha": "07 Sep 2026, 15:17 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "The Economist advierte que el PEF 2027 será clave para frenar la erosión de confianza y evitar que México siga pagando altas tasas de deuda.",
       "link": "https://www.reforma.com/alertan-de-credibilidad-en-presupuesto-2027/ar3271356",
       "fecha": "07 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alista Canadá represalia a aranceles de Trump",
-      "resumen": "Canadá impondrá aranceles del 15% al 50% a cientos de productos de EU el martes, como represalia a los aplicados por Trump el 22 de agosto.",
-      "link": "https://www.reforma.com/alista-canada-represalia-a-aranceles-de-trump/ar3271633",
-      "fecha": "07 Sep 2026, 10:47 hrs"
     }
   ]
 }
