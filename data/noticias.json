@@ -1,25 +1,7 @@
 {
-  "actualizado": "08/09/2026 15:35 hrs",
+  "actualizado": "08/09/2026 17:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "“Ese tiempo terminó”: Carney marca el fin de 40 años del modelo de dependencia comercial canadiense de EU",
-      "resumen": "Canadá activó aranceles de hasta 50% contra productos estadounidenses y acelerará su apertura hacia Europa, Asia y China ante la presión de Trump.",
-      "link": "https://expansion.mx/economia/2026/09/08/carney-fin-dependencia-comercial-canada-eu-aranceles",
-      "fecha": "08 Sep 2026, 11:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las fechas clave del paquete económico 2027: qué sigue después de la presentación del presupuesto",
-      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
-      "link": "https://expansion.mx/economia/2026/09/08/fechas-paquete-economico-2027",
-      "fecha": "08 Sep 2026, 08:58 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,51 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
+      "resumen": "Los apoyos públicos elevan 142.6% el ingreso de los pensionados beneficiados, de acuerdo con cifras del Segundo Informe de Gobierno.",
+      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
+      "fecha": "04 Sep 2026, 14:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
+      "resumen": "Los datos ponen en perspectiva el paso directo de mercancías chinas por México, pero abren una pregunta mayor: cuánto contenido chino llevan los productos hechos en el país.",
+      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
+      "fecha": "04 Sep 2026, 12:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Oxxo vs. Tiendas 3B, ¿dónde puedes pagar más servicios desde la luz hasta créditos y recargas?",
+      "resumen": "Ambas cadenas cuentan con el pago de servicios; conoce las alternativas que ofrece cada una.",
+      "link": "https://expansion.mx/empresas/2026/09/08/oxxo-vs-tiendas-3b-pagar-mas-servicios-luz-creditos-recargas",
+      "fecha": "08 Sep 2026, 15:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "The Home Depot invierte 500 mdp para abrir una tienda en Edomex y acelerar sus ventas en línea",
+      "resumen": "La cadena está cerca de llegar a las 145 tiendas en México mientras desarrolla su red logística para dar soporte a su crecimiento geográfico.",
+      "link": "https://expansion.mx/empresas/2026/09/08/the-home-depot-invierte-500-mdp-para-abrir-una-tienda-en-edomex-y-acelerar-sus-ventas-en-linea",
+      "fecha": "08 Sep 2026, 15:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nissan March baja de precio y se convierte en el segundo auto más barato de México",
+      "resumen": "El March cuesta 69,910 pesos menos que su precio de lista y se coloca como el segundo auto nuevo más barato de México.",
+      "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-de-precio",
+      "fecha": "08 Sep 2026, 13:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "¿Por qué se hundieron las acciones de Televisa 12.7% en la BMV? La razón detrás de la caída",
@@ -120,76 +147,49 @@
       "fecha": "07 Sep 2026, 16:44 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
-      "resumen": "La aerolínea mexicana informó sobre los horarios y las ciudades que se tienen contempladas en sus rutas hacia Europa.",
-      "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
-      "fecha": "07 Sep 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Todavía existe la sección amarilla? Lo que pasó con la empresa y cómo cambió el negocio",
-      "resumen": "La guía telefónica que marcó a generaciones pasó de TELMEX a Grupo Carso y terminó transformando su negocio.",
-      "link": "https://expansion.mx/empresas/2026/09/07/todavia-existe-seccion-amarilla-lo-que-paso-con-la-empresa",
-      "fecha": "07 Sep 2026, 16:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim se arriesgó con El Globo; compró barato, triplicó su valor y lo vendió a Bimbo por 1,350 millones",
-      "resumen": "La pastelería había crecido con fuerza bajo Grupo Sanborns, pero terminó fuera de la estrategia de negocios que Carlos Slim trazó para Carso.",
-      "link": "https://expansion.mx/empresas/2026/09/07/carlos-slim-compro-el-globo-y-lo-vendio-a-bimbo",
-      "fecha": "07 Sep 2026, 16:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Banamex sube a 1.4% estimado de PIB para 2026",
+      "resumen": "Banamex elevó de 1.3% a 1.4 % su estimación del PIB para 2026, en cambio para 2027 cayó de 1.8% a 1.7%.",
+      "link": "https://www.reforma.com/banamex-sube-a-1-4-estimado-de-pib-para-2026/ar3272620",
+      "fecha": "08 Sep 2026, 17:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge fortalecer ingresos y reducir dependencia de la deuda",
-      "resumen": "México necesita fortalecer sus ingresos sin depender cada vez más de la deuda, dijeron México ¿Cómo Vamos? y México Evalúa.",
-      "link": "https://www.reforma.com/urge-fortalecer-ingresos-y-reducir-dependencia-de-la-deuda/ar3272337",
-      "fecha": "08 Sep 2026, 12:15 hrs"
+      "titulo": "Priorizan conectividad en transporte para elegir oficinas",
+      "resumen": "La conectividad de transporte es uno de los factores que inciden en las decisiones inmobiliarias antes de elegir una oficina, según CBRE.",
+      "link": "https://www.reforma.com/priorizan-conectividad-en-transporte-para-elegir-oficinas/ar3272539",
+      "fecha": "08 Sep 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Espera ManpowerGroup hasta 250 mil empleos para 2026",
-      "resumen": "Este año se espera una generación de entre 150 mil y 250 mil empleos formales, por debajo de la expectativa de Banxico, dijo ManpowerGroup.",
-      "link": "https://www.reforma.com/espera-manpowergroup-hasta-250-mil-empleos-para-2026/ar3272390",
-      "fecha": "08 Sep 2026, 12:58 hrs"
+      "titulo": "Se crean 86,765 puestos tradicionales en agosto",
+      "resumen": "En agosto se crearon 86 mil 765 puestos tradicionales, mientras que las plazas de plataformas digitales cayeron 48 mil 446, informó IMSS.",
+      "link": "https://www.reforma.com/se-crean-86-765-puestos-tradicionales-en-agosto/ar3272537",
+      "fecha": "08 Sep 2026, 16:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Elevan cuota compensatoria a bicicletas chinas",
-      "resumen": "Secretaría de Economía modificó A 57.19 dólares por pieza la cuota compensatoria a las importaciones de bicicletas para niños de China.",
-      "link": "https://www.reforma.com/elevan-cuota-compensatoria-a-bicicletas-chinas/ar3272318",
-      "fecha": "08 Sep 2026, 11:41 hrs"
+      "titulo": "Duplicará Chevron sus plataformas petrolíferas en Venezuela",
+      "resumen": "Chevron duplicará el número de plataformas petrolíferas que opera en Venezuela para aumentar la producción en el país.",
+      "link": "https://www.reforma.com/duplicara-chevron-sus-plataformas-petroliferas-en-venezuela/ar3272505",
+      "fecha": "08 Sep 2026, 15:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concretan GMéxico y Saavi Energía fusión",
-      "resumen": "Grupo México, a través de su División de Infraestructura, concretó la operación para fusionar sus activos de generación con Saavi Energía.",
-      "link": "https://www.reforma.com/concretan-gmexico-y-saavi-energia-fusion/ar3272296",
-      "fecha": "08 Sep 2026, 11:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amplia Gobierno plazo para migración de contratos legados",
-      "resumen": "El Gobierno federal amplió el plazo para participar en migración de contratos legados a un nuevo esquema bajo la ley del sector eléctrico.",
-      "link": "https://www.reforma.com/amplia-gobierno-plazo-para-migracion-de-contratos-legados/ar3272262",
-      "fecha": "08 Sep 2026, 10:36 hrs"
+      "titulo": "Presenta Meta a Muse, su asistente de IA",
+      "resumen": "Meta presentó su asistente personal Muse, que viene en una versión gratuita o mediante una suscripción mensual que cuesta 20 o 100 dólares.",
+      "link": "https://www.reforma.com/presenta-meta-a-muse-su-asistente-de-ia/ar3272458",
+      "fecha": "08 Sep 2026, 14:40 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dejan gasolineras de vender diesel",
-      "resumen": "Lo incosteable de asumir un precio máximo de $27 por litro de diesel ya está provocando que gasolineras abandonen la venta del producto.",
-      "link": "https://www.reforma.com/dejan-gasolineras-de-vender-diesel/ar3272183",
-      "fecha": "08 Sep 2026, 07:55 hrs"
+      "titulo": "Espera ManpowerGroup hasta 250 mil empleos para 2026",
+      "resumen": "Este año se espera una generación de entre 150 mil y 250 mil empleos formales, por debajo de la expectativa de Banxico, dijo ManpowerGroup.",
+      "link": "https://www.reforma.com/espera-manpowergroup-hasta-250-mil-empleos-para-2026/ar3272390",
+      "fecha": "08 Sep 2026, 12:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lidera NL en deuda pactada a corto plazo",
-      "resumen": "De acuerdo con un análisis de Fitch Ratings, NL concentra el 20.3% de la deuda de corto plazo de los 17 estados que tendrán elecciones",
-      "link": "https://www.reforma.com/lidera-nl-en-deuda-pactada-a-corto-plazo/ar3272085",
-      "fecha": "08 Sep 2026, 07:08 hrs"
+      "titulo": "Investiga Irlanda a X por posibles fallas al verificar edad",
+      "resumen": "Regulador de medios irlandés abre investigación contra X ante posible incumplimiento de medidas de verificación de edad y control parental.",
+      "link": "https://www.reforma.com/investiga-irlanda-a-x-por-posibles-fallas-al-verificar-edad/ar3272350",
+      "fecha": "08 Sep 2026, 12:15 hrs"
     }
   ]
 }
