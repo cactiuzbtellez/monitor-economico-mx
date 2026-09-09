@@ -1,61 +1,7 @@
 {
-  "actualizado": "08/09/2026 21:20 hrs",
+  "actualizado": "09/09/2026 02:40 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Ingresos 2027: Hacienda apuesta por recaudar más impuestos para depender menos del financiamiento",
-      "resumen": "El gobierno prevé ingresos totales por 10.6 billones de pesos. La recaudación tributaria crecería 5.9% real frente al cierre estimado de 2026, mientras los ingresos petroleros caerían 14.4%.",
-      "link": "https://expansion.mx/economia/2026/09/08/ley-de-ingresos-2027-impuestos-financiamiento",
-      "fecha": "08 Sep 2026, 20:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gobierno da más presupuesto al INE y Marina y tijeretazo a Energía: ganadores y perdedores del Paquete Económico 2027",
-      "resumen": "El Proyecto de Presupuesto prioriza hospitales, escuelas, agricultura y seguridad, pero reduce recursos para Sener, CFE y Pemex.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-dependencias-mas-presupuesto-2027-recortes",
-      "fecha": "08 Sep 2026, 19:39 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Secretario de Hacienda entrega el Paquete Económico 2027: “Los recursos públicos deben estar al servicio de la gente\"",
-      "resumen": "El nuevo presupuesto de egresos para 2027 no plantea nuevos impuestos y busca un crecimiento de hasta 2.5%, explicó ante el congreso el Secretario de Hacienda y Crédito Público, Édgar Amador Zamora",
-      "link": "https://expansion.mx/economia/2026/09/08/entrega-paquete-economico-2027-mensaje-secretario-hacienda",
-      "fecha": "08 Sep 2026, 19:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Paquete Económico 2027: Hacienda prevé que la economía crezca de 1.5% a 2.5%",
-      "resumen": "La Secretaría de Hacienda prevé una inflación de 3.0%, un tipo de cambio de 17.9 pesos por dólar y un déficit de 3.9% del PIB, detalla el Paquete Económico entregado por Édgar Amador Zamora al Congres…",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-hacienda-pib-economia-criterios",
-      "fecha": "08 Sep 2026, 18:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Salario en empleo formal en México supera los 20,000 pesos mensuales y le gana a la inflación",
-      "resumen": "La creación de puestos de trabajo afiliados al IMSS muestra señales de debilidad pese al repunte de agosto. En contraste, el salario promedio creció 3.4% en términos reales.",
-      "link": "https://expansion.mx/economia/2026/09/08/salario-formal-mexico-supera-20-mil-pesos-le-gana-inflacion",
-      "fecha": "08 Sep 2026, 18:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México aumenta más de 300% la cuota para bicicletas infantiles provenientes de China",
-      "resumen": "La medida contempla un aumento del 336% en la cuota que se aplicaba previamente a las bicicletas chinas.",
-      "link": "https://expansion.mx/economia/2026/09/08/mexico-aumenta-cuota-bicicletas-infantil-provenientes-china",
-      "fecha": "08 Sep 2026, 18:16 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +22,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Hacienda aprieta el gasto energético y propone recortar recursos a Pemex, CFE y Sener en 2027",
-      "resumen": "El Paquete Económico 2027 plantea reducir 69% el presupuesto real de Sener, 8.5% el de CFE y 1.3% el de Pemex.",
-      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-recortar-recursos-a-pemex-cfe-y-sener-2027",
-      "fecha": "08 Sep 2026, 21:04 hrs"
+      "titulo": "Paquete Económico 2027 pone a prueba el crecimiento, mejorar el gasto y elevar los ingresos",
+      "resumen": "El gobierno deberá contener el déficit sin frenar la inversión, mientras busca una mayor recaudación para sostener las finanzas públicas y darle margen al PIB.",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-pib-gasto-inversion-impuestos-deficit",
+      "fecha": "08 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Gobierno apuesta por deducciones fiscales a empresas para impulsar el Plan México",
-      "resumen": "La propuesta, que es parte del proyecto de Paquete Económico 2027, considera la deducción inmediata de una parte del valor de maquinaria, así como una deducción adicional sobre gastos de capacitación …",
-      "link": "https://expansion.mx/empresas/2026/09/08/gobierno-apuesta-deducciones-fiscales-impulsar-plan-mexico",
-      "fecha": "08 Sep 2026, 19:38 hrs"
+      "titulo": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
+      "resumen": "Previo al Paquete Económico 2027,  la bancada de Morena presentó propuestas para eliminar el desvío de recursos públicos a través de proveedores fantasmas que emiten facturas falsas.",
+      "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
+      "fecha": "07 Sep 2026, 17:14 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Oxxo vs. Tiendas 3B, ¿dónde puedes pagar más servicios desde la luz hasta créditos y recargas?",
-      "resumen": "Ambas cadenas cuentan con el pago de servicios; conoce las alternativas que ofrece cada una.",
-      "link": "https://expansion.mx/empresas/2026/09/08/oxxo-vs-tiendas-3b-pagar-mas-servicios-luz-creditos-recargas",
-      "fecha": "08 Sep 2026, 15:53 hrs"
+      "titulo": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
+      "resumen": "La banca refuerza sus campañas de prevención ante el aumento de mensajes fraudulentos que buscan acceder a los datos personales y financieros de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
+      "fecha": "07 Sep 2026, 13:47 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "The Home Depot invierte 500 mdp para abrir una tienda en Edomex y acelerar sus ventas en línea",
-      "resumen": "La cadena está cerca de llegar a las 145 tiendas en México mientras desarrolla su red logística para dar soporte a su crecimiento geográfico.",
-      "link": "https://expansion.mx/empresas/2026/09/08/the-home-depot-invierte-500-mdp-para-abrir-una-tienda-en-edomex-y-acelerar-sus-ventas-en-linea",
-      "fecha": "08 Sep 2026, 15:45 hrs"
+      "titulo": "Empresarios ven al Paquete Económico 2027 entre impuestos, recortes y más deuda",
+      "resumen": "El sector privado pide reducir el déficit sin castigar la inversión pública ni imponer nuevas cargas a los contribuyentes que ya cumplen con sus obligaciones fiscales.",
+      "link": "https://expansion.mx/economia/2026/09/07/paquete-conomico-presupuesto-2027-mas-impuestos-recortes-deuda",
+      "fecha": "07 Sep 2026, 11:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "AMLO y Sheinbaum elevan la recaudación sin reforma tributaria a través de IEPS y fiscalización",
+      "resumen": "Bajo la promesa de no subir impuestos, una serie de ajustes iniciada en 2019 ha encarecido productos y elevado la carga para empresas y contribuyentes, mientras los ingresos tributarios alcanzan máxim…",
+      "link": "https://expansion.mx/economia/2026/09/07/reforma-fiscal-paquete-economico-2027-impuestos-saludables",
+      "fecha": "07 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las gasolinas y diésel tendrán menos impuestos, pero precios no bajarán",
+      "resumen": "Hacienda redujo las cuotas que cobra a los combustibles por el Impuesto Especial sobre Producción y Servicios (IEPS), para la semana del 5 al 11 de septiembre.",
+      "link": "https://expansion.mx/economia/2026/09/04/gasolinas-impuesto-ieps-precio",
+      "fecha": "04 Sep 2026, 18:35 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +109,42 @@
       "resumen": "Antes de comprar, conviene revisar las políticas de empresa, pues una cancelación puede significar desde un reembolso parcial hasta no recuperar el dinero.",
       "link": "https://expansion.mx/empresas/2026/09/07/flix-precio-ado-etn-reglas-cambiar-cancelar-boletos",
       "fecha": "07 Sep 2026, 19:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Odias tu trabajo? México se convierte en el país de Latinoamérica donde más cayó la felicidad laboral",
+      "resumen": "México es el país de la región donde se registró una mayor caída de satisfacción laboral en el último año.",
+      "link": "https://expansion.mx/carrera/2026/09/08/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
+      "fecha": "07 Sep 2026, 19:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
+      "resumen": "El proyecto insignia de conectividad pierde ritmo, con una caída de 74.3% en puntos de recarga, menos sitios de venta y una desaceleración en el despliegue de WiFi gratuito, en medio de un recorte pre…",
+      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
+      "fecha": "07 Sep 2026, 16:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Aeroméxico anuncia nuevas rutas a Europa y confirma fechas para ampliar sus vuelos desde México en 2027",
+      "resumen": "La aerolínea mexicana informó sobre los horarios y las ciudades que se tienen contempladas en sus rutas hacia Europa.",
+      "link": "https://expansion.mx/empresas/2026/09/07/aeromexico-fechas-dos-nuevas-rutas-a-europa",
+      "fecha": "07 Sep 2026, 16:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Todavía existe la sección amarilla? Lo que pasó con la empresa y cómo cambió el negocio",
+      "resumen": "La guía telefónica que marcó a generaciones pasó de TELMEX a Grupo Carso y terminó transformando su negocio.",
+      "link": "https://expansion.mx/empresas/2026/09/07/todavia-existe-seccion-amarilla-lo-que-paso-con-la-empresa",
+      "fecha": "07 Sep 2026, 16:11 hrs"
     },
     {
       "fuente": "Reforma",
