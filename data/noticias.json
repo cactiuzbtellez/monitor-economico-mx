@@ -1,78 +1,105 @@
 {
-  "actualizado": "09/09/2026 14:30 hrs",
+  "actualizado": "09/09/2026 16:57 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "54,000 empresas llevan cinco años declarando pérdidas; Hacienda endurece el ISR sin subir tasas",
-      "resumen": "El gobierno busca recaudar más con nuevos controles fiscales, ante indicios de que pequeños contribuyentes pagan proporcionalmente más que empresas con ingresos estables.",
-      "link": "https://expansion.mx/economia/2026/09/09/empresas-cinco-anos-perdidas-sat-pago-isr",
-      "fecha": "09 Sep 2026, 09:47 hrs"
+      "titulo": "“Ese tiempo terminó”: Carney marca el fin de 40 años del modelo de dependencia comercial canadiense de EU",
+      "resumen": "Canadá activó aranceles de hasta 50% contra productos estadounidenses y acelerará su apertura hacia Europa, Asia y China ante la presión de Trump.",
+      "link": "https://expansion.mx/economia/2026/09/08/carney-fin-dependencia-comercial-canada-eu-aranceles",
+      "fecha": "08 Sep 2026, 11:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Inegi reporta inflación de 3.26% en agosto; la subyacente sorprende a la baja",
-      "resumen": "Se ubicó en 3.26% anual, mientras que el componente subyacente avanzó menos de lo previsto por el mercado. No obstante, los servicios, las colegiaturas y los alimentos procesados registran presiones.",
-      "link": "https://expansion.mx/economia/2026/09/09/inflacion-inegi-sorprende-baja-agosto",
-      "fecha": "09 Sep 2026, 07:36 hrs"
+      "titulo": "Las fechas clave del paquete económico 2027: qué sigue después de la presentación del presupuesto",
+      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
+      "link": "https://expansion.mx/economia/2026/09/08/fechas-paquete-economico-2027",
+      "fecha": "08 Sep 2026, 08:58 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Menos crecimiento, más fiscalización a empresas y retos en deuda, las claves del Paquete Económico 2027",
-      "resumen": "Hacienda confía en que la inversión pública y las exportaciones impulsarán el PIB, mientras pone freno a empresas ya instaladas limitando deducciones y la deuda continua su trayectoria al alza.",
-      "link": "https://expansion.mx/economia/2026/09/09/paquete-economico-menos-economia-mas-fiscalizacion-deuda",
-      "fecha": "09 Sep 2026, 05:55 hrs"
+      "titulo": "Paquete Económico 2027 pone a prueba el crecimiento, mejorar el gasto y elevar los ingresos",
+      "resumen": "El gobierno deberá contener el déficit sin frenar la inversión, mientras busca una mayor recaudación para sostener las finanzas públicas y darle margen al PIB.",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-pib-gasto-inversion-impuestos-deficit",
+      "fecha": "08 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Sin impuestos nuevos para 2027, Hacienda apuesta por apretar ISR a empresas, y más inscripciones al RESICO",
-      "resumen": "Hacienda busca dinamizar la recaudación de ISR con límites a las deducciones de empresas, y una ampliación para registrarse en el RESICO y así integrar más micro y pequeños negocios a la formalidad.",
-      "link": "https://expansion.mx/economia/2026/09/08/impuestos-2027-hacienda-isr-empresas-mas-resico",
-      "fecha": "08 Sep 2026, 22:18 hrs"
+      "titulo": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
+      "resumen": "Previo al Paquete Económico 2027,  la bancada de Morena presentó propuestas para eliminar el desvío de recursos públicos a través de proveedores fantasmas que emiten facturas falsas.",
+      "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
+      "fecha": "07 Sep 2026, 17:14 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Adultos mayores son los ganadores del Paquete Económico 2027: prevén aumento para Pensiones del Bienestar",
-      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-preven-aumento-pensiones-bienestar",
-      "fecha": "08 Sep 2026, 21:33 hrs"
+      "titulo": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
+      "resumen": "La banca refuerza sus campañas de prevención ante el aumento de mensajes fraudulentos que buscan acceder a los datos personales y financieros de los usuarios.",
+      "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
+      "fecha": "07 Sep 2026, 13:47 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Ley de Ingresos 2027: Hacienda apuesta por recaudar más impuestos para depender menos del financiamiento",
-      "resumen": "El gobierno prevé ingresos totales por 10.6 billones de pesos. La recaudación tributaria crecería 5.9% real frente al cierre estimado de 2026, mientras los ingresos petroleros caerían 14.4%.",
-      "link": "https://expansion.mx/economia/2026/09/08/ley-de-ingresos-2027-impuestos-financiamiento",
-      "fecha": "08 Sep 2026, 20:21 hrs"
+      "titulo": "Empresarios ven al Paquete Económico 2027 entre impuestos, recortes y más deuda",
+      "resumen": "El sector privado pide reducir el déficit sin castigar la inversión pública ni imponer nuevas cargas a los contribuyentes que ya cumplen con sus obligaciones fiscales.",
+      "link": "https://expansion.mx/economia/2026/09/07/paquete-conomico-presupuesto-2027-mas-impuestos-recortes-deuda",
+      "fecha": "07 Sep 2026, 11:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Gobierno da más presupuesto al INE y Marina y tijeretazo a Energía: ganadores y perdedores del Paquete Económico 2027",
-      "resumen": "El Proyecto de Presupuesto prioriza hospitales, escuelas, agricultura y seguridad, pero reduce recursos para Sener, CFE y Pemex.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-dependencias-mas-presupuesto-2027-recortes",
-      "fecha": "08 Sep 2026, 19:39 hrs"
+      "titulo": "AMLO y Sheinbaum elevan la recaudación sin reforma tributaria a través de IEPS y fiscalización",
+      "resumen": "Bajo la promesa de no subir impuestos, una serie de ajustes iniciada en 2019 ha encarecido productos y elevado la carga para empresas y contribuyentes, mientras los ingresos tributarios alcanzan máxim…",
+      "link": "https://expansion.mx/economia/2026/09/07/reforma-fiscal-paquete-economico-2027-impuestos-saludables",
+      "fecha": "07 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Secretario de Hacienda entrega el Paquete Económico 2027: “Los recursos públicos deben estar al servicio de la gente\"",
-      "resumen": "El nuevo presupuesto de egresos para 2027 no plantea nuevos impuestos y busca un crecimiento de hasta 2.5%, explicó ante el congreso el Secretario de Hacienda y Crédito Público, Édgar Amador Zamora",
-      "link": "https://expansion.mx/economia/2026/09/08/entrega-paquete-economico-2027-mensaje-secretario-hacienda",
-      "fecha": "08 Sep 2026, 19:10 hrs"
+      "titulo": "Las gasolinas y diésel tendrán menos impuestos, pero precios no bajarán",
+      "resumen": "Hacienda redujo las cuotas que cobra a los combustibles por el Impuesto Especial sobre Producción y Servicios (IEPS), para la semana del 5 al 11 de septiembre.",
+      "link": "https://expansion.mx/economia/2026/09/04/gasolinas-impuesto-ieps-precio",
+      "fecha": "04 Sep 2026, 18:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Alberto Baillères comenzó como office boy en Bancomer y terminó construyendo un imperio de miles de millones",
+      "resumen": "Antes de convertirse en referente del empresariado mexicano, recorrió distintas áreas, estudió Economía y aprendió el negocio desde abajo.",
+      "link": "https://expansion.mx/empresas/2026/09/09/alberto-bailleres-office-boy-bancomer-historia-empresarial",
+      "fecha": "09 Sep 2026, 16:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El presupuesto para el AIFA, obra insignia de la 4T, disminuye 31.37% en el Paquete Económico 2027",
+      "resumen": "El Aeropuerto Internacional Felipe Ángeles, inaugurado durante el gobierno de Andrés Manuel López Obrador, tendrá un ajuste presupuestario para 2027.",
+      "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
+      "fecha": "09 Sep 2026, 16:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Este cereal mexicano compite contra Cheerios y Quaker en las listas de Profeco, pero pocos conocen cómo nació",
+      "resumen": "Una receta de trigo inflado dio paso a una empresa familiar que sobrevivió al paso de las generaciones y mantiene su identidad mexicana.",
+      "link": "https://expansion.mx/empresas/2026/09/09/chachitos-compite-listas-profeco-como-nacio",
+      "fecha": "09 Sep 2026, 15:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,49 +147,31 @@
       "fecha": "08 Sep 2026, 21:29 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hacienda aprieta el gasto energético y propone recortar recursos a Pemex, CFE y Sener en 2027",
-      "resumen": "El Paquete Económico 2027 plantea reducir 69% el presupuesto real de Sener, 8.5% el de CFE y 1.3% el de Pemex.",
-      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-recortar-recursos-a-pemex-cfe-y-sener-2027",
-      "fecha": "08 Sep 2026, 21:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gobierno apuesta por deducciones fiscales a empresas para impulsar el Plan México",
-      "resumen": "La propuesta, que es parte del proyecto de Paquete Económico 2027, considera la deducción inmediata de una parte del valor de maquinaria, así como una deducción adicional sobre gastos de capacitación …",
-      "link": "https://expansion.mx/empresas/2026/09/08/gobierno-apuesta-deducciones-fiscales-impulsar-plan-mexico",
-      "fecha": "08 Sep 2026, 19:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Oxxo vs. Tiendas 3B, ¿dónde puedes pagar más servicios desde la luz hasta créditos y recargas?",
-      "resumen": "Ambas cadenas cuentan con el pago de servicios; conoce las alternativas que ofrece cada una.",
-      "link": "https://expansion.mx/empresas/2026/09/08/oxxo-vs-tiendas-3b-pagar-mas-servicios-luz-creditos-recargas",
-      "fecha": "08 Sep 2026, 15:53 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dará 140 mmdp extras candado a 'deducciones abusivas'",
+      "resumen": "Candado a deducciones empresariales abusivas permitirá recaudar cerca de 140 mil millones de pesos adicionales, aseguró SHCP.",
+      "link": "https://www.reforma.com/dara-140-mmdp-extras-candado-a-deducciones-abusivas/ar3273243",
+      "fecha": "09 Sep 2026, 14:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dice SHCP que Paquete 2027 es creíble y realista",
-      "resumen": "Las metas y proyecciones del Paquete Económico para 2027 son creíbles y realistas, dijo Amador, Secretario de Hacienda y Crédito Público.",
-      "link": "https://www.reforma.com/dice-shcp-que-paquete-2027-es-creible-y-realista/ar3273136",
-      "fecha": "09 Sep 2026, 12:52 hrs"
+      "titulo": "Descarta SHCP 'incremento explosivo' en trayectoria de deuda",
+      "resumen": "México no tendrá un \"incremento explosivo\" en la trayectoria de su deuda por los programas de coberturas petroleras, aseguró SHCP.",
+      "link": "https://www.reforma.com/descarta-shcp-incremento-explosivo-en-trayectoria-de-deuda/ar3273308",
+      "fecha": "09 Sep 2026, 15:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inhibiría inversión privada límites a deducción de ISR",
-      "resumen": "Límites a deducciones del ISR empresarial podrían inhibir la inversión privada en un contexto de débil demanda interna, señaló BBVA.",
-      "link": "https://www.reforma.com/inhibiria-inversion-privada-limites-a-deduccion-de-isr/ar3273107",
-      "fecha": "09 Sep 2026, 12:30 hrs"
+      "titulo": "Cierra Aduanas cruce fronterizo entre México-EU",
+      "resumen": "La Agencia Nacional de Aduanas (ANAM) cerró el cruce que conecta el Puente Internacional Zaragoza en Matamoros con Brownsville, Texas.",
+      "link": "https://www.reforma.com/cierra-aduanas-cruce-fronterizo-entre-mexico-eu/ar3273322",
+      "fecha": "09 Sep 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preocupa a la Concanaco mayor fiscalización para 2027",
-      "resumen": "Ante la mayor fiscalización del Paquete Económico para 2027, las empresas requieren establecer mecanismos de cumplimiento, dijo Concanaco.",
-      "link": "https://www.reforma.com/preocupa-a-la-concanaco-mayor-fiscalizacion-para-2027/ar3273071",
-      "fecha": "09 Sep 2026, 11:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presentan el iPhone Duo, el primer teléfono plegable",
-      "resumen": "El iPhone Duo, el primero plegable de Apple, fue presentado, además de que se lanzaron los dispositivos 18 Pro y Pro Max.",
-      "link": "https://www.reforma.com/presentan-el-iphone-duo-el-primer-telefono-plegable/ar3273086",
-      "fecha": "09 Sep 2026, 12:05 hrs"
+      "titulo": "Inhibiría inversión privada límites a deducción de ISR",
+      "resumen": "Límites a deducciones del ISR empresarial podrían inhibir la inversión privada en un contexto de débil demanda interna, señaló BBVA.",
+      "link": "https://www.reforma.com/inhibiria-inversion-privada-limites-a-deduccion-de-isr/ar3273107",
+      "fecha": "09 Sep 2026, 12:30 hrs"
     },
     {
       "fuente": "Reforma",
