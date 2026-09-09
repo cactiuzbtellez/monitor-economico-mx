@@ -1,7 +1,16 @@
 {
-  "actualizado": "09/09/2026 07:26 hrs",
+  "actualizado": "09/09/2026 11:35 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Menos crecimiento, más fiscalización a empresas y retos en deuda, las claves del Paquete Económico 2027",
+      "resumen": "Hacienda confía en que la inversión pública y las exportaciones impulsarán el PIB, mientras pone freno a empresas ya instaladas limitando deducciones y la deuda continua su trayectoria al alza.",
+      "link": "https://expansion.mx/economia/2026/09/09/paquete-economico-menos-economia-mas-fiscalizacion-deuda",
+      "fecha": "09 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México aumenta más de 300% la cuota para bicicletas infantiles provenientes de China",
-      "resumen": "La medida contempla un aumento del 336% en la cuota que se aplicaba previamente a las bicicletas chinas.",
-      "link": "https://expansion.mx/economia/2026/09/08/mexico-aumenta-cuota-bicicletas-infantil-provenientes-china",
-      "fecha": "08 Sep 2026, 18:16 hrs"
+      "titulo": "Pemex no logra su meta de autosuficiencia y recibirá 81,100 mdp del gobierno en 2027",
+      "resumen": "La presidenta Claudia Sheinbaum, y el secretario de Hacienda, titular de Hacienda, dijeron en agosto del año pasado que Pemex ya no necesitaría recursos en 2027 para hacer frente a su deuda financiera…",
+      "link": "https://expansion.mx/empresas/2026/09/09/pemex-no-logra-su-meta-de-autosuficiencia-y-recibira-81-100-mdp-del-gobierno-en-2027",
+      "fecha": "09 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,22 +147,22 @@
       "fecha": "08 Sep 2026, 13:48 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué se hundieron las acciones de Televisa 12.7% en la BMV? La razón detrás de la caída",
-      "resumen": "Las acciones de Televisa tuvieron una jornada de fuertes pérdidas. La empresa explicó a la Bolsa qué pudo provocar el desplome.",
-      "link": "https://expansion.mx/empresas/2026/09/08/por-que-cayeron-las-acciones-de-televisa-en-la-bolsa",
-      "fecha": "08 Sep 2026, 09:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube inflación de México a 3.26% en agosto",
+      "resumen": "La tasa de inflación anual de México aumentó 3.26% en agosto, menos de lo previsto, pero la cifra fue superior al 3.12% registrado en julio.",
+      "link": "https://www.reforma.com/sube-inflacion-de-mexico-a-3-26-en-agosto/ar3272929",
+      "fecha": "09 Sep 2026, 07:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Y bajarán los apoyos a Pemex",
-      "resumen": "En 2027, el Gobierno federal transferirá 81.1 mil millones de pesos a Pemex para apoyar a la empresa en el pago de amortizaciones de deuda.",
-      "link": "https://www.reforma.com/y-bajaran-los-apoyos-a-pemex/ar3272827",
-      "fecha": "09 Sep 2026, 05:01 hrs"
+      "titulo": "Serían reglas de origen un 'Plan México en esteroides'",
+      "resumen": "Endurecer las reglas de origen del T-MEC potenciarían el objetivo del Gobierno de elevar el contenido nacional, dijo Altagracia Gómez.",
+      "link": "https://www.reforma.com/serian-reglas-de-origen-un-plan-mexico-en-esteroides/ar3273006",
+      "fecha": "09 Sep 2026, 10:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -162,6 +171,15 @@
       "titulo": "Proponen IEPS ¡al huachicol!",
       "resumen": "A partir del próximo año, las ventas de gasolina y diesel cuyo origen no esté debidamente acreditado deberán pagar una cuota del IEPS.",
       "link": "https://www.reforma.com/proponen-ieps-al-huachicol/ar3272843",
+      "fecha": "09 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Bajarán los apoyos a Pemex en 2027",
+      "resumen": "En 2027, el Gobierno federal transferirá 81.1 mil millones de pesos a Pemex para apoyar a la empresa en el pago de amortizaciones de deuda.",
+      "link": "https://www.reforma.com/bajaran-los-apoyos-a-pemex-en-2027/ar3272827",
       "fecha": "09 Sep 2026, 05:01 hrs"
     },
     {
@@ -177,46 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pegan a industria fallas educativas",
-      "resumen": "El deterioro en el aprendizaje que ha tenido el sistema escolar en México tiene un impacto visible en el capital humano",
-      "link": "https://www.reforma.com/pegan-a-industria-fallas-educativas/ar3272823",
-      "fecha": "09 Sep 2026, 07:07 hrs"
+      "titulo": "Vincula Juez por fraude a mandos de Capital Tech",
+      "resumen": "Juez vinculó a proceso penal a Rogelio de los Santos, presidente del Consejo de Administración de Capital Tech, y a otros directivos.",
+      "link": "https://www.reforma.com/vincula-juez-por-fraude-a-mandos-de-capital-tech/ar3272945",
+      "fecha": "09 Sep 2026, 08:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afecta el fisco a las Mipymes",
-      "resumen": "El esquema de retención fiscal que entró en vigor este 2026 atenta contra el objetivo de formalizar a más Mipymes.",
-      "link": "https://www.reforma.com/afecta-el-fisco-a-las-mipymes/ar3272815",
-      "fecha": "09 Sep 2026, 05:02 hrs"
+      "titulo": "Supera Brent los 100 dólares por escalada en Medio Oriente",
+      "resumen": "El crudo Brent para entrega en noviembre alcanzó brevemente los 100.19 dólares, por primera vez desde finales de julio.",
+      "link": "https://www.reforma.com/supera-brent-los-100-dolares-por-escalada-en-medio-oriente/ar3272931",
+      "fecha": "09 Sep 2026, 07:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pesan más pasivos de pensiones en PIB",
-      "resumen": "El total del pasivo pensionario del País se elevó de 33.8%, medido por el PIB, a 37.4% de 2024 a 2025, revelaron CGPE.",
-      "link": "https://www.reforma.com/pesan-mas-pasivos-de-pensiones-en-pib/ar3272808",
-      "fecha": "09 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden trabajo regional para abasto alimentario",
-      "resumen": "ara Norteamérica es necesario trabajar de manera conjunta en el abastecimiento de alimentos, consideró U.S. Meat Export Federation.",
-      "link": "https://www.reforma.com/piden-trabajo-regional-para-abasto-alimentario/ar3272791",
-      "fecha": "09 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera consumo de huevo México",
-      "resumen": "A nivel mundial, México es el mayor consumidor de huevo con 24.1 kilos per cápita por año, es decir, unas 410 piezas por persona.",
-      "link": "https://www.reforma.com/lidera-consumo-de-huevo-mexico/ar3272803",
-      "fecha": "09 Sep 2026, 05:02 hrs"
+      "titulo": "Pega a mercados de EU el alza del petróleo",
+      "resumen": "La Bolsa de Nueva York abrió en rojo debido al aumento de los precios del petróleo, que rebasaron nuevamente los 100 dólares.",
+      "link": "https://www.reforma.com/pega-a-mercados-de-eu-el-alza-del-petroleo/ar3272960",
+      "fecha": "09 Sep 2026, 08:56 hrs"
     }
   ]
 }
