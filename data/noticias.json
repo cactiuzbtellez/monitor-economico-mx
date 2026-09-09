@@ -1,78 +1,96 @@
 {
-  "actualizado": "08/09/2026 17:51 hrs",
+  "actualizado": "08/09/2026 21:20 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Paquete Económico 2027 pone a prueba el crecimiento, mejorar el gasto y elevar los ingresos",
-      "resumen": "El gobierno deberá contener el déficit sin frenar la inversión, mientras busca una mayor recaudación para sostener las finanzas públicas y darle margen al PIB.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-pib-gasto-inversion-impuestos-deficit",
-      "fecha": "08 Sep 2026, 05:55 hrs"
+      "titulo": "Ley de Ingresos 2027: Hacienda apuesta por recaudar más impuestos para depender menos del financiamiento",
+      "resumen": "El gobierno prevé ingresos totales por 10.6 billones de pesos. La recaudación tributaria crecería 5.9% real frente al cierre estimado de 2026, mientras los ingresos petroleros caerían 14.4%.",
+      "link": "https://expansion.mx/economia/2026/09/08/ley-de-ingresos-2027-impuestos-financiamiento",
+      "fecha": "08 Sep 2026, 20:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Con caza de 'factureras' e IA, gobierno y diputados buscan más dinero para el SAT",
-      "resumen": "Previo al Paquete Económico 2027,  la bancada de Morena presentó propuestas para eliminar el desvío de recursos públicos a través de proveedores fantasmas que emiten facturas falsas.",
-      "link": "https://expansion.mx/economia/2026/09/07/gobiero-sheinbaum-recaudar-mas-sat-caza-factureras",
-      "fecha": "07 Sep 2026, 17:14 hrs"
+      "titulo": "Gobierno da más presupuesto al INE y Marina y tijeretazo a Energía: ganadores y perdedores del Paquete Económico 2027",
+      "resumen": "El Proyecto de Presupuesto prioriza hospitales, escuelas, agricultura y seguridad, pero reduce recursos para Sener, CFE y Pemex.",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-dependencias-mas-presupuesto-2027-recortes",
+      "fecha": "08 Sep 2026, 19:39 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Bancos aumentan alertas antifraude; Banamex pide a clientes no instalar apps desde enlaces sospechosos",
-      "resumen": "La banca refuerza sus campañas de prevención ante el aumento de mensajes fraudulentos que buscan acceder a los datos personales y financieros de los usuarios.",
-      "link": "https://expansion.mx/economia/2026/09/07/bancos-aumentan-alertas-antifraude-banamex-pide-a-clientes-no-instalar-apps-desde-enlaces-sospechosos",
-      "fecha": "07 Sep 2026, 13:47 hrs"
+      "titulo": "Secretario de Hacienda entrega el Paquete Económico 2027: “Los recursos públicos deben estar al servicio de la gente\"",
+      "resumen": "El nuevo presupuesto de egresos para 2027 no plantea nuevos impuestos y busca un crecimiento de hasta 2.5%, explicó ante el congreso el Secretario de Hacienda y Crédito Público, Édgar Amador Zamora",
+      "link": "https://expansion.mx/economia/2026/09/08/entrega-paquete-economico-2027-mensaje-secretario-hacienda",
+      "fecha": "08 Sep 2026, 19:10 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Empresarios ven al Paquete Económico 2027 entre impuestos, recortes y más deuda",
-      "resumen": "El sector privado pide reducir el déficit sin castigar la inversión pública ni imponer nuevas cargas a los contribuyentes que ya cumplen con sus obligaciones fiscales.",
-      "link": "https://expansion.mx/economia/2026/09/07/paquete-conomico-presupuesto-2027-mas-impuestos-recortes-deuda",
-      "fecha": "07 Sep 2026, 11:21 hrs"
+      "titulo": "Paquete Económico 2027: Hacienda prevé que la economía crezca de 1.5% a 2.5%",
+      "resumen": "La Secretaría de Hacienda prevé una inflación de 3.0%, un tipo de cambio de 17.9 pesos por dólar y un déficit de 3.9% del PIB, detalla el Paquete Económico entregado por Édgar Amador Zamora al Congres…",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-hacienda-pib-economia-criterios",
+      "fecha": "08 Sep 2026, 18:57 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "AMLO y Sheinbaum elevan la recaudación sin reforma tributaria a través de IEPS y fiscalización",
-      "resumen": "Bajo la promesa de no subir impuestos, una serie de ajustes iniciada en 2019 ha encarecido productos y elevado la carga para empresas y contribuyentes, mientras los ingresos tributarios alcanzan máxim…",
-      "link": "https://expansion.mx/economia/2026/09/07/reforma-fiscal-paquete-economico-2027-impuestos-saludables",
-      "fecha": "07 Sep 2026, 05:55 hrs"
+      "titulo": "Salario en empleo formal en México supera los 20,000 pesos mensuales y le gana a la inflación",
+      "resumen": "La creación de puestos de trabajo afiliados al IMSS muestra señales de debilidad pese al repunte de agosto. En contraste, el salario promedio creció 3.4% en términos reales.",
+      "link": "https://expansion.mx/economia/2026/09/08/salario-formal-mexico-supera-20-mil-pesos-le-gana-inflacion",
+      "fecha": "08 Sep 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Las gasolinas y diésel tendrán menos impuestos, pero precios no bajarán",
-      "resumen": "Hacienda redujo las cuotas que cobra a los combustibles por el Impuesto Especial sobre Producción y Servicios (IEPS), para la semana del 5 al 11 de septiembre.",
-      "link": "https://expansion.mx/economia/2026/09/04/gasolinas-impuesto-ieps-precio",
-      "fecha": "04 Sep 2026, 18:35 hrs"
+      "titulo": "México aumenta más de 300% la cuota para bicicletas infantiles provenientes de China",
+      "resumen": "La medida contempla un aumento del 336% en la cuota que se aplicaba previamente a las bicicletas chinas.",
+      "link": "https://expansion.mx/economia/2026/09/08/mexico-aumenta-cuota-bicicletas-infantil-provenientes-china",
+      "fecha": "08 Sep 2026, 18:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Con apoyos del gobierno, la pensión mensual promedio en México es de 13 mil 745 pesos",
-      "resumen": "Los apoyos públicos elevan 142.6% el ingreso de los pensionados beneficiados, de acuerdo con cifras del Segundo Informe de Gobierno.",
-      "link": "https://expansion.mx/economia/2026/09/04/con-apoyos-del-gobierno-la-pension-mensual-promedio-en-mexico-es-de-13-mil-745-pesos",
-      "fecha": "04 Sep 2026, 14:48 hrs"
+      "titulo": "“Ese tiempo terminó”: Carney marca el fin de 40 años del modelo de dependencia comercial canadiense de EU",
+      "resumen": "Canadá activó aranceles de hasta 50% contra productos estadounidenses y acelerará su apertura hacia Europa, Asia y China ante la presión de Trump.",
+      "link": "https://expansion.mx/economia/2026/09/08/carney-fin-dependencia-comercial-canada-eu-aranceles",
+      "fecha": "08 Sep 2026, 11:16 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Triangulación china se asoma en solo 2% del avance exportador de México a EU",
-      "resumen": "Los datos ponen en perspectiva el paso directo de mercancías chinas por México, pero abren una pregunta mayor: cuánto contenido chino llevan los productos hechos en el país.",
-      "link": "https://expansion.mx/economia/2026/09/04/mexico-triangulacion-chino-exportaciones-eu-t-mec",
-      "fecha": "04 Sep 2026, 12:59 hrs"
+      "titulo": "Las fechas clave del paquete económico 2027: qué sigue después de la presentación del presupuesto",
+      "resumen": "La presidenta de México, Claudia Sheinbaum Pardo, adelantó la fecha y los temas que tiene previstos en el Paquete Económico 2027.",
+      "link": "https://expansion.mx/economia/2026/09/08/fechas-paquete-economico-2027",
+      "fecha": "08 Sep 2026, 08:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hacienda aprieta el gasto energético y propone recortar recursos a Pemex, CFE y Sener en 2027",
+      "resumen": "El Paquete Económico 2027 plantea reducir 69% el presupuesto real de Sener, 8.5% el de CFE y 1.3% el de Pemex.",
+      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-recortar-recursos-a-pemex-cfe-y-sener-2027",
+      "fecha": "08 Sep 2026, 21:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Gobierno apuesta por deducciones fiscales a empresas para impulsar el Plan México",
+      "resumen": "La propuesta, que es parte del proyecto de Paquete Económico 2027, considera la deducción inmediata de una parte del valor de maquinaria, así como una deducción adicional sobre gastos de capacitación …",
+      "link": "https://expansion.mx/empresas/2026/09/08/gobierno-apuesta-deducciones-fiscales-impulsar-plan-mexico",
+      "fecha": "08 Sep 2026, 19:38 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,22 +147,58 @@
       "fecha": "07 Sep 2026, 19:49 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Odias tu trabajo? México se convierte en el país de Latinoamérica donde más cayó la felicidad laboral",
-      "resumen": "México es el país de la región donde se registró una mayor caída de satisfacción laboral en el último año.",
-      "link": "https://expansion.mx/carrera/2026/09/08/mexico-convierte-pais-latinoamerica-cayo-felicidad-laboral",
-      "fecha": "07 Sep 2026, 19:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumentan 17% recursos a Sader en 2027 para más subsidios",
+      "resumen": "En 2027, Sader tendrá un presupuesto de 88 mil 758.8 millones de pesos; cifra 17% mayor a 2026 y especialmente para programas del bienestar.",
+      "link": "https://www.reforma.com/aumentan-17-recursos-a-sader-en-2027-para-mas-subsidios/ar3272746",
+      "fecha": "08 Sep 2026, 20:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Internet para Todos ‘pierde red’ con menos sucursales de recarga y rezagos en puntos WiFi",
-      "resumen": "El proyecto insignia de conectividad pierde ritmo, con una caída de 74.3% en puntos de recarga, menos sitios de venta y una desaceleración en el despliegue de WiFi gratuito, en medio de un recorte pre…",
-      "link": "https://expansion.mx/empresas/2026/09/07/internet-para-todos-pierde-puntos-recarga",
-      "fecha": "07 Sep 2026, 16:44 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Bajan tasa de ISR al ahorro y a repatriación de capitales",
+      "resumen": "Para 2027, la tasa de retención de intereses bajará de 0.90% a 0.68%, mientras que la de repatriación de capitales será de 7.5%.",
+      "link": "https://www.reforma.com/bajan-tasa-de-isr-al-ahorro-y-a-repatriacion-de-capitales/ar3272735",
+      "fecha": "08 Sep 2026, 20:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reducen 73% presupuesto para AFAC y Seneam",
+      "resumen": "AFAC recibirá un presupuesto de 175 millones 446.1 de pesos para 2027; cifra 73% menor a 2026 y Seneam también sufrirá una reducción de 74%.",
+      "link": "https://www.reforma.com/reducen-73-presupuesto-para-afac-y-seneam/ar3272714",
+      "fecha": "08 Sep 2026, 20:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dan a Agencia de Trenes 17.5% más de presupuesto",
+      "resumen": "Agencia de Trenes y Transporte Público Integrado tendrá un presupuesto de 108 mil 767.7 mdp; cifra 17.5% mayor a 2026, de acuerdo con PPEF.",
+      "link": "https://www.reforma.com/dan-a-agencia-de-trenes-17-5-mas-de-presupuesto/ar3272685",
+      "fecha": "08 Sep 2026, 19:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Enfrentan fintechs mexicanas prueba de fuego-Moody's Ratings",
+      "resumen": "Deterioro de la económica podría tener un efecto negativo sobre la morosidad de prestamos otorgados por fintechs, advierte Moody's Ratings",
+      "link": "https://www.reforma.com/enfrentan-fintechs-mexicanas-prueba-de-fuego-moody-s-ratings/ar3272662",
+      "fecha": "08 Sep 2026, 18:49 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén ingresos tributarios de 15.9% del PIB por IEPS e ISR",
+      "resumen": "SHCP proyecta que ingresos tributarios alcancen 6.26 billones de pesos en 2027, un nuevo máximo histórico de 15.9% del PIB.",
+      "link": "https://www.reforma.com/preven-ingresos-tributarios-de-15-9-del-pib-por-ieps-e-isr/ar3272655",
+      "fecha": "08 Sep 2026, 18:29 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,60 +217,6 @@
       "resumen": "La conectividad de transporte es uno de los factores que inciden en las decisiones inmobiliarias antes de elegir una oficina, según CBRE.",
       "link": "https://www.reforma.com/priorizan-conectividad-en-transporte-para-elegir-oficinas/ar3272539",
       "fecha": "08 Sep 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se crean 86,765 puestos tradicionales en agosto",
-      "resumen": "En agosto se crearon 86 mil 765 puestos tradicionales, mientras que las plazas de plataformas digitales cayeron 48 mil 446, informó IMSS.",
-      "link": "https://www.reforma.com/se-crean-86-765-puestos-tradicionales-en-agosto/ar3272537",
-      "fecha": "08 Sep 2026, 16:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Duplicará Chevron sus plataformas petrolíferas en Venezuela",
-      "resumen": "Chevron duplicará el número de plataformas petrolíferas que opera en Venezuela para aumentar la producción en el país.",
-      "link": "https://www.reforma.com/duplicara-chevron-sus-plataformas-petroliferas-en-venezuela/ar3272505",
-      "fecha": "08 Sep 2026, 15:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presenta Meta a Muse, su asistente de IA",
-      "resumen": "Meta presentó su asistente personal Muse, que viene en una versión gratuita o mediante una suscripción mensual que cuesta 20 o 100 dólares.",
-      "link": "https://www.reforma.com/presenta-meta-a-muse-su-asistente-de-ia/ar3272458",
-      "fecha": "08 Sep 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsan financiamiento para pymes",
-      "resumen": "Mediante convenios con la banca de desarrollo y comercial, han otorgado más de 500 mdp en financiamiento accesible a pymes, afirmó Caintra.",
-      "link": "https://www.reforma.com/impulsan-financiamiento-para-pymes/ar3272437",
-      "fecha": "08 Sep 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Espera ManpowerGroup hasta 250 mil empleos para 2026",
-      "resumen": "Este año se espera una generación de entre 150 mil y 250 mil empleos formales, por debajo de la expectativa de Banxico, dijo ManpowerGroup.",
-      "link": "https://www.reforma.com/espera-manpowergroup-hasta-250-mil-empleos-para-2026/ar3272390",
-      "fecha": "08 Sep 2026, 12:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Investiga Irlanda a X por posibles fallas al verificar edad",
-      "resumen": "Regulador de medios irlandés abre investigación contra X ante posible incumplimiento de medidas de verificación de edad y control parental.",
-      "link": "https://www.reforma.com/investiga-irlanda-a-x-por-posibles-fallas-al-verificar-edad/ar3272350",
-      "fecha": "08 Sep 2026, 12:15 hrs"
     }
   ]
 }
