@@ -1,7 +1,25 @@
 {
-  "actualizado": "09/09/2026 11:35 hrs",
+  "actualizado": "09/09/2026 14:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "54,000 empresas llevan cinco años declarando pérdidas; Hacienda endurece el ISR sin subir tasas",
+      "resumen": "El gobierno busca recaudar más con nuevos controles fiscales, ante indicios de que pequeños contribuyentes pagan proporcionalmente más que empresas con ingresos estables.",
+      "link": "https://expansion.mx/economia/2026/09/09/empresas-cinco-anos-perdidas-sat-pago-isr",
+      "fecha": "09 Sep 2026, 09:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inegi reporta inflación de 3.26% en agosto; la subyacente sorprende a la baja",
+      "resumen": "Se ubicó en 3.26% anual, mientras que el componente subyacente avanzó menos de lo previsto por el mercado. No obstante, los servicios, las colegiaturas y los alimentos procesados registran presiones.",
+      "link": "https://expansion.mx/economia/2026/09/09/inflacion-inegi-sorprende-baja-agosto",
+      "fecha": "09 Sep 2026, 07:36 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Paquete Económico 2027: Hacienda prevé que la economía crezca de 1.5% a 2.5%",
-      "resumen": "La Secretaría de Hacienda prevé una inflación de 3.0%, un tipo de cambio de 17.9 pesos por dólar y un déficit de 3.9% del PIB, detalla el Paquete Económico entregado por Édgar Amador Zamora al Congres…",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-hacienda-pib-economia-criterios",
-      "fecha": "08 Sep 2026, 18:57 hrs"
+      "titulo": "Mexicana volará con menos recursos mientras busca alcanzar la rentabilidad en 2027",
+      "resumen": "El gobierno propone asignar 1,012 millones de pesos a Mexicana en 2027, 43.2% menos en términos reales, mientras la aerolínea aún enfrenta pérdidas y busca consolidar su operación.",
+      "link": "https://expansion.mx/empresas/2026/09/09/mexicana-aviacion-tendra-menos-presupuesto-2027",
+      "fecha": "09 Sep 2026, 12:21 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Salario en empleo formal en México supera los 20,000 pesos mensuales y le gana a la inflación",
-      "resumen": "La creación de puestos de trabajo afiliados al IMSS muestra señales de debilidad pese al repunte de agosto. En contraste, el salario promedio creció 3.4% en términos reales.",
-      "link": "https://expansion.mx/economia/2026/09/08/salario-formal-mexico-supera-20-mil-pesos-le-gana-inflacion",
-      "fecha": "08 Sep 2026, 18:26 hrs"
+      "titulo": "La CRT enfrentaría el reto del 5G con un presupuesto austero para el próximo año",
+      "resumen": "La Secretaría de Hacienda propone asignar 354.5 millones de pesos a la CRT en 2027, 29% menos que el último presupuesto aprobado para el extinto IFT.",
+      "link": "https://expansion.mx/empresas/2026/09/09/crt-menos-presupuesto-2027",
+      "fecha": "09 Sep 2026, 08:00 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,31 +147,58 @@
       "fecha": "08 Sep 2026, 15:53 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "The Home Depot invierte 500 mdp para abrir una tienda en Edomex y acelerar sus ventas en línea",
-      "resumen": "La cadena está cerca de llegar a las 145 tiendas en México mientras desarrolla su red logística para dar soporte a su crecimiento geográfico.",
-      "link": "https://expansion.mx/empresas/2026/09/08/the-home-depot-invierte-500-mdp-para-abrir-una-tienda-en-edomex-y-acelerar-sus-ventas-en-linea",
-      "fecha": "08 Sep 2026, 15:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan March baja de precio y se convierte en el segundo auto más barato de México",
-      "resumen": "El March cuesta 69,910 pesos menos que su precio de lista y se coloca como el segundo auto nuevo más barato de México.",
-      "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-de-precio",
-      "fecha": "08 Sep 2026, 13:48 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dice SHCP que Paquete 2027 es creíble y realista",
+      "resumen": "Las metas y proyecciones del Paquete Económico para 2027 son creíbles y realistas, dijo Amador, Secretario de Hacienda y Crédito Público.",
+      "link": "https://www.reforma.com/dice-shcp-que-paquete-2027-es-creible-y-realista/ar3273136",
+      "fecha": "09 Sep 2026, 12:52 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube inflación de México a 3.26% en agosto",
-      "resumen": "La tasa de inflación anual de México aumentó 3.26% en agosto, menos de lo previsto, pero la cifra fue superior al 3.12% registrado en julio.",
-      "link": "https://www.reforma.com/sube-inflacion-de-mexico-a-3-26-en-agosto/ar3272929",
-      "fecha": "09 Sep 2026, 07:28 hrs"
+      "titulo": "Inhibiría inversión privada límites a deducción de ISR",
+      "resumen": "Límites a deducciones del ISR empresarial podrían inhibir la inversión privada en un contexto de débil demanda interna, señaló BBVA.",
+      "link": "https://www.reforma.com/inhibiria-inversion-privada-limites-a-deduccion-de-isr/ar3273107",
+      "fecha": "09 Sep 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Incumplió México el TLCAN en el caso Vulcan, determina CIADI",
+      "resumen": "México incumplió sus obligaciones del TLCAN en su trato a las operaciones de piedra caliza de Vulcan Materials; deberá pagar 15.9 mdd.",
+      "link": "https://www.reforma.com/incumplio-mexico-el-tlcan-en-el-caso-vulcan-determina-ciadi/ar3273178",
+      "fecha": "09 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tendrá México más relevancia por empresas de TI.- Slim Domit",
+      "resumen": "México tendrá más relevancia porque mucha de la inversión de empresas de TI en la región se quedará en México, dijo Slim Domit.",
+      "link": "https://www.reforma.com/tendra-mexico-mas-relevancia-por-empresas-de-ti-slim-domit/ar3273197",
+      "fecha": "09 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Preocupa a la Concanaco mayor fiscalización para 2027",
+      "resumen": "Ante la mayor fiscalización del Paquete Económico para 2027, las empresas requieren establecer mecanismos de cumplimiento, dijo Concanaco.",
+      "link": "https://www.reforma.com/preocupa-a-la-concanaco-mayor-fiscalizacion-para-2027/ar3273071",
+      "fecha": "09 Sep 2026, 11:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presentan el iPhone Duo, el primer teléfono plegable",
+      "resumen": "El iPhone Duo, el primero plegable de Apple, fue presentado, además de que se lanzaron los dispositivos 18 Pro y Pro Max.",
+      "link": "https://www.reforma.com/presentan-el-iphone-duo-el-primer-telefono-plegable/ar3273086",
+      "fecha": "09 Sep 2026, 12:05 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Proponen IEPS ¡al huachicol!",
-      "resumen": "A partir del próximo año, las ventas de gasolina y diesel cuyo origen no esté debidamente acreditado deberán pagar una cuota del IEPS.",
-      "link": "https://www.reforma.com/proponen-ieps-al-huachicol/ar3272843",
-      "fecha": "09 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bajarán los apoyos a Pemex en 2027",
-      "resumen": "En 2027, el Gobierno federal transferirá 81.1 mil millones de pesos a Pemex para apoyar a la empresa en el pago de amortizaciones de deuda.",
-      "link": "https://www.reforma.com/bajaran-los-apoyos-a-pemex-en-2027/ar3272827",
-      "fecha": "09 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Van contra deducciones para elevar recaudación",
-      "resumen": "A través de mayores candados a deducciones empresariales, Gobierno proyecta que ingresos tributarios alcancen $6.26 billones en 2027.",
-      "link": "https://www.reforma.com/van-contra-deducciones-para-elevar-recaudacion/ar3272837",
-      "fecha": "09 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Vincula Juez por fraude a mandos de Capital Tech",
-      "resumen": "Juez vinculó a proceso penal a Rogelio de los Santos, presidente del Consejo de Administración de Capital Tech, y a otros directivos.",
-      "link": "https://www.reforma.com/vincula-juez-por-fraude-a-mandos-de-capital-tech/ar3272945",
-      "fecha": "09 Sep 2026, 08:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera Brent los 100 dólares por escalada en Medio Oriente",
-      "resumen": "El crudo Brent para entrega en noviembre alcanzó brevemente los 100.19 dólares, por primera vez desde finales de julio.",
-      "link": "https://www.reforma.com/supera-brent-los-100-dolares-por-escalada-en-medio-oriente/ar3272931",
-      "fecha": "09 Sep 2026, 07:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pega a mercados de EU el alza del petróleo",
-      "resumen": "La Bolsa de Nueva York abrió en rojo debido al aumento de los precios del petróleo, que rebasaron nuevamente los 100 dólares.",
-      "link": "https://www.reforma.com/pega-a-mercados-de-eu-el-alza-del-petroleo/ar3272960",
-      "fecha": "09 Sep 2026, 08:56 hrs"
+      "titulo": "Gana crudo más de 3% y Brent cierra en 101.21 dólares",
+      "resumen": "El barril de Brent con vencimiento más próximo subió 3.36% y cerró en 101.21 dólares; mientras que el WTI superó los 96 dólares.",
+      "link": "https://www.reforma.com/gana-crudo-mas-de-3-y-brent-cierra-en-101-21-dolares/ar3273133",
+      "fecha": "09 Sep 2026, 12:52 hrs"
     }
   ]
 }
