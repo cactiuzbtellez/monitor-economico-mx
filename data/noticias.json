@@ -1,16 +1,7 @@
 {
-  "actualizado": "10/09/2026 04:43 hrs",
+  "actualizado": "10/09/2026 08:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
-      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
-      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
-      "fecha": "09 Sep 2026, 19:05 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
-      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
-      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
-      "fecha": "09 Sep 2026, 19:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
-      "resumen": "La nueva generación del SUV subcompacto de Kia incorpora por primera vez una versión híbrida, importada desde Corea, mientras las variantes a gasolina seguirán llegando desde China.",
-      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
-      "fecha": "09 Sep 2026, 19:36 hrs"
+      "titulo": "Adultos mayores son los ganadores del Paquete Económico 2027: prevén aumento para Pensiones del Bienestar",
+      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
+      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-preven-aumento-pensiones-bienestar",
+      "fecha": "08 Sep 2026, 21:33 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +129,42 @@
       "fecha": "09 Sep 2026, 08:00 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex no logra su meta de autosuficiencia y recibirá 81,100 mdp del gobierno en 2027",
+      "resumen": "La presidenta Claudia Sheinbaum, y el secretario de Hacienda, titular de Hacienda, dijeron en agosto del año pasado que Pemex ya no necesitaría recursos en 2027 para hacer frente a su deuda financiera…",
+      "link": "https://expansion.mx/empresas/2026/09/09/pemex-no-logra-su-meta-de-autosuficiencia-y-recibira-81-100-mdp-del-gobierno-en-2027",
+      "fecha": "09 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hacienda propone reducir 12% el costo del espectro radioeléctrico para impulsar el 5G en el país",
+      "resumen": "Tras años de mantener elevados los precios del espectro, el gobierno busca reducir el costo de bandas para 5G, en un intento por acelerar el despliegue de redes y acercar a México a los niveles de cob…",
+      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-reducir-costo-espectro-para-5g",
+      "fecha": "08 Sep 2026, 23:06 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden empresarios ampliar base fiscal",
+      "resumen": "Empresarios de diversos sectores urgieron a ampliar la base de recaudación y evitar que la carga fiscal recaiga siempre sobre los mismos.",
+      "link": "https://www.reforma.com/piden-empresarios-ampliar-base-fiscal/ar3273579",
+      "fecha": "10 Sep 2026, 07:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Subirá deuda a 55% del PIB en el 2027",
+      "resumen": "La deuda pública ampliada de México  aumentará de 54% del Producto Interno Bruto (PIB), estimado al cierre de 2026, a 55 por ciento en 2027.",
+      "link": "https://www.reforma.com/subira-deuda-a-55-del-pib-en-el-2027/ar3273545",
+      "fecha": "10 Sep 2026, 07:16 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,64 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ayudarían estímulos fiscales a tener más empresas en Bolsa",
-      "resumen": "Modificaciones regulatorias y fiscales para nuevas emisoras ayudarían a que compañías medianas y familiares entren al mercado bursátil.",
-      "link": "https://www.reforma.com/ayudarian-estimulos-fiscales-a-tener-mas-empresas-en-bolsa/ar3273347",
-      "fecha": "09 Sep 2026, 19:14 hrs"
+      "titulo": "Condicionan en aluminio pactar aranceles con EU",
+      "resumen": "Industriales mexicanos del aluminio y de EU condicionaron a sus respectivos Gobiernos para alcanzar un acuerdo.",
+      "link": "https://www.reforma.com/condicionan-en-aluminio-pactar-aranceles-con-eu/ar3273588",
+      "fecha": "10 Sep 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Aduanas cruce fronterizo entre México-EU",
-      "resumen": "La Agencia Nacional de Aduanas (ANAM) cerró el cruce que conecta el Puente Internacional Zaragoza en Matamoros con Brownsville, Texas.",
-      "link": "https://www.reforma.com/cierra-aduanas-cruce-fronterizo-entre-mexico-eu/ar3273322",
-      "fecha": "09 Sep 2026, 15:57 hrs"
+      "titulo": "Anuncia Liverpool alianza con Primark",
+      "resumen": "El Puerto de Liverpool anunció una alianza preliminar con Primark, para traer la marca a México bajo un modelo de franquicia.",
+      "link": "https://www.reforma.com/anuncia-liverpool-alianza-con-primark/ar3273688",
+      "fecha": "10 Sep 2026, 08:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta SHCP incremento explosivo en trayectoria de deuda",
-      "resumen": "México no tendrá un 'incremento explosivo' en la deuda debido a que existen coberturas de tasas y petroleras, aseguró subsecretaria de SHCP.",
-      "link": "https://www.reforma.com/descarta-shcp-incremento-explosivo-en-trayectoria-de-deuda/ar3273308",
-      "fecha": "09 Sep 2026, 15:45 hrs"
+      "titulo": "Sube crudo WTI más de 4% y supera los 100 dólares",
+      "resumen": "El barril de WTI avanzaba 4.39%, a 100.27 dólares, un nivel máximo desde mayo, mientras que el Brent subía 3.73%, a 104.99 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-wti-mas-de-4-y-supera-los-100-dolares/ar3273662",
+      "fecha": "10 Sep 2026, 07:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Candado a deducciones abusivas dará $140 mmdp extras",
-      "resumen": "Candado a deducciones empresariales abusivas permitirá recaudar cerca de 140 mil millones de pesos adicionales, aseguró SHCP.",
-      "link": "https://www.reforma.com/candado-a-deducciones-abusivas-dara-140-mmdp-extras/ar3273243",
-      "fecha": "09 Sep 2026, 14:34 hrs"
+      "titulo": "Arrancará en noviembre megaplanta de Lamosa",
+      "resumen": "En noviembre próximo, Lamosa pondrá en operación la primera etapa de su megaplanta en Tlaxcala.",
+      "link": "https://www.reforma.com/arrancara-en-noviembre-megaplanta-de-lamosa/ar3273583",
+      "fecha": "10 Sep 2026, 07:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tendrá México más relevancia por empresas de TI.- Slim Domit",
-      "resumen": "México tendrá más relevancia porque mucha de la inversión de empresas de TI en la región se quedará en México, dijo Slim Domit.",
-      "link": "https://www.reforma.com/tendra-mexico-mas-relevancia-por-empresas-de-ti-slim-domit/ar3273197",
-      "fecha": "09 Sep 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Incumplió México el TLCAN en el caso Vulcan, determina CIADI",
-      "resumen": "México incumplió sus obligaciones del TLCAN en su trato a las operaciones de piedra caliza de Vulcan Materials; deberá pagar 15.9 mdd.",
-      "link": "https://www.reforma.com/incumplio-mexico-el-tlcan-en-el-caso-vulcan-determina-ciadi/ar3273178",
-      "fecha": "09 Sep 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Gana crudo más de 3% y Brent cierra en 101.21 dólares",
-      "resumen": "El barril de Brent con vencimiento más próximo subió 3.36% y cerró en 101.21 dólares; mientras que el WTI superó los 96 dólares.",
-      "link": "https://www.reforma.com/gana-crudo-mas-de-3-y-brent-cierra-en-101-21-dolares/ar3273133",
-      "fecha": "09 Sep 2026, 12:52 hrs"
+      "titulo": "Comparten capitanes consejos a las pymes",
+      "resumen": "Líderes empresariales de Femsa, Bimbo, Proeza y Arca Continental compartieron con propietarios de pequeñas y medianas empresas.",
+      "link": "https://www.reforma.com/comparten-capitanes-consejos-a-las-pymes/ar3273585",
+      "fecha": "10 Sep 2026, 07:16 hrs"
     }
   ]
 }
