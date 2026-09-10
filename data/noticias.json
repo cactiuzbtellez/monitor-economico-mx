@@ -1,7 +1,52 @@
 {
-  "actualizado": "10/09/2026 08:51 hrs",
+  "actualizado": "10/09/2026 12:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México requiere transitar de la manufactura a la innovación",
+      "resumen": "A nivel internacional México tiene prestigio internacional por su plataforma manufacturera y el marco institucional que respeta la propiedad intelectual, pero le falta dar el salto a la innovación.",
+      "link": "https://expansion.mx/economia/2026/09/10/mexico-requiere-transitar-de-la-manufactura-a-la-innovacion",
+      "fecha": "10 Sep 2026, 11:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "China extiende la disputa por la nuez mexicana y mantiene aranceles de hasta 51.6% a las importaciones",
+      "resumen": "La investigación que debía concluir este mes seguirá abierta hasta marzo de 2027, mientras Beijing mantiene las medidas comerciales.",
+      "link": "https://expansion.mx/economia/2026/09/10/china-extiende-disputa-nuez-mexicana-aranceles",
+      "fecha": "10 Sep 2026, 10:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Heredar una casa entre hermanos puede complicarlo todo: qué pasa cuando nadie quiere vender",
+      "resumen": "Cuando una casa pasa a manos de varios hermanos, venderla no siempre es sencillo. Si uno se opone, existen alternativas legales para resolver la copropiedad y repartir el patrimonio.",
+      "link": "https://expansion.mx/economia/2026/09/10/testamento-no-evita-problemas-herencia-casa-entre-hermanos",
+      "fecha": "10 Sep 2026, 09:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda afina tiros contra factureras, pero el límite a deducciones pegará a empresas cumplidas",
+      "resumen": "Las empresas con ingresos superiores a 50 mdp enfrentarán el mayor impacto de una medida diseñada para cerrar espacios a la evasión y las facturas falsas.",
+      "link": "https://expansion.mx/economia/2026/09/10/hacienda-contra-factureras-limite-deducciones",
+      "fecha": "10 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
+      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
+      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
+      "fecha": "09 Sep 2026, 19:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -24,55 +69,28 @@
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Gasolineras y casetas podrían dejar de aceptar efectivo; la propuesta que cambiaría cómo pagas",
+      "titulo": "Gasolineras y casetas podrían decir adiós al dinero en efectivo; la propuesta que cambiaría tus pagos",
       "resumen": "La iniciativa de Ley de Economía Digital propone que Hacienda pueda definir sectores estratégicos donde los pagos se realicen exclusivamente por medios digitales.",
-      "link": "https://expansion.mx/economia/2026/09/09/gasolineras-casetas-no-efectivo-ley-economia-digital",
+      "link": "https://expansion.mx/economia/2026/09/010/dinero-efectivo-casetas-gasolineras-ley-economia-digital",
       "fecha": "09 Sep 2026, 15:23 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "54,000 empresas llevan cinco años declarando pérdidas; Hacienda endurece el ISR sin subir tasas",
-      "resumen": "El gobierno busca recaudar más con nuevos controles fiscales, ante indicios de que pequeños contribuyentes pagan proporcionalmente más que empresas con ingresos estables.",
-      "link": "https://expansion.mx/economia/2026/09/09/empresas-cinco-anos-perdidas-sat-pago-isr",
-      "fecha": "09 Sep 2026, 09:47 hrs"
+      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
+      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
+      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
+      "fecha": "09 Sep 2026, 19:44 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Inegi reporta inflación de 3.26% en agosto; la subyacente sorprende a la baja",
-      "resumen": "Se ubicó en 3.26% anual, mientras que el componente subyacente avanzó menos de lo previsto por el mercado. No obstante, los servicios, las colegiaturas y los alimentos procesados registran presiones.",
-      "link": "https://expansion.mx/economia/2026/09/09/inflacion-inegi-sorprende-baja-agosto",
-      "fecha": "09 Sep 2026, 07:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Menos crecimiento, más fiscalización a empresas y retos en deuda, las claves del Paquete Económico 2027",
-      "resumen": "Hacienda confía en que la inversión pública y las exportaciones impulsarán el PIB, mientras pone freno a empresas ya instaladas limitando deducciones y la deuda continua su trayectoria al alza.",
-      "link": "https://expansion.mx/economia/2026/09/09/paquete-economico-menos-economia-mas-fiscalizacion-deuda",
-      "fecha": "09 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sin impuestos nuevos para 2027, Hacienda apuesta por apretar ISR a empresas, y más inscripciones al RESICO",
-      "resumen": "Hacienda busca dinamizar la recaudación de ISR con límites a las deducciones de empresas, y una ampliación para registrarse en el RESICO y así integrar más micro y pequeños negocios a la formalidad.",
-      "link": "https://expansion.mx/economia/2026/09/08/impuestos-2027-hacienda-isr-empresas-mas-resico",
-      "fecha": "08 Sep 2026, 22:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Adultos mayores son los ganadores del Paquete Económico 2027: prevén aumento para Pensiones del Bienestar",
-      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-preven-aumento-pensiones-bienestar",
-      "fecha": "08 Sep 2026, 21:33 hrs"
+      "titulo": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
+      "resumen": "La nueva generación del SUV subcompacto de Kia incorpora por primera vez una versión híbrida, importada desde Corea, mientras las variantes a gasolina seguirán llegando desde China.",
+      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
+      "fecha": "09 Sep 2026, 19:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,22 +147,13 @@
       "fecha": "09 Sep 2026, 08:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex no logra su meta de autosuficiencia y recibirá 81,100 mdp del gobierno en 2027",
-      "resumen": "La presidenta Claudia Sheinbaum, y el secretario de Hacienda, titular de Hacienda, dijeron en agosto del año pasado que Pemex ya no necesitaría recursos en 2027 para hacer frente a su deuda financiera…",
-      "link": "https://expansion.mx/empresas/2026/09/09/pemex-no-logra-su-meta-de-autosuficiencia-y-recibira-81-100-mdp-del-gobierno-en-2027",
-      "fecha": "09 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hacienda propone reducir 12% el costo del espectro radioeléctrico para impulsar el 5G en el país",
-      "resumen": "Tras años de mantener elevados los precios del espectro, el gobierno busca reducir el costo de bandas para 5G, en un intento por acelerar el despliegue de redes y acercar a México a los niveles de cob…",
-      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-reducir-costo-espectro-para-5g",
-      "fecha": "08 Sep 2026, 23:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Destaca CCE como prioritario mantener el grado de inversión",
+      "resumen": "El CCE dijo que la prioridad para el País es mantener su grado de inversión y disminuir gradualmente el déficit público.",
+      "link": "https://www.reforma.com/destaca-cce-como-prioritario-mantener-el-grado-de-inversion/ar3273711",
+      "fecha": "10 Sep 2026, 09:12 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,28 +168,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Subirá deuda a 55% del PIB en el 2027",
-      "resumen": "La deuda pública ampliada de México  aumentará de 54% del Producto Interno Bruto (PIB), estimado al cierre de 2026, a 55 por ciento en 2027.",
-      "link": "https://www.reforma.com/subira-deuda-a-55-del-pib-en-el-2027/ar3273545",
-      "fecha": "10 Sep 2026, 07:16 hrs"
+      "titulo": "Confían en cerrar acuerdo con EU sobre aranceles este año",
+      "resumen": "Embajador de México en EU dijo que confían en cerrar un acuerdo antes de fin de año que baje las tarifas a productos como autos y aluminio.",
+      "link": "https://www.reforma.com/confian-en-cerrar-acuerdo-con-eu-sobre-aranceles-este-ano/ar3273754",
+      "fecha": "10 Sep 2026, 10:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla Pemex en autosuficiencia financiera",
-      "resumen": "Pemex no alcanzaría la autosuficiencia financiera prevista para 2027 y continuará dependiendo de transferencias del Gobierno federal.",
-      "link": "https://www.reforma.com/falla-pemex-en-autosuficiencia-financiera/ar3273463",
-      "fecha": "09 Sep 2026, 19:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Condicionan en aluminio pactar aranceles con EU",
-      "resumen": "Industriales mexicanos del aluminio y de EU condicionaron a sus respectivos Gobiernos para alcanzar un acuerdo.",
-      "link": "https://www.reforma.com/condicionan-en-aluminio-pactar-aranceles-con-eu/ar3273588",
-      "fecha": "10 Sep 2026, 07:16 hrs"
+      "titulo": "Amplía China investigación a nueces pecanas de México y EU",
+      "resumen": "China amplió a marzo de 2027 investigación antidumping sobre nueces pecanas procedentes de Estados Unidos y México.",
+      "link": "https://www.reforma.com/amplia-china-investigacion-a-nueces-pecanas-de-mexico-y-eu/ar3273776",
+      "fecha": "10 Sep 2026, 10:59 hrs"
     },
     {
       "fuente": "Reforma",
