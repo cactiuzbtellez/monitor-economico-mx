@@ -1,7 +1,16 @@
 {
-  "actualizado": "09/09/2026 23:40 hrs",
+  "actualizado": "10/09/2026 04:43 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
+      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
+      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
+      "fecha": "09 Sep 2026, 19:05 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adultos mayores son los ganadores del Paquete Económico 2027: prevén aumento para Pensiones del Bienestar",
-      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "link": "https://expansion.mx/economia/2026/09/08/paquete-economico-2027-preven-aumento-pensiones-bienestar",
-      "fecha": "08 Sep 2026, 21:33 hrs"
+      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
+      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
+      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
+      "fecha": "09 Sep 2026, 19:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
+      "resumen": "La nueva generación del SUV subcompacto de Kia incorpora por primera vez una versión híbrida, importada desde Corea, mientras las variantes a gasolina seguirán llegando desde China.",
+      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
+      "fecha": "09 Sep 2026, 19:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Si tienes menos de 500 pesos para internet estas son tus opciones con Telmex, Izzi, Totalplay y Megacable",
+      "resumen": "Antes de elegir un paquete de internet para casa conviene revisar no solo los Megas, sino también la velocidad de subida, las promociones y los servicios incluidos.",
+      "link": "https://expansion.mx/empresas/2026/09/09/menos-500-pesos-internet-telmex-izzi-totalplay-megacable",
+      "fecha": "09 Sep 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
@@ -118,33 +145,6 @@
       "resumen": "La Secretaría de Hacienda propone asignar 354.5 millones de pesos a la CRT en 2027, 29% menos que el último presupuesto aprobado para el extinto IFT.",
       "link": "https://expansion.mx/empresas/2026/09/09/crt-menos-presupuesto-2027",
       "fecha": "09 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex no logra su meta de autosuficiencia y recibirá 81,100 mdp del gobierno en 2027",
-      "resumen": "La presidenta Claudia Sheinbaum, y el secretario de Hacienda, titular de Hacienda, dijeron en agosto del año pasado que Pemex ya no necesitaría recursos en 2027 para hacer frente a su deuda financiera…",
-      "link": "https://expansion.mx/empresas/2026/09/09/pemex-no-logra-su-meta-de-autosuficiencia-y-recibira-81-100-mdp-del-gobierno-en-2027",
-      "fecha": "09 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hacienda propone reducir 12% el costo del espectro radioeléctrico para impulsar el 5G en el país",
-      "resumen": "Tras años de mantener elevados los precios del espectro, el gobierno busca reducir el costo de bandas para 5G, en un intento por acelerar el despliegue de redes y acercar a México a los niveles de cob…",
-      "link": "https://expansion.mx/empresas/2026/09/08/hacienda-propone-reducir-costo-espectro-para-5g",
-      "fecha": "08 Sep 2026, 23:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "FEMSA acelera la expansión de Bara en Jalisco con la construcción de un CEDIS",
-      "resumen": "El centro de distribución está en una extensión de más de 10,000 metros cuadrados y tendrá capacidad para surtir hasta 400 establecimientos.",
-      "link": "https://expansion.mx/empresas/2026/09/08/femsa-inversion-cedis-bara-jalisco-tiendas-descuento",
-      "fecha": "08 Sep 2026, 21:29 hrs"
     },
     {
       "fuente": "Reforma",
