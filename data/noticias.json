@@ -1,7 +1,43 @@
 {
-  "actualizado": "10/09/2026 12:07 hrs",
+  "actualizado": "10/09/2026 15:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
+      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
+      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
+      "fecha": "10 Sep 2026, 14:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "“No hay una renuncia a las deducciones”, asevera el  secretario de Hacienda, Édgar Amador Zamora",
+      "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
+      "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
+      "fecha": "10 Sep 2026, 14:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
+      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
+      "fecha": "10 Sep 2026, 13:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "T-MEC enfrentará años de turbulencia; México debe asegurar trato arancelario",
+      "resumen": "Kenneth Smith, del COMCE; Rogelio Arzate, de la ANPACT, y Leonardo Gómez, de la ANTP, apuestan a la eliminación de aranceles, fortalecer proveedores y dar certeza a la inversión.",
+      "link": "https://expansion.mx/economia/2026/09/10/t-mec-turbulencia-aranceles-reglas-origen",
+      "fecha": "10 Sep 2026, 12:32 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
-      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
-      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
-      "fecha": "09 Sep 2026, 19:05 hrs"
+      "titulo": "El béisbol ya hizo el cambio que ahora la Liga MX busca para atraer inversión",
+      "resumen": "La centralización de derechos, el crecimiento de las franquicias y el interés de los fondos están cambiando cuánto vale el deporte mexicano.",
+      "link": "https://expansion.mx/empresas/2026/09/10/beisbol-hizo-cambio-que-liga-mx-busca-para-inversion",
+      "fecha": "10 Sep 2026, 15:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pensiones que paga el gobierno alcanzarán 2.4 billones de pesos en 2027; adultos mayores, prioridad en paquete económico",
-      "resumen": "Con una asignación que equivale al 6% del PIB, el monto destinado al pago de pensiones es de los componentes más rígidos del presupuesto federal.",
-      "link": "https://expansion.mx/economia/2026/09/09/pensiones-bienestar-consumiran-gasto-publico-2027",
-      "fecha": "09 Sep 2026, 16:30 hrs"
+      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
+      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
+      "link": "https://expansion.mx/empresas/2026/09/10/geely-alia-ford-fabricar-autos-electricos",
+      "fecha": "10 Sep 2026, 13:32 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Descarta Hacienda un \"incremento explosivo”  de la deuda; alcanzará 55% del PIB en 2027",
-      "resumen": "Un día después de presentar el Paquete Económico 2027, la dependencia afirmó que hay un compromiso por parte del gobierno federal para mantener la “buena calificación” del crédito público.",
-      "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
-      "fecha": "09 Sep 2026, 16:22 hrs"
+      "titulo": "Trabajadores de Volkswagen podrían pasar a Olinia tras el recorte de un turno en la planta de Puebla",
+      "resumen": "El COE propone vincular a trabajadores afectados por Volkswagen con Olinia, mientras Puebla busca alternativas ante la pérdida de empleos.",
+      "link": "https://expansion.mx/empresas/2026/09/10/trabajadores-volkswagen-podrian-pasar-olinia",
+      "fecha": "10 Sep 2026, 10:50 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gasolineras y casetas podrían decir adiós al dinero en efectivo; la propuesta que cambiaría tus pagos",
-      "resumen": "La iniciativa de Ley de Economía Digital propone que Hacienda pueda definir sectores estratégicos donde los pagos se realicen exclusivamente por medios digitales.",
-      "link": "https://expansion.mx/economia/2026/09/010/dinero-efectivo-casetas-gasolineras-ley-economia-digital",
-      "fecha": "09 Sep 2026, 15:23 hrs"
+      "titulo": "Liverpool traerá Primark a México bajo un modelo de franquicia",
+      "resumen": "La cadena mexicana sumará a Primark a su portafolio de marcas globales, en una alianza que amplía su estrategia comercial y abre una nueva apuesta por la moda accesible.",
+      "link": "https://expansion.mx/empresas/2026/09/10/liverpool-primark-llegara-mexico",
+      "fecha": "10 Sep 2026, 10:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,22 @@
       "fecha": "09 Sep 2026, 16:45 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El presupuesto para el AIFA, obra insignia de la 4T, disminuye 31.37% en el Paquete Económico 2027",
-      "resumen": "El Aeropuerto Internacional Felipe Ángeles, inaugurado durante el gobierno de Andrés Manuel López Obrador, tendrá un ajuste presupuestario para 2027.",
-      "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
-      "fecha": "09 Sep 2026, 16:23 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Golpea Pemex a proveedores y exploración, señalan a Banxico",
+      "resumen": "Contratistas de Pemex se ven obligados a sacrificar precios y márgenes para asegurar el flujo de efectivo, expusieron directivos a Banxico.",
+      "link": "https://www.reforma.com/golpea-pemex-a-proveedores-y-exploracion-senalan-a-banxico/ar3274001",
+      "fecha": "10 Sep 2026, 15:21 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Este cereal mexicano compite contra Cheerios y Quaker en las listas de Profeco, pero pocos conocen cómo nació",
-      "resumen": "Una receta de trigo inflado dio paso a una empresa familiar que sobrevivió al paso de las generaciones y mantiene su identidad mexicana.",
-      "link": "https://expansion.mx/empresas/2026/09/09/chachitos-compite-listas-profeco-como-nacio",
-      "fecha": "09 Sep 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana volará con menos recursos mientras busca alcanzar la rentabilidad en 2027",
-      "resumen": "El gobierno propone asignar 1,012 millones de pesos a Mexicana en 2027, 43.2% menos en términos reales, mientras la aerolínea aún enfrenta pérdidas y busca consolidar su operación.",
-      "link": "https://expansion.mx/empresas/2026/09/09/mexicana-aviacion-tendra-menos-presupuesto-2027",
-      "fecha": "09 Sep 2026, 12:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La CRT enfrentaría el reto del 5G con un presupuesto austero para el próximo año",
-      "resumen": "La Secretaría de Hacienda propone asignar 354.5 millones de pesos a la CRT en 2027, 29% menos que el último presupuesto aprobado para el extinto IFT.",
-      "link": "https://expansion.mx/empresas/2026/09/09/crt-menos-presupuesto-2027",
-      "fecha": "09 Sep 2026, 08:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Llama Index a fomentar inversión con presupuesto",
+      "resumen": "Consejo Nacional de la Industria Maquiladora y Manufacturera de Exportación señaló que el Paquete Económico debe impulsar la inversión.",
+      "link": "https://www.reforma.com/llama-index-a-fomentar-inversion-con-presupuesto/ar3273978",
+      "fecha": "10 Sep 2026, 15:21 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,10 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden empresarios ampliar base fiscal",
-      "resumen": "Empresarios de diversos sectores urgieron a ampliar la base de recaudación y evitar que la carga fiscal recaiga siempre sobre los mismos.",
-      "link": "https://www.reforma.com/piden-empresarios-ampliar-base-fiscal/ar3273579",
-      "fecha": "10 Sep 2026, 07:16 hrs"
+      "titulo": "Amplía China investigación a nueces pecanas de México y EU",
+      "resumen": "China amplió a marzo de 2027 investigación antidumping sobre nueces pecanas procedentes de Estados Unidos y México.",
+      "link": "https://www.reforma.com/amplia-china-investigacion-a-nueces-pecanas-de-mexico-y-eu/ar3273776",
+      "fecha": "10 Sep 2026, 10:59 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,15 +195,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía China investigación a nueces pecanas de México y EU",
-      "resumen": "China amplió a marzo de 2027 investigación antidumping sobre nueces pecanas procedentes de Estados Unidos y México.",
-      "link": "https://www.reforma.com/amplia-china-investigacion-a-nueces-pecanas-de-mexico-y-eu/ar3273776",
-      "fecha": "10 Sep 2026, 10:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Anuncia Liverpool alianza con Primark",
       "resumen": "El Puerto de Liverpool anunció una alianza preliminar con Primark, para traer la marca a México bajo un modelo de franquicia.",
       "link": "https://www.reforma.com/anuncia-liverpool-alianza-con-primark/ar3273688",
@@ -195,28 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube crudo WTI más de 4% y supera los 100 dólares",
-      "resumen": "El barril de WTI avanzaba 4.39%, a 100.27 dólares, un nivel máximo desde mayo, mientras que el Brent subía 3.73%, a 104.99 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-wti-mas-de-4-y-supera-los-100-dolares/ar3273662",
-      "fecha": "10 Sep 2026, 07:23 hrs"
+      "titulo": "Apostará BIM por crédito hipotecario para personas físicas",
+      "resumen": "Banco Inmobiliario Mexicano alista su entrada al financiamiento de personas físicas mediante créditos hipotecarios individuales en 2027.",
+      "link": "https://www.reforma.com/apostara-bim-por-credito-hipotecario-para-personas-fisicas/ar3273998",
+      "fecha": "10 Sep 2026, 15:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arrancará en noviembre megaplanta de Lamosa",
-      "resumen": "En noviembre próximo, Lamosa pondrá en operación la primera etapa de su megaplanta en Tlaxcala.",
-      "link": "https://www.reforma.com/arrancara-en-noviembre-megaplanta-de-lamosa/ar3273583",
-      "fecha": "10 Sep 2026, 07:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Comparten capitanes consejos a las pymes",
-      "resumen": "Líderes empresariales de Femsa, Bimbo, Proeza y Arca Continental compartieron con propietarios de pequeñas y medianas empresas.",
-      "link": "https://www.reforma.com/comparten-capitanes-consejos-a-las-pymes/ar3273585",
-      "fecha": "10 Sep 2026, 07:16 hrs"
+      "titulo": "Defienden tequileros propuesta de IEPS",
+      "resumen": "Los tequileros consideran que la propuesta sobre el pago de IEPS debe enfocarse al alcohol contenido y no al valor de mercado.",
+      "link": "https://www.reforma.com/defienden-tequileros-propuesta-de-ieps/ar3273936",
+      "fecha": "10 Sep 2026, 15:19 hrs"
     }
   ]
 }
