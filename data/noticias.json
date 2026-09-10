@@ -1,43 +1,7 @@
 {
-  "actualizado": "10/09/2026 15:25 hrs",
+  "actualizado": "10/09/2026 17:45 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
-      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
-      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
-      "fecha": "10 Sep 2026, 14:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "“No hay una renuncia a las deducciones”, asevera el  secretario de Hacienda, Édgar Amador Zamora",
-      "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
-      "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
-      "fecha": "10 Sep 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
-      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
-      "fecha": "10 Sep 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "T-MEC enfrentará años de turbulencia; México debe asegurar trato arancelario",
-      "resumen": "Kenneth Smith, del COMCE; Rogelio Arzate, de la ANPACT, y Leonardo Gómez, de la ANTP, apuestan a la eliminación de aranceles, fortalecer proveedores y dar certeza a la inversión.",
-      "link": "https://expansion.mx/economia/2026/09/10/t-mec-turbulencia-aranceles-reglas-origen",
-      "fecha": "10 Sep 2026, 12:32 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +40,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "El béisbol ya hizo el cambio que ahora la Liga MX busca para atraer inversión",
-      "resumen": "La centralización de derechos, el crecimiento de las franquicias y el interés de los fondos están cambiando cuánto vale el deporte mexicano.",
-      "link": "https://expansion.mx/empresas/2026/09/10/beisbol-hizo-cambio-que-liga-mx-busca-para-inversion",
-      "fecha": "10 Sep 2026, 15:24 hrs"
+      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
+      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
+      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
+      "fecha": "09 Sep 2026, 19:05 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
-      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
-      "link": "https://expansion.mx/empresas/2026/09/10/geely-alia-ford-fabricar-autos-electricos",
-      "fecha": "10 Sep 2026, 13:32 hrs"
+      "titulo": "Pensiones que paga el gobierno alcanzarán 2.4 billones de pesos en 2027; adultos mayores, prioridad en paquete económico",
+      "resumen": "Con una asignación que equivale al 6% del PIB, el monto destinado al pago de pensiones es de los componentes más rígidos del presupuesto federal.",
+      "link": "https://expansion.mx/economia/2026/09/09/pensiones-bienestar-consumiran-gasto-publico-2027",
+      "fecha": "09 Sep 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Descarta Hacienda un \"incremento explosivo”  de la deuda; alcanzará 55% del PIB en 2027",
+      "resumen": "Un día después de presentar el Paquete Económico 2027, la dependencia afirmó que hay un compromiso por parte del gobierno federal para mantener la “buena calificación” del crédito público.",
+      "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
+      "fecha": "09 Sep 2026, 16:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolineras y casetas podrían decir adiós al dinero en efectivo; la propuesta que cambiaría tus pagos",
+      "resumen": "La iniciativa de Ley de Economía Digital propone que Hacienda pueda definir sectores estratégicos donde los pagos se realicen exclusivamente por medios digitales.",
+      "link": "https://expansion.mx/economia/2026/09/010/dinero-efectivo-casetas-gasolineras-ley-economia-digital",
+      "fecha": "09 Sep 2026, 15:23 hrs"
     },
     {
       "fuente": "Expansión",
@@ -107,7 +89,7 @@
       "color": "#C8102E",
       "titulo": "Liverpool traerá Primark a México bajo un modelo de franquicia",
       "resumen": "La cadena mexicana sumará a Primark a su portafolio de marcas globales, en una alianza que amplía su estrategia comercial y abre una nueva apuesta por la moda accesible.",
-      "link": "https://expansion.mx/empresas/2026/09/10/liverpool-primark-llegara-mexico",
+      "link": "https://expansion.mx/empresas/2026/09/10/primark-llega-mexico-liverpool",
       "fecha": "10 Sep 2026, 10:16 hrs"
     },
     {
@@ -147,12 +129,75 @@
       "fecha": "09 Sep 2026, 16:45 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El presupuesto para el AIFA, obra insignia de la 4T, disminuye 31.37% en el Paquete Económico 2027",
+      "resumen": "El Aeropuerto Internacional Felipe Ángeles, inaugurado durante el gobierno de Andrés Manuel López Obrador, tendrá un ajuste presupuestario para 2027.",
+      "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
+      "fecha": "09 Sep 2026, 16:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Este cereal mexicano compite contra Cheerios y Quaker en las listas de Profeco, pero pocos conocen cómo nació",
+      "resumen": "Una receta de trigo inflado dio paso a una empresa familiar que sobrevivió al paso de las generaciones y mantiene su identidad mexicana.",
+      "link": "https://expansion.mx/empresas/2026/09/09/chachitos-compite-listas-profeco-como-nacio",
+      "fecha": "09 Sep 2026, 15:12 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Golpea Pemex a proveedores y exploración, señalan a Banxico",
-      "resumen": "Contratistas de Pemex se ven obligados a sacrificar precios y márgenes para asegurar el flujo de efectivo, expusieron directivos a Banxico.",
-      "link": "https://www.reforma.com/golpea-pemex-a-proveedores-y-exploracion-senalan-a-banxico/ar3274001",
+      "titulo": "Cierra dólar en $16.98",
+      "resumen": "El dólar cerró este jueves con una cotización de $16.98; cifra 9.31 centavos mayor a lo registrado el miércoles.",
+      "link": "https://www.reforma.com/cierra-dolar-en-16-98/ar3274150",
+      "fecha": "10 Sep 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Preocupa a sector aéreo reducción de presupuesto de la AFAC",
+      "resumen": "Actores del sector aéreo manifestaron su preocupación por la reducción del 73 por ciento de presupuesto que tendrá la AFAC para 2027.",
+      "link": "https://www.reforma.com/preocupa-a-sector-aereo-reduccion-de-presupuesto-de-la-afac/ar3274116",
+      "fecha": "10 Sep 2026, 17:38 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Supera diésel por primera vez los 6 dólares por galón",
+      "resumen": "El precio promedio del diésel en EU superó por primera vez en la historia los 6 dólares por galón, según el comparador de precios GasBuddy.",
+      "link": "https://www.reforma.com/supera-diesel-por-primera-vez-los-6-dolares-por-galon/ar3274054",
+      "fecha": "10 Sep 2026, 15:39 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se dispara crudo más de 6% y el Brent supera los 107 dólares",
+      "resumen": "El barril de Brent cerró a 107.63 dólares, tras un alza de 6.34% respecto al día anterior, mientras que el WTI subió 6.69% a 102.48 dólares.",
+      "link": "https://www.reforma.com/se-dispara-crudo-mas-de-6-y-el-brent-supera-los-107-dolares/ar3274045",
+      "fecha": "10 Sep 2026, 15:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afecta Pemex a proveedores y exploración, señalan a Banxico",
+      "resumen": "Proveedores de Pemex expusieron a Banxico la afectación que les provocan los retrasos en pagos y restricciones a exploración y desarrollo.",
+      "link": "https://www.reforma.com/afecta-pemex-a-proveedores-y-exploracion-senalan-a-banxico/ar3274001",
+      "fecha": "10 Sep 2026, 15:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apostará BIM por crédito hipotecario para personas físicas",
+      "resumen": "Banco Inmobiliario Mexicano alista su entrada al financiamiento de personas físicas mediante créditos hipotecarios individuales en 2027.",
+      "link": "https://www.reforma.com/apostara-bim-por-credito-hipotecario-para-personas-fisicas/ar3273998",
       "fecha": "10 Sep 2026, 15:21 hrs"
     },
     {
@@ -168,55 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca CCE como prioritario mantener el grado de inversión",
-      "resumen": "El CCE dijo que la prioridad para el País es mantener su grado de inversión y disminuir gradualmente el déficit público.",
-      "link": "https://www.reforma.com/destaca-cce-como-prioritario-mantener-el-grado-de-inversion/ar3273711",
-      "fecha": "10 Sep 2026, 09:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amplía China investigación a nueces pecanas de México y EU",
-      "resumen": "China amplió a marzo de 2027 investigación antidumping sobre nueces pecanas procedentes de Estados Unidos y México.",
-      "link": "https://www.reforma.com/amplia-china-investigacion-a-nueces-pecanas-de-mexico-y-eu/ar3273776",
-      "fecha": "10 Sep 2026, 10:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Confían en cerrar acuerdo con EU sobre aranceles este año",
-      "resumen": "Embajador de México en EU dijo que confían en cerrar un acuerdo antes de fin de año que baje las tarifas a productos como autos y aluminio.",
-      "link": "https://www.reforma.com/confian-en-cerrar-acuerdo-con-eu-sobre-aranceles-este-ano/ar3273754",
-      "fecha": "10 Sep 2026, 10:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anuncia Liverpool alianza con Primark",
-      "resumen": "El Puerto de Liverpool anunció una alianza preliminar con Primark, para traer la marca a México bajo un modelo de franquicia.",
-      "link": "https://www.reforma.com/anuncia-liverpool-alianza-con-primark/ar3273688",
-      "fecha": "10 Sep 2026, 08:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apostará BIM por crédito hipotecario para personas físicas",
-      "resumen": "Banco Inmobiliario Mexicano alista su entrada al financiamiento de personas físicas mediante créditos hipotecarios individuales en 2027.",
-      "link": "https://www.reforma.com/apostara-bim-por-credito-hipotecario-para-personas-fisicas/ar3273998",
+      "titulo": "Presionan al consumo hasta lluvias",
+      "resumen": "El consumo seguirá bajo presión ante una desaceleración en el empleo y hasta por las fuertes lluvias, advirtió Ve por Más.",
+      "link": "https://www.reforma.com/presionan-al-consumo-hasta-lluvias/ar3273944",
       "fecha": "10 Sep 2026, 15:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Defienden tequileros propuesta de IEPS",
-      "resumen": "Los tequileros consideran que la propuesta sobre el pago de IEPS debe enfocarse al alcohol contenido y no al valor de mercado.",
-      "link": "https://www.reforma.com/defienden-tequileros-propuesta-de-ieps/ar3273936",
-      "fecha": "10 Sep 2026, 15:19 hrs"
     }
   ]
 }
