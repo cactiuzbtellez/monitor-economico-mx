@@ -1,150 +1,159 @@
 {
-  "actualizado": "11/09/2026 07:16 hrs",
+  "actualizado": "11/09/2026 11:33 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Hacienda afina tiros contra factureras, pero el límite a deducciones pegará a empresas cumplidas",
-      "resumen": "Las empresas con ingresos superiores a 50 mdp enfrentarán el mayor impacto de una medida diseñada para cerrar espacios a la evasión y las facturas falsas.",
-      "link": "https://expansion.mx/economia/2026/09/10/hacienda-contra-factureras-limite-deducciones",
-      "fecha": "10 Sep 2026, 05:55 hrs"
+      "titulo": "CEO de Banamex, Edgardo del Rincón, vuelve a “casa” para cambiar la cultura del banco",
+      "resumen": "El nuevo CEO regresa al banco donde comenzó su carrera con la misión de simplificar procesos, recuperar participación de mercado y prepararlo para una nueva etapa como institución independiente.",
+      "link": "https://expansion.mx/economia/2026/09/10/edgardo-del-rincon-cambiar-cultura-banamex",
+      "fecha": "10 Sep 2026, 19:10 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Inversión privada puede frenarse por límites a deducciones fiscales: analistas de BBVA y Banamex",
-      "resumen": "Especialistas señalaron que limitar las deducciones empresariales podría desalentar la inversión privada, mientras la deuda y el apoyo a Pemex siguen presionando las finanzas públicas.",
-      "link": "https://expansion.mx/economia/2026/09/09/inversion-privada-frenarse-limites-deducciones-fiscales",
-      "fecha": "09 Sep 2026, 19:05 hrs"
+      "titulo": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
+      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
+      "link": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
+      "fecha": "10 Sep 2026, 15:20 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Pensiones que paga el gobierno alcanzarán 2.4 billones de pesos en 2027; adultos mayores, prioridad en paquete económico",
-      "resumen": "Con una asignación que equivale al 6% del PIB, el monto destinado al pago de pensiones es de los componentes más rígidos del presupuesto federal.",
-      "link": "https://expansion.mx/economia/2026/09/09/pensiones-bienestar-consumiran-gasto-publico-2027",
-      "fecha": "09 Sep 2026, 16:30 hrs"
+      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
+      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
+      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
+      "fecha": "10 Sep 2026, 14:56 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Descarta Hacienda un \"incremento explosivo”  de la deuda; alcanzará 55% del PIB en 2027",
-      "resumen": "Un día después de presentar el Paquete Económico 2027, la dependencia afirmó que hay un compromiso por parte del gobierno federal para mantener la “buena calificación” del crédito público.",
-      "link": "https://expansion.mx/economia/2026/09/09/hacienda-deuda-mexico-55-pib-2027",
-      "fecha": "09 Sep 2026, 16:22 hrs"
+      "titulo": "“No hay una renuncia a las deducciones”, asevera el  secretario de Hacienda, Édgar Amador Zamora",
+      "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
+      "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
+      "fecha": "10 Sep 2026, 14:44 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Gasolineras y casetas podrían decir adiós al dinero en efectivo; la propuesta que cambiaría tus pagos",
-      "resumen": "La iniciativa de Ley de Economía Digital propone que Hacienda pueda definir sectores estratégicos donde los pagos se realicen exclusivamente por medios digitales.",
-      "link": "https://expansion.mx/economia/2026/09/010/dinero-efectivo-casetas-gasolineras-ley-economia-digital",
-      "fecha": "09 Sep 2026, 15:23 hrs"
+      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
+      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
+      "fecha": "10 Sep 2026, 13:07 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "54,000 empresas llevan cinco años declarando pérdidas; Hacienda endurece el ISR sin subir tasas",
-      "resumen": "El gobierno busca recaudar más con nuevos controles fiscales, ante indicios de que pequeños contribuyentes pagan proporcionalmente más que empresas con ingresos estables.",
-      "link": "https://expansion.mx/economia/2026/09/09/empresas-cinco-anos-perdidas-sat-pago-isr",
-      "fecha": "09 Sep 2026, 09:47 hrs"
+      "titulo": "T-MEC enfrentará años de turbulencia; México debe asegurar trato arancelario",
+      "resumen": "Kenneth Smith, del COMCE; Rogelio Arzate, de la ANPACT, y Leonardo Gómez, de la ANTP, apuestan a la eliminación de aranceles, fortalecer proveedores y dar certeza a la inversión.",
+      "link": "https://expansion.mx/economia/2026/09/10/t-mec-turbulencia-aranceles-reglas-origen",
+      "fecha": "10 Sep 2026, 12:32 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Inegi reporta inflación de 3.26% en agosto; la subyacente sorprende a la baja",
-      "resumen": "Se ubicó en 3.26% anual, mientras que el componente subyacente avanzó menos de lo previsto por el mercado. No obstante, los servicios, las colegiaturas y los alimentos procesados registran presiones.",
-      "link": "https://expansion.mx/economia/2026/09/09/inflacion-inegi-sorprende-baja-agosto",
-      "fecha": "09 Sep 2026, 07:36 hrs"
+      "titulo": "México requiere transitar de la manufactura a la innovación",
+      "resumen": "A nivel internacional México tiene prestigio internacional por su plataforma manufacturera y el marco institucional que respeta la propiedad intelectual, pero le falta dar el salto a la innovación.",
+      "link": "https://expansion.mx/economia/2026/09/10/mexico-requiere-transitar-de-la-manufactura-a-la-innovacion",
+      "fecha": "10 Sep 2026, 11:52 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Menos crecimiento, más fiscalización a empresas y retos en deuda, las claves del Paquete Económico 2027",
-      "resumen": "Hacienda confía en que la inversión pública y las exportaciones impulsarán el PIB, mientras pone freno a empresas ya instaladas limitando deducciones y la deuda continua su trayectoria al alza.",
-      "link": "https://expansion.mx/economia/2026/09/09/paquete-economico-menos-economia-mas-fiscalizacion-deuda",
-      "fecha": "09 Sep 2026, 05:55 hrs"
+      "titulo": "China extiende la disputa por la nuez mexicana y mantiene aranceles de hasta 51.6% a las importaciones",
+      "resumen": "La investigación que debía concluir este mes seguirá abierta hasta marzo de 2027, mientras Beijing mantiene las medidas comerciales.",
+      "link": "https://expansion.mx/economia/2026/09/10/china-extiende-disputa-nuez-mexicana-aranceles",
+      "fecha": "10 Sep 2026, 10:31 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
-      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
-      "link": "https://expansion.mx/empresas/2026/09/09/vitacilina-historia-ahora-vende-skincare-productos-cabello",
-      "fecha": "09 Sep 2026, 19:44 hrs"
+      "titulo": "La chelada lleva años en México, pero Victoria ahora quiere venderla lista como en el tianguis",
+      "resumen": "Victoria Chelada Limón y Sal ya se distribuye a nivel nacional y entra a un segmento donde su competidor y la familia Vicky ya ofrecen mezclas listas para beber.",
+      "link": "https://expansion.mx/empresas/2026/09/11/victoria-chelada-limon-sal-tianguis",
+      "fecha": "11 Sep 2026, 10:24 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Kia lanza Seltos híbrida: llega a México con un precio de menos de 700,000 pesos",
-      "resumen": "La nueva generación del SUV subcompacto de Kia incorpora por primera vez una versión híbrida, importada desde Corea, mientras las variantes a gasolina seguirán llegando desde China.",
-      "link": "https://expansion.mx/empresas/2026/09/09/kia-lanza-seltos-hibrida-precio-mexico",
-      "fecha": "09 Sep 2026, 19:36 hrs"
+      "titulo": "Telnor, filial de Telmex, despide a 200 trabajadores en medio de presiones financieras",
+      "resumen": "La filial de Telmex despidió a 200 trabajadores en Baja California y Sonora y ofreció liquidarlos al 100% a cambio de su renuncia; el sindicato acusa despidos injustificados.",
+      "link": "https://expansion.mx/empresas/2026/09/11/telmex-sindicato-telnor-despide-200-trabajadores",
+      "fecha": "11 Sep 2026, 10:02 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Si tienes menos de 500 pesos para internet estas son tus opciones con Telmex, Izzi, Totalplay y Megacable",
-      "resumen": "Antes de elegir un paquete de internet para casa conviene revisar no solo los Megas, sino también la velocidad de subida, las promociones y los servicios incluidos.",
-      "link": "https://expansion.mx/empresas/2026/09/09/menos-500-pesos-internet-telmex-izzi-totalplay-megacable",
-      "fecha": "09 Sep 2026, 17:29 hrs"
+      "titulo": "Nissan March baja de precio y se convierte en el segundo auto más barato de México",
+      "resumen": "El March cuesta 69,910 pesos menos que su precio de lista y se coloca como el segundo auto nuevo más barato de México.",
+      "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-precio",
+      "fecha": "11 Sep 2026, 07:46 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Alberto Baillères comenzó como office boy en Bancomer y terminó construyendo un imperio de miles de millones",
-      "resumen": "Antes de convertirse en referente del empresariado mexicano, recorrió distintas áreas, estudió Economía y aprendió el negocio desde abajo.",
-      "link": "https://expansion.mx/empresas/2026/09/09/alberto-bailleres-office-boy-bancomer-historia-empresarial",
-      "fecha": "09 Sep 2026, 16:45 hrs"
+      "titulo": "México quiere acelerar el 5G, pero bajar 12% el costo del espectro radioeléctrico sería insuficiente",
+      "resumen": "Aunque Hacienda plantea una reducción de 12% en el costo del espectro, especialistas estiman que las frecuencias todavía tienen un sobreprecio de alrededor de 50%, lo que podría limitar la inversión e…",
+      "link": "https://expansion.mx/empresas/2026/09/11/mexico-acelerar-5g-bajar-espectro-seria-insuficiente",
+      "fecha": "11 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El presupuesto para el AIFA, obra insignia de la 4T, disminuye 31.37% en el Paquete Económico 2027",
-      "resumen": "El Aeropuerto Internacional Felipe Ángeles, inaugurado durante el gobierno de Andrés Manuel López Obrador, tendrá un ajuste presupuestario para 2027.",
-      "link": "https://expansion.mx/empresas/2026/09/09/aifa-presupuesto-2027-paquete-economico-2027",
-      "fecha": "09 Sep 2026, 16:23 hrs"
+      "titulo": "Empresas podrán deducir más por capacitar técnicos, aunque el estímulo no resuelve por sí solo la escasez de perfiles",
+      "resumen": "La reforma al ISR incluida en el Paquete Económico 2027 daría deducciones a las empresas que aumenten su inversión en capacitación técnica.",
+      "link": "https://expansion.mx/empresas/2026/09/11/plan-mexico-deducciones-capacitacion-tecnica",
+      "fecha": "11 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Este cereal mexicano compite contra Cheerios y Quaker en las listas de Profeco, pero pocos conocen cómo nació",
-      "resumen": "Una receta de trigo inflado dio paso a una empresa familiar que sobrevivió al paso de las generaciones y mantiene su identidad mexicana.",
-      "link": "https://expansion.mx/empresas/2026/09/09/chachitos-compite-listas-profeco-como-nacio",
-      "fecha": "09 Sep 2026, 15:12 hrs"
+      "titulo": "Los trenes buscan ganar terreno al camión con inversión en carga refrigerada",
+      "resumen": "La industria ferroviaria busca elevar su participación en la carga nacional de 26% a 40% hacia 2030 con infraestructura y más de 1,000 contenedores refrigerados.",
+      "link": "https://expansion.mx/empresas/2026/09/10/trenes-ganar-terreno-al-camion-inversion-carga-refrigerada",
+      "fecha": "10 Sep 2026, 19:46 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mexicana volará con menos recursos mientras busca alcanzar la rentabilidad en 2027",
-      "resumen": "El gobierno propone asignar 1,012 millones de pesos a Mexicana en 2027, 43.2% menos en términos reales, mientras la aerolínea aún enfrenta pérdidas y busca consolidar su operación.",
-      "link": "https://expansion.mx/empresas/2026/09/09/mexicana-aviacion-tendra-menos-presupuesto-2027",
-      "fecha": "09 Sep 2026, 12:21 hrs"
+      "titulo": "Coppel, Lala, Banamex, TCL y Gentera tienen más datos que nunca, pero simplificar la compra sigue siendo su reto",
+      "resumen": "Las empresas recopilan datos para anticipar qué necesita cada cliente, pero el volumen de información también dificulta elegir qué problemas resolver y cómo simplificar una compra o un servicio.",
+      "link": "https://expansion.mx/empresas/2026/09/10/cliente-inteligente-empresas-summit-2026",
+      "fecha": "10 Sep 2026, 18:34 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La CRT enfrentaría el reto del 5G con un presupuesto austero para el próximo año",
-      "resumen": "La Secretaría de Hacienda propone asignar 354.5 millones de pesos a la CRT en 2027, 29% menos que el último presupuesto aprobado para el extinto IFT.",
-      "link": "https://expansion.mx/empresas/2026/09/09/crt-menos-presupuesto-2027",
-      "fecha": "09 Sep 2026, 08:00 hrs"
+      "titulo": "LitioMX enfrentará otro año sin dinero para desarrollar el litio mexicano",
+      "resumen": "El presupuesto propuesto para 2027 deja a LitioMX sin recursos para explorar, invertir o desarrollar proyectos de extracción, pese a que la dependencia fue creada para impulsar la cadena de valor del …",
+      "link": "https://expansion.mx/empresas/2026/09/10/litiomx-enfrentara-otro-ano-sin-dinero-para-desarrollar-el-litio-mexicano",
+      "fecha": "10 Sep 2026, 17:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan México y EU acelerar acuerdo comercial",
+      "resumen": "EU y México se apresuran a alcanzar un acuerdo comercial bilateral antes de las elecciones legislativas estadounidenses de mitad de mandato.",
+      "link": "https://www.reforma.com/buscan-mexico-y-eu-acelerar-acuerdo-comercial/ar3274466",
+      "fecha": "11 Sep 2026, 07:45 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,15 +186,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tope a deducción es para empresas con utilidad fiscal.- SAT",
-      "resumen": "SAT aclaró que mecanismo de poner un tope a las deducciones empresariales aplicaría únicamente a empresas que determinen utilidad fiscal.",
-      "link": "https://www.reforma.com/tope-a-deduccion-es-para-empresas-con-utilidad-fiscal-sat/ar3274221",
-      "fecha": "10 Sep 2026, 18:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Buscan contener la subvaluación",
       "resumen": "Iniciativa de reforma a Ley Aduanera, el Gobierno federal busca reforzar el marco regulatorio para combatir la subvaluación de mercancías.",
       "link": "https://www.reforma.com/buscan-contener-la-subvaluacion/ar3274269",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pega recaudación fiscal a empresas formales",
-      "resumen": "Ajustes fiscales que el Gobierno federal quiere implementar a partir de 2027 aumentarán la recaudación a costa de sacrificar a las empresas.",
-      "link": "https://www.reforma.com/pega-recaudacion-fiscal-a-empresas-formales/ar3274297",
-      "fecha": "11 Sep 2026, 06:58 hrs"
+      "titulo": "Caen precios del crudo; perfilan alza semanal de más del 7%",
+      "resumen": "Los futuros del crudo Brent bajaban 3.48%, a 103.88 dólares el barril, mientras que el West Texas Intermediate caía 3.25%, a 99.15 dólares.",
+      "link": "https://www.reforma.com/caen-precios-del-crudo-perfilan-alza-semanal-de-mas-del-7/ar3274462",
+      "fecha": "11 Sep 2026, 07:27 hrs"
     },
     {
       "fuente": "Reforma",
