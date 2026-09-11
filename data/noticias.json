@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/09/2026 14:31 hrs",
+  "actualizado": "11/09/2026 16:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -186,15 +186,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan México y EU acelerar acuerdo comercial",
-      "resumen": "EU y México se apresuran a alcanzar un acuerdo comercial bilateral antes de las elecciones legislativas estadounidenses de mitad de mandato.",
-      "link": "https://www.reforma.com/buscan-mexico-y-eu-acelerar-acuerdo-comercial/ar3274466",
-      "fecha": "11 Sep 2026, 07:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Crecerá energía eólica 84% al cierre de 2030",
       "resumen": "México prevé alcanzar una capacidad de generación de energía eólica de 15 mil megawatts (MW) para el año 2030, según Sener.",
       "link": "https://www.reforma.com/crecera-energia-eolica-84-al-cierre-de-2030/ar3274627",
@@ -204,10 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Coloca Cox emisión mixta por 800 mdd",
-      "resumen": "Cox Asset México realizó una emisión de capital híbrido por 800 millones de dólares en el mercado estadounidense.",
-      "link": "https://www.reforma.com/coloca-cox-emision-mixta-por-800-mdd/ar3274630",
-      "fecha": "11 Sep 2026, 14:23 hrs"
+      "titulo": "Cierra crudo la semana arriba de los 100 dólares",
+      "resumen": "El precio del Brent disminuyó 2.81% a 104.61 dólares, mientras que el barril de West Texas Intermediate retrocedió 2.37% a 100.05 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-la-semana-arriba-de-los-100-dolares/ar3274681",
+      "fecha": "11 Sep 2026, 14:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan México y EU acelerar acuerdo comercial",
+      "resumen": "EU y México se apresuran a alcanzar un acuerdo comercial bilateral antes de las elecciones legislativas estadounidenses de mitad de mandato.",
+      "link": "https://www.reforma.com/buscan-mexico-y-eu-acelerar-acuerdo-comercial/ar3274466",
+      "fecha": "11 Sep 2026, 07:45 hrs"
     },
     {
       "fuente": "Reforma",
