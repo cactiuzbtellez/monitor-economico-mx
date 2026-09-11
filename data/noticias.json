@@ -1,7 +1,16 @@
 {
-  "actualizado": "10/09/2026 21:15 hrs",
+  "actualizado": "11/09/2026 02:37 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
+      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
+      "link": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
+      "fecha": "10 Sep 2026, 15:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda afina tiros contra factureras, pero el límite a deducciones pegará a empresas cumplidas",
-      "resumen": "Las empresas con ingresos superiores a 50 mdp enfrentarán el mayor impacto de una medida diseñada para cerrar espacios a la evasión y las facturas falsas.",
-      "link": "https://expansion.mx/economia/2026/09/10/hacienda-contra-factureras-limite-deducciones",
-      "fecha": "10 Sep 2026, 05:55 hrs"
+      "titulo": "LitioMX enfrentará otro año sin dinero para desarrollar el litio mexicano",
+      "resumen": "El presupuesto propuesto para 2027 deja a LitioMX sin recursos para explorar, invertir o desarrollar proyectos de extracción, pese a que la dependencia fue creada para impulsar la cadena de valor del …",
+      "link": "https://expansion.mx/empresas/2026/09/10/litiomx-enfrentara-otro-ano-sin-dinero-para-desarrollar-el-litio-mexicano",
+      "fecha": "10 Sep 2026, 17:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "Antes de elegir un paquete de internet para casa conviene revisar no solo los Megas, sino también la velocidad de subida, las promociones y los servicios incluidos.",
       "link": "https://expansion.mx/empresas/2026/09/09/menos-500-pesos-internet-telmex-izzi-totalplay-megacable",
       "fecha": "09 Sep 2026, 17:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Alberto Baillères comenzó como office boy en Bancomer y terminó construyendo un imperio de miles de millones",
-      "resumen": "Antes de convertirse en referente del empresariado mexicano, recorrió distintas áreas, estudió Economía y aprendió el negocio desde abajo.",
-      "link": "https://expansion.mx/empresas/2026/09/09/alberto-bailleres-office-boy-bancomer-historia-empresarial",
-      "fecha": "09 Sep 2026, 16:45 hrs"
     },
     {
       "fuente": "Reforma",
