@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/09/2026 05:29 hrs",
+  "actualizado": "12/09/2026 09:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
+      "resumen": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
+      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
+      "fecha": "11 Sep 2026, 18:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
+      "resumen": "Advierten que los fraudes pueden comenzar con un SMS, correo, llamada o enlace falso que busca instalar programas maliciosos en el celular y obtener claves o códigos de seguridad",
+      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
+      "fecha": "11 Sep 2026, 15:37 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "T-MEC enfrentará años de turbulencia; México debe asegurar trato arancelario",
-      "resumen": "Kenneth Smith, del COMCE; Rogelio Arzate, de la ANPACT, y Leonardo Gómez, de la ANTP, apuestan a la eliminación de aranceles, fortalecer proveedores y dar certeza a la inversión.",
-      "link": "https://expansion.mx/economia/2026/09/10/t-mec-turbulencia-aranceles-reglas-origen",
-      "fecha": "10 Sep 2026, 12:32 hrs"
+      "titulo": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
+      "resumen": "La operación forma parte de un giro estratégico con el que la marca deportiva busca recuperar rentabilidad y flujo de efectivo ante un mercado más exigente.",
+      "link": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
+      "fecha": "11 Sep 2026, 19:50 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México requiere transitar de la manufactura a la innovación",
-      "resumen": "A nivel internacional México tiene prestigio internacional por su plataforma manufacturera y el marco institucional que respeta la propiedad intelectual, pero le falta dar el salto a la innovación.",
-      "link": "https://expansion.mx/economia/2026/09/10/mexico-requiere-transitar-de-la-manufactura-a-la-innovacion",
-      "fecha": "10 Sep 2026, 11:52 hrs"
+      "titulo": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
+      "resumen": "Entre marzo y agosto, la petrolera estatal ha perdido 10,541 millones de pesos por los descuentos en sus terminales.",
+      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
+      "fecha": "11 Sep 2026, 16:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
+      "resumen": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
+      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
+      "fecha": "11 Sep 2026, 15:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
+      "resumen": "La llegada de nuevos jugadores al mercado mexicano está cambiando la competencia por conquistar a quienes buscan dar el salto a la movilidad eléctrica.",
+      "link": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
+      "fecha": "11 Sep 2026, 13:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
+      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
+      "link": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
+      "fecha": "11 Sep 2026, 13:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
+      "resumen": "Esta cadena ofrece a sus afiliados la posibilidad de solicitar reembolsos hasta un año después de haber realizado la compra, dependiendo del producto.",
+      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
+      "fecha": "11 Sep 2026, 12:33 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,60 +145,6 @@
       "resumen": "La filial de Telmex despidió a 200 trabajadores en Baja California y Sonora y ofreció liquidarlos al 100% a cambio de su renuncia; el sindicato acusa despidos injustificados.",
       "link": "https://expansion.mx/empresas/2026/09/11/telmex-sindicato-telnor-despide-200-trabajadores",
       "fecha": "11 Sep 2026, 10:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan March baja de precio y se convierte en el segundo auto más barato de México",
-      "resumen": "El March cuesta 69,910 pesos menos que su precio de lista y se coloca como el segundo auto nuevo más barato de México.",
-      "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-precio",
-      "fecha": "11 Sep 2026, 07:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México quiere acelerar el 5G, pero bajar 12% el costo del espectro radioeléctrico sería insuficiente",
-      "resumen": "Aunque Hacienda plantea una reducción de 12% en el costo del espectro, especialistas estiman que las frecuencias todavía tienen un sobreprecio de alrededor de 50%, lo que podría limitar la inversión e…",
-      "link": "https://expansion.mx/empresas/2026/09/11/mexico-acelerar-5g-bajar-espectro-seria-insuficiente",
-      "fecha": "11 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Empresas podrán deducir más por capacitar técnicos, aunque el estímulo no resuelve por sí solo la escasez de perfiles",
-      "resumen": "La reforma al ISR incluida en el Paquete Económico 2027 daría deducciones a las empresas que aumenten su inversión en capacitación técnica.",
-      "link": "https://expansion.mx/empresas/2026/09/11/plan-mexico-deducciones-capacitacion-tecnica",
-      "fecha": "11 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los trenes buscan ganar terreno al camión con inversión en carga refrigerada",
-      "resumen": "La industria ferroviaria busca elevar su participación en la carga nacional de 26% a 40% hacia 2030 con infraestructura y más de 1,000 contenedores refrigerados.",
-      "link": "https://expansion.mx/empresas/2026/09/10/trenes-ganar-terreno-al-camion-inversion-carga-refrigerada",
-      "fecha": "10 Sep 2026, 19:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coppel, Lala, Banamex, TCL y Gentera tienen más datos que nunca, pero simplificar la compra sigue siendo su reto",
-      "resumen": "Las empresas recopilan datos para anticipar qué necesita cada cliente, pero el volumen de información también dificulta elegir qué problemas resolver y cómo simplificar una compra o un servicio.",
-      "link": "https://expansion.mx/empresas/2026/09/10/cliente-inteligente-empresas-summit-2026",
-      "fecha": "10 Sep 2026, 18:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "LitioMX enfrentará otro año sin dinero para desarrollar el litio mexicano",
-      "resumen": "El presupuesto propuesto para 2027 deja a LitioMX sin recursos para explorar, invertir o desarrollar proyectos de extracción, pese a que la dependencia fue creada para impulsar la cadena de valor del …",
-      "link": "https://expansion.mx/empresas/2026/09/10/litiomx-enfrentara-otro-ano-sin-dinero-para-desarrollar-el-litio-mexicano",
-      "fecha": "10 Sep 2026, 17:36 hrs"
     },
     {
       "fuente": "Reforma",
