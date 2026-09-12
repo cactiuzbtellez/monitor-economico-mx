@@ -1,7 +1,25 @@
 {
-  "actualizado": "11/09/2026 16:59 hrs",
+  "actualizado": "11/09/2026 19:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
+      "resumen": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
+      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
+      "fecha": "11 Sep 2026, 18:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
+      "resumen": "Advierten que los fraudes pueden comenzar con un SMS, correo, llamada o enlace falso que busca instalar programas maliciosos en el celular y obtener claves o códigos de seguridad",
+      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
+      "fecha": "11 Sep 2026, 15:37 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "T-MEC enfrentará años de turbulencia; México debe asegurar trato arancelario",
-      "resumen": "Kenneth Smith, del COMCE; Rogelio Arzate, de la ANPACT, y Leonardo Gómez, de la ANTP, apuestan a la eliminación de aranceles, fortalecer proveedores y dar certeza a la inversión.",
-      "link": "https://expansion.mx/economia/2026/09/10/t-mec-turbulencia-aranceles-reglas-origen",
-      "fecha": "10 Sep 2026, 12:32 hrs"
+      "titulo": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
+      "resumen": "Entre marzo y agosto, la petrolera estatal ha perdido 10,541 millones de pesos por los descuentos en sus terminales.",
+      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
+      "fecha": "11 Sep 2026, 16:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México requiere transitar de la manufactura a la innovación",
-      "resumen": "A nivel internacional México tiene prestigio internacional por su plataforma manufacturera y el marco institucional que respeta la propiedad intelectual, pero le falta dar el salto a la innovación.",
-      "link": "https://expansion.mx/economia/2026/09/10/mexico-requiere-transitar-de-la-manufactura-a-la-innovacion",
-      "fecha": "10 Sep 2026, 11:52 hrs"
+      "titulo": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
+      "resumen": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
+      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
+      "fecha": "11 Sep 2026, 15:51 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "El March cuesta 69,910 pesos menos que su precio de lista y se coloca como el segundo auto nuevo más barato de México.",
       "link": "https://expansion.mx/empresas/2026/09/08/nissan-march-baja-precio",
       "fecha": "11 Sep 2026, 07:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México quiere acelerar el 5G, pero bajar 12% el costo del espectro radioeléctrico sería insuficiente",
-      "resumen": "Aunque Hacienda plantea una reducción de 12% en el costo del espectro, especialistas estiman que las frecuencias todavía tienen un sobreprecio de alrededor de 50%, lo que podría limitar la inversión e…",
-      "link": "https://expansion.mx/empresas/2026/09/11/mexico-acelerar-5g-bajar-espectro-seria-insuficiente",
-      "fecha": "11 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Empresas podrán deducir más por capacitar técnicos, aunque el estímulo no resuelve por sí solo la escasez de perfiles",
-      "resumen": "La reforma al ISR incluida en el Paquete Económico 2027 daría deducciones a las empresas que aumenten su inversión en capacitación técnica.",
-      "link": "https://expansion.mx/empresas/2026/09/11/plan-mexico-deducciones-capacitacion-tecnica",
-      "fecha": "11 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
