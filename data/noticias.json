@@ -1,16 +1,7 @@
 {
-  "actualizado": "14/09/2026 05:56 hrs",
+  "actualizado": "14/09/2026 11:54 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
-      "resumen": "Mientras el sindicato mayoritario mantiene su postura sobre el conflicto laboral, otra organización de trabajadores pide levantar la huelga y regresar a las actividades.",
-      "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
-      "fecha": "13 Sep 2026, 18:12 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
       "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
       "fecha": "10 Sep 2026, 14:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
+      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
+      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
+      "fecha": "10 Sep 2026, 13:07 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Da Hacienda 'paliativo' para el grado de inversión",
-      "resumen": "Hacienda presentó un Paquete frágil y vulnerable que no alcanza la prometida consolidación fiscal, consideró el CIEP.",
-      "link": "https://www.reforma.com/da-hacienda-paliativo-para-el-grado-de-inversion/ar3274648",
-      "fecha": "11 Sep 2026, 14:23 hrs"
+      "titulo": "Pega al ISR empleo informal",
+      "resumen": "El aumento de la informalidad laboral redujo la participación del ISR a 52.2% de los ingresos tributarios, su menor nivel en 20 años.",
+      "link": "https://www.reforma.com/pega-al-isr-empleo-informal/ar3275533",
+      "fecha": "14 Sep 2026, 05:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llama CCE a análisis de deducciones",
-      "resumen": "El CCE le pidió a la SCHP revisar el impacto sobre sectores como distribuidores y mayoristas por la propuesta al límite de las deducciones.",
-      "link": "https://www.reforma.com/llama-cce-a-analisis-de-deducciones/ar3274662",
-      "fecha": "11 Sep 2026, 14:23 hrs"
+      "titulo": "Alertan presión a las gasolineras por IEPS",
+      "resumen": "El nuevo esquema de IEPS contra el huachicol fiscal elevará cargas administrativa, operativa y fiscal para gasolineras y comercializadores.",
+      "link": "https://www.reforma.com/alertan-presion-a-las-gasolineras-por-ieps/ar3275608",
+      "fecha": "14 Sep 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Subsidiarán todo el IEPS del diesel",
-      "resumen": "Entre el 12 y 18 de septiembre, Hacienda aplicará al 100 por cierto el estímulo fiscal al IEPS del diesel, medida que no tomaba desde marzo.",
-      "link": "https://www.reforma.com/subsidiaran-todo-el-ieps-del-diesel/ar3274846",
-      "fecha": "11 Sep 2026, 20:22 hrs"
+      "titulo": "Pierde el petróleo peso en ingresos",
+      "resumen": "Los ingresos petroleros del Gobierno federal caerán 26.7 por ciento real en 2027, a 210.8 mil millones de pesos, su menor nivel desde 2012.",
+      "link": "https://www.reforma.com/pierde-el-petroleo-peso-en-ingresos/ar3275594",
+      "fecha": "14 Sep 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evoluciona comercio tras 25 años del 9/11",
-      "resumen": "Al cumplirse 25 años de los atentados del 9/11 los esquemas de seguridad de la cadena de suministro del comercio exterior han evolucionado.",
-      "link": "https://www.reforma.com/evoluciona-comercio-tras-25-anos-del-9-11/ar3274374",
-      "fecha": "11 Sep 2026, 06:58 hrs"
+      "titulo": "Bloquean transportistas por revocación de visas",
+      "resumen": "El retiro de al menos 700 visas de trabajo a choferes mexicanos en EU generó protestas y bloqueos temporales en cruces fronterizos.",
+      "link": "https://www.reforma.com/bloquean-transportistas-por-revocacion-de-visas/ar3275590",
+      "fecha": "14 Sep 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecerá energía eólica 84% al cierre de 2030",
-      "resumen": "México prevé alcanzar una capacidad de generación de energía eólica de 15 mil megawatts (MW) para el año 2030, según Sener.",
-      "link": "https://www.reforma.com/crecera-energia-eolica-84-al-cierre-de-2030/ar3274627",
-      "fecha": "11 Sep 2026, 14:23 hrs"
+      "titulo": "Deja auge industrial exceso de bodegas",
+      "resumen": "El mercado industrial de Monterrey y su área metropolitana tiene un exceso de bodegas (naves clase C).",
+      "link": "https://www.reforma.com/deja-auge-industrial-exceso-de-bodegas/ar3275615",
+      "fecha": "14 Sep 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra crudo la semana arriba de los 100 dólares",
-      "resumen": "El precio del Brent disminuyó 2.81% a 104.61 dólares, mientras que el barril de West Texas Intermediate retrocedió 2.37% a 100.05 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-la-semana-arriba-de-los-100-dolares/ar3274681",
-      "fecha": "11 Sep 2026, 14:32 hrs"
+      "titulo": "Sube crudo más de 3% tras interrupción de oleoducto saudí",
+      "resumen": "Los futuros del crudo Brent subían 3.3%, a 108.04 dólares por barril, mientras que los del WTI ganaban 3.5%, a 103.54 dólares.",
+      "link": "https://www.reforma.com/sube-crudo-mas-de-3-tras-interrupcion-de-oleoducto-saudi/ar3275681",
+      "fecha": "14 Sep 2026, 07:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Buscan México y EU acelerar acuerdo comercial",
-      "resumen": "EU y México se apresuran a alcanzar un acuerdo comercial bilateral antes de las elecciones legislativas estadounidenses de mitad de mandato.",
-      "link": "https://www.reforma.com/buscan-mexico-y-eu-acelerar-acuerdo-comercial/ar3274466",
-      "fecha": "11 Sep 2026, 07:45 hrs"
+      "titulo": "Alcanzan bonos del Tesoro de EU a 10 años el 5%",
+      "resumen": "Los rendimientos de los bonos de referencia del Tesoro de Estados Unidos a 10 años alcanzaron el 5%, por primera vez desde 2023.",
+      "link": "https://www.reforma.com/alcanzan-bonos-del-tesoro-de-eu-a-10-anos-el-5/ar3275693",
+      "fecha": "14 Sep 2026, 08:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 2.42% sector industrial; mayor cifra desde 2023",
-      "resumen": "Con la variación anual de 2.4% durante julio, en México, la actividad industrial se anotó su mejor resultado en 33 meses.",
-      "link": "https://www.reforma.com/crece-2-42-sector-industrial-mayor-cifra-desde-2023/ar3274573",
-      "fecha": "11 Sep 2026, 14:23 hrs"
+      "titulo": "Fue derrama mundialista 23% menor a lo esperado",
+      "resumen": "Estudio de Deloitte estima en 270 mdd la derrama económica neta asociada al consumo por el Mundial en NL, 23% menos a la prevista.",
+      "link": "https://www.reforma.com/fue-derrama-mundialista-23-menor-a-lo-esperado/ar3275575",
+      "fecha": "14 Sep 2026, 07:06 hrs"
     }
   ]
 }
