@@ -1,7 +1,34 @@
 {
-  "actualizado": "14/09/2026 11:54 hrs",
+  "actualizado": "14/09/2026 15:33 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
+      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
+      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
+      "fecha": "14 Sep 2026, 13:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
+      "resumen": "Pero el gobierno propone recortar 41.1% en términos reales al área encargada de investigar y sustentar estas medidas.",
+      "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
+      "fecha": "14 Sep 2026, 05:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
+      "resumen": "Mientras el sindicato mayoritario mantiene su postura sobre el conflicto laboral, otra organización de trabajadores pide levantar la huelga y regresar a las actividades.",
+      "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
+      "fecha": "13 Sep 2026, 18:12 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
-      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
-      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
-      "fecha": "10 Sep 2026, 14:56 hrs"
+      "titulo": "¿Qué ganas por 28,000 pesos más? Comparamos el Nissan March más barato contra el más caro",
+      "resumen": "La oferta comercial volvió más atractivo al March, pero sus dos versiones tienen diferencias que pueden pesar al momento de elegir.",
+      "link": "https://expansion.mx/empresas/2026/09/14/comparamos-nissan-march-barato-caro-esto-cambia",
+      "fecha": "14 Sep 2026, 13:06 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "“No hay una renuncia a las deducciones”, asevera el  secretario de Hacienda, Édgar Amador Zamora",
-      "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
-      "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
-      "fecha": "10 Sep 2026, 14:44 hrs"
+      "titulo": "Kia Seltos vs. Toyota Corolla Cross: dos rivales que compiten por el mercado de las SUV híbridas en México",
+      "resumen": "Kia busca ganar espacio entre las SUV compactas híbridas con Seltos HEV, mientras Toyota actualizó recientemente Corolla Cross para mantenerlo competitivo ante la llegada de nuevos modelos.",
+      "link": "https://expansion.mx/empresas/2026/09/14/kia-seltos-vs-toyota-corolla-cross-precio-rendimiento",
+      "fecha": "14 Sep 2026, 09:52 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
-      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
-      "fecha": "10 Sep 2026, 13:07 hrs"
+      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
+      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
+      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
+      "fecha": "14 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
+      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
+      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
+      "fecha": "14 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,31 @@
       "fecha": "11 Sep 2026, 13:42 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
-      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
-      "link": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
-      "fecha": "11 Sep 2026, 13:32 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falla 'anzuelo fiscal' para repatriar capitales",
+      "resumen": "Pocos contribuyentes se han adherido al programa de repatriación de capitales porque la tasa impositiva es muy cara, aseguran especialistas.",
+      "link": "https://www.reforma.com/falla-anzuelo-fiscal-para-repatriar-capitales/ar3275910",
+      "fecha": "14 Sep 2026, 14:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
-      "resumen": "Esta cadena ofrece a sus afiliados la posibilidad de solicitar reembolsos hasta un año después de haber realizado la compra, dependiendo del producto.",
-      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
-      "fecha": "11 Sep 2026, 12:33 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén mayor subsidio de SHCP a diesel por alza en EU",
+      "resumen": "El incremento del diesel en EU provocaría que en México el Gobierno federal aplique un subsidio mayor al combustible, dijo analista.",
+      "link": "https://www.reforma.com/preven-mayor-subsidio-de-shcp-a-diesel-por-alza-en-eu/ar3275841",
+      "fecha": "14 Sep 2026, 13:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La chelada lleva años en México, pero Victoria ahora quiere venderla lista como en el tianguis",
-      "resumen": "Victoria Chelada Limón y Sal ya se distribuye a nivel nacional y entra a un segmento donde su competidor y la familia Vicky ya ofrecen mezclas listas para beber.",
-      "link": "https://expansion.mx/empresas/2026/09/11/victoria-chelada-limon-sal-tianguis",
-      "fecha": "11 Sep 2026, 10:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telnor, filial de Telmex, despide a 200 trabajadores en medio de presiones financieras",
-      "resumen": "La filial de Telmex despidió a 200 trabajadores en Baja California y Sonora y ofreció liquidarlos al 100% a cambio de su renuncia; el sindicato acusa despidos injustificados.",
-      "link": "https://expansion.mx/empresas/2026/09/11/telmex-sindicato-telnor-despide-200-trabajadores",
-      "fecha": "11 Sep 2026, 10:02 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Registra superávit turístico mayor caída en 6 años",
+      "resumen": "El saldo superavitario de la balanza de turismo descendió 9.6 por ciento anual de enero a julio de 2026 a 13 mil 106 millones de dólares.",
+      "link": "https://www.reforma.com/registra-superavit-turistico-mayor-caida-en-6-anos/ar3275797",
+      "fecha": "14 Sep 2026, 12:14 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,46 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan presión a las gasolineras por IEPS",
-      "resumen": "El nuevo esquema de IEPS contra el huachicol fiscal elevará cargas administrativa, operativa y fiscal para gasolineras y comercializadores.",
-      "link": "https://www.reforma.com/alertan-presion-a-las-gasolineras-por-ieps/ar3275608",
-      "fecha": "14 Sep 2026, 07:06 hrs"
+      "titulo": "Caen acciones de IA tras petición de frenar su desarrollo",
+      "resumen": "Wall Street cerró a la baja, golpeado por las pérdidas de Nvidia y otros fabricantes de chips tras llamado de ejecutivos a frenar la IA.",
+      "link": "https://www.reforma.com/caen-acciones-de-ia-tras-peticion-de-frenar-su-desarrollo/ar3275901",
+      "fecha": "14 Sep 2026, 14:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde el petróleo peso en ingresos",
-      "resumen": "Los ingresos petroleros del Gobierno federal caerán 26.7 por ciento real en 2027, a 210.8 mil millones de pesos, su menor nivel desde 2012.",
-      "link": "https://www.reforma.com/pierde-el-petroleo-peso-en-ingresos/ar3275594",
-      "fecha": "14 Sep 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bloquean transportistas por revocación de visas",
-      "resumen": "El retiro de al menos 700 visas de trabajo a choferes mexicanos en EU generó protestas y bloqueos temporales en cruces fronterizos.",
-      "link": "https://www.reforma.com/bloquean-transportistas-por-revocacion-de-visas/ar3275590",
-      "fecha": "14 Sep 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Deja auge industrial exceso de bodegas",
-      "resumen": "El mercado industrial de Monterrey y su área metropolitana tiene un exceso de bodegas (naves clase C).",
-      "link": "https://www.reforma.com/deja-auge-industrial-exceso-de-bodegas/ar3275615",
-      "fecha": "14 Sep 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo más de 3% tras interrupción de oleoducto saudí",
-      "resumen": "Los futuros del crudo Brent subían 3.3%, a 108.04 dólares por barril, mientras que los del WTI ganaban 3.5%, a 103.54 dólares.",
-      "link": "https://www.reforma.com/sube-crudo-mas-de-3-tras-interrupcion-de-oleoducto-saudi/ar3275681",
-      "fecha": "14 Sep 2026, 07:22 hrs"
+      "titulo": "Cierra crudo Brent con alza de 1%, a 105.68 dólares",
+      "resumen": "El barril de Brent superó los 109 dólares durante la jornada, pero se cerró en 105.68 dólares tras subir 1.02%; el WTI ganó 1.34% a 101.39.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-a-105-68-dolares/ar3275894",
+      "fecha": "14 Sep 2026, 14:20 hrs"
     },
     {
       "fuente": "Reforma",
