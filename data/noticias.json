@@ -1,7 +1,16 @@
 {
-  "actualizado": "13/09/2026 23:50 hrs",
+  "actualizado": "14/09/2026 05:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
+      "resumen": "Mientras el sindicato mayoritario mantiene su postura sobre el conflicto laboral, otra organización de trabajadores pide levantar la huelga y regresar a las actividades.",
+      "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
+      "fecha": "13 Sep 2026, 18:12 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El titular de la SHCP descartó que las empresas que cumplen con sus obligaciones fiscales, puedan verse afectadas por las acciones anti factureras y evasión, planteadas para 2027.",
       "link": "https://expansion.mx/economia/2026/09/10/edgar-amador-zamora-hacienda-expansion-summit",
       "fecha": "10 Sep 2026, 14:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Adiós a las comisiones: Nu permitirá enviar dinero de EU a México en tiempo real desde su app",
-      "resumen": "Nu cuenta con más de 16 millones de clientes en México y ahora busca conectar esa base con sus operaciones en Estados Unidos.",
-      "link": "https://expansion.mx/economia/2026/09/10/nu-enviar-dinero-eu-mexico-sin-cobros-extra",
-      "fecha": "10 Sep 2026, 13:07 hrs"
     },
     {
       "fuente": "Expansión",
