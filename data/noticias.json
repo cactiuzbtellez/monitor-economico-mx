@@ -1,7 +1,16 @@
 {
-  "actualizado": "15/09/2026 14:01 hrs",
+  "actualizado": "15/09/2026 17:25 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Se vuelve impagable el seguro de gastos médicos mayores; se pierden un millón de riesgos asegurados en un año",
+      "resumen": "La inflación médica de 14.5% y una mayor siniestralidad presionan las primas y reducen 51.5% la utilidad del segmento, reporta la CNSF.",
+      "link": "https://expansion.mx/economia/2026/09/15/seguro-de-gastos-medicos-mayores-no-es-clase-media",
+      "fecha": "15 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "CEO de Banamex, Edgardo del Rincón, vuelve a “casa” para cambiar la cultura del banco",
-      "resumen": "El nuevo CEO regresa al banco donde comenzó su carrera con la misión de simplificar procesos, recuperar participación de mercado y prepararlo para una nueva etapa como institución independiente.",
-      "link": "https://expansion.mx/economia/2026/09/10/edgardo-del-rincon-cambiar-cultura-banamex",
-      "fecha": "10 Sep 2026, 19:10 hrs"
+      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
+      "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "fecha": "15 Sep 2026, 13:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
+      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
+      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
+      "fecha": "15 Sep 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
+      "resumen": "El presupuesto de 2027 limita la capacidad de las empresas estatales para financiar nuevas obras; CFE tiene 61,000 millones de pesos de inversión física frente a un plan de más de 980,000 millones.",
+      "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
+      "fecha": "15 Sep 2026, 05:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,22 @@
       "fecha": "14 Sep 2026, 09:52 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
-      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
-      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
-      "fecha": "14 Sep 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dejan ir 47 mil 300 mdp por subsidios a IEPS de combustibles",
+      "resumen": "Gobierno federal ha dejado de captar 47 mil 300 millones de pesos derivado de la aplicación de estímulos fiscales IEPS a diesel y gasolinas.",
+      "link": "https://www.reforma.com/dejan-ir-47-mil-300-mdp-por-subsidios-a-ieps-de-combustibles/ar3276523",
+      "fecha": "15 Sep 2026, 15:22 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
-      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
-      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
-      "fecha": "14 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
-      "resumen": "La operación forma parte de un giro estratégico con el que la marca deportiva busca recuperar rentabilidad y flujo de efectivo ante un mercado más exigente.",
-      "link": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
-      "fecha": "11 Sep 2026, 19:50 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Será inalcanzable meta de 3.9% en déficit fiscal para 2027",
+      "resumen": "La meta de SHCP de alcanzar un déficit de 3.9 por ciento del PIB para 2027 arriesgará el grado de inversión, advirtió IMEF.",
+      "link": "https://www.reforma.com/sera-inalcanzable-meta-de-3-9-en-deficit-fiscal-para-2027/ar3276545",
+      "fecha": "15 Sep 2026, 15:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,19 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenan gasolinazo con golpe al erario",
-      "resumen": "En 6 meses de conflicto en Medio Oriente, Pemex ha perdido alrededor de 10,541 mdp, es decir, 57.3 mdp diarios, por tope aplicado al precio.",
-      "link": "https://www.reforma.com/frenan-gasolinazo-con-golpe-al-erario/ar3276223",
-      "fecha": "15 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 18% acciones de Traxión tras anuncio de planes de OPA",
-      "resumen": "Acción de Grupo Traxión subía 17.8% luego que sociedad vinculada a su CEO anunciara intención de lanzar una oferta pública de adquisición.",
-      "link": "https://www.reforma.com/suben-18-acciones-de-traxion-tras-anuncio-de-planes-de-opa/ar3276312",
-      "fecha": "15 Sep 2026, 08:14 hrs"
+      "titulo": "Presionan verduras y bebidas el costo de la cena del Grito",
+      "resumen": "Una cena para conmemorar la Independencia para ocho personas costará unos 2 mil 473 pesos, 1.5% más que en 2025, según GCMA.",
+      "link": "https://www.reforma.com/presionan-verduras-y-bebidas-el-costo-de-la-cena-del-grito/ar3276444",
+      "fecha": "15 Sep 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,19 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuesta iPhone Duo 152 días  de salario mínimo en México",
-      "resumen": "El monto del iPhone Duo de 256 gigabytes equivale a más de 152 días de salarios mínimos; es decir, cinco meses de ingresos, reveló Conasami.",
-      "link": "https://www.reforma.com/cuesta-iphone-duo-152-dias-de-salario-minimo-en-mexico/ar3276170",
-      "fecha": "15 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pega a Infonavit la informalidad",
-      "resumen": "Pese a que trabajadores de menores ingresos tienden a abandonar formalidad y dejar pagar créditos, Infonavit sigue prestando a este segmento",
-      "link": "https://www.reforma.com/pega-a-infonavit-la-informalidad/ar3276211",
-      "fecha": "15 Sep 2026, 06:58 hrs"
+      "titulo": "Suben 18% acciones de Traxión tras anuncio de planes de OPA",
+      "resumen": "Acción de Grupo Traxión subía 17.8% luego que sociedad vinculada a su CEO anunciara intención de lanzar una oferta pública de adquisición.",
+      "link": "https://www.reforma.com/suben-18-acciones-de-traxion-tras-anuncio-de-planes-de-opa/ar3276312",
+      "fecha": "15 Sep 2026, 08:14 hrs"
     },
     {
       "fuente": "Reforma",
