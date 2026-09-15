@@ -1,25 +1,7 @@
 {
-  "actualizado": "14/09/2026 23:52 hrs",
+  "actualizado": "15/09/2026 05:11 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
-      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
-      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
-      "fecha": "14 Sep 2026, 16:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
-      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
-      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
-      "fecha": "14 Sep 2026, 13:46 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,30 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
-      "resumen": "La lista reúne desde empresas públicas como Pemex y CFE hasta gigantes privados de telecomunicaciones, alimentos, comercio, banca y minería.",
-      "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
-      "fecha": "14 Sep 2026, 16:40 hrs"
+      "titulo": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
+      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
+      "link": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
+      "fecha": "10 Sep 2026, 15:20 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "CFE Internet llega a más de 24,000 OXXO; ya puedes recargar tu servicio en tiendas de todo México",
-      "resumen": "Además de OXXO, los usuarios de CFE Internet pueden recargar en Farmacias del Ahorro, Financiera para el Bienestar, Correos de México, Farmapronto, Go Mart y 7-Eleven.",
-      "link": "https://expansion.mx/empresas/2026/09/14/cfe-internet-oxxo-puedes-recargar-tiendas-todo-mexico",
-      "fecha": "14 Sep 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué ganas por 28,000 pesos más? Comparamos el Nissan March más barato contra el más caro",
-      "resumen": "La oferta comercial volvió más atractivo al March, pero sus dos versiones tienen diferencias que pueden pesar al momento de elegir.",
-      "link": "https://expansion.mx/empresas/2026/09/14/comparamos-nissan-march-barato-caro-esto-cambia",
-      "fecha": "14 Sep 2026, 13:06 hrs"
+      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
+      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
+      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
+      "fecha": "10 Sep 2026, 14:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,15 +82,6 @@
       "resumen": "Kia busca ganar espacio entre las SUV compactas híbridas con Seltos HEV, mientras Toyota actualizó recientemente Corolla Cross para mantenerlo competitivo ante la llegada de nuevos modelos.",
       "link": "https://expansion.mx/empresas/2026/09/14/kia-seltos-vs-toyota-corolla-cross-precio-rendimiento",
       "fecha": "14 Sep 2026, 09:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
-      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
-      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
-      "fecha": "14 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +111,105 @@
       "fecha": "11 Sep 2026, 16:24 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
+      "resumen": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
+      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
+      "fecha": "11 Sep 2026, 15:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
+      "resumen": "La llegada de nuevos jugadores al mercado mexicano está cambiando la competencia por conquistar a quienes buscan dar el salto a la movilidad eléctrica.",
+      "link": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
+      "fecha": "11 Sep 2026, 13:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
+      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
+      "link": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
+      "fecha": "11 Sep 2026, 13:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
+      "resumen": "Esta cadena ofrece a sus afiliados la posibilidad de solicitar reembolsos hasta un año después de haber realizado la compra, dependiendo del producto.",
+      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
+      "fecha": "11 Sep 2026, 12:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Encarece la cebolla; sube 70% en un año",
+      "resumen": "La cebolla registró un aumento anual en su precio de 70% en agosto, por lo que se tendrá que desembolsar más para las fiestas patrias.",
+      "link": "https://www.reforma.com/encarece-la-cebolla-sube-70-en-un-ano/ar3276156",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cuesta iPhone Duo 152 días de salario mínimo en México",
+      "resumen": "El monto del iPhone Duo de 256 gigabytes equivale a más de 152 días de salarios mínimos; es decir, cinco meses de ingresos, reveló Conasami.",
+      "link": "https://www.reforma.com/cuesta-iphone-duo-152-dias-de-salario-minimo-en-mexico/ar3276170",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae la inversión pública 36% en sector portuario",
+      "resumen": "La inversión pública en infraestructura portuaria en el primer año de Gobierno de Claudia Sheinbaum registró un retroceso de 36%.",
+      "link": "https://www.reforma.com/cae-la-inversion-publica-36-en-sector-portuario/ar3276196",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan freno en energía",
+      "resumen": "Propuesta del Gobierno federal sobre inversión extranjera podría frenar la llegada de capitales al sector energético, señalan especialistas.",
+      "link": "https://www.reforma.com/alertan-freno-en-energia/ar3276168",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Enfrenta Cuervo panorama sombrío",
+      "resumen": "Tras racha de crecimiento entre 2018 y 2022, tequila José Cuervo enfrenta tres años consecutivos de retrocesos y caída de doble dígito.",
+      "link": "https://www.reforma.com/enfrenta-cuervo-panorama-sombrio/ar3276178",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reducen el costo del espectro móvil",
+      "resumen": "Reducción de 12% en las cuotas por el uso de distintas bandas del espectro liberaría recursos para ampliar redes 5G, señalan especialistas.",
+      "link": "https://www.reforma.com/reducen-el-costo-del-espectro-movil/ar3276173",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden manufacturar moldes en México",
+      "resumen": "México debe trabajar en la generación de moldes para la industria manufacturera para ganar terreno en la fabricación local.",
+      "link": "https://www.reforma.com/piden-manufacturar-moldes-en-mexico/ar3276122",
+      "fecha": "15 Sep 2026, 05:02 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,69 +217,6 @@
       "resumen": "Grupo Traxion informó que una sociedad encabezada por su presidente ejecutivo presentará una OPA por el 100% de sus acciones.",
       "link": "https://www.reforma.com/prepara-grupo-traxion-opa-por-100-de-sus-acciones/ar3276186",
       "fecha": "14 Sep 2026, 21:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Fallas en sistemas paralizan aduanas de Tamaulipas",
-      "resumen": "Fallas en sistemas de aduanas de México paralizan a cientos de unidades de carga en Tamaulipas, afectando exportaciones e importaciones.",
-      "link": "https://www.reforma.com/fallas-en-sistemas-paralizan-aduanas-de-tamaulipas/ar3276109",
-      "fecha": "14 Sep 2026, 19:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Regresa dólar a nivel de $17.13",
-      "resumen": "El dólar cerró este lunes con una cotización de $17.13; cifra 17.06 centavos mayor al viernes y su mayor subida desde el pasado 23 de junio.",
-      "link": "https://www.reforma.com/regresa-dolar-a-nivel-de-17-13/ar3276010",
-      "fecha": "14 Sep 2026, 17:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta uso de IA en las empresas",
-      "resumen": "La Inteligencia Artificial (IA) está siendo cada vez más utilizada por las empresas.",
-      "link": "https://www.reforma.com/aumenta-uso-de-ia-en-las-empresas/ar3275584",
-      "fecha": "14 Sep 2026, 07:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urge recuperar inversión para catapultar crecimiento.-IMEF",
-      "resumen": "Es urgente que México recupere la variable más urgente que es la inversión para catapultar el crecimiento económico, aseveró IMEF.",
-      "link": "https://www.reforma.com/urge-recuperar-inversion-para-catapultar-crecimiento-imef/ar3275936",
-      "fecha": "14 Sep 2026, 15:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Falla anzuelo fiscal para repatriar capitales",
-      "resumen": "Pocos contribuyentes se han adherido al programa de repatriación de capitales porque la tasa impositiva es muy cara, aseguran especialistas.",
-      "link": "https://www.reforma.com/falla-anzuelo-fiscal-para-repatriar-capitales/ar3275910",
-      "fecha": "14 Sep 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de IA tras petición de frenar su desarrollo",
-      "resumen": "Wall Street cerró a la baja, golpeado por las pérdidas de Nvidia y otros fabricantes de chips tras llamado de ejecutivos a frenar la IA.",
-      "link": "https://www.reforma.com/caen-acciones-de-ia-tras-peticion-de-frenar-su-desarrollo/ar3275901",
-      "fecha": "14 Sep 2026, 14:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con alza de 1%, a 105.68 dólares",
-      "resumen": "El barril de Brent superó los 109 dólares durante la jornada, pero cerró en 105.68 dólares tras subir 1.02%; el WTI ganó 1.34%, a 101.39.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-a-105-68-dolares/ar3275894",
-      "fecha": "14 Sep 2026, 14:20 hrs"
     }
   ]
 }
