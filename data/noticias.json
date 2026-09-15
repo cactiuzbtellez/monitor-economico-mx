@@ -1,7 +1,34 @@
 {
-  "actualizado": "15/09/2026 05:11 hrs",
+  "actualizado": "15/09/2026 10:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Se vuelve impagable el seguro de gastos médicos mayores; se pierden un millón de riesgos asegurados en un año",
+      "resumen": "La inflación médica de 14.5% y una mayor siniestralidad presionan las primas y reducen 51.5% la utilidad del segmento, reporta la CNSF.",
+      "link": "https://expansion.mx/economia/2026/09/15/seguro-de-gastos-medicos-mayores-no-es-clase-media",
+      "fecha": "15 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
+      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
+      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
+      "fecha": "14 Sep 2026, 16:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
+      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
+      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
+      "fecha": "14 Sep 2026, 13:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "CEO de Banamex, Edgardo del Rincón, vuelve a “casa” para cambiar la cultura del banco",
-      "resumen": "El nuevo CEO regresa al banco donde comenzó su carrera con la misión de simplificar procesos, recuperar participación de mercado y prepararlo para una nueva etapa como institución independiente.",
-      "link": "https://expansion.mx/economia/2026/09/10/edgardo-del-rincon-cambiar-cultura-banamex",
-      "fecha": "10 Sep 2026, 19:10 hrs"
+      "titulo": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
+      "resumen": "El presupuesto de 2027 limita la capacidad de las empresas estatales para financiar nuevas obras; CFE tiene 61,000 millones de pesos de inversión física frente a un plan de más de 980,000 millones.",
+      "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
+      "fecha": "15 Sep 2026, 05:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
-      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "link": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
-      "fecha": "10 Sep 2026, 15:20 hrs"
+      "titulo": "Primark llega a México y detrás de la marca hay una poderosa familia empresarial",
+      "resumen": "La cadena de moda nació en Dublín en 1969 y actualmente forma parte de Associated British Foods, un grupo con negocios de alimentos, ingredientes, azúcar, agricultura y retail.",
+      "link": "https://expansion.mx/empresas/2026/09/14/primark-liverpool-mexico-detras-poderosa-familia-empresarial",
+      "fecha": "14 Sep 2026, 19:40 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "\"Valió la pena ser banco en México, está volando el número de clientes”, dice Nu; apuesta por remesas y expansión global",
-      "resumen": "A un mes de operar como banco en México, Nu crece de 30 a 40% el ritmo de nuevos clientes frente a lo previsto. Inicia operaciones en EU y lanza estrategia de divisas en 35 países",
-      "link": "https://expansion.mx/economia/2026/09/10/valio-la-pena-ser-banco-en-mexico-esta-volando-el-numero-de-clientes-dice-nu-apuesta-por-remesas-y-expansion-global",
-      "fecha": "10 Sep 2026, 14:56 hrs"
+      "titulo": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
+      "resumen": "La lista reúne desde empresas públicas como Pemex y CFE hasta gigantes privados de telecomunicaciones, alimentos, comercio, banca y minería.",
+      "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
+      "fecha": "14 Sep 2026, 16:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CFE Internet llega a más de 24,000 OXXO; ya puedes recargar tu servicio en tiendas de todo México",
+      "resumen": "Además de OXXO, los usuarios de CFE Internet pueden recargar en Farmacias del Ahorro, Financiera para el Bienestar, Correos de México, Farmapronto, Go Mart y 7-Eleven.",
+      "link": "https://expansion.mx/empresas/2026/09/14/cfe-internet-oxxo-puedes-recargar-tiendas-todo-mexico",
+      "fecha": "14 Sep 2026, 15:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué ganas por 28,000 pesos más? Comparamos el Nissan March más barato contra el más caro",
+      "resumen": "La oferta comercial volvió más atractivo al March, pero sus dos versiones tienen diferencias que pueden pesar al momento de elegir.",
+      "link": "https://expansion.mx/empresas/2026/09/14/comparamos-nissan-march-barato-caro-esto-cambia",
+      "fecha": "14 Sep 2026, 13:06 hrs"
     },
     {
       "fuente": "Expansión",
@@ -87,64 +132,19 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
-      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
-      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
+      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
+      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
+      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
       "fecha": "14 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Porsche deja ir a Bugatti y destina parte de la venta a pagar pensiones",
-      "resumen": "La operación forma parte de un giro estratégico con el que la marca deportiva busca recuperar rentabilidad y flujo de efectivo ante un mercado más exigente.",
-      "link": "https://expansion.mx/empresas/2026/09/11/porsche-venta-bugatti-rimac-pagar-pensiones",
-      "fecha": "11 Sep 2026, 19:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex pierde 1,756 millones de pesos al mes por contención de precios de gasolina y diésel",
-      "resumen": "Entre marzo y agosto, la petrolera estatal ha perdido 10,541 millones de pesos por los descuentos en sus terminales.",
-      "link": "https://expansion.mx/empresas/2026/09/11/pemex-pierde-1-756-millones-de-pesos-al-mes-por-contencion-de-precios-de-gasolina-y-diesel",
-      "fecha": "11 Sep 2026, 16:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
-      "resumen": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
-      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
-      "fecha": "11 Sep 2026, 15:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
-      "resumen": "La llegada de nuevos jugadores al mercado mexicano está cambiando la competencia por conquistar a quienes buscan dar el salto a la movilidad eléctrica.",
-      "link": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
-      "fecha": "11 Sep 2026, 13:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely aún no vende autos en EU, pero ya gana influencia en ese mercado con la compra de Volvo y una alianza con Ford",
-      "resumen": "La automotriz china ha construido presencia occidental mediante adquisiciones y alianzas con fabricantes establecidos en EU, como Ford; una estrategia que ahora enfrenta mayor escrutinio de Whasington…",
-      "link": "https://expansion.mx/empresas/2026/09/11/geely-influencia-eu-alianza-ford",
-      "fecha": "11 Sep 2026, 13:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Compraste en Costco y te arrepentiste? Tienes hasta un año para recuperar tu dinero, salvo por estas compras",
-      "resumen": "Esta cadena ofrece a sus afiliados la posibilidad de solicitar reembolsos hasta un año después de haber realizado la compra, dependiendo del producto.",
-      "link": "https://expansion.mx/empresas/2026/09/11/compraste-costco-arrepentiste-un-ano-recuperar-dinero",
-      "fecha": "11 Sep 2026, 12:33 hrs"
+      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
+      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
+      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
+      "fecha": "14 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,7 +159,34 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuesta iPhone Duo 152 días de salario mínimo en México",
+      "titulo": "Frenan gasolinazo con golpe al erario",
+      "resumen": "En 6 meses de conflicto en Medio Oriente, Pemex ha perdido alrededor de 10,541 mdp, es decir, 57.3 mdp diarios, por tope aplicado al precio.",
+      "link": "https://www.reforma.com/frenan-gasolinazo-con-golpe-al-erario/ar3276223",
+      "fecha": "15 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pega a Infonavit la informalidad",
+      "resumen": "Pese a que trabajadores de menores ingresos tienden a abandonar formalidad y dejar pagar créditos, Infonavit sigue prestando a este segmento",
+      "link": "https://www.reforma.com/pega-a-infonavit-la-informalidad/ar3276211",
+      "fecha": "15 Sep 2026, 06:58 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben 18% acciones de Traxión tras anuncio de planes de OPA",
+      "resumen": "Acción de Grupo Traxión subía 17.8% luego que sociedad vinculada a su CEO anunciara intención de lanzar una oferta pública de adquisición.",
+      "link": "https://www.reforma.com/suben-18-acciones-de-traxion-tras-anuncio-de-planes-de-opa/ar3276312",
+      "fecha": "15 Sep 2026, 08:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cuesta iPhone Duo 152 días  de salario mínimo en México",
       "resumen": "El monto del iPhone Duo de 256 gigabytes equivale a más de 152 días de salarios mínimos; es decir, cinco meses de ingresos, reveló Conasami.",
       "link": "https://www.reforma.com/cuesta-iphone-duo-152-dias-de-salario-minimo-en-mexico/ar3276170",
       "fecha": "15 Sep 2026, 05:02 hrs"
@@ -168,55 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae la inversión pública 36% en sector portuario",
-      "resumen": "La inversión pública en infraestructura portuaria en el primer año de Gobierno de Claudia Sheinbaum registró un retroceso de 36%.",
-      "link": "https://www.reforma.com/cae-la-inversion-publica-36-en-sector-portuario/ar3276196",
-      "fecha": "15 Sep 2026, 05:02 hrs"
+      "titulo": "Supera crudo Brent los 107 dólares",
+      "resumen": "Los futuros del crudo Brent subían 1.58%, a 107.35 dólares el barril, mientras que los del WTI ganaban 2.11%, a 103.53 dólares.",
+      "link": "https://www.reforma.com/supera-crudo-brent-los-107-dolares/ar3276298",
+      "fecha": "15 Sep 2026, 07:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan freno en energía",
-      "resumen": "Propuesta del Gobierno federal sobre inversión extranjera podría frenar la llegada de capitales al sector energético, señalan especialistas.",
-      "link": "https://www.reforma.com/alertan-freno-en-energia/ar3276168",
-      "fecha": "15 Sep 2026, 05:02 hrs"
+      "titulo": "Sufre comercio las 'mayores perturbaciones' de su historia",
+      "resumen": "La OMC alertó que \"volver a una política comercial unilateral tendría grandes costos\" y podría reducir el PIB mundial un 5% de aquí a 2050.",
+      "link": "https://www.reforma.com/sufre-comercio-las-mayores-perturbaciones-de-su-historia/ar3276304",
+      "fecha": "15 Sep 2026, 07:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta Cuervo panorama sombrío",
-      "resumen": "Tras racha de crecimiento entre 2018 y 2022, tequila José Cuervo enfrenta tres años consecutivos de retrocesos y caída de doble dígito.",
-      "link": "https://www.reforma.com/enfrenta-cuervo-panorama-sombrio/ar3276178",
-      "fecha": "15 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reducen el costo del espectro móvil",
-      "resumen": "Reducción de 12% en las cuotas por el uso de distintas bandas del espectro liberaría recursos para ampliar redes 5G, señalan especialistas.",
-      "link": "https://www.reforma.com/reducen-el-costo-del-espectro-movil/ar3276173",
-      "fecha": "15 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden manufacturar moldes en México",
-      "resumen": "México debe trabajar en la generación de moldes para la industria manufacturera para ganar terreno en la fabricación local.",
-      "link": "https://www.reforma.com/piden-manufacturar-moldes-en-mexico/ar3276122",
-      "fecha": "15 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prepara Grupo Traxión OPA por 100% de sus acciones",
-      "resumen": "Grupo Traxion informó que una sociedad encabezada por su presidente ejecutivo presentará una OPA por el 100% de sus acciones.",
-      "link": "https://www.reforma.com/prepara-grupo-traxion-opa-por-100-de-sus-acciones/ar3276186",
-      "fecha": "14 Sep 2026, 21:41 hrs"
+      "titulo": "Baja EU 12% proyección de cupo azucarero",
+      "resumen": "EU bajó 12% su proyección de importaciones de azúcar mexicana para el ciclo 2026-2027 respecto a lo anunciado en julio.",
+      "link": "https://www.reforma.com/baja-eu-12-proyeccion-de-cupo-azucarero/ar3276213",
+      "fecha": "15 Sep 2026, 06:58 hrs"
     }
   ]
 }
