@@ -1,7 +1,16 @@
 {
-  "actualizado": "14/09/2026 18:20 hrs",
+  "actualizado": "14/09/2026 23:52 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
+      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
+      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
+      "fecha": "14 Sep 2026, 16:34 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adultos mayores son los ganadores del presupuesto 2027: prevén aumento para Pensiones del Bienestar",
-      "resumen": "Pensiones y becas concentran buena parte de los recursos adicionales, mientras algunos programas tendrán menos recursos.",
-      "link": "https://expansion.mx/economia/2026/09/10/pensiones-bienestar-aumento-recursos-paquete-economico-2027",
-      "fecha": "10 Sep 2026, 15:20 hrs"
+      "titulo": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
+      "resumen": "La lista reúne desde empresas públicas como Pemex y CFE hasta gigantes privados de telecomunicaciones, alimentos, comercio, banca y minería.",
+      "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
+      "fecha": "14 Sep 2026, 16:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CFE Internet llega a más de 24,000 OXXO; ya puedes recargar tu servicio en tiendas de todo México",
+      "resumen": "Además de OXXO, los usuarios de CFE Internet pueden recargar en Farmacias del Ahorro, Financiera para el Bienestar, Correos de México, Farmapronto, Go Mart y 7-Eleven.",
+      "link": "https://expansion.mx/empresas/2026/09/14/cfe-internet-oxxo-puedes-recargar-tiendas-todo-mexico",
+      "fecha": "14 Sep 2026, 15:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,22 +147,22 @@
       "fecha": "11 Sep 2026, 16:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim también vendía pisos, losetas y muebles para baño; se deshizo del negocio por 710 millones de dólares",
-      "resumen": "El empresario llegó a controlar casi 100% de Porcelanite, una de las principales compañías de recubrimientos cerámicos de México.",
-      "link": "https://expansion.mx/empresas/2026/09/11/carlos-slim-porcelanite-negocio-pisos-losetas",
-      "fecha": "11 Sep 2026, 15:51 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prepara Grupo Traxión OPA por 100% de sus acciones",
+      "resumen": "Grupo Traxion informó que una sociedad encabezada por su presidente ejecutivo presentará una OPA por el 100% de sus acciones.",
+      "link": "https://www.reforma.com/prepara-grupo-traxion-opa-por-100-de-sus-acciones/ar3276186",
+      "fecha": "14 Sep 2026, 21:41 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "JAC E10X se corona como el eléctrico más barato de México, y además te libra de la verificación para siempre",
-      "resumen": "La llegada de nuevos jugadores al mercado mexicano está cambiando la competencia por conquistar a quienes buscan dar el salto a la movilidad eléctrica.",
-      "link": "https://expansion.mx/empresas/2026/09/11/jac-e10x-electrico-mas-barato-de-mexico",
-      "fecha": "11 Sep 2026, 13:42 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fallas en sistemas paralizan aduanas de Tamaulipas",
+      "resumen": "Fallas en sistemas de aduanas de México paralizan a cientos de unidades de carga en Tamaulipas, afectando exportaciones e importaciones.",
+      "link": "https://www.reforma.com/fallas-en-sistemas-paralizan-aduanas-de-tamaulipas/ar3276109",
+      "fecha": "14 Sep 2026, 19:29 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "El barril de Brent superó los 109 dólares durante la jornada, pero cerró en 105.68 dólares tras subir 1.02%; el WTI ganó 1.34%, a 101.39.",
       "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-a-105-68-dolares/ar3275894",
       "fecha": "14 Sep 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén mayor subsidio de SHCP a diesel por alza en EU",
-      "resumen": "El incremento del diesel en EU provocaría que en México el Gobierno federal aplique un subsidio mayor al combustible, dijo analista.",
-      "link": "https://www.reforma.com/preven-mayor-subsidio-de-shcp-a-diesel-por-alza-en-eu/ar3275841",
-      "fecha": "14 Sep 2026, 13:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra superávit turístico mayor caída en 6 años",
-      "resumen": "El saldo superavitario de la balanza de turismo descendió 9.6 por ciento anual de enero a julio de 2026 a 13 mil 106 millones de dólares.",
-      "link": "https://www.reforma.com/registra-superavit-turistico-mayor-caida-en-6-anos/ar3275797",
-      "fecha": "14 Sep 2026, 12:14 hrs"
     }
   ]
 }
