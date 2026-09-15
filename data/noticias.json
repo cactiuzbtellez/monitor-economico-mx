@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/09/2026 15:33 hrs",
+  "actualizado": "14/09/2026 18:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,55 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla 'anzuelo fiscal' para repatriar capitales",
+      "titulo": "Regresa dólar a nivel de $17.13",
+      "resumen": "El dólar cerró este lunes con una cotización de $17.13; cifra 17.06 centavos mayor al viernes y su mayor subida desde el pasado 23 de junio.",
+      "link": "https://www.reforma.com/regresa-dolar-a-nivel-de-17-13/ar3276010",
+      "fecha": "14 Sep 2026, 17:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta uso de IA en las empresas",
+      "resumen": "La Inteligencia Artificial (IA) está siendo cada vez más utilizada por las empresas.",
+      "link": "https://www.reforma.com/aumenta-uso-de-ia-en-las-empresas/ar3275584",
+      "fecha": "14 Sep 2026, 07:06 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge recuperar inversión para catapultar crecimiento.-IMEF",
+      "resumen": "Es urgente que México recupere la variable más urgente que es la inversión para catapultar el crecimiento económico, aseveró IMEF.",
+      "link": "https://www.reforma.com/urge-recuperar-inversion-para-catapultar-crecimiento-imef/ar3275936",
+      "fecha": "14 Sep 2026, 15:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Falla anzuelo fiscal para repatriar capitales",
       "resumen": "Pocos contribuyentes se han adherido al programa de repatriación de capitales porque la tasa impositiva es muy cara, aseguran especialistas.",
       "link": "https://www.reforma.com/falla-anzuelo-fiscal-para-repatriar-capitales/ar3275910",
       "fecha": "14 Sep 2026, 14:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Caen acciones de IA tras petición de frenar su desarrollo",
+      "resumen": "Wall Street cerró a la baja, golpeado por las pérdidas de Nvidia y otros fabricantes de chips tras llamado de ejecutivos a frenar la IA.",
+      "link": "https://www.reforma.com/caen-acciones-de-ia-tras-peticion-de-frenar-su-desarrollo/ar3275901",
+      "fecha": "14 Sep 2026, 14:41 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo Brent con alza de 1%, a 105.68 dólares",
+      "resumen": "El barril de Brent superó los 109 dólares durante la jornada, pero cerró en 105.68 dólares tras subir 1.02%; el WTI ganó 1.34%, a 101.39.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-a-105-68-dolares/ar3275894",
+      "fecha": "14 Sep 2026, 14:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "El saldo superavitario de la balanza de turismo descendió 9.6 por ciento anual de enero a julio de 2026 a 13 mil 106 millones de dólares.",
       "link": "https://www.reforma.com/registra-superavit-turistico-mayor-caida-en-6-anos/ar3275797",
       "fecha": "14 Sep 2026, 12:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pega al ISR empleo informal",
-      "resumen": "El aumento de la informalidad laboral redujo la participación del ISR a 52.2% de los ingresos tributarios, su menor nivel en 20 años.",
-      "link": "https://www.reforma.com/pega-al-isr-empleo-informal/ar3275533",
-      "fecha": "14 Sep 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de IA tras petición de frenar su desarrollo",
-      "resumen": "Wall Street cerró a la baja, golpeado por las pérdidas de Nvidia y otros fabricantes de chips tras llamado de ejecutivos a frenar la IA.",
-      "link": "https://www.reforma.com/caen-acciones-de-ia-tras-peticion-de-frenar-su-desarrollo/ar3275901",
-      "fecha": "14 Sep 2026, 14:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent con alza de 1%, a 105.68 dólares",
-      "resumen": "El barril de Brent superó los 109 dólares durante la jornada, pero se cerró en 105.68 dólares tras subir 1.02%; el WTI ganó 1.34% a 101.39.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-con-alza-de-1-a-105-68-dolares/ar3275894",
-      "fecha": "14 Sep 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanzan bonos del Tesoro de EU a 10 años el 5%",
-      "resumen": "Los rendimientos de los bonos de referencia del Tesoro de Estados Unidos a 10 años alcanzaron el 5%, por primera vez desde 2023.",
-      "link": "https://www.reforma.com/alcanzan-bonos-del-tesoro-de-eu-a-10-anos-el-5/ar3275693",
-      "fecha": "14 Sep 2026, 08:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Fue derrama mundialista 23% menor a lo esperado",
-      "resumen": "Estudio de Deloitte estima en 270 mdd la derrama económica neta asociada al consumo por el Mundial en NL, 23% menos a la prevista.",
-      "link": "https://www.reforma.com/fue-derrama-mundialista-23-menor-a-lo-esperado/ar3275575",
-      "fecha": "14 Sep 2026, 07:06 hrs"
     }
   ]
 }
