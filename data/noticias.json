@@ -1,7 +1,34 @@
 {
-  "actualizado": "15/09/2026 21:34 hrs",
+  "actualizado": "16/09/2026 03:06 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
+      "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
+      "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
+      "fecha": "15 Sep 2026, 18:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Tu celular está lento o muestra ventanas raras? Estas son las señales de malware bancario",
+      "resumen": "Si un celular comienza a comportarse de manera extraña después de abrir un enlace o instalar una aplicación, es recomendable evitar operaciones bancarias desde ese equipo.",
+      "link": "https://expansion.mx/economia/2026/09/15/celular-lento-ventanas-raras-senales-malware-bancario",
+      "fecha": "15 Sep 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Electrónicos aceleran 187% mientras la inversión extranjera en autos cae 25.7%",
+      "resumen": "El país conserva su plataforma automotriz, pero el nuevo flujo de capital favorece componentes, computadoras, instrumentos de medición y equipo médico.",
+      "link": "https://expansion.mx/economia/2026/09/15/inversion-extranjera-electronicos-acelera-autos-cae-mexico",
+      "fecha": "15 Sep 2026, 14:09 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
-      "resumen": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
-      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
-      "fecha": "11 Sep 2026, 18:28 hrs"
+      "titulo": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
+      "resumen": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
+      "link": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
+      "fecha": "15 Sep 2026, 18:06 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Te piden descargar un app para un préstamo? ABM y Condusef suben alerta por intentos de fraude con malware",
-      "resumen": "Advierten que los fraudes pueden comenzar con un SMS, correo, llamada o enlace falso que busca instalar programas maliciosos en el celular y obtener claves o códigos de seguridad",
-      "link": "https://expansion.mx/economia/2026/09/11/descargar-app-prestamo-abm-condusef-alerta-fraude",
-      "fecha": "11 Sep 2026, 15:37 hrs"
+      "titulo": "Volkswagen y Ford hicieron estos autos para celebrar la Independencia de México, y hoy son casi imposibles de encontrar",
+      "resumen": "Sus carrocerías esconden una historia poco conocida de Volkswagen y Ford que quedó plasmada en dos ediciones especiales para el mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/09/15/volkswagen-ford-autos-para-celebrar-independencia-mexico",
+      "fecha": "15 Sep 2026, 17:04 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Paquete Económico 2027: Más de 80 de cada 100 pesos del gasto público ya están comprometidos",
-      "resumen": "Un 39% del gasto se destinará a intereses y a pensiones, mientras solamente 35% se orientará a la inversión en infraestructura, salud, educación y Estado de derecho, detalla México Evalúa.",
-      "link": "https://expansion.mx/economia/2026/09/11/paquete-economico-80-pesos-100-gastos-obligatorios",
-      "fecha": "11 Sep 2026, 05:55 hrs"
+      "titulo": "Conectividad para el Bienestar llega a su fin por falta de presupuesto y deja 3 millones de usuarios fuera",
+      "resumen": "Promtel confirmó que el programa dejó de operar y que su eventual reactivación dependerá de que se autoricen nuevo presupuesto, sin embargo, reconoció que no hay claridad sobre el destino de las línea…",
+      "link": "https://expansion.mx/empresas/2026/09/15/chip-bienestar-se-queda-sin-red-falta-presupuesto",
+      "fecha": "15 Sep 2026, 14:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
+      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
+      "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
+      "fecha": "15 Sep 2026, 13:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
+      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
+      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
+      "fecha": "15 Sep 2026, 13:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -100,51 +145,6 @@
       "resumen": "La lista reúne desde empresas públicas como Pemex y CFE hasta gigantes privados de telecomunicaciones, alimentos, comercio, banca y minería.",
       "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
       "fecha": "14 Sep 2026, 16:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CFE Internet llega a más de 24,000 OXXO; ya puedes recargar tu servicio en tiendas de todo México",
-      "resumen": "Además de OXXO, los usuarios de CFE Internet pueden recargar en Farmacias del Ahorro, Financiera para el Bienestar, Correos de México, Farmapronto, Go Mart y 7-Eleven.",
-      "link": "https://expansion.mx/empresas/2026/09/14/cfe-internet-oxxo-puedes-recargar-tiendas-todo-mexico",
-      "fecha": "14 Sep 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué ganas por 28,000 pesos más? Comparamos el Nissan March más barato contra el más caro",
-      "resumen": "La oferta comercial volvió más atractivo al March, pero sus dos versiones tienen diferencias que pueden pesar al momento de elegir.",
-      "link": "https://expansion.mx/empresas/2026/09/14/comparamos-nissan-march-barato-caro-esto-cambia",
-      "fecha": "14 Sep 2026, 13:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Kia Seltos vs. Toyota Corolla Cross: dos rivales que compiten por el mercado de las SUV híbridas en México",
-      "resumen": "Kia busca ganar espacio entre las SUV compactas híbridas con Seltos HEV, mientras Toyota actualizó recientemente Corolla Cross para mantenerlo competitivo ante la llegada de nuevos modelos.",
-      "link": "https://expansion.mx/empresas/2026/09/14/kia-seltos-vs-toyota-corolla-cross-precio-rendimiento",
-      "fecha": "14 Sep 2026, 09:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
-      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
-      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
-      "fecha": "14 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
-      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
-      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
-      "fecha": "14 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
