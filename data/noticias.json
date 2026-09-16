@@ -1,16 +1,7 @@
 {
-  "actualizado": "16/09/2026 08:37 hrs",
+  "actualizado": "16/09/2026 12:40 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
-      "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
-      "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
-      "fecha": "15 Sep 2026, 18:20 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,33 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
+      "resumen": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
+      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
+      "fecha": "11 Sep 2026, 18:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México tiene un problema para fabricar ropa deportiva, pero una marca mexicana encontró cómo resolverlo",
+      "resumen": "La falta de textiles y componentes técnicos en México dificulta crear ropa outdoor, pero MAJA Sportswear diseñó una estrategia que le permite desarrollar colecciones desde el país y expandirse.",
+      "link": "https://expansion.mx/empresas/2026/09/16/mexico-problema-fabricar-propa-deportiva-maja-estrategia",
+      "fecha": "16 Sep 2026, 09:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim lleva su fortuna de México a España con inversiones millonarias en construcción, banca y futbol",
+      "resumen": "FCC, Realia, Metrovacesa, Prisa y Real Oviedo forman parte del mapa empresarial que el magnate mexicano ha construido en la península ibérica.",
+      "link": "https://expansion.mx/empresas/2026/09/16/carlos-slim-inversiones-millonarias-en-espana",
+      "fecha": "16 Sep 2026, 08:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
@@ -129,94 +147,76 @@
       "fecha": "15 Sep 2026, 05:36 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Primark llega a México y detrás de la marca hay una poderosa familia empresarial",
-      "resumen": "La cadena de moda nació en Dublín en 1969 y actualmente forma parte de Associated British Foods, un grupo con negocios de alimentos, ingredientes, azúcar, agricultura y retail.",
-      "link": "https://expansion.mx/empresas/2026/09/14/primark-liverpool-mexico-detras-poderosa-familia-empresarial",
-      "fecha": "14 Sep 2026, 19:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De América Móvil a Cemex e Infonavit: las 20 empresas mexicanas más importantes que compiten en grandes ligas",
-      "resumen": "La lista reúne desde empresas públicas como Pemex y CFE hasta gigantes privados de telecomunicaciones, alimentos, comercio, banca y minería.",
-      "link": "https://expansion.mx/empresas/2026/09/14/20-empresas-mexicanas-mas-importantes-por-ingresos",
-      "fecha": "14 Sep 2026, 16:40 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube Fed tasa en 25 puntos; prevé otra alza este año",
+      "resumen": "De manera unánime, la Fed elevó en 25 puntos su tasa de interés de referencia, a entre 3.75% a 4%; funcionarios prevén otra alza este año.",
+      "link": "https://www.reforma.com/sube-fed-tasa-en-25-puntos-preve-otra-alza-este-ano/ar3277066",
+      "fecha": "16 Sep 2026, 12:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exprimen a causantes cautivos",
-      "resumen": "Ante la necesidad de hacerse de recursos fiscales, el SAT apretará más a causantes cautivos, tanto en deducciones como en limitación.",
-      "link": "https://www.reforma.com/exprimen-a-causantes-cautivos/ar3276777",
+      "titulo": "Presiona EU a México para bloquear exportación china de IA",
+      "resumen": "Negociadores de EU pretenden que los equipos de IA y otros sectores se rijan por las mismas reglas de origen que aplican a los autos.",
+      "link": "https://www.reforma.com/presiona-eu-a-mexico-para-bloquear-exportacion-china-de-ia/ar3277030",
+      "fecha": "16 Sep 2026, 11:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alista USDA reapertura de Nuevo México a comercio de ganado",
+      "resumen": "Departamento de Agricultura prepara reapertura de puerto de Nuevo México al comercio de ganado, tras su cierre debido al gusano barrenador.",
+      "link": "https://www.reforma.com/alista-usda-reapertura-de-nuevo-mexico-a-comercio-de-ganado/ar3277026",
+      "fecha": "16 Sep 2026, 11:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Evalúa Apple regreso a mercado de servidores",
+      "resumen": "Apple analiza posibilidad de volver al mercado de los servidores empresariales, combinando sus chips con la tecnología de redes de Nvidia.",
+      "link": "https://www.reforma.com/evalua-apple-regreso-a-mercado-de-servidores/ar3277022",
+      "fecha": "16 Sep 2026, 11:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Critica responsable de IA de Microsoft enfoque de Anthropic",
+      "resumen": "El director de IA de Microsoft, Suleyman, señaló los riesgos del entrenamiento de Anthropic de su chatbot Claude sobre la conciencia.",
+      "link": "https://www.reforma.com/critica-responsable-de-ia-de-microsoft-enfoque-de-anthropic/ar3276979",
+      "fecha": "16 Sep 2026, 10:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben Nasdaq y S&amp;P 500 en espera de decisión de la Fed",
+      "resumen": "El Nasdaq Composite y el S&amp;P 500 subían ligeramente; se está en espera de la decisión de la Fed.",
+      "link": "https://www.reforma.com/suben-nasdaq-y-s-p-500-en-espera-de-decision-de-la-fed/ar3276970",
+      "fecha": "16 Sep 2026, 10:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Temen complicación en aduanas por asueto",
+      "resumen": "Las intermitencias persisten en los cruces de mercancías y podrían agravarse hoy, debido al día de asueto, previó el Comce Noreste.",
+      "link": "https://www.reforma.com/temen-complicacion-en-aduanas-por-asueto/ar3276858",
       "fecha": "16 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Denuncian caídas con más frecuencia en aduanas",
-      "resumen": "Fallas en sistemas de ANAM generan retrasos en el movimiento de unidades de carga en cruces fronterizos, denuncian transportistas.",
-      "link": "https://www.reforma.com/denuncian-caidas-con-mas-frecuencia-en-aduanas/ar3276765",
-      "fecha": "16 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Descartan alza de diesel por nuevo IEPS",
-      "resumen": "Nuevo candado fiscal que se analiza implementar para combatir el huachicol fiscal no implicaría un aumento en precios gasolina y diésel.",
-      "link": "https://www.reforma.com/descartan-alza-de-diesel-por-nuevo-ieps/ar3276758",
-      "fecha": "16 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Elige SHCP a I Squared para dirigir fondo de infraestructura",
-      "resumen": "SHCP eligió a I Squared Capital para supervisar un mecanismo de financiamiento que busca captar inversiones para proyectos energéticos.",
-      "link": "https://www.reforma.com/elige-shcp-a-i-squared-para-dirigir-fondo-de-infraestructura/ar3276754",
-      "fecha": "15 Sep 2026, 20:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apuestan por chinos ante la caída de turistas que más gastan",
-      "resumen": "Mientras disminuye la llegada de turistas en avión a playas mexicanas, la Sectur apunta a China como una nueva fuente de demanda.",
-      "link": "https://www.reforma.com/apuestan-por-chinos-ante-la-caida-de-turistas-que-mas-gastan/ar3276729",
-      "fecha": "15 Sep 2026, 19:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Desatará quiebras en Pymes el tope a deducción",
-      "resumen": "Topar las deducciones empresariales incrementaría el pago del IEPS en las empresas de bajo margen, afectando las Pymes, dijo el IMEF.",
-      "link": "https://www.reforma.com/desatara-quiebras-en-pymes-el-tope-a-deduccion/ar3276583",
-      "fecha": "15 Sep 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Será inalcanzable meta de 3.9% en déficit fiscal para 2027",
-      "resumen": "La meta de SHCP de alcanzar un déficit de 3.9 por ciento del PIB para 2027 arriesgará el grado de inversión, advirtió IMEF.",
-      "link": "https://www.reforma.com/sera-inalcanzable-meta-de-3-9-en-deficit-fiscal-para-2027/ar3276545",
-      "fecha": "15 Sep 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dejan ir 47 mil 300 mdp por subsidios a IEPS de combustibles",
-      "resumen": "Gobierno federal ha dejado de captar 47 mil 300 millones de pesos derivado de la aplicación de estímulos fiscales IEPS a diesel y gasolinas.",
-      "link": "https://www.reforma.com/dejan-ir-47-mil-300-mdp-por-subsidios-a-ieps-de-combustibles/ar3276523",
-      "fecha": "15 Sep 2026, 15:22 hrs"
+      "titulo": "Absorbería EU sobrecosto por sello a carne",
+      "resumen": "El etiquetado de nación de origen obligatorio a la carne que EU evalúa reinstaurar generaría hasta 1,736 millones de dólares en sobrecostos.",
+      "link": "https://www.reforma.com/absorberia-eu-sobrecosto-por-sello-a-carne/ar3276798",
+      "fecha": "16 Sep 2026, 10:05 hrs"
     }
   ]
 }
