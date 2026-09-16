@@ -1,7 +1,43 @@
 {
-  "actualizado": "16/09/2026 12:40 hrs",
+  "actualizado": "16/09/2026 15:54 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
+      "resumen": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
+      "link": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
+      "fecha": "16 Sep 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La lucha antifactureras pega a las empresas, por unos pagan todos",
+      "resumen": "Las empresas formales ya inician con estrategias para monitorear y no terminar en las listas negras del SAT ante los cambios contra las factureras.",
+      "link": "https://expansion.mx/economia/2026/09/16/lucha-antifactureras-auditorias-expres-empresas-sat",
+      "fecha": "16 Sep 2026, 10:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Apps falsas y brechas de ciberseguridad levantan alerta nacional contra fraudes",
+      "resumen": "El aumento de quejas por cargos no reconocidos coincide con aumento de malware en sistema Android, así como correos para robar información de usuarios. Sector financiero refuerza alertas y recomendaci…",
+      "link": "https://expansion.mx/economia/2026/09/16/bancos-mexico-fallas-de-seguridad-alerta",
+      "fecha": "16 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
+      "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
+      "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
+      "fecha": "15 Sep 2026, 18:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,42 +73,6 @@
       "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
       "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
       "fecha": "14 Sep 2026, 16:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
-      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
-      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
-      "fecha": "14 Sep 2026, 13:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México prevé recaudar 50% más por cuotas a importaciones desleales en 2027, con China bajo la lupa",
-      "resumen": "Pero el gobierno propone recortar 41.1% en términos reales al área encargada de investigar y sustentar estas medidas.",
-      "link": "https://expansion.mx/economia/2026/09/14/mexico-recaudara-mas-cuotas-importaciones-desleales-china",
-      "fecha": "14 Sep 2026, 05:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La huelga de Monte de Piedad se acerca al año y ahora un sindicato pide terminarla",
-      "resumen": "Mientras el sindicato mayoritario mantiene su postura sobre el conflicto laboral, otra organización de trabajadores pide levantar la huelga y regresar a las actividades.",
-      "link": "https://expansion.mx/economia/2026/09/13/huelga-nacional-monte-de-piedad-sindicato-pide-terminarla",
-      "fecha": "13 Sep 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda le baja los impuestos a gasolinas; diésel tendrá cero IEPS",
-      "resumen": "Del 12 al 18 de septiembre, las gasolinas y diésel tendrán la semana del año con los mayores descuentos a sus cuotas por el Impuestos Especial sobre Producción y Servicios (IEPS).",
-      "link": "https://expansion.mx/economia/2026/09/11/hacienda-baja-impuestos-gasolinas-diesel-septiembre",
-      "fecha": "11 Sep 2026, 18:28 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Muere Vicente López Rodea, pilar fundador de La Costeña",
+      "resumen": "Falleció el empresario Vicente Lopez Rodea, quien fungió como presidente del Consejo de Grupo La Costeña.",
+      "link": "https://www.reforma.com/muere-vicente-lopez-rodea-pilar-fundador-de-la-costena/ar3277085",
+      "fecha": "16 Sep 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae Dow Jones 1% ante inflación persistente en EU",
+      "resumen": "Mercados accionarios de EU acentúan caída después de que presidente de la Fed destacara la persistencia de la inflación en EU.",
+      "link": "https://www.reforma.com/cae-dow-jones-1-ante-inflacion-persistente-en-eu/ar3277086",
+      "fecha": "16 Sep 2026, 13:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Sube Fed tasa en 25 puntos; prevé otra alza este año",
       "resumen": "De manera unánime, la Fed elevó en 25 puntos su tasa de interés de referencia, a entre 3.75% a 4%; funcionarios prevén otra alza este año.",
       "link": "https://www.reforma.com/sube-fed-tasa-en-25-puntos-preve-otra-alza-este-ano/ar3277066",
@@ -198,24 +216,6 @@
       "titulo": "Suben Nasdaq y S&amp;P 500 en espera de decisión de la Fed",
       "resumen": "El Nasdaq Composite y el S&amp;P 500 subían ligeramente; se está en espera de la decisión de la Fed.",
       "link": "https://www.reforma.com/suben-nasdaq-y-s-p-500-en-espera-de-decision-de-la-fed/ar3276970",
-      "fecha": "16 Sep 2026, 10:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Temen complicación en aduanas por asueto",
-      "resumen": "Las intermitencias persisten en los cruces de mercancías y podrían agravarse hoy, debido al día de asueto, previó el Comce Noreste.",
-      "link": "https://www.reforma.com/temen-complicacion-en-aduanas-por-asueto/ar3276858",
-      "fecha": "16 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Absorbería EU sobrecosto por sello a carne",
-      "resumen": "El etiquetado de nación de origen obligatorio a la carne que EU evalúa reinstaurar generaría hasta 1,736 millones de dólares en sobrecostos.",
-      "link": "https://www.reforma.com/absorberia-eu-sobrecosto-por-sello-a-carne/ar3276798",
       "fecha": "16 Sep 2026, 10:05 hrs"
     }
   ]
