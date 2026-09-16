@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/09/2026 17:25 hrs",
+  "actualizado": "15/09/2026 21:34 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "15 Sep 2026, 13:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
-      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
-      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
-      "fecha": "15 Sep 2026, 13:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
       "resumen": "El presupuesto de 2027 limita la capacidad de las empresas estatales para financiar nuevas obras; CFE tiene 61,000 millones de pesos de inversión física frente a un plan de más de 980,000 millones.",
       "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
@@ -147,13 +129,49 @@
       "fecha": "14 Sep 2026, 09:52 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hutchison Ports: 70,000 mdp de inversión logística y portuaria en México",
+      "resumen": "La compañía es pionera en la operación portuaria privada en México, donde acumula inversiones en tecnología y diferentes terminales.",
+      "link": "https://expansion.mx/empresas/2026/09/13/hutchison-ports-inversion-logistica-puertos",
+      "fecha": "14 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXIO almacenará los datos de los 24 millones de usuarios de Movistar en el Data Center de Amazon en Querétaro",
+      "resumen": "Nicolás Girard, CEO de OXIO, detalló que la empresa acordó con Amazon almacenar los datos los usuarios de Movistar en Querétaro, pero el traslado solo podrá concretarse si la CNA aprueba la compra de …",
+      "link": "https://expansion.mx/empresas/2026/09/14/oxio-llevara-data-centers-amazon-datos-usuarios-movistar",
+      "fecha": "14 Sep 2026, 05:55 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dejan ir 47 mil 300 mdp por subsidios a IEPS de combustibles",
-      "resumen": "Gobierno federal ha dejado de captar 47 mil 300 millones de pesos derivado de la aplicación de estímulos fiscales IEPS a diesel y gasolinas.",
-      "link": "https://www.reforma.com/dejan-ir-47-mil-300-mdp-por-subsidios-a-ieps-de-combustibles/ar3276523",
-      "fecha": "15 Sep 2026, 15:22 hrs"
+      "titulo": "Elige SHCP a I Squared para dirigir fondo de infraestructura",
+      "resumen": "SHCP eligió a I Squared Capital para supervisar un mecanismo de financiamiento que busca captar inversiones para proyectos energéticos.",
+      "link": "https://www.reforma.com/elige-shcp-a-i-squared-para-dirigir-fondo-de-infraestructura/ar3276754",
+      "fecha": "15 Sep 2026, 20:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apuestan por chinos ante la caída de turistas que más gastan",
+      "resumen": "Mientras disminuye la llegada de turistas en avión a playas mexicanas, la Sectur apunta a China como una nueva fuente de demanda.",
+      "link": "https://www.reforma.com/apuestan-por-chinos-ante-la-caida-de-turistas-que-mas-gastan/ar3276729",
+      "fecha": "15 Sep 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Desatará quiebras en Pymes el tope a deducción",
+      "resumen": "Topar las deducciones empresariales incrementaría el pago del IEPS en las empresas de bajo margen, afectando las Pymes, dijo el IMEF.",
+      "link": "https://www.reforma.com/desatara-quiebras-en-pymes-el-tope-a-deduccion/ar3276583",
+      "fecha": "15 Sep 2026, 17:26 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,17 +186,26 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Siguen fallas en aduanas",
-      "resumen": "El comercio exterior sigue afectado debido a que el SAT no ha reanudado al 100% la operación normal en las aduanas de México, dijo CAAAREM.",
-      "link": "https://www.reforma.com/siguen-fallas-en-aduanas/ar3276393",
-      "fecha": "15 Sep 2026, 11:54 hrs"
+      "titulo": "Dejan ir 47 mil 300 mdp por subsidios a IEPS de combustibles",
+      "resumen": "Gobierno federal ha dejado de captar 47 mil 300 millones de pesos derivado de la aplicación de estímulos fiscales IEPS a diesel y gasolinas.",
+      "link": "https://www.reforma.com/dejan-ir-47-mil-300-mdp-por-subsidios-a-ieps-de-combustibles/ar3276523",
+      "fecha": "15 Sep 2026, 15:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alista SpaceX primer vuelo orbital de su megacohete Starship",
+      "resumen": "SpaceX, la empresa aeroespacial de Elon Musk, anunció su intención de poner en órbita en los próximos días su megacohete Starship.",
+      "link": "https://www.reforma.com/alista-spacex-primer-vuelo-orbital-de-su-megacohete-starship/ar3276518",
+      "fecha": "15 Sep 2026, 15:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Presionan verduras y bebidas el costo de la cena del Grito",
-      "resumen": "Una cena para conmemorar la Independencia para ocho personas costará unos 2 mil 473 pesos, 1.5% más que en 2025, según GCMA.",
+      "resumen": "Una cena para conmemorar la Independencia para ocho personas costará unos 2 mil 473 pesos, 1.5 por ciento más que en 2025, según GCMA.",
       "link": "https://www.reforma.com/presionan-verduras-y-bebidas-el-costo-de-la-cena-del-grito/ar3276444",
       "fecha": "15 Sep 2026, 14:15 hrs"
     },
@@ -186,37 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra WTI con alza de 4.38%, a 105.83 dólares",
-      "resumen": "El barril de West Texas Intermediate se disparó 4.44 dólares, o un 4.38%, hasta los 105.83 dólares.",
-      "link": "https://www.reforma.com/cierra-wti-con-alza-de-4-38-a-105-83-dolares/ar3276389",
-      "fecha": "15 Sep 2026, 11:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben 18% acciones de Traxión tras anuncio de planes de OPA",
-      "resumen": "Acción de Grupo Traxión subía 17.8% luego que sociedad vinculada a su CEO anunciara intención de lanzar una oferta pública de adquisición.",
-      "link": "https://www.reforma.com/suben-18-acciones-de-traxion-tras-anuncio-de-planes-de-opa/ar3276312",
-      "fecha": "15 Sep 2026, 08:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufre comercio las 'mayores perturbaciones' de su historia",
-      "resumen": "La OMC alertó que \"volver a una política comercial unilateral tendría grandes costos\" y podría reducir el PIB mundial un 5% de aquí a 2050.",
-      "link": "https://www.reforma.com/sufre-comercio-las-mayores-perturbaciones-de-su-historia/ar3276304",
-      "fecha": "15 Sep 2026, 07:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Trabaja OpenAI con Anthropic y Google en seguridad de la IA",
-      "resumen": "OpenAI está colaborando con sus rivales Anthropic y Google DeepMind, de Alphabet, en materia de seguridad de la inteligencia artificial.",
-      "link": "https://www.reforma.com/trabaja-openai-con-anthropic-y-google-en-seguridad-de-la-ia/ar3276326",
-      "fecha": "15 Sep 2026, 10:29 hrs"
+      "titulo": "Siguen fallas en aduanas",
+      "resumen": "El comercio exterior sigue afectado debido a que el SAT no ha reanudado al 100% la operación en aduanas, según Asociaciones Aduanales.",
+      "link": "https://www.reforma.com/siguen-fallas-en-aduanas/ar3276393",
+      "fecha": "15 Sep 2026, 11:54 hrs"
     }
   ]
 }
