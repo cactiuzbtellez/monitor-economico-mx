@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/09/2026 03:06 hrs",
+  "actualizado": "16/09/2026 08:37 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Exprimen a causantes cautivos",
+      "resumen": "Ante la necesidad de hacerse de recursos fiscales, el SAT apretará más a causantes cautivos, tanto en deducciones como en limitación.",
+      "link": "https://www.reforma.com/exprimen-a-causantes-cautivos/ar3276777",
+      "fecha": "16 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Denuncian caídas con más frecuencia en aduanas",
+      "resumen": "Fallas en sistemas de ANAM generan retrasos en el movimiento de unidades de carga en cruces fronterizos, denuncian transportistas.",
+      "link": "https://www.reforma.com/denuncian-caidas-con-mas-frecuencia-en-aduanas/ar3276765",
+      "fecha": "16 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descartan alza de diesel por nuevo IEPS",
+      "resumen": "Nuevo candado fiscal que se analiza implementar para combatir el huachicol fiscal no implicaría un aumento en precios gasolina y diésel.",
+      "link": "https://www.reforma.com/descartan-alza-de-diesel-por-nuevo-ieps/ar3276758",
+      "fecha": "16 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Elige SHCP a I Squared para dirigir fondo de infraestructura",
       "resumen": "SHCP eligió a I Squared Capital para supervisar un mecanismo de financiamiento que busca captar inversiones para proyectos energéticos.",
       "link": "https://www.reforma.com/elige-shcp-a-i-squared-para-dirigir-fondo-de-infraestructura/ar3276754",
@@ -190,33 +217,6 @@
       "resumen": "Gobierno federal ha dejado de captar 47 mil 300 millones de pesos derivado de la aplicación de estímulos fiscales IEPS a diesel y gasolinas.",
       "link": "https://www.reforma.com/dejan-ir-47-mil-300-mdp-por-subsidios-a-ieps-de-combustibles/ar3276523",
       "fecha": "15 Sep 2026, 15:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alista SpaceX primer vuelo orbital de su megacohete Starship",
-      "resumen": "SpaceX, la empresa aeroespacial de Elon Musk, anunció su intención de poner en órbita en los próximos días su megacohete Starship.",
-      "link": "https://www.reforma.com/alista-spacex-primer-vuelo-orbital-de-su-megacohete-starship/ar3276518",
-      "fecha": "15 Sep 2026, 15:04 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presionan verduras y bebidas el costo de la cena del Grito",
-      "resumen": "Una cena para conmemorar la Independencia para ocho personas costará unos 2 mil 473 pesos, 1.5 por ciento más que en 2025, según GCMA.",
-      "link": "https://www.reforma.com/presionan-verduras-y-bebidas-el-costo-de-la-cena-del-grito/ar3276444",
-      "fecha": "15 Sep 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Siguen fallas en aduanas",
-      "resumen": "El comercio exterior sigue afectado debido a que el SAT no ha reanudado al 100% la operación en aduanas, según Asociaciones Aduanales.",
-      "link": "https://www.reforma.com/siguen-fallas-en-aduanas/ar3276393",
-      "fecha": "15 Sep 2026, 11:54 hrs"
     }
   ]
 }
