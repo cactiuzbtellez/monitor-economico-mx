@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/09/2026 05:03 hrs",
+  "actualizado": "17/09/2026 10:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dispara demanda precios de energía",
-      "resumen": "Algunos grandes usuarios industriales y comerciales de México podrían enfrentar próximamente una factura eléctrica más cara.",
-      "link": "https://www.reforma.com/dispara-demanda-precios-de-energia/ar3277240",
-      "fecha": "17 Sep 2026, 05:01 hrs"
+      "titulo": "Aplazan EU-México negociaciones comerciales una semana",
+      "resumen": "La cuarta ronda de conversaciones bilaterales entre México y EU quedó programada para el 28 y 29 de septiembre en Washington, según el WSJ.",
+      "link": "https://www.reforma.com/aplazan-eu-mexico-negociaciones-comerciales-una-semana/ar3277438",
+      "fecha": "17 Sep 2026, 08:27 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Atribuye SAT a cortes de luz las fallas en aduanas",
+      "resumen": "Fallas en sistemas de aduanas del 14 y 15 de septiembre se debieron a una afectación en el suministro de energía eléctrica, informó SHCP.",
+      "link": "https://www.reforma.com/atribuye-sat-a-cortes-de-luz-las-fallas-en-aduanas/ar3277321",
+      "fecha": "16 Sep 2026, 22:50 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evitaría GAC hasta 50% de aranceles",
-      "resumen": "GAC ahorraría hasta 50% de aranceles a sus vehículos gracias al esquema de semiarmado o SKD que planea implementar en su planta en México.",
-      "link": "https://www.reforma.com/evitaria-gac-hasta-50-de-aranceles/ar3277276",
+      "titulo": "Reprende CSP a funcionarios por caída de producción de Pemex",
+      "resumen": "La Presidenta Claudia Sheinbaum confrontó este verano a funcionarios de alto nivel por la caída en la producción de combustibles de Pemex.",
+      "link": "https://www.reforma.com/reprende-csp-a-funcionarios-por-caida-de-produccion-de-pemex/ar3277420",
+      "fecha": "17 Sep 2026, 07:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dispara demanda precios de energía",
+      "resumen": "Algunos grandes usuarios industriales y comerciales de México podrían enfrentar próximamente una factura eléctrica más cara.",
+      "link": "https://www.reforma.com/dispara-demanda-precios-de-energia/ar3277240",
       "fecha": "17 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Debe banca de desarrollo blindar países emergentes",
-      "resumen": "La banca de desarrollo debe ser clave en los estímulos requeridos por las economías nacionales u emergentes como México, señaló ICC Global.",
-      "link": "https://www.reforma.com/debe-banca-de-desarrollo-blindar-paises-emergentes/ar3277272",
-      "fecha": "17 Sep 2026, 05:01 hrs"
+      "titulo": "Moverían la RAM de Saltillo a EU",
+      "resumen": "Stellantis está analizando mover la producción de algunos modelos de su camioneta RAM heavy-duty de su complejo de Saltillo hacia EU.",
+      "link": "https://www.reforma.com/moverian-la-ram-de-saltillo-a-eu/ar3277286",
+      "fecha": "17 Sep 2026, 07:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsan la formalidad en cadena del aguacate",
-      "resumen": "Certificado Laboral para Agroexportación ayudará a acreditar el cumplimiento de obligaciones laborales en toda la cadena del aguacate.",
-      "link": "https://www.reforma.com/impulsan-la-formalidad-en-cadena-del-aguacate/ar3277253",
-      "fecha": "17 Sep 2026, 05:01 hrs"
+      "titulo": "Cuando cero vale más que uno",
+      "resumen": "Una de las enseñanzas de la economía conductual revela que nuestras decisiones no dependen únicamente de cuánto dinero recibimos.",
+      "link": "https://www.reforma.com/cuando-cero-vale-mas-que-uno/ar3277017",
+      "fecha": "17 Sep 2026, 07:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Triplica minería gasto en seguridad",
-      "resumen": "En los últimos ocho años, las compañías afiliadas a la Cámara Minera de México (Camimex) triplicaron sus inversiones en seguridad.",
-      "link": "https://www.reforma.com/triplica-mineria-gasto-en-seguridad/ar3277236",
-      "fecha": "17 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impacta empresas reforma laboral",
-      "resumen": "Nueva normatividad laboral exige a empresas de seguridad privada aumentar 50% su personal para cubrir turnos operativos.",
-      "link": "https://www.reforma.com/impacta-empresas-reforma-laboral/ar3277264",
-      "fecha": "17 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae 80% felicidad de colaboradores",
-      "resumen": "El porcentaje de personas que se declara feliz en su lugar  en México de trabajo pasó de 84% a 80%, reveló un estudio de Buk.",
-      "link": "https://www.reforma.com/cae-80-felicidad-de-colaboradores/ar3277249",
-      "fecha": "17 Sep 2026, 05:01 hrs"
+      "titulo": "Suben mercados de EU tras alza de tasas de la Fed",
+      "resumen": "El promedio industrial Dow Jones avanzaba 224 puntos, o 0.4%; el S&amp;P 500 subía un 0.9%, y el Nasdaq Composite sumaba un 1.5%.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-tras-alza-de-tasas-de-la-fed/ar3277448",
+      "fecha": "17 Sep 2026, 08:57 hrs"
     }
   ]
 }
