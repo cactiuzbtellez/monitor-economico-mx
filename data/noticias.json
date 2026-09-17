@@ -1,16 +1,7 @@
 {
-  "actualizado": "17/09/2026 14:01 hrs",
-  "total": 16,
+  "actualizado": "17/09/2026 17:23 hrs",
+  "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
-      "resumen": "Especialistas advierten que los cambios fiscales pueden presionar el flujo de efectivo, elevar el ISR de algunas empresas y trasladar parte del costo a precios.",
-      "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
-      "fecha": "17 Sep 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Pemex pierde 10,541 mdp por contener el precio de los combustibles",
-      "resumen": "La petrolera vende gasolina y diésel por debajo de los precios de importación, mientras Hacienda reduce el IEPS para evitar que el alza internacional llegue al consumidor.",
-      "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
-      "fecha": "17 Sep 2026, 05:55 hrs"
+      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
+      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
+      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
+      "fecha": "14 Sep 2026, 16:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -114,7 +105,7 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Telmex, Totalplay, Megacable e Izzi: ¿quién te cobra menos por internet desde 389 pesos?",
+      "titulo": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
       "resumen": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
       "link": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
       "fecha": "15 Sep 2026, 18:06 hrs"
@@ -145,6 +136,87 @@
       "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
       "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
       "fecha": "15 Sep 2026, 13:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
+      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
+      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
+      "fecha": "15 Sep 2026, 13:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aplazan EU-México negociaciones comerciales una semana",
+      "resumen": "La cuarta ronda de conversaciones bilaterales entre México y EU quedó programada para el 28 y 29 de septiembre en Washington, según el WSJ.",
+      "link": "https://www.reforma.com/aplazan-eu-mexico-negociaciones-comerciales-una-semana/ar3277438",
+      "fecha": "17 Sep 2026, 08:27 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reprende CSP a funcionarios por caída de producción de Pemex",
+      "resumen": "La Presidenta Claudia Sheinbaum confrontó este verano a funcionarios de alto nivel por la caída en la producción de combustibles de Pemex.",
+      "link": "https://www.reforma.com/reprende-csp-a-funcionarios-por-caida-de-produccion-de-pemex/ar3277420",
+      "fecha": "17 Sep 2026, 07:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suman 11,610 mdd en M&amp;A en 8 meses",
+      "resumen": "En 8 meses, mercado mexicano reporta 92 operaciones de adquisiciones y fusiones con valor de 11,610 mdd, destacando Axtel y Afore Invercap.",
+      "link": "https://www.reforma.com/suman-11-610-mdd-en-m-a-en-8-meses/ar3277566",
+      "fecha": "17 Sep 2026, 12:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene mayor caída en 6 años personal manufacturero",
+      "resumen": "En los primeros siete meses de 2026, el personal de manufacturas cayó 2.13 por ciento respecto al mismo periodo del año anterior.",
+      "link": "https://www.reforma.com/tiene-mayor-caida-en-6-anos-personal-manufacturero/ar3277541",
+      "fecha": "17 Sep 2026, 11:23 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Arranca prueba para obtener Certificado para Agroexportación",
+      "resumen": "La STPS puso en operación la Plataforma de Verificación Laboral para la Agroexportación (Velagro), donde se solicitará el CLA.",
+      "link": "https://www.reforma.com/arranca-prueba-para-obtener-certificado-para-agroexportacion/ar3277682",
+      "fecha": "17 Sep 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ganan 24% más los hombres que las mujeres.- CEEY",
+      "resumen": "La brecha salarial promedio, entre hombres y mujeres, es de 24 por ciento en el País, según el CEEY.",
+      "link": "https://www.reforma.com/ganan-24-mas-los-hombres-que-las-mujeres-ceey/ar3277678",
+      "fecha": "17 Sep 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cuando cero vale más que uno",
+      "resumen": "Una de las enseñanzas de la economía conductual revela que nuestras decisiones no dependen únicamente de cuánto dinero recibimos.",
+      "link": "https://www.reforma.com/cuando-cero-vale-mas-que-uno/ar3277017",
+      "fecha": "17 Sep 2026, 07:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsa sector tecnológico a mercados de EU",
+      "resumen": "El índice tecnológico Nasdaq subió 1.66%; seguido por el S&amp;P 500, que avanzó 1.14%. y el Promedio Industrial Dow Jones sumó un 0.61%.",
+      "link": "https://www.reforma.com/impulsa-sector-tecnologico-a-mercados-de-eu/ar3277728",
+      "fecha": "17 Sep 2026, 14:50 hrs"
     }
   ]
 }
