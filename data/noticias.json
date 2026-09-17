@@ -1,16 +1,7 @@
 {
-  "actualizado": "16/09/2026 15:54 hrs",
+  "actualizado": "16/09/2026 18:08 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
-      "resumen": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
-      "link": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
-      "fecha": "16 Sep 2026, 13:16 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
       "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
       "fecha": "14 Sep 2026, 16:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
+      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
+      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
+      "fecha": "14 Sep 2026, 13:46 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Sube dólar a $17.24 y se deprecia peso",
+      "resumen": "Tras el anuncio de la Fed de subir su tasa de referencia, el dólar cerró el miércoles con una cotización de $17.24.",
+      "link": "https://www.reforma.com/sube-dolar-a-17-24-y-se-deprecia-peso/ar3277191",
+      "fecha": "16 Sep 2026, 17:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Muere Vicente López Rodea, pilar fundador de La Costeña",
       "resumen": "Falleció el empresario Vicente Lopez Rodea, quien fungió como presidente del Consejo de Grupo La Costeña.",
       "link": "https://www.reforma.com/muere-vicente-lopez-rodea-pilar-fundador-de-la-costena/ar3277085",
@@ -207,15 +216,6 @@
       "titulo": "Critica responsable de IA de Microsoft enfoque de Anthropic",
       "resumen": "El director de IA de Microsoft, Suleyman, señaló los riesgos del entrenamiento de Anthropic de su chatbot Claude sobre la conciencia.",
       "link": "https://www.reforma.com/critica-responsable-de-ia-de-microsoft-enfoque-de-anthropic/ar3276979",
-      "fecha": "16 Sep 2026, 10:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben Nasdaq y S&amp;P 500 en espera de decisión de la Fed",
-      "resumen": "El Nasdaq Composite y el S&amp;P 500 subían ligeramente; se está en espera de la decisión de la Fed.",
-      "link": "https://www.reforma.com/suben-nasdaq-y-s-p-500-en-espera-de-decision-de-la-fed/ar3276970",
       "fecha": "16 Sep 2026, 10:05 hrs"
     }
   ]
