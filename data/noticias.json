@@ -1,7 +1,16 @@
 {
-  "actualizado": "16/09/2026 18:08 hrs",
+  "actualizado": "16/09/2026 23:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
+      "resumen": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
+      "link": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
+      "fecha": "16 Sep 2026, 13:16 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Aduanas tendrá mayor margen para embargar mercancías declaradas demasiado baratas",
-      "resumen": "El Ejecutivo eliminará el umbral de 50% para frenar importaciones subvaluadas, proteger la recaudación y reducir la dependencia de proveedores de Asia.",
-      "link": "https://expansion.mx/economia/2026/09/14/aduanas-endurecera-combate-importaciones-subvaluacion",
-      "fecha": "14 Sep 2026, 13:46 hrs"
+      "titulo": "Murió Vicente López Rodea, presidente de La Costeña y referente de la industria de conservas en México",
+      "resumen": "El empresario encabezaba el consejo del grupo alimentario fundado por su padre en 1923 y ocupó un lugar entre los 100 empresarios más importantes de México.",
+      "link": "https://expansion.mx/empresas/2026/09/16/muere-vicente-lopez-rodea-presidente-la-costena",
+      "fecha": "16 Sep 2026, 17:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,13 @@
       "fecha": "15 Sep 2026, 13:26 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex y CFE necesitan capital privado para cumplir sus planes de inversión y megaproyectos a 2030",
-      "resumen": "El presupuesto de 2027 limita la capacidad de las empresas estatales para financiar nuevas obras; CFE tiene 61,000 millones de pesos de inversión física frente a un plan de más de 980,000 millones.",
-      "link": "https://expansion.mx/empresas/2026/09/15/pemex-y-cfe-necesitan-capital-privado-para-cumplir-sus-planes-de-inversion-y-megaproyectos-a-2030",
-      "fecha": "15 Sep 2026, 05:36 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Atribuye SAT a cortes de luz las fallas en aduanas",
+      "resumen": "Fallas en sistemas de aduanas del 14 y 15 de septiembre se debieron a una afectación en el suministro de energía eléctrica, informó SHCP.",
+      "link": "https://www.reforma.com/atribuye-sat-a-cortes-de-luz-las-fallas-en-aduanas/ar3277321",
+      "fecha": "16 Sep 2026, 22:50 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,9 +186,9 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube Fed tasa en 25 puntos; prevé otra alza este año",
+      "titulo": "Aumenta la Fed su tasa de interés",
       "resumen": "De manera unánime, la Fed elevó en 25 puntos su tasa de interés de referencia, a entre 3.75% a 4%; funcionarios prevén otra alza este año.",
-      "link": "https://www.reforma.com/sube-fed-tasa-en-25-puntos-preve-otra-alza-este-ano/ar3277066",
+      "link": "https://www.reforma.com/aumenta-la-fed-su-tasa-de-interes/ar3277066",
       "fecha": "16 Sep 2026, 12:11 hrs"
     },
     {
@@ -208,15 +217,6 @@
       "resumen": "Apple analiza posibilidad de volver al mercado de los servidores empresariales, combinando sus chips con la tecnología de redes de Nvidia.",
       "link": "https://www.reforma.com/evalua-apple-regreso-a-mercado-de-servidores/ar3277022",
       "fecha": "16 Sep 2026, 11:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Critica responsable de IA de Microsoft enfoque de Anthropic",
-      "resumen": "El director de IA de Microsoft, Suleyman, señaló los riesgos del entrenamiento de Anthropic de su chatbot Claude sobre la conciencia.",
-      "link": "https://www.reforma.com/critica-responsable-de-ia-de-microsoft-enfoque-de-anthropic/ar3276979",
-      "fecha": "16 Sep 2026, 10:05 hrs"
     }
   ]
 }
