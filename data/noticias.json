@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/09/2026 10:20 hrs",
-  "total": 24,
+  "actualizado": "17/09/2026 14:01 hrs",
+  "total": 16,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
+      "resumen": "Especialistas advierten que los cambios fiscales pueden presionar el flujo de efectivo, elevar el ISR de algunas empresas y trasladar parte del costo a precios.",
+      "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
+      "fecha": "17 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
-      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
-      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
-      "fecha": "14 Sep 2026, 16:34 hrs"
+      "titulo": "Pemex pierde 10,541 mdp por contener el precio de los combustibles",
+      "resumen": "La petrolera vende gasolina y diésel por debajo de los precios de importación, mientras Hacienda reduce el IEPS para evitar que el alza internacional llegue al consumidor.",
+      "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
+      "fecha": "17 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -105,7 +114,7 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
+      "titulo": "Telmex, Totalplay, Megacable e Izzi: ¿quién te cobra menos por internet desde 389 pesos?",
       "resumen": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
       "link": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
       "fecha": "15 Sep 2026, 18:06 hrs"
@@ -136,87 +145,6 @@
       "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
       "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
       "fecha": "15 Sep 2026, 13:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
-      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
-      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
-      "fecha": "15 Sep 2026, 13:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aplazan EU-México negociaciones comerciales una semana",
-      "resumen": "La cuarta ronda de conversaciones bilaterales entre México y EU quedó programada para el 28 y 29 de septiembre en Washington, según el WSJ.",
-      "link": "https://www.reforma.com/aplazan-eu-mexico-negociaciones-comerciales-una-semana/ar3277438",
-      "fecha": "17 Sep 2026, 08:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Atribuye SAT a cortes de luz las fallas en aduanas",
-      "resumen": "Fallas en sistemas de aduanas del 14 y 15 de septiembre se debieron a una afectación en el suministro de energía eléctrica, informó SHCP.",
-      "link": "https://www.reforma.com/atribuye-sat-a-cortes-de-luz-las-fallas-en-aduanas/ar3277321",
-      "fecha": "16 Sep 2026, 22:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Afirma Comce que fallas en aduanas es 'arancel'",
-      "resumen": "Fallas en los sistemas de las aduanas del País para generar el DODA y operar Vucem generan lo equiparable a un arancel.",
-      "link": "https://www.reforma.com/afirma-comce-que-fallas-en-aduanas-es-arancel/ar3277274",
-      "fecha": "17 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reprende CSP a funcionarios por caída de producción de Pemex",
-      "resumen": "La Presidenta Claudia Sheinbaum confrontó este verano a funcionarios de alto nivel por la caída en la producción de combustibles de Pemex.",
-      "link": "https://www.reforma.com/reprende-csp-a-funcionarios-por-caida-de-produccion-de-pemex/ar3277420",
-      "fecha": "17 Sep 2026, 07:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dispara demanda precios de energía",
-      "resumen": "Algunos grandes usuarios industriales y comerciales de México podrían enfrentar próximamente una factura eléctrica más cara.",
-      "link": "https://www.reforma.com/dispara-demanda-precios-de-energia/ar3277240",
-      "fecha": "17 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Moverían la RAM de Saltillo a EU",
-      "resumen": "Stellantis está analizando mover la producción de algunos modelos de su camioneta RAM heavy-duty de su complejo de Saltillo hacia EU.",
-      "link": "https://www.reforma.com/moverian-la-ram-de-saltillo-a-eu/ar3277286",
-      "fecha": "17 Sep 2026, 07:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cuando cero vale más que uno",
-      "resumen": "Una de las enseñanzas de la economía conductual revela que nuestras decisiones no dependen únicamente de cuánto dinero recibimos.",
-      "link": "https://www.reforma.com/cuando-cero-vale-mas-que-uno/ar3277017",
-      "fecha": "17 Sep 2026, 07:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben mercados de EU tras alza de tasas de la Fed",
-      "resumen": "El promedio industrial Dow Jones avanzaba 224 puntos, o 0.4%; el S&amp;P 500 subía un 0.9%, y el Nasdaq Composite sumaba un 1.5%.",
-      "link": "https://www.reforma.com/suben-mercados-de-eu-tras-alza-de-tasas-de-la-fed/ar3277448",
-      "fecha": "17 Sep 2026, 08:57 hrs"
     }
   ]
 }
