@@ -1,7 +1,25 @@
 {
-  "actualizado": "18/09/2026 14:28 hrs",
+  "actualizado": "18/09/2026 17:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
+      "resumen": "El crédito a pymes pierde dinamismo pese a la liquidez de bancos y Sofomes. Menor inversión, informalidad y desorden financiero frenan una mayor colocación.",
+      "link": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
+      "fecha": "18 Sep 2026, 16:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
+      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
+      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
+      "fecha": "18 Sep 2026, 09:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,111 +76,84 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
-      "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
-      "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
-      "fecha": "15 Sep 2026, 18:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Tu celular está lento o muestra ventanas raras? Estas son las señales de malware bancario",
-      "resumen": "Si un celular comienza a comportarse de manera extraña después de abrir un enlace o instalar una aplicación, es recomendable evitar operaciones bancarias desde ese equipo.",
-      "link": "https://expansion.mx/economia/2026/09/15/celular-lento-ventanas-raras-senales-malware-bancario",
-      "fecha": "15 Sep 2026, 14:25 hrs"
+      "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
+      "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
+      "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
+      "fecha": "18 Sep 2026, 15:41 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los jóvenes beben menos alcohol y las tequileras ajustan estrategias para frenar la caída en sus ventas",
-      "resumen": "Las marcas enfrentan a consumidores que reducen su ingesta y las han llevado a replantear productos, ocasiones y precios.",
-      "link": "https://expansion.mx/empresas/2026/09/18/jovenes-beben-menos-alcohol-tequileras-ajustan-estrategias",
-      "fecha": "18 Sep 2026, 05:55 hrs"
+      "titulo": "Antes de Omnilife y Chivas, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
+      "resumen": "Antes de Omnilife y Chivas, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
+      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
+      "fecha": "18 Sep 2026, 13:57 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
-      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
-      "link": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
-      "fecha": "17 Sep 2026, 19:38 hrs"
+      "titulo": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
+      "resumen": "El gobierno federal plantea aumentar de 1.25% a 3% los derechos que pagan las empresas operadoras por sus concesiones ferroviarias.",
+      "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
+      "fecha": "18 Sep 2026, 13:27 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Rodrigo Herrera regresará como CEO interino de Genomma Lab",
-      "resumen": "El empresario mexicano retomará el rol por un periodo de entre 12 a 18 meses, mientras se define al nuevo director general.",
-      "link": "https://expansion.mx/empresas/2026/09/17/rodrigo-herrera-regresara-ceo-interino-genomma-lab",
-      "fecha": "17 Sep 2026, 17:44 hrs"
+      "titulo": "¿Qué pasó con la Combi? La Volkswagen que todos conocían y que desapareció de las calles de México",
+      "resumen": "La Combi fue uno de los modelos que se impregnó en la cultura popular mexicana gracias a su versatilidad.",
+      "link": "https://expansion.mx/empresas/2026/09/18/combi-historia-camioneta-volkswagen-conquisto-mexico",
+      "fecha": "18 Sep 2026, 13:00 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Esta es la razón por la que tus pedidos de Amazon, Temu y Shein siempre pasan por Cuautitlán Izcalli",
-      "resumen": "El corredor logístico del norte del Valle de México conecta carreteras, parques industriales, centros de distribución y operadores que ayudan a llevar las compras hasta los consumidores.",
-      "link": "https://expansion.mx/empresas/2026/09/17/razon-pedidos-amazon-temu-shein-pasan-por-cuautitlan-izcalli",
-      "fecha": "17 Sep 2026, 17:11 hrs"
+      "titulo": "Vuori abre su primera tienda en México para competir por el mercado de ropa deportiva premium",
+      "resumen": "La marca abrió en Antara su primera tienda en México de la mano de Grupo Axo y contempla superar 10 unidades.",
+      "link": "https://expansion.mx/empresas/2026/09/18/vuori-primera-tienda-mexico-competir-lululemon",
+      "fecha": "18 Sep 2026, 11:07 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tiendas Bara tiene otro negocio detrás de sus precios bajos y ya representa más de 26% de sus ventas",
-      "resumen": "BONAMARK y Síprecio son las marcas propias de Tiendas Bara, con productos exclusivos que buscan competir en precio dentro de categorías de consumo cotidiano.",
-      "link": "https://expansion.mx/empresas/2026/09/17/tiendas-bara-negocio-marca-propia",
-      "fecha": "17 Sep 2026, 15:05 hrs"
+      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
+      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
+      "link": "https://expansion.mx/empresas/2026/09/18/vitacilina-historia-tubo-verde-a-skincare",
+      "fecha": "18 Sep 2026, 11:00 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La Costeña arrancó en una tiendita de Tlatelolco con chiles en vinagre y hoy es un negocio de casi 19,000 mdp",
-      "resumen": "Su historia comenzó mucho antes de convertirse en una marca presente en supermercados y tiendas de todo el país, con una expansión que transformó por completo el negocio familiar.",
-      "link": "https://expansion.mx/empresas/2026/09/17/tiendita-tlatelolco-se-convirtio-la-costena",
-      "fecha": "17 Sep 2026, 12:25 hrs"
+      "titulo": "Rusia confisca Nestlé y deja sus marcas bajo control ruso; ¿qué pasará con Nescafé y KitKat?",
+      "resumen": "El decreto de Putin también alcanza a Auchan, Lemana Pro y FM Logistic, mientras Nestlé evalúa cómo proteger sus derechos en Rusia.",
+      "link": "https://expansion.mx/empresas/2026/09/18/rusia-confisca-nestle-que-pasara-con-nescafe-kitkat",
+      "fecha": "18 Sep 2026, 10:26 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pemex agudiza su presión financiera tras acumular pérdidas por 10,541 mdp al contener los precios del combustible",
-      "resumen": "La petrolera vende gasolina y diésel por debajo de los precios de importación, mientras Hacienda reduce el IEPS para evitar que el alza internacional llegue al consumidor.",
-      "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
-      "fecha": "17 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Murió Vicente López Rodea, presidente de La Costeña y referente de la industria de conservas en México",
-      "resumen": "El empresario encabezaba el consejo del grupo alimentario fundado por su padre en 1923 y ocupó un lugar entre los 100 empresarios más importantes de México.",
-      "link": "https://expansion.mx/empresas/2026/09/16/muere-vicente-lopez-rodea-presidente-la-costena",
-      "fecha": "16 Sep 2026, 17:52 hrs"
+      "titulo": "Warren Buffett deja la presidencia de Berkshire Hathaway: ¿quién tomará las riendas del imperio de 1 billón de dólares?",
+      "resumen": "La salida de Buffett completa una transición histórica en Berkshire y abre la pregunta sobre cómo se repartirá el poder en el conglomerado.",
+      "link": "https://expansion.mx/empresas/2026/09/18/warren-buffett-deja-la-presidencia-de-berkshire-hathaway",
+      "fecha": "18 Sep 2026, 08:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concentra Pemex valor en 36 campos",
-      "resumen": "Sólo 16% de los campos petroleros de Pemex concentran casi 85% del valor de la empresa y el restante tiene baja rentabilidad.",
-      "link": "https://www.reforma.com/concentra-pemex-valor-en-36-campos/ar3278019",
-      "fecha": "18 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Venden 'hermana' de Préstamo Feliz",
-      "resumen": "Fernando García Sada, dueño de Préstamo Feliz, ¡está buscando vender otra financiera de su propiedad!",
-      "link": "https://www.reforma.com/venden-hermana-de-prestamo-feliz/ar3278040",
-      "fecha": "18 Sep 2026, 06:59 hrs"
+      "titulo": "Afirma SIMSA que no es dueña de combustible",
+      "resumen": "SIMSA aseguró que la terminal de almacenamiento de combustibles en San José Iturbide cuenta con permisos y que no es dueña del combustible.",
+      "link": "https://www.reforma.com/afirma-simsa-que-no-es-duena-de-combustible/ar3278489",
+      "fecha": "18 Sep 2026, 16:14 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,16 +168,16 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Confirman nuevo caso de gusano en Nuevo México",
-      "resumen": "Un nuevo caso de gusano barrenador se confirmó en un caballo en el condado de Grant, Nuevo México, previo a la reapertura del puerto.",
-      "link": "https://www.reforma.com/confirman-nuevo-caso-de-gusano-en-nuevo-mexico/ar3278162",
-      "fecha": "18 Sep 2026, 08:26 hrs"
+      "titulo": "Sacude Fed al peso y lleva a la BMV a nuevos mínimos del año",
+      "resumen": "Tras el alza de tasas por parte de la Fed, el peso cayó 0.34% a 17.22 por dólar, mientras que la BMV cayó 0.78% a 63 mil 375.93 puntos.",
+      "link": "https://www.reforma.com/sacude-fed-al-peso-y-lleva-a-la-bmv-a-nuevos-minimos-del-ano/ar3278457",
+      "fecha": "18 Sep 2026, 15:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anunciaría EU aranceles hasta después de cumbre Xi-Trump",
+      "titulo": "Anunciaría EU aranceles  hasta después de cumbre Xi-Trump",
       "resumen": "Se espera que Trump posponga el anuncio de nuevos aranceles sobre China y otros socios hasta después de la cumbre con Xi Jinping.",
       "link": "https://www.reforma.com/anunciaria-eu-aranceles-hasta-despues-de-cumbre-xi-trump/ar3278272",
       "fecha": "18 Sep 2026, 11:42 hrs"
@@ -204,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja Warren Buffett presidencia de Berkshire Hathaway",
-      "resumen": "Warren Buffett dejará la presidencia del consejo de administración de Berkshire Hathaway tras ocupar el cargo durante más de 50 años.",
-      "link": "https://www.reforma.com/deja-warren-buffett-presidencia-de-berkshire-hathaway/ar3278136",
-      "fecha": "18 Sep 2026, 07:09 hrs"
+      "titulo": "Registra Dow Jones mayor caída semanal desde marzo",
+      "resumen": "En la semana, el Dow Jones bajó 1.7%, siendo su mayor caída semanal desde marzo; seguido por el S&amp;P 500 que cayó 0.1%. El Nasdaq ganó 0.7%.",
+      "link": "https://www.reforma.com/registra-dow-jones-mayor-caida-semanal-desde-marzo/ar3278425",
+      "fecha": "18 Sep 2026, 14:33 hrs"
     },
     {
       "fuente": "Reforma",
@@ -217,6 +208,15 @@
       "resumen": "Los futuros del Brent cedieron un 0.91%, a 103.87 dólares por barril, mientras que los del crudo WTI perdieron 1.58%, a 100.30 dólares.",
       "link": "https://www.reforma.com/cierran-precios-del-crudo-semana-con-perdidas/ar3278319",
       "fecha": "18 Sep 2026, 12:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Confirman nuevo caso de gusano en Nuevo México",
+      "resumen": "Un nuevo caso de gusano barrenador se confirmó en un caballo en el condado de Grant, Nuevo México, previo a la reapertura del puerto.",
+      "link": "https://www.reforma.com/confirman-nuevo-caso-de-gusano-en-nuevo-mexico/ar3278162",
+      "fecha": "18 Sep 2026, 08:26 hrs"
     }
   ]
 }
