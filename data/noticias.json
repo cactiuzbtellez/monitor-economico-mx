@@ -1,7 +1,16 @@
 {
-  "actualizado": "18/09/2026 02:47 hrs",
+  "actualizado": "18/09/2026 07:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Con la Ley de Economía Digital, Sheinbaum quiere disminuir el uso de efectivo en México y 'despertar' a Codi y DiMo",
+      "resumen": "El gobierno determinará en qué sectores de la economía no se aceptarán pagos con dinero físico. Especialistas advierten posibles riesgos en prevención de lavado de dinero y ejecución.",
+      "link": "https://expansion.mx/economia/2026/09/18/sheinbaum-ley-economia-digital-pagos-codi-dimo",
+      "fecha": "18 Sep 2026, 05:30 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Electrónicos aceleran 187% mientras la inversión extranjera en autos cae 25.7%",
-      "resumen": "El país conserva su plataforma automotriz, pero el nuevo flujo de capital favorece componentes, computadoras, instrumentos de medición y equipo médico.",
-      "link": "https://expansion.mx/economia/2026/09/15/inversion-extranjera-electronicos-acelera-autos-cae-mexico",
-      "fecha": "15 Sep 2026, 14:09 hrs"
+      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
+      "link": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
+      "fecha": "17 Sep 2026, 19:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Rodrigo Herrera regresará como CEO interino de Genomma Lab",
+      "resumen": "El empresario mexicano retomará el rol por un periodo de entre 12 a 18 meses, mientras se define al nuevo director general.",
+      "link": "https://expansion.mx/empresas/2026/09/17/rodrigo-herrera-regresara-ceo-interino-genomma-lab",
+      "fecha": "17 Sep 2026, 17:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,22 +147,40 @@
       "fecha": "16 Sep 2026, 09:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim lleva su fortuna de México a España con inversiones millonarias en construcción, banca y futbol",
-      "resumen": "FCC, Realia, Metrovacesa, Prisa y Real Oviedo forman parte del mapa empresarial que el magnate mexicano ha construido en la península ibérica.",
-      "link": "https://expansion.mx/empresas/2026/09/16/carlos-slim-inversiones-millonarias-en-espana",
-      "fecha": "16 Sep 2026, 08:22 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Concentra Pemex valor en 36 campos",
+      "resumen": "Sólo 16% de los campos petroleros de Pemex concentran casi 85% del valor de la empresa y el restante tiene baja rentabilidad.",
+      "link": "https://www.reforma.com/concentra-pemex-valor-en-36-campos/ar3278019",
+      "fecha": "18 Sep 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telmex, Totalplay, Megacable e Izzi: ¿quién te cobra menos por internet desde 389 pesos?",
-      "resumen": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
-      "link": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
-      "fecha": "15 Sep 2026, 18:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Venden 'hermana' de Préstamo Feliz",
+      "resumen": "Fernando García Sada, dueño de Préstamo Feliz, ¡está buscando vender otra financiera de su propiedad!",
+      "link": "https://www.reforma.com/venden-hermana-de-prestamo-feliz/ar3278040",
+      "fecha": "18 Sep 2026, 06:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén más presión por aumento a maíz",
+      "resumen": "Incremento en precios del maíz blanco ya presiona los costos de la cadena masa-tortilla y podría acentuarse durante las próximas semanas.",
+      "link": "https://www.reforma.com/preven-mas-presion-por-aumento-a-maiz/ar3278006",
+      "fecha": "18 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde ritmo consumo privado en México",
+      "resumen": "Consumo privado en México moderó su crecimiento anual en el primer semestre de 2026 y mantendría esa trayectoria en los meses recientes.",
+      "link": "https://www.reforma.com/pierde-ritmo-consumo-privado-en-mexico/ar3278029",
+      "fecha": "18 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,37 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aplazan EU-México negociaciones comerciales una semana",
-      "resumen": "La cuarta ronda de conversaciones bilaterales entre México y EU quedó programada para el 28 y 29 de septiembre en Washington, según el WSJ.",
-      "link": "https://www.reforma.com/aplazan-eu-mexico-negociaciones-comerciales-una-semana/ar3277438",
-      "fecha": "17 Sep 2026, 08:27 hrs"
+      "titulo": "Buscan subir 10% cuotas a aerolíneas",
+      "resumen": "Gobierno planteó incremento del 10% a aerolíneas en cuotas por uso del espacio aéreo, medida que impactará los precios de boletos de avión.",
+      "link": "https://www.reforma.com/buscan-subir-10-cuotas-a-aerolineas/ar3278067",
+      "fecha": "18 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reprende CSP a funcionarios por caída de producción de Pemex",
-      "resumen": "La Presidenta Claudia Sheinbaum confrontó este verano a funcionarios de alto nivel por la caída en la producción de combustibles de Pemex.",
-      "link": "https://www.reforma.com/reprende-csp-a-funcionarios-por-caida-de-produccion-de-pemex/ar3277420",
-      "fecha": "17 Sep 2026, 07:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suman 11,610 mdd en M&amp;A en 8 meses",
-      "resumen": "En 8 meses, mercado mexicano reporta 92 operaciones de adquisiciones y fusiones con valor de 11,610 mdd, destacando Axtel y Afore Invercap.",
-      "link": "https://www.reforma.com/suman-11-610-mdd-en-m-a-en-8-meses/ar3277566",
-      "fecha": "17 Sep 2026, 12:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene mayor caída en 6 años personal manufacturero",
-      "resumen": "En los primeros siete meses de 2026, el personal de manufacturas cayó 2.13 por ciento respecto al mismo periodo del año anterior.",
-      "link": "https://www.reforma.com/tiene-mayor-caida-en-6-anos-personal-manufacturero/ar3277541",
-      "fecha": "17 Sep 2026, 11:23 hrs"
+      "titulo": "Paquete de SHCP expone dudas en consolidación fiscal.- Fitch",
+      "resumen": "Hay dudas sobre si se logrará una consolidación suficiente para frenar el alza de la deuda en relación con el PIB, dijo Fitch.",
+      "link": "https://www.reforma.com/paquete-de-shcp-expone-dudas-en-consolidacion-fiscal-fitch/ar3277815",
+      "fecha": "17 Sep 2026, 17:20 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "La STPS puso en operación la Plataforma de Verificación Laboral para la Agroexportación (Velagro), donde se solicitará el CLA.",
       "link": "https://www.reforma.com/arranca-prueba-para-obtener-certificado-para-agroexportacion/ar3277682",
       "fecha": "17 Sep 2026, 14:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cuando cero vale más que uno",
-      "resumen": "Una de las enseñanzas de la economía conductual revela que nuestras decisiones no dependen únicamente de cuánto dinero recibimos.",
-      "link": "https://www.reforma.com/cuando-cero-vale-mas-que-uno/ar3277017",
-      "fecha": "17 Sep 2026, 07:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "McLaren rompe tradición: prepara su primer SUV",
-      "resumen": "McLaren ampliará su territorio más allá de los superdeportivos con el desarrollo de su primer SUV, su debut en vehículos de cuatro puertas.",
-      "link": "https://www.reforma.com/mclaren-rompe-tradicion-prepara-su-primer-suv/ar3277620",
-      "fecha": "17 Sep 2026, 13:02 hrs"
     }
   ]
 }
