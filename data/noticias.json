@@ -1,16 +1,7 @@
 {
-  "actualizado": "18/09/2026 11:31 hrs",
+  "actualizado": "18/09/2026 14:28 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
-      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
-      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
-      "fecha": "18 Sep 2026, 09:53 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,24 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Tu celular está lento o muestra ventanas raras? Estas son las señales de malware bancario",
+      "resumen": "Si un celular comienza a comportarse de manera extraña después de abrir un enlace o instalar una aplicación, es recomendable evitar operaciones bancarias desde ese equipo.",
+      "link": "https://expansion.mx/economia/2026/09/15/celular-lento-ventanas-raras-senales-malware-bancario",
+      "fecha": "15 Sep 2026, 14:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los jóvenes beben menos alcohol y las tequileras ajustan estrategias para frenar la caída en sus ventas",
+      "resumen": "Las marcas enfrentan a consumidores que reducen su ingesta y las han llevado a replantear productos, ocasiones y precios.",
+      "link": "https://expansion.mx/empresas/2026/09/18/jovenes-beben-menos-alcohol-tequileras-ajustan-estrategias",
+      "fecha": "18 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
@@ -138,15 +147,6 @@
       "fecha": "16 Sep 2026, 17:52 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México tiene un problema para fabricar ropa deportiva, pero una marca mexicana encontró cómo resolverlo",
-      "resumen": "La falta de textiles y componentes técnicos en México dificulta crear ropa outdoor, pero MAJA Sportswear diseñó una estrategia que le permite desarrollar colecciones desde el país y expandirse.",
-      "link": "https://expansion.mx/empresas/2026/09/16/mexico-problema-fabricar-propa-deportiva-maja-estrategia",
-      "fecha": "16 Sep 2026, 09:00 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,28 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén más presión por aumento a maíz",
-      "resumen": "Incremento en precios del maíz blanco ya presiona los costos de la cadena masa-tortilla y podría acentuarse durante las próximas semanas.",
-      "link": "https://www.reforma.com/preven-mas-presion-por-aumento-a-maiz/ar3278006",
-      "fecha": "18 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierde ritmo consumo privado en México",
-      "resumen": "Consumo privado en México moderó su crecimiento anual en el primer semestre de 2026 y mantendría esa trayectoria en los meses recientes.",
-      "link": "https://www.reforma.com/pierde-ritmo-consumo-privado-en-mexico/ar3278029",
-      "fecha": "18 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan subir 10% cuotas a aerolíneas",
-      "resumen": "Gobierno planteó incremento del 10% a aerolíneas en cuotas por uso del espacio aéreo, medida que impactará los precios de boletos de avión.",
-      "link": "https://www.reforma.com/buscan-subir-10-cuotas-a-aerolineas/ar3278067",
-      "fecha": "18 Sep 2026, 05:01 hrs"
+      "titulo": "Piden ferroviarios valorar estructura fiscal en Presupuesto",
+      "resumen": "La AMF pidió que se considere la estructura económica y fiscal del sector en el Paquete Económico del 2027.",
+      "link": "https://www.reforma.com/piden-ferroviarios-valorar-estructura-fiscal-en-presupuesto/ar3278322",
+      "fecha": "18 Sep 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,6 +186,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Anunciaría EU aranceles hasta después de cumbre Xi-Trump",
+      "resumen": "Se espera que Trump posponga el anuncio de nuevos aranceles sobre China y otros socios hasta después de la cumbre con Xi Jinping.",
+      "link": "https://www.reforma.com/anunciaria-eu-aranceles-hasta-despues-de-cumbre-xi-trump/ar3278272",
+      "fecha": "18 Sep 2026, 11:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "... Y piden automotrices de EU mantener fuera a autos chinos",
+      "resumen": "Coalición de fabricantes de automóviles, proveedores y concesionarios instan al Presidente Trump a mantener los autos chinos fuera de EU.",
+      "link": "https://www.reforma.com/y-piden-automotrices-de-eu-mantener-fuera-a-autos-chinos/ar3278278",
+      "fecha": "18 Sep 2026, 11:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Deja Warren Buffett presidencia de Berkshire Hathaway",
       "resumen": "Warren Buffett dejará la presidencia del consejo de administración de Berkshire Hathaway tras ocupar el cargo durante más de 50 años.",
       "link": "https://www.reforma.com/deja-warren-buffett-presidencia-de-berkshire-hathaway/ar3278136",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prolongan precios del crudo caída por tercer día consecutivo",
-      "resumen": "Los futuros del Brent bajaban 1.6%, a 103.17 dólares el barril, mientras que los del West Texas Intermediate caían 0.6%, a 101.30 dólares.",
-      "link": "https://www.reforma.com/prolongan-precios-del-crudo-caida-por-tercer-dia-consecutivo/ar3278147",
-      "fecha": "18 Sep 2026, 07:32 hrs"
+      "titulo": "Cierran precios del crudo semana con pérdidas",
+      "resumen": "Los futuros del Brent cedieron un 0.91%, a 103.87 dólares por barril, mientras que los del crudo WTI perdieron 1.58%, a 100.30 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-semana-con-perdidas/ar3278319",
+      "fecha": "18 Sep 2026, 12:51 hrs"
     }
   ]
 }
