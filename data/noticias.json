@@ -1,7 +1,16 @@
 {
-  "actualizado": "18/09/2026 07:24 hrs",
+  "actualizado": "18/09/2026 11:31 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
+      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
+      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
+      "fecha": "18 Sep 2026, 09:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
       "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
       "fecha": "15 Sep 2026, 18:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Tu celular está lento o muestra ventanas raras? Estas son las señales de malware bancario",
-      "resumen": "Si un celular comienza a comportarse de manera extraña después de abrir un enlace o instalar una aplicación, es recomendable evitar operaciones bancarias desde ese equipo.",
-      "link": "https://expansion.mx/economia/2026/09/15/celular-lento-ventanas-raras-senales-malware-bancario",
-      "fecha": "15 Sep 2026, 14:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -186,15 +186,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma SHCP que alza a trenes no impactará mercancías",
-      "resumen": "Aumento propuesto al cobro que pagan las empresas ferroviarias por el uso de las vías no impactará en las tarifas de trenes, aseguró SHCP.",
-      "link": "https://www.reforma.com/afirma-shcp-que-alza-a-trenes-no-impactara-mercancias/ar3278055",
-      "fecha": "17 Sep 2026, 22:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Buscan subir 10% cuotas a aerolíneas",
       "resumen": "Gobierno planteó incremento del 10% a aerolíneas en cuotas por uso del espacio aéreo, medida que impactará los precios de boletos de avión.",
       "link": "https://www.reforma.com/buscan-subir-10-cuotas-a-aerolineas/ar3278067",
@@ -204,19 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Paquete de SHCP expone dudas en consolidación fiscal.- Fitch",
-      "resumen": "Hay dudas sobre si se logrará una consolidación suficiente para frenar el alza de la deuda en relación con el PIB, dijo Fitch.",
-      "link": "https://www.reforma.com/paquete-de-shcp-expone-dudas-en-consolidacion-fiscal-fitch/ar3277815",
-      "fecha": "17 Sep 2026, 17:20 hrs"
+      "titulo": "Confirman nuevo caso de gusano en Nuevo México",
+      "resumen": "Un nuevo caso de gusano barrenador se confirmó en un caballo en el condado de Grant, Nuevo México, previo a la reapertura del puerto.",
+      "link": "https://www.reforma.com/confirman-nuevo-caso-de-gusano-en-nuevo-mexico/ar3278162",
+      "fecha": "18 Sep 2026, 08:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arranca prueba para obtener Certificado para Agroexportación",
-      "resumen": "La STPS puso en operación la Plataforma de Verificación Laboral para la Agroexportación (Velagro), donde se solicitará el CLA.",
-      "link": "https://www.reforma.com/arranca-prueba-para-obtener-certificado-para-agroexportacion/ar3277682",
-      "fecha": "17 Sep 2026, 14:07 hrs"
+      "titulo": "Deja Warren Buffett presidencia de Berkshire Hathaway",
+      "resumen": "Warren Buffett dejará la presidencia del consejo de administración de Berkshire Hathaway tras ocupar el cargo durante más de 50 años.",
+      "link": "https://www.reforma.com/deja-warren-buffett-presidencia-de-berkshire-hathaway/ar3278136",
+      "fecha": "18 Sep 2026, 07:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prolongan precios del crudo caída por tercer día consecutivo",
+      "resumen": "Los futuros del Brent bajaban 1.6%, a 103.17 dólares el barril, mientras que los del West Texas Intermediate caían 0.6%, a 101.30 dólares.",
+      "link": "https://www.reforma.com/prolongan-precios-del-crudo-caida-por-tercer-dia-consecutivo/ar3278147",
+      "fecha": "18 Sep 2026, 07:32 hrs"
     }
   ]
 }
