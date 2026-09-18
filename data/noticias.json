@@ -1,7 +1,25 @@
 {
-  "actualizado": "17/09/2026 17:23 hrs",
+  "actualizado": "17/09/2026 21:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Presupuesto 2027 convence a Fitch, aunque deja pendiente el problema de la deuda",
+      "resumen": "El gobierno mexicano busca reducir el déficit de 4.1% a 3.9% del PIB en 2027, pero la calificadora calcula que tendría que acercarse a 2.5% para estabilizar la deuda pública.",
+      "link": "https://expansion.mx/economia/2026/09/17/fitch-presupuesto-2027-deuda-deficit-mexico",
+      "fecha": "17 Sep 2026, 16:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
+      "resumen": "Especialistas advierten que los cambios fiscales pueden presionar el flujo de efectivo, elevar el ISR de algunas empresas y trasladar parte del costo a precios.",
+      "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
+      "fecha": "17 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Se vuelve impagable el seguro de gastos médicos mayores; se pierden un millón de riesgos asegurados en un año",
-      "resumen": "La inflación médica de 14.5% y una mayor siniestralidad presionan las primas y reducen 51.5% la utilidad del segmento, reporta la CNSF.",
-      "link": "https://expansion.mx/economia/2026/09/15/seguro-de-gastos-medicos-mayores-no-es-clase-media",
-      "fecha": "15 Sep 2026, 05:55 hrs"
+      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
+      "link": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
+      "fecha": "17 Sep 2026, 19:38 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El déficit fiscal de 3.9% del PIB de Hacienda para 2027 se queda corto; FMI y México Evalúa recomiendan 2.5%",
-      "resumen": "Tener un mayor déficit implica el incremento de los saldos de la deuda pública y el pago de intereses, dejando menos recursos para brindar servicios públicos como seguridad y educación.",
-      "link": "https://expansion.mx/economia/2026/09/14/hacienda-apuesta-deficit-paquete-economico-2027-fmi-bajarlo",
-      "fecha": "14 Sep 2026, 16:34 hrs"
+      "titulo": "Rodrigo Herrera regresará como CEO interino de Genomma Lab",
+      "resumen": "El empresario mexicano retomará el rol por un periodo de entre 12 a 18 meses, mientras se define al nuevo director general.",
+      "link": "https://expansion.mx/empresas/2026/09/17/rodrigo-herrera-regresara-ceo-interino-genomma-lab",
+      "fecha": "17 Sep 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta es la razón por la que tus pedidos de Amazon, Temu y Shein siempre pasan por Cuautitlán Izcalli",
+      "resumen": "El corredor logístico del norte del Valle de México conecta carreteras, parques industriales, centros de distribución y operadores que ayudan a llevar las compras hasta los consumidores.",
+      "link": "https://expansion.mx/empresas/2026/09/17/razon-pedidos-amazon-temu-shein-pasan-por-cuautitlan-izcalli",
+      "fecha": "17 Sep 2026, 17:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tiendas Bara tiene otro negocio detrás de sus precios bajos y ya representa más de 26% de sus ventas",
+      "resumen": "BONAMARK y Síprecio son las marcas propias de Tiendas Bara, con productos exclusivos que buscan competir en precio dentro de categorías de consumo cotidiano.",
+      "link": "https://expansion.mx/empresas/2026/09/17/tiendas-bara-negocio-marca-propia",
+      "fecha": "17 Sep 2026, 15:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La Costeña arrancó en una tiendita de Tlatelolco con chiles en vinagre y hoy es un negocio de casi 19,000 mdp",
+      "resumen": "Su historia comenzó mucho antes de convertirse en una marca presente en supermercados y tiendas de todo el país, con una expansión que transformó por completo el negocio familiar.",
+      "link": "https://expansion.mx/empresas/2026/09/17/tiendita-tlatelolco-se-convirtio-la-costena",
+      "fecha": "17 Sep 2026, 12:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex agudiza su presión financiera tras acumular pérdidas por 10,541 mdp al contener los precios del combustible",
+      "resumen": "La petrolera vende gasolina y diésel por debajo de los precios de importación, mientras Hacienda reduce el IEPS para evitar que el alza internacional llegue al consumidor.",
+      "link": "https://expansion.mx/empresas/2026/09/17/gasolinas-baratas-costo-financiero-pemex-insostenible",
+      "fecha": "17 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,60 +145,6 @@
       "resumen": "La falta de textiles y componentes técnicos en México dificulta crear ropa outdoor, pero MAJA Sportswear diseñó una estrategia que le permite desarrollar colecciones desde el país y expandirse.",
       "link": "https://expansion.mx/empresas/2026/09/16/mexico-problema-fabricar-propa-deportiva-maja-estrategia",
       "fecha": "16 Sep 2026, 09:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim lleva su fortuna de México a España con inversiones millonarias en construcción, banca y futbol",
-      "resumen": "FCC, Realia, Metrovacesa, Prisa y Real Oviedo forman parte del mapa empresarial que el magnate mexicano ha construido en la península ibérica.",
-      "link": "https://expansion.mx/empresas/2026/09/16/carlos-slim-inversiones-millonarias-en-espana",
-      "fecha": "16 Sep 2026, 08:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telmex, Totalplay y Megacable estos son sus paquetes de internet y telefonía desde 389 pesos",
-      "resumen": "Además de la velocidad de conexión, los paquetes incluyen distintas combinaciones de telefonía, televisión y plataformas de streaming.",
-      "link": "https://expansion.mx/empresas/2026/09/15/telmex-totalplay-megacable-paquetes-internet-telefonia",
-      "fecha": "15 Sep 2026, 18:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y Ford hicieron estos autos para celebrar la Independencia de México, y hoy son casi imposibles de encontrar",
-      "resumen": "Sus carrocerías esconden una historia poco conocida de Volkswagen y Ford que quedó plasmada en dos ediciones especiales para el mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/09/15/volkswagen-ford-autos-para-celebrar-independencia-mexico",
-      "fecha": "15 Sep 2026, 17:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Conectividad para el Bienestar llega a su fin por falta de presupuesto y deja 3 millones de usuarios fuera",
-      "resumen": "Promtel confirmó que el programa dejó de operar y que su eventual reactivación dependerá de que se autoricen nuevo presupuesto, sin embargo, reconoció que no hay claridad sobre el destino de las línea…",
-      "link": "https://expansion.mx/empresas/2026/09/15/chip-bienestar-se-queda-sin-red-falta-presupuesto",
-      "fecha": "15 Sep 2026, 14:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim compró estas fábricas en CDMX y las convirtió en plazas comerciales que hoy son parte de su imperio",
-      "resumen": "El empresario aprovechó dos antiguas instalaciones industriales para crear proyectos comerciales en la capital; ahora una compra en Puebla vuelve a poner el modelo bajo la lupa.",
-      "link": "https://expansion.mx/empresas/2026/09/15/terrenos-de-carlos-slim-pertenecieron-hernan-cortes-plazas",
-      "fecha": "15 Sep 2026, 13:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Emilio Azcárraga Milmo tuvo que vender enciclopedias antes de convertirse en el poderoso “Tigre” de Televisa",
-      "resumen": "A los 17 años dejó una academia militar en Estados Unidos y regresó a México para casarse, pero su padre le exigió que comenzara a trabajar.",
-      "link": "https://expansion.mx/empresas/2026/09/15/emilio-azcarraga-milmo-vendia-enciclopedias-antes-televisa",
-      "fecha": "15 Sep 2026, 13:26 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ganan 24% más los hombres que las mujeres.- CEEY",
-      "resumen": "La brecha salarial promedio, entre hombres y mujeres, es de 24 por ciento en el País, según el CEEY.",
-      "link": "https://www.reforma.com/ganan-24-mas-los-hombres-que-las-mujeres-ceey/ar3277678",
-      "fecha": "17 Sep 2026, 14:07 hrs"
+      "titulo": "McLaren rompe tradición: prepara su primer SUV",
+      "resumen": "McLaren ampliará su territorio más allá de los superdeportivos con el desarrollo de su primer SUV, su debut en vehículos de cuatro puertas.",
+      "link": "https://www.reforma.com/mclaren-rompe-tradicion-prepara-su-primer-suv/ar3277620",
+      "fecha": "17 Sep 2026, 13:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsa sector tecnológico a mercados de EU",
-      "resumen": "El índice tecnológico Nasdaq subió 1.66%; seguido por el S&amp;P 500, que avanzó 1.14%. y el Promedio Industrial Dow Jones sumó un 0.61%.",
-      "link": "https://www.reforma.com/impulsa-sector-tecnologico-a-mercados-de-eu/ar3277728",
-      "fecha": "17 Sep 2026, 14:50 hrs"
+      "titulo": "Evitaría GAC hasta 50% de aranceles",
+      "resumen": "GAC ahorraría hasta 50% de aranceles a sus vehículos gracias al esquema de semiarmado o SKD que planea implementar en su planta en México.",
+      "link": "https://www.reforma.com/evitaria-gac-hasta-50-de-aranceles/ar3277276",
+      "fecha": "17 Sep 2026, 05:01 hrs"
     }
   ]
 }
