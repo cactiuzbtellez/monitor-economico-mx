@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/09/2026 10:15 hrs",
+  "actualizado": "19/09/2026 13:10 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
+      "resumen": "Más de la mitad de las líneas telefónicas activas ya están vinculadas, pero persisten dudas y dificultades entre los usuarios para completar el proceso.",
+      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
+      "fecha": "19 Sep 2026, 08:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
       "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
       "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
@@ -136,15 +145,6 @@
       "resumen": "El decreto de Putin también alcanza a Auchan, Lemana Pro y FM Logistic, mientras Nestlé evalúa cómo proteger sus derechos en Rusia.",
       "link": "https://expansion.mx/empresas/2026/09/18/rusia-confisca-nestle-que-pasara-con-nescafe-kitkat",
       "fecha": "18 Sep 2026, 10:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Warren Buffett deja la presidencia de Berkshire Hathaway: ¿quién tomará las riendas del imperio de 1 billón de dólares?",
-      "resumen": "La salida de Buffett completa una transición histórica en Berkshire y abre la pregunta sobre cómo se repartirá el poder en el conglomerado.",
-      "link": "https://expansion.mx/empresas/2026/09/18/warren-buffett-deja-la-presidencia-de-berkshire-hathaway",
-      "fecha": "18 Sep 2026, 08:05 hrs"
     },
     {
       "fuente": "Reforma",
