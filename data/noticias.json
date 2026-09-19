@@ -1,16 +1,7 @@
 {
-  "actualizado": "18/09/2026 17:02 hrs",
+  "actualizado": "18/09/2026 21:22 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
-      "resumen": "El crédito a pymes pierde dinamismo pese a la liquidez de bancos y Sofomes. Menor inversión, informalidad y desorden financiero frenan una mayor colocación.",
-      "link": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
-      "fecha": "18 Sep 2026, 16:45 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
-      "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
-      "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
-      "fecha": "18 Sep 2026, 15:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Omnilife y Chivas, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
-      "resumen": "Antes de Omnilife y Chivas, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
-      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
-      "fecha": "18 Sep 2026, 13:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
-      "resumen": "El gobierno federal plantea aumentar de 1.25% a 3% los derechos que pagan las empresas operadoras por sus concesiones ferroviarias.",
-      "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
-      "fecha": "18 Sep 2026, 13:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué pasó con la Combi? La Volkswagen que todos conocían y que desapareció de las calles de México",
-      "resumen": "La Combi fue uno de los modelos que se impregnó en la cultura popular mexicana gracias a su versatilidad.",
-      "link": "https://expansion.mx/empresas/2026/09/18/combi-historia-camioneta-volkswagen-conquisto-mexico",
-      "fecha": "18 Sep 2026, 13:00 hrs"
+      "titulo": "Retiros por desempleo de las Afore perfilan máximo histórico en 2026; suman 31 mil 514 mdp al cierre de agosto",
+      "resumen": "Las disposiciones de recursos acumulan su mayor monto para un periodo enero-agosto desde que existen registros de la Consar. El aumento ocurre mientras el ahorro registra plusvalías por 475 mil 433 mi…",
+      "link": "https://expansion.mx/economia/2026/09/15/retiros-por-desempleo-de-las-afore-perfilan-maximo-historico-en-2026-suman-31-mil-514-mdp-al-cierre-de-agosto",
+      "fecha": "15 Sep 2026, 18:20 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +111,87 @@
       "fecha": "18 Sep 2026, 08:05 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los jóvenes beben menos alcohol y las tequileras ajustan estrategias para frenar la caída en sus ventas",
+      "resumen": "Las marcas enfrentan a consumidores que reducen su ingesta y las han llevado a replantear productos, ocasiones y precios.",
+      "link": "https://expansion.mx/empresas/2026/09/18/jovenes-beben-menos-alcohol-tequileras-ajustan-estrategias",
+      "fecha": "18 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
+      "link": "https://expansion.mx/empresas/2026/09/17/femsa-oxxo-imperio-negocios-estados-unidos-europa",
+      "fecha": "17 Sep 2026, 19:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Rodrigo Herrera regresará como CEO interino de Genomma Lab",
+      "resumen": "El empresario mexicano retomará el rol por un periodo de entre 12 a 18 meses, mientras se define al nuevo director general.",
+      "link": "https://expansion.mx/empresas/2026/09/17/rodrigo-herrera-regresara-ceo-interino-genomma-lab",
+      "fecha": "17 Sep 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta es la razón por la que tus pedidos de Amazon, Temu y Shein siempre pasan por Cuautitlán Izcalli",
+      "resumen": "El corredor logístico del norte del Valle de México conecta carreteras, parques industriales, centros de distribución y operadores que ayudan a llevar las compras hasta los consumidores.",
+      "link": "https://expansion.mx/empresas/2026/09/17/razon-pedidos-amazon-temu-shein-pasan-por-cuautitlan-izcalli",
+      "fecha": "17 Sep 2026, 17:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aplica Hacienda subsidio extra al diesel",
+      "resumen": "La SHCP anunció que subsidiará el IEPS a diesel al aplicar de manera adicional un estímulo de 1.8361 pesos por litro.",
+      "link": "https://www.reforma.com/aplica-hacienda-subsidio-extra-al-diesel/ar3278622",
+      "fecha": "18 Sep 2026, 19:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Revela ahora Google vulneraciones de seguridad hechas por IA",
+      "resumen": "Google se unió a OpenAI, Anthropic y Meta al revelar vulneraciones de seguridad causadas por Gemini, su modelo de inteligencia artificial.",
+      "link": "https://www.reforma.com/revela-ahora-google-vulneraciones-de-seguridad-hechas-por-ia/ar3278559",
+      "fecha": "18 Sep 2026, 18:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene peso peor desempeño semanal en 7 meses",
+      "resumen": "La moneda mexicana tuvo su menor minusvalía semanal en 28 semanas, al subir el dólar 26.26 centavos entre el 11 y el 18 de septiembre.",
+      "link": "https://www.reforma.com/tiene-peso-peor-desempeno-semanal-en-7-meses/ar3278548",
+      "fecha": "18 Sep 2026, 18:25 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Buscan fortalecer seguridad en aviación civil",
+      "resumen": "La SICT y la AFAC firmaron las Bases de Colaboración que establecen nuevos mecanismos en seguridad ante los accidentes e incidentes aéreos.",
+      "link": "https://www.reforma.com/buscan-fortalecer-seguridad-en-aviacion-civil/ar3278509",
+      "fecha": "18 Sep 2026, 18:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Señalan inconsistencias en incautación de combustible",
+      "resumen": "El aseguramiento de presunto huachicol en la terminal de Grupo SIMSA, exhibe errores operativos de autoridades, dijeron especialistas.",
+      "link": "https://www.reforma.com/senalan-inconsistencias-en-incautacion-de-combustible/ar3278502",
+      "fecha": "18 Sep 2026, 18:00 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,15 +199,6 @@
       "resumen": "SIMSA aseguró que la terminal de almacenamiento de combustibles en San José Iturbide cuenta con permisos y que no es dueña del combustible.",
       "link": "https://www.reforma.com/afirma-simsa-que-no-es-duena-de-combustible/ar3278489",
       "fecha": "18 Sep 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden ferroviarios valorar estructura fiscal en Presupuesto",
-      "resumen": "La AMF pidió que se considere la estructura económica y fiscal del sector en el Paquete Económico del 2027.",
-      "link": "https://www.reforma.com/piden-ferroviarios-valorar-estructura-fiscal-en-presupuesto/ar3278322",
-      "fecha": "18 Sep 2026, 12:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anunciaría EU aranceles  hasta después de cumbre Xi-Trump",
-      "resumen": "Se espera que Trump posponga el anuncio de nuevos aranceles sobre China y otros socios hasta después de la cumbre con Xi Jinping.",
-      "link": "https://www.reforma.com/anunciaria-eu-aranceles-hasta-despues-de-cumbre-xi-trump/ar3278272",
-      "fecha": "18 Sep 2026, 11:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "... Y piden automotrices de EU mantener fuera a autos chinos",
-      "resumen": "Coalición de fabricantes de automóviles, proveedores y concesionarios instan al Presidente Trump a mantener los autos chinos fuera de EU.",
-      "link": "https://www.reforma.com/y-piden-automotrices-de-eu-mantener-fuera-a-autos-chinos/ar3278278",
-      "fecha": "18 Sep 2026, 11:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra Dow Jones mayor caída semanal desde marzo",
-      "resumen": "En la semana, el Dow Jones bajó 1.7%, siendo su mayor caída semanal desde marzo; seguido por el S&amp;P 500 que cayó 0.1%. El Nasdaq ganó 0.7%.",
-      "link": "https://www.reforma.com/registra-dow-jones-mayor-caida-semanal-desde-marzo/ar3278425",
-      "fecha": "18 Sep 2026, 14:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo semana con pérdidas",
-      "resumen": "Los futuros del Brent cedieron un 0.91%, a 103.87 dólares por barril, mientras que los del crudo WTI perdieron 1.58%, a 100.30 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-semana-con-perdidas/ar3278319",
-      "fecha": "18 Sep 2026, 12:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Confirman nuevo caso de gusano en Nuevo México",
-      "resumen": "Un nuevo caso de gusano barrenador se confirmó en un caballo en el condado de Grant, Nuevo México, previo a la reapertura del puerto.",
-      "link": "https://www.reforma.com/confirman-nuevo-caso-de-gusano-en-nuevo-mexico/ar3278162",
-      "fecha": "18 Sep 2026, 08:26 hrs"
+      "titulo": "Presenta Nscale solicitud para salir a bolsa en EU",
+      "resumen": "Nscale, proveedor de servicios en la nube especializado en infraestructura para IA, presentó una solicitud para salir a bolsa en EU.",
+      "link": "https://www.reforma.com/presenta-nscale-solicitud-para-salir-a-bolsa-en-eu/ar3278448",
+      "fecha": "18 Sep 2026, 15:33 hrs"
     }
   ]
 }
