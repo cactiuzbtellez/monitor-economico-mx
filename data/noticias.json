@@ -1,5 +1,5 @@
 {
-  "actualizado": "19/09/2026 02:34 hrs",
+  "actualizado": "19/09/2026 06:53 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Encarecen 19% reses ante apertura de EU",
+      "resumen": "Los becerros machos para engorda criados en Sonora se han encarecido un 19% desde finales de julio debido a la expectativa de demanda en EU.",
+      "link": "https://www.reforma.com/encarecen-19-reses-ante-apertura-de-eu/ar3278640",
+      "fecha": "19 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dudan que postores puedan reactivar AHMSA",
+      "resumen": "Muy dudosa resulta la capacidad financiera de los seis participantes calificados para la subasta en proceso de quiebra de AHMSA.",
+      "link": "https://www.reforma.com/dudan-que-postores-puedan-reactivar-ahmsa/ar3278660",
+      "fecha": "19 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aprietan y aflojan a los criptoactivos",
+      "resumen": "Pese a que se frenó la Clarity Act en EU, la Comisión de Bolsa y Valores (SEC) relajó requisitos para sus operaciones.",
+      "link": "https://www.reforma.com/aprietan-y-aflojan-a-los-criptoactivos/ar3278664",
+      "fecha": "19 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Rechazan trabajadores ¡un bono de Dls. 53 mil!",
+      "resumen": "Miles de trabajadores en Taiwán de Micron Technology amenazan con ir a huelga tras rechazar una bonificación de 53 mil 200 dólares.",
+      "link": "https://www.reforma.com/rechazan-trabajadores-un-bono-de-dls-53-mil/ar3278650",
+      "fecha": "19 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Aplica Hacienda subsidio extra al diesel",
       "resumen": "La SHCP anunció que subsidiará el IEPS a diesel al aplicar de manera adicional un estímulo de 1.8361 pesos por litro.",
       "link": "https://www.reforma.com/aplica-hacienda-subsidio-extra-al-diesel/ar3278622",
@@ -181,42 +217,6 @@
       "resumen": "La SICT y la AFAC firmaron las Bases de Colaboración que establecen nuevos mecanismos en seguridad ante los accidentes e incidentes aéreos.",
       "link": "https://www.reforma.com/buscan-fortalecer-seguridad-en-aviacion-civil/ar3278509",
       "fecha": "18 Sep 2026, 18:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Señalan inconsistencias en incautación de combustible",
-      "resumen": "El aseguramiento de presunto huachicol en la terminal de Grupo SIMSA, exhibe errores operativos de autoridades, dijeron especialistas.",
-      "link": "https://www.reforma.com/senalan-inconsistencias-en-incautacion-de-combustible/ar3278502",
-      "fecha": "18 Sep 2026, 18:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Afirma SIMSA que no es dueña de combustible",
-      "resumen": "SIMSA aseguró que la terminal de almacenamiento de combustibles en San José Iturbide cuenta con permisos y que no es dueña del combustible.",
-      "link": "https://www.reforma.com/afirma-simsa-que-no-es-duena-de-combustible/ar3278489",
-      "fecha": "18 Sep 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sacude Fed al peso y lleva a la BMV a nuevos mínimos del año",
-      "resumen": "Tras el alza de tasas por parte de la Fed, el peso cayó 0.34% a 17.22 por dólar, mientras que la BMV cayó 0.78% a 63 mil 375.93 puntos.",
-      "link": "https://www.reforma.com/sacude-fed-al-peso-y-lleva-a-la-bmv-a-nuevos-minimos-del-ano/ar3278457",
-      "fecha": "18 Sep 2026, 15:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presenta Nscale solicitud para salir a bolsa en EU",
-      "resumen": "Nscale, proveedor de servicios en la nube especializado en infraestructura para IA, presentó una solicitud para salir a bolsa en EU.",
-      "link": "https://www.reforma.com/presenta-nscale-solicitud-para-salir-a-bolsa-en-eu/ar3278448",
-      "fecha": "18 Sep 2026, 15:33 hrs"
     }
   ]
 }
