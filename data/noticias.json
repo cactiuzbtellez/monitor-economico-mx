@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/09/2026 08:31 hrs",
+  "actualizado": "20/09/2026 11:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,9 +150,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Encarecen 19% reses ante apertura de EU",
-      "resumen": "Los becerros machos para engorda criados en Sonora se han encarecido un 19% desde finales de julio debido a la expectativa de demanda en EU.",
-      "link": "https://www.reforma.com/encarecen-19-reses-ante-apertura-de-eu/ar3278640",
+      "titulo": "Alimenta México 'la mesa' de EU",
+      "resumen": "México no sólo tiene tamales y jitomates, como afirma Trump. Y lo que se come en las mesas de ambos países es el mejor ejemplo.",
+      "link": "https://www.reforma.com/alimenta-mexico-la-mesa-de-eu/ar3279041",
+      "fecha": "20 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aprietan y aflojan a los criptoactivos",
+      "resumen": "Pese a que se frenó la Clarity Act en EU, la Comisión de Bolsa y Valores (SEC) relajó requisitos para sus operaciones.",
+      "link": "https://www.reforma.com/aprietan-y-aflojan-a-los-criptoactivos/ar3278664",
       "fecha": "19 Sep 2026, 05:02 hrs"
     },
     {
@@ -168,19 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprietan y aflojan a los criptoactivos",
-      "resumen": "Pese a que se frenó la Clarity Act en EU, la Comisión de Bolsa y Valores (SEC) relajó requisitos para sus operaciones.",
-      "link": "https://www.reforma.com/aprietan-y-aflojan-a-los-criptoactivos/ar3278664",
+      "titulo": "Rechazan trabajadores ¡un bono de Dls. 53 mil!",
+      "resumen": "Miles de trabajadores en Taiwán de Micron Technology amenazan con ir a huelga tras rechazar una bonificación de 53 mil 200 dólares.",
+      "link": "https://www.reforma.com/rechazan-trabajadores-un-bono-de-dls-53-mil/ar3278650",
       "fecha": "19 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rechazan trabajadores ¡un bono de Dls. 53 mil!",
-      "resumen": "Miles de trabajadores en Taiwán de Micron Technology amenazan con ir a huelga tras rechazar una bonificación de 53 mil 200 dólares.",
-      "link": "https://www.reforma.com/rechazan-trabajadores-un-bono-de-dls-53-mil/ar3278650",
+      "titulo": "Encarecen 19% reses ante apertura de EU",
+      "resumen": "Los becerros machos para engorda criados en Sonora se han encarecido un 19% desde finales de julio debido a la expectativa de demanda en EU.",
+      "link": "https://www.reforma.com/encarecen-19-reses-ante-apertura-de-eu/ar3278640",
       "fecha": "19 Sep 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hila BMV cuatro semanas a la baja",
+      "resumen": "La BMV cerró la semana con una caída de 0.86% y en el nivel de 63 mil 375.93 puntos; 584.84 unidades menor al viernes previo.",
+      "link": "https://www.reforma.com/hila-bmv-cuatro-semanas-a-la-baja/ar3278669",
+      "fecha": "20 Sep 2026, 11:03 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Google se unió a OpenAI, Anthropic y Meta al revelar vulneraciones de seguridad causadas por Gemini, su modelo de inteligencia artificial.",
       "link": "https://www.reforma.com/revela-ahora-google-vulneraciones-de-seguridad-hechas-por-ia/ar3278559",
       "fecha": "18 Sep 2026, 18:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene peso peor desempeño semanal en 7 meses",
-      "resumen": "La moneda mexicana tuvo su menor minusvalía semanal en 28 semanas, al subir el dólar 26.26 centavos entre el 11 y el 18 de septiembre.",
-      "link": "https://www.reforma.com/tiene-peso-peor-desempeno-semanal-en-7-meses/ar3278548",
-      "fecha": "18 Sep 2026, 18:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan fortalecer seguridad en aviación civil",
-      "resumen": "La SICT y la AFAC firmaron las Bases de Colaboración que establecen nuevos mecanismos en seguridad ante los accidentes e incidentes aéreos.",
-      "link": "https://www.reforma.com/buscan-fortalecer-seguridad-en-aviacion-civil/ar3278509",
-      "fecha": "18 Sep 2026, 18:14 hrs"
     }
   ]
 }
