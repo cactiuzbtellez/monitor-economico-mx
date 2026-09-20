@@ -1,7 +1,16 @@
 {
-  "actualizado": "19/09/2026 16:08 hrs",
+  "actualizado": "19/09/2026 18:41 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda continúa con baja de impuestos a gasolinas, diésel va por segunda semana con cero IEPS",
+      "resumen": "Del 19 al 25 de septiembre, se otorgará un descuento o estímulo fiscal de 100% a la cuota IEPS que se cobra al diésel, mayormente utilizado para el movimiento masivo de personas y mercancías.",
+      "link": "https://expansion.mx/economia/2026/09/18/hacienda-baja-impuestos-gasolinas-diesel-cero-ieps",
+      "fecha": "18 Sep 2026, 18:00 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Las empresas formales ya inician con estrategias para monitorear y no terminar en las listas negras del SAT ante los cambios contra las factureras.",
       "link": "https://expansion.mx/economia/2026/09/16/lucha-antifactureras-auditorias-expres-empresas-sat",
       "fecha": "16 Sep 2026, 10:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Apps falsas y brechas de ciberseguridad levantan alerta nacional contra fraudes",
-      "resumen": "El aumento de quejas por cargos no reconocidos coincide con aumento de malware en sistema Android, así como correos para robar información de usuarios. Sector financiero refuerza alertas y recomendaci…",
-      "link": "https://expansion.mx/economia/2026/09/16/bancos-mexico-fallas-de-seguridad-alerta",
-      "fecha": "16 Sep 2026, 08:00 hrs"
     },
     {
       "fuente": "Expansión",
