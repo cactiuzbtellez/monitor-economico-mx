@@ -1,7 +1,25 @@
 {
-  "actualizado": "21/09/2026 03:38 hrs",
+  "actualizado": "21/09/2026 10:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolineras y casetas operarán sin efectivo con nueva Ley de Economía Digital",
+      "resumen": "La nueva legislación abrirá la puerta a restringir el uso de dinero físico en actividades cotidianas. El cambio alcanzará a más de 13 mil gasolineras que operan en el país.",
+      "link": "https://expansion.mx/economia/2026/09/21/confirmado-no-podras-pagar-efectivo-gasolineras-y-casetas",
+      "fecha": "21 Sep 2026, 09:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Revolut alcanza un millón de clientes en México",
+      "resumen": "La operación mexicana es la primera que Revolut construyó fuera de Europa con licencia bancaria propia y busca convertirse en plataforma para su expansión en otros mercados.",
+      "link": "https://expansion.mx/economia/2026/09/21/revolut-alcanza-un-millon-de-clientes-en-mexico",
+      "fecha": "21 Sep 2026, 05:01 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Especialistas advierten que los cambios fiscales pueden presionar el flujo de efectivo, elevar el ISR de algunas empresas y trasladar parte del costo a precios.",
       "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
       "fecha": "17 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
-      "resumen": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
-      "link": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
-      "fecha": "16 Sep 2026, 13:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La lucha antifactureras pega a las empresas, por unos pagan todos",
-      "resumen": "Las empresas formales ya inician con estrategias para monitorear y no terminar en las listas negras del SAT ante los cambios contra las factureras.",
-      "link": "https://expansion.mx/economia/2026/09/16/lucha-antifactureras-auditorias-expres-empresas-sat",
-      "fecha": "16 Sep 2026, 10:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plantean limitar tiempo para investigar acoso",
-      "resumen": "Una nueva iniciativa en el Congreso busca fijar un límite máximo de 60 días hábiles para concluir investigaciones internas por acoso",
-      "link": "https://www.reforma.com/plantean-limitar-tiempo-para-investigar-acoso/ar3279406",
-      "fecha": "20 Sep 2026, 21:53 hrs"
+      "titulo": "Iría maíz transgénico a ronda del T-MEC",
+      "resumen": "Al ser el producto agrícola número uno que EU exporta a México, evitar que reglas antitransgénicos lo frenen sería clave en ronda del T-MEC.",
+      "link": "https://www.reforma.com/iria-maiz-transgenico-a-ronda-del-t-mec/ar3279380",
+      "fecha": "21 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alimenta México 'la mesa' de EU",
-      "resumen": "México no sólo tiene tamales y jitomates, como afirma Trump. Y lo que se come en las mesas de ambos países es el mejor ejemplo.",
-      "link": "https://www.reforma.com/alimenta-mexico-la-mesa-de-eu/ar3279041",
-      "fecha": "20 Sep 2026, 05:01 hrs"
+      "titulo": "Busca México impulsar las importaciones de bienes de EU",
+      "resumen": "México busca vías para reducir las importaciones de otras naciones y comprar más a EU, en el marco de las conversaciones sobre el T-MEC.",
+      "link": "https://www.reforma.com/busca-mexico-impulsar-las-importaciones-de-bienes-de-eu/ar3279566",
+      "fecha": "21 Sep 2026, 09:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprietan y aflojan a los criptoactivos",
-      "resumen": "Pese a que se frenó la Clarity Act en EU, la Comisión de Bolsa y Valores (SEC) relajó requisitos para sus operaciones.",
-      "link": "https://www.reforma.com/aprietan-y-aflojan-a-los-criptoactivos/ar3278664",
-      "fecha": "19 Sep 2026, 05:02 hrs"
+      "titulo": "Cede dólar a $17.20 y BMV toca nuevos mínimos del año",
+      "resumen": "Tipo de cambio cotiza en $17.2021 por dólar, con un alza de 0.11% para el peso, mientras que S&amp;P/BMV IPC baja 0.50% a 63 mil 059.32 puntos.",
+      "link": "https://www.reforma.com/cede-dolar-a-17-20-y-bmv-toca-nuevos-minimos-del-ano/ar3279514",
+      "fecha": "21 Sep 2026, 08:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dudan que postores puedan reactivar AHMSA",
-      "resumen": "Muy dudosa resulta la capacidad financiera de los seis participantes calificados para la subasta en proceso de quiebra de AHMSA.",
-      "link": "https://www.reforma.com/dudan-que-postores-puedan-reactivar-ahmsa/ar3278660",
-      "fecha": "19 Sep 2026, 05:02 hrs"
+      "titulo": "Traería 'Súper Niño' inflación de granos básicos",
+      "resumen": "Especialistas advierten que un periodo de sequía extrema en México podría encarecer hasta un 21% el precio del maíz blanco.",
+      "link": "https://www.reforma.com/traeria-super-nino-inflacion-de-granos-basicos/ar3279376",
+      "fecha": "21 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rechazan trabajadores ¡un bono de Dls. 53 mil!",
-      "resumen": "Miles de trabajadores en Taiwán de Micron Technology amenazan con ir a huelga tras rechazar una bonificación de 53 mil 200 dólares.",
-      "link": "https://www.reforma.com/rechazan-trabajadores-un-bono-de-dls-53-mil/ar3278650",
-      "fecha": "19 Sep 2026, 05:02 hrs"
+      "titulo": "Planea Fibra Educa captar hasta 200 mdd en deuda este año",
+      "resumen": "Fibra Educa busca captar hasta 200 mdd en deuda adicional este año, con planes de adquirir más propiedades que albergan campus.",
+      "link": "https://www.reforma.com/planea-fibra-educa-captar-hasta-200-mdd-en-deuda-este-ano/ar3279509",
+      "fecha": "21 Sep 2026, 08:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Encarecen 19% reses ante apertura de EU",
-      "resumen": "Los becerros machos para engorda criados en Sonora se han encarecido un 19% desde finales de julio debido a la expectativa de demanda en EU.",
-      "link": "https://www.reforma.com/encarecen-19-reses-ante-apertura-de-eu/ar3278640",
-      "fecha": "19 Sep 2026, 05:02 hrs"
+      "titulo": "Caen precios del crudo por debajo de los 100 dólares",
+      "resumen": "El barril de Brent perdía 4% hasta situarse en 99.69 dólares, mientras que el crudo West Texas Intermediate caía 5%, a 95.22 dólares.",
+      "link": "https://www.reforma.com/caen-precios-del-crudo-por-debajo-de-los-100-dolares/ar3279494",
+      "fecha": "21 Sep 2026, 07:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hila BMV cuatro semanas a la baja",
-      "resumen": "La BMV cerró la semana con una caída de 0.86% y en el nivel de 63 mil 375.93 puntos; 584.84 unidades menor al viernes previo.",
-      "link": "https://www.reforma.com/hila-bmv-cuatro-semanas-a-la-baja/ar3278669",
-      "fecha": "20 Sep 2026, 11:03 hrs"
+      "titulo": "Ganan 3 estados en competitividad",
+      "resumen": "Ciudad de México, Nuevo León y Querétaro se mantienen entre las entidades más competitivas del País en los últimos 20 años, según el Imco.",
+      "link": "https://www.reforma.com/ganan-3-estados-en-competitividad/ar3279401",
+      "fecha": "21 Sep 2026, 04:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aplica Hacienda subsidio extra al diesel",
-      "resumen": "La SHCP anunció que subsidiará el IEPS a diesel al aplicar de manera adicional un estímulo de 1.8361 pesos por litro.",
-      "link": "https://www.reforma.com/aplica-hacienda-subsidio-extra-al-diesel/ar3278622",
-      "fecha": "18 Sep 2026, 19:43 hrs"
+      "titulo": "Recibe NL 1,167 mdp menos de participaciones",
+      "resumen": "En enero-agosto de este año, NL recibió participaciones federales por 52,349.4 mdp, 1,166.70 mdp menos respecto a lo programado por Hacienda",
+      "link": "https://www.reforma.com/recibe-nl-1-167-mdp-menos-de-participaciones/ar3279375",
+      "fecha": "21 Sep 2026, 05:01 hrs"
     }
   ]
 }
