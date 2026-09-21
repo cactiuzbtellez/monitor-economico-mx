@@ -1,5 +1,5 @@
 {
-  "actualizado": "21/09/2026 10:13 hrs",
+  "actualizado": "21/09/2026 14:48 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,10 +78,10 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
-      "resumen": "Más de la mitad de las líneas telefónicas activas ya están vinculadas, pero persisten dudas y dificultades entre los usuarios para completar el proceso.",
-      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
-      "fecha": "19 Sep 2026, 08:55 hrs"
+      "titulo": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
+      "resumen": "La promoción incluye paquetes con internet y telefonía, así como opciones de solo internet, con precios desde 349 pesos al mes.",
+      "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
+      "fecha": "21 Sep 2026, 13:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -89,8 +89,17 @@
       "color": "#C8102E",
       "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
       "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
-      "link": "https://expansion.mx/empresas/2026/09/18/marcas-de-la-costena-totis-y-su-imperio-de-alimentos",
-      "fecha": "18 Sep 2026, 15:41 hrs"
+      "link": "https://expansion.mx/empresas/2026/09/21/la-costena-empezo-chiles-construyo-imperio-marcas-totis",
+      "fecha": "21 Sep 2026, 10:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
+      "resumen": "Más de la mitad de las líneas telefónicas activas ya están vinculadas, pero persisten dudas y dificultades entre los usuarios para completar el proceso.",
+      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
+      "fecha": "19 Sep 2026, 08:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "18 Sep 2026, 11:00 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Rusia confisca Nestlé y deja sus marcas bajo control ruso; ¿qué pasará con Nescafé y KitKat?",
-      "resumen": "El decreto de Putin también alcanza a Auchan, Lemana Pro y FM Logistic, mientras Nestlé evalúa cómo proteger sus derechos en Rusia.",
-      "link": "https://expansion.mx/empresas/2026/09/18/rusia-confisca-nestle-que-pasara-con-nescafe-kitkat",
-      "fecha": "18 Sep 2026, 10:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acceso a agua y energía marcarán competitividad.- Imco",
+      "resumen": "Para que México sea competitivo, es determinante que cada uno de us estados cuenten con acceso a agua y energía, dijo el Imco.",
+      "link": "https://www.reforma.com/acceso-a-agua-y-energia-marcaran-competitividad-imco/ar3279657",
+      "fecha": "21 Sep 2026, 12:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Iría maíz transgénico a ronda del T-MEC",
-      "resumen": "Al ser el producto agrícola número uno que EU exporta a México, evitar que reglas antitransgénicos lo frenen sería clave en ronda del T-MEC.",
-      "link": "https://www.reforma.com/iria-maiz-transgenico-a-ronda-del-t-mec/ar3279380",
-      "fecha": "21 Sep 2026, 05:01 hrs"
+      "titulo": "Amenazan amparos por líneas móviles con saturar tribunales",
+      "resumen": "Ante las líneas que no han hecho su vinculación, se esperan amparos masivos contra la suspensión del servicio, dijo la ICC México.",
+      "link": "https://www.reforma.com/amenazan-amparos-por-lineas-moviles-con-saturar-tribunales/ar3279686",
+      "fecha": "21 Sep 2026, 12:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca México impulsar las importaciones de bienes de EU",
+      "titulo": "Descarta Sader impacto en tortilla por precio de maíz",
+      "resumen": "El País cuenta con suficiente abasto de maíz destinado a la fabricación de tortilla, por lo que este alimento no debe aumentar su precio.",
+      "link": "https://www.reforma.com/descarta-sader-impacto-en-tortilla-por-precio-de-maiz/ar3279745",
+      "fecha": "21 Sep 2026, 14:12 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ve comercio reto en proveeduría nacional",
+      "resumen": "El desarrollo de proveeduría nacional representa un reto ante la reorganización de las cadenas globales de suministro, apuntó el Comce.",
+      "link": "https://www.reforma.com/ve-comercio-reto-en-proveeduria-nacional/ar3279614",
+      "fecha": "21 Sep 2026, 12:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Marca Nasdaq nuevo máximo de cierre",
+      "resumen": "El índice Nasdaq alcanzó un nuevo récord al cierre, de 27 mil 122.09 puntos, tras ganar en la sesión un 2.26%.",
+      "link": "https://www.reforma.com/marca-nasdaq-nuevo-maximo-de-cierre/ar3279791",
+      "fecha": "21 Sep 2026, 14:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierran precios del crudo con fuerte baja",
+      "resumen": "El barril de Brent retrocedió un 3.40% hasta los 100.34 dólares, mientras que el de West Texas Intermediate cayó 4.51% a 95.78 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-fuerte-baja/ar3279780",
+      "fecha": "21 Sep 2026, 14:31 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca México impulsar importaciones de bienes de EU",
       "resumen": "México busca vías para reducir las importaciones de otras naciones y comprar más a EU, en el marco de las conversaciones sobre el T-MEC.",
-      "link": "https://www.reforma.com/busca-mexico-impulsar-las-importaciones-de-bienes-de-eu/ar3279566",
+      "link": "https://www.reforma.com/busca-mexico-impulsar-importaciones-de-bienes-de-eu/ar3279566",
       "fecha": "21 Sep 2026, 09:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cede dólar a $17.20 y BMV toca nuevos mínimos del año",
-      "resumen": "Tipo de cambio cotiza en $17.2021 por dólar, con un alza de 0.11% para el peso, mientras que S&amp;P/BMV IPC baja 0.50% a 63 mil 059.32 puntos.",
-      "link": "https://www.reforma.com/cede-dolar-a-17-20-y-bmv-toca-nuevos-minimos-del-ano/ar3279514",
-      "fecha": "21 Sep 2026, 08:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Traería 'Súper Niño' inflación de granos básicos",
-      "resumen": "Especialistas advierten que un periodo de sequía extrema en México podría encarecer hasta un 21% el precio del maíz blanco.",
-      "link": "https://www.reforma.com/traeria-super-nino-inflacion-de-granos-basicos/ar3279376",
-      "fecha": "21 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Planea Fibra Educa captar hasta 200 mdd en deuda este año",
-      "resumen": "Fibra Educa busca captar hasta 200 mdd en deuda adicional este año, con planes de adquirir más propiedades que albergan campus.",
-      "link": "https://www.reforma.com/planea-fibra-educa-captar-hasta-200-mdd-en-deuda-este-ano/ar3279509",
-      "fecha": "21 Sep 2026, 08:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen precios del crudo por debajo de los 100 dólares",
-      "resumen": "El barril de Brent perdía 4% hasta situarse en 99.69 dólares, mientras que el crudo West Texas Intermediate caía 5%, a 95.22 dólares.",
-      "link": "https://www.reforma.com/caen-precios-del-crudo-por-debajo-de-los-100-dolares/ar3279494",
-      "fecha": "21 Sep 2026, 07:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ganan 3 estados en competitividad",
-      "resumen": "Ciudad de México, Nuevo León y Querétaro se mantienen entre las entidades más competitivas del País en los últimos 20 años, según el Imco.",
-      "link": "https://www.reforma.com/ganan-3-estados-en-competitividad/ar3279401",
-      "fecha": "21 Sep 2026, 04:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recibe NL 1,167 mdp menos de participaciones",
-      "resumen": "En enero-agosto de este año, NL recibió participaciones federales por 52,349.4 mdp, 1,166.70 mdp menos respecto a lo programado por Hacienda",
-      "link": "https://www.reforma.com/recibe-nl-1-167-mdp-menos-de-participaciones/ar3279375",
-      "fecha": "21 Sep 2026, 05:01 hrs"
+      "titulo": "Ampliará Bancomext a 75 mmdp cartera de créditos sostenibles",
+      "resumen": "Bancomext expandirá su cartera de créditos verdes y sociales hasta alcanzar los 75 mil millones de pesos al cierre de 2026.",
+      "link": "https://www.reforma.com/ampliara-bancomext-a-75-mmdp-cartera-de-creditos-sostenibles/ar3279637",
+      "fecha": "21 Sep 2026, 11:50 hrs"
     }
   ]
 }
