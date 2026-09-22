@@ -1,16 +1,7 @@
 {
-  "actualizado": "22/09/2026 08:22 hrs",
+  "actualizado": "22/09/2026 12:31 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda de México alcanzará en 2027 su mayor nivel desde 1990",
-      "resumen": "Con más de 1.6 billones de pesos, el costo financiero de la deuda será mayor que los propios ingresos que lleguen por deuda al erario público. Será más del doble que el gasto programable para Pemex.",
-      "link": "https://expansion.mx/economia/2026/09/22/deuda-publica-mexico-nivel-historico-desde-1990",
-      "fecha": "22 Sep 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Aeroméxico estrena rutas sin escalas desde CDMX al Caribe y estos son los destinos; ¿cuándo comienzan?",
-      "resumen": "La expansión reforzará la oferta internacional de Aeroméxico en una temporada clave para los viajes de ocio desde la capital mexicana.",
-      "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
-      "fecha": "22 Sep 2026, 07:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
-      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
-      "link": "https://expansion.mx/empresas/2026/09/22/megacable-desplazar-televisa-mercado-fijo-internet",
-      "fecha": "22 Sep 2026, 05:55 hrs"
+      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
+      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
+      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
+      "fecha": "18 Sep 2026, 09:53 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,13 +129,22 @@
       "fecha": "21 Sep 2026, 16:27 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Duplican en 10 años gasto en pensiones",
-      "resumen": "Según un análisis del CIEP, en 2020, gasto en pensiones era de 4.6% del PIB, para 2027 aumentará al 6.3% y en 2030 será equivalente al 9%.",
-      "link": "https://www.reforma.com/duplican-en-10-anos-gasto-en-pensiones/ar3280073",
-      "fecha": "22 Sep 2026, 05:00 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nike sale del top 100 de las empresas más grandes de EU y el gigante deportivo enfrenta un nuevo escenario",
+      "resumen": "La marca estadounidense sufre los estragos de una creciente competencia, así como una considerable disminución en uno de sus principales mercados.",
+      "link": "https://expansion.mx/empresas/2026/09/21/nike-pierde-lugar-sp-100-dow-jones-despues-18-anos",
+      "fecha": "21 Sep 2026, 15:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
+      "resumen": "La promoción incluye paquetes con internet y telefonía, así como opciones de solo internet, con precios desde 349 pesos al mes.",
+      "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
+      "fecha": "21 Sep 2026, 13:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +168,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dañan malezas más a maíz no transgénico",
-      "resumen": "Pierde grano mexicano nativo productividad frente al producto\nque es modificado con tecnología.",
-      "link": "https://www.reforma.com/danan-malezas-mas-a-maiz-no-transgenico/ar3280053",
-      "fecha": "22 Sep 2026, 07:08 hrs"
+      "titulo": "Pierde fuerza actividad económica en agosto; avanza 0.14%",
+      "resumen": "Durante agosto, el Indicador Oportuno de la Actividad Económica apenas avanzó 0.14% mensual.",
+      "link": "https://www.reforma.com/pierde-fuerza-actividad-economica-en-agosto-avanza-0-14/ar3280234",
+      "fecha": "22 Sep 2026, 10:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,10 +186,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube Amazon Prime su precio tras 10 años",
-      "resumen": "Amazon Prime anunció alzas en sus tarifas en México: el plan mensual pasa de 99 a 129 pesos y la suscripción anual sube de 899 a 945 pesos.",
-      "link": "https://www.reforma.com/sube-amazon-prime-su-precio-tras-10-anos/ar3279994",
-      "fecha": "21 Sep 2026, 20:30 hrs"
+      "titulo": "Dañan malezas más a maíz no transgénico",
+      "resumen": "Pierde grano mexicano nativo productividad frente al producto\nque es modificado con tecnología.",
+      "link": "https://www.reforma.com/danan-malezas-mas-a-maiz-no-transgenico/ar3280053",
+      "fecha": "22 Sep 2026, 07:08 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan licitación irregular de CFE",
-      "resumen": "La licitación de 2 mil 663 cajeros automáticos, por alrededor de 2 mil 100 millones de pesos, tiene irregularidades, denunciaron empresas.",
-      "link": "https://www.reforma.com/acusan-licitacion-irregular-de-cfe/ar3279985",
-      "fecha": "22 Sep 2026, 07:08 hrs"
+      "titulo": "Opera Nasdaq en máximos impulsado por Alphabet",
+      "resumen": "El Nasdaq alcanzó un máximo histórico intradía por primera vez desde principios de junio, de 27 mil 231.48 unidades.",
+      "link": "https://www.reforma.com/opera-nasdaq-en-maximos-impulsado-por-alphabet/ar3280181",
+      "fecha": "22 Sep 2026, 09:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae crudo 1% tras reportes sobre posible reapertura de Ormuz",
+      "resumen": "Los futuros del crudo Brent cedían un 0.89%, a 99.45 dólares el barril, mientras que el contrato del WTI perdía 1.14%, a 94.69 dólares.",
+      "link": "https://www.reforma.com/cae-crudo-1-tras-reportes-sobre-posible-reapertura-de-ormuz/ar3280137",
+      "fecha": "22 Sep 2026, 07:36 hrs"
     }
   ]
 }
