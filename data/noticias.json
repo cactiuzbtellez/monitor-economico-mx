@@ -1,7 +1,43 @@
 {
-  "actualizado": "22/09/2026 03:03 hrs",
+  "actualizado": "22/09/2026 08:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El pago de intereses de la deuda de México alcanzará en 2027 su mayor nivel desde 1990",
+      "resumen": "Con más de 1.6 billones de pesos, el costo financiero de la deuda será mayor que los propios ingresos que lleguen por deuda al erario público. Será más del doble que el gasto programable para Pemex.",
+      "link": "https://expansion.mx/economia/2026/09/22/deuda-publica-mexico-nivel-historico-desde-1990",
+      "fecha": "22 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Millones de pymes quieren exportar, pero aún carecen de financiamiento y acceso a cadenas de valor",
+      "resumen": "El COMCE advierte que el desconocimiento de los tratados comerciales, la falta de asesoría y las dificultades para encontrar compradores mantienen a pequeños negocios fuera del mercado internacional.",
+      "link": "https://expansion.mx/economia/2026/09/21/pymes-exportar-carecen-financiamiento-cadenas-valor",
+      "fecha": "21 Sep 2026, 18:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SoftBank emite bonos basura por más de 10,000 mdd para invertir en OpenAI",
+      "resumen": "SoftBank busca 10,000 mdd en bonos basura para su apuesta en OpenAI; sería la mayor colocación corporativa en Asia-Pacífico.",
+      "link": "https://expansion.mx/economia/2026/09/21/softbank-emite-bonos-basura-por-mas-de-10-000-mdd-para-invertir-en-openai",
+      "fecha": "21 Sep 2026, 17:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Amador Zamora defiende reducción \"histórica\" de la pobreza ante críticas de Guillermo Ortiz Martínez",
+      "resumen": "El secretario de Hacienda defendió el comportamiento de la inflación, la política del incremento al salario mínimo, la cual no existió en el periodo \"neoliberal\" del país.",
+      "link": "https://expansion.mx/economia/2026/09/21/amador-zamora-responde-ortiz-minimiza-reduccion-pobreza",
+      "fecha": "21 Sep 2026, 17:33 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,120 +76,120 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
-      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
-      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
-      "fecha": "18 Sep 2026, 09:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con la Ley de Economía Digital, Sheinbaum quiere disminuir el uso de efectivo en México y 'despertar' a Codi y DiMo",
-      "resumen": "El gobierno determinará en qué sectores de la economía no se aceptarán pagos con dinero físico. Especialistas advierten posibles riesgos en prevención de lavado de dinero y ejecución.",
-      "link": "https://expansion.mx/economia/2026/09/18/sheinbaum-ley-economia-digital-pagos-codi-dimo",
-      "fecha": "18 Sep 2026, 05:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Presupuesto 2027 convence a Fitch, aunque deja pendiente el problema de la deuda",
-      "resumen": "El gobierno mexicano busca reducir el déficit de 4.1% a 3.9% del PIB en 2027, pero la calificadora calcula que tendría que acercarse a 2.5% para estabilizar la deuda pública.",
-      "link": "https://expansion.mx/economia/2026/09/17/fitch-presupuesto-2027-deuda-deficit-mexico",
-      "fecha": "17 Sep 2026, 16:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las empresas lidian con auditorías exprés, mientras se preparan para límites a sus deducciones",
-      "resumen": "Especialistas advierten que los cambios fiscales pueden presionar el flujo de efectivo, elevar el ISR de algunas empresas y trasladar parte del costo a precios.",
-      "link": "https://expansion.mx/economia/2026/09/17/empresas-auditorias-expres-limite-deducciones-efectos",
-      "fecha": "17 Sep 2026, 05:55 hrs"
+      "titulo": "Aeroméxico estrena rutas sin escalas desde CDMX al Caribe y estos son los destinos; ¿cuándo comienzan?",
+      "resumen": "La expansión reforzará la oferta internacional de Aeroméxico en una temporada clave para los viajes de ocio desde la capital mexicana.",
+      "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
+      "fecha": "22 Sep 2026, 07:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
-      "resumen": "La promoción incluye paquetes con internet y telefonía, así como opciones de solo internet, con precios desde 349 pesos al mes.",
-      "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
-      "fecha": "21 Sep 2026, 13:01 hrs"
+      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
+      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
+      "link": "https://expansion.mx/empresas/2026/09/22/megacable-desplazar-televisa-mercado-fijo-internet",
+      "fecha": "22 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
-      "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
-      "link": "https://expansion.mx/empresas/2026/09/21/la-costena-empezo-chiles-construyo-imperio-marcas-totis",
-      "fecha": "21 Sep 2026, 10:44 hrs"
+      "titulo": "Aeroméxico adjudica exposición de datos de clientes por Telegram a un ciberataque",
+      "resumen": "Los datos expuestos hasta ahora involucran nombres, fechas de nacimiento, correos electrónicos y números telefónicos.",
+      "link": "https://expansion.mx/empresas/2026/09/21/aeromexico-adjudica-exposicion-datos-clientes-a-ciberataque",
+      "fecha": "21 Sep 2026, 20:40 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
-      "resumen": "Más de la mitad de las líneas telefónicas activas ya están vinculadas, pero persisten dudas y dificultades entre los usuarios para completar el proceso.",
-      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
-      "fecha": "19 Sep 2026, 08:55 hrs"
+      "titulo": "GWM lanza P300, evolución de Poer, para crecer 50% en pickups; la PHEV será su vitrina tecnológica",
+      "resumen": "La automotriz reorganiza su gama, red y ventas a flotillas para convertir una pickup de trabajo en un negocio también de uso cotidiano.",
+      "link": "https://expansion.mx/empresas/2026/09/21/gwm-lanza-p300-evolucion-de-poer",
+      "fecha": "21 Sep 2026, 18:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Antes de Omnilife y Chivas, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
-      "resumen": "Antes de Omnilife y Chivas, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
-      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
-      "fecha": "18 Sep 2026, 13:57 hrs"
+      "titulo": "Dolores tiene un plan para llevar pescados y mariscos a nuevas ocasiones de consumo",
+      "resumen": "La empresa dueña de Dolores busca ampliar el consumo con productos premium funcionales y nuevas preparaciones de salmón, mientras gana espacio en los autoservicios.",
+      "link": "https://expansion.mx/empresas/2026/09/21/dolores-plan-mas-pescados-y-mariscos-en-el-consumo",
+      "fecha": "21 Sep 2026, 17:57 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
-      "resumen": "El gobierno federal plantea aumentar de 1.25% a 3% los derechos que pagan las empresas operadoras por sus concesiones ferroviarias.",
-      "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
-      "fecha": "18 Sep 2026, 13:27 hrs"
+      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
+      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
+      "link": "https://expansion.mx/empresas/2026/09/21/produccion-de-nissan-cae-25-resiente-cierres-de-plantas",
+      "fecha": "21 Sep 2026, 17:36 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Qué pasó con la Combi? La Volkswagen que todos conocían y que desapareció de las calles de México",
-      "resumen": "La Combi fue uno de los modelos que se impregnó en la cultura popular mexicana gracias a su versatilidad.",
-      "link": "https://expansion.mx/empresas/2026/09/18/combi-historia-camioneta-volkswagen-conquisto-mexico",
-      "fecha": "18 Sep 2026, 13:00 hrs"
+      "titulo": "Gobierno subsidia más de 9 pesos de cada litro de diésel con tal de mantener el control de precios",
+      "resumen": "Entre el estimulo al IEPS de 7.36 pesos y el complementario de 1.83 que aplicó Hacienda para esta semana, se busca mantener el diésel en 27 pesos por litro.",
+      "link": "https://expansion.mx/empresas/2026/09/21/gobierno-subsidia-diesel-mantener-control-precios",
+      "fecha": "21 Sep 2026, 17:05 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Vuori abre su primera tienda en México para competir por el mercado de ropa deportiva premium",
-      "resumen": "La marca abrió en Antara su primera tienda en México de la mano de Grupo Axo y contempla superar 10 unidades.",
-      "link": "https://expansion.mx/empresas/2026/09/18/vuori-primera-tienda-mexico-competir-lululemon",
-      "fecha": "18 Sep 2026, 11:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
-      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
-      "link": "https://expansion.mx/empresas/2026/09/18/vitacilina-historia-tubo-verde-a-skincare",
-      "fecha": "18 Sep 2026, 11:00 hrs"
+      "titulo": "Coppel comenzó como una pequeña tienda de regalos en Culiacán y hoy es un imperio de casi 300,000 mdp",
+      "resumen": "El Regalo fue el punto de partida de una historia marcada por el ahorro, el crédito y una estrategia que convirtió un negocio local en una potencia comercial.",
+      "link": "https://expansion.mx/empresas/2026/09/21/coppel-tienda-de-regalos-a-imperio-mexico",
+      "fecha": "21 Sep 2026, 16:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Chocan Amador y Ortiz por indicadores económicos en México",
-      "resumen": "El Secretario de Hacienda, Édgar Amador respondió con datos duros al texto publicado por el ex Secretario Guillermo Ortiz.",
-      "link": "https://www.reforma.com/chocan-amador-y-ortiz-por-indicadores-economicos-en-mexico/ar3279837",
-      "fecha": "21 Sep 2026, 17:03 hrs"
+      "titulo": "Duplican en 10 años gasto en pensiones",
+      "resumen": "Según un análisis del CIEP, en 2020, gasto en pensiones era de 4.6% del PIB, para 2027 aumentará al 6.3% y en 2030 será equivalente al 9%.",
+      "link": "https://www.reforma.com/duplican-en-10-anos-gasto-en-pensiones/ar3280073",
+      "fecha": "22 Sep 2026, 05:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen a México ordenar pensiones",
+      "resumen": "Ante creciente gasto en pensiones, experto urgió a crear Ley General y Secretaría especializada para que se unifiquen criterios.",
+      "link": "https://www.reforma.com/urgen-a-mexico-ordenar-pensiones/ar3280042",
+      "fecha": "22 Sep 2026, 07:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descartan afectación en Modalidad 40",
+      "resumen": "Tras registrarse intermitencias en el IMSS para generar los recibos de pago de la Modalidad 40, fuentes del descartaron afectaciones.",
+      "link": "https://www.reforma.com/descartan-afectacion-en-modalidad-40/ar3280055",
+      "fecha": "22 Sep 2026, 07:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dañan malezas más a maíz no transgénico",
+      "resumen": "Pierde grano mexicano nativo productividad frente al producto\nque es modificado con tecnología.",
+      "link": "https://www.reforma.com/danan-malezas-mas-a-maiz-no-transgenico/ar3280053",
+      "fecha": "22 Sep 2026, 07:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se debilita peso por cautela ante decisión de Banxico",
+      "resumen": "Tipo de cambio cotiza en $17.24 por dólar, con una pérdida de 0.18% para la moneda mexicana, ante expectativas de que Banxico mantenga tasa.",
+      "link": "https://www.reforma.com/se-debilita-peso-por-cautela-ante-decision-de-banxico/ar3280149",
+      "fecha": "22 Sep 2026, 07:55 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compra Esentia gasoducto a TC Energy en 400 mdd",
-      "resumen": "Esentia compró, por 400 millones de dólares, a Energía Occidente de México, filial de la canadiense TC Energy.",
-      "link": "https://www.reforma.com/compra-esentia-gasoducto-a-tc-energy-en-400-mdd/ar3279939",
-      "fecha": "21 Sep 2026, 18:38 hrs"
+      "titulo": "Apoyarán en NL a pymes rurales",
+      "resumen": "La Universidad Autónoma de Nuevo León (UANL) lanzó el programa \"Desarrollo sin Desfase: Capacitación y Acompañamiento Empresarial Rural\".",
+      "link": "https://www.reforma.com/apoyaran-en-nl-a-pymes-rurales/ar3280052",
+      "fecha": "22 Sep 2026, 07:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acceso a agua y energía marcarán competitividad.- Imco",
-      "resumen": "Para que México sea competitivo, es determinante que cada uno de us estados cuenten con acceso a agua y energía, dijo el Imco.",
-      "link": "https://www.reforma.com/acceso-a-agua-y-energia-marcaran-competitividad-imco/ar3279657",
-      "fecha": "21 Sep 2026, 12:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amenazan amparos por líneas móviles con saturar tribunales",
-      "resumen": "Ante las líneas que no han hecho su vinculación, se esperan amparos masivos contra la suspensión del servicio, dijo la ICC México.",
-      "link": "https://www.reforma.com/amenazan-amparos-por-lineas-moviles-con-saturar-tribunales/ar3279686",
-      "fecha": "21 Sep 2026, 12:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Descarta Sader impacto en tortilla por precio de maíz",
-      "resumen": "El País cuenta con suficiente abasto de maíz destinado a la fabricación de tortilla, por lo que este alimento no debe aumentar su precio.",
-      "link": "https://www.reforma.com/descarta-sader-impacto-en-tortilla-por-precio-de-maiz/ar3279745",
-      "fecha": "21 Sep 2026, 14:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Marca Nasdaq nuevo máximo de cierre",
-      "resumen": "El índice Nasdaq alcanzó un nuevo récord al cierre, de 27 mil 122.09 puntos, tras ganar en la sesión un 2.26%.",
-      "link": "https://www.reforma.com/marca-nasdaq-nuevo-maximo-de-cierre/ar3279791",
-      "fecha": "21 Sep 2026, 14:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Realizará STPS más de 38 mil inspecciones este año",
-      "resumen": "Este año, la STPS llevará a cabo 38 mil 455 inspecciones en un modelo focalizado y basado en riesgos, informó la dependencia.",
-      "link": "https://www.reforma.com/realizara-stps-mas-de-38-mil-inspecciones-este-ano/ar3279916",
-      "fecha": "21 Sep 2026, 18:14 hrs"
+      "titulo": "Acusan licitación irregular de CFE",
+      "resumen": "La licitación de 2 mil 663 cajeros automáticos, por alrededor de 2 mil 100 millones de pesos, tiene irregularidades, denunciaron empresas.",
+      "link": "https://www.reforma.com/acusan-licitacion-irregular-de-cfe/ar3279985",
+      "fecha": "22 Sep 2026, 07:08 hrs"
     }
   ]
 }
