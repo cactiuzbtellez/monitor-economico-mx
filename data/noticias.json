@@ -1,7 +1,25 @@
 {
-  "actualizado": "22/09/2026 12:31 hrs",
+  "actualizado": "22/09/2026 15:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
+      "resumen": "El banco cambiará el horario de sus más de 1,500 sucursales en México y abrirá más tarde entre semana.",
+      "link": "https://expansion.mx/economia/2026/09/22/bbva-cambia-horario-sucursales",
+      "fecha": "22 Sep 2026, 11:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El pago de intereses de la deuda de México alcanzará en 2027 su mayor nivel desde 1990",
+      "resumen": "Con más de 1.6 billones de pesos, el costo financiero de la deuda será mayor que los propios ingresos que lleguen por deuda al erario público. Será más del doble que el gasto programable para Pemex.",
+      "link": "https://expansion.mx/economia/2026/09/22/deuda-publica-mexico-nivel-historico-desde-1990",
+      "fecha": "22 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bancos y Sofomes tienen liquidez, pero las pymes pisan el freno al crédito",
-      "resumen": "El crédito a pymes pierde dinamismo pese a la liquidez de bancos y Sofomes. Menor inversión, informalidad y desorden financiero frenan una mayor colocación.",
-      "link": "https://expansion.mx/economia/2026/09/18/bancos-sofomes-liquidez-pymes-credito",
-      "fecha": "18 Sep 2026, 16:45 hrs"
+      "titulo": "Primark vs. Suburbia: la llegada del nuevo aliado de Liverpool pone en riesgo a la empresa mexicana",
+      "resumen": "Primark puede disputar clientes a Suburbia, mientras Liverpool aprovecharía sus centros comerciales, tiendas y canales digitales para impulsar la marca sin descuidar otros segmentos.",
+      "link": "https://expansion.mx/empresas/2026/09/22/primark-suburbia-liverpool-centros-comerciales-mexico",
+      "fecha": "22 Sep 2026, 12:00 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hacienda propone actualizar el Derecho por uso de vías férreas de 1.25% a 3%; descarta alzas en tarifas o bienes",
-      "resumen": "El objetivo es actualizar una contraprestación que no ha sufrido modificaciones desde los años 90 y reconocer el valor actual del uso y explotación de activos patrimonio de la nación.",
-      "link": "https://expansion.mx/economia/2026/09/18/hacienda-derecho-uso-vias-ferreas-mexico",
-      "fecha": "18 Sep 2026, 09:53 hrs"
+      "titulo": "Jorge Vergara se arriesgó con Chivas USA; compró barato, multiplicó 14 veces su precio y lo vendió a la MLS por 70 mdd",
+      "resumen": "La filial rojiblanca en Los Ángeles pasó de promesa internacional a convertirse en uno de los negocios más singulares de Vergara.",
+      "link": "https://expansion.mx/empresas/2026/09/22/jorge-vergara-arriesgo-se-arriego-con-chivas-usa",
+      "fecha": "22 Sep 2026, 11:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
+      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
+      "link": "https://expansion.mx/empresas/2026/09/22/megacable-va-televisa-esta-desplazar-izzi-sky-internet-fijo",
+      "fecha": "22 Sep 2026, 10:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Aeroméxico estrena rutas sin escalas desde CDMX al Caribe y estos son los destinos; ¿cuándo comienzan?",
+      "resumen": "La expansión reforzará la oferta internacional de Aeroméxico en una temporada clave para los viajes de ocio desde la capital mexicana.",
+      "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
+      "fecha": "22 Sep 2026, 07:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,58 +147,31 @@
       "fecha": "21 Sep 2026, 17:36 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gobierno subsidia más de 9 pesos de cada litro de diésel con tal de mantener el control de precios",
-      "resumen": "Entre el estimulo al IEPS de 7.36 pesos y el complementario de 1.83 que aplicó Hacienda para esta semana, se busca mantener el diésel en 27 pesos por litro.",
-      "link": "https://expansion.mx/empresas/2026/09/21/gobierno-subsidia-diesel-mantener-control-precios",
-      "fecha": "21 Sep 2026, 17:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coppel comenzó como una pequeña tienda de regalos en Culiacán y hoy es un imperio de casi 300,000 mdp",
-      "resumen": "El Regalo fue el punto de partida de una historia marcada por el ahorro, el crédito y una estrategia que convirtió un negocio local en una potencia comercial.",
-      "link": "https://expansion.mx/empresas/2026/09/21/coppel-tienda-de-regalos-a-imperio-mexico",
-      "fecha": "21 Sep 2026, 16:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nike sale del top 100 de las empresas más grandes de EU y el gigante deportivo enfrenta un nuevo escenario",
-      "resumen": "La marca estadounidense sufre los estragos de una creciente competencia, así como una considerable disminución en uno de sus principales mercados.",
-      "link": "https://expansion.mx/empresas/2026/09/21/nike-pierde-lugar-sp-100-dow-jones-despues-18-anos",
-      "fecha": "21 Sep 2026, 15:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
-      "resumen": "La promoción incluye paquetes con internet y telefonía, así como opciones de solo internet, con precios desde 349 pesos al mes.",
-      "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
-      "fecha": "21 Sep 2026, 13:01 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden revalorar economía generada por mayores de 50 años",
+      "resumen": "Pese a los niveles de economía que generan las personas mayores de 50 años, su potencial es ignorado por la sociedad, destacó analista.",
+      "link": "https://www.reforma.com/piden-revalorar-economia-generada-por-mayores-de-50-anos/ar3280377",
+      "fecha": "22 Sep 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a México ordenar pensiones",
-      "resumen": "Ante creciente gasto en pensiones, experto urgió a crear Ley General y Secretaría especializada para que se unifiquen criterios.",
-      "link": "https://www.reforma.com/urgen-a-mexico-ordenar-pensiones/ar3280042",
-      "fecha": "22 Sep 2026, 07:08 hrs"
+      "titulo": "Advierte ex jefe de seguridad de Google que IA dañaría niños",
+      "resumen": "Tom Siegel, vicepresidente de seguridad de Google, advirtió que la IA podría causar el mismo daño a menores que las redes sociales.",
+      "link": "https://www.reforma.com/advierte-ex-jefe-de-seguridad-de-google-que-ia-danaria-ninos/ar3280479",
+      "fecha": "22 Sep 2026, 15:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descartan afectación en Modalidad 40",
-      "resumen": "Tras registrarse intermitencias en el IMSS para generar los recibos de pago de la Modalidad 40, fuentes del descartaron afectaciones.",
-      "link": "https://www.reforma.com/descartan-afectacion-en-modalidad-40/ar3280055",
-      "fecha": "22 Sep 2026, 07:08 hrs"
+      "titulo": "Prohibiría Trump la exportación de diésel estadounidense",
+      "resumen": "El Presidente Trump expresó su apoyo a prohibir exportación de diésel, luego que los precios se dispararan por la guerra en Medio Oriente.",
+      "link": "https://www.reforma.com/prohibiria-trump-la-exportacion-de-diesel-estadounidense/ar3280329",
+      "fecha": "22 Sep 2026, 12:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Liga Nasdaq su segundo cierre récord",
+      "resumen": "El Nasdaq alcanzó un máximo de cierre, de 27 mil 243 unidades, impulsado por Micron Technology y otros valores relacionados con la IA.",
+      "link": "https://www.reforma.com/liga-nasdaq-su-segundo-cierre-record/ar3280440",
+      "fecha": "22 Sep 2026, 15:04 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo Brent con baja de 1.09%, a 99.25 dólares",
+      "resumen": "Los precios del petróleo bajaron cerca de 1%, ante la esperanza de avances diplomáticos en el conflicto de Medio Oriente.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-con-baja-de-1-09-a-99-25-dolares/ar3280418",
+      "fecha": "22 Sep 2026, 14:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suman ingresos 2 reveses en comercio al menudeo",
+      "resumen": "En las empresas del comercio al por menor, los ingresos totales descendieron 0.12% durante julio; acumulan dos retrocesos a tasa mensual.",
+      "link": "https://www.reforma.com/suman-ingresos-2-reveses-en-comercio-al-menudeo/ar3280382",
+      "fecha": "22 Sep 2026, 14:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Se debilita peso por cautela ante decisión de Banxico",
       "resumen": "Tipo de cambio cotiza en $17.24 por dólar, con una pérdida de 0.18% para la moneda mexicana, ante expectativas de que Banxico mantenga tasa.",
       "link": "https://www.reforma.com/se-debilita-peso-por-cautela-ante-decision-de-banxico/ar3280149",
       "fecha": "22 Sep 2026, 07:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dañan malezas más a maíz no transgénico",
-      "resumen": "Pierde grano mexicano nativo productividad frente al producto\nque es modificado con tecnología.",
-      "link": "https://www.reforma.com/danan-malezas-mas-a-maiz-no-transgenico/ar3280053",
-      "fecha": "22 Sep 2026, 07:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apoyarán en NL a pymes rurales",
-      "resumen": "La Universidad Autónoma de Nuevo León (UANL) lanzó el programa \"Desarrollo sin Desfase: Capacitación y Acompañamiento Empresarial Rural\".",
-      "link": "https://www.reforma.com/apoyaran-en-nl-a-pymes-rurales/ar3280052",
-      "fecha": "22 Sep 2026, 07:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Opera Nasdaq en máximos impulsado por Alphabet",
-      "resumen": "El Nasdaq alcanzó un máximo histórico intradía por primera vez desde principios de junio, de 27 mil 231.48 unidades.",
-      "link": "https://www.reforma.com/opera-nasdaq-en-maximos-impulsado-por-alphabet/ar3280181",
-      "fecha": "22 Sep 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae crudo 1% tras reportes sobre posible reapertura de Ormuz",
-      "resumen": "Los futuros del crudo Brent cedían un 0.89%, a 99.45 dólares el barril, mientras que el contrato del WTI perdía 1.14%, a 94.69 dólares.",
-      "link": "https://www.reforma.com/cae-crudo-1-tras-reportes-sobre-posible-reapertura-de-ormuz/ar3280137",
-      "fecha": "22 Sep 2026, 07:36 hrs"
     }
   ]
 }
