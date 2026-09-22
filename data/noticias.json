@@ -1,7 +1,25 @@
 {
-  "actualizado": "21/09/2026 21:33 hrs",
+  "actualizado": "22/09/2026 03:03 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolineras y casetas operarán sin efectivo con nueva Ley de Economía Digital",
+      "resumen": "La nueva legislación abrirá la puerta a restringir el uso de dinero físico en actividades cotidianas. El cambio alcanzará a más de 13 mil gasolineras que operan en el país.",
+      "link": "https://expansion.mx/economia/2026/09/21/confirmado-no-podras-pagar-efectivo-gasolineras-y-casetas",
+      "fecha": "21 Sep 2026, 09:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Revolut alcanza un millón de clientes en México",
+      "resumen": "La operación mexicana es la primera que Revolut construyó fuera de Europa con licencia bancaria propia y busca convertirse en plataforma para su expansión en otros mercados.",
+      "link": "https://expansion.mx/economia/2026/09/21/revolut-alcanza-un-millon-de-clientes-en-mexico",
+      "fecha": "21 Sep 2026, 05:01 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,93 +76,75 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Fed sube la tasa de interés hasta el 4% ante presiones inflacionarias y anticipa más aumentos",
-      "resumen": "Luego de más de tres años, la Reserva Federal subió su tasa a un rango de 3.75% a 4% por unanimidad, a fin de frenar la inflación y llevarla a su objetivo del 2%.",
-      "link": "https://expansion.mx/economia/2026/09/16/fed-sube-tasas-interes-2026-inflacion",
-      "fecha": "16 Sep 2026, 13:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La lucha antifactureras pega a las empresas, por unos pagan todos",
-      "resumen": "Las empresas formales ya inician con estrategias para monitorear y no terminar en las listas negras del SAT ante los cambios contra las factureras.",
-      "link": "https://expansion.mx/economia/2026/09/16/lucha-antifactureras-auditorias-expres-empresas-sat",
-      "fecha": "16 Sep 2026, 10:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aeroméxico adjudica exposición de datos de clientes por Telegram a un ciberataque",
-      "resumen": "Los datos expuestos hasta ahora involucran nombres, fechas de nacimiento, correos electrónicos y números telefónicos.",
-      "link": "https://expansion.mx/empresas/2026/09/21/aeromexico-adjudica-exposicion-datos-clientes-a-ciberataque",
-      "fecha": "21 Sep 2026, 20:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "GWM lanza P300, evolución de Poer, para crecer 50% en pickups; la PHEV será su vitrina tecnológica",
-      "resumen": "La automotriz reorganiza su gama, red y ventas a flotillas para convertir una pickup de trabajo en un negocio también de uso cotidiano.",
-      "link": "https://expansion.mx/empresas/2026/09/21/gwm-lanza-p300-evolucion-de-poer",
-      "fecha": "21 Sep 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Dolores tiene un plan para llevar pescados y mariscos a nuevas ocasiones de consumo",
-      "resumen": "La empresa dueña de Dolores busca ampliar el consumo con productos premium funcionales y nuevas preparaciones de salmón, mientras gana espacio en los autoservicios.",
-      "link": "https://expansion.mx/empresas/2026/09/21/dolores-plan-mas-pescados-y-mariscos-en-el-consumo",
-      "fecha": "21 Sep 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
-      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
-      "link": "https://expansion.mx/empresas/2026/09/21/produccion-de-nissan-cae-25-resiente-cierres-de-plantas",
-      "fecha": "21 Sep 2026, 17:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gobierno subsidia más de 9 pesos de cada litro de diésel con tal de mantener el control de precios",
-      "resumen": "Entre el estimulo al IEPS de 7.36 pesos y el complementario de 1.83 que aplicó Hacienda para esta semana, se busca mantener el diésel en 27 pesos por litro.",
-      "link": "https://expansion.mx/empresas/2026/09/21/gobierno-subsidia-diesel-mantener-control-precios",
-      "fecha": "21 Sep 2026, 17:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Coppel comenzó como una pequeña tienda de regalos en Culiacán y hoy es un imperio de casi 300,000 mdp",
-      "resumen": "El Regalo fue el punto de partida de una historia marcada por el ahorro, el crédito y una estrategia que convirtió un negocio local en una potencia comercial.",
-      "link": "https://expansion.mx/empresas/2026/09/21/coppel-tienda-de-regalos-a-imperio-mexico",
-      "fecha": "21 Sep 2026, 16:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nike sale del top 100 de las empresas más grandes de EU y el gigante deportivo enfrenta un nuevo escenario",
-      "resumen": "La marca estadounidense sufre los estragos de una creciente competencia, así como una considerable disminución en uno de sus principales mercados.",
-      "link": "https://expansion.mx/empresas/2026/09/21/nike-pierde-lugar-sp-100-dow-jones-despues-18-anos",
-      "fecha": "21 Sep 2026, 15:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Carlos Slim aumenta la velocidad de Telmex sin subir el precio y modifica estos paquetes de internet",
       "resumen": "La promoción incluye paquetes con internet y telefonía, así como opciones de solo internet, con precios desde 349 pesos al mes.",
       "link": "https://expansion.mx/empresas/2026/09/21/carlos-slim-aumenta-velocidad-internet-telmex-paquetes",
       "fecha": "21 Sep 2026, 13:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La Costeña tiene a Totis, pero su imperio incluye marcas que millones consumen sin saber que son suyas",
+      "resumen": "La empresa que comenzó con una pequeña tienda de abarrotes en Tlatelolco hoy opera un amplio portafolio de alimentos y genera casi 19,000 millones de pesos.",
+      "link": "https://expansion.mx/empresas/2026/09/21/la-costena-empezo-chiles-construyo-imperio-marcas-totis",
+      "fecha": "21 Sep 2026, 10:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Registro telefónico llega a 54.7%, mientras las fallas en plataformas aún complican la vinculación",
+      "resumen": "Más de la mitad de las líneas telefónicas activas ya están vinculadas, pero persisten dudas y dificultades entre los usuarios para completar el proceso.",
+      "link": "https://expansion.mx/empresas/2026/09/19/registro-telefonico-fallas-plataformas-complican-vinculacion",
+      "fecha": "19 Sep 2026, 08:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Omnilife y Chivas, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
+      "resumen": "Antes de Omnilife y Chivas, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
+      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-omnilife-chivas-jorge-vergara-vendia-carnitas",
+      "fecha": "18 Sep 2026, 13:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "CPKC advierte freno a la inversión en ferrocarriles si el Gobierno eleva el cobro de derecho de vía al 3%",
+      "resumen": "El gobierno federal plantea aumentar de 1.25% a 3% los derechos que pagan las empresas operadoras por sus concesiones ferroviarias.",
+      "link": "https://expansion.mx/empresas/2026/09/18/cpkc-freno-inversion-ferrocarriles-sube-cobro-derecho-de-via",
+      "fecha": "18 Sep 2026, 13:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué pasó con la Combi? La Volkswagen que todos conocían y que desapareció de las calles de México",
+      "resumen": "La Combi fue uno de los modelos que se impregnó en la cultura popular mexicana gracias a su versatilidad.",
+      "link": "https://expansion.mx/empresas/2026/09/18/combi-historia-camioneta-volkswagen-conquisto-mexico",
+      "fecha": "18 Sep 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Vuori abre su primera tienda en México para competir por el mercado de ropa deportiva premium",
+      "resumen": "La marca abrió en Antara su primera tienda en México de la mano de Grupo Axo y contempla superar 10 unidades.",
+      "link": "https://expansion.mx/empresas/2026/09/18/vuori-primera-tienda-mexico-competir-lululemon",
+      "fecha": "18 Sep 2026, 11:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La Vitacilina que conocían tus abuelos ahora vende sérums y productos para el cabello",
+      "resumen": "La marca que durante décadas estuvo asociada con el ungüento de la caja verde amplió su portafolio hacia productos faciales, corporales y capilares.",
+      "link": "https://expansion.mx/empresas/2026/09/18/vitacilina-historia-tubo-verde-a-skincare",
+      "fecha": "18 Sep 2026, 11:00 hrs"
     },
     {
       "fuente": "Reforma",
