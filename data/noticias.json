@@ -1,7 +1,34 @@
 {
-  "actualizado": "23/09/2026 09:18 hrs",
+  "actualizado": "23/09/2026 13:27 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "OCDE mejora pronóstico para México, pero advierte inflación persistente y crédito caro",
+      "resumen": "La OCDE elevó a 1.5% su previsión de crecimiento para México en 2026, aunque advirtió que la persistencia de la inflación energética y las tasas altas seguirán limitando a la economía.",
+      "link": "https://expansion.mx/economia/2026/09/23/ocde-mejora-crecimiento-mexico-inflacion-bolsillo-2026",
+      "fecha": "23 Sep 2026, 08:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Reforma a Ley Aduanera representa atrasos y sobrecostos para importadores y exportadores",
+      "resumen": "La propuesta busca eliminar la subvaluación de mercancías, pero debe aplicarse sobre operaciones que representen riesgos, y no en general, refieren industriales, agentes aduanales y académicos.",
+      "link": "https://expansion.mx/economia/2026/09/23/reforma-ley-aduanera-atrasos-costos-importadores",
+      "fecha": "23 Sep 2026, 07:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las cámaras empresariales alertan que limitar deducciones pegará a la inversión y el empleo",
+      "resumen": "CCE, Coparmex y COMCE respaldan el combate a la evasión, pero señalan que la medida prevista para el próximo año elevará la carga fiscal y presionará la liquidez empresarial.",
+      "link": "https://expansion.mx/economia/2026/09/23/limite-deducciones-amenaza-inversion-empleo-formal-ip",
+      "fecha": "23 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Fitch mejora a 1.4% el crecimiento de México para 2026 por el impulso de EU y la IA",
-      "resumen": "La calificadora elevó en 0.4 puntos porcentuales su pronóstico, aunque advirtió que la incertidumbre por el T-MEC y las reformas internas puede limitar la inversión.",
-      "link": "https://expansion.mx/economia/2026/09/22/fitch-mejora-crecimiento-mexico-2026-ia-eu-exportaciones",
-      "fecha": "22 Sep 2026, 12:51 hrs"
+      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
+      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
+      "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
+      "fecha": "23 Sep 2026, 12:10 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
-      "resumen": "El banco cambiará el horario de sus más de 1,500 sucursales en México y abrirá más tarde entre semana.",
-      "link": "https://expansion.mx/economia/2026/09/22/bbva-cambia-horario-sucursales",
-      "fecha": "22 Sep 2026, 11:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El pago de intereses de la deuda de México alcanzará en 2027 su mayor nivel desde 1990",
-      "resumen": "Con más de 1.6 billones de pesos, el costo financiero de la deuda será mayor que los propios ingresos que lleguen por deuda al erario público. Será más del doble que el gasto programable para Pemex.",
-      "link": "https://expansion.mx/economia/2026/09/22/deuda-publica-mexico-nivel-historico-desde-1990",
-      "fecha": "22 Sep 2026, 05:55 hrs"
+      "titulo": "Pemex destina recursos a 229 campos petroleros, pero 37 concentran el 85% de la producción",
+      "resumen": "De los 229 campos, 100 son considerados de baja rentabilidad y otros 92 tienen valor nulo o negativo. Un escenario que, según la consultora Welligence, resta eficiencia al negocio de exploración y pro…",
+      "link": "https://expansion.mx/empresas/2026/09/23/pemex-depende-37-campos-produccion-barriles-92-no-rentables",
+      "fecha": "23 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,24 +147,6 @@
       "fecha": "22 Sep 2026, 11:42 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
-      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
-      "link": "https://expansion.mx/empresas/2026/09/22/megacable-va-televisa-esta-desplazar-izzi-sky-internet-fijo",
-      "fecha": "22 Sep 2026, 10:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aeroméxico estrena rutas sin escalas desde CDMX al Caribe y estos son los destinos; ¿cuándo comienzan?",
-      "resumen": "La expansión reforzará la oferta internacional de Aeroméxico en una temporada clave para los viajes de ocio desde la capital mexicana.",
-      "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
-      "fecha": "22 Sep 2026, 07:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,24 @@
       "resumen": "OCDE ajustó al alza su pronóstico de crecimiento para el PIB de México este año, a 1.5%, mientras que mantuvo en 1.8% su estimado de 2027.",
       "link": "https://www.reforma.com/eleva-ocde-a-1-5-prevision-de-crecimiento-de-mexico-en-2026/ar3280901",
       "fecha": "23 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge EU a México a librar 'intervención del narco'",
+      "resumen": "México debe defenderse de la intervención del narcotráfico, dijo Ronald Johnson, Embajador de Estados Unidos en el País.",
+      "link": "https://www.reforma.com/urge-eu-a-mexico-a-librar-intervencion-del-narco/ar3281005",
+      "fecha": "23 Sep 2026, 11:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan gasolineros riesgos ante pagos digitales",
+      "resumen": "La iniciativa de ley que promueve los pagos digitales podrían provocar sanciones para las estaciones de servicio, aseguró Onexpo Nacional.",
+      "link": "https://www.reforma.com/alertan-gasolineros-riesgos-ante-pagos-digitales/ar3280962",
+      "fecha": "23 Sep 2026, 10:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,6 +186,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Ajusta BBVA su horario  de operación en bancos",
+      "resumen": "A partir del 5 de octubre, las más de mil 500 sucursales de BBVA México tendrán un nuevo horario: de lunes a viernes, de 9:00 a 16:00 horas.",
+      "link": "https://www.reforma.com/ajusta-bbva-su-horario-de-operacion-en-bancos/ar3281045",
+      "fecha": "23 Sep 2026, 12:25 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Importa Canadá 13% más carne mexicana",
       "resumen": "En primer semestre, Canadá importó 8,566 toneladas de carne de res de México, un alza anual de 13.3%.",
       "link": "https://www.reforma.com/importa-canada-13-mas-carne-mexicana/ar3280798",
@@ -177,46 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén encarecimiento de energía en Yucatán",
-      "resumen": "La Península de Yucatán no sólo enfrenta apagones, sino también incrementos en sus tarifas eléctricas que podrían extenderse hasta 2028.",
-      "link": "https://www.reforma.com/preven-encarecimiento-de-energia-en-yucatan/ar3280787",
-      "fecha": "23 Sep 2026, 05:01 hrs"
+      "titulo": "EU está abierto a extender tregua con China.- Bessent",
+      "resumen": "EU está abierto a ampliar la tregua comercial con China que vence el 10 de noviembre o considerar un acuerdo más amplio, dijo Scott Bessent.",
+      "link": "https://www.reforma.com/eu-esta-abierto-a-extender-tregua-con-china-bessent/ar3281000",
+      "fecha": "23 Sep 2026, 11:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Comce certidumbre y agilizar trámites",
-      "resumen": "El COmce sostuvo una reunión con autoridadespara plantear las problemáticas del sector y solicitar mayor certidumbre.",
-      "link": "https://www.reforma.com/pide-comce-certidumbre-y-agilizar-tramites/ar3280800",
-      "fecha": "23 Sep 2026, 07:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Superan intereses a requerimientos",
-      "resumen": "El costo financiero de la deuda alcanzará 4.0% del PIB en 2027; superior al 3.9% de los Requerimientos Financieros del Sector Público.",
-      "link": "https://www.reforma.com/superan-intereses-a-requerimientos/ar3280727",
-      "fecha": "23 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Buscan subir 153%  costo de visas a extranjeros",
-      "resumen": "El Gobierno Federal busca elevar hasta 153 por ciento el costo de algunas visas para extranjeros, como parte del Paquete Económico 2027.",
-      "link": "https://www.reforma.com/buscan-subir-153-costo-de-visas-a-extranjeros/ar3280746",
-      "fecha": "23 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cambia perfil de inversión",
-      "resumen": "Inversionista mexicano comienza con menores cantidades, aprende por su cuenta y ya no limita su portafolio a instrumentos tradicionales.",
-      "link": "https://www.reforma.com/cambia-perfil-de-inversion/ar3280773",
-      "fecha": "23 Sep 2026, 05:01 hrs"
+      "titulo": "Subiría gasolina en EU por veto a exportaciones de diésel",
+      "resumen": "Goldman advirtió que una prohibición a las ventas de diésel en EU, reduciría el suministro de gasolina, al tiempo que elevaría los precios.",
+      "link": "https://www.reforma.com/subiria-gasolina-en-eu-por-veto-a-exportaciones-de-diesel/ar3280920",
+      "fecha": "23 Sep 2026, 08:52 hrs"
     }
   ]
 }
