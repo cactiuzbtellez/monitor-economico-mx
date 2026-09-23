@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/09/2026 13:27 hrs",
+  "actualizado": "23/09/2026 16:42 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
-      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
-      "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
-      "fecha": "23 Sep 2026, 12:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Pemex destina recursos a 229 campos petroleros, pero 37 concentran el 85% de la producción",
       "resumen": "De los 229 campos, 100 son considerados de baja rentabilidad y otros 92 tienen valor nulo o negativo. Un escenario que, según la consultora Welligence, resta eficiencia al negocio de exploración y pro…",
       "link": "https://expansion.mx/empresas/2026/09/23/pemex-depende-37-campos-produccion-barriles-92-no-rentables",
@@ -147,13 +138,49 @@
       "fecha": "22 Sep 2026, 11:42 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
+      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
+      "link": "https://expansion.mx/empresas/2026/09/22/megacable-va-televisa-esta-desplazar-izzi-sky-internet-fijo",
+      "fecha": "22 Sep 2026, 10:17 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva OCDE a 1.5% previsión de crecimiento de México en 2026",
-      "resumen": "OCDE ajustó al alza su pronóstico de crecimiento para el PIB de México este año, a 1.5%, mientras que mantuvo en 1.8% su estimado de 2027.",
-      "link": "https://www.reforma.com/eleva-ocde-a-1-5-prevision-de-crecimiento-de-mexico-en-2026/ar3280901",
-      "fecha": "23 Sep 2026, 08:00 hrs"
+      "titulo": "Preferible alargar revisión T-MEC que mal acuerdo.- Guajardo",
+      "resumen": "Para México es mejor alargar el proceso de revisión del T-MEC que aceptar condiciones adversas, dijo Guajardo, ex Secretario de Economía.",
+      "link": "https://www.reforma.com/preferible-alargar-revision-t-mec-que-mal-acuerdo-guajardo/ar3281130",
+      "fecha": "23 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descarta ASPA ceder en revisión contractual con Aeroméxico",
+      "resumen": "ASPA dijo que no concederá flexibilización de jornadas laborales ni en salario, durante las negociaciones contractuales.",
+      "link": "https://www.reforma.com/descarta-aspa-ceder-en-revision-contractual-con-aeromexico/ar3281116",
+      "fecha": "23 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Propone Concanaco plan para formalizar 30% de pymes",
+      "resumen": "Concanaco Servytur propuso un plan para que 30% de las 4.1 millones de pymes que operan en la informalidad normalicen su operación.",
+      "link": "https://www.reforma.com/propone-concanaco-plan-para-formalizar-30-de-pymes/ar3281217",
+      "fecha": "23 Sep 2026, 15:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acelera India negociaciones comerciales con México y Canadá",
+      "resumen": "India está acelerando negociaciones comerciales con Canadá y México, mientras las 3 economías buscan nuevos socios ante aranceles de Trump.",
+      "link": "https://www.reforma.com/acelera-india-negociaciones-comerciales-con-mexico-y-canada/ar3281182",
+      "fecha": "23 Sep 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,19 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan gasolineros riesgos ante pagos digitales",
-      "resumen": "La iniciativa de ley que promueve los pagos digitales podrían provocar sanciones para las estaciones de servicio, aseguró Onexpo Nacional.",
-      "link": "https://www.reforma.com/alertan-gasolineros-riesgos-ante-pagos-digitales/ar3280962",
-      "fecha": "23 Sep 2026, 10:01 hrs"
+      "titulo": "Crecen cuentas bursátiles, pero inversión avanza más lento",
+      "resumen": "En ocho años, las cuentas de intermediación bursátil pasaron de 300 mil a 27.7 millones; sin embargo los valores aumentaron solo 1.7 veces.",
+      "link": "https://www.reforma.com/crecen-cuentas-bursatiles-pero-inversion-avanza-mas-lento/ar3281138",
+      "fecha": "23 Sep 2026, 14:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ronda dólar los $17.50, máximo en dos meses",
-      "resumen": "El tipo de cambio cotizaba en 17.4550 pesos por dólar, con una pérdida de más de un 1% para la moneda mexicana respecto al martes.",
-      "link": "https://www.reforma.com/ronda-dolar-los-17-50-maximo-en-dos-meses/ar3280907",
-      "fecha": "23 Sep 2026, 08:14 hrs"
+      "titulo": "Eleva OCDE a 1.5% previsión de crecimiento de México en 2026",
+      "resumen": "OCDE ajustó al alza su pronóstico de crecimiento para el PIB de México este año, a 1.5%, mientras que mantuvo en 1.8% su estimado de 2027.",
+      "link": "https://www.reforma.com/eleva-ocde-a-1-5-prevision-de-crecimiento-de-mexico-en-2026/ar3280901",
+      "fecha": "23 Sep 2026, 08:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "A partir del 5 de octubre, las más de mil 500 sucursales de BBVA México tendrán un nuevo horario: de lunes a viernes, de 9:00 a 16:00 horas.",
       "link": "https://www.reforma.com/ajusta-bbva-su-horario-de-operacion-en-bancos/ar3281045",
       "fecha": "23 Sep 2026, 12:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Importa Canadá 13% más carne mexicana",
-      "resumen": "En primer semestre, Canadá importó 8,566 toneladas de carne de res de México, un alza anual de 13.3%.",
-      "link": "https://www.reforma.com/importa-canada-13-mas-carne-mexicana/ar3280798",
-      "fecha": "23 Sep 2026, 07:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "EU está abierto a extender tregua con China.- Bessent",
-      "resumen": "EU está abierto a ampliar la tregua comercial con China que vence el 10 de noviembre o considerar un acuerdo más amplio, dijo Scott Bessent.",
-      "link": "https://www.reforma.com/eu-esta-abierto-a-extender-tregua-con-china-bessent/ar3281000",
-      "fecha": "23 Sep 2026, 11:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Subiría gasolina en EU por veto a exportaciones de diésel",
-      "resumen": "Goldman advirtió que una prohibición a las ventas de diésel en EU, reduciría el suministro de gasolina, al tiempo que elevaría los precios.",
-      "link": "https://www.reforma.com/subiria-gasolina-en-eu-por-veto-a-exportaciones-de-diesel/ar3280920",
-      "fecha": "23 Sep 2026, 08:52 hrs"
     }
   ]
 }
