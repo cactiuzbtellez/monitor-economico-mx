@@ -1,7 +1,34 @@
 {
-  "actualizado": "22/09/2026 15:47 hrs",
+  "actualizado": "22/09/2026 18:01 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Internet, agua y más bienes durables: así cambiaron los hogares mexicanos en cinco años",
+      "resumen": "Entre 2020 y 2025 aumentó el acceso a internet, agua dentro de la vivienda y bienes como lavadoras, refrigeradores y vehículos.",
+      "link": "https://expansion.mx/economia/2026/09/22/inegi-vivienda-mexicana-2025-mas-internet-agua-equipamiento",
+      "fecha": "22 Sep 2026, 15:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nueva prórroga para la Manifestación de Valor Electrónica, será obligatoria en 2027",
+      "resumen": "El mayor tiempo para el cumplimiento se otorgó para que las distintas industrias terminen de preparar todos los documentos que respaldarán el valor de las mercancías en aduanas.",
+      "link": "https://expansion.mx/economia/2026/09/22/hacienda-prorroga-manifestacion-de-valor-electronica",
+      "fecha": "22 Sep 2026, 13:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fitch mejora a 1.4% el crecimiento de México para 2026 por el impulso de EU y la IA",
+      "resumen": "La calificadora elevó en 0.4 puntos porcentuales su pronóstico, aunque advirtió que la incertidumbre por el T-MEC y las reformas internas puede limitar la inversión.",
+      "link": "https://expansion.mx/economia/2026/09/22/fitch-mejora-crecimiento-mexico-2026-ia-eu-exportaciones",
+      "fecha": "22 Sep 2026, 12:51 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "El secretario de Hacienda defendió el comportamiento de la inflación, la política del incremento al salario mínimo, la cual no existió en el periodo \"neoliberal\" del país.",
       "link": "https://expansion.mx/economia/2026/09/21/amador-zamora-responde-ortiz-minimiza-reduccion-pobreza",
       "fecha": "21 Sep 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasolineras y casetas operarán sin efectivo con nueva Ley de Economía Digital",
-      "resumen": "La nueva legislación abrirá la puerta a restringir el uso de dinero físico en actividades cotidianas. El cambio alcanzará a más de 13 mil gasolineras que operan en el país.",
-      "link": "https://expansion.mx/economia/2026/09/21/confirmado-no-podras-pagar-efectivo-gasolineras-y-casetas",
-      "fecha": "21 Sep 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Revolut alcanza un millón de clientes en México",
-      "resumen": "La operación mexicana es la primera que Revolut construyó fuera de Europa con licencia bancaria propia y busca convertirse en plataforma para su expansión en otros mercados.",
-      "link": "https://expansion.mx/economia/2026/09/21/revolut-alcanza-un-millon-de-clientes-en-mexico",
-      "fecha": "21 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda continúa con baja de impuestos a gasolinas, diésel va por segunda semana con cero IEPS",
-      "resumen": "Del 19 al 25 de septiembre, se otorgará un descuento o estímulo fiscal de 100% a la cuota IEPS que se cobra al diésel, mayormente utilizado para el movimiento masivo de personas y mercancías.",
-      "link": "https://expansion.mx/economia/2026/09/18/hacienda-baja-impuestos-gasolinas-diesel-cero-ieps",
-      "fecha": "18 Sep 2026, 18:00 hrs"
     },
     {
       "fuente": "Expansión",
