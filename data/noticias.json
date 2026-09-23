@@ -1,7 +1,25 @@
 {
-  "actualizado": "22/09/2026 18:01 hrs",
+  "actualizado": "22/09/2026 23:31 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México todavía guarda municiones para elevar aranceles a importaciones asiáticas",
+      "resumen": "México ya elevó aranceles a más de 1,400 productos, pero aún conserva margen ante la OMC para endurecer su política frente a países sin tratado.",
+      "link": "https://expansion.mx/economia/2026/09/22/mexico-municiones-aranceles-productos-asiaticos",
+      "fecha": "22 Sep 2026, 17:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "NU dice adiós al retiro de efectivo gratis: ya cobrará comisión a partir de esta fecha",
+      "resumen": "Los usuarios de Nu todavía podrán aprovechar la bonificación hasta las 23:59 horas del 30 de septiembre; después deberán considerar las comisiones de cajeros y establecimientos.",
+      "link": "https://expansion.mx/economia/2026/09/22/nu-dice-adios-retiro-efectivo-gratis-cobrara-comision-fecha",
+      "fecha": "22 Sep 2026, 16:52 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El COMCE advierte que el desconocimiento de los tratados comerciales, la falta de asesoría y las dificultades para encontrar compradores mantienen a pequeños negocios fuera del mercado internacional.",
       "link": "https://expansion.mx/economia/2026/09/21/pymes-exportar-carecen-financiamiento-cadenas-valor",
       "fecha": "21 Sep 2026, 18:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "SoftBank emite bonos basura por más de 10,000 mdd para invertir en OpenAI",
-      "resumen": "SoftBank busca 10,000 mdd en bonos basura para su apuesta en OpenAI; sería la mayor colocación corporativa en Asia-Pacífico.",
-      "link": "https://expansion.mx/economia/2026/09/21/softbank-emite-bonos-basura-por-mas-de-10-000-mdd-para-invertir-en-openai",
-      "fecha": "21 Sep 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Amador Zamora defiende reducción \"histórica\" de la pobreza ante críticas de Guillermo Ortiz Martínez",
-      "resumen": "El secretario de Hacienda defendió el comportamiento de la inflación, la política del incremento al salario mínimo, la cual no existió en el periodo \"neoliberal\" del país.",
-      "link": "https://expansion.mx/economia/2026/09/21/amador-zamora-responde-ortiz-minimiza-reduccion-pobreza",
-      "fecha": "21 Sep 2026, 17:33 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,37 +150,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden revalorar economía generada por mayores de 50 años",
-      "resumen": "Pese a los niveles de economía que generan las personas mayores de 50 años, su potencial es ignorado por la sociedad, destacó analista.",
-      "link": "https://www.reforma.com/piden-revalorar-economia-generada-por-mayores-de-50-anos/ar3280377",
-      "fecha": "22 Sep 2026, 14:13 hrs"
+      "titulo": "¿Robots asesinos o superinteligencia? esto debaten en la ONU",
+      "resumen": "Un informe de la ONU advirtió de potencial daño catastrófico e irreversible por parte de la IA y pidió imponer controles a esta tecnología.",
+      "link": "https://www.reforma.com/robots-asesinos-o-superinteligencia-esto-debaten-en-la-onu/ar3280674",
+      "fecha": "22 Sep 2026, 19:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte ex jefe de seguridad de Google que IA dañaría niños",
+      "titulo": "Cierra dólar en $17.29",
+      "resumen": "El dólar cerró este martes con una cotización de $17.29,;cifra 7.17 centavos mayor comparado con el lunes.",
+      "link": "https://www.reforma.com/cierra-dolar-en-17-29/ar3280561",
+      "fecha": "22 Sep 2026, 19:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invertirán gasolinerías 8 mil mdp por NOM ambiental",
+      "resumen": "Estaciones de servicio inviertan entre 5 mil y 8 mil millones de pesos en la adquisición e instalación de tecnología de control ambiental.",
+      "link": "https://www.reforma.com/invertiran-gasolinerias-8-mil-mdp-por-nom-ambiental/ar3280511",
+      "fecha": "22 Sep 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alerta ex jefe de seguridad de Google que IA dañaría a niños",
       "resumen": "Tom Siegel, vicepresidente de seguridad de Google, advirtió que la IA podría causar el mismo daño a menores que las redes sociales.",
-      "link": "https://www.reforma.com/advierte-ex-jefe-de-seguridad-de-google-que-ia-danaria-ninos/ar3280479",
+      "link": "https://www.reforma.com/alerta-ex-jefe-de-seguridad-de-google-que-ia-danaria-a-ninos/ar3280479",
       "fecha": "22 Sep 2026, 15:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prohibiría Trump la exportación de diésel estadounidense",
-      "resumen": "El Presidente Trump expresó su apoyo a prohibir exportación de diésel, luego que los precios se dispararan por la guerra en Medio Oriente.",
-      "link": "https://www.reforma.com/prohibiria-trump-la-exportacion-de-diesel-estadounidense/ar3280329",
-      "fecha": "22 Sep 2026, 12:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierde fuerza actividad económica en agosto; avanza 0.14%",
-      "resumen": "Durante agosto, el Indicador Oportuno de la Actividad Económica apenas avanzó 0.14% mensual.",
-      "link": "https://www.reforma.com/pierde-fuerza-actividad-economica-en-agosto-avanza-0-14/ar3280234",
-      "fecha": "22 Sep 2026, 10:18 hrs"
+      "titulo": "Compró y vendió Trump acciones de SpaceX en julio",
+      "resumen": "El presidente Donald Trump reveló en su declaración financiera que compró y vendió acciones de SpaceX por un valor de hasta 15 mil dólares.",
+      "link": "https://www.reforma.com/compro-y-vendio-trump-acciones-de-spacex-en-julio/ar3280458",
+      "fecha": "22 Sep 2026, 15:04 hrs"
     },
     {
       "fuente": "Reforma",
@@ -205,18 +214,9 @@
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Suman ingresos 2 reveses en comercio al menudeo",
-      "resumen": "En las empresas del comercio al por menor, los ingresos totales descendieron 0.12% durante julio; acumulan dos retrocesos a tasa mensual.",
+      "resumen": "En las empresas del comercio al por menor, los ingresos totales descendieron 0.12 % durante julio; acumulan dos retrocesos a tasa mensual.",
       "link": "https://www.reforma.com/suman-ingresos-2-reveses-en-comercio-al-menudeo/ar3280382",
       "fecha": "22 Sep 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se debilita peso por cautela ante decisión de Banxico",
-      "resumen": "Tipo de cambio cotiza en $17.24 por dólar, con una pérdida de 0.18% para la moneda mexicana, ante expectativas de que Banxico mantenga tasa.",
-      "link": "https://www.reforma.com/se-debilita-peso-por-cautela-ante-decision-de-banxico/ar3280149",
-      "fecha": "22 Sep 2026, 07:55 hrs"
     }
   ]
 }
