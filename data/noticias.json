@@ -1,7 +1,16 @@
 {
-  "actualizado": "22/09/2026 23:31 hrs",
+  "actualizado": "23/09/2026 04:51 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Plan México necesita algo más que inversión para funcionar, advierte Mariana Mazzucato",
+      "resumen": "México ya tiene varias de las herramientas; el reto, según la economista y profesora del University College London, es dejar de utilizarlas por separado y ponerlas al servicio de objetivos comunes.",
+      "link": "https://expansion.mx/economia/2026/09/22/plan-mexico-claves-exito-mariana-mazzucato",
+      "fecha": "22 Sep 2026, 20:01 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Millones de pymes quieren exportar, pero aún carecen de financiamiento y acceso a cadenas de valor",
-      "resumen": "El COMCE advierte que el desconocimiento de los tratados comerciales, la falta de asesoría y las dificultades para encontrar compradores mantienen a pequeños negocios fuera del mercado internacional.",
-      "link": "https://expansion.mx/economia/2026/09/21/pymes-exportar-carecen-financiamiento-cadenas-valor",
-      "fecha": "21 Sep 2026, 18:28 hrs"
+      "titulo": "La china Changan va por el trono de Toyota: su nuevo plan para entregar refacciones en tiempo récord",
+      "resumen": "Tras anunciar su alianza con Estafeta, la automotriz busca competir con automotrices japonesas que llevan décadas operando en México.",
+      "link": "https://expansion.mx/empresas/2026/09/22/changan-vs-toyota-nuevo-plan-entrega-refacciones-estafeta",
+      "fecha": "22 Sep 2026, 19:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Soriana acelera inversión con más de 961 mdp para abrir y remodelar tiendas en el país",
+      "resumen": "La inyección de capital permitirá a la empresa abrir y remodelar 26 tiendas, crear 1,000 empleos en Nuevo León y Veracruz y ayudará a fortalecer el crecimiento de su negocio omnincanal.",
+      "link": "https://expansion.mx/empresas/2026/09/22/soriana-inversion-961-mdp-tiendas-remodelaciones-2026",
+      "fecha": "22 Sep 2026, 18:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Nokia 1100 también se fabricó en México: la planta que estuvo detrás del celular más vendido en la historia",
+      "resumen": "México se encargó de fabricar al teléfono más vendido de la historia, así como otros modelos de Nokia.",
+      "link": "https://expansion.mx/empresas/2026/09/22/nokia-1100-mexico-planta-celular-mas-vendido-historia",
+      "fecha": "22 Sep 2026, 18:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait, el operador telefónico de Walmart, tiene más accesos a internet móvil que líneas activas",
+      "resumen": "Al cierre de 2025, Bait registró 10.9 millones de líneas activas, frente a 12.7 millones de accesos a internet móvil, una diferencia que se debe al cambio de metodología regulatoria para contabilizar …",
+      "link": "https://expansion.mx/empresas/2026/09/22/bait-walmart-acceso-a-internet-movil-lineas-activas",
+      "fecha": "22 Sep 2026, 18:17 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "La expansión reforzará la oferta internacional de Aeroméxico en una temporada clave para los viajes de ocio desde la capital mexicana.",
       "link": "https://expansion.mx/empresas/2026/09/22/aeromexico-conectara-cdmx-con-el-caribe",
       "fecha": "22 Sep 2026, 07:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aeroméxico adjudica exposición de datos de clientes por Telegram a un ciberataque",
-      "resumen": "Los datos expuestos hasta ahora involucran nombres, fechas de nacimiento, correos electrónicos y números telefónicos.",
-      "link": "https://expansion.mx/empresas/2026/09/21/aeromexico-adjudica-exposicion-datos-clientes-a-ciberataque",
-      "fecha": "21 Sep 2026, 20:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "GWM lanza P300, evolución de Poer, para crecer 50% en pickups; la PHEV será su vitrina tecnológica",
-      "resumen": "La automotriz reorganiza su gama, red y ventas a flotillas para convertir una pickup de trabajo en un negocio también de uso cotidiano.",
-      "link": "https://expansion.mx/empresas/2026/09/21/gwm-lanza-p300-evolucion-de-poer",
-      "fecha": "21 Sep 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Dolores tiene un plan para llevar pescados y mariscos a nuevas ocasiones de consumo",
-      "resumen": "La empresa dueña de Dolores busca ampliar el consumo con productos premium funcionales y nuevas preparaciones de salmón, mientras gana espacio en los autoservicios.",
-      "link": "https://expansion.mx/empresas/2026/09/21/dolores-plan-mas-pescados-y-mariscos-en-el-consumo",
-      "fecha": "21 Sep 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
-      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
-      "link": "https://expansion.mx/empresas/2026/09/21/produccion-de-nissan-cae-25-resiente-cierres-de-plantas",
-      "fecha": "21 Sep 2026, 17:36 hrs"
     },
     {
       "fuente": "Reforma",
