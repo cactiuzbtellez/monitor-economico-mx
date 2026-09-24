@@ -1,7 +1,25 @@
 {
-  "actualizado": "24/09/2026 01:15 hrs",
+  "actualizado": "24/09/2026 07:16 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México frena la promoción de IED: recortará 31% su presupuesto en 2027",
+      "resumen": "El país pasa de atraer inversión extranjera a focalizarla en sectores estratégicos y más que sumar anuncios, se busca implementar mecanismos de seguimiento y acompañamiento para materializar proyectos…",
+      "link": "https://expansion.mx/economia/2026/09/24/mexico-focalizar-inversion-extranjera-2027-recorte-promocion",
+      "fecha": "24 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
+      "resumen": "El fisco también busca que los Resico tengan un solo formulario para pago de IVA e ISR, y que esta obligación se vuelva trimestral, en vez de mensual, refiere Gari Flores, administrador general de Rec…",
+      "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
+      "fecha": "23 Sep 2026, 19:20 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las cámaras empresariales alertan que limitar deducciones pegará a la inversión y el empleo",
-      "resumen": "CCE, Coparmex y COMCE respaldan el combate a la evasión, pero señalan que la medida prevista para el próximo año elevará la carga fiscal y presionará la liquidez empresarial.",
-      "link": "https://expansion.mx/economia/2026/09/23/limite-deducciones-amenaza-inversion-empleo-formal-ip",
-      "fecha": "23 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Plan México necesita algo más que inversión para funcionar, advierte Mariana Mazzucato",
-      "resumen": "México ya tiene varias de las herramientas; el reto, según la economista y profesora del University College London, es dejar de utilizarlas por separado y ponerlas al servicio de objetivos comunes.",
-      "link": "https://expansion.mx/economia/2026/09/22/plan-mexico-claves-exito-mariana-mazzucato",
-      "fecha": "22 Sep 2026, 20:01 hrs"
+      "titulo": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
+      "resumen": "La empresa ingresó 3,328 mdp en el cuatro trimestre de 2025 gracias al operador móvil de Walmart y a otros que usan su infraestructura, pero la falta de 5G aún limita la oferta tecnológica.",
+      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
+      "fecha": "24 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "22 Sep 2026, 18:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait, el operador telefónico de Walmart, tiene más accesos a internet móvil que líneas activas",
-      "resumen": "Al cierre de 2025, Bait registró 10.9 millones de líneas activas, frente a 12.7 millones de accesos a internet móvil, una diferencia que se debe al cambio de metodología regulatoria para contabilizar …",
-      "link": "https://expansion.mx/empresas/2026/09/22/bait-walmart-acceso-a-internet-movil-lineas-activas",
-      "fecha": "22 Sep 2026, 18:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan de caos  si EU frena diesel",
+      "resumen": "Si EU frena exportaciones de diesel traería riesgos para México: la primera y la más importante consecuencia podría ser un caos económico.",
+      "link": "https://www.reforma.com/alertan-de-caos-si-eu-frena-diesel/ar3281560",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preferible alargar revisión T-MEC que mal acuerdo.- Guajardo",
-      "resumen": "Para México es mejor alargar el proceso de revisión del T-MEC que aceptar condiciones adversas, dijo Guajardo, ex Secretario de Economía.",
-      "link": "https://www.reforma.com/preferible-alargar-revision-t-mec-que-mal-acuerdo-guajardo/ar3281130",
-      "fecha": "23 Sep 2026, 14:15 hrs"
+      "titulo": "El colmo: ¡allá  subirían combustibles!",
+      "resumen": "Plan de Trump para prohibir exportaciones de diesel para buscar reducir precios podría salir mal, provocando alzas en los combustibles.",
+      "link": "https://www.reforma.com/el-colmo-alla-subirian-combustibles/ar3281564",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta ASPA ceder en revisión contractual con Aeroméxico",
-      "resumen": "ASPA dijo que no concederá flexibilización de jornadas laborales ni en salario, durante las negociaciones contractuales.",
-      "link": "https://www.reforma.com/descarta-aspa-ceder-en-revision-contractual-con-aeromexico/ar3281116",
-      "fecha": "23 Sep 2026, 14:15 hrs"
+      "titulo": "Pondría CBP más lupa a importaciones de EU",
+      "resumen": "Las empresas en EU enfrentarían una nueva ola de requisitos de cumplimiento normativo para las importaciones.",
+      "link": "https://www.reforma.com/pondria-cbp-mas-lupa-a-importaciones-de-eu/ar3281554",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenan cualquier avance en proyecto Amigo GNL en Sonora",
-      "resumen": "Un juez federal en Sonora otorgó una nueva suspensión definitiva a la construcción y avance del proyecto de gas natural \"Amigo GNL\".",
-      "link": "https://www.reforma.com/frenan-cualquier-avance-en-proyecto-amigo-gnl-en-sonora/ar3281341",
-      "fecha": "23 Sep 2026, 17:32 hrs"
+      "titulo": "Detectan irregularidades en gasolineras y gaseras",
+      "resumen": "Permisos expirados e incumplimiento en plazos de regulación son las principales irregularidades encontradas por Pronagas.",
+      "link": "https://www.reforma.com/detectan-irregularidades-en-gasolineras-y-gaseras/ar3281533",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene peso peor sesión en 6 meses",
-      "resumen": "El peso sufrió su peor caída desde el 3 de marzo de 2026; al descender 23.71 centavos frente al dólar, concluyendo la jornada en $17.54.",
-      "link": "https://www.reforma.com/tiene-peso-peor-sesion-en-6-meses/ar3281354",
-      "fecha": "23 Sep 2026, 17:32 hrs"
+      "titulo": "Temen que suba EU arancel al tomate mexicano",
+      "resumen": "El Gobierno de EU comenzó este mes una revisión al arancel antidumping del 17.09% del tomate de México.",
+      "link": "https://www.reforma.com/temen-que-suba-eu-arancel-al-tomate-mexicano/ar3281594",
+      "fecha": "24 Sep 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Propone Concanaco plan para formalizar 30% de pymes",
-      "resumen": "Concanaco Servytur propuso un plan para que 30% de las 4.1 millones de pymes que operan en la informalidad normalicen su operación.",
-      "link": "https://www.reforma.com/propone-concanaco-plan-para-formalizar-30-de-pymes/ar3281217",
-      "fecha": "23 Sep 2026, 15:07 hrs"
+      "titulo": "Golpea vandalismo a trenes de México",
+      "resumen": "El vandalismo al tren disparó los reportes de incidentes en el Sistema Ferroviario Mexicano durante el primer trimestre del año.",
+      "link": "https://www.reforma.com/golpea-vandalismo-a-trenes-de-mexico/ar3281520",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acelera India negociaciones comerciales con México y Canadá",
-      "resumen": "India está acelerando negociaciones comerciales con Canadá y México, mientras las 3 economías buscan nuevos socios ante aranceles de Trump.",
-      "link": "https://www.reforma.com/acelera-india-negociaciones-comerciales-con-mexico-y-canada/ar3281182",
-      "fecha": "23 Sep 2026, 14:27 hrs"
+      "titulo": "Inhabilita EU por idioma a choferes mexicanos",
+      "resumen": "Alrededor de 4 mil 500 operadores mexicanos de autotransporte han sido puestos fuera de servicio en EU por no acreditar dominio del inglés.",
+      "link": "https://www.reforma.com/inhabilita-eu-por-idioma-a-choferes-mexicanos/ar3281517",
+      "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge EU a México a librar 'intervención del narco'",
-      "resumen": "México debe defenderse de la intervención del narcotráfico, dijo Ronald Johnson, Embajador de Estados Unidos en el País.",
-      "link": "https://www.reforma.com/urge-eu-a-mexico-a-librar-intervencion-del-narco/ar3281005",
-      "fecha": "23 Sep 2026, 11:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen cuentas bursátiles, pero inversión avanza más lento",
-      "resumen": "En ocho años, las cuentas de intermediación bursátil pasaron de 300 mil a 27.7 millones; sin embargo los valores aumentaron solo 1.7 veces.",
-      "link": "https://www.reforma.com/crecen-cuentas-bursatiles-pero-inversion-avanza-mas-lento/ar3281138",
-      "fecha": "23 Sep 2026, 14:21 hrs"
+      "titulo": "Preocupa inflación en insumos a empresas del norte",
+      "resumen": "La inflación en insumos y materias primas es el principal factor que empresas de la región norte ven como un obstáculo.",
+      "link": "https://www.reforma.com/preocupa-inflacion-en-insumos-a-empresas-del-norte/ar3281572",
+      "fecha": "24 Sep 2026, 07:07 hrs"
     }
   ]
 }
