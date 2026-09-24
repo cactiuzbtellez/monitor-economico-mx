@@ -1,7 +1,34 @@
 {
-  "actualizado": "24/09/2026 07:16 hrs",
+  "actualizado": "24/09/2026 12:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Qué le pasó al superpeso? se deprecia en una semana clave para Banxico",
+      "resumen": "La moneda mexicana cambió de rumbo en cuestión de semanas. El dólar vuelve a ganar terreno mientras petróleo, bonos y T-MEC elevan la presión sobre la paridad frente al dólar",
+      "link": "https://expansion.mx/economia/2026/09/24/tipo-cambio-hoy-24-septiembre-peso-dolar",
+      "fecha": "24 Sep 2026, 11:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Actividad económica de México sorprende y crece 0.8% en julio",
+      "resumen": "El IGAE creció 3.3% en cifras anuales, una señal de que la economía mexicana mantuvo parte del impulso observado en el segundo trimestre.",
+      "link": "https://expansion.mx/economia/2026/09/24/economia-mexicana-sorprende-alza-arrancar-tercer-trimestre",
+      "fecha": "24 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Colegiaturas y gas LP aumentan la inflación en primera quincena de septiembre por arriba de lo esperado por el mercado",
+      "resumen": "Entre los productos y servicios que más incidieron destacó la educación primaria, con alzas de 5.85% a tasa quincenal; en secundaria subieron 5.33%, mientras que las universitarias avanzaron 1.10%",
+      "link": "https://expansion.mx/economia/2026/09/24/inflacion-mexico-septiembre-2026-supera-expectativas",
+      "fecha": "24 Sep 2026, 07:16 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,42 +73,6 @@
       "resumen": "Si necesitas atención en la tarde, estos bancos pueden ser una opción para realizar trámites y consultar movimientos.",
       "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
       "fecha": "23 Sep 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Ley de Economía Digital permitirá abrir cuentas bancarias con la CURP biométrica",
-      "resumen": "La Ley de Economía Digital busca abrir rápido y sencillo cuentas bancarias, mientras otorga facultades a Banxico para garantizar que nuevas cuentas no sean utilizadas para recursos ilícitos.",
-      "link": "https://expansion.mx/economia/2026/09/23/curp-digital-abrir-cuentas-bancarias-ley-economia-digital",
-      "fecha": "23 Sep 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "OCDE mejora pronóstico para México, pero advierte inflación persistente y crédito caro",
-      "resumen": "La OCDE elevó a 1.5% su previsión de crecimiento para México en 2026, aunque advirtió que la persistencia de la inflación energética y las tasas altas seguirán limitando a la economía.",
-      "link": "https://expansion.mx/economia/2026/09/23/ocde-mejora-crecimiento-mexico-inflacion-bolsillo-2026",
-      "fecha": "23 Sep 2026, 08:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Reforma a Ley Aduanera representa atrasos y sobrecostos para importadores y exportadores",
-      "resumen": "La propuesta busca eliminar la subvaluación de mercancías, pero debe aplicarse sobre operaciones que representen riesgos, y no en general, refieren industriales, agentes aduanales y académicos.",
-      "link": "https://expansion.mx/economia/2026/09/23/reforma-ley-aduanera-atrasos-costos-importadores",
-      "fecha": "23 Sep 2026, 07:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
-      "resumen": "La empresa ingresó 3,328 mdp en el cuatro trimestre de 2025 gracias al operador móvil de Walmart y a otros que usan su infraestructura, pero la falta de 5G aún limita la oferta tecnológica.",
-      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
-      "fecha": "24 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,39 +138,66 @@
       "fecha": "22 Sep 2026, 18:17 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait, el operador telefónico de Walmart, tiene más accesos a internet móvil que líneas activas",
+      "resumen": "Al cierre de 2025, Bait registró 10.9 millones de líneas activas, frente a 12.7 millones de accesos a internet móvil, una diferencia que se debe al cambio de metodología regulatoria para contabilizar …",
+      "link": "https://expansion.mx/empresas/2026/09/22/bait-walmart-acceso-a-internet-movil-lineas-activas",
+      "fecha": "22 Sep 2026, 18:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierte Moody's por carga de la deuda",
+      "resumen": "Para estabilizar la carga de la deuda, agravada por apoyos a Pemex, se requiere ajuste fiscal adicional mayor a 1.5% del PIB, dijo Moody's.",
+      "link": "https://www.reforma.com/advierte-moodys-por-carga-de-la-deuda/ar3281824",
+      "fecha": "24 Sep 2026, 10:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Avanza inflación  al 3.42% en primera quincena de septiembre",
+      "resumen": "La inflación general de México se aceleró a 3.42% en la primera quincena de septiembre y superó las previsiones de analistas.",
+      "link": "https://www.reforma.com/avanza-inflacion-al-3-42-en-primera-quincena-de-septiembre/ar3281710",
+      "fecha": "24 Sep 2026, 07:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Registra actividad económica mayor avance desde 2023",
+      "resumen": "Durante julio, el Indicador Oportuno de Actividad Económica tuvo su mejor cifra anual en 33 meses, con un incremento de 0.76 por ciento.",
+      "link": "https://www.reforma.com/registra-actividad-economica-mayor-avance-desde-2023/ar3281834",
+      "fecha": "24 Sep 2026, 10:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Para hacer negocios, hay que ser amigo de 'Andy'.- Canales",
+      "resumen": "Ya no basta el talento, sino ser amigo del hijo de AMLO para poder hacer negocios, dijo el empresario Fernando Canales Clariond.",
+      "link": "https://www.reforma.com/para-hacer-negocios-hay-que-ser-amigo-de-andy-canales/ar3281868",
+      "fecha": "24 Sep 2026, 11:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Invierte LEGO 400 mdd en edificio y almacén en NL",
+      "resumen": "La empresa LEGO invertirá 400 mdd en la construcción de un nuevo edificio de empaque y un almacén automatizado de alta capacidad en NL.",
+      "link": "https://www.reforma.com/invierte-lego-400-mdd-en-edificio-y-almacen-en-nl/ar3281726",
+      "fecha": "24 Sep 2026, 08:03 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Alertan de caos  si EU frena diesel",
       "resumen": "Si EU frena exportaciones de diesel traería riesgos para México: la primera y la más importante consecuencia podría ser un caos económico.",
       "link": "https://www.reforma.com/alertan-de-caos-si-eu-frena-diesel/ar3281560",
-      "fecha": "24 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "El colmo: ¡allá  subirían combustibles!",
-      "resumen": "Plan de Trump para prohibir exportaciones de diesel para buscar reducir precios podría salir mal, provocando alzas en los combustibles.",
-      "link": "https://www.reforma.com/el-colmo-alla-subirian-combustibles/ar3281564",
-      "fecha": "24 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pondría CBP más lupa a importaciones de EU",
-      "resumen": "Las empresas en EU enfrentarían una nueva ola de requisitos de cumplimiento normativo para las importaciones.",
-      "link": "https://www.reforma.com/pondria-cbp-mas-lupa-a-importaciones-de-eu/ar3281554",
-      "fecha": "24 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Detectan irregularidades en gasolineras y gaseras",
-      "resumen": "Permisos expirados e incumplimiento en plazos de regulación son las principales irregularidades encontradas por Pronagas.",
-      "link": "https://www.reforma.com/detectan-irregularidades-en-gasolineras-y-gaseras/ar3281533",
       "fecha": "24 Sep 2026, 05:02 hrs"
     },
     {
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Golpea vandalismo a trenes de México",
-      "resumen": "El vandalismo al tren disparó los reportes de incidentes en el Sistema Ferroviario Mexicano durante el primer trimestre del año.",
-      "link": "https://www.reforma.com/golpea-vandalismo-a-trenes-de-mexico/ar3281520",
-      "fecha": "24 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Inhabilita EU por idioma a choferes mexicanos",
       "resumen": "Alrededor de 4 mil 500 operadores mexicanos de autotransporte han sido puestos fuera de servicio en EU por no acreditar dominio del inglés.",
       "link": "https://www.reforma.com/inhabilita-eu-por-idioma-a-choferes-mexicanos/ar3281517",
       "fecha": "24 Sep 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Preocupa inflación en insumos a empresas del norte",
-      "resumen": "La inflación en insumos y materias primas es el principal factor que empresas de la región norte ven como un obstáculo.",
-      "link": "https://www.reforma.com/preocupa-inflacion-en-insumos-a-empresas-del-norte/ar3281572",
-      "fecha": "24 Sep 2026, 07:07 hrs"
     }
   ]
 }
