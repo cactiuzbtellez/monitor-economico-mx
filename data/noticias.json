@@ -1,7 +1,43 @@
 {
-  "actualizado": "23/09/2026 16:42 hrs",
+  "actualizado": "23/09/2026 19:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Casetas y gasolineras están listas para cobros digitales, asevera Peña Merino",
+      "resumen": "Las casetas de cobro en carreteras ya tienen infraestructura para leer tags, mientras más del 95% de las gasolineras ya cuentan con terminales punto de venta, explicó el titular de la Agencia de Trans…",
+      "link": "https://expansion.mx/economia/2026/09/23/casetas-gasolineras-listas-pagos-digitales-pena-merino",
+      "fecha": "23 Sep 2026, 16:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Primero detener la hemorragia arancelaria; después, negociar el futuro del T-MEC: Ildefonso Guajardo",
+      "resumen": "El exsecretario de Economía y exjefe negociador del T-MEC considera que la relación entre Sheinbaum y Trump será decisiva en una negociación donde comercio y otros asuntos de la agenda bilateral se me…",
+      "link": "https://expansion.mx/economia/2026/09/23/guajardo-aranceles-primero-renovacion-tmec-despues",
+      "fecha": "23 Sep 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras BBVA reduce sus horarios en sucursales, estos bancos cierran después de las 4",
+      "resumen": "Si necesitas atención en la tarde, estos bancos pueden ser una opción para realizar trámites y consultar movimientos.",
+      "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
+      "fecha": "23 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Ley de Economía Digital permitirá abrir cuentas bancarias con la CURP biométrica",
+      "resumen": "La Ley de Economía Digital busca abrir rápido y sencillo cuentas bancarias, mientras otorga facultades a Banxico para garantizar que nuevas cuentas no sean utilizadas para recursos ilícitos.",
+      "link": "https://expansion.mx/economia/2026/09/23/curp-digital-abrir-cuentas-bancarias-ley-economia-digital",
+      "fecha": "23 Sep 2026, 13:35 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México todavía guarda municiones para elevar aranceles a importaciones asiáticas",
-      "resumen": "México ya elevó aranceles a más de 1,400 productos, pero aún conserva margen ante la OMC para endurecer su política frente a países sin tratado.",
-      "link": "https://expansion.mx/economia/2026/09/22/mexico-municiones-aranceles-productos-asiaticos",
-      "fecha": "22 Sep 2026, 17:17 hrs"
+      "titulo": "El negocio de minimis se enfría para Estafeta, pero crece el de refacciones para autos chinos",
+      "resumen": "El aumento arancelario a este tipo de paquetes de bajo valor, principalmente chinos, también causó estragos en la adquisición de Esteta por parte de la norteamericana UPS.",
+      "link": "https://expansion.mx/empresas/2026/09/23/minimis-no-son-negocio-estafeta-oportunidad-autos-chinos",
+      "fecha": "23 Sep 2026, 15:53 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "NU dice adiós al retiro de efectivo gratis: ya cobrará comisión a partir de esta fecha",
-      "resumen": "Los usuarios de Nu todavía podrán aprovechar la bonificación hasta las 23:59 horas del 30 de septiembre; después deberán considerar las comisiones de cajeros y establecimientos.",
-      "link": "https://expansion.mx/economia/2026/09/22/nu-dice-adios-retiro-efectivo-gratis-cobrara-comision-fecha",
-      "fecha": "22 Sep 2026, 16:52 hrs"
+      "titulo": "Era hijo del fundador de La Costeña, creó su empresa con 20 empleados y hoy Jumex mueve 25,116 millones",
+      "resumen": "Eugenio López Rodea convirtió una apuesta empresarial iniciada en 1961 en una de las principales compañías de bebidas de México, con presencia dentro y fuera del país.",
+      "link": "https://expansion.mx/empresas/2026/09/23/hijo-dueno-la-costena-fundo-jumex",
+      "fecha": "23 Sep 2026, 15:06 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Internet, agua y más bienes durables: así cambiaron los hogares mexicanos en cinco años",
-      "resumen": "Entre 2020 y 2025 aumentó el acceso a internet, agua dentro de la vivienda y bienes como lavadoras, refrigeradores y vehículos.",
-      "link": "https://expansion.mx/economia/2026/09/22/inegi-vivienda-mexicana-2025-mas-internet-agua-equipamiento",
-      "fecha": "22 Sep 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nueva prórroga para la Manifestación de Valor Electrónica, será obligatoria en 2027",
-      "resumen": "El mayor tiempo para el cumplimiento se otorgó para que las distintas industrias terminen de preparar todos los documentos que respaldarán el valor de las mercancías en aduanas.",
-      "link": "https://expansion.mx/economia/2026/09/22/hacienda-prorroga-manifestacion-de-valor-electronica",
-      "fecha": "22 Sep 2026, 13:32 hrs"
+      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
+      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
+      "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
+      "fecha": "23 Sep 2026, 12:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,33 +147,6 @@
       "fecha": "22 Sep 2026, 18:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Primark vs. Suburbia: la llegada del nuevo aliado de Liverpool pone en riesgo a la empresa mexicana",
-      "resumen": "Primark puede disputar clientes a Suburbia, mientras Liverpool aprovecharía sus centros comerciales, tiendas y canales digitales para impulsar la marca sin descuidar otros segmentos.",
-      "link": "https://expansion.mx/empresas/2026/09/22/primark-suburbia-liverpool-centros-comerciales-mexico",
-      "fecha": "22 Sep 2026, 12:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Jorge Vergara se arriesgó con Chivas USA; compró barato, multiplicó 14 veces su precio y lo vendió a la MLS por 70 mdd",
-      "resumen": "La filial rojiblanca en Los Ángeles pasó de promesa internacional a convertirse en uno de los negocios más singulares de Vergara.",
-      "link": "https://expansion.mx/empresas/2026/09/22/jorge-vergara-arriesgo-se-arriego-con-chivas-usa",
-      "fecha": "22 Sep 2026, 11:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Megacable, el jugador que dejó de ser local y está a punto de desplazar a  Izzy y Sky en el mercado fijo de internet",
-      "resumen": "La empresa está a unas décimas de rebasar a Televisa y convertirse en el segundo competidor en internet fijo, impulsada por la expansión de su red de fibra óptica y una estrategia de crecimiento.",
-      "link": "https://expansion.mx/empresas/2026/09/22/megacable-va-televisa-esta-desplazar-izzi-sky-internet-fijo",
-      "fecha": "22 Sep 2026, 10:17 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -163,6 +163,24 @@
       "resumen": "ASPA dijo que no concederá flexibilización de jornadas laborales ni en salario, durante las negociaciones contractuales.",
       "link": "https://www.reforma.com/descarta-aspa-ceder-en-revision-contractual-con-aeromexico/ar3281116",
       "fecha": "23 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frenan cualquier avance en proyecto Amigo GNL en Sonora",
+      "resumen": "Un juez federal en Sonora otorgó una nueva suspensión definitiva a la construcción y avance del proyecto de gas natural \"Amigo GNL\".",
+      "link": "https://www.reforma.com/frenan-cualquier-avance-en-proyecto-amigo-gnl-en-sonora/ar3281341",
+      "fecha": "23 Sep 2026, 17:32 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene peso peor sesión en 6 meses",
+      "resumen": "El peso sufrió su peor caída desde el 3 de marzo de 2026; al descender 23.71 centavos frente al dólar, concluyendo la jornada en $17.54.",
+      "link": "https://www.reforma.com/tiene-peso-peor-sesion-en-6-meses/ar3281354",
+      "fecha": "23 Sep 2026, 17:32 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "En ocho años, las cuentas de intermediación bursátil pasaron de 300 mil a 27.7 millones; sin embargo los valores aumentaron solo 1.7 veces.",
       "link": "https://www.reforma.com/crecen-cuentas-bursatiles-pero-inversion-avanza-mas-lento/ar3281138",
       "fecha": "23 Sep 2026, 14:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Eleva OCDE a 1.5% previsión de crecimiento de México en 2026",
-      "resumen": "OCDE ajustó al alza su pronóstico de crecimiento para el PIB de México este año, a 1.5%, mientras que mantuvo en 1.8% su estimado de 2027.",
-      "link": "https://www.reforma.com/eleva-ocde-a-1-5-prevision-de-crecimiento-de-mexico-en-2026/ar3280901",
-      "fecha": "23 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ajusta BBVA su horario  de operación en bancos",
-      "resumen": "A partir del 5 de octubre, las más de mil 500 sucursales de BBVA México tendrán un nuevo horario: de lunes a viernes, de 9:00 a 16:00 horas.",
-      "link": "https://www.reforma.com/ajusta-bbva-su-horario-de-operacion-en-bancos/ar3281045",
-      "fecha": "23 Sep 2026, 12:25 hrs"
     }
   ]
 }
