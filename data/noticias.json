@@ -1,7 +1,25 @@
 {
-  "actualizado": "24/09/2026 12:13 hrs",
+  "actualizado": "24/09/2026 15:59 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
+      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
+      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
+      "fecha": "24 Sep 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México crece poco y su deuda sube: la combinación que preocupa a Moody's",
+      "resumen": "Renzo Merino, vicepresidente de Riesgo Soberano de Moody’s Ratings, advierte que un déficit de entre 4% y 4.5% del PIB en 2026 aún no permitiría estabilizar la deuda.",
+      "link": "https://expansion.mx/economia/2026/09/24/mexico-bajo-crecimiento-deuda-sube-riesgos-moodys",
+      "fecha": "24 Sep 2026, 12:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Primero detener la hemorragia arancelaria; después, negociar el futuro del T-MEC: Ildefonso Guajardo",
-      "resumen": "El exsecretario de Economía y exjefe negociador del T-MEC considera que la relación entre Sheinbaum y Trump será decisiva en una negociación donde comercio y otros asuntos de la agenda bilateral se me…",
-      "link": "https://expansion.mx/economia/2026/09/23/guajardo-aranceles-primero-renovacion-tmec-despues",
-      "fecha": "23 Sep 2026, 15:24 hrs"
+      "titulo": "Geely reporta falla en el Emgrand: estos modelos deben ir a revisión y así pueden repararse gratis",
+      "resumen": "Más de 6,000 propietarios deberán revisar si su unidad forma parte de una campaña que permanecerá abierta por tiempo indefinido.",
+      "link": "https://expansion.mx/empresas/2026/09/24/geely-falla-en-emgrand-asi-pueden-repararse-gratis",
+      "fecha": "24 Sep 2026, 14:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mientras BBVA reduce sus horarios en sucursales, estos bancos cierran después de las 4",
-      "resumen": "Si necesitas atención en la tarde, estos bancos pueden ser una opción para realizar trámites y consultar movimientos.",
-      "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
-      "fecha": "23 Sep 2026, 14:15 hrs"
+      "titulo": "Pilotos de Aeroméxico no ceden y la huelga se acerca al no llegar a un acuerdo con la aerolínea",
+      "resumen": "Los integrantes del Sindicato de pilotos exigen que la aerolínea responda a una serie de demandas laborales para no estallar la huelga cuyo emplazamiento es el 1 de octubre.",
+      "link": "https://expansion.mx/empresas/2026/09/24/pilotos-aeromexico-no-llegan-acuerdo-aerolinea-semana-huelga",
+      "fecha": "24 Sep 2026, 14:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "American Airlines apuesta por Invex y Mastercard para incentivar a sus clientes en México",
+      "resumen": "Con esta estrategia, la aerolínea quiere generar mayores hábitos de compra en aquellos mexicanos que viajan con frecuencia a Estados Unidos por negocios.",
+      "link": "https://expansion.mx/empresas/2026/09/24/american-airlines-invex-y-mastercard-nuevas-tarjetas-mexico",
+      "fecha": "24 Sep 2026, 14:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
+      "resumen": "La empresa ingresó 3,328 mdp en el cuatro trimestre de 2025 gracias al operador móvil de Walmart y a otros que usan su infraestructura, pero la falta de 5G aún limita la oferta tecnológica.",
+      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
+      "fecha": "24 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,67 +147,40 @@
       "fecha": "23 Sep 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La china Changan va por el trono de Toyota: su nuevo plan para entregar refacciones en tiempo récord",
-      "resumen": "Tras anunciar su alianza con Estafeta, la automotriz busca competir con automotrices japonesas que llevan décadas operando en México.",
-      "link": "https://expansion.mx/empresas/2026/09/22/changan-vs-toyota-nuevo-plan-entrega-refacciones-estafeta",
-      "fecha": "22 Sep 2026, 19:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana acelera inversión con más de 961 mdp para abrir y remodelar tiendas en el país",
-      "resumen": "La inyección de capital permitirá a la empresa abrir y remodelar 26 tiendas, crear 1,000 empleos en Nuevo León y Veracruz y ayudará a fortalecer el crecimiento de su negocio omnincanal.",
-      "link": "https://expansion.mx/empresas/2026/09/22/soriana-inversion-961-mdp-tiendas-remodelaciones-2026",
-      "fecha": "22 Sep 2026, 18:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Nokia 1100 también se fabricó en México: la planta que estuvo detrás del celular más vendido en la historia",
-      "resumen": "México se encargó de fabricar al teléfono más vendido de la historia, así como otros modelos de Nokia.",
-      "link": "https://expansion.mx/empresas/2026/09/22/nokia-1100-mexico-planta-celular-mas-vendido-historia",
-      "fecha": "22 Sep 2026, 18:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait, el operador telefónico de Walmart, tiene más accesos a internet móvil que líneas activas",
-      "resumen": "Al cierre de 2025, Bait registró 10.9 millones de líneas activas, frente a 12.7 millones de accesos a internet móvil, una diferencia que se debe al cambio de metodología regulatoria para contabilizar …",
-      "link": "https://expansion.mx/empresas/2026/09/22/bait-walmart-acceso-a-internet-movil-lineas-activas",
-      "fecha": "22 Sep 2026, 18:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se dispara huachicol fiscal de diesel",
+      "resumen": "En junio, el huachicol fiscal de diesel proveniente de EU se ubicó en 3.1 millones de barriles, un incremento de 520% respecto a enero.",
+      "link": "https://www.reforma.com/se-dispara-huachicol-fiscal-de-diesel/ar3282139",
+      "fecha": "24 Sep 2026, 15:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte Moody's por carga de la deuda",
+      "titulo": "Mantiene Banxico en 6.50% la tasa de referencia",
+      "resumen": "Banxico mantuvo su tasa de interés de referencia en un nivel de 6.50%, esto ante el cambio de rumbo ejecutado por la Fed.",
+      "link": "https://www.reforma.com/mantiene-banxico-en-6-50-la-tasa-de-referencia/ar3281947",
+      "fecha": "24 Sep 2026, 13:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alerta Moody's por carga de la deuda",
       "resumen": "Para estabilizar la carga de la deuda, agravada por apoyos a Pemex, se requiere ajuste fiscal adicional mayor a 1.5% del PIB, dijo Moody's.",
-      "link": "https://www.reforma.com/advierte-moodys-por-carga-de-la-deuda/ar3281824",
+      "link": "https://www.reforma.com/alerta-moodys-por-carga-de-la-deuda/ar3281824",
       "fecha": "24 Sep 2026, 10:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza inflación  al 3.42% en primera quincena de septiembre",
-      "resumen": "La inflación general de México se aceleró a 3.42% en la primera quincena de septiembre y superó las previsiones de analistas.",
-      "link": "https://www.reforma.com/avanza-inflacion-al-3-42-en-primera-quincena-de-septiembre/ar3281710",
-      "fecha": "24 Sep 2026, 07:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra actividad económica mayor avance desde 2023",
-      "resumen": "Durante julio, el Indicador Oportuno de Actividad Económica tuvo su mejor cifra anual en 33 meses, con un incremento de 0.76 por ciento.",
-      "link": "https://www.reforma.com/registra-actividad-economica-mayor-avance-desde-2023/ar3281834",
-      "fecha": "24 Sep 2026, 10:59 hrs"
+      "titulo": "Denuncian a Yokohama por obstaculizar consulta",
+      "resumen": "La empresa Yokohama fue denunciada por obstaculizar la consulta para definir cuál sería el sindicato que representaría a los trabajadores.",
+      "link": "https://www.reforma.com/denuncian-a-yokohama-por-obstaculizar-consulta/ar3282011",
+      "fecha": "24 Sep 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Invierte LEGO 400 mdd en edificio y almacén en NL",
-      "resumen": "La empresa LEGO invertirá 400 mdd en la construcción de un nuevo edificio de empaque y un almacén automatizado de alta capacidad en NL.",
-      "link": "https://www.reforma.com/invierte-lego-400-mdd-en-edificio-y-almacen-en-nl/ar3281726",
-      "fecha": "24 Sep 2026, 08:03 hrs"
+      "titulo": "Registra actividad económica mayor avance desde 2023",
+      "resumen": "Durante julio, el Indicador Oportuno de Actividad Económica tuvo su mejor cifra anual en 33 meses, con un incremento de 0.76 por ciento.",
+      "link": "https://www.reforma.com/registra-actividad-economica-mayor-avance-desde-2023/ar3281834",
+      "fecha": "24 Sep 2026, 10:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan de caos  si EU frena diesel",
-      "resumen": "Si EU frena exportaciones de diesel traería riesgos para México: la primera y la más importante consecuencia podría ser un caos económico.",
-      "link": "https://www.reforma.com/alertan-de-caos-si-eu-frena-diesel/ar3281560",
-      "fecha": "24 Sep 2026, 05:02 hrs"
+      "titulo": "Encuentran Mipymes más beneficios en IA",
+      "resumen": "El 82 por ciento de las Mipymes que utilizó IA reportó un impacto positivo directo en sus ventas, según Google y Advertiser Perceptions.",
+      "link": "https://www.reforma.com/encuentran-mipymes-mas-beneficios-en-ia/ar3281987",
+      "fecha": "24 Sep 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Temen que suba EU arancel al tomate mexicano",
-      "resumen": "El Gobierno de EU comenzó este mes una revisión al arancel antidumping del 17.09% del tomate de México.",
-      "link": "https://www.reforma.com/temen-que-suba-eu-arancel-al-tomate-mexicano/ar3281594",
-      "fecha": "24 Sep 2026, 07:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inhabilita EU por idioma a choferes mexicanos",
-      "resumen": "Alrededor de 4 mil 500 operadores mexicanos de autotransporte han sido puestos fuera de servicio en EU por no acreditar dominio del inglés.",
-      "link": "https://www.reforma.com/inhabilita-eu-por-idioma-a-choferes-mexicanos/ar3281517",
-      "fecha": "24 Sep 2026, 05:02 hrs"
+      "titulo": "Redefinirá mapa de valor industrial la ruta presupuestal",
+      "resumen": "Habrá ejes que redefinirán el valor del metro cuadrado de inmuebles industriales, como la disponibilidad eléctrica, según Spot2.mx.",
+      "link": "https://www.reforma.com/redefinira-mapa-de-valor-industrial-la-ruta-presupuestal/ar3282046",
+      "fecha": "24 Sep 2026, 14:38 hrs"
     }
   ]
 }
