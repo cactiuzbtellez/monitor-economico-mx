@@ -1,25 +1,7 @@
 {
-  "actualizado": "24/09/2026 15:59 hrs",
+  "actualizado": "24/09/2026 18:27 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
-      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
-      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
-      "fecha": "24 Sep 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México crece poco y su deuda sube: la combinación que preocupa a Moody's",
-      "resumen": "Renzo Merino, vicepresidente de Riesgo Soberano de Moody’s Ratings, advierte que un déficit de entre 4% y 4.5% del PIB en 2026 aún no permitiría estabilizar la deuda.",
-      "link": "https://expansion.mx/economia/2026/09/24/mexico-bajo-crecimiento-deuda-sube-riesgos-moodys",
-      "fecha": "24 Sep 2026, 12:13 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,69 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Primero detener la hemorragia arancelaria; después, negociar el futuro del T-MEC: Ildefonso Guajardo",
+      "resumen": "El exsecretario de Economía y exjefe negociador del T-MEC considera que la relación entre Sheinbaum y Trump será decisiva en una negociación donde comercio y otros asuntos de la agenda bilateral se me…",
+      "link": "https://expansion.mx/economia/2026/09/23/guajardo-aranceles-primero-renovacion-tmec-despues",
+      "fecha": "23 Sep 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras BBVA reduce sus horarios en sucursales, estos bancos cierran después de las 4",
+      "resumen": "Si necesitas atención en la tarde, estos bancos pueden ser una opción para realizar trámites y consultar movimientos.",
+      "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
+      "fecha": "23 Sep 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex necesitará apoyos anuales del gobierno hasta por 10,000 mdd, pese a la meta de autosuficiencia",
+      "resumen": "Moody’ s estima que la petrolera requerirá por cinco años más el respaldo público para enfrentar sus deudas, mientras persisten desafíos operativos que podrían prolongar esta dependencia.",
+      "link": "https://expansion.mx/empresas/2026/09/24/pemex-llegara-apoyos-gobierno-pese-meta-autosuficiencia",
+      "fecha": "24 Sep 2026, 18:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quiénes fueron Salinas y Rocha? La historia de la tienda que marcó a varias generaciones de mexicanos",
+      "resumen": "El negocio comenzó su historia en 1906 y es recordado por sentar las bases de uno de los grupos empresariales más importantes de la actualidad.",
+      "link": "https://expansion.mx/empresas/2026/09/24/quienes-fueron-salinas-rocha-historia-detras-tienda",
+      "fecha": "24 Sep 2026, 17:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Santa Fe a Iztapalapa, estos son todos los terrenos de Televisa en CDMX; no todo es San Ángel y Chapultepec",
+      "resumen": "Detrás de sus estudios y oficinas hay un patrimonio inmobiliario millonario. Televisa conserva propiedades estratégicas y renta parte de ellas a otras empresas.",
+      "link": "https://expansion.mx/empresas/2026/09/24/terrenos-televisa-en-cdmx-san-angel-santa-fe-iztapalapa",
+      "fecha": "24 Sep 2026, 17:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Cerveza Pacífico? Así nació el clásico de Mazatlán que conquistó a México",
+      "resumen": "La cerveza Pacífico tiene más de un siglo de historia, y aunque nació inspirada en la cultura local, hoy conquista a los paladares de todo el país.",
+      "link": "https://expansion.mx/empresas/2026/09/24/quien-es-dueno-cerveza-pacifico-origen-clasico-mazatlan",
+      "fecha": "24 Sep 2026, 16:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Valora gana terreno mientras FEMSA apuesta por tiendas rentables",
+      "resumen": "FEMSA crece en Europa en moneda local mientras cierra tiendas de bajo rendimiento y concentra sus inversiones en formatos más productivos, alimentos frescos y tecnología.",
+      "link": "https://expansion.mx/empresas/2026/09/24/femsa-valora-europa-foodvenience-tiendas-productividad",
+      "fecha": "24 Sep 2026, 16:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Geely reporta falla en el Emgrand: estos modelos deben ir a revisión y así pueden repararse gratis",
@@ -102,49 +147,22 @@
       "fecha": "24 Sep 2026, 14:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
-      "resumen": "La empresa ingresó 3,328 mdp en el cuatro trimestre de 2025 gracias al operador móvil de Walmart y a otros que usan su infraestructura, pero la falta de 5G aún limita la oferta tecnológica.",
-      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
-      "fecha": "24 Sep 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar su mejor nivel en más de 5 meses",
+      "resumen": "El dólar cerró el jueves con una cotización de $17,72, logrando su mejor nivel desde el 6 de abril de 2026.",
+      "link": "https://www.reforma.com/cierra-dolar-su-mejor-nivel-en-mas-de-5-meses/ar3282244",
+      "fecha": "24 Sep 2026, 18:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El negocio de minimis se enfría para Estafeta, pero crece el de refacciones para autos chinos",
-      "resumen": "El aumento arancelario a este tipo de paquetes de bajo valor, principalmente chinos, también causó estragos en la adquisición de Esteta por parte de la norteamericana UPS.",
-      "link": "https://expansion.mx/empresas/2026/09/23/minimis-no-son-negocio-estafeta-oportunidad-autos-chinos",
-      "fecha": "23 Sep 2026, 15:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Era hijo del fundador de La Costeña, creó su empresa con 20 empleados y hoy Jumex mueve 25,116 millones",
-      "resumen": "Eugenio López Rodea convirtió una apuesta empresarial iniciada en 1961 en una de las principales compañías de bebidas de México, con presencia dentro y fuera del país.",
-      "link": "https://expansion.mx/empresas/2026/09/23/hijo-dueno-la-costena-fundo-jumex",
-      "fecha": "23 Sep 2026, 15:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
-      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
-      "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
-      "fecha": "23 Sep 2026, 12:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex destina recursos a 229 campos petroleros, pero 37 concentran el 85% de la producción",
-      "resumen": "De los 229 campos, 100 son considerados de baja rentabilidad y otros 92 tienen valor nulo o negativo. Un escenario que, según la consultora Welligence, resta eficiencia al negocio de exploración y pro…",
-      "link": "https://expansion.mx/empresas/2026/09/23/pemex-depende-37-campos-produccion-barriles-92-no-rentables",
-      "fecha": "23 Sep 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Presionaría Pemex y diesel a déficit público",
+      "resumen": "Incremento en precio de combustibles, restricciones de exportación y dependencia de Pemex presionarán el déficit público, señaló Moody's.",
+      "link": "https://www.reforma.com/presionaria-pemex-y-diesel-a-deficit-publico/ar3282207",
+      "fecha": "24 Sep 2026, 17:44 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,55 +177,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mantiene Banxico en 6.50% la tasa de referencia",
-      "resumen": "Banxico mantuvo su tasa de interés de referencia en un nivel de 6.50%, esto ante el cambio de rumbo ejecutado por la Fed.",
-      "link": "https://www.reforma.com/mantiene-banxico-en-6-50-la-tasa-de-referencia/ar3281947",
-      "fecha": "24 Sep 2026, 13:03 hrs"
+      "titulo": "Presenta Sofom solicitud para ser emisora simplificada",
+      "resumen": "Sofom Adventus Capital presentó su solicitud ante la Bolsa Mexicana de Valores para ser la primera emisora simplificada.",
+      "link": "https://www.reforma.com/presenta-sofom-solicitud-para-ser-emisora-simplificada/ar3282122",
+      "fecha": "24 Sep 2026, 17:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alerta Moody's por carga de la deuda",
-      "resumen": "Para estabilizar la carga de la deuda, agravada por apoyos a Pemex, se requiere ajuste fiscal adicional mayor a 1.5% del PIB, dijo Moody's.",
-      "link": "https://www.reforma.com/alerta-moodys-por-carga-de-la-deuda/ar3281824",
-      "fecha": "24 Sep 2026, 10:59 hrs"
+      "titulo": "Prevén presiones por freno a exportaciones de diesel de EU",
+      "resumen": "Mercado europeo y latinoamericano enfrentarán presión por reducción de oferta estadounidense de diesel, advierte AE 360.",
+      "link": "https://www.reforma.com/preven-presiones-por-freno-a-exportaciones-de-diesel-de-eu/ar3282079",
+      "fecha": "24 Sep 2026, 15:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Denuncian a Yokohama por obstaculizar consulta",
-      "resumen": "La empresa Yokohama fue denunciada por obstaculizar la consulta para definir cuál sería el sindicato que representaría a los trabajadores.",
-      "link": "https://www.reforma.com/denuncian-a-yokohama-por-obstaculizar-consulta/ar3282011",
-      "fecha": "24 Sep 2026, 14:15 hrs"
+      "titulo": "Perfila acción de Meta su mejor mes desde 2013",
+      "resumen": "Las acciones de la empresa matriz de Facebook han subido un 36% en septiembre tras el lanzamiento de Muse, su asistente personal de IA.",
+      "link": "https://www.reforma.com/perfila-accion-de-meta-su-mejor-mes-desde-2013/ar3282092",
+      "fecha": "24 Sep 2026, 15:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Para hacer negocios, hay que ser amigo de 'Andy'.- Canales",
-      "resumen": "Ya no basta el talento, sino ser amigo del hijo de AMLO para poder hacer negocios, dijo el empresario Fernando Canales Clariond.",
-      "link": "https://www.reforma.com/para-hacer-negocios-hay-que-ser-amigo-de-andy-canales/ar3281868",
-      "fecha": "24 Sep 2026, 11:43 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra actividad económica mayor avance desde 2023",
-      "resumen": "Durante julio, el Indicador Oportuno de Actividad Económica tuvo su mejor cifra anual en 33 meses, con un incremento de 0.76 por ciento.",
-      "link": "https://www.reforma.com/registra-actividad-economica-mayor-avance-desde-2023/ar3281834",
-      "fecha": "24 Sep 2026, 10:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Encuentran Mipymes más beneficios en IA",
-      "resumen": "El 82 por ciento de las Mipymes que utilizó IA reportó un impacto positivo directo en sus ventas, según Google y Advertiser Perceptions.",
-      "link": "https://www.reforma.com/encuentran-mipymes-mas-beneficios-en-ia/ar3281987",
-      "fecha": "24 Sep 2026, 14:15 hrs"
+      "titulo": "Dejan mexicanos sus casas a la intemperie financiera",
+      "resumen": "En México, 3 de cada 4 viviendas carecen de cualquier tipo de seguro y la contratación voluntaria apenas alcanza 12%, reveló AMIS.",
+      "link": "https://www.reforma.com/dejan-mexicanos-sus-casas-a-la-intemperie-financiera/ar3282058",
+      "fecha": "24 Sep 2026, 17:44 hrs"
     },
     {
       "fuente": "Reforma",
