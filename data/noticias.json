@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/09/2026 23:52 hrs",
+  "actualizado": "25/09/2026 05:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,60 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La adopción del streaming crece en zonas rurales mientras que en zonas urbanas empieza a moderarse",
-      "resumen": "La migración de contenidos como deportes y entretenimiento desde la tv abierta y de paga hacia plataformas digitales impulsa la adopción del streaming en zonas rurales, mientras que en áreas urbanas e…",
-      "link": "https://expansion.mx/empresas/2026/09/24/adopcion-streaming-crece-zonas-rurales-urbanas-moderarse",
-      "fecha": "24 Sep 2026, 18:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex necesitará apoyos anuales del gobierno hasta por 10,000 mdd, pese a la meta de autosuficiencia",
-      "resumen": "Moody’ s estima que la petrolera requerirá por cinco años más el respaldo público para enfrentar sus deudas, mientras persisten desafíos operativos que podrían prolongar esta dependencia.",
-      "link": "https://expansion.mx/empresas/2026/09/24/pemex-llegara-apoyos-gobierno-pese-meta-autosuficiencia",
-      "fecha": "24 Sep 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quiénes fueron Salinas y Rocha? La historia de la tienda que marcó a varias generaciones de mexicanos",
-      "resumen": "El negocio comenzó su historia en 1906 y es recordado por sentar las bases de uno de los grupos empresariales más importantes de la actualidad.",
-      "link": "https://expansion.mx/empresas/2026/09/24/quienes-fueron-salinas-rocha-historia-detras-tienda",
-      "fecha": "24 Sep 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Santa Fe a Iztapalapa, estos son todos los terrenos de Televisa en CDMX; no todo es San Ángel y Chapultepec",
-      "resumen": "Detrás de sus estudios y oficinas hay un patrimonio inmobiliario millonario. Televisa conserva propiedades estratégicas y renta parte de ellas a otras empresas.",
-      "link": "https://expansion.mx/empresas/2026/09/24/terrenos-televisa-en-cdmx-san-angel-santa-fe-iztapalapa",
-      "fecha": "24 Sep 2026, 17:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Cerveza Pacífico? Así nació el clásico de Mazatlán que conquistó a México",
-      "resumen": "La cerveza Pacífico tiene más de un siglo de historia, y aunque nació inspirada en la cultura local, hoy conquista a los paladares de todo el país.",
-      "link": "https://expansion.mx/empresas/2026/09/24/quien-es-dueno-cerveza-pacifico-origen-clasico-mazatlan",
-      "fecha": "24 Sep 2026, 16:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Valora gana terreno mientras FEMSA apuesta por tiendas rentables",
-      "resumen": "FEMSA crece en Europa en moneda local mientras cierra tiendas de bajo rendimiento y concentra sus inversiones en formatos más productivos, alimentos frescos y tecnología.",
-      "link": "https://expansion.mx/empresas/2026/09/24/femsa-valora-europa-foodvenience-tiendas-productividad",
-      "fecha": "24 Sep 2026, 16:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Geely reporta falla en el Emgrand: estos modelos deben ir a revisión y así pueden repararse gratis",
       "resumen": "Más de 6,000 propietarios deberán revisar si su unidad forma parte de una campaña que permanecerá abierta por tiempo indefinido.",
       "link": "https://expansion.mx/empresas/2026/09/24/geely-falla-en-emgrand-asi-pueden-repararse-gratis",
@@ -145,6 +91,87 @@
       "resumen": "Los integrantes del Sindicato de pilotos exigen que la aerolínea responda a una serie de demandas laborales para no estallar la huelga cuyo emplazamiento es el 1 de octubre.",
       "link": "https://expansion.mx/empresas/2026/09/24/pilotos-aeromexico-no-llegan-acuerdo-aerolinea-semana-huelga",
       "fecha": "24 Sep 2026, 14:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "American Airlines apuesta por Invex y Mastercard para incentivar a sus clientes en México",
+      "resumen": "Con esta estrategia, la aerolínea quiere generar mayores hábitos de compra en aquellos mexicanos que viajan con frecuencia a Estados Unidos por negocios.",
+      "link": "https://expansion.mx/empresas/2026/09/24/american-airlines-invex-y-mastercard-nuevas-tarjetas-mexico",
+      "fecha": "24 Sep 2026, 14:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait aumenta los ingresos de Altán, pero el reto es convertir el crecimiento en rentabilidad y 5G",
+      "resumen": "La empresa ingresó 3,328 mdp en el cuatro trimestre de 2025 gracias al operador móvil de Walmart y a otros que usan su infraestructura, pero la falta de 5G aún limita la oferta tecnológica.",
+      "link": "https://expansion.mx/empresas/2026/09/24/altan-eleva-ingresos-reto-crecimiento-rentabilidad-5g",
+      "fecha": "24 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El negocio de minimis se enfría para Estafeta, pero crece el de refacciones para autos chinos",
+      "resumen": "El aumento arancelario a este tipo de paquetes de bajo valor, principalmente chinos, también causó estragos en la adquisición de Esteta por parte de la norteamericana UPS.",
+      "link": "https://expansion.mx/empresas/2026/09/23/minimis-no-son-negocio-estafeta-oportunidad-autos-chinos",
+      "fecha": "23 Sep 2026, 15:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Era hijo del fundador de La Costeña, creó su empresa con 20 empleados y hoy Jumex mueve 25,116 millones",
+      "resumen": "Eugenio López Rodea convirtió una apuesta empresarial iniciada en 1961 en una de las principales compañías de bebidas de México, con presencia dentro y fuera del país.",
+      "link": "https://expansion.mx/empresas/2026/09/23/hijo-dueno-la-costena-fundo-jumex",
+      "fecha": "23 Sep 2026, 15:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Producción de Nissan cae 25.1%: resiente cierre de plantas en Aguascalientes y Morelos",
+      "resumen": "El cese de operaciones de COMPAS en el Bajío y CIVAC en el centro del país llevaron a que la firma disminuyera en una cuarta parte sus volúmenes de fabricación en México.",
+      "link": "https://expansion.mx/empresas/2026/09/23/nissan-deja-producir-uno-cada-cuatro-autos-mexico",
+      "fecha": "23 Sep 2026, 12:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex destina recursos a 229 campos petroleros, pero 37 concentran el 85% de la producción",
+      "resumen": "De los 229 campos, 100 son considerados de baja rentabilidad y otros 92 tienen valor nulo o negativo. Un escenario que, según la consultora Welligence, resta eficiencia al negocio de exploración y pro…",
+      "link": "https://expansion.mx/empresas/2026/09/23/pemex-depende-37-campos-produccion-barriles-92-no-rentables",
+      "fecha": "23 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se dispara exportación de gas natural licuado",
+      "resumen": "México disparó 365% sus exportaciones de gas natural licuado (GNL) entre 2024 y 2025 al alcanzar las mil 03 millones de toneladas.",
+      "link": "https://www.reforma.com/se-dispara-exportacion-de-gas-natural-licuado/ar3282341",
+      "fecha": "25 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Queda corto alivio a sector textil",
+      "resumen": "Pese al aumento de aranceles a más de 700 acciones, en julio, el volumen de fabricación de prendas de vestir cayo 6.3% anual, reveló Inegi.",
+      "link": "https://www.reforma.com/queda-corto-alivio-a-sector-textil/ar3282370",
+      "fecha": "25 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsa 'superpeso' viajes al extranjero",
+      "resumen": "Apreciación frente al dólar y la baja en el tipo de cambio están favoreciendo un aumento en los viajes de mexicanos al extranjero.",
+      "link": "https://www.reforma.com/impulsa-superpeso-viajes-al-extranjero/ar3282384",
+      "fecha": "25 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "México, T-MEC y Corea",
+      "resumen": "Cooperación entre México y Corea debería replantearse como una contribución a la integración productiva de América del Norte.",
+      "link": "https://www.reforma.com/mexico-t-mec-y-corea/ar3282255",
+      "fecha": "25 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Se dispara huachicol fiscal de diesel",
       "resumen": "En junio, el huachicol fiscal de diesel proveniente de EU se ubicó en 3.1 millones de barriles, un incremento de 520% respecto a enero.",
       "link": "https://www.reforma.com/se-dispara-huachicol-fiscal-de-diesel/ar3282139",
       "fecha": "24 Sep 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presenta Sofom solicitud para ser emisora simplificada",
-      "resumen": "Sofom Adventus Capital presentó su solicitud ante la Bolsa Mexicana de Valores para ser la primera emisora simplificada.",
-      "link": "https://www.reforma.com/presenta-sofom-solicitud-para-ser-emisora-simplificada/ar3282122",
-      "fecha": "24 Sep 2026, 17:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén presiones por freno a exportaciones de diesel de EU",
-      "resumen": "Mercado europeo y latinoamericano enfrentarán presión por reducción de oferta estadounidense de diesel, advierte AE 360.",
-      "link": "https://www.reforma.com/preven-presiones-por-freno-a-exportaciones-de-diesel-de-eu/ar3282079",
-      "fecha": "24 Sep 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Perfila acción de Meta su mejor mes desde 2013",
-      "resumen": "Las acciones de la empresa matriz de Facebook han subido un 36% en septiembre tras el lanzamiento de Muse, su asistente personal de IA.",
-      "link": "https://www.reforma.com/perfila-accion-de-meta-su-mejor-mes-desde-2013/ar3282092",
-      "fecha": "24 Sep 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dejan mexicanos sus casas a la intemperie financiera",
-      "resumen": "En México, 3 de cada 4 viviendas carecen de cualquier tipo de seguro y la contratación voluntaria apenas alcanza 12%, reveló AMIS.",
-      "link": "https://www.reforma.com/dejan-mexicanos-sus-casas-a-la-intemperie-financiera/ar3282058",
-      "fecha": "24 Sep 2026, 17:44 hrs"
     }
   ]
 }
