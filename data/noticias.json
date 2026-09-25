@@ -1,25 +1,7 @@
 {
-  "actualizado": "25/09/2026 14:17 hrs",
+  "actualizado": "25/09/2026 17:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Adiós al efectivo en México: ¿Por qué el país aún no está listo para pagos solo con tarjeta?",
-      "resumen": "Digitalizar la economía por \"decreto\" choca contra millones de personas sin internet, comisiones bancarias elevadas y el temor a la fiscalización.",
-      "link": "https://expansion.mx/economia/2026/09/25/mexico-no-esta-listo-prohibir-efectivo-tarjetas",
-      "fecha": "25 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Marc Pinto, de Moody's: \"La desglobalización incrementará la necesidad de capital, y ahí está el crédito privado\"",
-      "resumen": "El director global de Crédito Privado de Moody's Ratings señala que México supone una oportunidad para el crédito privado, que seguirá creciendo en el futuro.",
-      "link": "https://expansion.mx/economia/2026/09/25/marc-pinto-moodys-credito-privado-mexico",
-      "fecha": "25 Sep 2026, 05:30 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,60 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Actividad económica de México sorprende y crece 0.8% en julio",
+      "resumen": "El IGAE creció 3.3% en cifras anuales, una señal de que la economía mexicana mantuvo parte del impulso observado en el segundo trimestre.",
+      "link": "https://expansion.mx/economia/2026/09/24/economia-mexicana-sorprende-alza-arrancar-tercer-trimestre",
+      "fecha": "24 Sep 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Colegiaturas y gas LP aumentan la inflación en primera quincena de septiembre por arriba de lo esperado por el mercado",
+      "resumen": "Entre los productos y servicios que más incidieron destacó la educación primaria, con alzas de 5.85% a tasa quincenal; en secundaria subieron 5.33%, mientras que las universitarias avanzaron 1.10%",
+      "link": "https://expansion.mx/economia/2026/09/24/inflacion-mexico-septiembre-2026-supera-expectativas",
+      "fecha": "24 Sep 2026, 07:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La IA aumenta el tráfico de datos y presiona la capacidad de las redes de las telecomunicaciones",
+      "resumen": "El aumento del uso de IA elevará 26% el tráfico global de datos hacia 2034, de acuerdo con Nokia, por lo que los operadores deberán ampliar la capacidad de sus redes y avanzar hacia tecnologías como 5…",
+      "link": "https://expansion.mx/empresas/2026/09/25/ia-aumenta-trafico-datos-presiona-redes-telecomunicaciones",
+      "fecha": "25 Sep 2026, 17:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim convirtió un basurero del Edomex en plaza comercial, hospital y centro deportivo",
+      "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
+      "link": "https://expansion.mx/empresas/2026/09/25/carlos-slim-transformo-basurero-en-ciudad-jardin",
+      "fecha": "25 Sep 2026, 14:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Telmex y Telnor deberán ofrecer internet de hasta 70 Mbps por 200 pesos en 60 localidades",
+      "resumen": "La CRT incorporó nuevas obligaciones a las subsidiarias de América Móvil que incluyen un descuento de 50% en la instalación, facilidades de pago y la posibilidad de contratar telefonía fija y 100 punt…",
+      "link": "https://expansion.mx/empresas/2026/09/25/telmex-telnor-ofrecer-internet-200-pesos-60-localidades",
+      "fecha": "25 Sep 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta SUV eléctrica funciona como una power bank gigante y puede salvarte cuando te quedes sin luz",
+      "resumen": "Además de su autonomía y tiempos de recarga, los vehículos eléctricos incorporan funciones que pueden resultar útiles dentro y fuera de casa.",
+      "link": "https://expansion.mx/empresas/2026/09/25/suv-electrica-que-carga-aparatos",
+      "fecha": "25 Sep 2026, 14:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Riunite va por los jóvenes y convierte al Lambrusco en un rival para la cerveza y el tequila",
@@ -111,112 +147,76 @@
       "fecha": "24 Sep 2026, 18:04 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quiénes fueron Salinas y Rocha? La historia de la tienda que marcó a varias generaciones de mexicanos",
-      "resumen": "El negocio comenzó su historia en 1906 y es recordado por sentar las bases de uno de los grupos empresariales más importantes de la actualidad.",
-      "link": "https://expansion.mx/empresas/2026/09/24/quienes-fueron-salinas-rocha-historia-detras-tienda",
-      "fecha": "24 Sep 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Santa Fe a Iztapalapa, estos son todos los terrenos de Televisa en CDMX; no todo es San Ángel y Chapultepec",
-      "resumen": "Detrás de sus estudios y oficinas hay un patrimonio inmobiliario millonario. Televisa conserva propiedades estratégicas y renta parte de ellas a otras empresas.",
-      "link": "https://expansion.mx/empresas/2026/09/24/terrenos-televisa-en-cdmx-san-angel-santa-fe-iztapalapa",
-      "fecha": "24 Sep 2026, 17:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Cerveza Pacífico? Así nació el clásico de Mazatlán que conquistó a México",
-      "resumen": "La cerveza Pacífico tiene más de un siglo de historia, y aunque nació inspirada en la cultura local, hoy conquista a los paladares de todo el país.",
-      "link": "https://expansion.mx/empresas/2026/09/24/quien-es-dueno-cerveza-pacifico-origen-clasico-mazatlan",
-      "fecha": "24 Sep 2026, 16:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Valora gana terreno mientras FEMSA apuesta por tiendas rentables",
-      "resumen": "FEMSA crece en Europa en moneda local mientras cierra tiendas de bajo rendimiento y concentra sus inversiones en formatos más productivos, alimentos frescos y tecnología.",
-      "link": "https://expansion.mx/empresas/2026/09/24/femsa-valora-europa-foodvenience-tiendas-productividad",
-      "fecha": "24 Sep 2026, 16:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Preocupa a AIXM exposición de datos personales",
+      "resumen": "La AIXM crítico los comunicados de la Secretaría Anticorrupción y Buen Gobierno donde se plantea la exposición de datos particulares.",
+      "link": "https://www.reforma.com/preocupa-a-aixm-exposicion-de-datos-personales/ar3282840",
+      "fecha": "25 Sep 2026, 17:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Agrava Pemex carga de deuda.- Moody's",
-      "resumen": "Apoyos a Pemex agravan carga de deuda, y para estabilizarla se necesita ajuste fiscal de más de 1.5% del PIB sólo en este año, dijo Moody's.",
-      "link": "https://www.reforma.com/agrava-pemex-carga-de-deuda-moodys/ar3282439",
-      "fecha": "25 Sep 2026, 05:01 hrs"
+      "titulo": "Cambia Microsoft rumbo de Copilot y se enfoca en el trabajo",
+      "resumen": "Microsoft está fusionando la versión para consumidores y empresas de su asistente de IA Copilot en uno solo para clientes corporativos.",
+      "link": "https://www.reforma.com/cambia-microsoft-rumbo-de-copilot-y-se-enfoca-en-el-trabajo/ar3282782",
+      "fecha": "25 Sep 2026, 15:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perfila peso su peor semana desde marzo",
-      "resumen": "Tipo de cambio cotiza en $17.75 por dólar, con un retroceso del 0.21% para la moneda mexicana, que acumula una pérdida semanal de más de 3%.",
-      "link": "https://www.reforma.com/perfila-peso-su-peor-semana-desde-marzo/ar3282547",
-      "fecha": "25 Sep 2026, 08:58 hrs"
+      "titulo": "Pagará CIESA mil 400 mdd por AHMSA",
+      "resumen": "CIESA, del empresario Arturo Domínguez Arteaga, presentó oferta por AHMSA de mil 400 mdd y entregará garantía de 53.6 mdd antes de 6 días.",
+      "link": "https://www.reforma.com/pagara-ciesa-mil-400-mdd-por-ahmsa/ar3282766",
+      "fecha": "25 Sep 2026, 15:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva México subastas de Bonos a 5 y 20 años",
-      "resumen": "México elevará los montos a subastar de Bonos a 5 y 20 años, así como de Udibonos a 20 y 30 años, durante el cuarto trimestre, informó SHCP.",
-      "link": "https://www.reforma.com/eleva-mexico-subastas-de-bonos-a-5-y-20-anos/ar3282538",
-      "fecha": "25 Sep 2026, 08:36 hrs"
+      "titulo": "Abren queja laboral contra Yokohama",
+      "resumen": "El Gobierno de Estados Unidos invocó el Mecanismo Laboral de Respuesta Rápida en contra de la empresa llantera Yokohama en Coahuila.",
+      "link": "https://www.reforma.com/abren-queja-laboral-contra-yokohama/ar3282769",
+      "fecha": "25 Sep 2026, 15:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene tasa de desocupación alza marginal a 2.72% en agosto",
-      "resumen": "La Tasa de Desocupación tuvo un leve aumento de 0.01 puntos porcentuales en agosto a 2.7% de la Población Económicamente Activa.",
-      "link": "https://www.reforma.com/tiene-tasa-de-desocupacion-alza-marginal-a-2-72-en-agosto/ar3282595",
-      "fecha": "25 Sep 2026, 11:15 hrs"
+      "titulo": "Reporta OpenAI hackeo a 'decenas' de sitios gubernamentales",
+      "resumen": "OpenAI notificó a \"decenas\" de gobiernos y universidades que sus sitios web pudieron verse afectados por las visitas de sus modelos de IA.",
+      "link": "https://www.reforma.com/reporta-openai-hackeo-a-decenas-de-sitios-gubernamentales/ar3282754",
+      "fecha": "25 Sep 2026, 15:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lanza BBVA glosario financiero en Lengua de Señas Mexicana",
-      "resumen": "BBVA México lanzó el primer Glosario Financiero en Lengua de Señas Mexicana (LSM).",
-      "link": "https://www.reforma.com/lanza-bbva-glosario-financiero-en-lengua-de-senas-mexicana/ar3282601",
-      "fecha": "25 Sep 2026, 11:15 hrs"
+      "titulo": "Reanudan segundo cruce ganadero a EU",
+      "resumen": "Estados Unidos autorizó el paso de exportaciones ganaderas desde México, entre San Jerónimo, Chihuahua, y Santa Teresa, Nuevo México.",
+      "link": "https://www.reforma.com/reanudan-segundo-cruce-ganadero-a-eu/ar3282752",
+      "fecha": "25 Sep 2026, 15:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte Gates: IA podría provocar 'mil millones de muertes'",
-      "resumen": "Bill Gates advirtió que la IA es una herramienta \"lo suficientemente poderosa\" como para acabar con una parte sustancial de la humanidad.",
-      "link": "https://www.reforma.com/advierte-gates-ia-podria-provocar-mil-millones-de-muertes/ar3282565",
-      "fecha": "25 Sep 2026, 09:56 hrs"
+      "titulo": "Terminan mercados de EU la semana con ganancias",
+      "resumen": "En la semana, el S&amp;P 500 subió un 1.22%, el Nasdaq ganó 2.06% y el Dow Jones sumó 0.28%.",
+      "link": "https://www.reforma.com/terminan-mercados-de-eu-la-semana-con-ganancias/ar3282730",
+      "fecha": "25 Sep 2026, 14:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Declara juez a Meta responsable en caso Cambridge Analytica",
-      "resumen": "Un jurado de Santa Fe, Nuevo México, dictaminó que Meta Platforms engañó a los residentes del estado, en caso de Cambridge Analytica.",
-      "link": "https://www.reforma.com/declara-juez-a-meta-responsable-en-caso-cambridge-analytica/ar3282645",
-      "fecha": "25 Sep 2026, 12:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja de más de 2%",
-      "resumen": "Los futuros del Brent cayeron un 2.14%, a 104.32 dólares el barril, mientras que los del West Texas restaron un 2.33% hasta 92.41 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-de-mas-de-2/ar3282670",
-      "fecha": "25 Sep 2026, 13:04 hrs"
+      "titulo": "Realiza México reunión fiscal bilateral con Corea",
+      "resumen": "México realizó la primera reunión fiscal bilateral con Corea, informó el SAT.",
+      "link": "https://www.reforma.com/realiza-mexico-reunion-fiscal-bilateral-con-corea/ar3282726",
+      "fecha": "25 Sep 2026, 17:20 hrs"
     }
   ]
 }
