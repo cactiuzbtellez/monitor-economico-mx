@@ -1,7 +1,52 @@
 {
-  "actualizado": "24/09/2026 18:27 hrs",
+  "actualizado": "24/09/2026 23:52 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México reabre segundo cruce para exportar ganado a EU; CNA exige más recursos sanitarios",
+      "resumen": "La reapertura permitirá enviar inicialmente 800 cabezas diarias y hasta 1,500 desde la cuarta semana. El CNA pidió fortalecer presupuesto, personal e infraestructura del Senasica.",
+      "link": "https://expansion.mx/economia/2026/09/24/mexico-reabre-segundo-cruce-exportar-ganado-estados-unidos",
+      "fecha": "24 Sep 2026, 21:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Por inflación, gasolinas, refrescos y cigarros incrementarán IEPS en 2027",
+      "resumen": "En México, las gasolinas y el diésel pagan tres tipos de IEPS, y todos se actualizarán de acuerdo al alza de precios que se registre en diciembre de 2026, Hacienda la estima en 3.8% anual.",
+      "link": "https://expansion.mx/economia/2026/09/24/ieps-gasolinas-refrescos-cigarros-inflacion-2027",
+      "fecha": "24 Sep 2026, 18:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pagar sin efectivo no es para todos en México: ¿cuántos mexicanos pueden vivir solo con tarjeta?",
+      "resumen": "Mientras México avanza hacia más pagos electrónicos, millones de personas todavía enfrentan barreras para dejar atrás el efectivo.",
+      "link": "https://expansion.mx/economia/2026/09/24/pagar-sin-efectivo-no-es-para-todos-en-mexico",
+      "fecha": "24 Sep 2026, 17:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
+      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
+      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
+      "fecha": "24 Sep 2026, 13:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México crece poco y su deuda sube: la combinación que preocupa a Moody's",
+      "resumen": "Renzo Merino, vicepresidente de Riesgo Soberano de Moody’s Ratings, advierte que un déficit de entre 4% y 4.5% del PIB en 2026 aún no permitiría estabilizar la deuda.",
+      "link": "https://expansion.mx/economia/2026/09/24/mexico-bajo-crecimiento-deuda-sube-riesgos-moodys",
+      "fecha": "24 Sep 2026, 12:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México frena la promoción de IED: recortará 31% su presupuesto en 2027",
-      "resumen": "El país pasa de atraer inversión extranjera a focalizarla en sectores estratégicos y más que sumar anuncios, se busca implementar mecanismos de seguimiento y acompañamiento para materializar proyectos…",
-      "link": "https://expansion.mx/economia/2026/09/24/mexico-focalizar-inversion-extranjera-2027-recorte-promocion",
-      "fecha": "24 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El SAT quiere \"seducir\" a micro y pequeñas empresas: ofrece IVA de 7% y eliminar contabilidad para 2027",
-      "resumen": "El fisco también busca que los Resico tengan un solo formulario para pago de IVA e ISR, y que esta obligación se vuelva trimestral, en vez de mensual, refiere Gari Flores, administrador general de Rec…",
-      "link": "https://expansion.mx/economia/2026/09/23/sat-resico-iva-7-elimina-contabilidad-2027",
-      "fecha": "23 Sep 2026, 19:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Casetas y gasolineras están listas para cobros digitales, asevera Peña Merino",
-      "resumen": "Las casetas de cobro en carreteras ya tienen infraestructura para leer tags, mientras más del 95% de las gasolineras ya cuentan con terminales punto de venta, explicó el titular de la Agencia de Trans…",
-      "link": "https://expansion.mx/economia/2026/09/23/casetas-gasolineras-listas-pagos-digitales-pena-merino",
-      "fecha": "23 Sep 2026, 16:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Primero detener la hemorragia arancelaria; después, negociar el futuro del T-MEC: Ildefonso Guajardo",
-      "resumen": "El exsecretario de Economía y exjefe negociador del T-MEC considera que la relación entre Sheinbaum y Trump será decisiva en una negociación donde comercio y otros asuntos de la agenda bilateral se me…",
-      "link": "https://expansion.mx/economia/2026/09/23/guajardo-aranceles-primero-renovacion-tmec-despues",
-      "fecha": "23 Sep 2026, 15:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Mientras BBVA reduce sus horarios en sucursales, estos bancos cierran después de las 4",
-      "resumen": "Si necesitas atención en la tarde, estos bancos pueden ser una opción para realizar trámites y consultar movimientos.",
-      "link": "https://expansion.mx/economia/2026/09/23/bbva-reduce-horarios-sucursales-bancos-cierran-despues-4",
-      "fecha": "23 Sep 2026, 14:15 hrs"
+      "titulo": "La adopción del streaming crece en zonas rurales mientras que en zonas urbanas empieza a moderarse",
+      "resumen": "La migración de contenidos como deportes y entretenimiento desde la tv abierta y de paga hacia plataformas digitales impulsa la adopción del streaming en zonas rurales, mientras que en áreas urbanas e…",
+      "link": "https://expansion.mx/empresas/2026/09/24/adopcion-streaming-crece-zonas-rurales-urbanas-moderarse",
+      "fecha": "24 Sep 2026, 18:32 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,13 @@
       "fecha": "24 Sep 2026, 14:29 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "American Airlines apuesta por Invex y Mastercard para incentivar a sus clientes en México",
-      "resumen": "Con esta estrategia, la aerolínea quiere generar mayores hábitos de compra en aquellos mexicanos que viajan con frecuencia a Estados Unidos por negocios.",
-      "link": "https://expansion.mx/empresas/2026/09/24/american-airlines-invex-y-mastercard-nuevas-tarjetas-mexico",
-      "fecha": "24 Sep 2026, 14:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen cambio operativo en Pemex",
+      "resumen": "Especialistas señalaron que Pemex requiere un cambio estructural en su operación para revertir la caída en la producción petrolera.",
+      "link": "https://www.reforma.com/urgen-cambio-operativo-en-pemex/ar3282310",
+      "fecha": "24 Sep 2026, 20:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "En México, 3 de cada 4 viviendas carecen de cualquier tipo de seguro y la contratación voluntaria apenas alcanza 12%, reveló AMIS.",
       "link": "https://www.reforma.com/dejan-mexicanos-sus-casas-a-la-intemperie-financiera/ar3282058",
       "fecha": "24 Sep 2026, 17:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Redefinirá mapa de valor industrial la ruta presupuestal",
-      "resumen": "Habrá ejes que redefinirán el valor del metro cuadrado de inmuebles industriales, como la disponibilidad eléctrica, según Spot2.mx.",
-      "link": "https://www.reforma.com/redefinira-mapa-de-valor-industrial-la-ruta-presupuestal/ar3282046",
-      "fecha": "24 Sep 2026, 14:38 hrs"
     }
   ]
 }
