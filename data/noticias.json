@@ -1,25 +1,7 @@
 {
-  "actualizado": "25/09/2026 21:47 hrs",
+  "actualizado": "26/09/2026 03:09 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
-      "resumen": "El gobierno federal asegura que se cuenta con toda la infraestructura para aumentar los pagos digitales; el reto es adopción, no acceso, destaca el regulador",
-      "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
-      "fecha": "25 Sep 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda baja IEPS a gasolinas, mientras el diésel va por su tercera semana con cuota cero",
-      "resumen": "Para la semana del 26 de septiembre al 2 de octubre, el diésel que es el combustible utilizado para el movimiento masivo de personas y mercancías tendrá un estímulo de 100% a su cuota IEPS por litro.",
-      "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
-      "fecha": "25 Sep 2026, 17:53 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "En México, las gasolinas y el diésel pagan tres tipos de IEPS, y todos se actualizarán de acuerdo al alza de precios que se registre en diciembre de 2026, Hacienda la estima en 3.8% anual.",
       "link": "https://expansion.mx/economia/2026/09/24/ieps-gasolinas-refrescos-cigarros-inflacion-2027",
       "fecha": "24 Sep 2026, 18:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pagar sin efectivo no es para todos en México: ¿cuántos mexicanos pueden vivir solo con tarjeta?",
+      "resumen": "Mientras México avanza hacia más pagos electrónicos, millones de personas todavía enfrentan barreras para dejar atrás el efectivo.",
+      "link": "https://expansion.mx/economia/2026/09/24/pagar-sin-efectivo-no-es-para-todos-en-mexico",
+      "fecha": "24 Sep 2026, 17:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
+      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
+      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
+      "fecha": "24 Sep 2026, 13:19 hrs"
     },
     {
       "fuente": "Expansión",
