@@ -1,7 +1,61 @@
 {
-  "actualizado": "25/09/2026 17:51 hrs",
+  "actualizado": "25/09/2026 21:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
+      "resumen": "El gobierno federal asegura que se cuenta con toda la infraestructura para aumentar los pagos digitales; el reto es adopción, no acceso, destaca el regulador",
+      "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
+      "fecha": "25 Sep 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda baja IEPS a gasolinas, mientras el diésel va por su tercera semana con cuota cero",
+      "resumen": "Para la semana del 26 de septiembre al 2 de octubre, el diésel que es el combustible utilizado para el movimiento masivo de personas y mercancías tendrá un estímulo de 100% a su cuota IEPS por litro.",
+      "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
+      "fecha": "25 Sep 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Openbank capta 48 pesos por cada peso que presta; ahora quiere acelerar el crédito",
+      "resumen": "Openbank quiere acelerar su cartera de crédito tras superar 1.5 millones de clientes. Alejandro Berman, su Chief Growth Officer, anticipa metas “muy agresivas”.",
+      "link": "https://expansion.mx/economia/2026/09/25/openbank-acelera-credito-mexico-clientes-fitch",
+      "fecha": "25 Sep 2026, 16:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Corea lleva su apuesta por México a una nueva etapa con IA, aeroespacial y más inversión",
+      "resumen": "México es el principal socio comercial de Corea del Sur en América Latina, mientras unas 2,000 empresas coreanas ya operan en el país y generan alrededor de 150,000 empleos.",
+      "link": "https://expansion.mx/economia/2026/09/25/corea-eleva-apuesta-mexico-ia-aeroespacial-inversion",
+      "fecha": "25 Sep 2026, 14:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Adiós al efectivo en México: ¿Por qué el país aún no está listo para pagos solo con tarjeta?",
+      "resumen": "Digitalizar la economía por \"decreto\" choca contra millones de personas sin internet, comisiones bancarias elevadas y el temor a la fiscalización.",
+      "link": "https://expansion.mx/economia/2026/09/25/mexico-no-esta-listo-prohibir-efectivo-tarjetas",
+      "fecha": "25 Sep 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Marc Pinto, de Moody's: \"La desglobalización incrementará la necesidad de capital, y ahí está el crédito privado\"",
+      "resumen": "El director global de Crédito Privado de Moody's Ratings señala que México supone una oportunidad para el crédito privado, que seguirá creciendo en el futuro.",
+      "link": "https://expansion.mx/economia/2026/09/25/marc-pinto-moodys-credito-privado-mexico",
+      "fecha": "25 Sep 2026, 05:30 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,60 +73,6 @@
       "resumen": "En México, las gasolinas y el diésel pagan tres tipos de IEPS, y todos se actualizarán de acuerdo al alza de precios que se registre en diciembre de 2026, Hacienda la estima en 3.8% anual.",
       "link": "https://expansion.mx/economia/2026/09/24/ieps-gasolinas-refrescos-cigarros-inflacion-2027",
       "fecha": "24 Sep 2026, 18:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pagar sin efectivo no es para todos en México: ¿cuántos mexicanos pueden vivir solo con tarjeta?",
-      "resumen": "Mientras México avanza hacia más pagos electrónicos, millones de personas todavía enfrentan barreras para dejar atrás el efectivo.",
-      "link": "https://expansion.mx/economia/2026/09/24/pagar-sin-efectivo-no-es-para-todos-en-mexico",
-      "fecha": "24 Sep 2026, 17:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
-      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
-      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
-      "fecha": "24 Sep 2026, 13:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México crece poco y su deuda sube: la combinación que preocupa a Moody's",
-      "resumen": "Renzo Merino, vicepresidente de Riesgo Soberano de Moody’s Ratings, advierte que un déficit de entre 4% y 4.5% del PIB en 2026 aún no permitiría estabilizar la deuda.",
-      "link": "https://expansion.mx/economia/2026/09/24/mexico-bajo-crecimiento-deuda-sube-riesgos-moodys",
-      "fecha": "24 Sep 2026, 12:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Qué le pasó al superpeso? se deprecia en una semana clave para Banxico",
-      "resumen": "La moneda mexicana cambió de rumbo en cuestión de semanas. El dólar vuelve a ganar terreno mientras petróleo, bonos y T-MEC elevan la presión sobre la paridad frente al dólar",
-      "link": "https://expansion.mx/economia/2026/09/24/tipo-cambio-hoy-24-septiembre-peso-dolar",
-      "fecha": "24 Sep 2026, 11:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Actividad económica de México sorprende y crece 0.8% en julio",
-      "resumen": "El IGAE creció 3.3% en cifras anuales, una señal de que la economía mexicana mantuvo parte del impulso observado en el segundo trimestre.",
-      "link": "https://expansion.mx/economia/2026/09/24/economia-mexicana-sorprende-alza-arrancar-tercer-trimestre",
-      "fecha": "24 Sep 2026, 08:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Colegiaturas y gas LP aumentan la inflación en primera quincena de septiembre por arriba de lo esperado por el mercado",
-      "resumen": "Entre los productos y servicios que más incidieron destacó la educación primaria, con alzas de 5.85% a tasa quincenal; en secundaria subieron 5.33%, mientras que las universitarias avanzaron 1.10%",
-      "link": "https://expansion.mx/economia/2026/09/24/inflacion-mexico-septiembre-2026-supera-expectativas",
-      "fecha": "24 Sep 2026, 07:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Subsidiarán litro de diesel con $8.55",
+      "resumen": "SHCP decidió absorber el IEPS del diesel y aplicar un estímulo adicional de 1.1896 pesos por litro de combustible para la siguiente semana.",
+      "link": "https://www.reforma.com/subsidiaran-litro-de-diesel-con-8-55/ar3282953",
+      "fecha": "25 Sep 2026, 21:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Registra dólar mayor apreciación desde marzo",
+      "resumen": "El dólar acumuló un aumento de semanal de 45.23 centavos frente al peso cerrando el viernes con una cotización de $17.68.",
+      "link": "https://www.reforma.com/registra-dolar-mayor-apreciacion-desde-marzo/ar3282871",
+      "fecha": "25 Sep 2026, 19:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Preocupa a AIXM exposición de datos personales",
       "resumen": "La AIXM crítico los comunicados de la Secretaría Anticorrupción y Buen Gobierno donde se plantea la exposición de datos particulares.",
       "link": "https://www.reforma.com/preocupa-a-aixm-exposicion-de-datos-personales/ar3282840",
@@ -199,24 +217,6 @@
       "resumen": "Estados Unidos autorizó el paso de exportaciones ganaderas desde México, entre San Jerónimo, Chihuahua, y Santa Teresa, Nuevo México.",
       "link": "https://www.reforma.com/reanudan-segundo-cruce-ganadero-a-eu/ar3282752",
       "fecha": "25 Sep 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Terminan mercados de EU la semana con ganancias",
-      "resumen": "En la semana, el S&amp;P 500 subió un 1.22%, el Nasdaq ganó 2.06% y el Dow Jones sumó 0.28%.",
-      "link": "https://www.reforma.com/terminan-mercados-de-eu-la-semana-con-ganancias/ar3282730",
-      "fecha": "25 Sep 2026, 14:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Realiza México reunión fiscal bilateral con Corea",
-      "resumen": "México realizó la primera reunión fiscal bilateral con Corea, informó el SAT.",
-      "link": "https://www.reforma.com/realiza-mexico-reunion-fiscal-bilateral-con-corea/ar3282726",
-      "fecha": "25 Sep 2026, 17:20 hrs"
     }
   ]
 }
