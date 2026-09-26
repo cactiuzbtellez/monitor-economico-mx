@@ -1,7 +1,25 @@
 {
-  "actualizado": "26/09/2026 03:09 hrs",
+  "actualizado": "26/09/2026 08:09 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
+      "resumen": "El gobierno federal asegura que se cuenta con toda la infraestructura para aumentar los pagos digitales; el reto es adopción, no acceso, destaca el regulador",
+      "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
+      "fecha": "25 Sep 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda baja IEPS a gasolinas, mientras el diésel va por su tercera semana con cuota cero",
+      "resumen": "Para la semana del 26 de septiembre al 2 de octubre, el diésel que es el combustible utilizado para el movimiento masivo de personas y mercancías tendrá un estímulo de 100% a su cuota IEPS por litro.",
+      "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
+      "fecha": "25 Sep 2026, 17:53 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "En México, las gasolinas y el diésel pagan tres tipos de IEPS, y todos se actualizarán de acuerdo al alza de precios que se registre en diciembre de 2026, Hacienda la estima en 3.8% anual.",
       "link": "https://expansion.mx/economia/2026/09/24/ieps-gasolinas-refrescos-cigarros-inflacion-2027",
       "fecha": "24 Sep 2026, 18:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pagar sin efectivo no es para todos en México: ¿cuántos mexicanos pueden vivir solo con tarjeta?",
-      "resumen": "Mientras México avanza hacia más pagos electrónicos, millones de personas todavía enfrentan barreras para dejar atrás el efectivo.",
-      "link": "https://expansion.mx/economia/2026/09/24/pagar-sin-efectivo-no-es-para-todos-en-mexico",
-      "fecha": "24 Sep 2026, 17:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Por cuarta vez consecutiva, Banxico mantiene la tasa de interés de referencia en 6.5%",
-      "resumen": "El banco central advirtió que la inflación puede aumentar por disrupciones por políticas comerciales o un impacto de los conflictos geopolíticos; afectaciones climáticas; y una tendencia a la deprecia…",
-      "link": "https://expansion.mx/economia/2026/09/24/banxico-tasa-de-interes-de-referencia-6-5-septiembre",
-      "fecha": "24 Sep 2026, 13:19 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Evalúa Casa Blanca opciones para bajar precios de diesel",
+      "resumen": "Funcionarios de la administración Trump han planteado medidas para frenar el aumento del costo del diésel como la suspensión de impuestos.",
+      "link": "https://www.reforma.com/evalua-casa-blanca-opciones-para-bajar-precios-de-diesel/ar3282984",
+      "fecha": "26 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Repite Corona como marca más valiosa en AL",
+      "resumen": "Con un valor de 13 mil 916 millones de dólares, la cerveza Corona Extra repitió en 2026 como la marca más valiosa de Latinoamérica.",
+      "link": "https://www.reforma.com/repite-corona-como-marca-mas-valiosa-en-al/ar3282965",
+      "fecha": "26 Sep 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Subsidiarán litro de diesel con $8.55",
       "resumen": "SHCP decidió absorber el IEPS del diesel y aplicar un estímulo adicional de 1.1896 pesos por litro de combustible para la siguiente semana.",
       "link": "https://www.reforma.com/subsidiaran-litro-de-diesel-con-8-55/ar3282953",
@@ -199,24 +217,6 @@
       "resumen": "El Gobierno de Estados Unidos invocó el Mecanismo Laboral de Respuesta Rápida en contra de la empresa llantera Yokohama en Coahuila.",
       "link": "https://www.reforma.com/abren-queja-laboral-contra-yokohama/ar3282769",
       "fecha": "25 Sep 2026, 15:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta OpenAI hackeo a 'decenas' de sitios gubernamentales",
-      "resumen": "OpenAI notificó a \"decenas\" de gobiernos y universidades que sus sitios web pudieron verse afectados por las visitas de sus modelos de IA.",
-      "link": "https://www.reforma.com/reporta-openai-hackeo-a-decenas-de-sitios-gubernamentales/ar3282754",
-      "fecha": "25 Sep 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reanudan segundo cruce ganadero a EU",
-      "resumen": "Estados Unidos autorizó el paso de exportaciones ganaderas desde México, entre San Jerónimo, Chihuahua, y Santa Teresa, Nuevo México.",
-      "link": "https://www.reforma.com/reanudan-segundo-cruce-ganadero-a-eu/ar3282752",
-      "fecha": "25 Sep 2026, 15:14 hrs"
     }
   ]
 }
