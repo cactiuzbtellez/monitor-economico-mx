@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/09/2026 18:16 hrs",
+  "actualizado": "27/09/2026 00:17 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Tupperware encara el reto de llegar a nuevas generaciones con sus tradicionales ventas por catálogo",
+      "resumen": "Hasta antes de declararse en quiebra, la firma tenía el objetivo de llegar a espacios físicos, como supermercados, pero el proceso de reestructura que atravesó trajo consigo nuevos planes.",
+      "link": "https://expansion.mx/empresas/2026/09/26/tupperware-reto-nuevas-generaciones-con-ventas-catalogo",
+      "fecha": "26 Sep 2026, 14:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La IA aumenta el tráfico de datos y presiona la capacidad de las redes de las telecomunicaciones",
       "resumen": "El aumento del uso de IA elevará 26% el tráfico global de datos hacia 2034, de acuerdo con Nokia, por lo que los operadores deberán ampliar la capacidad de sus redes y avanzar hacia tecnologías como 5…",
       "link": "https://expansion.mx/empresas/2026/09/25/ia-aumenta-trafico-datos-presiona-redes-telecomunicaciones",
@@ -136,15 +145,6 @@
       "resumen": "La migración de contenidos como deportes y entretenimiento desde la tv abierta y de paga hacia plataformas digitales impulsa la adopción del streaming en zonas rurales, mientras que en áreas urbanas e…",
       "link": "https://expansion.mx/empresas/2026/09/24/adopcion-streaming-crece-zonas-rurales-urbanas-moderarse",
       "fecha": "24 Sep 2026, 18:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex necesitará apoyos anuales del gobierno hasta por 10,000 mdd, pese a la meta de autosuficiencia",
-      "resumen": "Moody’ s estima que la petrolera requerirá por cinco años más el respaldo público para enfrentar sus deudas, mientras persisten desafíos operativos que podrían prolongar esta dependencia.",
-      "link": "https://expansion.mx/empresas/2026/09/24/pemex-llegara-apoyos-gobierno-pese-meta-autosuficiencia",
-      "fecha": "24 Sep 2026, 18:04 hrs"
     },
     {
       "fuente": "Reforma",
