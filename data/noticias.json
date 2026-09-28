@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/09/2026 21:56 hrs",
+  "actualizado": "28/09/2026 04:41 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
+      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
+      "link": "https://expansion.mx/empresas/2026/09/27/primark-llega-a-mexico-tendra-tienda-en-linea-modelo-zara-hm",
+      "fecha": "27 Sep 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Tupperware encara el reto de llegar a nuevas generaciones con sus tradicionales ventas por catálogo",
       "resumen": "Hasta antes de declararse en quiebra, la firma tenía el objetivo de llegar a espacios físicos, como supermercados, pero el proceso de reestructura que atravesó trajo consigo nuevos planes.",
       "link": "https://expansion.mx/empresas/2026/09/26/tupperware-reto-nuevas-generaciones-con-ventas-catalogo",
@@ -136,15 +145,6 @@
       "resumen": "Un vocero de la marca alemana aseguró que los dueños de los vehículos pueden acudir \"conduciendo\" a la concesionaria y allí, les proporcionarán nuevos tornillos más resistentes a la corrosión.",
       "link": "https://expansion.mx/empresas/2026/09/25/volkswagen-retira-2-8-millones-vehiculos-por-fallas",
       "fecha": "25 Sep 2026, 07:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La adopción del streaming crece en zonas rurales mientras que en zonas urbanas empieza a moderarse",
-      "resumen": "La migración de contenidos como deportes y entretenimiento desde la tv abierta y de paga hacia plataformas digitales impulsa la adopción del streaming en zonas rurales, mientras que en áreas urbanas e…",
-      "link": "https://expansion.mx/empresas/2026/09/24/adopcion-streaming-crece-zonas-rurales-urbanas-moderarse",
-      "fecha": "24 Sep 2026, 18:32 hrs"
     },
     {
       "fuente": "Reforma",
