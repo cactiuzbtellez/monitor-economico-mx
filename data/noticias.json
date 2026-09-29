@@ -1,7 +1,25 @@
 {
-  "actualizado": "28/09/2026 17:43 hrs",
+  "actualizado": "28/09/2026 22:30 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "HSBC convierte su alcance global en valor para el patrimonio de sus clientes",
+      "resumen": "A través de su oferta Premier Elite, el banco conecta su presencia en más de 60 mercados con asesoría local, para tomar decisiones financieras estratégicas.",
+      "link": "https://expansion.mx/economia/2026/09/28/hsbc-convierte-su-alcance-global-en-valor-para-el-patrimonio-de-los-clientes",
+      "fecha": "28 Sep 2026, 09:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México eleva 40.4% sus exportaciones en agosto; registra superávit comercial de 605 mdd",
+      "resumen": "Los equipos eléctricos y electrónicos impulsaron las ventas al exterior, mientras las exportaciones automotrices retrocedieron.",
+      "link": "https://expansion.mx/economia/2026/09/28/exportaciones-mexico-agosto-2026-superavit-comercial",
+      "fecha": "28 Sep 2026, 08:02 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,78 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Marc Pinto, de Moody's: \"La desglobalización incrementará la necesidad de capital, y ahí está el crédito privado\"",
-      "resumen": "El director global de Crédito Privado de Moody's Ratings señala que México supone una oportunidad para el crédito privado, que seguirá creciendo en el futuro.",
-      "link": "https://expansion.mx/economia/2026/09/25/marc-pinto-moodys-credito-privado-mexico",
-      "fecha": "25 Sep 2026, 05:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México reabre segundo cruce para exportar ganado a EU; CNA exige más recursos sanitarios",
-      "resumen": "La reapertura permitirá enviar inicialmente 800 cabezas diarias y hasta 1,500 desde la cuarta semana. El CNA pidió fortalecer presupuesto, personal e infraestructura del Senasica.",
-      "link": "https://expansion.mx/economia/2026/09/24/mexico-reabre-segundo-cruce-exportar-ganado-estados-unidos",
-      "fecha": "24 Sep 2026, 21:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Luego de 35 años, Carl’s Jr. hizo de México uno de sus mercados clave; así construyó su negocio",
-      "resumen": "La cadena estadounidense comenzó su historia en México con un restaurante y encontró en las franquicias una vía para crecer por distintas regiones del país.",
-      "link": "https://expansion.mx/empresas/2026/09/28/carls-jr-aniversario-35-pesos-mexico-promocion",
-      "fecha": "28 Sep 2026, 16:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
-      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
-      "link": "https://expansion.mx/empresas/2026/09/28/carlos-slim-tres-plazas-comerciales-conectadas-al-metro",
-      "fecha": "28 Sep 2026, 15:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely supera a MG en ventas y acecha a BYD",
-      "resumen": "La marca china superó a MG en ventas mensuales por primera vez en agosto y se acerca a BYD, que lidera las ventas entre las marcas chinas con presencia en México.",
-      "link": "https://expansion.mx/empresas/2026/09/28/geely-supera-mg-ventas-se-acerca-byd-mexico",
-      "fecha": "28 Sep 2026, 15:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana suma su avión número 10 y alcanza la mitad de la flota que usará para ampliar sus rutas nacionales",
-      "resumen": "La aeronave Embraer 190 E2 llegó desde Manaos, Brasil al aeropuerto del AIFA para ser parte de la flotilla de Mexicana. Estas son sus características y cuánto pagará el Gobierno por los aviones.",
-      "link": "https://expansion.mx/empresas/2026/09/28/mexicana-aviacion-mitad-flota-llegada-decimo-avion-embraer",
-      "fecha": "28 Sep 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La fusión de Viva y Volaris busca eficiencias, pero abre riesgo para rutas menos rentables y tarifas",
-      "resumen": "La propuesta de consolidación ocurre mientras ambas aerolíneas enfrentan pérdidas y buscan mejorar sus resultados, un escenario que puede incentivar el abandono de rutas poco rentables y aumentar las …",
-      "link": "https://expansion.mx/empresas/2026/09/28/fusion-viva-volaris-abandono-rutas-tarifas-altas",
-      "fecha": "28 Sep 2026, 14:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tupperware abandona la idea de vender en supermercados y lo apuesta todo a Facebook y WhatsApp",
-      "resumen": "El plan de la marca para llegar a los supermercados se derrumbó tras declararse en quiebra. Ahora con la reestructuración, busca llegar a nuevas generaciones.",
-      "link": "https://expansion.mx/empresas/2026/09/28/tupperware-venta-catalogo-nuevas-generaciones",
-      "fecha": "28 Sep 2026, 13:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "“Tomaba 120 tabletas diarias de vitaminas”: el hábito de Jorge Vergara que terminó dando origen a Omnilife",
@@ -147,22 +93,76 @@
       "fecha": "28 Sep 2026, 05:55 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera México pérdidas por subsidio a diesel y gasolinas",
-      "resumen": "México es el país que tiene mayores pérdidas fiscales por subsidiar la gasolina y el diesel y el tercera en combustibles más caros.",
-      "link": "https://www.reforma.com/lidera-mexico-perdidas-por-subsidio-a-diesel-y-gasolinas/ar3284204",
-      "fecha": "28 Sep 2026, 14:55 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
+      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
+      "link": "https://expansion.mx/empresas/2026/09/27/primark-llega-a-mexico-tendra-tienda-en-linea-modelo-zara-hm",
+      "fecha": "27 Sep 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tupperware encara el reto de llegar a nuevas generaciones con sus tradicionales ventas por catálogo",
+      "resumen": "Hasta antes de declararse en quiebra, la firma tenía el objetivo de llegar a espacios físicos, como supermercados, pero el proceso de reestructura que atravesó trajo consigo nuevos planes.",
+      "link": "https://expansion.mx/empresas/2026/09/26/tupperware-reto-nuevas-generaciones-con-ventas-catalogo",
+      "fecha": "26 Sep 2026, 14:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La IA aumenta el tráfico de datos y presiona la capacidad de las redes de las telecomunicaciones",
+      "resumen": "El aumento del uso de IA elevará 26% el tráfico global de datos hacia 2034, de acuerdo con Nokia, por lo que los operadores deberán ampliar la capacidad de sus redes y avanzar hacia tecnologías como 5…",
+      "link": "https://expansion.mx/empresas/2026/09/25/ia-aumenta-trafico-datos-presiona-redes-telecomunicaciones",
+      "fecha": "25 Sep 2026, 17:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim convirtió un basurero del Edomex en plaza comercial, hospital y centro deportivo",
+      "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
+      "link": "https://expansion.mx/empresas/2026/09/25/carlos-slim-transformo-basurero-en-ciudad-jardin",
+      "fecha": "25 Sep 2026, 14:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Telmex y Telnor deberán ofrecer internet de hasta 70 Mbps por 200 pesos en 60 localidades",
+      "resumen": "La CRT incorporó nuevas obligaciones a las subsidiarias de América Móvil que incluyen un descuento de 50% en la instalación, facilidades de pago y la posibilidad de contratar telefonía fija y 100 punt…",
+      "link": "https://expansion.mx/empresas/2026/09/25/telmex-telnor-ofrecer-internet-200-pesos-60-localidades",
+      "fecha": "25 Sep 2026, 14:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Esta SUV eléctrica funciona como una power bank gigante y puede salvarte cuando te quedes sin luz",
+      "resumen": "Además de su autonomía y tiempos de recarga, los vehículos eléctricos incorporan funciones que pueden resultar útiles dentro y fuera de casa.",
+      "link": "https://expansion.mx/empresas/2026/09/25/suv-electrica-que-carga-aparatos",
+      "fecha": "25 Sep 2026, 14:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fija Infonavit precio máximo para viviendas del Bienestar",
-      "resumen": "El Infonavit dijo que el precio máximo de viviendas que se enajenen bajo el Programa de Vivienda para el Bienestar será de 862 mil pesos.",
-      "link": "https://www.reforma.com/fija-infonavit-precio-maximo-para-viviendas-del-bienestar/ar3284163",
-      "fecha": "28 Sep 2026, 14:24 hrs"
+      "titulo": "Llama Profeco a revisión 6,039 Emgrand SS11-A1 de Geely",
+      "resumen": "Profeco llamó a revisión 6 mil 039 vehículos modelo Emgrand SS11-A1 de la marca Geely por fallas en su depósito de combustible.",
+      "link": "https://www.reforma.com/llama-profeco-a-revision-6-039-emgrand-ss11-a1-de-geely/ar3284409",
+      "fecha": "28 Sep 2026, 20:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten por nueva estafa en compraventa de autos",
+      "resumen": "Consejo Ciudadano hizo un llamado a no ser víctima de creditrampa, un tipo de fraude en la compraventa de vehículos mediante redes sociales.",
+      "link": "https://www.reforma.com/advierten-por-nueva-estafa-en-compraventa-de-autos/ar3284394",
+      "fecha": "28 Sep 2026, 19:40 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Resuelven queja contra Akwel Juárez",
+      "titulo": "Resuelven queja en contra de Akwel Juárez",
       "resumen": "USTR resolvió la queja laboral contra Akwel Juárez México tras acusaciones de injerencia patronal y despido de trabajadores.",
-      "link": "https://www.reforma.com/resuelven-queja-contra-akwel-juarez/ar3284243",
+      "link": "https://www.reforma.com/resuelven-queja-en-contra-de-akwel-juarez/ar3284243",
       "fecha": "28 Sep 2026, 15:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pausa operación planta de GM en Coahuila por huracán 'Polo'",
-      "resumen": "La planta de General Motors en Coahuila, implementó una pausa temporal en la producción, por interrupciones ante huracán 'Polo'.",
-      "link": "https://www.reforma.com/pausa-operacion-planta-de-gm-en-coahuila-por-huracan-polo/ar3284159",
-      "fecha": "28 Sep 2026, 14:08 hrs"
+      "titulo": "Supera dólar los $18.00 por primera vez desde marzo",
+      "resumen": "El peso llegó a negociarse momentáneamente en 18.0110 por dólar, aunque posteriormente moderó parte de sus pérdidas.",
+      "link": "https://www.reforma.com/supera-dolar-los-18-00-por-primera-vez-desde-marzo/ar3284241",
+      "fecha": "28 Sep 2026, 15:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja de operar Aeroméxico en el aeropuerto de Tulum",
-      "resumen": "Desde el 30 de septiembre Grupo Aeroméxico suspenderá temporalmente todos sus vuelos al Aeropuerto Internacional de Tulum.",
-      "link": "https://www.reforma.com/deja-de-operar-aeromexico-en-el-aeropuerto-de-tulum/ar3284133",
-      "fecha": "28 Sep 2026, 14:08 hrs"
+      "titulo": "Comprará AMD a la startup World Labs en 8,200 mdd",
+      "resumen": "Advanced Micro Devices anunció un acuerdo para adquirir la empresa emergente World Labs, que desarrolla modelos de IA, por 8 mil 200 mdd.",
+      "link": "https://www.reforma.com/comprara-amd-a-la-startup-world-labs-en-8-200-mdd/ar3284217",
+      "fecha": "28 Sep 2026, 15:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía Nvidia plan de recompra de acciones a récord 150 mmdd",
-      "resumen": "Nvidia amplió su autorización para la recompra de acciones en 150 mil mdd, superando así la de Apple de 110 mil mdd aprobada en 2024.",
-      "link": "https://www.reforma.com/amplia-nvidia-plan-de-recompra-de-acciones-a-record-150-mmdd/ar3283914",
-      "fecha": "28 Sep 2026, 07:47 hrs"
+      "titulo": "Lidera México pérdidas por subsidio a diesel y gasolinas",
+      "resumen": "México es el país que tiene mayores pérdidas fiscales por subsidiar la gasolina y el diesel y el tercera en combustibles más caros.",
+      "link": "https://www.reforma.com/lidera-mexico-perdidas-por-subsidio-a-diesel-y-gasolinas/ar3284204",
+      "fecha": "28 Sep 2026, 14:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dirigirá ex CEO de MongoDB la unidad empresarial de Meta",
-      "resumen": "CJ Desai, CEO de MongoDB, dirigirá una nueva unidad de negocio denominada Meta Enterprise Platform, y reportará a Mark Zuckerberg.",
-      "link": "https://www.reforma.com/dirigira-ex-ceo-de-mongodb-la-unidad-empresarial-de-meta/ar3283939",
-      "fecha": "28 Sep 2026, 08:42 hrs"
+      "titulo": "Inician mercados de EU la semana con pérdidas",
+      "resumen": "Este lunes, el Dow Jones cedió un 0.66%, el índice Nasdaq perdió un 0.91% y el índice ampliado S&amp;P 500 retrocedió un 0.76%.",
+      "link": "https://www.reforma.com/inician-mercados-de-eu-la-semana-con-perdidas/ar3284192",
+      "fecha": "28 Sep 2026, 14:40 hrs"
     }
   ]
 }
