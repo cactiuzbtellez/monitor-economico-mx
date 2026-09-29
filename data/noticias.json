@@ -1,7 +1,16 @@
 {
-  "actualizado": "29/09/2026 11:43 hrs",
+  "actualizado": "29/09/2026 15:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y lucha anti lavado",
+      "resumen": "Si bien la propuesta de Ley no estipula nuevas facultades para la autoridad fiscal, los pagos digitales dejan huellas en el sistema financiero.",
+      "link": "https://expansion.mx/economia/2026/09/29/ley-economia-digital-fiscalizacion-sat-lucha-anti-lavado",
+      "fecha": "29 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Openbank capta 48 pesos por cada peso que presta; ahora quiere acelerar el crédito",
-      "resumen": "Openbank quiere acelerar su cartera de crédito tras superar 1.5 millones de clientes. Alejandro Berman, su Chief Growth Officer, anticipa metas “muy agresivas”.",
-      "link": "https://expansion.mx/economia/2026/09/25/openbank-acelera-credito-mexico-clientes-fitch",
-      "fecha": "25 Sep 2026, 16:55 hrs"
+      "titulo": "Emilio Azcárraga quería comprar Chivas, pero Jorge Vergara irrumpió cuando el club estaba en crisis",
+      "resumen": "Detrás de la venta del Guadalajara había una administración desgastada, problemas empresariales y una disputa que trascendería las canchas.",
+      "link": "https://expansion.mx/empresas/2026/09/29/emilio-azcarraga-queria-comprar-chivas",
+      "fecha": "29 Sep 2026, 15:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim no le perdona la renta ni a sus propias marcas: ¿por qué Sanborns, Sears y DAX pagan mensualmente?",
+      "resumen": "Liverpool, Chedraui, Soriana y Cinépolis también están entre los inquilinos de Inmuebles Carso, que administra un amplio portafolio de centros comerciales en México.",
+      "link": "https://expansion.mx/empresas/2026/09/29/carlos-slim-renta-sus-marcas-sanborns-sears-dax",
+      "fecha": "29 Sep 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El nuevo plan corporativo de Starbucks prioriza las licencias",
+      "resumen": "Cerca de 90% del portafolio internacional de Starbucks opera bajo esquemas de licencia, una estructura que la compañía describe como de menor requerimiento de capital y que permite apoyarse en socios …",
+      "link": "https://expansion.mx/empresas/2026/09/28/el-nuevo-plan-corporativo-de-starbucks-prioriza-licencias",
+      "fecha": "28 Sep 2026, 19:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,31 +147,58 @@
       "fecha": "28 Sep 2026, 14:09 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tupperware abandona la idea de vender en supermercados y lo apuesta todo a Facebook y WhatsApp",
-      "resumen": "El plan de la marca para llegar a los supermercados se derrumbó tras declararse en quiebra. Ahora con la reestructuración, busca llegar a nuevas generaciones.",
-      "link": "https://expansion.mx/empresas/2026/09/28/tupperware-venta-catalogo-nuevas-generaciones",
-      "fecha": "28 Sep 2026, 13:58 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipa CESF moderación en ritmo de expansión económica",
+      "resumen": "CESF anticipa una moderación en el ritmo de expansión de la actividad económica durante el tercer trimestre tras un repunte en el segundo.",
+      "link": "https://www.reforma.com/anticipa-cesf-moderacion-en-ritmo-de-expansion-economica/ar3284907",
+      "fecha": "29 Sep 2026, 14:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“Tomaba 120 tabletas diarias de vitaminas”: el hábito de Jorge Vergara que terminó dando origen a Omnilife",
-      "resumen": "Una propuesta rechazada y sus primeros pasos en las ventas directas explican cómo el empresario construyó un negocio de alcance internacional.",
-      "link": "https://expansion.mx/empresas/2026/09/28/jorge-vergara-120-vitaminas-dia-habito-hizo-nacer-omnilife",
-      "fecha": "28 Sep 2026, 12:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé INA alza de 5% en producción de autopartes",
+      "resumen": "Al cierre de 2026, la producción de autopartes en México podría alcanzar un valor de producción de 125 mmdd, un alza anual de 5%, dijo INA.",
+      "link": "https://www.reforma.com/preve-ina-alza-de-5-en-produccion-de-autopartes/ar3284868",
+      "fecha": "29 Sep 2026, 14:20 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La promesa de los 21 contratos mixtos de Pemex se topa con las dudas del sector privado",
-      "resumen": "La petrolera apuesta por este esquema para llegar a la meta de 450,000 barriles diarios hacia 2033, pero solo cuatro de los nueve contratos firmados reportan avances operativos.",
-      "link": "https://expansion.mx/empresas/2026/09/28/pemex-10-contratos-mixtos-pero-quiere-lograr-21",
-      "fecha": "28 Sep 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aprueban reestructura de CFE",
+      "resumen": "La CFE aprobó dividir las operaciones en generación, redes eléctricas y política comercial, dentro de su estructura orgánica.",
+      "link": "https://www.reforma.com/aprueban-reestructura-de-cfe/ar3284767",
+      "fecha": "29 Sep 2026, 12:39 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Gana México arbitraje  contra estadounidense Doups",
+      "resumen": "México ganó el arbitraje solicitado por Doups Holdings y se beneficio con más de un millón de dólares por concepto de gastos y costos.",
+      "link": "https://www.reforma.com/gana-mexico-arbitraje-contra-estadounidense-doups/ar3284726",
+      "fecha": "29 Sep 2026, 12:05 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Podrían más empresas acceder al Resico",
+      "resumen": "Las modificaciones al Resico pueden propiciar que se sumen más empresas a este esquema, según Grant Thornton.",
+      "link": "https://www.reforma.com/podrian-mas-empresas-acceder-al-resico/ar3284806",
+      "fecha": "29 Sep 2026, 14:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Firman líderes tecnológicos acuerdo para regular la IA",
+      "resumen": "El Presidente Trump dijo que líderes del sector tecnológico habían firmado un compromiso \"moralmente vinculante\" para autorregularse.",
+      "link": "https://www.reforma.com/firman-lideres-tecnologicos-acuerdo-para-regular-la-ia/ar3284895",
+      "fecha": "29 Sep 2026, 14:38 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Costaría 226 mil mdp subsidio a combustibles",
-      "resumen": "El subsidio que aplica el Gobierno al IEPS del diesel y gasolinas provocaría un boquete en finanzas públicas de alrededor de 226 mmdp.",
-      "link": "https://www.reforma.com/costaria-226-mil-mdp-subsidio-a-combustibles/ar3284508",
-      "fecha": "29 Sep 2026, 05:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen en Canadá retomar comercio sin aranceles",
-      "resumen": "Brian Kingston, presidente y director de la CVMA, pidió retomar el comercio libre de aranceles en el marco del T-MEC.",
-      "link": "https://www.reforma.com/urgen-en-canada-retomar-comercio-sin-aranceles/ar3284464",
-      "fecha": "29 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Falta valor agregado en las exportaciones",
-      "resumen": "Para las exportaciones mexicanas, el reto no sólo es mantener el dinamismo de los envíos, sino sumar valor agregado, coinciden expertos.",
-      "link": "https://www.reforma.com/falta-valor-agregado-en-las-exportaciones/ar3284450",
-      "fecha": "29 Sep 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta dólar ligero descenso a $17.97",
-      "resumen": "El tipo de cambio cotiza en $17.9730 por dólar, con un marginal avance del 0.03% para el peso, luego de tocar su nivel más débil desde marzo",
-      "link": "https://www.reforma.com/reporta-dolar-ligero-descenso-a-17-97/ar3284598",
-      "fecha": "29 Sep 2026, 08:44 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierte Anthropic de riesgos existenciales de su propia IA",
-      "resumen": "Anthropic advirtió a los inversionistas antes de su salida a bolsa que la IA podría presentar \"riesgos existenciales para la humanidad\".",
-      "link": "https://www.reforma.com/advierte-anthropic-de-riesgos-existenciales-de-su-propia-ia/ar3284564",
-      "fecha": "29 Sep 2026, 07:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cubre Sonora 57% de meta  de exportación bovina",
-      "resumen": "En primer mes de exportación ganadera a EU desde Agua Prieta, Sonora, envíos promediaron 851 cabezas diarias, 57% de la meta diaria máxima.",
-      "link": "https://www.reforma.com/cubre-sonora-57-de-meta-de-exportacion-bovina/ar3284455",
-      "fecha": "29 Sep 2026, 07:07 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanza bono del Tesoro a 30 años nuevo máximo desde 2002",
-      "resumen": "El bono del Tesoro a 30 años superó el 5.59%, alcanzando un nivel no visto desde 2002, tras el estallido de la burbuja de las puntocom.",
-      "link": "https://www.reforma.com/alcanza-bono-del-tesoro-a-30-anos-nuevo-maximo-desde-2002/ar3284650",
-      "fecha": "29 Sep 2026, 10:01 hrs"
+      "titulo": "Tiene Mercado Libre primera emisión de Cebures en México",
+      "resumen": "Mercado Libre realizó su primera colocación de Cebures por un monto de 3 mil 750 millones de pesos en Biva.",
+      "link": "https://www.reforma.com/tiene-mercado-libre-primera-emision-de-cebures-en-mexico/ar3284824",
+      "fecha": "29 Sep 2026, 14:20 hrs"
     }
   ]
 }
