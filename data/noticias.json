@@ -1,5 +1,5 @@
 {
-  "actualizado": "29/09/2026 05:08 hrs",
+  "actualizado": "29/09/2026 11:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El nuevo plan corporativo de Starbucks prioriza las licencias",
-      "resumen": "Cerca de 90% del portafolio internacional de Starbucks opera bajo esquemas de licencia, una estructura que la compañía describe como de menor requerimiento de capital y que permite apoyarse en socios …",
-      "link": "https://expansion.mx/empresas/2026/09/28/el-nuevo-plan-corporativo-de-starbucks-prioriza-licencias",
-      "fecha": "28 Sep 2026, 19:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Luego de 35 años, Carl’s Jr. hizo de México uno de sus mercados clave; así construyó su negocio",
       "resumen": "La cadena estadounidense comenzó su historia en México con un restaurante y encontró en las franquicias una vía para crecer por distintas regiones del país.",
       "link": "https://expansion.mx/empresas/2026/09/28/carls-jr-aniversario-35-pesos-mexico-promocion",
@@ -147,29 +138,38 @@
       "fecha": "28 Sep 2026, 12:06 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen capacitación para trazabilidad",
-      "resumen": "Transportistas de hidrocarburos enfrentan problemas operativos en las inspecciones en carreteras debido a la falta de criterios homologados.",
-      "link": "https://www.reforma.com/urgen-capacitacion-para-trazabilidad/ar3284459",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La promesa de los 21 contratos mixtos de Pemex se topa con las dudas del sector privado",
+      "resumen": "La petrolera apuesta por este esquema para llegar a la meta de 450,000 barriles diarios hacia 2033, pero solo cuatro de los nueve contratos firmados reportan avances operativos.",
+      "link": "https://expansion.mx/empresas/2026/09/28/pemex-10-contratos-mixtos-pero-quiere-lograr-21",
+      "fecha": "28 Sep 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reporta la mayoría ingreso medio-bajo",
-      "resumen": "La mayoría de los municipios del País se concentró en los estratos de ingreso medio y bajo durante 2024, de acuerdo con datos del Inegi.",
-      "link": "https://www.reforma.com/reporta-la-mayoria-ingreso-medio-bajo/ar3284452",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "titulo": "Puede Banxico tomar un rumbo distinto a la Fed.- Rodríguez",
+      "resumen": "Banxico puede trazar una política monetaria distinta a Fed porque el País atraviesa condiciones distintas a EU, afirmó Victoria Rodríguez.",
+      "link": "https://www.reforma.com/puede-banxico-tomar-un-rumbo-distinto-a-la-fed-rodriguez/ar3284573",
+      "fecha": "29 Sep 2026, 08:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Costaría 226 mil mdp subsidio a combustibles",
+      "resumen": "El subsidio que aplica el Gobierno al IEPS del diesel y gasolinas provocaría un boquete en finanzas públicas de alrededor de 226 mmdp.",
+      "link": "https://www.reforma.com/costaria-226-mil-mdp-subsidio-a-combustibles/ar3284508",
+      "fecha": "29 Sep 2026, 05:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Urgen en Canadá retomar comercio sin aranceles",
-      "resumen": "Brian Kingston, presidente y director de la CVMA , pidió retomar el comercio libre de aranceles en el marco del T-MEC.",
+      "resumen": "Brian Kingston, presidente y director de la CVMA, pidió retomar el comercio libre de aranceles en el marco del T-MEC.",
       "link": "https://www.reforma.com/urgen-en-canada-retomar-comercio-sin-aranceles/ar3284464",
       "fecha": "29 Sep 2026, 05:01 hrs"
     },
@@ -186,37 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten rezago en fibra para los centros de datos",
-      "resumen": "México enfrenta rezago en redes troncales de fibra óptica impidiéndole aprovechar la expansión de centros de datos, señaló C3ntro Telecom.",
-      "link": "https://www.reforma.com/advierten-rezago-en-fibra-para-los-centros-de-datos/ar3284447",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "titulo": "Reporta dólar ligero descenso a $17.97",
+      "resumen": "El tipo de cambio cotiza en $17.9730 por dólar, con un marginal avance del 0.03% para el peso, luego de tocar su nivel más débil desde marzo",
+      "link": "https://www.reforma.com/reporta-dolar-ligero-descenso-a-17-97/ar3284598",
+      "fecha": "29 Sep 2026, 08:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Daña certeza jurídica tasa de repatriación",
-      "resumen": "La tasa para repatriar capitales en 2027 afectará la certeza jurídica de los contribuyentes y evidencia fallas en el diseño institucional.",
-      "link": "https://www.reforma.com/dana-certeza-juridica-tasa-de-repatriacion/ar3284442",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "titulo": "Advierte Anthropic de riesgos existenciales de su propia IA",
+      "resumen": "Anthropic advirtió a los inversionistas antes de su salida a bolsa que la IA podría presentar \"riesgos existenciales para la humanidad\".",
+      "link": "https://www.reforma.com/advierte-anthropic-de-riesgos-existenciales-de-su-propia-ia/ar3284564",
+      "fecha": "29 Sep 2026, 07:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ganan el salario mínimo más personas",
-      "resumen": "Personas que perciben el salario mínimo pasaron de 5% del total de asalariadas y subordinadas a 17.9%, en los últimos ocho años.",
-      "link": "https://www.reforma.com/ganan-el-salario-minimo-mas-personas/ar3284440",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "titulo": "Cubre Sonora 57% de meta  de exportación bovina",
+      "resumen": "En primer mes de exportación ganadera a EU desde Agua Prieta, Sonora, envíos promediaron 851 cabezas diarias, 57% de la meta diaria máxima.",
+      "link": "https://www.reforma.com/cubre-sonora-57-de-meta-de-exportacion-bovina/ar3284455",
+      "fecha": "29 Sep 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden revisar aplicación de la 'Ley Silla'",
-      "resumen": "Diputados piden al Gobierno federal inspeccionar que se cumpla con la 'Ley Silla' e imponer sanciones de no implementarse adecuadamente.",
-      "link": "https://www.reforma.com/piden-revisar-aplicacion-de-la-ley-silla/ar3284437",
-      "fecha": "29 Sep 2026, 05:01 hrs"
+      "titulo": "Alcanza bono del Tesoro a 30 años nuevo máximo desde 2002",
+      "resumen": "El bono del Tesoro a 30 años superó el 5.59%, alcanzando un nivel no visto desde 2002, tras el estallido de la burbuja de las puntocom.",
+      "link": "https://www.reforma.com/alcanza-bono-del-tesoro-a-30-anos-nuevo-maximo-desde-2002/ar3284650",
+      "fecha": "29 Sep 2026, 10:01 hrs"
     }
   ]
 }
