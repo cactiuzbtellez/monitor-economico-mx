@@ -1,7 +1,25 @@
 {
-  "actualizado": "28/09/2026 22:30 hrs",
+  "actualizado": "29/09/2026 05:08 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pemex arrastra calificación de México a grado especulativo: Alejandro Werner; prevé déficits fiscales de 4 a 5% a 2030",
+      "resumen": "Estabilizar la deuda requiere mejorar el balance primario, lo cual solo ocurrirá con reforma fiscal; los gobiernos de la 4T no han logrado restablecer la solidez financiera de Pemex, dijo el ex subsec…",
+      "link": "https://expansion.mx/economia/2026/09/28/alejandro-werner-deficits-fiscales-4-5-pib-sexenio-sheinbaum",
+      "fecha": "28 Sep 2026, 15:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Acereras de EU redoblan la presión a Trump por los aranceles ante un posible acuerdo con México",
+      "resumen": "Las exportaciones mexicanas de acero y sus manufacturas cayeron 10.6% en 2025 y retrocedieron 7.1% entre enero y julio de 2026.",
+      "link": "https://expansion.mx/economia/2026/09/28/acereras-eu-presion-trump-aranceles-acuerdo-mexico",
+      "fecha": "28 Sep 2026, 14:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,66 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Corea lleva su apuesta por México a una nueva etapa con IA, aeroespacial y más inversión",
-      "resumen": "México es el principal socio comercial de Corea del Sur en América Latina, mientras unas 2,000 empresas coreanas ya operan en el país y generan alrededor de 150,000 empleos.",
-      "link": "https://expansion.mx/economia/2026/09/25/corea-eleva-apuesta-mexico-ia-aeroespacial-inversion",
-      "fecha": "25 Sep 2026, 14:59 hrs"
+      "titulo": "El nuevo plan corporativo de Starbucks prioriza las licencias",
+      "resumen": "Cerca de 90% del portafolio internacional de Starbucks opera bajo esquemas de licencia, una estructura que la compañía describe como de menor requerimiento de capital y que permite apoyarse en socios …",
+      "link": "https://expansion.mx/empresas/2026/09/28/el-nuevo-plan-corporativo-de-starbucks-prioriza-licencias",
+      "fecha": "28 Sep 2026, 19:25 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adiós al efectivo en México: ¿Por qué el país aún no está listo para pagos solo con tarjeta?",
-      "resumen": "Digitalizar la economía por \"decreto\" choca contra millones de personas sin internet, comisiones bancarias elevadas y el temor a la fiscalización.",
-      "link": "https://expansion.mx/economia/2026/09/25/mexico-no-esta-listo-prohibir-efectivo-tarjetas",
-      "fecha": "25 Sep 2026, 05:55 hrs"
+      "titulo": "Luego de 35 años, Carl’s Jr. hizo de México uno de sus mercados clave; así construyó su negocio",
+      "resumen": "La cadena estadounidense comenzó su historia en México con un restaurante y encontró en las franquicias una vía para crecer por distintas regiones del país.",
+      "link": "https://expansion.mx/empresas/2026/09/28/carls-jr-aniversario-35-pesos-mexico-promocion",
+      "fecha": "28 Sep 2026, 16:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
+      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
+      "link": "https://expansion.mx/empresas/2026/09/28/carlos-slim-tres-plazas-comerciales-conectadas-al-metro",
+      "fecha": "28 Sep 2026, 15:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely supera a MG en ventas y acecha a BYD",
+      "resumen": "La marca china superó a MG en ventas mensuales por primera vez en agosto y se acerca a BYD, que lidera las ventas entre las marcas chinas con presencia en México.",
+      "link": "https://expansion.mx/empresas/2026/09/28/geely-supera-mg-ventas-se-acerca-byd-mexico",
+      "fecha": "28 Sep 2026, 15:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mexicana suma su avión número 10 y alcanza la mitad de la flota que usará para ampliar sus rutas nacionales",
+      "resumen": "La aeronave Embraer 190 E2 llegó desde Manaos, Brasil al aeropuerto del AIFA para ser parte de la flotilla de Mexicana. Estas son sus características y cuánto pagará el Gobierno por los aviones.",
+      "link": "https://expansion.mx/empresas/2026/09/28/mexicana-aviacion-mitad-flota-llegada-decimo-avion-embraer",
+      "fecha": "28 Sep 2026, 14:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La fusión de Viva y Volaris busca eficiencias, pero abre riesgo para rutas menos rentables y tarifas",
+      "resumen": "La propuesta de consolidación ocurre mientras ambas aerolíneas enfrentan pérdidas y buscan mejorar sus resultados, un escenario que puede incentivar el abandono de rutas poco rentables y aumentar las …",
+      "link": "https://expansion.mx/empresas/2026/09/28/fusion-viva-volaris-abandono-rutas-tarifas-altas",
+      "fecha": "28 Sep 2026, 14:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tupperware abandona la idea de vender en supermercados y lo apuesta todo a Facebook y WhatsApp",
+      "resumen": "El plan de la marca para llegar a los supermercados se derrumbó tras declararse en quiebra. Ahora con la reestructuración, busca llegar a nuevas generaciones.",
+      "link": "https://expansion.mx/empresas/2026/09/28/tupperware-venta-catalogo-nuevas-generaciones",
+      "fecha": "28 Sep 2026, 13:58 hrs"
     },
     {
       "fuente": "Expansión",
@@ -84,139 +147,76 @@
       "fecha": "28 Sep 2026, 12:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La promesa de los 21 contratos mixtos de Pemex se topa con las dudas del sector privado",
-      "resumen": "La petrolera apuesta por este esquema para llegar a la meta de 450,000 barriles diarios hacia 2033, pero solo cuatro de los nueve contratos firmados reportan avances operativos.",
-      "link": "https://expansion.mx/empresas/2026/09/28/pemex-10-contratos-mixtos-pero-quiere-lograr-21",
-      "fecha": "28 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
-      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
-      "link": "https://expansion.mx/empresas/2026/09/27/primark-llega-a-mexico-tendra-tienda-en-linea-modelo-zara-hm",
-      "fecha": "27 Sep 2026, 15:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tupperware encara el reto de llegar a nuevas generaciones con sus tradicionales ventas por catálogo",
-      "resumen": "Hasta antes de declararse en quiebra, la firma tenía el objetivo de llegar a espacios físicos, como supermercados, pero el proceso de reestructura que atravesó trajo consigo nuevos planes.",
-      "link": "https://expansion.mx/empresas/2026/09/26/tupperware-reto-nuevas-generaciones-con-ventas-catalogo",
-      "fecha": "26 Sep 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La IA aumenta el tráfico de datos y presiona la capacidad de las redes de las telecomunicaciones",
-      "resumen": "El aumento del uso de IA elevará 26% el tráfico global de datos hacia 2034, de acuerdo con Nokia, por lo que los operadores deberán ampliar la capacidad de sus redes y avanzar hacia tecnologías como 5…",
-      "link": "https://expansion.mx/empresas/2026/09/25/ia-aumenta-trafico-datos-presiona-redes-telecomunicaciones",
-      "fecha": "25 Sep 2026, 17:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim convirtió un basurero del Edomex en plaza comercial, hospital y centro deportivo",
-      "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
-      "link": "https://expansion.mx/empresas/2026/09/25/carlos-slim-transformo-basurero-en-ciudad-jardin",
-      "fecha": "25 Sep 2026, 14:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telmex y Telnor deberán ofrecer internet de hasta 70 Mbps por 200 pesos en 60 localidades",
-      "resumen": "La CRT incorporó nuevas obligaciones a las subsidiarias de América Móvil que incluyen un descuento de 50% en la instalación, facilidades de pago y la posibilidad de contratar telefonía fija y 100 punt…",
-      "link": "https://expansion.mx/empresas/2026/09/25/telmex-telnor-ofrecer-internet-200-pesos-60-localidades",
-      "fecha": "25 Sep 2026, 14:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Esta SUV eléctrica funciona como una power bank gigante y puede salvarte cuando te quedes sin luz",
-      "resumen": "Además de su autonomía y tiempos de recarga, los vehículos eléctricos incorporan funciones que pueden resultar útiles dentro y fuera de casa.",
-      "link": "https://expansion.mx/empresas/2026/09/25/suv-electrica-que-carga-aparatos",
-      "fecha": "25 Sep 2026, 14:00 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen capacitación para trazabilidad",
+      "resumen": "Transportistas de hidrocarburos enfrentan problemas operativos en las inspecciones en carreteras debido a la falta de criterios homologados.",
+      "link": "https://www.reforma.com/urgen-capacitacion-para-trazabilidad/ar3284459",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llama Profeco a revisión 6,039 Emgrand SS11-A1 de Geely",
-      "resumen": "Profeco llamó a revisión 6 mil 039 vehículos modelo Emgrand SS11-A1 de la marca Geely por fallas en su depósito de combustible.",
-      "link": "https://www.reforma.com/llama-profeco-a-revision-6-039-emgrand-ss11-a1-de-geely/ar3284409",
-      "fecha": "28 Sep 2026, 20:17 hrs"
+      "titulo": "Reporta la mayoría ingreso medio-bajo",
+      "resumen": "La mayoría de los municipios del País se concentró en los estratos de ingreso medio y bajo durante 2024, de acuerdo con datos del Inegi.",
+      "link": "https://www.reforma.com/reporta-la-mayoria-ingreso-medio-bajo/ar3284452",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten por nueva estafa en compraventa de autos",
-      "resumen": "Consejo Ciudadano hizo un llamado a no ser víctima de creditrampa, un tipo de fraude en la compraventa de vehículos mediante redes sociales.",
-      "link": "https://www.reforma.com/advierten-por-nueva-estafa-en-compraventa-de-autos/ar3284394",
-      "fecha": "28 Sep 2026, 19:40 hrs"
+      "titulo": "Urgen en Canadá retomar comercio sin aranceles",
+      "resumen": "Brian Kingston, presidente y director de la CVMA , pidió retomar el comercio libre de aranceles en el marco del T-MEC.",
+      "link": "https://www.reforma.com/urgen-en-canada-retomar-comercio-sin-aranceles/ar3284464",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inicia semana peso con depreciación; trepa dólar a $17.99",
-      "resumen": "Dólar cerró este lunes con una cotización de $17.99; cifra 30.83 centavos mayor a lo registrado el viernes y su mayor aumento desde marzo.",
-      "link": "https://www.reforma.com/inicia-semana-peso-con-depreciacion-trepa-dolar-a-17-99/ar3284299",
-      "fecha": "28 Sep 2026, 17:19 hrs"
+      "titulo": "Falta valor agregado en las exportaciones",
+      "resumen": "Para las exportaciones mexicanas, el reto no sólo es mantener el dinamismo de los envíos, sino sumar valor agregado, coinciden expertos.",
+      "link": "https://www.reforma.com/falta-valor-agregado-en-las-exportaciones/ar3284450",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Resuelven queja en contra de Akwel Juárez",
-      "resumen": "USTR resolvió la queja laboral contra Akwel Juárez México tras acusaciones de injerencia patronal y despido de trabajadores.",
-      "link": "https://www.reforma.com/resuelven-queja-en-contra-de-akwel-juarez/ar3284243",
-      "fecha": "28 Sep 2026, 15:53 hrs"
+      "titulo": "Advierten rezago en fibra para los centros de datos",
+      "resumen": "México enfrenta rezago en redes troncales de fibra óptica impidiéndole aprovechar la expansión de centros de datos, señaló C3ntro Telecom.",
+      "link": "https://www.reforma.com/advierten-rezago-en-fibra-para-los-centros-de-datos/ar3284447",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera dólar los $18.00 por primera vez desde marzo",
-      "resumen": "El peso llegó a negociarse momentáneamente en 18.0110 por dólar, aunque posteriormente moderó parte de sus pérdidas.",
-      "link": "https://www.reforma.com/supera-dolar-los-18-00-por-primera-vez-desde-marzo/ar3284241",
-      "fecha": "28 Sep 2026, 15:53 hrs"
+      "titulo": "Daña certeza jurídica tasa de repatriación",
+      "resumen": "La tasa para repatriar capitales en 2027 afectará la certeza jurídica de los contribuyentes y evidencia fallas en el diseño institucional.",
+      "link": "https://www.reforma.com/dana-certeza-juridica-tasa-de-repatriacion/ar3284442",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Comprará AMD a la startup World Labs en 8,200 mdd",
-      "resumen": "Advanced Micro Devices anunció un acuerdo para adquirir la empresa emergente World Labs, que desarrolla modelos de IA, por 8 mil 200 mdd.",
-      "link": "https://www.reforma.com/comprara-amd-a-la-startup-world-labs-en-8-200-mdd/ar3284217",
-      "fecha": "28 Sep 2026, 15:08 hrs"
+      "titulo": "Ganan el salario mínimo más personas",
+      "resumen": "Personas que perciben el salario mínimo pasaron de 5% del total de asalariadas y subordinadas a 17.9%, en los últimos ocho años.",
+      "link": "https://www.reforma.com/ganan-el-salario-minimo-mas-personas/ar3284440",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lidera México pérdidas por subsidio a diesel y gasolinas",
-      "resumen": "México es el país que tiene mayores pérdidas fiscales por subsidiar la gasolina y el diesel y el tercera en combustibles más caros.",
-      "link": "https://www.reforma.com/lidera-mexico-perdidas-por-subsidio-a-diesel-y-gasolinas/ar3284204",
-      "fecha": "28 Sep 2026, 14:55 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inician mercados de EU la semana con pérdidas",
-      "resumen": "Este lunes, el Dow Jones cedió un 0.66%, el índice Nasdaq perdió un 0.91% y el índice ampliado S&amp;P 500 retrocedió un 0.76%.",
-      "link": "https://www.reforma.com/inician-mercados-de-eu-la-semana-con-perdidas/ar3284192",
-      "fecha": "28 Sep 2026, 14:40 hrs"
+      "titulo": "Piden revisar aplicación de la 'Ley Silla'",
+      "resumen": "Diputados piden al Gobierno federal inspeccionar que se cumpla con la 'Ley Silla' e imponer sanciones de no implementarse adecuadamente.",
+      "link": "https://www.reforma.com/piden-revisar-aplicacion-de-la-ley-silla/ar3284437",
+      "fecha": "29 Sep 2026, 05:01 hrs"
     }
   ]
 }
