@@ -1,7 +1,43 @@
 {
-  "actualizado": "29/09/2026 15:56 hrs",
+  "actualizado": "29/09/2026 19:08 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Clientes llevan un año sin sus joyas por la huelga del Monte de Piedad y reclaman: “No quiero perderlas”",
+      "resumen": "La huelga de Nacional Monte de Piedad está por cumplir un año y los clientes siguen esperando una solución para recuperar las prendas que dejaron en sus sucursales.",
+      "link": "https://expansion.mx/economia/2026/09/29/clientes-atrapados-por-la-huelga-de-nacional-monte-de-piedad",
+      "fecha": "29 Sep 2026, 18:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
+      "resumen": "Morena defiende el filtro como una protección a la soberanía; el PAN advierte incertidumbre y Yeidckol Polevnsky cuestiona que complique los esfuerzos para atraer inversión.",
+      "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
+      "fecha": "29 Sep 2026, 18:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México quiere emular a Brasil y masificar en un año los pagos digitales",
+      "resumen": "El país busca reducir a 50% el uso del efectivo hacia 2027, pero el reto está en lograr que herramientas como CoDi y DiMo pasen de la infraestructura al uso cotidiano.",
+      "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
+      "fecha": "29 Sep 2026, 17:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu México nombra a Estephany Paulette Ley como CEO",
+      "resumen": "Se trata de la segunda mujer al frente de un banco en México; cuenta con amplia trayectoria en el sistema financiero del país",
+      "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
+      "fecha": "29 Sep 2026, 16:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,42 +73,6 @@
       "resumen": "A través de su oferta Premier Elite, el banco conecta su presencia en más de 60 mercados con asesoría local, para tomar decisiones financieras estratégicas.",
       "link": "https://expansion.mx/economia/2026/09/28/hsbc-convierte-su-alcance-global-en-valor-para-el-patrimonio-de-los-clientes",
       "fecha": "28 Sep 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México eleva 40.4% sus exportaciones en agosto; registra superávit comercial de 605 mdd",
-      "resumen": "Los equipos eléctricos y electrónicos impulsaron las ventas al exterior, mientras las exportaciones automotrices retrocedieron.",
-      "link": "https://expansion.mx/economia/2026/09/28/exportaciones-mexico-agosto-2026-superavit-comercial",
-      "fecha": "28 Sep 2026, 08:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
-      "resumen": "En el país, uno de cada seis hogares ya recibe una pensión, mientras el gasto público pensionario alcanzaría 2.5 billones de pesos en 2027.",
-      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
-      "fecha": "26 Sep 2026, 12:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Se debe romper el mito de que bancarizar es fiscalizar, dice la CNBV; defiende Ley de Economía Digital",
-      "resumen": "El gobierno federal asegura que se cuenta con toda la infraestructura para aumentar los pagos digitales; el reto es adopción, no acceso, destaca el regulador",
-      "link": "https://expansion.mx/economia/2026/09/25/cnbv-ley-economia-digital-bancarizar-no-es-fiscalizar",
-      "fecha": "25 Sep 2026, 17:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda baja IEPS a gasolinas, mientras el diésel va por su tercera semana con cuota cero",
-      "resumen": "Para la semana del 26 de septiembre al 2 de octubre, el diésel que es el combustible utilizado para el movimiento masivo de personas y mercancías tendrá un estímulo de 100% a su cuota IEPS por litro.",
-      "link": "https://expansion.mx/economia/2026/09/25/hacienda-baja-ieps-gasolinas-diesel-tercera-cuota-cero",
-      "fecha": "25 Sep 2026, 17:53 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,60 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Aseguran videojuegos apócrifos en Friki Plaza y Meave",
+      "resumen": "IMPI en conjunto con la Marina anunciaron el decomiso de 477 videojuegos y consolas apócrifas en Friki Plaza, Fan Center y Plaza Meave",
+      "link": "https://www.reforma.com/aseguran-videojuegos-apocrifos-en-friki-plaza-y-meave/ar3285104",
+      "fecha": "29 Sep 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Nombran a Estephany Ley CEO de Nu México",
+      "resumen": "Nubank anunció el nombramiento de Estephany Paulette Ley como su nueva CEO para México a partir de noviembre.",
+      "link": "https://www.reforma.com/nombran-a-estephany-ley-ceo-de-nu-mexico/ar3285071",
+      "fecha": "29 Sep 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cumple Audi una década de producción en Puebla",
+      "resumen": "Audi México celebrará diez años de producción, este miércoles 30, en San José Chiapa, Puebla.",
+      "link": "https://www.reforma.com/cumple-audi-una-decada-de-produccion-en-puebla/ar3285036",
+      "fecha": "29 Sep 2026, 17:54 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipa Kenneth Smith acuerdo México-EU este año",
+      "resumen": "México y EU tendrían un acuerdo comercial antes de terminar el año y las elecciones estadounidenses, refirió el analista Kenneth Smith.",
+      "link": "https://www.reforma.com/anticipa-kenneth-smith-acuerdo-mexico-eu-este-ano/ar3285012",
+      "fecha": "29 Sep 2026, 17:54 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Demandan a OpenAI en EU por infringir ley sobre ciberataques",
+      "resumen": "OpenAI fue demandada ante la justicia de California por violar una ley estatal sobre ciberataques, a raíz de la intrusión en Huggin Face.",
+      "link": "https://www.reforma.com/demandan-a-openai-en-eu-por-infringir-ley-sobre-ciberataques/ar3284970",
+      "fecha": "29 Sep 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden a EU bajar arancel automotriz a México a 15%",
+      "resumen": "Industriales del sector automotriz pidieron al Gobierno de EU reducir los aranceles de 25% a 15% con el objetivo de ser más competitivos.",
+      "link": "https://www.reforma.com/piden-a-eu-bajar-arancel-automotriz-a-mexico-a-15/ar3284962",
+      "fecha": "29 Sep 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Anticipa CESF moderación en ritmo de expansión económica",
       "resumen": "CESF anticipa una moderación en el ritmo de expansión de la actividad económica durante el tercer trimestre tras un repunte en el segundo.",
       "link": "https://www.reforma.com/anticipa-cesf-moderacion-en-ritmo-de-expansion-economica/ar3284907",
@@ -159,64 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé INA alza de 5% en producción de autopartes",
-      "resumen": "Al cierre de 2026, la producción de autopartes en México podría alcanzar un valor de producción de 125 mmdd, un alza anual de 5%, dijo INA.",
-      "link": "https://www.reforma.com/preve-ina-alza-de-5-en-produccion-de-autopartes/ar3284868",
-      "fecha": "29 Sep 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aprueban reestructura de CFE",
-      "resumen": "La CFE aprobó dividir las operaciones en generación, redes eléctricas y política comercial, dentro de su estructura orgánica.",
-      "link": "https://www.reforma.com/aprueban-reestructura-de-cfe/ar3284767",
-      "fecha": "29 Sep 2026, 12:39 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Gana México arbitraje  contra estadounidense Doups",
-      "resumen": "México ganó el arbitraje solicitado por Doups Holdings y se beneficio con más de un millón de dólares por concepto de gastos y costos.",
-      "link": "https://www.reforma.com/gana-mexico-arbitraje-contra-estadounidense-doups/ar3284726",
-      "fecha": "29 Sep 2026, 12:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Podrían más empresas acceder al Resico",
-      "resumen": "Las modificaciones al Resico pueden propiciar que se sumen más empresas a este esquema, según Grant Thornton.",
-      "link": "https://www.reforma.com/podrian-mas-empresas-acceder-al-resico/ar3284806",
-      "fecha": "29 Sep 2026, 14:20 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Firman líderes tecnológicos acuerdo para regular la IA",
-      "resumen": "El Presidente Trump dijo que líderes del sector tecnológico habían firmado un compromiso \"moralmente vinculante\" para autorregularse.",
-      "link": "https://www.reforma.com/firman-lideres-tecnologicos-acuerdo-para-regular-la-ia/ar3284895",
-      "fecha": "29 Sep 2026, 14:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Puede Banxico tomar un rumbo distinto a la Fed.- Rodríguez",
-      "resumen": "Banxico puede trazar una política monetaria distinta a Fed porque el País atraviesa condiciones distintas a EU, afirmó Victoria Rodríguez.",
-      "link": "https://www.reforma.com/puede-banxico-tomar-un-rumbo-distinto-a-la-fed-rodriguez/ar3284573",
-      "fecha": "29 Sep 2026, 08:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene Mercado Libre primera emisión de Cebures en México",
-      "resumen": "Mercado Libre realizó su primera colocación de Cebures por un monto de 3 mil 750 millones de pesos en Biva.",
-      "link": "https://www.reforma.com/tiene-mercado-libre-primera-emision-de-cebures-en-mexico/ar3284824",
-      "fecha": "29 Sep 2026, 14:20 hrs"
+      "titulo": "Mantienen bonos del Tesoro presión sobre mercados de EU",
+      "resumen": "La Bolsa de Nueva York cerró con pérdidas moderadas en sus tres índices, presionada por el continuo aumento de las tasas de los bonos.",
+      "link": "https://www.reforma.com/mantienen-bonos-del-tesoro-presion-sobre-mercados-de-eu/ar3284908",
+      "fecha": "29 Sep 2026, 14:59 hrs"
     }
   ]
 }
