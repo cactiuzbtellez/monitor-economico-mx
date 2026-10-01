@@ -1,7 +1,34 @@
 {
-  "actualizado": "30/09/2026 18:22 hrs",
+  "actualizado": "01/10/2026 00:53 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sofipos quieren el mercado de pagos que todavía domina el efectivo",
+      "resumen": "Las nuevas reglas por venir abren una oportunidad para que Sofipos amplíen su participación en las transacciones digitales y lleguen a pequeños comercios y usuarios que todavía dependen del efectivo.",
+      "link": "https://expansion.mx/economia/2026/09/30/sofipos-van-mercado-pagos-todavia-domina-efectivo",
+      "fecha": "30 Sep 2026, 20:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La ley de catastro mejorará finanzas de municipios y respetará su autonomía, asegura Hacienda",
+      "resumen": "De aprobarse e implementarse esta iniciativa, todos los ingresos resultantes van a terminar en las tesorerías de los municipios, destacó el titular de la SHCP, Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/09/30/hacienda-ley-catastro-predial-mejorara-finanzas-municipios",
+      "fecha": "30 Sep 2026, 19:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Termina la huelga en el Monte de Piedad, ¿cuándo abre y qué pasará con los empeños de los clientes?",
+      "resumen": "La huelga de Nacional Monte de Piedad terminó este 30 de septiembre, después de meses de negociaciones entre la institución y el sindicato.",
+      "link": "https://expansion.mx/economia/2026/09/30/termina-huelga-monte-piedad-cuando-abre-empenos",
+      "fecha": "30 Sep 2026, 19:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más 'dientes' para las aduanas, pero con presupuesto recortado y fallas operativas",
-      "resumen": "La ANAM recauda casi uno de cada cuatro pesos de impuestos. Para el año próximo, su asignación perdería 3.1% real, mientras enfrenta revisiones lentas y retos con las modificaciones a la Ley Aduanera.",
-      "link": "https://expansion.mx/economia/2026/09/30/reforma-aduanera-2027-fallas-operativas-presupuesto-anam",
-      "fecha": "30 Sep 2026, 05:55 hrs"
+      "titulo": "Producción petrolera de Pemex se desploma a su mes más bajo desde que se tiene registro",
+      "resumen": "La producción de petróleo crudo en el mes de agosto se redujo en un 2.7%, comparado con el mismo periodo del 2025, la menor cifra registrada en la base de datos de Pemex.",
+      "link": "https://expansion.mx/empresas/2026/09/30/produccion-petrolera-pemex-mas-baja-desde-que-hay-registro",
+      "fecha": "30 Sep 2026, 20:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Clientes llevan un año sin sus joyas por la huelga del Monte de Piedad y reclaman: “No quiero perderlas”",
-      "resumen": "La huelga de Nacional Monte de Piedad está por cumplir un año y los clientes siguen esperando una solución para recuperar las prendas que dejaron en sus sucursales.",
-      "link": "https://expansion.mx/economia/2026/09/29/clientes-atrapados-por-la-huelga-de-nacional-monte-de-piedad",
-      "fecha": "29 Sep 2026, 18:55 hrs"
+      "titulo": "¿Cansado del clutch? Estos hatchback, sedanes y SUV automáticos son los más accesibles en México",
+      "resumen": "Dejar atrás el clutch no necesariamente obliga a brincar a las versiones más caras. Entre los modelos de entrada hay diferencias importantes en precio, transmisión, seguridad y equipamiento.",
+      "link": "https://expansion.mx/empresas/2026/09/30/hatchback-sedanes-y-suv-automaticos-mas-accesibles-de-mexico",
+      "fecha": "30 Sep 2026, 17:09 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Reforma a la inversión extranjera llega al pleno del Senado entre críticas por sus filtros",
-      "resumen": "Morena defiende el filtro como una protección a la soberanía; el PAN advierte incertidumbre y Yeidckol Polevnsky cuestiona que complique los esfuerzos para atraer inversión.",
-      "link": "https://expansion.mx/economia/2026/09/29/reforma-inversion-extranjera-pleno-senado-criticas",
-      "fecha": "29 Sep 2026, 18:02 hrs"
+      "titulo": "Cancelación de vuelos de Aeroméxico y Volaris al Aeropuerto de Tulum recrudece crisis turística en el destino",
+      "resumen": "La suspensión de vuelos de Aeroméxico y Volaris suma presión a Tulum, un destino que busca recuperar ocupación tras perder atractivo por sus precios y enfrentar mayor competencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/09/30/tulum-aeromexico-volaris-suspenden-vuelos",
+      "fecha": "30 Sep 2026, 15:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Murió su hermano y Alberto Baillères cambió sus planes: terminó repartiendo cerveza en un camión",
+      "resumen": "Su padre, Don Raúl Baillères, le impuso una regla que marcaría su carrera: si quería dirigir una empresa, primero tenía que conocerla desde abajo.",
+      "link": "https://expansion.mx/empresas/2026/09/30/alberto-bailleres-vendedor-cerveza-cerveceria-moctezuma",
+      "fecha": "30 Sep 2026, 15:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Valor de Educar: de programa de becas a trampolín profesional para 8,500 jóvenes mexicanos",
+      "resumen": "En entrevista, Nina Mayagoitia, VP de comunicación de Constellation Brands, explica cómo su programa de becas evolucionó hasta convertirse en un acompañamiento integral.",
+      "link": "https://expansion.mx/empresas/2026/09/30/el-valor-de-educar-de-programa-de-becas-a-trampolin-profesional-para-8-500-jovenes-mexicanos",
+      "fecha": "30 Sep 2026, 14:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,58 +147,13 @@
       "fecha": "29 Sep 2026, 15:08 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El nuevo plan corporativo de Starbucks prioriza las licencias",
-      "resumen": "Cerca de 90% del portafolio internacional de Starbucks opera bajo esquemas de licencia, una estructura que la compañía describe como de menor requerimiento de capital y que permite apoyarse en socios …",
-      "link": "https://expansion.mx/empresas/2026/09/28/el-nuevo-plan-corporativo-de-starbucks-prioriza-licencias",
-      "fecha": "28 Sep 2026, 19:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Luego de 35 años, Carl’s Jr. hizo de México uno de sus mercados clave; así construyó su negocio",
-      "resumen": "La cadena estadounidense comenzó su historia en México con un restaurante y encontró en las franquicias una vía para crecer por distintas regiones del país.",
-      "link": "https://expansion.mx/empresas/2026/09/28/carls-jr-aniversario-35-pesos-mexico-promocion",
-      "fecha": "28 Sep 2026, 16:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
-      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
-      "link": "https://expansion.mx/empresas/2026/09/28/carlos-slim-tres-plazas-comerciales-conectadas-al-metro",
-      "fecha": "28 Sep 2026, 15:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely supera a MG en ventas y acecha a BYD",
-      "resumen": "La marca china superó a MG en ventas mensuales por primera vez en agosto y se acerca a BYD, que lidera las ventas entre las marcas chinas con presencia en México.",
-      "link": "https://expansion.mx/empresas/2026/09/28/geely-supera-mg-ventas-se-acerca-byd-mexico",
-      "fecha": "28 Sep 2026, 15:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana suma su avión número 10 y alcanza la mitad de la flota que usará para ampliar sus rutas nacionales",
-      "resumen": "La aeronave Embraer 190 E2 llegó desde Manaos, Brasil al aeropuerto del AIFA para ser parte de la flotilla de Mexicana. Estas son sus características y cuánto pagará el Gobierno por los aviones.",
-      "link": "https://expansion.mx/empresas/2026/09/28/mexicana-aviacion-mitad-flota-llegada-decimo-avion-embraer",
-      "fecha": "28 Sep 2026, 14:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Volaris que dejará de operar en Aeropuerto de Tulum",
-      "resumen": "Volaris anunció que también dejará de operar en el Aeropuerto Internacional de Tulum, sumándose a Avianca, Copa Airlines y Aeroméxico.",
-      "link": "https://www.reforma.com/anuncia-volaris-que-dejara-de-operar-en-aeropuerto-de-tulum/ar3285875",
-      "fecha": "30 Sep 2026, 17:56 hrs"
+      "titulo": "Ven en caso Vulcan amenaza a EU",
+      "resumen": "Incautación de instalaciones de Vulcan Materials es una amenaza para la seguridad económica de EU, acusan empresarios estadounidenses.",
+      "link": "https://www.reforma.com/ven-en-caso-vulcan-amenaza-a-eu/ar3285925",
+      "fecha": "30 Sep 2026, 18:54 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,9 +168,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perfilan, tras un año, poner fin a huelga en Monte de Piedad",
-      "resumen": "Monte de piedad y el Sindicato de trabajadores llegaron a un acuerdo preliminar para dar fin a la huelga tras exactamente un año.",
-      "link": "https://www.reforma.com/perfilan-tras-un-ano-poner-fin-a-huelga-en-monte-de-piedad/ar3285843",
+      "titulo": "Anuncia Volaris que dejará de operar en Aeropuerto de Tulum",
+      "resumen": "Volaris anunció que también dejará de operar en el Aeropuerto Internacional de Tulum, sumándose a Avianca, Copa Airlines y Aeroméxico.",
+      "link": "https://www.reforma.com/anuncia-volaris-que-dejara-de-operar-en-aeropuerto-de-tulum/ar3285875",
+      "fecha": "30 Sep 2026, 17:56 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerdan, tras un año, levantar huelga en Monte de Piedad",
+      "resumen": "El Monte de Piedad y su sindicato de trabajadores llegaron a un acuerdo para dar fin a la huelga tras prácticamente un año, informó STPS.",
+      "link": "https://www.reforma.com/acuerdan-tras-un-ano-levantar-huelga-en-monte-de-piedad/ar3285843",
       "fecha": "30 Sep 2026, 17:22 hrs"
     },
     {
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede ánimo para invertir en NL",
-      "resumen": "De acuerdo con la primera medición 2026 de Data Coparmex, en NL el \"ánimo para invertir\" se ubicó en 24%, menor al 41% de 2025.",
-      "link": "https://www.reforma.com/retrocede-animo-para-invertir-en-nl/ar3285759",
-      "fecha": "30 Sep 2026, 15:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "La gran zona gris de la IA en las empresas",
       "resumen": "La IA es omnipresente. Es la conversación recurrente en toda sala de juntas, en toda sesión de consejo en las empresas.",
       "link": "https://www.reforma.com/la-gran-zona-gris-de-la-ia-en-las-empresas/ar3285279",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufre el peso su mayor pérdida mensual desde julio de 2024",
-      "resumen": "El dólar cerró el mes en $18.07, con lo que el peso mexicano sufrió un revés de cerca de 6%, su peor desempeño mensual desde julio de 2024.",
-      "link": "https://www.reforma.com/sufre-el-peso-su-mayor-perdida-mensual-desde-julio-de-2024/ar3285731",
-      "fecha": "30 Sep 2026, 15:10 hrs"
+      "titulo": "Retrocede ánimo para invertir en NL",
+      "resumen": "De acuerdo con la primera medición 2026 de Data Coparmex, en NL el \"ánimo para invertir\" se ubicó en 24%, menor al 41% de 2025.",
+      "link": "https://www.reforma.com/retrocede-animo-para-invertir-en-nl/ar3285759",
+      "fecha": "30 Sep 2026, 15:41 hrs"
     }
   ]
 }
