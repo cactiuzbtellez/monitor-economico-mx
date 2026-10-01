@@ -1,7 +1,61 @@
 {
-  "actualizado": "30/09/2026 14:34 hrs",
+  "actualizado": "30/09/2026 18:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La aportación del ISR a los ingresos del gobierno disminuye por tercera vez y reporta su menor nivel desde 2021",
+      "resumen": "De acuerdo con especialistas, la menor recaudación federal está reflejando el bajo crecimiento de la economía además de menores recursos por actos de fiscalización.",
+      "link": "https://expansion.mx/economia/2026/09/30/isr-cae-tercera-vez-reporta-menor-nivel-desde-2021",
+      "fecha": "30 Sep 2026, 18:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México lleva al G20 dos frentes de tensión: presión sobre el acero y coerción en alimentos",
+      "resumen": "Marcelo Ebrard puso sobre la mesa la sobrecapacidad, los subsidios y las diferencias entre productores de acero, además del riesgo de que los alimentos sean utilizados como instrumento de presión.",
+      "link": "https://expansion.mx/economia/2026/09/30/mexico-g20-tension-acero-alimentos-ebrard",
+      "fecha": "30 Sep 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México tiene DiMo y CoDi; Perú apuesta por Bim y un modelo que podría cambiar los pagos digitales",
+      "resumen": "Compartamos Banco llevó Bim a sus operaciones de crédito y ahora participa en un piloto que podría permitir pagar desde una billetera digital aunque el dinero esté en otro banco.",
+      "link": "https://expansion.mx/economia/2026/09/30/mexico-tiene-codi-peru-compartamos-banco-apuesta-bim",
+      "fecha": "30 Sep 2026, 16:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación superaría 4% sin apoyos fiscales a gasolinas y diésel, asegura el secretario de Hacienda",
+      "resumen": "Édgar Amador Zamora destacó que gracias a los subsidios al IEPS el alza de precios se encuentra en el rango previsto por el Banco de México.",
+      "link": "https://expansion.mx/economia/2026/09/30/comparecencia-shcp-edgar-amador-zamora",
+      "fecha": "30 Sep 2026, 13:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México vive un boom exportador, pero no todos los estados son ganadores",
+      "resumen": "El auge de las ventas al exterior avanza a distintas velocidades: en el segundo trimestre de 2026, Jalisco creció 130.8% y Chihuahua 87.3%, pero nueve entidades reportaron retrocesos.",
+      "link": "https://expansion.mx/economia/2026/09/30/boom-exportador-mexico-estados-exportaciones-2026",
+      "fecha": "30 Sep 2026, 13:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más 'dientes' para las aduanas, pero con presupuesto recortado y fallas operativas",
+      "resumen": "La ANAM recauda casi uno de cada cuatro pesos de impuestos. Para el año próximo, su asignación perdería 3.1% real, mientras enfrenta revisiones lentas y retos con las modificaciones a la Ley Aduanera.",
+      "link": "https://expansion.mx/economia/2026/09/30/reforma-aduanera-2027-fallas-operativas-presupuesto-anam",
+      "fecha": "30 Sep 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -22,57 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México quiere emular a Brasil y masificar en un año los pagos digitales",
-      "resumen": "El país busca reducir a 50% el uso del efectivo hacia 2027, pero el reto está en lograr que herramientas como CoDi y DiMo pasen de la infraestructura al uso cotidiano.",
-      "link": "https://expansion.mx/economia/2026/09/29/mexico-quiere-emular-a-brasil-y-masificar-en-un-ano-los-pagos-digitales",
-      "fecha": "29 Sep 2026, 17:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu México nombra a Estephany Paulette Ley como CEO",
-      "resumen": "Se trata de la segunda mujer al frente de un banco en México; cuenta con amplia trayectoria en el sistema financiero del país",
-      "link": "https://expansion.mx/economia/2026/09/29/nu-mexico-nombra-a-estephany-paulette-ley-como-ceo",
-      "fecha": "29 Sep 2026, 16:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Ley de Economía Digital contribuirá a la fiscalización del SAT y lucha anti lavado",
-      "resumen": "Si bien la propuesta de Ley no estipula nuevas facultades para la autoridad fiscal, los pagos digitales dejan huellas en el sistema financiero.",
-      "link": "https://expansion.mx/economia/2026/09/29/ley-economia-digital-fiscalizacion-sat-lucha-anti-lavado",
-      "fecha": "29 Sep 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pemex arrastra calificación de México a grado especulativo: Alejandro Werner; prevé déficits fiscales de 4 a 5% a 2030",
-      "resumen": "Estabilizar la deuda requiere mejorar el balance primario, lo cual solo ocurrirá con reforma fiscal; los gobiernos de la 4T no han logrado restablecer la solidez financiera de Pemex, dijo el ex subsec…",
-      "link": "https://expansion.mx/economia/2026/09/28/alejandro-werner-deficits-fiscales-4-5-pib-sexenio-sheinbaum",
-      "fecha": "28 Sep 2026, 15:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Acereras de EU redoblan la presión a Trump por los aranceles ante un posible acuerdo con México",
-      "resumen": "Las exportaciones mexicanas de acero y sus manufacturas cayeron 10.6% en 2025 y retrocedieron 7.1% entre enero y julio de 2026.",
-      "link": "https://expansion.mx/economia/2026/09/28/acereras-eu-presion-trump-aranceles-acuerdo-mexico",
-      "fecha": "28 Sep 2026, 14:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HSBC convierte su alcance global en valor para el patrimonio de sus clientes",
-      "resumen": "A través de su oferta Premier Elite, el banco conecta su presencia en más de 60 mercados con asesoría local, para tomar decisiones financieras estratégicas.",
-      "link": "https://expansion.mx/economia/2026/09/28/hsbc-convierte-su-alcance-global-en-valor-para-el-patrimonio-de-los-clientes",
-      "fecha": "28 Sep 2026, 09:55 hrs"
+      "titulo": "¿De qué era empresario Jorge Kahwagi? De medios de comunicación hasta negocios de salud y verificentros",
+      "resumen": "Su trayectoria empresarial fue más amplia de lo que suele recordarse: ocupó cargos directivos, tuvo participación accionaria y encabezó organismos empresariales.",
+      "link": "https://expansion.mx/empresas/2026/09/30/jorge-kahwagi-empresas-cargos-carrera-empresarial",
+      "fecha": "30 Sep 2026, 12:16 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,67 +147,58 @@
       "fecha": "28 Sep 2026, 14:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La fusión de Viva y Volaris busca eficiencias, pero abre riesgo para rutas menos rentables y tarifas",
-      "resumen": "La propuesta de consolidación ocurre mientras ambas aerolíneas enfrentan pérdidas y buscan mejorar sus resultados, un escenario que puede incentivar el abandono de rutas poco rentables y aumentar las …",
-      "link": "https://expansion.mx/empresas/2026/09/28/fusion-viva-volaris-abandono-rutas-tarifas-altas",
-      "fecha": "28 Sep 2026, 14:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anuncia Volaris que dejará de operar en Aeropuerto de Tulum",
+      "resumen": "Volaris anunció que también dejará de operar en el Aeropuerto Internacional de Tulum, sumándose a Avianca, Copa Airlines y Aeroméxico.",
+      "link": "https://www.reforma.com/anuncia-volaris-que-dejara-de-operar-en-aeropuerto-de-tulum/ar3285875",
+      "fecha": "30 Sep 2026, 17:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta SHCP 'choque de prioridades' para estabilizar deuda",
-      "resumen": "Hacienda tiene un conflicto de prioridades para acelerar la consolidación fiscal y estabilizar la deuda, destacó Banamex.",
-      "link": "https://www.reforma.com/enfrenta-shcp-choque-de-prioridades-para-estabilizar-deuda/ar3285652",
-      "fecha": "30 Sep 2026, 14:14 hrs"
+      "titulo": "Prevén inicie producción de autos chinos en México en 3 años",
+      "resumen": "Fabricantes de autos de origen chino comenzarán a ensamblar vehículos en México en un plazo no mayor a tres años, advierte Nissan.",
+      "link": "https://www.reforma.com/preven-inicie-produccion-de-autos-chinos-en-mexico-en-3-anos/ar3285886",
+      "fecha": "30 Sep 2026, 18:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen producción y exportaciones de crudo de Pemex en agosto",
-      "resumen": "Pemex produjo 1.6 millones de bpd de crudo y condensados en agosto, una baja mensual de 2% y anual de 0.4%, y sus envíos cayeron 39% y 45%.",
-      "link": "https://www.reforma.com/caen-produccion-y-exportaciones-de-crudo-de-pemex-en-agosto/ar3285500",
-      "fecha": "30 Sep 2026, 10:49 hrs"
+      "titulo": "Perfilan, tras un año, poner fin a huelga en Monte de Piedad",
+      "resumen": "Monte de piedad y el Sindicato de trabajadores llegaron a un acuerdo preliminar para dar fin a la huelga tras exactamente un año.",
+      "link": "https://www.reforma.com/perfilan-tras-un-ano-poner-fin-a-huelga-en-monte-de-piedad/ar3285843",
+      "fecha": "30 Sep 2026, 17:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae crédito de banca pública y crece el de la comercial",
-      "resumen": "El financiamiento otorgado por la banca de desarrollo registró una contracción real anual de 3.2 por ciento en agosto, según Banxico.",
-      "link": "https://www.reforma.com/cae-credito-de-banca-publica-y-crece-el-de-la-comercial/ar3285613",
-      "fecha": "30 Sep 2026, 14:14 hrs"
+      "titulo": "Prevén próximo acuerdo en acero",
+      "resumen": "México podría alcanzar un acuerdo sobre los actuales aranceles de 50 por ciento sobre las exportaciones mexicanas de acero, dijo la SE.",
+      "link": "https://www.reforma.com/preven-proximo-acuerdo-en-acero/ar3285836",
+      "fecha": "30 Sep 2026, 17:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde atractivo el carry trade del peso mexicano",
-      "resumen": "Analistas han revisado a la baja sus estimaciones para el peso, a medida que los inversionistas de \"carry trade\" abandonan el mercado.",
-      "link": "https://www.reforma.com/pierde-atractivo-el-carry-trade-del-peso-mexicano/ar3285521",
-      "fecha": "30 Sep 2026, 11:17 hrs"
+      "titulo": "Caen 23.6% ingresos por IEPS a gasolinas y diesel",
+      "resumen": "Recaudación del IEPS a gasolinas y diesel cayó 23.6% real anual en agosto de 2026 debido a los estímulos otorgados, reveló SHCP.",
+      "link": "https://www.reforma.com/caen-23-6-ingresos-por-ieps-a-gasolinas-y-diesel/ar3285784",
+      "fecha": "30 Sep 2026, 17:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva BBVA a 1.4% proyección de PIB de México en 2026",
-      "resumen": "BBVA elevó de 1.2 a 1.4% su estimación de crecimiento del PIB de México para este año.",
-      "link": "https://www.reforma.com/eleva-bbva-a-1-4-proyeccion-de-pib-de-mexico-en-2026/ar3285588",
-      "fecha": "30 Sep 2026, 12:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube crudo Brent 14% en septiembre y el WTI avanza 4%",
-      "resumen": "Los precios del crudo acabaron septiembre con una fuerte alza mensual, debido al estancamiento de las negociaciones entre EU e Irán.",
-      "link": "https://www.reforma.com/sube-crudo-brent-14-en-septiembre-y-el-wti-avanza-4/ar3285666",
-      "fecha": "30 Sep 2026, 14:14 hrs"
+      "titulo": "Retrocede ánimo para invertir en NL",
+      "resumen": "De acuerdo con la primera medición 2026 de Data Coparmex, en NL el \"ánimo para invertir\" se ubicó en 24%, menor al 41% de 2025.",
+      "link": "https://www.reforma.com/retrocede-animo-para-invertir-en-nl/ar3285759",
+      "fecha": "30 Sep 2026, 15:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ve CEO de Ford 50% probable lograr acuerdo sobre T-MEC",
-      "resumen": "Jim Farley, CEO de Ford, ve una probabilidad del 50% de que EU alcance acuerdos bilaterales con Canadá y México sobre el T-MEC.",
-      "link": "https://www.reforma.com/ve-ceo-de-ford-50-probable-lograr-acuerdo-sobre-t-mec/ar3285547",
-      "fecha": "30 Sep 2026, 11:49 hrs"
+      "titulo": "Sufre el peso su mayor pérdida mensual desde julio de 2024",
+      "resumen": "El dólar cerró el mes en $18.07, con lo que el peso mexicano sufrió un revés de cerca de 6%, su peor desempeño mensual desde julio de 2024.",
+      "link": "https://www.reforma.com/sufre-el-peso-su-mayor-perdida-mensual-desde-julio-de-2024/ar3285731",
+      "fecha": "30 Sep 2026, 15:10 hrs"
     }
   ]
 }
