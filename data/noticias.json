@@ -1,15 +1,33 @@
 {
-  "actualizado": "01/10/2026 08:13 hrs",
+  "actualizado": "01/10/2026 14:08 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "Sucursales de Monte de Piedad abrirán a partir de esta fecha tras acabarse la huelga: ¿qué pasará con los empeños?",
+      "resumen": "La huelga de Nacional Monte de Piedad terminó este miércoles 30 de septiembre, por lo que se anunció a partir de cuándo los clientes podrán acudir a las sucursales.",
+      "link": "https://expansion.mx/economia/2026/10/01/cuando-abren-sucursales-monte-piedad-fin-huelga",
+      "fecha": "01 Oct 2026, 13:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT perdió 4,600 millones de pesos en IVA e impuestos especiales por huachicol fiscal",
+      "resumen": "Después de trabajo de 10 meses con Aduanas, la autoridad tributaria detectó 109,400 millones de litros de combustibles que no fueron declarados.",
+      "link": "https://expansion.mx/economia/2026/10/01/huachicol-fiscal-sat-4600-millones-iva-impuestos-especiales",
+      "fecha": "01 Oct 2026, 11:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
       "resumen": "El alza constante en primas e inflación médica agota el presupuesto de personas y empresas, reduciendo al límite las opciones para acceder a hospitales privados.",
-      "link": "https://expansion.mx/economia/2026/10/01/usuarios-abandonan-el-seguro-de-gastos-medicos-y-buscan-atencion-en-el-servicio-publico-de-salud",
-      "fecha": "01 Oct 2026, 05:55 hrs"
+      "link": "https://expansion.mx/economia/2026/10/01/usuarios-cancelan-polizas-aumento-precio-gastos-medicos",
+      "fecha": "01 Oct 2026, 10:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -28,15 +46,6 @@
       "resumen": "De aprobarse e implementarse esta iniciativa, todos los ingresos resultantes van a terminar en las tesorerías de los municipios, destacó el titular de la SHCP, Édgar Amador Zamora.",
       "link": "https://expansion.mx/economia/2026/09/30/hacienda-ley-catastro-predial-mejorara-finanzas-municipios",
       "fecha": "30 Sep 2026, 19:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Termina la huelga en el Monte de Piedad, ¿cuándo abre y qué pasará con los empeños de los clientes?",
-      "resumen": "La huelga de Nacional Monte de Piedad terminó este 30 de septiembre, después de meses de negociaciones entre la institución y el sindicato.",
-      "link": "https://expansion.mx/economia/2026/09/30/termina-huelga-monte-piedad-cuando-abre-empenos",
-      "fecha": "30 Sep 2026, 19:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La inflación superaría 4% sin apoyos fiscales a gasolinas y diésel, asegura el secretario de Hacienda",
-      "resumen": "Édgar Amador Zamora destacó que gracias a los subsidios al IEPS el alza de precios se encuentra en el rango previsto por el Banco de México.",
-      "link": "https://expansion.mx/economia/2026/09/30/comparecencia-shcp-edgar-amador-zamora",
-      "fecha": "30 Sep 2026, 13:35 hrs"
+      "titulo": "PROSER Grupo Constructor: 35 años construyendo confianza",
+      "resumen": "PROSER Grupo Constructor cuenta con dos divisiones de negocio, así como productos y servicios especializados para la industria de la construcción, con presencia en México y Centroamérica.",
+      "link": "https://expansion.mx/empresas/2026/10/01/proser-grupo-constructor-35-anos-construyendo-confianza",
+      "fecha": "01 Oct 2026, 10:42 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,31 +147,40 @@
       "fecha": "29 Sep 2026, 15:09 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim no le perdona la renta ni a sus propias marcas: ¿por qué Sanborns, Sears y DAX pagan mensualmente?",
-      "resumen": "Liverpool, Chedraui, Soriana y Cinépolis también están entre los inquilinos de Inmuebles Carso, que administra un amplio portafolio de centros comerciales en México.",
-      "link": "https://expansion.mx/empresas/2026/09/29/carlos-slim-renta-sus-marcas-sanborns-sears-dax",
-      "fecha": "29 Sep 2026, 15:08 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Amplía SAT inicio de Manifestación de Valor Electrónica",
+      "resumen": "El SAT informó que el plazo para presentar la Manifestación de Valor Electrónica (MVE) se amplía al 31 de octubre de 2026.",
+      "link": "https://www.reforma.com/amplia-sat-inicio-de-manifestacion-de-valor-electronica/ar3286359",
+      "fecha": "01 Oct 2026, 12:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destinan para alimentos 35% del gasto en hogares",
-      "resumen": "Mexicanos destinaron 20 mil 238 pesos trimestrales a alimentos, bebidas y tabaco en 2025, igual a 34.9% de su gasto corriente monetario.",
-      "link": "https://www.reforma.com/destinan-para-alimentos-35-del-gasto-en-hogares/ar3285970",
-      "fecha": "01 Oct 2026, 05:01 hrs"
+      "titulo": "Sube dólar a $18.37, máximo desde abril de 2025",
+      "resumen": "A media jornada, el tipo de cambio cotiza en $18.3740 por dólar, un máximo para la divisa estadounidense desde abril de 2025.",
+      "link": "https://www.reforma.com/sube-dolar-a-18-37-maximo-desde-abril-de-2025/ar3286363",
+      "fecha": "01 Oct 2026, 11:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "La fórmula para crecer en México",
-      "resumen": "A 21 años de iniciar operaciones, el éxito de Mazda en México se ha apoyado en su equipo y la forma que sus valores se trasladan al producto",
-      "link": "https://www.reforma.com/la-formula-para-crecer-en-mexico/ar3286055",
-      "fecha": "01 Oct 2026, 05:01 hrs"
+      "titulo": "Caen 3.6% remesas a México y rompen racha de 6 meses al alza",
+      "resumen": "Las remesas enviadas a México alcanzaron los 5 mil 452 millones de dólares en agosto, siendo 3.6% menores a las del octavo mes de 2025.",
+      "link": "https://www.reforma.com/caen-3-6-remesas-a-mexico-y-rompen-racha-de-6-meses-al-alza/ar3286260",
+      "fecha": "01 Oct 2026, 09:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anuncia Fibra Mty segunda oferta por Macquarie",
+      "resumen": "Fibra Mty lanzó una segunda OPA por hasta el 100% de los certificados bursátiles fiduciarios inmobiliarios de Fibra Macquarie México.",
+      "link": "https://www.reforma.com/anuncia-fibra-mty-segunda-oferta-por-macquarie/ar3286311",
+      "fecha": "01 Oct 2026, 11:22 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,28 +195,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Opera dólar en $18.07, máximo en más de tres meses",
-      "resumen": "El dólar alcanzó su máximo en más de tres meses, de $18.0710, apoyado por una prolongada alza de los rendimientos de los bonos del Tesoro.",
-      "link": "https://www.reforma.com/opera-dolar-en-18-07-maximo-en-mas-de-tres-meses/ar3286207",
-      "fecha": "01 Oct 2026, 08:11 hrs"
+      "titulo": "Lanza SpaceX tripulación a Estación Espacial Internacional",
+      "resumen": "SpaceX lanzó tripulación de 4 astronautas a la Estación Espacial Internacional, donde vivirán y trabajarán durante los próximos 6 meses.",
+      "link": "https://www.reforma.com/lanza-spacex-tripulacion-a-estacion-espacial-internacional/ar3286256",
+      "fecha": "01 Oct 2026, 09:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven en caso Vulcan amenaza a EU",
-      "resumen": "Incautación de instalaciones de Vulcan Materials es una amenaza para la seguridad económica de EU, acusan empresarios estadounidenses.",
-      "link": "https://www.reforma.com/ven-en-caso-vulcan-amenaza-a-eu/ar3285925",
-      "fecha": "30 Sep 2026, 18:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén inicie producción de autos chinos en México en 3 años",
-      "resumen": "Fabricantes de autos de origen chino comenzarán a ensamblar vehículos en México en un plazo no mayor a tres años, advierte Nissan.",
-      "link": "https://www.reforma.com/preven-inicie-produccion-de-autos-chinos-en-mexico-en-3-anos/ar3285886",
-      "fecha": "30 Sep 2026, 18:10 hrs"
+      "titulo": "Asume nuevo CEO de Softtek",
+      "resumen": "David Jiménez asumió hoy como CEO Global de Softtek, con lo que concluye la transición de liderazgo anunciada en abril.",
+      "link": "https://www.reforma.com/asume-nuevo-ceo-de-softtek/ar3286389",
+      "fecha": "01 Oct 2026, 12:36 hrs"
     },
     {
       "fuente": "Reforma",
@@ -207,15 +216,6 @@
       "titulo": "Combatirían barrenador con mosca transgénica",
       "resumen": "Autoridades en EU buscan que el Senasica autorice una versión genéticamente mejorada de la mosca estéril contra el gusano barrenador.",
       "link": "https://www.reforma.com/combatirian-barrenador-con-mosca-transgenica/ar3286058",
-      "fecha": "01 Oct 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Incrementa NL 25.5% sus exportaciones",
-      "resumen": "Durante el segundo trimestre del año, las exportaciones de Nuevo León crecieron 25.5% a tasa anual.",
-      "link": "https://www.reforma.com/incrementa-nl-25-5-sus-exportaciones/ar3286063",
       "fecha": "01 Oct 2026, 07:03 hrs"
     }
   ]
