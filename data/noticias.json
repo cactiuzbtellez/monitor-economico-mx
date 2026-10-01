@@ -1,7 +1,16 @@
 {
-  "actualizado": "01/10/2026 00:53 hrs",
+  "actualizado": "01/10/2026 08:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
+      "resumen": "El alza constante en primas e inflación médica agota el presupuesto de personas y empresas, reduciendo al límite las opciones para acceder a hospitales privados.",
+      "link": "https://expansion.mx/economia/2026/10/01/usuarios-abandonan-el-seguro-de-gastos-medicos-y-buscan-atencion-en-el-servicio-publico-de-salud",
+      "fecha": "01 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Édgar Amador Zamora destacó que gracias a los subsidios al IEPS el alza de precios se encuentra en el rango previsto por el Banco de México.",
       "link": "https://expansion.mx/economia/2026/09/30/comparecencia-shcp-edgar-amador-zamora",
       "fecha": "30 Sep 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vive un boom exportador, pero no todos los estados son ganadores",
-      "resumen": "El auge de las ventas al exterior avanza a distintas velocidades: en el segundo trimestre de 2026, Jalisco creció 130.8% y Chihuahua 87.3%, pero nueve entidades reportaron retrocesos.",
-      "link": "https://expansion.mx/economia/2026/09/30/boom-exportador-mexico-estados-exportaciones-2026",
-      "fecha": "30 Sep 2026, 13:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Destinan para alimentos 35% del gasto en hogares",
+      "resumen": "Mexicanos destinaron 20 mil 238 pesos trimestrales a alimentos, bebidas y tabaco en 2025, igual a 34.9% de su gasto corriente monetario.",
+      "link": "https://www.reforma.com/destinan-para-alimentos-35-del-gasto-en-hogares/ar3285970",
+      "fecha": "01 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "La fórmula para crecer en México",
+      "resumen": "A 21 años de iniciar operaciones, el éxito de Mazda en México se ha apoyado en su equipo y la forma que sus valores se trasladan al producto",
+      "link": "https://www.reforma.com/la-formula-para-crecer-en-mexico/ar3286055",
+      "fecha": "01 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Arma Lego en NL su mayor juego",
+      "resumen": "Lego, la empresa danesa decidió apostar nuevamente por su complejo industrial en Ciénega de Flores.",
+      "link": "https://www.reforma.com/arma-lego-en-nl-su-mayor-juego/ar3286056",
+      "fecha": "01 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Opera dólar en $18.07, máximo en más de tres meses",
+      "resumen": "El dólar alcanzó su máximo en más de tres meses, de $18.0710, apoyado por una prolongada alza de los rendimientos de los bonos del Tesoro.",
+      "link": "https://www.reforma.com/opera-dolar-en-18-07-maximo-en-mas-de-tres-meses/ar3286207",
+      "fecha": "01 Oct 2026, 08:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Ven en caso Vulcan amenaza a EU",
       "resumen": "Incautación de instalaciones de Vulcan Materials es una amenaza para la seguridad económica de EU, acusan empresarios estadounidenses.",
       "link": "https://www.reforma.com/ven-en-caso-vulcan-amenaza-a-eu/ar3285925",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Volaris que dejará de operar en Aeropuerto de Tulum",
-      "resumen": "Volaris anunció que también dejará de operar en el Aeropuerto Internacional de Tulum, sumándose a Avianca, Copa Airlines y Aeroméxico.",
-      "link": "https://www.reforma.com/anuncia-volaris-que-dejara-de-operar-en-aeropuerto-de-tulum/ar3285875",
-      "fecha": "30 Sep 2026, 17:56 hrs"
+      "titulo": "Combatirían barrenador con mosca transgénica",
+      "resumen": "Autoridades en EU buscan que el Senasica autorice una versión genéticamente mejorada de la mosca estéril contra el gusano barrenador.",
+      "link": "https://www.reforma.com/combatirian-barrenador-con-mosca-transgenica/ar3286058",
+      "fecha": "01 Oct 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerdan, tras un año, levantar huelga en Monte de Piedad",
-      "resumen": "El Monte de Piedad y su sindicato de trabajadores llegaron a un acuerdo para dar fin a la huelga tras prácticamente un año, informó STPS.",
-      "link": "https://www.reforma.com/acuerdan-tras-un-ano-levantar-huelga-en-monte-de-piedad/ar3285843",
-      "fecha": "30 Sep 2026, 17:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén próximo acuerdo en acero",
-      "resumen": "México podría alcanzar un acuerdo sobre los actuales aranceles de 50 por ciento sobre las exportaciones mexicanas de acero, dijo la SE.",
-      "link": "https://www.reforma.com/preven-proximo-acuerdo-en-acero/ar3285836",
-      "fecha": "30 Sep 2026, 17:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen 23.6% ingresos por IEPS a gasolinas y diesel",
-      "resumen": "Recaudación del IEPS a gasolinas y diesel cayó 23.6% real anual en agosto de 2026 debido a los estímulos otorgados, reveló SHCP.",
-      "link": "https://www.reforma.com/caen-23-6-ingresos-por-ieps-a-gasolinas-y-diesel/ar3285784",
-      "fecha": "30 Sep 2026, 17:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "La gran zona gris de la IA en las empresas",
-      "resumen": "La IA es omnipresente. Es la conversación recurrente en toda sala de juntas, en toda sesión de consejo en las empresas.",
-      "link": "https://www.reforma.com/la-gran-zona-gris-de-la-ia-en-las-empresas/ar3285279",
-      "fecha": "30 Sep 2026, 07:04 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Retrocede ánimo para invertir en NL",
-      "resumen": "De acuerdo con la primera medición 2026 de Data Coparmex, en NL el \"ánimo para invertir\" se ubicó en 24%, menor al 41% de 2025.",
-      "link": "https://www.reforma.com/retrocede-animo-para-invertir-en-nl/ar3285759",
-      "fecha": "30 Sep 2026, 15:41 hrs"
+      "titulo": "Incrementa NL 25.5% sus exportaciones",
+      "resumen": "Durante el segundo trimestre del año, las exportaciones de Nuevo León crecieron 25.5% a tasa anual.",
+      "link": "https://www.reforma.com/incrementa-nl-25-5-sus-exportaciones/ar3286063",
+      "fecha": "01 Oct 2026, 07:03 hrs"
     }
   ]
 }
