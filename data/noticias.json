@@ -1,7 +1,34 @@
 {
-  "actualizado": "02/10/2026 12:59 hrs",
+  "actualizado": "02/10/2026 16:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bitso procesa 15% de las remesas de Estados Unidos a México",
+      "resumen": "La firma elevó su participación desde el más de 10% que reportaba en 2024 y utiliza activos digitales y stablecoins como infraestructura para mover dinero entre ambos países.",
+      "link": "https://expansion.mx/economia/2026/10/02/bitso-procesa-15-de-las-remesas-de-estados-unidos-a-mexico",
+      "fecha": "02 Oct 2026, 12:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "SAT extiende prórroga para Manifestación de Valor Electrónica; la obligación será escalonada",
+      "resumen": "Se extiende al 31 de octubre y de acuerdo al régimen aduanero al que se destinen las mercancías, se debe cumplir con este requisito que abona al combate a la subvaluación de mercancías en aduanas.",
+      "link": "https://expansion.mx/economia/2026/10/02/sat-prorroga-manifestacion-valor-electronica-octubre",
+      "fecha": "02 Oct 2026, 10:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sofipos buscan entrar a la adquirencia para competir por los pagos de comercios",
+      "resumen": "Las Sofipos buscan dejar de ser únicamente emisoras y ganar terreno en la aceptación de pagos. El sector asegura que ya tiene luz verde para entrar a la adquirencia.",
+      "link": "https://expansion.mx/economia/2026/10/02/sofipos-cnbv-adquirencia-pagos-comercios",
+      "fecha": "02 Oct 2026, 08:03 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Diputados aplican cambios contra el huachicol fiscal y aprueban en Comisión la reforma a Ley Aduanera",
-      "resumen": "El dictamen fue enviado a la Mesa Directiva de la Cámara de Diputados para que pueda ser discutida y votada en el pleno.",
-      "link": "https://expansion.mx/economia/2026/10/01/diputados-reforma-ley-aduanera-contra-huachicol-fiscal",
-      "fecha": "01 Oct 2026, 16:23 hrs"
+      "titulo": "Volkswagen y sindicato acuerdan incremento salarial de 13% luego de que trabajadores rechazaron una primera propuesta",
+      "resumen": "La negociación laboral llegó a un nuevo acuerdo después de que los trabajadores rechazaran la primera propuesta, mientras Volkswagen elimina un turno y enfrenta falta de componentes para Taos.",
+      "link": "https://expansion.mx/empresas/2026/10/02/volkswagen-sindicato-alza-salarial",
+      "fecha": "02 Oct 2026, 12:12 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sucursales de Monte de Piedad abrirán a partir de esta fecha tras acabarse la huelga: ¿qué pasará con los empeños?",
-      "resumen": "La huelga de Nacional Monte de Piedad terminó este miércoles 30 de septiembre, por lo que se anunció a partir de cuándo los clientes podrán acudir a las sucursales.",
-      "link": "https://expansion.mx/economia/2026/10/01/cuando-abren-sucursales-monte-piedad-fin-huelga",
-      "fecha": "01 Oct 2026, 13:04 hrs"
+      "titulo": "De Carlos Slim a Chico Pardo: los 10 empresarios más importantes de México según el ranking de Expansión 2026",
+      "resumen": "Telecomunicaciones, minería, banca, comercio e infraestructura concentran buena parte del poder empresarial que mueve la economía mexicana.",
+      "link": "https://expansion.mx/empresas/2026/10/02/100-empresarios-mas-importantes-de-mexico-2026",
+      "fecha": "02 Oct 2026, 11:48 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El SAT perdió 4,600 millones de pesos en IVA e impuestos especiales por huachicol fiscal",
-      "resumen": "Después de trabajo de 10 meses con Aduanas, la autoridad tributaria detectó 109,400 millones de litros de combustibles que no fueron declarados.",
-      "link": "https://expansion.mx/economia/2026/10/01/huachicol-fiscal-sat-4600-millones-iva-impuestos-especiales",
-      "fecha": "01 Oct 2026, 11:19 hrs"
+      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
+      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
+      "link": "https://expansion.mx/empresas/2026/10/02/carlos-slim-tres-plazas-comerciales-conectadas-metro",
+      "fecha": "02 Oct 2026, 09:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Santa Fe a Iztapalapa, estos son todos los terrenos de Televisa en CDMX; no todo es San Ángel y Chapultepec",
+      "resumen": "Detrás de sus estudios y oficinas hay un patrimonio inmobiliario millonario. Televisa conserva propiedades estratégicas y renta parte de ellas a otras empresas.",
+      "link": "https://expansion.mx/empresas/2026/10/02/televisa-tiene-tesoro-inmobiliario-cdmx-terrenos",
+      "fecha": "02 Oct 2026, 09:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim apuesta 4,000 mdp por Puebla: vivienda, comercios y nuevos espacios en una zona histórica",
+      "resumen": "El proyecto de Paseo San Francisco combinará vivienda, comercio y recuperación urbana, con obras previstas durante los próximos dos años.",
+      "link": "https://expansion.mx/empresas/2026/10/02/carlos-slim-transforma-centro-historico-puebla-4-000-mdp",
+      "fecha": "02 Oct 2026, 08:43 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,49 +147,40 @@
       "fecha": "01 Oct 2026, 17:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Producción petrolera de Pemex se desploma a su mes más bajo desde que se tiene registro",
-      "resumen": "La producción de petróleo crudo en el mes de agosto se redujo en un 2.7%, comparado con el mismo periodo del 2025, la menor cifra registrada en la base de datos de Pemex.",
-      "link": "https://expansion.mx/empresas/2026/09/30/produccion-petrolera-pemex-mas-baja-desde-que-hay-registro",
-      "fecha": "30 Sep 2026, 20:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Llama FMI a México a acelerar reducción de la deuda",
+      "resumen": "FMI urgió al País a mayores esfuerzos para bajar la deuda, por lo que llamó a considerar una consolidación fiscal más ambiciosa y acelerada.",
+      "link": "https://www.reforma.com/llama-fmi-a-mexico-a-acelerar-reduccion-de-la-deuda/ar3287202",
+      "fecha": "02 Oct 2026, 13:27 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Cansado del clutch? Estos hatchback, sedanes y SUV automáticos son los más accesibles en México",
-      "resumen": "Dejar atrás el clutch no necesariamente obliga a brincar a las versiones más caras. Entre los modelos de entrada hay diferencias importantes en precio, transmisión, seguridad y equipamiento.",
-      "link": "https://expansion.mx/empresas/2026/09/30/hatchback-sedanes-y-suv-automaticos-mas-accesibles-de-mexico",
-      "fecha": "30 Sep 2026, 17:09 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde peso 2.7% en la semana, su peor revés desde marzo",
+      "resumen": "El dólar retrocedió a $18.1561 este viernes, pero la moneda mexicana acumuló una pérdida de 2.7%, su peor desempeño semanal desde marzo.",
+      "link": "https://www.reforma.com/pierde-peso-2-7-en-la-semana-su-peor-reves-desde-marzo/ar3287272",
+      "fecha": "02 Oct 2026, 14:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "PROSER Grupo Constructor: 35 años construyendo confianza",
-      "resumen": "PROSER Grupo Constructor cuenta con dos divisiones de negocio, así como productos y servicios especializados para la industria de la construcción, con presencia en México y Centroamérica.",
-      "link": "https://expansion.mx/empresas/2026/09/30/proser-grupo-constructor-35-anos-construyendo-confianza",
-      "fecha": "30 Sep 2026, 16:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Darán resultados de auditoría de la FAA el 14 de octubre",
+      "resumen": "La Agencia Federal de Aviación de EU dará los primeros resultados de la auditoría a la aviación civil mexicana el 14 de octubre, dijo SICT.",
+      "link": "https://www.reforma.com/daran-resultados-de-auditoria-de-la-faa-el-14-de-octubre/ar3287240",
+      "fecha": "02 Oct 2026, 14:25 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cancelación de vuelos de Aeroméxico y Volaris al Aeropuerto de Tulum recrudece crisis turística en el destino",
-      "resumen": "La suspensión de vuelos de Aeroméxico y Volaris suma presión a Tulum, un destino que busca recuperar ocupación tras perder atractivo por sus precios y enfrentar mayor competencia internacional.",
-      "link": "https://expansion.mx/empresas/2026/09/30/tulum-aeromexico-volaris-suspenden-vuelos",
-      "fecha": "30 Sep 2026, 15:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Murió su hermano y Alberto Baillères cambió sus planes: terminó repartiendo cerveza en un camión",
-      "resumen": "Su padre, Don Raúl Baillères, le impuso una regla que marcaría su carrera: si quería dirigir una empresa, primero tenía que conocerla desde abajo.",
-      "link": "https://expansion.mx/empresas/2026/09/30/alberto-bailleres-vendedor-cerveza-cerveceria-moctezuma",
-      "fecha": "30 Sep 2026, 15:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra EU investigación sobre parásito de lechuga",
+      "resumen": "Autoridades alimentarias de EU anunciaron que concluyó la investigación sobre un brote parasitario en lechugas de la empresa Taylor Farms.",
+      "link": "https://www.reforma.com/cierra-eu-investigacion-sobre-parasito-de-lechuga/ar3287299",
+      "fecha": "02 Oct 2026, 15:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Detienen huelga en VW con convenio a 24 meses",
-      "resumen": "Tras negociaciones, el Sindicato de Volkswagen de México llegó a un convenio con la empresa para aplicar aumento al salario y prestaciones.",
-      "link": "https://www.reforma.com/detienen-huelga-en-vw-con-convenio-a-24-meses/ar3287152",
-      "fecha": "02 Oct 2026, 12:16 hrs"
+      "titulo": "Piden a llantera aplicar medidas para respetar vida sindical",
+      "resumen": "La empresa Corporación de Occidente, ubicada en Jalisco, deberá aplicar un plan de remediación para garantizar la libertad de asociación.",
+      "link": "https://www.reforma.com/piden-a-llantera-aplicar-medidas-para-respetar-vida-sindical/ar3287245",
+      "fecha": "02 Oct 2026, 14:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destinarán 15 mil mdp para navegación aérea en 15 años",
-      "resumen": "La SICT anunció un paquete de inversión y modernización del espacio aéreo nacional de 15 mil millones de pesos, con proyección a 15 años.",
-      "link": "https://www.reforma.com/destinaran-15-mil-mdp-para-navegacion-aerea-en-15-anos/ar3287163",
-      "fecha": "02 Oct 2026, 12:34 hrs"
+      "titulo": "Cierran precios del crudo semana con pérdidas",
+      "resumen": "El Brent bajó un 0.06% a 102.25 dólares el barril, mientras que el WTI cedió 1.9%, a 91.11 dólares, tras acuerdo de G7 de liberar reservas.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-semana-con-perdidas/ar3287247",
+      "fecha": "02 Oct 2026, 14:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene dólar leve retroceso a $18.18",
-      "resumen": "El tipo de cambio cotiza en $18.1849 por dólar, con un retroceso del 0.5% para el dólar, después de cuatro sesiones consecutivas de avances.",
-      "link": "https://www.reforma.com/tiene-dolar-leve-retroceso-a-18-18/ar3287041",
-      "fecha": "02 Oct 2026, 08:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Afecta a 2,500 cerdos el paso del huracán 'Polo' en Sonora",
-      "resumen": "El huracán 'Polo' afectó alrededor de 2 mil 500 cerdos listos para sacrificio, de la planta de Grupo Kowi.",
-      "link": "https://www.reforma.com/afecta-a-2-500-cerdos-el-paso-del-huracan-polo-en-sonora/ar3287179",
-      "fecha": "02 Oct 2026, 12:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pacta G7 liberar 100 millones de barriles de diésel y crudo",
-      "resumen": "Países del G7 recurrirán a sus reservas para liberar \"hasta 100 millones de barriles\" de diésel y crudo \"en los próximos cuatro meses\".",
-      "link": "https://www.reforma.com/pacta-g7-liberar-100-millones-de-barriles-de-diesel-y-crudo/ar3287054",
-      "fecha": "02 Oct 2026, 08:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "El Nasdaq toca máximo histórico tras débil dato de empleo",
-      "resumen": "Las acciones de EU subían y el índice Nasdaq tocó un máximo histórico, ante baja de probabilidades de un alza de las tasas de interés.",
-      "link": "https://www.reforma.com/el-nasdaq-toca-maximo-historico-tras-debil-dato-de-empleo/ar3287086",
-      "fecha": "02 Oct 2026, 09:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Promete Amazon invertir en ciudades con centros de datos",
-      "resumen": "Amazon se comprometió a entregar más de mil mdd durante cinco años a las comunidades de Estados Unidos que albergan sus centros de datos.",
-      "link": "https://www.reforma.com/promete-amazon-invertir-en-ciudades-con-centros-de-datos/ar3287148",
-      "fecha": "02 Oct 2026, 12:11 hrs"
+      "titulo": "Suben mercados de EU tras débil dato de empleo",
+      "resumen": "Este viernes, el Dow Jones avanzó un 0.5%, el índice Nasdaq ganó un 1.2% y el índice ampliado S&amp;P 500 subió un 0.7%.",
+      "link": "https://www.reforma.com/suben-mercados-de-eu-tras-debil-dato-de-empleo/ar3287259",
+      "fecha": "02 Oct 2026, 14:36 hrs"
     }
   ]
 }
