@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/10/2026 18:32 hrs",
+  "actualizado": "02/10/2026 00:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pemex pierde ingresos millonarios con el petróleo caro y sus exportaciones en mínimos",
-      "resumen": "La producción petrolera de Pemex tocó mínimos históricos en agosto, limitando su capacidad exportadora justo cuando el petróleo supera los 100 dólares por barril.",
-      "link": "https://expansion.mx/empresas/2026/10/01/pemex-pierde-ingresos-petroleo-caro-exportaciones-minimos",
-      "fecha": "01 Oct 2026, 17:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de que naciera Carlos Slim, Telcel ya tenía historia: comenzó con directorios y hoy genera 275,000 mdp",
-      "resumen": "La compañía que comenzó vinculada a los directorios telefónicos terminó en el centro del imperio de telecomunicaciones de Carlos Slim y hoy representa una parte clave de los ingresos de América Móvil.",
-      "link": "https://expansion.mx/empresas/2026/10/01/telcel-historia-carlos-slim-directorios-telefonicos",
-      "fecha": "01 Oct 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Producción petrolera de Pemex se desploma a su mes más bajo desde que se tiene registro",
       "resumen": "La producción de petróleo crudo en el mes de agosto se redujo en un 2.7%, comparado con el mismo periodo del 2025, la menor cifra registrada en la base de datos de Pemex.",
       "link": "https://expansion.mx/empresas/2026/09/30/produccion-petrolera-pemex-mas-baja-desde-que-hay-registro",
@@ -109,15 +91,6 @@
       "resumen": "Dejar atrás el clutch no necesariamente obliga a brincar a las versiones más caras. Entre los modelos de entrada hay diferencias importantes en precio, transmisión, seguridad y equipamiento.",
       "link": "https://expansion.mx/empresas/2026/09/30/hatchback-sedanes-y-suv-automaticos-mas-accesibles-de-mexico",
       "fecha": "30 Sep 2026, 17:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "PROSER Grupo Constructor: 35 años construyendo confianza",
-      "resumen": "PROSER Grupo Constructor cuenta con dos divisiones de negocio, así como productos y servicios especializados para la industria de la construcción, con presencia en México y Centroamérica.",
-      "link": "https://expansion.mx/empresas/2026/09/30/proser-grupo-constructor-35-anos-construyendo-confianza",
-      "fecha": "30 Sep 2026, 16:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,58 +120,94 @@
       "fecha": "30 Sep 2026, 14:52 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amplía SAT inicio de Manifestación de Valor Electrónica",
-      "resumen": "El SAT informó que el plazo para presentar la Manifestación de Valor Electrónica (MVE) se amplía al 31 de octubre de 2026.",
-      "link": "https://www.reforma.com/amplia-sat-inicio-de-manifestacion-de-valor-electronica/ar3286359",
-      "fecha": "01 Oct 2026, 12:47 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿De qué era empresario Jorge Kahwagi? De medios de comunicación hasta negocios de salud y verificentros",
+      "resumen": "Su trayectoria empresarial fue más amplia de lo que suele recordarse: ocupó cargos directivos, tuvo participación accionaria y encabezó organismos empresariales.",
+      "link": "https://expansion.mx/empresas/2026/09/30/jorge-kahwagi-empresas-cargos-carrera-empresarial",
+      "fecha": "30 Sep 2026, 12:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Emilio Azcárraga quería comprar Chivas, pero Jorge Vergara irrumpió cuando el club estaba en crisis",
+      "resumen": "Detrás de la venta del Guadalajara había una administración desgastada, problemas empresariales y una disputa que trascendería las canchas.",
+      "link": "https://expansion.mx/empresas/2026/09/29/emilio-azcarraga-queria-comprar-chivas",
+      "fecha": "29 Sep 2026, 15:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim no le perdona la renta ni a sus propias marcas: ¿por qué Sanborns, Sears y DAX pagan mensualmente?",
+      "resumen": "Liverpool, Chedraui, Soriana y Cinépolis también están entre los inquilinos de Inmuebles Carso, que administra un amplio portafolio de centros comerciales en México.",
+      "link": "https://expansion.mx/empresas/2026/09/29/carlos-slim-renta-sus-marcas-sanborns-sears-dax",
+      "fecha": "29 Sep 2026, 15:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube dólar a $18.37, máximo desde abril de 2025",
-      "resumen": "A media jornada, el tipo de cambio cotiza en $18.3740 por dólar, un máximo para la divisa estadounidense desde abril de 2025.",
-      "link": "https://www.reforma.com/sube-dolar-a-18-37-maximo-desde-abril-de-2025/ar3286363",
-      "fecha": "01 Oct 2026, 11:51 hrs"
+      "titulo": "Admite Aeroméxico robo de datos en 2025",
+      "resumen": "Aeroméxico informó a clientes que, durante un monitoreo el 18 de septiembre, identificó la venta de una base de datos a través de Telegram.",
+      "link": "https://www.reforma.com/admite-aeromexico-robo-de-datos-en-2025/ar3286811",
+      "fecha": "01 Oct 2026, 20:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen 3.6% remesas a México y rompen racha de 6 meses al alza",
-      "resumen": "Las remesas enviadas a México alcanzaron los 5 mil 452 millones de dólares en agosto, siendo 3.6% menores a las del octavo mes de 2025.",
-      "link": "https://www.reforma.com/caen-3-6-remesas-a-mexico-y-rompen-racha-de-6-meses-al-alza/ar3286260",
-      "fecha": "01 Oct 2026, 09:30 hrs"
+      "titulo": "Insiste Ebrard en que México tiene el mejor trato de EU",
+      "resumen": "Según el Secretario de Economía, Marcelo Ebrard, México mantiene el mejor trato comercial de parte de Estados Unidos.",
+      "link": "https://www.reforma.com/insiste-ebrard-en-que-mexico-tiene-el-mejor-trato-de-eu/ar3286637",
+      "fecha": "01 Oct 2026, 18:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncia Fibra Mty segunda oferta por Macquarie",
-      "resumen": "Fibra Mty lanzó una segunda OPA por hasta el 100% de los certificados bursátiles fiduciarios inmobiliarios de Fibra Macquarie México.",
-      "link": "https://www.reforma.com/anuncia-fibra-mty-segunda-oferta-por-macquarie/ar3286311",
-      "fecha": "01 Oct 2026, 11:22 hrs"
+      "titulo": "Prolonga PEF 2027 deterioro y desequilibrio fiscal.-IMEF",
+      "resumen": "Presupuesto de Egresos de la Federación 2027 no ataca las causas estructurales del deterioro y desequilibrio fiscal, señaló IMEF.",
+      "link": "https://www.reforma.com/prolonga-pef-2027-deterioro-y-desequilibrio-fiscal-imef/ar3286546",
+      "fecha": "01 Oct 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Caen cerca de 6% acciones de Nike tras incumplir previsiones",
+      "resumen": "Nike Inc reportó resultados peores de lo esperado, atribuyendo la situación a la debilidad en el mercado chino.",
+      "link": "https://www.reforma.com/caen-cerca-de-6-acciones-de-nike-tras-incumplir-previsiones/ar3286538",
+      "fecha": "01 Oct 2026, 14:54 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afirman en Disney que ola de despidos es para 'sobrevivir'",
+      "resumen": "La presidenta de Disney abordó el tema de los despidos y dijo que la reestructura constante es necesaria para supervivencia de la industria.",
+      "link": "https://www.reforma.com/afirman-en-disney-que-ola-de-despidos-es-para-sobrevivir/ar3286510",
+      "fecha": "01 Oct 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube 20% Mattel ante interés de compra de Authentic Brands",
+      "resumen": "Las acciones de Mattel subieron casi 20%, luego que el WSJ informara que Authentic Brands había expresado interés en comprar la compañía.",
+      "link": "https://www.reforma.com/sube-20-mattel-ante-interes-de-compra-de-authentic-brands/ar3286502",
+      "fecha": "01 Oct 2026, 14:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Inicia crudo Brent el mes con alza de 4.37%",
-      "resumen": "El barril de Brent del Mar del Norte aumentó 4.37%, a 102.31 dólares. Su equivalente estadounidense, el WTI, subió 2.71%, a 92.87 dólares.",
+      "resumen": "El barril de Brent del Mar del Norte aumentó 4.37%, a 102.31 dólares, mientras que el WTI subió 2.71%, a 92.87 dólares.",
       "link": "https://www.reforma.com/inicia-crudo-brent-el-mes-con-alza-de-4-37/ar3286497",
       "fecha": "01 Oct 2026, 14:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanza SpaceX tripulación a Estación Espacial Internacional",
-      "resumen": "SpaceX lanzó tripulación de 4 astronautas a la Estación Espacial Internacional, donde vivirán y trabajarán durante los próximos 6 meses.",
-      "link": "https://www.reforma.com/lanza-spacex-tripulacion-a-estacion-espacial-internacional/ar3286256",
-      "fecha": "01 Oct 2026, 09:25 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "David Jiménez asumió hoy como CEO Global de Softtek, con lo que concluye la transición de liderazgo anunciada en abril.",
       "link": "https://www.reforma.com/asume-nuevo-ceo-de-softtek/ar3286389",
       "fecha": "01 Oct 2026, 12:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Arma Lego en NL su mayor juego",
-      "resumen": "Lego, la empresa danesa decidió apostar nuevamente por su complejo industrial en Ciénega de Flores.",
-      "link": "https://www.reforma.com/arma-lego-en-nl-su-mayor-juego/ar3286056",
-      "fecha": "01 Oct 2026, 05:01 hrs"
     }
   ]
 }
