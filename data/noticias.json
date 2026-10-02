@@ -1,7 +1,16 @@
 {
-  "actualizado": "02/10/2026 00:43 hrs",
+  "actualizado": "02/10/2026 07:36 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México quiere diversificar sus exportaciones, pero menos empresas buscan nuevos mercados",
+      "resumen": "Aunque 58.4% de las compañías espera elevar sus ventas al exterior, las que planean exportar a más países cayeron de 56.5% a 48.3%.",
+      "link": "https://expansion.mx/economia/2026/10/02/mexico-exportaciones-fuera-eu-empresas-diversificacion",
+      "fecha": "02 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Usuarios abandonan el seguro de gastos médicos y buscan atención en el servicio público de salud",
-      "resumen": "El alza constante en primas e inflación médica agota el presupuesto de personas y empresas, reduciendo al límite las opciones para acceder a hospitales privados.",
-      "link": "https://expansion.mx/economia/2026/10/01/usuarios-cancelan-polizas-aumento-precio-gastos-medicos",
-      "fecha": "01 Oct 2026, 10:36 hrs"
+      "titulo": "CBX convierte el cruce Tijuana-San Diego en un negocio de 4 millones de pasajeros",
+      "resumen": "El puente cobra por el cruce y suma transporte, renta de autos y servicios para viajeros; ahora busca expandirse con GAP tras una década de crecimiento.",
+      "link": "https://expansion.mx/empresas/2026/10/02/cruzar-tijuana-san-diego-menos-600-pesos-cbx-ahorra-tiempo",
+      "fecha": "02 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex pierde ingresos millonarios con el petróleo caro y sus exportaciones en mínimos",
+      "resumen": "La producción petrolera de Pemex tocó mínimos históricos en agosto, limitando su capacidad exportadora justo cuando el petróleo supera los 100 dólares por barril.",
+      "link": "https://expansion.mx/empresas/2026/10/01/pemex-pierde-ingresos-petroleo-caro-exportaciones-minimos",
+      "fecha": "01 Oct 2026, 17:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de que naciera Carlos Slim, Telcel ya tenía historia: comenzó con directorios y hoy genera 275,000 mdp",
+      "resumen": "La compañía que comenzó vinculada a los directorios telefónicos terminó en el centro del imperio de telecomunicaciones de Carlos Slim y hoy representa una parte clave de los ingresos de América Móvil.",
+      "link": "https://expansion.mx/empresas/2026/10/01/telcel-historia-carlos-slim-directorios-telefonicos",
+      "fecha": "01 Oct 2026, 17:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -96,6 +123,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "PROSER Grupo Constructor: 35 años construyendo confianza",
+      "resumen": "PROSER Grupo Constructor cuenta con dos divisiones de negocio, así como productos y servicios especializados para la industria de la construcción, con presencia en México y Centroamérica.",
+      "link": "https://expansion.mx/empresas/2026/09/30/proser-grupo-constructor-35-anos-construyendo-confianza",
+      "fecha": "30 Sep 2026, 16:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Cancelación de vuelos de Aeroméxico y Volaris al Aeropuerto de Tulum recrudece crisis turística en el destino",
       "resumen": "La suspensión de vuelos de Aeroméxico y Volaris suma presión a Tulum, un destino que busca recuperar ocupación tras perder atractivo por sus precios y enfrentar mayor competencia internacional.",
       "link": "https://expansion.mx/empresas/2026/09/30/tulum-aeromexico-volaris-suspenden-vuelos",
@@ -111,112 +147,76 @@
       "fecha": "30 Sep 2026, 15:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Valor de Educar: de programa de becas a trampolín profesional para 8,500 jóvenes mexicanos",
-      "resumen": "En entrevista, Nina Mayagoitia, VP de comunicación de Constellation Brands, explica cómo su programa de becas evolucionó hasta convertirse en un acompañamiento integral.",
-      "link": "https://expansion.mx/empresas/2026/09/30/el-valor-de-educar-de-programa-de-becas-a-trampolin-profesional-para-8-500-jovenes-mexicanos",
-      "fecha": "30 Sep 2026, 14:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿De qué era empresario Jorge Kahwagi? De medios de comunicación hasta negocios de salud y verificentros",
-      "resumen": "Su trayectoria empresarial fue más amplia de lo que suele recordarse: ocupó cargos directivos, tuvo participación accionaria y encabezó organismos empresariales.",
-      "link": "https://expansion.mx/empresas/2026/09/30/jorge-kahwagi-empresas-cargos-carrera-empresarial",
-      "fecha": "30 Sep 2026, 12:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Emilio Azcárraga quería comprar Chivas, pero Jorge Vergara irrumpió cuando el club estaba en crisis",
-      "resumen": "Detrás de la venta del Guadalajara había una administración desgastada, problemas empresariales y una disputa que trascendería las canchas.",
-      "link": "https://expansion.mx/empresas/2026/09/29/emilio-azcarraga-queria-comprar-chivas",
-      "fecha": "29 Sep 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim no le perdona la renta ni a sus propias marcas: ¿por qué Sanborns, Sears y DAX pagan mensualmente?",
-      "resumen": "Liverpool, Chedraui, Soriana y Cinépolis también están entre los inquilinos de Inmuebles Carso, que administra un amplio portafolio de centros comerciales en México.",
-      "link": "https://expansion.mx/empresas/2026/09/29/carlos-slim-renta-sus-marcas-sanborns-sears-dax",
-      "fecha": "29 Sep 2026, 15:08 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Devuelve el SAT 13% menos de IVA",
+      "resumen": "Las devoluciones del IVA cayeron 12.8% anual de enero a julio de este año, muestran datos del Servicio de Administración Tributaria.",
+      "link": "https://www.reforma.com/devuelve-el-sat-13-menos-de-iva/ar3286927",
+      "fecha": "02 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Admite Aeroméxico robo de datos en 2025",
-      "resumen": "Aeroméxico informó a clientes que, durante un monitoreo el 18 de septiembre, identificó la venta de una base de datos a través de Telegram.",
-      "link": "https://www.reforma.com/admite-aeromexico-robo-de-datos-en-2025/ar3286811",
-      "fecha": "01 Oct 2026, 20:15 hrs"
+      "titulo": "Preocupa a IP regia sobrecosto de casas de 4T",
+      "resumen": "El costo para construir las \"Viviendas del Bienestar\" en NL, preocupa a la Canadevi ya que podría no ser rentable para los desarrolladores.",
+      "link": "https://www.reforma.com/preocupa-a-ip-regia-sobrecosto-de-casas-de-4t/ar3286880",
+      "fecha": "02 Oct 2026, 07:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Insiste Ebrard en que México tiene el mejor trato de EU",
-      "resumen": "Según el Secretario de Economía, Marcelo Ebrard, México mantiene el mejor trato comercial de parte de Estados Unidos.",
-      "link": "https://www.reforma.com/insiste-ebrard-en-que-mexico-tiene-el-mejor-trato-de-eu/ar3286637",
-      "fecha": "01 Oct 2026, 18:28 hrs"
+      "titulo": "Ven 'efecto dominó' con Tulum",
+      "resumen": "Suspensión de vuelos hacia el Aeropuerto Internacional de Tulum prende alertas sobre conectividad el Caribe mexicano, señalan especialistas.",
+      "link": "https://www.reforma.com/ven-efecto-domino-con-tulum/ar3286822",
+      "fecha": "02 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prolonga PEF 2027 deterioro y desequilibrio fiscal.-IMEF",
-      "resumen": "Presupuesto de Egresos de la Federación 2027 no ataca las causas estructurales del deterioro y desequilibrio fiscal, señaló IMEF.",
-      "link": "https://www.reforma.com/prolonga-pef-2027-deterioro-y-desequilibrio-fiscal-imef/ar3286546",
-      "fecha": "01 Oct 2026, 19:27 hrs"
+      "titulo": "Enfrenta País paradoja fiscal",
+      "resumen": "Aunque la recaudación tributaria en México alcanzó un máximo histórico, los balances fiscales del País muestran un deterioro relevante.",
+      "link": "https://www.reforma.com/enfrenta-pais-paradoja-fiscal/ar3286873",
+      "fecha": "02 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen cerca de 6% acciones de Nike tras incumplir previsiones",
-      "resumen": "Nike Inc reportó resultados peores de lo esperado, atribuyendo la situación a la debilidad en el mercado chino.",
-      "link": "https://www.reforma.com/caen-cerca-de-6-acciones-de-nike-tras-incumplir-previsiones/ar3286538",
-      "fecha": "01 Oct 2026, 14:54 hrs"
+      "titulo": "Sufre obra en NL bajón en 6 años",
+      "resumen": "El valor de la construcción de obras privadas en NL fue de $36 mil 931 millones de enero a julio, una caída del 8%, la peor desde el 2020.",
+      "link": "https://www.reforma.com/sufre-obra-en-nl-bajon-en-6-anos/ar3286919",
+      "fecha": "02 Oct 2026, 07:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirman en Disney que ola de despidos es para 'sobrevivir'",
-      "resumen": "La presidenta de Disney abordó el tema de los despidos y dijo que la reestructura constante es necesaria para supervivencia de la industria.",
-      "link": "https://www.reforma.com/afirman-en-disney-que-ola-de-despidos-es-para-sobrevivir/ar3286510",
-      "fecha": "01 Oct 2026, 14:34 hrs"
+      "titulo": "Crea EU solo 29 mil empleos en septiembre",
+      "resumen": "El empleo no agrícola en EU aumentó en 29 mil puestos de trabajo el mes pasado, mientras la tasa de desempleo subió al 4.2%",
+      "link": "https://www.reforma.com/crea-eu-solo-29-mil-empleos-en-septiembre/ar3287019",
+      "fecha": "02 Oct 2026, 07:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube 20% Mattel ante interés de compra de Authentic Brands",
-      "resumen": "Las acciones de Mattel subieron casi 20%, luego que el WSJ informara que Authentic Brands había expresado interés en comprar la compañía.",
-      "link": "https://www.reforma.com/sube-20-mattel-ante-interes-de-compra-de-authentic-brands/ar3286502",
-      "fecha": "01 Oct 2026, 14:21 hrs"
+      "titulo": "Cae crudo más de 2% y Brent baja de los 100 dólares",
+      "resumen": "El crudo caía más de 2% tras conversaciones sobre nuevas liberaciones de reservas de gasóleo y petróleo.",
+      "link": "https://www.reforma.com/cae-crudo-mas-de-2-y-brent-baja-de-los-100-dolares/ar3287022",
+      "fecha": "02 Oct 2026, 07:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Inicia crudo Brent el mes con alza de 4.37%",
-      "resumen": "El barril de Brent del Mar del Norte aumentó 4.37%, a 102.31 dólares, mientras que el WTI subió 2.71%, a 92.87 dólares.",
-      "link": "https://www.reforma.com/inicia-crudo-brent-el-mes-con-alza-de-4-37/ar3286497",
-      "fecha": "01 Oct 2026, 14:16 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Asume nuevo CEO de Softtek",
-      "resumen": "David Jiménez asumió hoy como CEO Global de Softtek, con lo que concluye la transición de liderazgo anunciada en abril.",
-      "link": "https://www.reforma.com/asume-nuevo-ceo-de-softtek/ar3286389",
-      "fecha": "01 Oct 2026, 12:36 hrs"
+      "titulo": "Bajan expectativas en la manufactura",
+      "resumen": "expectativas empresariales del sector manufacturero en producción y exportaciones vieron en septiembre una caída de 4.3 puntos.",
+      "link": "https://www.reforma.com/bajan-expectativas-en-la-manufactura/ar3286875",
+      "fecha": "02 Oct 2026, 05:01 hrs"
     }
   ]
 }
