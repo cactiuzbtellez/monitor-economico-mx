@@ -1,5 +1,5 @@
 {
-  "actualizado": "03/10/2026 01:38 hrs",
+  "actualizado": "03/10/2026 07:04 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Parque Tepeyac, la plaza con acuario, y quiénes son las personas de las estatuas en lo alto?",
+      "resumen": "El centro comercial abrió en 2022 y forma parte del portafolio de una de las principales fibras inmobiliarias del país. Conoce su historia, oferta y las esculturas que llaman la atención.",
+      "link": "https://expansion.mx/empresas/2026/10/02/quien-es-el-dueno-de-parque-tepeyac-y-sus-estatuas",
+      "fecha": "02 Oct 2026, 18:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "OXIO tiene seis meses para cerrar la compra de Telefónica y quedarse con los 21 millones de usuarios de Movistar",
+      "resumen": "La CNA autorizó la concentración al considerar que existen pocas probabilidades de que afecte la competencia económica, pero Oxio y Telefónica tienen seis meses para concretar la operación.",
+      "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
+      "fecha": "02 Oct 2026, 16:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Walmart, Soriana y Chedraui cambian sus tiendas para mejorar la experiencia de los clientes que les compran en línea",
       "resumen": "Las principales cadenas de supermercados avanzan con modelos distintos en comercio electrónico, pero coinciden en usar sus tiendas como parte de la infraestructura para preparar y entregar pedidos.",
       "link": "https://expansion.mx/empresas/2026/10/02/walmart-soriana-y-chedraui-cambian-sus-tiendas-para-mejorar-la-experiencia-de-los-clientes-que-les-compran-en-linea",
@@ -129,22 +147,22 @@
       "fecha": "02 Oct 2026, 08:43 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "CBX convierte el cruce Tijuana-San Diego en un negocio de 4 millones de pasajeros",
-      "resumen": "El puente cobra por el cruce y suma transporte, renta de autos y servicios para viajeros; ahora busca expandirse con GAP tras una década de crecimiento.",
-      "link": "https://expansion.mx/empresas/2026/10/02/cruzar-tijuana-san-diego-menos-600-pesos-cbx-ahorra-tiempo",
-      "fecha": "02 Oct 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Nike recuperar furor por Jordan",
+      "resumen": "Apuesta por Michael Jordan en 1984 se presenta en la película \"Air\" como un momento decisivo para Nike que actualmente enfrenta problemas.",
+      "link": "https://www.reforma.com/busca-nike-recuperar-furor-por-jordan/ar3287496",
+      "fecha": "03 Oct 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex pierde ingresos millonarios con el petróleo caro y sus exportaciones en mínimos",
-      "resumen": "La producción petrolera de Pemex tocó mínimos históricos en agosto, limitando su capacidad exportadora justo cuando el petróleo supera los 100 dólares por barril.",
-      "link": "https://expansion.mx/empresas/2026/10/01/pemex-pierde-ingresos-petroleo-caro-exportaciones-minimos",
-      "fecha": "01 Oct 2026, 17:57 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ofrece Argentina visa dorada por Dls. 350,000",
+      "resumen": "El gobierno argentino presentó ayer en París un pasaporte dorado con un costo de 350 mil dólares con el objetivo de atraer inversión.",
+      "link": "https://www.reforma.com/ofrece-argentina-visa-dorada-por-dls-350-000/ar3287490",
+      "fecha": "03 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Certificación en materia de prevención de operaciones con recursos de procedencia ilícita se llevará a cabo durante 2027, informó SHCP.",
       "link": "https://www.reforma.com/dara-uif-certificacion-de-actividades-vulnerables-en-2027/ar3287308",
       "fecha": "02 Oct 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Invertirá Anthropic 100 mdd en capacitar a ingenieros de IA",
-      "resumen": "Anthropic invertirá 100 mdd en un programa para capacitar a ingenieros de inteligencia artificial talentosos.",
-      "link": "https://www.reforma.com/invertira-anthropic-100-mdd-en-capacitar-a-ingenieros-de-ia/ar3287307",
-      "fecha": "02 Oct 2026, 15:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra EU investigación sobre parásito de lechuga",
-      "resumen": "Autoridades alimentarias de EU anunciaron que concluyó la investigación sobre un brote parasitario en lechugas de la empresa Taylor Farms.",
-      "link": "https://www.reforma.com/cierra-eu-investigacion-sobre-parasito-de-lechuga/ar3287299",
-      "fecha": "02 Oct 2026, 15:51 hrs"
     }
   ]
 }
