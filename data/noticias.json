@@ -1,16 +1,7 @@
 {
-  "actualizado": "03/10/2026 22:33 hrs",
+  "actualizado": "04/10/2026 04:55 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vs. Estados Unidos: así está el marcador económico entre los dos países",
-      "resumen": "Mientras las selecciones de futbol de México y Estados Unidos se enfrentan este sábado, sus economías mantienen una relación comercial por un monto que supera los 870,000 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/10/03/mexico-vs-estados-unidos-marcador-economico",
-      "fecha": "03 Oct 2026, 15:06 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "El banco cambiará el horario de sus más de 1,500 sucursales en México y abrirá más tarde entre semana.",
       "link": "https://expansion.mx/economia/2026/10/02/bbva-cambia-de-horario-sucursales",
       "fecha": "02 Oct 2026, 13:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bitso procesa 15% de las remesas de Estados Unidos a México",
+      "resumen": "La firma elevó su participación desde el más de 10% que reportaba en 2024 y utiliza activos digitales y stablecoins como infraestructura para mover dinero entre ambos países.",
+      "link": "https://expansion.mx/economia/2026/10/02/bitso-procesa-15-de-las-remesas-de-estados-unidos-a-mexico",
+      "fecha": "02 Oct 2026, 12:40 hrs"
     },
     {
       "fuente": "Expansión",
