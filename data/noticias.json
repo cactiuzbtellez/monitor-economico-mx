@@ -1,7 +1,16 @@
 {
-  "actualizado": "04/10/2026 16:46 hrs",
+  "actualizado": "04/10/2026 19:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
+      "resumen": "Los negocios que comenzaron a utilizar una terminal en enero han incrementado 68% su transaccionalidad con tarjeta, de acuerdo con Visa.",
+      "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
+      "fecha": "04 Oct 2026, 15:10 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El FMI pide acelerar el ajuste fiscal para reducir la deuda y reforzar el mensaje de Banxico: el rango de variabilidad de la inflación no es un rango de tolerancia",
       "link": "https://expansion.mx/economia/2026/10/02/fmi-mexico-ajuste-fiscal-inflacion-banxico",
       "fecha": "02 Oct 2026, 14:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "BBVA recorta media hora la atención en sucursales a partir del 5 de octubre",
-      "resumen": "El banco cambiará el horario de sus más de 1,500 sucursales en México y abrirá más tarde entre semana.",
-      "link": "https://expansion.mx/economia/2026/10/02/bbva-cambia-de-horario-sucursales",
-      "fecha": "02 Oct 2026, 13:21 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Samuel a 5 años: así va en economía",
+      "resumen": "Compara el desempeño económico de Samuel García con el de los últimos tres Gobernadores de NL al llegar a su quinto año.",
+      "link": "https://www.reforma.com/samuel-a-5-anos-asi-va-en-economia/ar3287749",
+      "fecha": "04 Oct 2026, 17:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reducen la proyección de crecimiento potencial",
+      "resumen": "Tras acumular años de muy baja expansión del PIB, analistas ya empezaron a reducir sus estimaciones del crecimiento potencial del País.",
+      "link": "https://www.reforma.com/reducen-la-proyeccion-de-crecimiento-potencial/ar3287558",
+      "fecha": "03 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Busca Nike recuperar furor por Jordan",
       "resumen": "Apuesta por Michael Jordan en 1984 se presenta en la película \"Air\" como un momento decisivo para Nike que actualmente enfrenta problemas.",
       "link": "https://www.reforma.com/busca-nike-recuperar-furor-por-jordan/ar3287496",
@@ -198,24 +216,6 @@
       "titulo": "Reconoció EU combate a trabajo forzoso; no elimina aranceles",
       "resumen": "EU reconoció que México enfrenta el trabajo forzoso, pero eso no implicó la eliminación de aranceles.",
       "link": "https://www.reforma.com/reconocio-eu-combate-a-trabajo-forzoso-no-elimina-aranceles/ar3287338",
-      "fecha": "02 Oct 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recorre SE a noviembre obligación de permiso azucarero",
-      "resumen": "Secretaría de Economía informó que aplazará al 2 de noviembre la obligación de contar con un permiso previo para la importación de azúcar.",
-      "link": "https://www.reforma.com/recorre-se-a-noviembre-obligacion-de-permiso-azucarero/ar3287319",
-      "fecha": "02 Oct 2026, 17:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dará UIF certificación de actividades vulnerables en 2027",
-      "resumen": "Certificación en materia de prevención de operaciones con recursos de procedencia ilícita se llevará a cabo durante 2027, informó SHCP.",
-      "link": "https://www.reforma.com/dara-uif-certificacion-de-actividades-vulnerables-en-2027/ar3287308",
       "fecha": "02 Oct 2026, 17:26 hrs"
     }
   ]
