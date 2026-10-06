@@ -1,25 +1,7 @@
 {
-  "actualizado": "05/10/2026 17:55 hrs",
+  "actualizado": "05/10/2026 23:09 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nafin quiere apoyar a más MiPymes y coloca 9,750 mdp como parte del Plan México",
-      "resumen": "Nafin realizó su tercera colocación de certificados en el mercado nacional en 2026. Sostiene que la emisión está respaldada por la solidez de sus indicadores.",
-      "link": "https://expansion.mx/economia/2026/10/05/nafin-quiere-apoyar-a-mas-mipymes-y-coloca-9-750-mdp-como-parte-del-plan-mexico",
-      "fecha": "05 Oct 2026, 14:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Falta de sanciones en su diseño amenaza la efectividad de la Ley de Economía Digital",
-      "resumen": "Con la inminente aprobación de la iniciativa del Ejecutivo, especialistas destacan que el nuevo marco legal ayudará a la trazabilidad y disminuir delitos como el robo de combustible en el país",
-      "link": "https://expansion.mx/economia/2026/10/05/ante-falta-de-sanciones-en-su-diseno-ley-de-economia-digital-puede-enfrentar-retos-en-su-implementacion",
-      "fecha": "05 Oct 2026, 14:17 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,39 +58,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Carlos Slim tiene el estacionamiento más grande de México: le gana al AICM, Estadio Azteca y Centro Santa Fe",
-      "resumen": "El empresario construyó bajo tierra una enorme infraestructura para atender la demanda de visitantes de uno de sus desarrollos más emblemáticos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/carlos-slim-estacionamiento-mas-grande-de-mexico",
-      "fecha": "05 Oct 2026, 16:24 hrs"
+      "titulo": "La UIF iniciará certificación en prevención de lavado de dinero en 2027",
+      "resumen": "Quienes realizan Actividades Vulnerables como juegos con apuesta; venta de joyas, obras de arte, vehículos aéreos, marítimos o terrestres, conocerán la convocatoria con un tiempo prudente, aseveró Hac…",
+      "link": "https://expansion.mx/economia/2026/10/02/uif-hacienda-certificacion-prevencion-lavado-dinero-2027",
+      "fecha": "02 Oct 2026, 16:28 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "March y Kwid no son los únicos: estos autos nuevos cuestan menos de 300,000 pesos",
-      "resumen": "Varias marcas mantienen modelos nuevos dentro del presupuesto y algunas permiten mejorar seguridad, tecnología o transmisión sin rebasarlo.",
-      "link": "https://expansion.mx/empresas/2026/10/05/auto-nuevos-por-menos-de-300-000-pesos",
-      "fecha": "05 Oct 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué empresas serán las más afectadas por la jornada de 40 horas y por qué tendrán que cambiar?",
-      "resumen": "Siete de cada diez empresas admiten que no están listas para la reducción laboral. Especialistas revelan cómo la tecnología y la planeación de la demanda evitarán una crisis de costos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/jornada-40-horas-estrategia-empresas-cambios",
-      "fecha": "05 Oct 2026, 15:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Plan México incentiva a la farmacéutica Adium a expandir capacidad industrial e investigación local",
-      "resumen": "La empresa ve espacio para aumentar su participación en investigación clínica mediante acuerdos con sus socios licenciantes y, al mismo tiempo, fortalecer la producción local de medicamentos sólidos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/asofarma-adium-investigacion-produccion-mexico",
-      "fecha": "05 Oct 2026, 15:10 hrs"
+      "titulo": "Adultos mayores se enfrentan a seguros de gastos médicos más caros en México",
+      "resumen": "En este año se han reportado incrementos de hasta 80% en las pólizas para atención médica privada, afectando principalmente a la población mayor de 65 años",
+      "link": "https://expansion.mx/economia/2026/10/02/adultos-mayores-se-enfrentan-a-seguros-de-gastos-medicos-mayores-mas-caros-en-mexico",
+      "fecha": "02 Oct 2026, 15:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +109,60 @@
       "resumen": "La CNA autorizó la concentración al considerar que existen pocas probabilidades de que afecte la competencia económica, pero Oxio y Telefónica tienen seis meses para concretar la operación.",
       "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
       "fecha": "02 Oct 2026, 16:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Walmart, Soriana y Chedraui cambian sus tiendas para mejorar la experiencia de los clientes que les compran en línea",
+      "resumen": "Las principales cadenas de supermercados avanzan con modelos distintos en comercio electrónico, pero coinciden en usar sus tiendas como parte de la infraestructura para preparar y entregar pedidos.",
+      "link": "https://expansion.mx/empresas/2026/10/02/walmart-soriana-y-chedraui-cambian-sus-tiendas-para-mejorar-la-experiencia-de-los-clientes-que-les-compran-en-linea",
+      "fecha": "02 Oct 2026, 13:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Volkswagen y sindicato acuerdan incremento salarial de 13% luego de que trabajadores rechazaron una primera propuesta",
+      "resumen": "La negociación laboral llegó a un nuevo acuerdo después de que los trabajadores rechazaran la primera propuesta, mientras Volkswagen elimina un turno y enfrenta falta de componentes para Taos.",
+      "link": "https://expansion.mx/empresas/2026/10/02/volkswagen-sindicato-alza-salarial",
+      "fecha": "02 Oct 2026, 12:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Carlos Slim a Chico Pardo: los 10 empresarios más importantes de México según el ranking de Expansión 2026",
+      "resumen": "Telecomunicaciones, minería, banca, comercio e infraestructura concentran buena parte del poder empresarial que mueve la economía mexicana.",
+      "link": "https://expansion.mx/empresas/2026/10/02/100-empresarios-mas-importantes-de-mexico-2026",
+      "fecha": "02 Oct 2026, 11:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
+      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
+      "link": "https://expansion.mx/empresas/2026/10/02/carlos-slim-tres-plazas-comerciales-conectadas-metro",
+      "fecha": "02 Oct 2026, 09:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Arranca EU nueva ronda de consultas sobre T-MEC",
+      "resumen": "USTR recibirá consultas y comentarios públicos sobre T-MEC entre este mes y el próximo 12 de enero previo a revisión con México y Canadá.",
+      "link": "https://www.reforma.com/arranca-eu-nueva-ronda-de-consultas-sobre-t-mec/ar3288812",
+      "fecha": "05 Oct 2026, 18:48 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Estamos cerca de lograr acuerdo con EU.-CCE",
+      "resumen": "México ha avanzado tanto en la revisión del T-MEC que está cerca de lograr un acuerdo con Estados Unidos, aseguró CCE.",
+      "link": "https://www.reforma.com/estamos-cerca-de-lograr-acuerdo-con-eu-cce/ar3288754",
+      "fecha": "05 Oct 2026, 17:25 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "El tipo de cambio cotizaba en $18.0685 por dólar, con una ganancia del 0.42% para la moneda mexicana frente al precio del viernes.",
       "link": "https://www.reforma.com/liga-dolar-segundo-retroceso-baja-a-18-06/ar3288458",
       "fecha": "05 Oct 2026, 08:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Proponen modificar cobro a las Afores",
-      "resumen": "Hacienda busca reducir 39.2 por ciento el factor con el que se calculan los derechos de inspección y vigilancia que pagan las Afores",
-      "link": "https://www.reforma.com/proponen-modificar-cobro-a-las-afores/ar3288246",
-      "fecha": "05 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierran precios del crudo con baja cercana a 2%",
-      "resumen": "Los precios del crudo cerraron a la baja tras un aumento de las exportaciones desde Medio Oriente y el compromiso del G7 de elevar la oferta",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-baja-cercana-a-2/ar3288602",
-      "fecha": "05 Oct 2026, 12:53 hrs"
     }
   ]
 }
