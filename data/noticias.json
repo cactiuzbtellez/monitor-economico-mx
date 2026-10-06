@@ -1,25 +1,7 @@
 {
-  "actualizado": "06/10/2026 06:50 hrs",
+  "actualizado": "06/10/2026 12:47 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banco de México destaca respaldo del FMI y descarta alarma por depreciación del peso",
-      "resumen": "El subgobernador Omar Mejía resaltó la confianza de organismos multilaterales, aunque el organismo prevé una convergencia más lenta de la inflación hacia la meta de 3% hasta 2028.",
-      "link": "https://expansion.mx/economia/2026/10/05/omar-mejia-banxico-fmi-inflacion-2028",
-      "fecha": "05 Oct 2026, 21:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Querétaro, Cancún y Los Cabos crecen, pero falta vivienda para sus trabajadores",
-      "resumen": "El empleo crece en nuevos polos industriales y turísticos, pero la vivienda accesible no alcanza para los trabajadores que llegan atraídos por esas oportunidades.",
-      "link": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
-      "fecha": "05 Oct 2026, 18:21 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +55,24 @@
       "resumen": "El servicio mantendrá la continuidad de sus operaciones con normalidad para procesar y liquidar todas las transacciones que se realicen hasta el 20 de noviembre del presente año, informó el banco cent…",
       "link": "https://expansion.mx/economia/2026/10/02/banxico-cierre-programa-directo-a-mexico",
       "fecha": "02 Oct 2026, 18:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bancos en México refuerzan prevención de lavado de dinero ante mayores exigencias de EU en combate a cárteles",
+      "resumen": "\"Cuando les quitamos el dinero, les pegamos en el corazón de sus redes criminales”, dijo ante el sector bancario en septiembre pasado el embajador de Estados Unidos en México, Ronald Johnson.",
+      "link": "https://expansion.mx/economia/2026/10/02/bancos-en-mexico-refuerzan-prevencion-de-lavado-de-dinero-ante-mayores-exigencias-de-eu-en-combate-a-carteles",
+      "fecha": "02 Oct 2026, 18:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El diésel inicia octubre sin IEPS, mientras Hacienda reporta caídas en su recaudación",
+      "resumen": "Para la semana del 3 al 9 de octubre, las cuotas IEPS para las gasolinas serán mayores y continuará el estímulo complementario para el diésel, que acumula un mes sin el impuesto",
+      "link": "https://expansion.mx/economia/2026/10/02/diesel-gasolinas-ieps-hacienda-cae-recaudacion",
+      "fecha": "02 Oct 2026, 17:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Perderían más de 7 mmdp diarios por desabasto de diesel",
+      "resumen": "En caso de que Estados Unidos deje de exportar diesel, se perderían 7 mil 194 mdp diarios, dijo la Canacar.",
+      "link": "https://www.reforma.com/perderian-mas-de-7-mmdp-diarios-por-desabasto-de-diesel/ar3289196",
+      "fecha": "06 Oct 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sube 34.2% exportación de México a EU; impone marca en monto",
+      "resumen": "Por quinto mes, las exportaciones del País a EU tuvieron una tasa de crecimiento anual de dos dígitos, al avanzar 34.2 por ciento en agosto.",
+      "link": "https://www.reforma.com/sube-34-2-exportacion-de-mexico-a-eu-impone-marca-en-monto/ar3289166",
+      "fecha": "06 Oct 2026, 10:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Eleva BM previsión de crecimiento de México en 2026 y 2027",
+      "resumen": "El Banco Mundial elevó marginalmente sus previsiones de crecimiento para el PIB de México de 1.3 a 1.4% este año y de 1.7 a 1.8% en 2027.",
+      "link": "https://www.reforma.com/eleva-bm-prevision-de-crecimiento-de-mexico-en-2026-y-2027/ar3289112",
+      "fecha": "06 Oct 2026, 09:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "'Oxigena' a economía Presupuesto 2027",
       "resumen": "Proyecto de Presupuesto le da a México oxígeno para 18 meses y mantener el grado de inversión, aseguró José Medina Mora, presidente de CCE.",
       "link": "https://www.reforma.com/oxigena-a-economia-presupuesto-2027/ar3288939",
@@ -159,46 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Impulsa inflación a marcas propias",
-      "resumen": "La inflación está llevando a más consumidores mexicanos a cambiar de marca para reducir el gasto de la despensa.",
-      "link": "https://www.reforma.com/impulsa-inflacion-a-marcas-propias/ar3288933",
-      "fecha": "06 Oct 2026, 05:01 hrs"
+      "titulo": "Regresa dólar a niveles por debajo de los $18.00",
+      "resumen": "El peso mexicano se negociaba en 17.9291 unidades, con una ganancia del 0.8% frente al dólar, y ligaba su tercer avance consecutivo.",
+      "link": "https://www.reforma.com/regresa-dolar-a-niveles-por-debajo-de-los-18-00/ar3289075",
+      "fecha": "06 Oct 2026, 08:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide EU trato igual en competencia",
-      "resumen": "Federal Trade Commission (FTC) de EU solicitó que en el País haya un trato igualitario para las empresas americanas frente a las mexicanas.",
-      "link": "https://www.reforma.com/pide-eu-trato-igual-en-competencia/ar3288928",
-      "fecha": "06 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Habrían aumentado 5% 'ninis' en México",
-      "resumen": "Al cierre del primer trimestre, el número de personas de 15 a 29 años que no estudian ni trabajan habría aumentado 5.3% anual.",
-      "link": "https://www.reforma.com/habrian-aumentado-5-ninis-en-mexico/ar3288921",
-      "fecha": "06 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece comercio exterior sin elevar productividad",
-      "resumen": "Pese a tener un acceso preferencial al mercado estadounidense, la productividad laboral del País se ha mantenido sin cambios.",
-      "link": "https://www.reforma.com/crece-comercio-exterior-sin-elevar-productividad/ar3288922",
-      "fecha": "06 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierten de retos en credibilidad fiscal",
-      "resumen": "Tras años de incumplimientos en las proyecciones de crecimiento económico de la SHCP, economistas advierten por una erosión de la confianza.",
-      "link": "https://www.reforma.com/advierten-de-retos-en-credibilidad-fiscal/ar3288918",
-      "fecha": "06 Oct 2026, 05:01 hrs"
+      "titulo": "Cierra Paramount la fusión con Warner Bros. Discovery",
+      "resumen": "Paramount Skydance cerró la compra de Warner Bros. Discovery por 110 mmdd, culminando una de las mayores fusiones de medios de la historia.",
+      "link": "https://www.reforma.com/cierra-paramount-la-fusion-con-warner-bros-discovery/ar3289058",
+      "fecha": "06 Oct 2026, 07:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mantienen empresas trabajo híbrido",
-      "resumen": "Tras pandemia, empresas de la Ciudad siguieron en su mayoría con modelo híbrido laboral como una prestación y para bajar impacto por tráfico",
-      "link": "https://www.reforma.com/mantienen-empresas-trabajo-hibrido/ar3288912",
-      "fecha": "06 Oct 2026, 05:01 hrs"
+      "titulo": "Atrae Prudential en México y Brasil interés de MetLife y CNP",
+      "resumen": "Unidades de Prudential en Brasil y México han despertado el interés de MetLife y CNP Assurances en una operación que le reportaría 3 mmdd.",
+      "link": "https://www.reforma.com/atrae-prudential-en-mexico-y-brasil-interes-de-metlife-y-cnp/ar3289165",
+      "fecha": "06 Oct 2026, 10:51 hrs"
     }
   ]
 }
