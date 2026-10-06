@@ -1,7 +1,43 @@
 {
-  "actualizado": "05/10/2026 23:09 hrs",
+  "actualizado": "06/10/2026 06:50 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banco de México destaca respaldo del FMI y descarta alarma por depreciación del peso",
+      "resumen": "El subgobernador Omar Mejía resaltó la confianza de organismos multilaterales, aunque el organismo prevé una convergencia más lenta de la inflación hacia la meta de 3% hasta 2028.",
+      "link": "https://expansion.mx/economia/2026/10/05/omar-mejia-banxico-fmi-inflacion-2028",
+      "fecha": "05 Oct 2026, 21:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Querétaro, Cancún y Los Cabos crecen, pero falta vivienda para sus trabajadores",
+      "resumen": "El empleo crece en nuevos polos industriales y turísticos, pero la vivienda accesible no alcanza para los trabajadores que llegan atraídos por esas oportunidades.",
+      "link": "https://expansion.mx/economia/2026/10/05/queretaro-cancun-cabos-crecen-pero-falta-vivienda",
+      "fecha": "05 Oct 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nafin quiere apoyar a más MiPymes y coloca 9,750 mdp como parte del Plan México",
+      "resumen": "Nafin realizó su tercera colocación de certificados en el mercado nacional en 2026. Sostiene que la emisión está respaldada por la solidez de sus indicadores.",
+      "link": "https://expansion.mx/economia/2026/10/05/nafin-quiere-apoyar-a-mas-mipymes-y-coloca-9-750-mdp-como-parte-del-plan-mexico",
+      "fecha": "05 Oct 2026, 14:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Falta de sanciones en su diseño amenaza la efectividad de la Ley de Economía Digital",
+      "resumen": "Con la inminente aprobación de la iniciativa del Ejecutivo, especialistas destacan que el nuevo marco legal ayudará a la trazabilidad y disminuir delitos como el robo de combustible en el país",
+      "link": "https://expansion.mx/economia/2026/10/05/ante-falta-de-sanciones-en-su-diseno-ley-de-economia-digital-puede-enfrentar-retos-en-su-implementacion",
+      "fecha": "05 Oct 2026, 14:17 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Bancos en México refuerzan prevención de lavado de dinero ante mayores exigencias de EU en combate a cárteles",
-      "resumen": "\"Cuando les quitamos el dinero, les pegamos en el corazón de sus redes criminales”, dijo ante el sector bancario en septiembre pasado el embajador de Estados Unidos en México, Ronald Johnson.",
-      "link": "https://expansion.mx/economia/2026/10/02/bancos-en-mexico-refuerzan-prevencion-de-lavado-de-dinero-ante-mayores-exigencias-de-eu-en-combate-a-carteles",
-      "fecha": "02 Oct 2026, 18:00 hrs"
+      "titulo": "El registro telefónico supera los 90 millones de líneas vinculadas",
+      "resumen": "El avance incorpora el último corte después de que venció el plazo para las líneas cuyo número telefónico termina en 3.",
+      "link": "https://expansion.mx/empresas/2026/10/05/registro-telefonico-supera-90-millones-lineas-vinculadas",
+      "fecha": "05 Oct 2026, 21:00 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El diésel inicia octubre sin IEPS, mientras Hacienda reporta caídas en su recaudación",
-      "resumen": "Para la semana del 3 al 9 de octubre, las cuotas IEPS para las gasolinas serán mayores y continuará el estímulo complementario para el diésel, que acumula un mes sin el impuesto",
-      "link": "https://expansion.mx/economia/2026/10/02/diesel-gasolinas-ieps-hacienda-cae-recaudacion",
-      "fecha": "02 Oct 2026, 17:34 hrs"
+      "titulo": "Carlos Slim tiene el estacionamiento más grande de México: le gana al AICM, Estadio Azteca y Centro Santa Fe",
+      "resumen": "El empresario construyó bajo tierra una enorme infraestructura para atender la demanda de visitantes de uno de sus desarrollos más emblemáticos.",
+      "link": "https://expansion.mx/empresas/2026/10/05/carlos-slim-estacionamiento-mas-grande-de-mexico",
+      "fecha": "05 Oct 2026, 16:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La UIF iniciará certificación en prevención de lavado de dinero en 2027",
-      "resumen": "Quienes realizan Actividades Vulnerables como juegos con apuesta; venta de joyas, obras de arte, vehículos aéreos, marítimos o terrestres, conocerán la convocatoria con un tiempo prudente, aseveró Hac…",
-      "link": "https://expansion.mx/economia/2026/10/02/uif-hacienda-certificacion-prevencion-lavado-dinero-2027",
-      "fecha": "02 Oct 2026, 16:28 hrs"
+      "titulo": "March y Kwid no son los únicos: estos autos nuevos cuestan menos de 300,000 pesos",
+      "resumen": "Varias marcas mantienen modelos nuevos dentro del presupuesto y algunas permiten mejorar seguridad, tecnología o transmisión sin rebasarlo.",
+      "link": "https://expansion.mx/empresas/2026/10/05/auto-nuevos-por-menos-de-300-000-pesos",
+      "fecha": "05 Oct 2026, 16:14 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Adultos mayores se enfrentan a seguros de gastos médicos más caros en México",
-      "resumen": "En este año se han reportado incrementos de hasta 80% en las pólizas para atención médica privada, afectando principalmente a la población mayor de 65 años",
-      "link": "https://expansion.mx/economia/2026/10/02/adultos-mayores-se-enfrentan-a-seguros-de-gastos-medicos-mayores-mas-caros-en-mexico",
-      "fecha": "02 Oct 2026, 15:30 hrs"
+      "titulo": "¿Qué empresas serán las más afectadas por la jornada de 40 horas y por qué tendrán que cambiar?",
+      "resumen": "Siete de cada diez empresas admiten que no están listas para la reducción laboral. Especialistas revelan cómo la tecnología y la planeación de la demanda evitarán una crisis de costos.",
+      "link": "https://expansion.mx/empresas/2026/10/05/jornada-40-horas-estrategia-empresas-cambios",
+      "fecha": "05 Oct 2026, 15:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Plan México incentiva a la farmacéutica Adium a expandir capacidad industrial e investigación local",
+      "resumen": "La empresa ve espacio para aumentar su participación en investigación clínica mediante acuerdos con sus socios licenciantes y, al mismo tiempo, fortalecer la producción local de medicamentos sólidos.",
+      "link": "https://expansion.mx/empresas/2026/10/05/asofarma-adium-investigacion-produccion-mexico",
+      "fecha": "05 Oct 2026, 15:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,121 +147,76 @@
       "fecha": "02 Oct 2026, 18:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OXIO tiene seis meses para cerrar la compra de Telefónica y quedarse con los 21 millones de usuarios de Movistar",
-      "resumen": "La CNA autorizó la concentración al considerar que existen pocas probabilidades de que afecte la competencia económica, pero Oxio y Telefónica tienen seis meses para concretar la operación.",
-      "link": "https://expansion.mx/empresas/2026/10/02/oxio-6-meses-concretar-compra-movistar-usuarios",
-      "fecha": "02 Oct 2026, 16:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Walmart, Soriana y Chedraui cambian sus tiendas para mejorar la experiencia de los clientes que les compran en línea",
-      "resumen": "Las principales cadenas de supermercados avanzan con modelos distintos en comercio electrónico, pero coinciden en usar sus tiendas como parte de la infraestructura para preparar y entregar pedidos.",
-      "link": "https://expansion.mx/empresas/2026/10/02/walmart-soriana-y-chedraui-cambian-sus-tiendas-para-mejorar-la-experiencia-de-los-clientes-que-les-compran-en-linea",
-      "fecha": "02 Oct 2026, 13:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volkswagen y sindicato acuerdan incremento salarial de 13% luego de que trabajadores rechazaron una primera propuesta",
-      "resumen": "La negociación laboral llegó a un nuevo acuerdo después de que los trabajadores rechazaran la primera propuesta, mientras Volkswagen elimina un turno y enfrenta falta de componentes para Taos.",
-      "link": "https://expansion.mx/empresas/2026/10/02/volkswagen-sindicato-alza-salarial",
-      "fecha": "02 Oct 2026, 12:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Carlos Slim a Chico Pardo: los 10 empresarios más importantes de México según el ranking de Expansión 2026",
-      "resumen": "Telecomunicaciones, minería, banca, comercio e infraestructura concentran buena parte del poder empresarial que mueve la economía mexicana.",
-      "link": "https://expansion.mx/empresas/2026/10/02/100-empresarios-mas-importantes-de-mexico-2026",
-      "fecha": "02 Oct 2026, 11:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim convirtió tres estaciones del Metro en negocio y puso plazas comerciales donde miles pasan cada día",
-      "resumen": "Cuatro Caminos, Ciudad Azteca y El Rosario albergan desarrollos comerciales vinculados con Inmuebles Carso, la inmobiliaria del grupo de la familia Slim.",
-      "link": "https://expansion.mx/empresas/2026/10/02/carlos-slim-tres-plazas-comerciales-conectadas-metro",
-      "fecha": "02 Oct 2026, 09:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "'Oxigena' a economía Presupuesto 2027",
+      "resumen": "Proyecto de Presupuesto le da a México oxígeno para 18 meses y mantener el grado de inversión, aseguró José Medina Mora, presidente de CCE.",
+      "link": "https://www.reforma.com/oxigena-a-economia-presupuesto-2027/ar3288939",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arranca EU nueva ronda de consultas sobre T-MEC",
-      "resumen": "USTR recibirá consultas y comentarios públicos sobre T-MEC entre este mes y el próximo 12 de enero previo a revisión con México y Canadá.",
-      "link": "https://www.reforma.com/arranca-eu-nueva-ronda-de-consultas-sobre-t-mec/ar3288812",
-      "fecha": "05 Oct 2026, 18:48 hrs"
+      "titulo": "Impulsa inflación a marcas propias",
+      "resumen": "La inflación está llevando a más consumidores mexicanos a cambiar de marca para reducir el gasto de la despensa.",
+      "link": "https://www.reforma.com/impulsa-inflacion-a-marcas-propias/ar3288933",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estamos cerca de lograr acuerdo con EU.-CCE",
-      "resumen": "México ha avanzado tanto en la revisión del T-MEC que está cerca de lograr un acuerdo con Estados Unidos, aseguró CCE.",
-      "link": "https://www.reforma.com/estamos-cerca-de-lograr-acuerdo-con-eu-cce/ar3288754",
-      "fecha": "05 Oct 2026, 17:25 hrs"
+      "titulo": "Pide EU trato igual en competencia",
+      "resumen": "Federal Trade Commission (FTC) de EU solicitó que en el País haya un trato igualitario para las empresas americanas frente a las mexicanas.",
+      "link": "https://www.reforma.com/pide-eu-trato-igual-en-competencia/ar3288928",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vigila Banxico tipo de cambio ante impacto en la inflación",
-      "resumen": "Banxico vigila el riesgo de que la depreciación del peso se traslade a los precios y complique el combate contra la inflación.",
-      "link": "https://www.reforma.com/vigila-banxico-tipo-de-cambio-ante-impacto-en-la-inflacion/ar3288644",
-      "fecha": "05 Oct 2026, 14:19 hrs"
+      "titulo": "Habrían aumentado 5% 'ninis' en México",
+      "resumen": "Al cierre del primer trimestre, el número de personas de 15 a 29 años que no estudian ni trabajan habría aumentado 5.3% anual.",
+      "link": "https://www.reforma.com/habrian-aumentado-5-ninis-en-mexico/ar3288921",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hila 2 meses con aumentos inversión fija; sube 1.37%",
-      "resumen": "La Formación Bruta de Capital Fijo o Inversión Fija Bruta repuntó 1.37% mensual en julio pasado.",
-      "link": "https://www.reforma.com/hila-2-meses-con-aumentos-inversion-fija-sube-1-37/ar3288506",
-      "fecha": "05 Oct 2026, 11:01 hrs"
+      "titulo": "Crece comercio exterior sin elevar productividad",
+      "resumen": "Pese a tener un acceso preferencial al mercado estadounidense, la productividad laboral del País se ha mantenido sin cambios.",
+      "link": "https://www.reforma.com/crece-comercio-exterior-sin-elevar-productividad/ar3288922",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Entran Afirme y Cargill a subasta de AHMSA",
-      "resumen": "Cargill y Banca Afirme podrían conformar un consorcio para hacer su propuesta de compra en la subasta de los activos de AHMSA.",
-      "link": "https://www.reforma.com/entran-afirme-y-cargill-a-subasta-de-ahmsa/ar3288315",
-      "fecha": "05 Oct 2026, 05:01 hrs"
+      "titulo": "Advierten de retos en credibilidad fiscal",
+      "resumen": "Tras años de incumplimientos en las proyecciones de crecimiento económico de la SHCP, economistas advierten por una erosión de la confianza.",
+      "link": "https://www.reforma.com/advierten-de-retos-en-credibilidad-fiscal/ar3288918",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene Nasdaq cierre récord: sube 1.06%",
-      "resumen": "El Nasdaq cerró en un récord histórico, impulsado por Nvidia y Microsoft, mientras los inversionistas se centraron en la caída del petróleo.",
-      "link": "https://www.reforma.com/tiene-nasdaq-cierre-record-sube-1-06/ar3288682",
-      "fecha": "05 Oct 2026, 14:43 hrs"
+      "titulo": "Se deprecia frijol 40% por remates federales",
+      "resumen": "De enero a agosto pasados, el valor de la tonelada de frijol producida en México cayó un 40.3% anual, a 602.62 dólares.",
+      "link": "https://www.reforma.com/se-deprecia-frijol-40-por-remates-federales/ar3288913",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben acciones de SpaceX casi 8%, a máximos desde junio",
-      "resumen": "Las acciones de SpaceX alcanzaron su nivel más alto desde junio, devolviendo a Elon Musk a la categoría de multimillonario.",
-      "link": "https://www.reforma.com/suben-acciones-de-spacex-casi-8-a-maximos-desde-junio/ar3288697",
-      "fecha": "05 Oct 2026, 14:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Liga dólar segundo retroceso; baja a $18.06",
-      "resumen": "El tipo de cambio cotizaba en $18.0685 por dólar, con una ganancia del 0.42% para la moneda mexicana frente al precio del viernes.",
-      "link": "https://www.reforma.com/liga-dolar-segundo-retroceso-baja-a-18-06/ar3288458",
-      "fecha": "05 Oct 2026, 08:41 hrs"
+      "titulo": "Mantienen empresas trabajo híbrido",
+      "resumen": "Tras pandemia, empresas de la Ciudad siguieron en su mayoría con modelo híbrido laboral como una prestación y para bajar impacto por tráfico",
+      "link": "https://www.reforma.com/mantienen-empresas-trabajo-hibrido/ar3288912",
+      "fecha": "06 Oct 2026, 05:01 hrs"
     }
   ]
 }
