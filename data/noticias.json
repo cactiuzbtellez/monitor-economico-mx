@@ -1,7 +1,43 @@
 {
-  "actualizado": "07/10/2026 11:17 hrs",
+  "actualizado": "07/10/2026 16:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA México va por los millonarios del país: busca crecer 33% su banca patrimonial hacia 2029",
+      "resumen": "Con una base de más de 180 mil usuarios en el segmento  y 1.3 billones de pesos en gestión, el grupo financiero más grande que opera en México busca sumar a 240 mil clientes en tres años.",
+      "link": "https://expansion.mx/economia/2026/10/07/bbva-mexico-va-por-los-millonarios-del-pais-busca-crecer-33-su-banca-patrimonial-hacia-2029",
+      "fecha": "07 Oct 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Programa del SAT que condona multas y recargos hasta 100% cierra solicitudes el 31 de octubre",
+      "resumen": "De acuerdo con el organismo, la fecha límite para acceder al pago en dos parcialidades es el 15 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/07/sat-condonacion-multas-recargos-vence-31-octubre",
+      "fecha": "07 Oct 2026, 12:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas, alerta el FMI",
+      "resumen": "La directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, advirtió sobre las emisiones masivas de bonos corporativos para financiar inversiones en IA.",
+      "link": "https://expansion.mx/economia/2026/10/07/riesgo-ia-economia-mundial-inversion-cumplen-expectativa-fmi",
+      "fecha": "07 Oct 2026, 10:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
+      "resumen": "Las inversiones en bolsas extranjeras generaron 226,171 millones de pesos en plusvalías durante el primer semestre, casi la mitad del total registrado por las administradoras.",
+      "link": "https://expansion.mx/economia/2026/10/07/ya-estas-invirtiendo-ia-afore-pone-ahorros-empresas-nvidia",
+      "fecha": "07 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
-      "resumen": "En el país, uno de cada seis hogares ya recibe una pensión, mientras el gasto público pensionario alcanzaría 2.5 billones de pesos en 2027.",
-      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
-      "fecha": "06 Oct 2026, 13:07 hrs"
+      "titulo": "Crema Teatrical tuvo 4 dueños: Carlos Slim la compró y después se la vendió a Genomma Lab de Rodrigo Herrera",
+      "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
+      "link": "https://expansion.mx/empresas/2026/10/07/historia-crema-teatrical-dueno-carlos-slim-genomma-lab",
+      "fecha": "07 Oct 2026, 16:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México crecerá por debajo del promedio de América Latina en 2026, dice el Banco Mundial",
-      "resumen": "La economía mexicana crecerá 1.4% en 2026, detrás del índice regional de 2.2%, limitado por tasas altas, incertidumbre y menor impulso de la inversión pública. El Salvador y Paraguay crecerán más del …",
-      "link": "https://expansion.mx/economia/2026/10/06/el-salvador-paraguay-creceran-mas-mexico-2026-banco-mundial",
-      "fecha": "06 Oct 2026, 10:29 hrs"
+      "titulo": "Estados Unidos redujo una quinta parte de los envíos de gas natural a México por 10 días",
+      "resumen": "El Cenagas aclaró que se trató de un mantenimiento programado en un gasoducto, lo que obligó a reducir el volumen de gas al país.",
+      "link": "https://expansion.mx/empresas/2026/10/07/estados-unidos-redujo-envios-gas-natural-mexico",
+      "fecha": "07 Oct 2026, 15:57 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿El SAT te debe dinero? La SCJN pone un límite a los intereses que puedes reclamar tras años de espera",
-      "resumen": "La Suprema Corte determinó cómo deben calcularse los intereses cuando el fisco tarda en devolver un saldo a favor solicitado por un contribuyente.",
-      "link": "https://expansion.mx/economia/2026/10/06/scjn-limita-intereses-que-puedes-cobrar-al-sat",
-      "fecha": "06 Oct 2026, 09:11 hrs"
+      "titulo": "Un Tesla correrá la Panamericana para probar hasta dónde llega la infraestructura de carga en México",
+      "resumen": "El Tesla Model S enfrentará más de 4,000 kilómetros entre Tuxtla y Zacatecas con una estrategia de carga que busca probar la viabilidad de los viajes eléctricos y detectar oportunidades para ampliar l…",
+      "link": "https://expansion.mx/empresas/2026/10/07/tesla-carrera-panamericana-infraestructura-carga-electrica",
+      "fecha": "07 Oct 2026, 15:22 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El efectivo vuelve invisible a las pymes y les cierra la puerta al crédito",
-      "resumen": "Digitalizar pagos, cobros y tesorería genera una huella financiera que ayuda a las instituciones a medir el riesgo de una pyme y facilitar su acceso al crédito.",
-      "link": "https://expansion.mx/economia/2026/10/06/pagos-digitales-efectivo-pymes-credito-mexico",
-      "fecha": "06 Oct 2026, 05:55 hrs"
+      "titulo": "Comprar un Chevrolet Aveo nuevo es hasta 25,200 pesos más barato que comprar uno usado",
+      "resumen": "La promoción del Aveo LS manual pone al modelo nuevo frente a seminuevos que, incluso con kilometraje acumulado, se anuncian a precios mayores.",
+      "link": "https://expansion.mx/empresas/2026/10/07/chevrolet-aveo-nuevo-mas-barato-que-usado",
+      "fecha": "07 Oct 2026, 13:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Almacenes Ánfora apuesta por equipar las cocinas de hoteles y restaurantes",
+      "resumen": "El cambio representa una evolución importante para una empresa que nació en 1940 y que actualmente está dirigida por su cuarta generación.",
+      "link": "https://expansion.mx/empresas/2026/10/07/almacenes-anfora-crecer-negocio-vender-hoteles-restaurantes",
+      "fecha": "07 Oct 2026, 12:30 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,51 +147,6 @@
       "fecha": "06 Oct 2026, 15:08 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
-      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
-      "link": "https://expansion.mx/empresas/2026/10/06/diferencia-tiendas-primark-zara-hm-mexico",
-      "fecha": "06 Oct 2026, 13:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El nuevo hombre fuerte de Televisa supera a Azcárraga y entra al top 100 de los empresarios más importantes",
-      "resumen": "De Angoitia llegó a Televisa desde el mundo del derecho y, casi tres décadas después, se ha convertido en una de las figuras centrales del grupo.",
-      "link": "https://expansion.mx/empresas/2026/10/06/alfonso-de-angoitia-supera-a-emilio-azcarraga-en-ranking",
-      "fecha": "06 Oct 2026, 13:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim tiene el estacionamiento más grande de México: le gana al AICM, Estadio Azteca y Centro Santa Fe",
-      "resumen": "El empresario construyó bajo tierra una enorme infraestructura para atender la demanda de visitantes de uno de sus desarrollos más emblemáticos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/carlos-slim-estacionamiento-mas-grande-de-mexico",
-      "fecha": "05 Oct 2026, 16:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "March y Kwid no son los únicos: estos autos nuevos cuestan menos de 300,000 pesos",
-      "resumen": "Varias marcas mantienen modelos nuevos dentro del presupuesto y algunas permiten mejorar seguridad, tecnología o transmisión sin rebasarlo.",
-      "link": "https://expansion.mx/empresas/2026/10/05/auto-nuevos-por-menos-de-300-000-pesos",
-      "fecha": "05 Oct 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué empresas serán las más afectadas por la jornada de 40 horas y por qué tendrán que cambiar?",
-      "resumen": "Siete de cada diez empresas admiten que no están listas para la reducción laboral. Especialistas revelan cómo la tecnología y la planeación de la demanda evitarán una crisis de costos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/jornada-40-horas-estrategia-empresas-cambios",
-      "fecha": "05 Oct 2026, 15:48 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -168,55 +168,55 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanzan récord emisiones de bonos locales en México",
-      "resumen": "Las emisiones a largo plazo de empresas no bancarias sumaron 234 mil 800 mdp hasta septiembre, el volumen anual más alto desde 2004.",
-      "link": "https://www.reforma.com/alcanzan-record-emisiones-de-bonos-locales-en-mexico/ar3289831",
-      "fecha": "07 Oct 2026, 08:15 hrs"
+      "titulo": "Llama SAT a aprovechar el programa para regularizar adeudos",
+      "resumen": "Los contribuyentes reducirán hasta 100% de multas y recargos antes de concluir 2026, con el Programa de Regularización Fiscal, dijo el SAT.",
+      "link": "https://www.reforma.com/llama-sat-a-aprovechar-el-programa-para-regularizar-adeudos/ar3290004",
+      "fecha": "07 Oct 2026, 12:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé autotransporte recuperación para el segundo semestre",
-      "resumen": "El sector del autotransporte de pasaje y turismo proyecta una recuperación para el cierre de la segunda mitad del año, dijo Canapat.",
-      "link": "https://www.reforma.com/preve-autotransporte-recuperacion-para-el-segundo-semestre/ar3289893",
-      "fecha": "07 Oct 2026, 09:59 hrs"
+      "titulo": "Ven presión política sobre aguacate mexicano",
+      "resumen": "GCMA señaló que solicitud de EU de limitar importaciones de aguacate por intervención de grupos delictivos no responde a temas comerciales.",
+      "link": "https://www.reforma.com/ven-presion-politica-sobre-aguacate-mexicano/ar3290168",
+      "fecha": "07 Oct 2026, 15:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen en EU fijar límite  al aguacate mexicano por cárteles",
-      "resumen": "Congresistas republicanos urgieron a la USTR a fijar un límite a la entrada de aguacate mexicano libre de arancel.",
-      "link": "https://www.reforma.com/urgen-en-eu-fijar-limite-al-aguacate-mexicano-por-carteles/ar3289698",
-      "fecha": "07 Oct 2026, 05:01 hrs"
+      "titulo": "Subirá reducción de jornada  16.6% costos laborales.- Adecco",
+      "resumen": "La reducción de la jornada laboral elevará los costos laborales por hora a un 16.6 por ciento, según Adecco.",
+      "link": "https://www.reforma.com/subira-reduccion-de-jornada-16-6-costos-laborales-adecco/ar3289992",
+      "fecha": "07 Oct 2026, 12:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recurre Tulum a vuelos internacionales ante bajas nacionales",
-      "resumen": "Tras salidas de Aeroméxico y Volaris, el Aeropuerto de Tulum apostará por aerolíneas internacionales para sostener su conectividad.",
-      "link": "https://www.reforma.com/recurre-tulum-a-vuelos-internacionales-ante-bajas-nacionales/ar3289568",
-      "fecha": "06 Oct 2026, 18:29 hrs"
+      "titulo": "Comprometería alza de cobro a turistas estabilidad de sector",
+      "resumen": "El Paquete Económico propone un alza de más del 35% en el cobro del DNR y compromete la estabilidad del sector turístico, dijo el STARC.",
+      "link": "https://www.reforma.com/comprometeria-alza-de-cobro-a-turistas-estabilidad-de-sector/ar3290036",
+      "fecha": "07 Oct 2026, 12:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a desarrollar proveedores de fundición",
-      "resumen": "Piden impulsar el desarrollo de proveedores nacionales en los sectores de fundición y maquinado.",
-      "link": "https://www.reforma.com/urgen-a-desarrollar-proveedores-de-fundicion/ar3289718",
-      "fecha": "07 Oct 2026, 07:07 hrs"
+      "titulo": "Pega sequía a producción agropecuaria",
+      "resumen": "La sequía repercutió tanto en la baja de producción de granos y hortalizas, así como cambios en los esquemas de siembra, según la ENA.",
+      "link": "https://www.reforma.com/pega-sequia-a-produccion-agropecuaria/ar3290132",
+      "fecha": "07 Oct 2026, 14:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen fondos, pero se atora oferta",
-      "resumen": "Industria de fondos de inversión en México multiplicó casi seis veces su número de inversionistas en cinco años pero con oferta estancada.",
-      "link": "https://www.reforma.com/crecen-fondos-pero-se-atora-oferta/ar3289633",
-      "fecha": "07 Oct 2026, 05:01 hrs"
+      "titulo": "Destacarán compradores estratégicos en Buen Fin",
+      "resumen": "Para esta edición del Buen Fin, se espera que el 50 por ciento de los consumidores sean vistos como compradores estratégicos.",
+      "link": "https://www.reforma.com/destacaran-compradores-estrategicos-en-buen-fin/ar3290135",
+      "fecha": "07 Oct 2026, 14:28 hrs"
     }
   ]
 }
