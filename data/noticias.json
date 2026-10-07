@@ -1,7 +1,52 @@
 {
-  "actualizado": "06/10/2026 16:54 hrs",
+  "actualizado": "06/10/2026 20:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México cierra la puerta a inversiones de riesgo, pero el nuevo filtro de 49% deja rendijas",
+      "resumen": "Los proyectos nuevos y las participaciones minoritarias con influencia en sectores estratégicos también deberían pasar por una revisión de seguridad nacional, plantea un estudio de CIPE y CELIS Instit…",
+      "link": "https://expansion.mx/economia/2026/10/06/filtro-inversion-extranjera-mexico-huecos-49-por-ciento",
+      "fecha": "06 Oct 2026, 15:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sin reforma fiscal, el SAT aumentó 776,000 millones la recaudación de impuestos, dice Hacienda",
+      "resumen": "La Ley de Economía Digital y la Ley Catastral, en proceso de discusión y votación en el Congreso, contribuirán al crecimiento de los ingresos en el futuro, informó el secretario de Hacienda, Édgar Ama…",
+      "link": "https://expansion.mx/economia/2026/10/06/sin-reforma-fiscal-el-sat-aumento-776-000-millones-la-recaudacion-de-impuestos-dice-hacienda",
+      "fecha": "06 Oct 2026, 13:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
+      "resumen": "En el país, uno de cada seis hogares ya recibe una pensión, mientras el gasto público pensionario alcanzaría 2.5 billones de pesos en 2027.",
+      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
+      "fecha": "06 Oct 2026, 13:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México crecerá por debajo del promedio de América Latina en 2026, dice el Banco Mundial",
+      "resumen": "La economía mexicana crecerá 1.4% en 2026, detrás del índice regional de 2.2%, limitado por tasas altas, incertidumbre y menor impulso de la inversión pública. El Salvador y Paraguay crecerán más del …",
+      "link": "https://expansion.mx/economia/2026/10/06/el-salvador-paraguay-creceran-mas-mexico-2026-banco-mundial",
+      "fecha": "06 Oct 2026, 10:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿El SAT te debe dinero? La SCJN pone un límite a los intereses que puedes reclamar tras años de espera",
+      "resumen": "La Suprema Corte determinó cómo deben calcularse los intereses cuando el fisco tarda en devolver un saldo a favor solicitado por un contribuyente.",
+      "link": "https://expansion.mx/economia/2026/10/06/scjn-limita-intereses-que-puedes-cobrar-al-sat",
+      "fecha": "06 Oct 2026, 09:11 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,57 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Nafin quiere apoyar a más MiPymes y coloca 9,750 mdp como parte del Plan México",
-      "resumen": "Nafin realizó su tercera colocación de certificados en el mercado nacional en 2026. Sostiene que la emisión está respaldada por la solidez de sus indicadores.",
-      "link": "https://expansion.mx/economia/2026/10/05/nafin-quiere-apoyar-a-mas-mipymes-y-coloca-9-750-mdp-como-parte-del-plan-mexico",
-      "fecha": "05 Oct 2026, 14:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Falta de sanciones en su diseño amenaza la efectividad de la Ley de Economía Digital",
-      "resumen": "Con la inminente aprobación de la iniciativa del Ejecutivo, especialistas destacan que el nuevo marco legal ayudará a la trazabilidad y disminuir delitos como el robo de combustible en el país",
-      "link": "https://expansion.mx/economia/2026/10/05/ante-falta-de-sanciones-en-su-diseno-ley-de-economia-digital-puede-enfrentar-retos-en-su-implementacion",
-      "fecha": "05 Oct 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "EU ve avances modestos en el Plan México y rezagos en inversión y productividad",
-      "resumen": "El Departamento de Estado reconoce progresos en el valor agregado de las exportaciones, pero señala debilidades en empleo, competitividad y crecimiento.",
-      "link": "https://expansion.mx/economia/2026/10/05/plan-mexico-evaluacion-eu-departamento-estado",
-      "fecha": "05 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Así es como algunas tienditas ya generan 14,500 pesos al mes por aceptar pagos con tarjeta",
-      "resumen": "Los negocios que comenzaron a utilizar una terminal en enero han incrementado 68% su transaccionalidad con tarjeta, de acuerdo con Visa.",
-      "link": "https://expansion.mx/economia/2026/10/04/tienditas-generan-14-mil-pesos-mes-aceptar-metodo-de-pago",
-      "fecha": "04 Oct 2026, 15:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vs. Estados Unidos: así está el marcador económico entre los dos países",
-      "resumen": "Mientras las selecciones de futbol de México y Estados Unidos se enfrentan este sábado, sus economías mantienen una relación comercial por un monto que supera los 870,000 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/10/03/mexico-vs-estados-unidos-marcador-economico",
-      "fecha": "03 Oct 2026, 15:06 hrs"
+      "titulo": "El registro telefónico supera los 90 millones de líneas vinculadas",
+      "resumen": "El avance incorpora el último corte después de que venció el plazo para las líneas cuyo número telefónico termina en 3.",
+      "link": "https://expansion.mx/empresas/2026/10/06/mas-de-50-lineas-celulares-ya-estan-registradas-numero-3",
+      "fecha": "06 Oct 2026, 15:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El registro telefónico supera los 90 millones de líneas vinculadas",
-      "resumen": "El avance incorpora el último corte después de que venció el plazo para las líneas cuyo número telefónico termina en 3.",
-      "link": "https://expansion.mx/empresas/2026/10/05/registro-telefonico-supera-90-millones-lineas-vinculadas",
-      "fecha": "05 Oct 2026, 21:00 hrs"
+      "titulo": "Sanborns empezó como una farmacia en CDMX, Slim la compró en plena crisis y hoy es de las marcas más valiosas de México",
+      "resumen": "La hoy famosa tienda departamental nació como una pequeña farmacia en el Porfiriato, se transformó en ícono urbano y hoy es pieza clave del imperio de Carlos Slim en el país.",
+      "link": "https://expansion.mx/empresas/2026/10/06/sanborns-historia-carlos-slim",
+      "fecha": "06 Oct 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
+      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
+      "link": "https://expansion.mx/empresas/2026/10/06/diferencia-tiendas-primark-zara-hm-mexico",
+      "fecha": "06 Oct 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El nuevo hombre fuerte de Televisa supera a Azcárraga y entra al top 100 de los empresarios más importantes",
+      "resumen": "De Angoitia llegó a Televisa desde el mundo del derecho y, casi tres décadas después, se ha convertido en una de las figuras centrales del grupo.",
+      "link": "https://expansion.mx/empresas/2026/10/06/alfonso-de-angoitia-supera-a-emilio-azcarraga-en-ranking",
+      "fecha": "06 Oct 2026, 13:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,92 +147,65 @@
       "fecha": "05 Oct 2026, 15:10 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Restringir exportaciones de diésel a México sería un ‘balazo en el pie’ para EU",
-      "resumen": "Retener hasta 1.5 millones de barriles diarios podría contener el precio, pero obligaría a las refinerías a reducir producción y presionaría la oferta de otros combustibles.",
-      "link": "https://expansion.mx/empresas/2026/10/05/restringir-diesel-a-mexico-balazo-en-el-pie-estados-unidos",
-      "fecha": "05 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Slim, Fernández Carbajal y Servitje, entre los empresarios que más empleos generan",
-      "resumen": "José Antonio Fernández Carbajal, Carlos Slim y Daniel Servitje están detrás de algunas de las mayores fuentes de empleo formal del país.",
-      "link": "https://expansion.mx/empresas/2026/10/03/slim-fernandez-carbajal-y-servitje-empleos-generan",
-      "fecha": "03 Oct 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Parque Tepeyac, la plaza con acuario, y quiénes son las personas de las estatuas en lo alto?",
-      "resumen": "El centro comercial abrió en 2022 y forma parte del portafolio de una de las principales fibras inmobiliarias del país. Conoce su historia, oferta y las esculturas que llaman la atención.",
-      "link": "https://expansion.mx/empresas/2026/10/02/quien-es-el-dueno-de-parque-tepeyac-y-sus-estatuas",
-      "fecha": "02 Oct 2026, 18:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recurre Tulum a vuelos internacionales ante bajas nacionales",
+      "resumen": "Tras salidas de Aeroméxico y Volaris, el Aeropuerto de Tulum apostará por aerolíneas internacionales para sostener su conectividad.",
+      "link": "https://www.reforma.com/recurre-tulum-a-vuelos-internacionales-ante-bajas-nacionales/ar3289568",
+      "fecha": "06 Oct 2026, 18:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca Altagracia avance comercial entre México y EU",
-      "resumen": "Altagracia Gómez aseguro que las mesas de dialogo entre México y EU han logrado avances en la resolución de barreras comerciales.",
-      "link": "https://www.reforma.com/destaca-altagracia-avance-comercial-entre-mexico-y-eu/ar3289409",
+      "titulo": "Se debilitan las expectativas para el peso",
+      "resumen": "Citi ajustó su expectativa de tipo de cambio del peso frente al dólar, pasando de $17.50 a $18.00 para el final de 2026.",
+      "link": "https://www.reforma.com/se-debilitan-las-expectativas-para-el-peso/ar3289453",
+      "fecha": "06 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca CRT destrabar inversión en redes",
+      "resumen": "Comisión Reguladora de Telecomunicaciones (CRT) señaló que alto costo del espectro retrasa hasta 1.5 años el despliegue de infraestructura.",
+      "link": "https://www.reforma.com/busca-crt-destrabar-inversion-en-redes/ar3289445",
+      "fecha": "06 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acusan a McDonald's de fijar precios en franquicias con IA",
+      "resumen": "McDonald s enfrenta una demanda federal que argumenta que el uso de una herramienta de IA para fijar precios viola las leyes antimonopolio.",
+      "link": "https://www.reforma.com/acusan-a-mcdonald-s-de-fijar-precios-en-franquicias-con-ia/ar3289438",
+      "fecha": "06 Oct 2026, 15:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé IP extender conversaciones con EU tras elecciones",
+      "resumen": "Cuarta ronda de conversaciones entre México y EU se podría extender más allá de los procesos electorales, informó Concamin.",
+      "link": "https://www.reforma.com/preve-ip-extender-conversaciones-con-eu-tras-elecciones/ar3289409",
       "fecha": "06 Oct 2026, 15:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cargan empresas de telecom con inversiones por mayor tráfico",
-      "resumen": "Operadores de telecomunicaciones cargan con inversiones necesarias para soportar un tráfico de datos en crecimiento, advirtió AT&amp;T México.",
-      "link": "https://www.reforma.com/cargan-empresas-de-telecom-con-inversiones-por-mayor-trafico/ar3289373",
-      "fecha": "06 Oct 2026, 15:30 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Perderían más de 7 mmdp diarios por desabasto de diesel",
-      "resumen": "En caso de que Estados Unidos deje de exportar diesel, se perderían 7 mil 194 mdp diarios, dijo la Canacar.",
-      "link": "https://www.reforma.com/perderian-mas-de-7-mmdp-diarios-por-desabasto-de-diesel/ar3289196",
-      "fecha": "06 Oct 2026, 11:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acuerdan medidas para deducir ISR en exportación de aguacate",
-      "resumen": "La Sader y el SAT acordaron medidas sanitarias, que de cumplirse, las exportaciones de aguacate serían deducibles del ISR.",
-      "link": "https://www.reforma.com/acuerdan-medidas-para-deducir-isr-en-exportacion-de-aguacate/ar3289326",
-      "fecha": "06 Oct 2026, 14:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube 34.2% exportación de México a EU; impone marca en monto",
-      "resumen": "Por quinto mes, las exportaciones del País a EU tuvieron una tasa de crecimiento anual de dos dígitos, al avanzar 34.2 por ciento en agosto.",
-      "link": "https://www.reforma.com/sube-34-2-exportacion-de-mexico-a-eu-impone-marca-en-monto/ar3289166",
-      "fecha": "06 Oct 2026, 10:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Gastan mexicanos 63 mil mdp en piratería al año.- Canacintra",
-      "resumen": "Los mexicanos gastan 63 mil millones de pesos en productos pirata al año, informó la Canacintra.",
-      "link": "https://www.reforma.com/gastan-mexicanos-63-mil-mdp-en-pirateria-al-ano-canacintra/ar3289265",
-      "fecha": "06 Oct 2026, 14:18 hrs"
+      "titulo": "Evalúa Trump suspender el impuesto a la gasolina",
+      "resumen": "El Presidente Trump está evaluando una posible suspensión del impuesto federal a la gasolina para aliviar los elevados costos de la energía.",
+      "link": "https://www.reforma.com/evalua-trump-suspender-el-impuesto-a-la-gasolina/ar3289388",
+      "fecha": "06 Oct 2026, 14:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Impactan aranceles chinos a autopartes mexicanas",
-      "resumen": "Aranceles a países sin acuerdo comercial impactó en insumos chinos y encareció la producción nacional, señalan especialistas.",
+      "resumen": "Aranceles a países sin acuerdo comercial impactaron en insumos chinos y encarecieron la producción nacional, señalan especialistas.",
       "link": "https://www.reforma.com/impactan-aranceles-chinos-a-autopartes-mexicanas/ar3289392",
       "fecha": "06 Oct 2026, 15:16 hrs"
     },
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena espectro caro inversión para 5G e IA.- América Móvil",
-      "resumen": "México mantiene un costo del espectro que resta atracción a las inversiones para acelerar el despliegue de 5G, dijo América Móvil.",
-      "link": "https://www.reforma.com/frena-espectro-caro-inversion-para-5g-e-ia-america-movil/ar3289318",
-      "fecha": "06 Oct 2026, 14:18 hrs"
+      "titulo": "Alcanzan S&amp;P 500 y Nasdaq máximos récord de cierre",
+      "resumen": "Este martes, el S&amp;P 500 avanzó 0.60%, a 7 mil 820.47 puntos, mientras que el Nasdaq subió un 0.46%, a 27 mil 604.74, ambos cierres récord.",
+      "link": "https://www.reforma.com/alcanzan-s-p-500-y-nasdaq-maximos-record-de-cierre/ar3289366",
+      "fecha": "06 Oct 2026, 14:49 hrs"
     }
   ]
 }
