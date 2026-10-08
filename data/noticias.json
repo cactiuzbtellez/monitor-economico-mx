@@ -1,7 +1,70 @@
 {
-  "actualizado": "08/10/2026 04:05 hrs",
+  "actualizado": "08/10/2026 11:44 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Jitomate, cebolla y gas LP impulsan la inflación en México a 3.45% en septiembre",
+      "resumen": "La inflación anual repuntó desde 3.26% en agosto, aunque quedó ligeramente por debajo de lo esperado por los analistas. El componente subyacente disminuyó a 3.75%.",
+      "link": "https://expansion.mx/economia/2026/10/08/inflacion-inegi-mexico-a-3-45-en-septiembre-2026",
+      "fecha": "08 Oct 2026, 07:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La IA dispara el pronóstico de la OMC para el comercio de bienes de 1.9% a 3.9% en 2026",
+      "resumen": "Las mercancías vinculadas con inteligencia artificial explicaron 47% del aumento del valor del comercio mundial en el primer semestre del año.",
+      "link": "https://expansion.mx/economia/2026/10/08/omc-eleva-prevision-crecimiento-comercio-mundial-ia-2026",
+      "fecha": "08 Oct 2026, 07:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El CCE advierte que cambios a deducciones pueden llevar a empresas a la quiebra",
+      "resumen": "El sector privado negocia con Hacienda ajustes al Paquete Económico 2027. Anticipa mayor certidumbre y pide cuidar la inversión. Respalda la Ley de Economía Digital, pero subraya retos en zonas rurale…",
+      "link": "https://expansion.mx/economia/2026/10/08/cce-advierte-riesgo-de-quiebra-ante-ajustes-de-deducciones",
+      "fecha": "08 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El auge de la IA choca con la guerra en el tablero del comercio mundial",
+      "resumen": "El encarecimiento de la energía por la guerra podría restar 0.5 puntos porcentuales al crecimiento del comercio",
+      "link": "https://expansion.mx/economia/2026/10/07/ia-dispara-pronostico-omc-comercio-bienes-2026",
+      "fecha": "07 Oct 2026, 18:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El IEPS de 8% a videojuegos con violencia continuará en pausa en 2027",
+      "resumen": "Hacienda proyecta una recaudación de cero pesos por este IEPS a videojuegos para el siguiente año. También se prevé que continúe el estímulo para sorteos de la Lotería Nacional.",
+      "link": "https://expansion.mx/economia/2026/10/07/ieps-videojuegos-violencia-sorteos-estimulo-2027",
+      "fecha": "07 Oct 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "BBVA México va por los millonarios del país: busca crecer 33% su banca patrimonial hacia 2029",
+      "resumen": "Con una base de más de 180 mil usuarios en el segmento  y 1.3 billones de pesos en gestión, el grupo financiero más grande que opera en México busca sumar a 240 mil clientes en tres años.",
+      "link": "https://expansion.mx/economia/2026/10/07/bbva-mexico-va-por-los-millonarios-del-pais-busca-crecer-33-su-banca-patrimonial-hacia-2029",
+      "fecha": "07 Oct 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Programa del SAT que condona multas y recargos hasta 100% cierra solicitudes el 31 de octubre",
+      "resumen": "De acuerdo con el organismo, la fecha límite para acceder al pago en dos parcialidades es el 15 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/07/sat-condonacion-multas-recargos-vence-31-octubre",
+      "fecha": "07 Oct 2026, 12:08 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -13,210 +76,147 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El boom de la IA impulsa las plusvalías de las Afores y hace crecer el ahorro",
-      "resumen": "Las inversiones en bolsas extranjeras generaron 226,171 millones de pesos en plusvalías durante el primer semestre, casi la mitad del total registrado por las administradoras.",
-      "link": "https://expansion.mx/economia/2026/10/07/ya-estas-invirtiendo-ia-afore-pone-ahorros-empresas-nvidia",
-      "fecha": "07 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados aprueban Ley de Economía Digital para reducir el uso del efectivo",
-      "resumen": "La iniciativa que busca masificar los pagos digitales en México avanza en su camino legislativo. Se turna al Senado para obtener luz verde y marcar las primeras fechas de su implementación.",
-      "link": "https://expansion.mx/economia/2026/10/06/diputados-aprueban-ley-de-economia-digital",
-      "fecha": "06 Oct 2026, 22:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El secretario de Hacienda descarta que la UIF investigue al empresario Amílcar Olán y a Andy López Beltrán",
-      "resumen": "Ante cuestionamientos del Grupo Parlamentario del PAN, el secretario Édgar Amador Zamora explicó que la UIF es una coadyuvante en los procesos judiciales y administrativos, \"y que no hace ninguna exce…",
-      "link": "https://expansion.mx/economia/2026/10/06/hacienda-niega-que-uif-investigue-amilcar-olan-andy-lopez",
-      "fecha": "06 Oct 2026, 18:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México cierra la puerta a inversiones de riesgo, pero el nuevo filtro de 49% deja rendijas",
-      "resumen": "Los proyectos nuevos y las participaciones minoritarias con influencia en sectores estratégicos también deberían pasar por una revisión de seguridad nacional, plantea un estudio de CIPE y CELIS Instit…",
-      "link": "https://expansion.mx/economia/2026/10/06/filtro-inversion-extranjera-mexico-huecos-49-por-ciento",
-      "fecha": "06 Oct 2026, 15:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sin reforma fiscal, el SAT aumentó 776,000 millones la recaudación de impuestos, dice Hacienda",
-      "resumen": "La Ley de Economía Digital y la Ley Catastral, en proceso de discusión y votación en el Congreso, contribuirán al crecimiento de los ingresos en el futuro, informó el secretario de Hacienda, Édgar Ama…",
-      "link": "https://expansion.mx/economia/2026/10/06/sin-reforma-fiscal-el-sat-aumento-776-000-millones-la-recaudacion-de-impuestos-dice-hacienda",
-      "fecha": "06 Oct 2026, 13:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México envejeció en cinco años y la presión por pagar pensiones apenas comienza",
-      "resumen": "En el país, uno de cada seis hogares ya recibe una pensión, mientras el gasto público pensionario alcanzaría 2.5 billones de pesos en 2027.",
-      "link": "https://expansion.mx/economia/2026/09/26/mexico-envejecimiento-pensiones-gasto-publico",
-      "fecha": "06 Oct 2026, 13:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México crecerá por debajo del promedio de América Latina en 2026, dice el Banco Mundial",
-      "resumen": "La economía mexicana crecerá 1.4% en 2026, detrás del índice regional de 2.2%, limitado por tasas altas, incertidumbre y menor impulso de la inversión pública. El Salvador y Paraguay crecerán más del …",
-      "link": "https://expansion.mx/economia/2026/10/06/el-salvador-paraguay-creceran-mas-mexico-2026-banco-mundial",
-      "fecha": "06 Oct 2026, 10:29 hrs"
+      "titulo": "Mexicana revela cuándo será rentable, suma una nueva ruta y va por 20 aviones para alcanzar esa meta",
+      "resumen": "Leobardo Ávila presentó un plan de tres etapas que llevará a la aerolínea de la expansión de capacidades a la búsqueda del equilibrio financiero.",
+      "link": "https://expansion.mx/empresas/2026/10/08/mexicana-busca-ser-rentable-en-2030-con-mas-aviones",
+      "fecha": "08 Oct 2026, 09:23 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La CRT depurará 25 millones de líneas móviles y los chips gratis explican una parte del ajuste",
-      "resumen": "La entrega de chips gratis ayudó a los operadores móviles a captar usuarios, pero también infló el universo de líneas. El registro telefónico ahora depurará aquellas que nunca fueron activadas.",
-      "link": "https://expansion.mx/empresas/2026/10/06/chip-gratis-deja-25-millones-lineas-desuso-registro",
-      "fecha": "06 Oct 2026, 19:34 hrs"
+      "titulo": "Amigo GNL tiene permiso ambiental, pero dos suspensiones frenan sus obras",
+      "resumen": "El proyecto de licuefacción en Guaymas cuenta con permisos energéticos, pero la autorización de ASEA está impugnada y no puede surtir efectos mientras siga el juicio.",
+      "link": "https://expansion.mx/empresas/2026/10/08/amigo-gnl-permisos-suspensiones-proyecto-gas-guaymas-sonora",
+      "fecha": "08 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El registro telefónico supera los 90 millones de líneas vinculadas",
-      "resumen": "El avance incorpora el último corte después de que venció el plazo para las líneas cuyo número telefónico termina en 3.",
-      "link": "https://expansion.mx/empresas/2026/10/06/mas-de-50-lineas-celulares-ya-estan-registradas-numero-3",
-      "fecha": "06 Oct 2026, 15:21 hrs"
+      "titulo": "Nissan lanza en México la Frontier PRO PHEV: hecha en China y por menos de 900,000 pesos",
+      "resumen": "Es la primera pickup híbrida enchufable de Nissan y el primer modelo de la marca desarrollado y producido en China para exportación global.",
+      "link": "https://expansion.mx/empresas/2026/10/07/nissan-frontier-pro-phev-precio-hecha-china",
+      "fecha": "07 Oct 2026, 21:06 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sanborns empezó como una farmacia en CDMX, Slim la compró en plena crisis y hoy es de las marcas más valiosas de México",
-      "resumen": "La hoy famosa tienda departamental nació como una pequeña farmacia en el Porfiriato, se transformó en ícono urbano y hoy es pieza clave del imperio de Carlos Slim en el país.",
-      "link": "https://expansion.mx/empresas/2026/10/06/sanborns-historia-carlos-slim",
-      "fecha": "06 Oct 2026, 15:08 hrs"
+      "titulo": "¿Correos de México puede competir con DHL y Estafeta? Así están sus precios y tiempos de entrega",
+      "resumen": "DHL, Estafeta y Correos de México cotizaron el mismo envío con precios que tienen una diferencia de cientos de pesos.",
+      "link": "https://expansion.mx/empresas/2026/10/07/correos-demexico-compite-dhl-estafeta-precios-tiemposentrega",
+      "fecha": "07 Oct 2026, 19:44 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Primark llega a México y su modelo de tiendas será distinto al de Zara y H&M",
-      "resumen": "La llegada de Primark amplía la competencia en moda accesible, aunque su modelo de negocio será distinto al de Zara y H&amp;M en México.",
-      "link": "https://expansion.mx/empresas/2026/10/06/diferencia-tiendas-primark-zara-hm-mexico",
-      "fecha": "06 Oct 2026, 13:25 hrs"
+      "titulo": "Esta es la fecha oficial del Buen Fin 2026 que cambió el calendario y cómo registrar tu negocio",
+      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
+      "link": "https://expansion.mx/empresas/2026/10/07/cuando-es-el-buen-fin-2026-fechas",
+      "fecha": "07 Oct 2026, 18:05 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El nuevo hombre fuerte de Televisa supera a Azcárraga y entra al top 100 de los empresarios más importantes",
-      "resumen": "De Angoitia llegó a Televisa desde el mundo del derecho y, casi tres décadas después, se ha convertido en una de las figuras centrales del grupo.",
-      "link": "https://expansion.mx/empresas/2026/10/06/alfonso-de-angoitia-supera-a-emilio-azcarraga-en-ranking",
-      "fecha": "06 Oct 2026, 13:15 hrs"
+      "titulo": "Crema Teatrical tuvo 4 dueños: Carlos Slim la compró y después se la vendió a Genomma Lab de Rodrigo Herrera",
+      "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
+      "link": "https://expansion.mx/empresas/2026/10/07/historia-crema-teatrical-dueno-carlos-slim-genomma-lab",
+      "fecha": "07 Oct 2026, 16:24 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Carlos Slim tiene el estacionamiento más grande de México: le gana al AICM, Estadio Azteca y Centro Santa Fe",
-      "resumen": "El empresario construyó bajo tierra una enorme infraestructura para atender la demanda de visitantes de uno de sus desarrollos más emblemáticos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/carlos-slim-estacionamiento-mas-grande-de-mexico",
-      "fecha": "05 Oct 2026, 16:24 hrs"
+      "titulo": "Estados Unidos redujo una quinta parte de los envíos de gas natural a México por 10 días",
+      "resumen": "El Cenagas aclaró que se trató de un mantenimiento programado en un gasoducto, lo que obligó a reducir el volumen de gas al país.",
+      "link": "https://expansion.mx/empresas/2026/10/07/estados-unidos-redujo-envios-gas-natural-mexico",
+      "fecha": "07 Oct 2026, 15:57 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "March y Kwid no son los únicos: estos autos nuevos cuestan menos de 300,000 pesos",
-      "resumen": "Varias marcas mantienen modelos nuevos dentro del presupuesto y algunas permiten mejorar seguridad, tecnología o transmisión sin rebasarlo.",
-      "link": "https://expansion.mx/empresas/2026/10/05/auto-nuevos-por-menos-de-300-000-pesos",
-      "fecha": "05 Oct 2026, 16:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué empresas serán las más afectadas por la jornada de 40 horas y por qué tendrán que cambiar?",
-      "resumen": "Siete de cada diez empresas admiten que no están listas para la reducción laboral. Especialistas revelan cómo la tecnología y la planeación de la demanda evitarán una crisis de costos.",
-      "link": "https://expansion.mx/empresas/2026/10/05/jornada-40-horas-estrategia-empresas-cambios",
-      "fecha": "05 Oct 2026, 15:48 hrs"
+      "titulo": "Un Tesla correrá la Panamericana para probar hasta dónde llega la infraestructura de carga en México",
+      "resumen": "El Tesla Model S enfrentará más de 4,000 kilómetros entre Tuxtla y Zacatecas con una estrategia de carga que busca probar la viabilidad de los viajes eléctricos y detectar oportunidades para ampliar l…",
+      "link": "https://expansion.mx/empresas/2026/10/07/tesla-carrera-panamericana-infraestructura-carga-electrica",
+      "fecha": "07 Oct 2026, 15:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae flujo de pasajeros en aeropuertos del Caribe mexicano",
+      "titulo": "Señala Banxico que riesgos de inflación se inclinan al alza",
+      "resumen": "Mayoría de la Junta de Gobierno del Banxico considera que el balance de riesgos para la inflación sigue inclinándose al alza, según minutas.",
+      "link": "https://www.reforma.com/senala-banxico-que-riesgos-de-inflacion-se-inclinan-al-alza/ar3290735",
+      "fecha": "08 Oct 2026, 10:08 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Repunta inflación en México a 3.45% en septiembre",
+      "resumen": "La inflación anual en México se ubicó en 3.45% en septiembre, superando el 3.26% registrado el mes previo.",
+      "link": "https://www.reforma.com/repunta-inflacion-en-mexico-a-3-45-en-septiembre/ar3290638",
+      "fecha": "08 Oct 2026, 07:38 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Enfrenta País retos en abasto de gas",
+      "resumen": "La falta de fuentes locales de suministro de gas natural pone a México en graves riesgos en el mediano y largo plazo, advirtieron expertos.",
+      "link": "https://www.reforma.com/enfrenta-pais-retos-en-abasto-de-gas/ar3290526",
+      "fecha": "08 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Levantan alerta de fuerza mayor en gasoducto Texas-México",
+      "resumen": "Tennessee Gas Pipeline informó que el miércoles llevó a cabo reparaciones en el gasoducto de Texas y resolvió una situación de fuerza mayor.",
+      "link": "https://www.reforma.com/levantan-alerta-de-fuerza-mayor-en-gasoducto-texas-mexico/ar3290652",
+      "fecha": "08 Oct 2026, 08:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cargan a IP monitorear consumo energético",
+      "resumen": "Bajo el riesgo de multas, empresas con alto consumo energético cargarán a partir del 2027 con altos costos de monitoreo y de certificación.",
+      "link": "https://www.reforma.com/cargan-a-ip-monitorear-consumo-energetico/ar3290580",
+      "fecha": "08 Oct 2026, 07:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suspenderá EU visas a empresas de tecnología",
+      "resumen": "La administración Trump dijo que suspendería un programa de inmigración para varias empresas tecnológicas, incluida Microsoft.",
+      "link": "https://www.reforma.com/suspendera-eu-visas-a-empresas-de-tecnologia/ar3290706",
+      "fecha": "08 Oct 2026, 09:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten riesgos por cambios a Ley Aduanera",
+      "resumen": "Eliminar en Ley Aduanera umbral de 50% de subvaluación que tienen mercancías de importación podría generar embargos a operaciones legítimas.",
+      "link": "https://www.reforma.com/advierten-riesgos-por-cambios-a-ley-aduanera/ar3290520",
+      "fecha": "08 Oct 2026, 07:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja flujo de pasajeros en aeropuertos del Caribe mexicano",
       "resumen": "Los dos aeropuertos de Quintana Roo operados por Asur, Cancún y Cozumel, acumulan un descenso en el flujo de pasajeros en lo que va del año.",
-      "link": "https://www.reforma.com/cae-flujo-de-pasajeros-en-aeropuertos-del-caribe-mexicano/ar3290394",
+      "link": "https://www.reforma.com/baja-flujo-de-pasajeros-en-aeropuertos-del-caribe-mexicano/ar3290394",
       "fecha": "07 Oct 2026, 19:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Publica SHCP lineamientos para proyectos de infraestructura",
-      "resumen": "SHCP publicó los lineamientos de inversión en proyectos de infraestructura para maximizar la rentabilidad de los recursos públicos.",
-      "link": "https://www.reforma.com/publica-shcp-lineamientos-para-proyectos-de-infraestructura/ar3290381",
-      "fecha": "07 Oct 2026, 18:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Abre CRT licitación de espectro para automatizar fabricas",
-      "resumen": "CRT dio a conocer la licitación para el aprovechamiento y prestación de servicios para redes de telecomunicaciones inteligentes",
-      "link": "https://www.reforma.com/abre-crt-licitacion-de-espectro-para-automatizar-fabricas/ar3290347",
-      "fecha": "07 Oct 2026, 18:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reabren 301 sucursales de Monte de Piedad",
-      "resumen": "Las 301 sucursales del Monte de Piedad reabrieron sus puertas al público este 7 de octubre, después de una huelga de un año.",
-      "link": "https://www.reforma.com/reabren-301-sucursales-de-monte-de-piedad/ar3290335",
-      "fecha": "07 Oct 2026, 17:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Planea Broadcom recaudar 50 mil mdd para chips de OpenAI",
-      "resumen": "Broadcom está gestionando un financiamiento mayor a 50 mmdd para el chip de inteligencia artificial personalizado que desarrolla con OpenAI.",
-      "link": "https://www.reforma.com/planea-broadcom-recaudar-50-mil-mdd-para-chips-de-openai/ar3290228",
-      "fecha": "07 Oct 2026, 15:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Van por Pymes sin seguro",
-      "resumen": "Mercado Pago y Chubb anunciaron el lanzamiento de 'Seguro de Comercio' con el objetivo de apoyar a emprendedores y Pymes mexicanas.",
-      "link": "https://www.reforma.com/van-por-pymes-sin-seguro/ar3290222",
-      "fecha": "07 Oct 2026, 15:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Solo 18% contrata seguros pese al temor a imprevistos",
-      "resumen": "Solo 18% de la población recurre a la contratación de seguros pese a que buscan prevenir enfermedades y golpes financieros, reveló MetLife.",
-      "link": "https://www.reforma.com/solo-18-contrata-seguros-pese-al-temor-a-imprevistos/ar3290213",
-      "fecha": "07 Oct 2026, 15:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven presión política sobre aguacate mexicano",
-      "resumen": "GCMA señaló que solicitud de EU de limitar importaciones de aguacate por intervención de grupos delictivos no responde a temas comerciales.",
-      "link": "https://www.reforma.com/ven-presion-politica-sobre-aguacate-mexicano/ar3290168",
-      "fecha": "07 Oct 2026, 15:21 hrs"
     }
   ]
 }
