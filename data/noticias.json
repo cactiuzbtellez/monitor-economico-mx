@@ -1,43 +1,7 @@
 {
-  "actualizado": "08/10/2026 16:58 hrs",
+  "actualizado": "08/10/2026 20:53 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
-      "resumen": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
-      "link": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
-      "fecha": "08 Oct 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
-      "resumen": "El manejo de las remesas evoluciona, el avance tecnológico va borrando las transferencias bancarias tradicionales, y pinta un mayor uso de aplicaciones y dinero digital.",
-      "link": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
-      "fecha": "08 Oct 2026, 15:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nafin e IP quieren descarbonizar las cadenas de valor en México",
-      "resumen": "De acuerdo con el banco de desarrollo, el objetivo esencial es abordar la descarbonización como una forma de competir mejor, crecer y permanecer en los mercados globales.",
-      "link": "https://expansion.mx/economia/2026/10/08/nafin-e-ip-quieren-descarbonizar-las-cadenas-de-valor-en-mexico",
-      "fecha": "08 Oct 2026, 15:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
-      "resumen": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 2…",
-      "link": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
-      "fecha": "08 Oct 2026, 15:15 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +40,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Carlos, sus tres hijos y un yerno: los 5 Slim que dominan \"Los 100 empresarios más importantes de México\" 2026",
-      "resumen": "Tres integrantes de la familia están entre los 10 primeros lugares, mientras la siguiente generación consolida su presencia en telecomunicaciones, finanzas e infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/10/08/los-5-slim-entre-los-empresarios-mas-importantes",
-      "fecha": "08 Oct 2026, 16:34 hrs"
+      "titulo": "El IEPS de 8% a videojuegos con violencia continuará en pausa en 2027",
+      "resumen": "Hacienda proyecta una recaudación de cero pesos por este IEPS a videojuegos para el siguiente año. También se prevé que continúe el estímulo para sorteos de la Lotería Nacional.",
+      "link": "https://expansion.mx/economia/2026/10/07/ieps-videojuegos-violencia-sorteos-estimulo-2027",
+      "fecha": "07 Oct 2026, 17:53 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
-      "resumen": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
-      "link": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
-      "fecha": "08 Oct 2026, 15:26 hrs"
+      "titulo": "BBVA México va por los millonarios del país: busca crecer 33% su banca patrimonial hacia 2029",
+      "resumen": "Con una base de más de 180 mil usuarios en el segmento  y 1.3 billones de pesos en gestión, el grupo financiero más grande que opera en México busca sumar a 240 mil clientes en tres años.",
+      "link": "https://expansion.mx/economia/2026/10/07/bbva-mexico-va-por-los-millonarios-del-pais-busca-crecer-33-su-banca-patrimonial-hacia-2029",
+      "fecha": "07 Oct 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Programa del SAT que condona multas y recargos hasta 100% cierra solicitudes el 31 de octubre",
+      "resumen": "De acuerdo con el organismo, la fecha límite para acceder al pago en dos parcialidades es el 15 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/07/sat-condonacion-multas-recargos-vence-31-octubre",
+      "fecha": "07 Oct 2026, 12:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas, alerta el FMI",
+      "resumen": "La directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, advirtió sobre las emisiones masivas de bonos corporativos para financiar inversiones en IA.",
+      "link": "https://expansion.mx/economia/2026/10/07/riesgo-ia-economia-mundial-inversion-cumplen-expectativa-fmi",
+      "fecha": "07 Oct 2026, 10:20 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,22 +129,76 @@
       "fecha": "07 Oct 2026, 16:24 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aboga IP de EU por renovar T-MEC por 16 años",
-      "resumen": "Empresarios estadounidenses señalaron la necesidad de renovar la vigencia del T-MEC por 16 años, además de que prevén nuevas inversiones.",
-      "link": "https://www.reforma.com/aboga-ip-de-eu-por-renovar-t-mec-por-16-anos/ar3291136",
-      "fecha": "08 Oct 2026, 16:25 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Estados Unidos redujo una quinta parte de los envíos de gas natural a México por 10 días",
+      "resumen": "El Cenagas aclaró que se trató de un mantenimiento programado en un gasoducto, lo que obligó a reducir el volumen de gas al país.",
+      "link": "https://expansion.mx/empresas/2026/10/07/estados-unidos-redujo-envios-gas-natural-mexico",
+      "fecha": "07 Oct 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Un Tesla correrá la Panamericana para probar hasta dónde llega la infraestructura de carga en México",
+      "resumen": "El Tesla Model S enfrentará más de 4,000 kilómetros entre Tuxtla y Zacatecas con una estrategia de carga que busca probar la viabilidad de los viajes eléctricos y detectar oportunidades para ampliar l…",
+      "link": "https://expansion.mx/empresas/2026/10/07/tesla-carrera-panamericana-infraestructura-carga-electrica",
+      "fecha": "07 Oct 2026, 15:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé AmCham acuerdo parcial sobre el Tratado a fin de año",
-      "resumen": "México y EU podrían alcanzar un acuerdo sobre el T-MEC antes de que cierre el año, según AmCham.",
-      "link": "https://www.reforma.com/preve-amcham-acuerdo-parcial-sobre-el-tratado-a-fin-de-ano/ar3290988",
-      "fecha": "08 Oct 2026, 14:26 hrs"
+      "titulo": "Reconocen a ASPA como titular del CCT de 'Mas de Carga'",
+      "resumen": "ASPA informó que un tribunal la reconoció como titular del Contrato Colectivo de Trabajo de los pilotos de Aerotransportes Mas de Carga.",
+      "link": "https://www.reforma.com/reconocen-a-aspa-como-titular-del-cct-de-mas-de-carga/ar3291299",
+      "fecha": "08 Oct 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Interponen queja laboral contra GLM Components México",
+      "resumen": "GLM Components México recibió una queja laboral debido a que presuntamente violó la libertad sindical de sus trabajadores.",
+      "link": "https://www.reforma.com/interponen-queja-laboral-contra-glm-components-mexico/ar3291202",
+      "fecha": "08 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crean 128,803 empleos en septiembre, mayor cifra en 7 meses",
+      "resumen": "Empleo formal aceleró en septiembre con una generación de 128 mil 803 nuevos puestos frente a 38 mil 319 registrados en agosto.",
+      "link": "https://www.reforma.com/crean-128-803-empleos-en-septiembre-mayor-cifra-en-7-meses/ar3291191",
+      "fecha": "08 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alistan programa de chatarrización para transporte de carga",
+      "resumen": "La ANPACT prepara un nuevo programa para atender la chatarrización del transporte de carga, junto con la SICT.",
+      "link": "https://www.reforma.com/alistan-programa-de-chatarrizacion-para-transporte-de-carga/ar3291176",
+      "fecha": "08 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Celebra Ternium 20 aniversario de cotizar en Bolsa de NY",
+      "resumen": "Ternium celebró el vigésimo aniversario de su cotización en la Bolsa de Valores de Nueva York.",
+      "link": "https://www.reforma.com/celebra-ternium-20-aniversario-de-cotizar-en-bolsa-de-ny/ar3291169",
+      "fecha": "08 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Principal preocupación de IP es renovar T-MEC.- Medina Mora",
+      "resumen": "Tras reunión de empresarios de EU con CSP, José Medina Mora, presidente de CCE, dijo que principal preocupación es la renovación del T-MEC.",
+      "link": "https://www.reforma.com/principal-preocupacion-de-ip-es-renovar-t-mec-medina-mora/ar3291136",
+      "fecha": "08 Oct 2026, 16:25 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Subestima Banxico riesgos por desacople de Fed.- Banamex",
-      "resumen": "Postura de Banxico sobe ampliar el desacoplamiento de la Reserva Federal es poco cautelosa e imprudente, señaló Banamex.",
-      "link": "https://www.reforma.com/subestima-banxico-riesgos-por-desacople-de-fed-banamex/ar3291028",
-      "fecha": "08 Oct 2026, 15:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suspenden cosecha de lechuga en temporada de ciclosporiasis",
-      "resumen": "Taylor Farms anunció que suspenderá indefinidamente la cosecha de lechuga en México durante las temporadas de ciclosporiasis.",
-      "link": "https://www.reforma.com/suspenden-cosecha-de-lechuga-en-temporada-de-ciclosporiasis/ar3290867",
-      "fecha": "08 Oct 2026, 13:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Premia Trump a Musk y lo califica como un 'tesoro nacional'",
-      "resumen": "El Presidente Donald Trump entregó a Elon Musk la máxima distinción científica de EU, y calificó al magnate como un \"tesoro nacional\".",
+      "resumen": "El Presidente Trump entregó a Elon Musk la medalla de la máxima distinción científica de EU y calificó al magnate como un 'tesoro nacional'.",
       "link": "https://www.reforma.com/premia-trump-a-musk-y-lo-califica-como-un-tesoro-nacional/ar3291059",
       "fecha": "08 Oct 2026, 15:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suspenderá EU visas a empresas de tecnología",
-      "resumen": "La administración Trump dijo que suspendería un programa de inmigración para varias empresas tecnológicas, incluida Microsoft.",
-      "link": "https://www.reforma.com/suspendera-eu-visas-a-empresas-de-tecnologia/ar3290706",
-      "fecha": "08 Oct 2026, 09:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cree 64% de estadounidenses que IA avanza demasiado rápido",
-      "resumen": "Gran mayoría de estadounidenses dice que el gobierno debería darle prioridad a mantener la IA bajo control humano y proteger a trabajadores.",
-      "link": "https://www.reforma.com/cree-64-de-estadounidenses-que-ia-avanza-demasiado-rapido/ar3291024",
-      "fecha": "08 Oct 2026, 15:00 hrs"
     }
   ]
 }
