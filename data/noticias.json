@@ -1,7 +1,43 @@
 {
-  "actualizado": "08/10/2026 20:53 hrs",
+  "actualizado": "09/10/2026 04:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
+      "resumen": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
+      "link": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
+      "fecha": "08 Oct 2026, 16:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
+      "resumen": "El manejo de las remesas evoluciona, el avance tecnológico va borrando las transferencias bancarias tradicionales, y pinta un mayor uso de aplicaciones y dinero digital.",
+      "link": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
+      "fecha": "08 Oct 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nafin e IP quieren descarbonizar las cadenas de valor en México",
+      "resumen": "De acuerdo con el banco de desarrollo, el objetivo esencial es abordar la descarbonización como una forma de competir mejor, crecer y permanecer en los mercados globales.",
+      "link": "https://expansion.mx/economia/2026/10/08/nafin-e-ip-quieren-descarbonizar-las-cadenas-de-valor-en-mexico",
+      "fecha": "08 Oct 2026, 15:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
+      "resumen": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 2…",
+      "link": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
+      "fecha": "08 Oct 2026, 15:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El IEPS de 8% a videojuegos con violencia continuará en pausa en 2027",
-      "resumen": "Hacienda proyecta una recaudación de cero pesos por este IEPS a videojuegos para el siguiente año. También se prevé que continúe el estímulo para sorteos de la Lotería Nacional.",
-      "link": "https://expansion.mx/economia/2026/10/07/ieps-videojuegos-violencia-sorteos-estimulo-2027",
-      "fecha": "07 Oct 2026, 17:53 hrs"
+      "titulo": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
+      "resumen": "La automotriz japonesa estrenó la Frontier PRO PHEV, su primer modelo desarrollado y fabricado en China para exportación global. Chevrolet, Ford y Stellantis ya importan miles de unidades de ese país …",
+      "link": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
+      "fecha": "08 Oct 2026, 19:43 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "BBVA México va por los millonarios del país: busca crecer 33% su banca patrimonial hacia 2029",
-      "resumen": "Con una base de más de 180 mil usuarios en el segmento  y 1.3 billones de pesos en gestión, el grupo financiero más grande que opera en México busca sumar a 240 mil clientes en tres años.",
-      "link": "https://expansion.mx/economia/2026/10/07/bbva-mexico-va-por-los-millonarios-del-pais-busca-crecer-33-su-banca-patrimonial-hacia-2029",
-      "fecha": "07 Oct 2026, 13:16 hrs"
+      "titulo": "Los contratos mixtos no atraen a los gigantes petroleros, pero algunas empresas sí ven negocio con Pemex",
+      "resumen": "Consorcio 5M del Golfo ya obtuvo tres campos bajo este esquema, pero considera que los contratos mixtos no son adecuados para todos los proyectos petroleros.",
+      "link": "https://expansion.mx/empresas/2026/10/08/contratos-mixtos-no-atraen-shell-bp-empresas-negocio-pemex",
+      "fecha": "08 Oct 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Programa del SAT que condona multas y recargos hasta 100% cierra solicitudes el 31 de octubre",
-      "resumen": "De acuerdo con el organismo, la fecha límite para acceder al pago en dos parcialidades es el 15 de octubre.",
-      "link": "https://expansion.mx/economia/2026/10/07/sat-condonacion-multas-recargos-vence-31-octubre",
-      "fecha": "07 Oct 2026, 12:08 hrs"
+      "titulo": "Carlos, sus tres hijos y un yerno: los 5 Slim que dominan \"Los 100 empresarios más importantes de México\" 2026",
+      "resumen": "Tres integrantes de la familia están entre los 10 primeros lugares, mientras la siguiente generación consolida su presencia en telecomunicaciones, finanzas e infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/10/08/los-5-slim-entre-los-empresarios-mas-importantes",
+      "fecha": "08 Oct 2026, 16:34 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El riesgo de la IA para la economía mundial crece si las inversiones no cumplen las expectativas, alerta el FMI",
-      "resumen": "La directora gerente del Fondo Monetario Internacional, Kristalina Georgieva, advirtió sobre las emisiones masivas de bonos corporativos para financiar inversiones en IA.",
-      "link": "https://expansion.mx/economia/2026/10/07/riesgo-ia-economia-mundial-inversion-cumplen-expectativa-fmi",
-      "fecha": "07 Oct 2026, 10:20 hrs"
+      "titulo": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
+      "resumen": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
+      "link": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
+      "fecha": "08 Oct 2026, 15:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -109,42 +145,6 @@
       "resumen": "DHL, Estafeta y Correos de México cotizaron el mismo envío con precios que tienen una diferencia de cientos de pesos.",
       "link": "https://expansion.mx/empresas/2026/10/07/correos-demexico-compite-dhl-estafeta-precios-tiemposentrega",
       "fecha": "07 Oct 2026, 19:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Esta es la fecha oficial del Buen Fin 2026 que cambió el calendario y cómo registrar tu negocio",
-      "resumen": "El Buen Fin ya tiene fecha para llevarse a cabo: se realizará en noviembre, como se ha vuelto costumbre.",
-      "link": "https://expansion.mx/empresas/2026/10/07/cuando-es-el-buen-fin-2026-fechas",
-      "fecha": "07 Oct 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Crema Teatrical tuvo 4 dueños: Carlos Slim la compró y después se la vendió a Genomma Lab de Rodrigo Herrera",
-      "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
-      "link": "https://expansion.mx/empresas/2026/10/07/historia-crema-teatrical-dueno-carlos-slim-genomma-lab",
-      "fecha": "07 Oct 2026, 16:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Estados Unidos redujo una quinta parte de los envíos de gas natural a México por 10 días",
-      "resumen": "El Cenagas aclaró que se trató de un mantenimiento programado en un gasoducto, lo que obligó a reducir el volumen de gas al país.",
-      "link": "https://expansion.mx/empresas/2026/10/07/estados-unidos-redujo-envios-gas-natural-mexico",
-      "fecha": "07 Oct 2026, 15:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Un Tesla correrá la Panamericana para probar hasta dónde llega la infraestructura de carga en México",
-      "resumen": "El Tesla Model S enfrentará más de 4,000 kilómetros entre Tuxtla y Zacatecas con una estrategia de carga que busca probar la viabilidad de los viajes eléctricos y detectar oportunidades para ampliar l…",
-      "link": "https://expansion.mx/empresas/2026/10/07/tesla-carrera-panamericana-infraestructura-carga-electrica",
-      "fecha": "07 Oct 2026, 15:22 hrs"
     },
     {
       "fuente": "Reforma",
