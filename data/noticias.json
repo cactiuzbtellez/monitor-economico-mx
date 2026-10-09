@@ -1,7 +1,25 @@
 {
-  "actualizado": "09/10/2026 11:20 hrs",
+  "actualizado": "09/10/2026 16:19 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El menor gasto de México ayuda a contener el crecimiento del déficit fiscal",
+      "resumen": "Conforme se vaya cerrando el ejercicio fiscal 2026 se verá si las diferencias entre lo ejercido y aprobado, son eficiencias en el gasto o una falta de recursos, consideró el CIEP.",
+      "link": "https://expansion.mx/economia/2026/10/09/menor-gasto-contienel-crecimiento-deficit-fiscal",
+      "fecha": "09 Oct 2026, 07:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fraude bancario imparable en México; clientes reclaman 11,213 mdp en el primer semestre de 2026",
+      "resumen": "Las pérdidas equivalen a 7.5% de las utilidades bancarias de enero a junio. El sector financiero mantiene la alerta nacional para que la población no descargue apps ni proporcione datos personales",
+      "link": "https://expansion.mx/economia/2026/10/09/fraude-bancario-imparable-en-mexico-clientes-reclaman-11-213-mdp-en-el-primer-semestre-de-2026",
+      "fecha": "09 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Las mercancías vinculadas con inteligencia artificial explicaron 47% del aumento del valor del comercio mundial en el primer semestre del año.",
       "link": "https://expansion.mx/economia/2026/10/08/omc-eleva-prevision-crecimiento-comercio-mundial-ia-2026",
       "fecha": "08 Oct 2026, 07:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El CCE advierte que cambios a deducciones pueden llevar a empresas a la quiebra",
-      "resumen": "El sector privado negocia con Hacienda ajustes al Paquete Económico 2027. Anticipa mayor certidumbre y pide cuidar la inversión. Respalda la Ley de Economía Digital, pero subraya retos en zonas rurale…",
-      "link": "https://expansion.mx/economia/2026/10/08/cce-advierte-riesgo-de-quiebra-ante-ajustes-de-deducciones",
-      "fecha": "08 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El auge de la IA choca con la guerra en el tablero del comercio mundial",
-      "resumen": "El encarecimiento de la energía por la guerra podría restar 0.5 puntos porcentuales al crecimiento del comercio",
-      "link": "https://expansion.mx/economia/2026/10/07/ia-dispara-pronostico-omc-comercio-bienes-2026",
-      "fecha": "07 Oct 2026, 18:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,16 +150,61 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena a gasolineras burocracia de la 4T",
-      "resumen": "Con una inversión comprometida por 7,219 mdp, cientos de gasolineras en México están sin operar debido a que la CNE aún no libera permisos.",
-      "link": "https://www.reforma.com/frena-a-gasolineras-burocracia-de-la-4t/ar3291388",
-      "fecha": "09 Oct 2026, 07:03 hrs"
+      "titulo": "Presiona Trump a México por acuerdos energéticos",
+      "resumen": "Trump insistió durante una llamada con Sheinbaum en que haya más acuerdos y alianzas entre empresas energéticas mexicanas y estadounidenses.",
+      "link": "https://www.reforma.com/presiona-trump-a-mexico-por-acuerdos-energeticos/ar3291726",
+      "fecha": "09 Oct 2026, 12:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perdería Pemex  137 mmdp por refinación y no exportar",
+      "titulo": "Cierra dólar en $18.41",
+      "resumen": "El dólar cerró en $18.41, con una depreciación de 1.3% para el peso, luego de tocar niveles no vistos desde noviembre de 2025.",
+      "link": "https://www.reforma.com/cierra-dolar-en-18-41/ar3291742",
+      "fecha": "09 Oct 2026, 12:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Publica SAT lista negra de 120 'contribuyentes' fraudulentos",
+      "resumen": "El SAT publicó una nueva lista de 120 'contribuyentes' imputados por la emisión de comprobantes fiscales falsos y operaciones simuladas.",
+      "link": "https://www.reforma.com/publica-sat-lista-negra-de-120-contribuyentes-fraudulentos/ar3291880",
+      "fecha": "09 Oct 2026, 15:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Externan empresas de EU interés por invertir en sectores",
+      "resumen": "Empresarios estadounidenses externaron su interés en invertir en sectores como semiconductores y dispositivos médicos, según el CCE.",
+      "link": "https://www.reforma.com/externan-empresas-de-eu-interes-por-invertir-en-sectores/ar3291706",
+      "fecha": "09 Oct 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Compra Space X espectro para entrar al mercado móvil de EU",
+      "resumen": "Space X acordó comprar una cartera de licencias de espectro de banda baja en Estados Unidos.",
+      "link": "https://www.reforma.com/compra-space-x-espectro-para-entrar-al-mercado-movil-de-eu/ar3291821",
+      "fecha": "09 Oct 2026, 14:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Mercados de EU cierran la semana con ganancias",
+      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el sector tecnológico y por la estabilización de las tasas de los bonos.",
+      "link": "https://www.reforma.com/mercados-de-eu-cierran-la-semana-con-ganancias/ar3291842",
+      "fecha": "09 Oct 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Perdería Pemex 137 mmdp por refinación y no exportar",
       "resumen": "Refinar crudo en lugar de exportarlo le sale caro a Pemex; en 2027 perdería 137 mmdp, según proyecciones con base en Paquete Económico.",
       "link": "https://www.reforma.com/perderia-pemex-137-mmdp-por-refinacion-y-no-exportar/ar3291471",
       "fecha": "09 Oct 2026, 05:01 hrs"
@@ -168,52 +213,7 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Registra dólar racha alcista más larga desde 2025",
-      "resumen": "El Índice Bloomberg Dollar Spot se encamina a extender sus ganancias por cuarta semana seguida y acumula un avance de casi 3% en el lapso.",
-      "link": "https://www.reforma.com/registra-dolar-racha-alcista-mas-larga-desde-2025/ar3291672",
-      "fecha": "09 Oct 2026, 10:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan poca certeza sobre la Ley de IED",
-      "resumen": "Especialistas señalan que pese a avances en la reforma a Ley de Inversión Extranjera (IED) aún queda lejos la certeza para las inversiones.",
-      "link": "https://www.reforma.com/alertan-poca-certeza-sobre-la-ley-de-ied/ar3291390",
-      "fecha": "09 Oct 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Limita Texas datacenters; México carece de reglas",
-      "resumen": "México todavía carece de instrumentos suficientes para ordenar la expansión de centros de datos de cara a 2031, advierte CEAP.",
-      "link": "https://www.reforma.com/limita-texas-datacenters-mexico-carece-de-reglas/ar3291386",
-      "fecha": "09 Oct 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Usan vía de remesas para pensiones",
-      "resumen": "El programa \"Directo a México\" sirvió más para pagar pensiones del Gobierno de Estados Unidos que para enviar remesas, explicó CEMLA.",
-      "link": "https://www.reforma.com/usan-via-de-remesas-para-pensiones/ar3291409",
-      "fecha": "09 Oct 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aceleran exportaciones de autos en NL",
-      "resumen": "A diferencia de los resultados de México como País, con una caída del 11.9% en sus exportaciones de vehículos, las de NL se elevaron 10.3%.",
-      "link": "https://www.reforma.com/aceleran-exportaciones-de-autos-en-nl/ar3291394",
-      "fecha": "09 Oct 2026, 07:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Nombra Trump cómite para investigar a Lisa Cook de la Fed",
+      "titulo": "Nombra Trump comité para investigar a Lisa Cook de la Fed",
       "resumen": "El Presidente Trump creó un comité para investigar las acusaciones de fraude hipotecario contra la gobernadora de la Fed, Lisa Cook.",
       "link": "https://www.reforma.com/nombra-trump-comite-para-investigar-a-lisa-cook-de-la-fed/ar3291590",
       "fecha": "09 Oct 2026, 08:43 hrs"
