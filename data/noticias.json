@@ -1,5 +1,5 @@
 {
-  "actualizado": "09/10/2026 04:07 hrs",
+  "actualizado": "09/10/2026 11:20 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Volvo arranca producción de camiones en Nuevo León y exporta las primeras unidades a Canadá",
+      "resumen": "La nueva fábrica de Volvo en Nuevo León ya produjo sus primeros camiones y comenzó exportaciones de prueba a Canadá, mientras la compañía mantiene sus planes de abastecer al mercado estadounidense pes…",
+      "link": "https://expansion.mx/empresas/2026/10/09/volvo-inicia-produccion-camiones-en-nuevo-leon-nueva-planta",
+      "fecha": "09 Oct 2026, 05:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
       "resumen": "La automotriz japonesa estrenó la Frontier PRO PHEV, su primer modelo desarrollado y fabricado en China para exportación global. Chevrolet, Ford y Stellantis ya importan miles de unidades de ese país …",
       "link": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
@@ -138,85 +147,76 @@
       "fecha": "07 Oct 2026, 21:06 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Correos de México puede competir con DHL y Estafeta? Así están sus precios y tiempos de entrega",
-      "resumen": "DHL, Estafeta y Correos de México cotizaron el mismo envío con precios que tienen una diferencia de cientos de pesos.",
-      "link": "https://expansion.mx/empresas/2026/10/07/correos-demexico-compite-dhl-estafeta-precios-tiemposentrega",
-      "fecha": "07 Oct 2026, 19:44 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frena a gasolineras burocracia de la 4T",
+      "resumen": "Con una inversión comprometida por 7,219 mdp, cientos de gasolineras en México están sin operar debido a que la CNE aún no libera permisos.",
+      "link": "https://www.reforma.com/frena-a-gasolineras-burocracia-de-la-4t/ar3291388",
+      "fecha": "09 Oct 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reconocen a ASPA como titular del CCT de 'Mas de Carga'",
-      "resumen": "ASPA informó que un tribunal la reconoció como titular del Contrato Colectivo de Trabajo de los pilotos de Aerotransportes Mas de Carga.",
-      "link": "https://www.reforma.com/reconocen-a-aspa-como-titular-del-cct-de-mas-de-carga/ar3291299",
-      "fecha": "08 Oct 2026, 19:42 hrs"
+      "titulo": "Perdería Pemex  137 mmdp por refinación y no exportar",
+      "resumen": "Refinar crudo en lugar de exportarlo le sale caro a Pemex; en 2027 perdería 137 mmdp, según proyecciones con base en Paquete Económico.",
+      "link": "https://www.reforma.com/perderia-pemex-137-mmdp-por-refinacion-y-no-exportar/ar3291471",
+      "fecha": "09 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Interponen queja laboral contra GLM Components México",
-      "resumen": "GLM Components México recibió una queja laboral debido a que presuntamente violó la libertad sindical de sus trabajadores.",
-      "link": "https://www.reforma.com/interponen-queja-laboral-contra-glm-components-mexico/ar3291202",
-      "fecha": "08 Oct 2026, 18:26 hrs"
+      "titulo": "Registra dólar racha alcista más larga desde 2025",
+      "resumen": "El Índice Bloomberg Dollar Spot se encamina a extender sus ganancias por cuarta semana seguida y acumula un avance de casi 3% en el lapso.",
+      "link": "https://www.reforma.com/registra-dolar-racha-alcista-mas-larga-desde-2025/ar3291672",
+      "fecha": "09 Oct 2026, 10:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crean 128,803 empleos en septiembre, mayor cifra en 7 meses",
-      "resumen": "Empleo formal aceleró en septiembre con una generación de 128 mil 803 nuevos puestos frente a 38 mil 319 registrados en agosto.",
-      "link": "https://www.reforma.com/crean-128-803-empleos-en-septiembre-mayor-cifra-en-7-meses/ar3291191",
-      "fecha": "08 Oct 2026, 18:26 hrs"
+      "titulo": "Alertan poca certeza sobre la Ley de IED",
+      "resumen": "Especialistas señalan que pese a avances en la reforma a Ley de Inversión Extranjera (IED) aún queda lejos la certeza para las inversiones.",
+      "link": "https://www.reforma.com/alertan-poca-certeza-sobre-la-ley-de-ied/ar3291390",
+      "fecha": "09 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alistan programa de chatarrización para transporte de carga",
-      "resumen": "La ANPACT prepara un nuevo programa para atender la chatarrización del transporte de carga, junto con la SICT.",
-      "link": "https://www.reforma.com/alistan-programa-de-chatarrizacion-para-transporte-de-carga/ar3291176",
-      "fecha": "08 Oct 2026, 18:26 hrs"
+      "titulo": "Limita Texas datacenters; México carece de reglas",
+      "resumen": "México todavía carece de instrumentos suficientes para ordenar la expansión de centros de datos de cara a 2031, advierte CEAP.",
+      "link": "https://www.reforma.com/limita-texas-datacenters-mexico-carece-de-reglas/ar3291386",
+      "fecha": "09 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Celebra Ternium 20 aniversario de cotizar en Bolsa de NY",
-      "resumen": "Ternium celebró el vigésimo aniversario de su cotización en la Bolsa de Valores de Nueva York.",
-      "link": "https://www.reforma.com/celebra-ternium-20-aniversario-de-cotizar-en-bolsa-de-ny/ar3291169",
-      "fecha": "08 Oct 2026, 18:26 hrs"
+      "titulo": "Usan vía de remesas para pensiones",
+      "resumen": "El programa \"Directo a México\" sirvió más para pagar pensiones del Gobierno de Estados Unidos que para enviar remesas, explicó CEMLA.",
+      "link": "https://www.reforma.com/usan-via-de-remesas-para-pensiones/ar3291409",
+      "fecha": "09 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Principal preocupación de IP es renovar T-MEC.- Medina Mora",
-      "resumen": "Tras reunión de empresarios de EU con CSP, José Medina Mora, presidente de CCE, dijo que principal preocupación es la renovación del T-MEC.",
-      "link": "https://www.reforma.com/principal-preocupacion-de-ip-es-renovar-t-mec-medina-mora/ar3291136",
-      "fecha": "08 Oct 2026, 16:25 hrs"
+      "titulo": "Aceleran exportaciones de autos en NL",
+      "resumen": "A diferencia de los resultados de México como País, con una caída del 11.9% en sus exportaciones de vehículos, las de NL se elevaron 10.3%.",
+      "link": "https://www.reforma.com/aceleran-exportaciones-de-autos-en-nl/ar3291394",
+      "fecha": "09 Oct 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perderá Pemex renta de 137 mmdp en 2027 por refinar crudo",
-      "resumen": "Pemex perdería 137 mil millones de pesos en 2027 por refinar crudo en lugar de exportarlo, de acuerdo con proyecciones de México Evalúa.",
-      "link": "https://www.reforma.com/perdera-pemex-renta-de-137-mmdp-en-2027-por-refinar-crudo/ar3291125",
-      "fecha": "08 Oct 2026, 16:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Premia Trump a Musk y lo califica como un 'tesoro nacional'",
-      "resumen": "El Presidente Trump entregó a Elon Musk la medalla de la máxima distinción científica de EU y calificó al magnate como un 'tesoro nacional'.",
-      "link": "https://www.reforma.com/premia-trump-a-musk-y-lo-califica-como-un-tesoro-nacional/ar3291059",
-      "fecha": "08 Oct 2026, 15:08 hrs"
+      "titulo": "Nombra Trump cómite para investigar a Lisa Cook de la Fed",
+      "resumen": "El Presidente Trump creó un comité para investigar las acusaciones de fraude hipotecario contra la gobernadora de la Fed, Lisa Cook.",
+      "link": "https://www.reforma.com/nombra-trump-comite-para-investigar-a-lisa-cook-de-la-fed/ar3291590",
+      "fecha": "09 Oct 2026, 08:43 hrs"
     }
   ]
 }
