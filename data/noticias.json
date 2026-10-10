@@ -1,5 +1,5 @@
 {
-  "actualizado": "10/10/2026 03:28 hrs",
+  "actualizado": "10/10/2026 09:44 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé SE inversión franco-canadiense por 300 mdd",
-      "resumen": "Secretaría de Economía firmó un acuerdo de entendimiento con la empresa Flying Whales ante una posible inversión de 300 millones de dólares.",
-      "link": "https://www.reforma.com/preve-se-inversion-franco-canadiense-por-300-mdd/ar3291991",
-      "fecha": "09 Oct 2026, 19:19 hrs"
+      "titulo": "Serían CEOs responsables por IA fuera de control",
+      "resumen": "Las aseguradoras se preparan para reclamaciones multimillonarias derivadas de agentes de IA que actúan fuera de control.",
+      "link": "https://www.reforma.com/serian-ceos-responsables-por-ia-fuera-de-control/ar3292038",
+      "fecha": "10 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Utilizará Shell drones en plataformas marinas",
+      "resumen": "Shell obtuvo una aprobación en Estados Unidos para convertirse en el primer productor de petróleo que utiliza drones en plataformas marinas.",
+      "link": "https://www.reforma.com/utilizara-shell-drones-en-plataformas-marinas/ar3292033",
+      "fecha": "10 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Gana BMV 2.35% en la semana y supera los 66 mil puntos",
+      "resumen": "La BMV cerró la semana en el nivel de 66 mil 48.57 puntos y logrando una avance semanal de 2.35%.",
+      "link": "https://www.reforma.com/gana-bmv-2-35-en-la-semana-y-supera-los-66-mil-puntos/ar3291973",
+      "fecha": "09 Oct 2026, 18:52 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el sector tecnológico y por la estabilización de las tasas de los bonos.",
       "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3291842",
       "fecha": "09 Oct 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Compra Space X espectro para entrar al mercado móvil de EU",
-      "resumen": "Space X acordó compra de espectro en EU, con lo que competirá en el mercado de telefonía móvil con operadores como AT&amp;T, T-Mobile y Verizon.",
-      "link": "https://www.reforma.com/compra-space-x-espectro-para-entrar-al-mercado-movil-de-eu/ar3291821",
-      "fecha": "09 Oct 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar en $18.41, nivel no visto en casi un año",
-      "resumen": "El dólar cerró en $18.41, con una depreciación de 1.3% para el peso, un nivel no visto desde noviembre de 2025.",
-      "link": "https://www.reforma.com/cierra-dolar-en-18-41-nivel-no-visto-en-casi-un-ano/ar3291742",
-      "fecha": "09 Oct 2026, 12:29 hrs"
     }
   ]
 }
