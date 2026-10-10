@@ -1,16 +1,7 @@
 {
-  "actualizado": "10/10/2026 09:44 hrs",
+  "actualizado": "10/10/2026 13:48 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda baja el IEPS para gasolinas, mientras el diésel va por su quinta semana con cuota cero",
-      "resumen": "Para la semana del 10 al 16 de octubre, la cuota por IEPS para la gasolina Magna será de 2.39 pesos por litro, mientras la Premium pagará 1.62 pesos.",
-      "link": "https://expansion.mx/economia/2026/10/09/hacienda-ieps-gasolinas-diesel-octubre",
-      "fecha": "09 Oct 2026, 17:39 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
-      "resumen": "El América dejó de ser solo un equipo de futbol para convertirse en un activo financiero. Hoy, los Azcárraga buscan rentabilizar su afición, su estadio y su marca.",
-      "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
-      "fecha": "09 Oct 2026, 16:33 hrs"
+      "titulo": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
+      "resumen": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 2…",
+      "link": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
+      "fecha": "08 Oct 2026, 15:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -96,7 +87,7 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La historia que nadie conoce de crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
+      "titulo": "La historia nadie conoce de la crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
       "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
       "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
       "fecha": "09 Oct 2026, 12:24 hrs"
@@ -105,8 +96,8 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
-      "resumen": "La planta veracruzana aporta 26% de la producción nacional de Heineken México, pero ahora enfrenta un mercado en transformación. Las instalaciones y sus trabajadores dan cuenta de ello.",
+      "titulo": "La planta de Heineken en Orizaba cumple 130 años y hoy usa la IA para gestionar su recurso más valioso",
+      "resumen": "Orizaba genera el 26% de la producción cervecera del país, con un consumo de apenas 1.96 litros de agua por litro de cerveza.",
       "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
       "fecha": "09 Oct 2026, 11:59 hrs"
     },
@@ -145,6 +136,15 @@
       "resumen": "Tres integrantes de la familia están entre los 10 primeros lugares, mientras la siguiente generación consolida su presencia en telecomunicaciones, finanzas e infraestructura.",
       "link": "https://expansion.mx/empresas/2026/10/08/los-5-slim-entre-los-empresarios-mas-importantes",
       "fecha": "08 Oct 2026, 16:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
+      "resumen": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
+      "link": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
+      "fecha": "08 Oct 2026, 15:26 hrs"
     },
     {
       "fuente": "Reforma",
