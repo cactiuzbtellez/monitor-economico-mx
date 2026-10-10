@@ -1,7 +1,34 @@
 {
-  "actualizado": "09/10/2026 16:19 hrs",
+  "actualizado": "09/10/2026 20:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda baja el IEPS para gasolinas, mientras el diésel va por su quinta semana con cuota cero",
+      "resumen": "Para la semana del 10 al 16 de octubre, la cuota por IEPS para la gasolina Magna será de 2.39 pesos por litro, mientras la Premium pagará 1.62 pesos.",
+      "link": "https://expansion.mx/economia/2026/10/09/hacienda-ieps-gasolinas-diesel-octubre",
+      "fecha": "09 Oct 2026, 17:39 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los empleos que EU perdió con Yokohama reaparecen en un caso laboral contra México",
+      "resumen": "Casi 600 empleos desaparecieron en Virginia. La promesa de fabricar más barato en Saltillo cruza ahora un expediente sobre derechos sindicales en la USTR.",
+      "link": "https://expansion.mx/economia/2026/10/09/yokohama-saltillo-reemplazo-eu-disputa-laboral-t-mec",
+      "fecha": "09 Oct 2026, 12:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas advierten sobre daños económicos y operativos por cambios fiscales para 2027",
+      "resumen": "Representantes industriales, de los sectores manufactura, automotriz y autotransporte advierten sobre afectaciones al flujo de capital y e inversión, de aprobarse iniciativas en materia de impuestos p…",
+      "link": "https://expansion.mx/economia/2026/10/09/empresas-riesgos-limite-deducciones-sat-hacienda",
+      "fecha": "09 Oct 2026, 11:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las empresas que pagan menos ISR usan hasta 10% de facturas falsas, dice el SAT",
-      "resumen": "De acuerdo con la autoridad fiscal, este tipo de prácticas daña la equidad tributaria, pues en promedio las empresas pagan una tasa efectiva de 1% de ISR, las pymes de 2.5% y los asalariados mayor a 2…",
-      "link": "https://expansion.mx/economia/2026/10/08/empresas-pagan-menos-isr-usan-10-facturas-falsas",
-      "fecha": "08 Oct 2026, 15:15 hrs"
+      "titulo": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
+      "resumen": "El América dejó de ser solo un equipo de futbol para convertirse en un activo financiero. Hoy, los Azcárraga buscan rentabilizar su afición, su estadio y su marca.",
+      "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
+      "fecha": "09 Oct 2026, 16:33 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Jitomate, cebolla y gas LP impulsan la inflación en México a 3.45% en septiembre",
-      "resumen": "La inflación anual repuntó desde 3.26% en agosto, aunque quedó ligeramente por debajo de lo esperado por los analistas. El componente subyacente disminuyó a 3.75%.",
-      "link": "https://expansion.mx/economia/2026/10/08/inflacion-inegi-mexico-a-3-45-en-septiembre-2026",
-      "fecha": "08 Oct 2026, 07:57 hrs"
+      "titulo": "Antes de Chivas y Omnilife, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
+      "resumen": "Antes de Chivas y Omnilife, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
+      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
+      "fecha": "09 Oct 2026, 13:57 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La IA dispara el pronóstico de la OMC para el comercio de bienes de 1.9% a 3.9% en 2026",
-      "resumen": "Las mercancías vinculadas con inteligencia artificial explicaron 47% del aumento del valor del comercio mundial en el primer semestre del año.",
-      "link": "https://expansion.mx/economia/2026/10/08/omc-eleva-prevision-crecimiento-comercio-mundial-ia-2026",
-      "fecha": "08 Oct 2026, 07:00 hrs"
+      "titulo": "La historia que nadie conoce de crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
+      "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
+      "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
+      "fecha": "09 Oct 2026, 12:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
+      "resumen": "La planta veracruzana aporta 26% de la producción nacional de Heineken México, pero ahora enfrenta un mercado en transformación. Las instalaciones y sus trabajadores dan cuenta de ello.",
+      "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
+      "fecha": "09 Oct 2026, 11:59 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,58 +147,31 @@
       "fecha": "08 Oct 2026, 16:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tu cara como pasaporte: aeropuertos y empresas turísticas impulsan la biometría facial como identificación",
-      "resumen": "La industria turística trabaja en una identidad digital que permita reconocer al viajero mediante biometría. El reto está en conectar aeropuertos, aerolíneas, autoridades, hoteles y otros servicios.",
-      "link": "https://expansion.mx/empresas/2026/10/08/cara-pasaporte-biometria-tiempo-viajes",
-      "fecha": "08 Oct 2026, 15:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana revela cuándo será rentable, suma una nueva ruta y va por 20 aviones para alcanzar esa meta",
-      "resumen": "Leobardo Ávila presentó un plan de tres etapas que llevará a la aerolínea de la expansión de capacidades a la búsqueda del equilibrio financiero.",
-      "link": "https://expansion.mx/empresas/2026/10/08/mexicana-busca-ser-rentable-en-2030-con-mas-aviones",
-      "fecha": "08 Oct 2026, 09:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Amigo GNL tiene permiso ambiental, pero dos suspensiones frenan sus obras",
-      "resumen": "El proyecto de licuefacción en Guaymas cuenta con permisos energéticos, pero la autorización de ASEA está impugnada y no puede surtir efectos mientras siga el juicio.",
-      "link": "https://expansion.mx/empresas/2026/10/08/amigo-gnl-permisos-suspensiones-proyecto-gas-guaymas-sonora",
-      "fecha": "08 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan lanza en México la Frontier PRO PHEV: hecha en China y por menos de 900,000 pesos",
-      "resumen": "Es la primera pickup híbrida enchufable de Nissan y el primer modelo de la marca desarrollado y producido en China para exportación global.",
-      "link": "https://expansion.mx/empresas/2026/10/07/nissan-frontier-pro-phev-precio-hecha-china",
-      "fecha": "07 Oct 2026, 21:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé SE inversión franco-canadiense por 300 mdd",
+      "resumen": "Secretaría de Economía firmó un acuerdo de entendimiento con la empresa Flying Whales ante una posible inversión de 300 millones de dólares.",
+      "link": "https://www.reforma.com/preve-se-inversion-franco-canadiense-por-300-mdd/ar3291991",
+      "fecha": "09 Oct 2026, 19:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presiona Trump a México por acuerdos energéticos",
-      "resumen": "Trump insistió durante una llamada con Sheinbaum en que haya más acuerdos y alianzas entre empresas energéticas mexicanas y estadounidenses.",
-      "link": "https://www.reforma.com/presiona-trump-a-mexico-por-acuerdos-energeticos/ar3291726",
-      "fecha": "09 Oct 2026, 12:01 hrs"
+      "titulo": "Destruye IMPI mercancía con valor estimado de 18.7 mdp",
+      "resumen": "IMPI destruyó 153 mil piezas de mercancía apócrifa por un valor de 18 millones de pesos procedente de Tepito y Puebla.",
+      "link": "https://www.reforma.com/destruye-impi-mercancia-con-valor-estimado-de-18-7-mdp/ar3291951",
+      "fecha": "09 Oct 2026, 17:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar en $18.41",
-      "resumen": "El dólar cerró en $18.41, con una depreciación de 1.3% para el peso, luego de tocar niveles no vistos desde noviembre de 2025.",
-      "link": "https://www.reforma.com/cierra-dolar-en-18-41/ar3291742",
-      "fecha": "09 Oct 2026, 12:29 hrs"
+      "titulo": "Crece satisfacción en servicio de autos chinos",
+      "resumen": "Los compradores de marcas chinas aumentaron su nivel de satisfacción al pasar de 827 a 868 puntos en un año, reveló JD Power.",
+      "link": "https://www.reforma.com/crece-satisfaccion-en-servicio-de-autos-chinos/ar3291941",
+      "fecha": "09 Oct 2026, 17:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,17 +186,26 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Externan empresas de EU interés por invertir en sectores",
-      "resumen": "Empresarios estadounidenses externaron su interés en invertir en sectores como semiconductores y dispositivos médicos, según el CCE.",
-      "link": "https://www.reforma.com/externan-empresas-de-eu-interes-por-invertir-en-sectores/ar3291706",
-      "fecha": "09 Oct 2026, 11:36 hrs"
+      "titulo": "Aumentan precios del crudo y Brent cierra en 104.72 dólares",
+      "resumen": "Futuros del Brent cerraron en 104.72 dólares, con un alza de 0.42%, mientras que los del WTI subieron 0.39% y alcanzaron los 91.85 dólares.",
+      "link": "https://www.reforma.com/aumentan-precios-del-crudo-y-brent-cierra-en-104-72-dolares/ar3291854",
+      "fecha": "09 Oct 2026, 14:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierran mercados de EU la semana con ganancias",
+      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el sector tecnológico y por la estabilización de las tasas de los bonos.",
+      "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3291842",
+      "fecha": "09 Oct 2026, 14:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Compra Space X espectro para entrar al mercado móvil de EU",
-      "resumen": "Space X acordó comprar una cartera de licencias de espectro de banda baja en Estados Unidos.",
+      "resumen": "Space X acordó compra de espectro en EU, con lo que competirá en el mercado de telefonía móvil con operadores como AT&amp;T, T-Mobile y Verizon.",
       "link": "https://www.reforma.com/compra-space-x-espectro-para-entrar-al-mercado-movil-de-eu/ar3291821",
       "fecha": "09 Oct 2026, 14:13 hrs"
     },
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mercados de EU cierran la semana con ganancias",
-      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el sector tecnológico y por la estabilización de las tasas de los bonos.",
-      "link": "https://www.reforma.com/mercados-de-eu-cierran-la-semana-con-ganancias/ar3291842",
-      "fecha": "09 Oct 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Perdería Pemex 137 mmdp por refinación y no exportar",
-      "resumen": "Refinar crudo en lugar de exportarlo le sale caro a Pemex; en 2027 perdería 137 mmdp, según proyecciones con base en Paquete Económico.",
-      "link": "https://www.reforma.com/perderia-pemex-137-mmdp-por-refinacion-y-no-exportar/ar3291471",
-      "fecha": "09 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Nombra Trump comité para investigar a Lisa Cook de la Fed",
-      "resumen": "El Presidente Trump creó un comité para investigar las acusaciones de fraude hipotecario contra la gobernadora de la Fed, Lisa Cook.",
-      "link": "https://www.reforma.com/nombra-trump-comite-para-investigar-a-lisa-cook-de-la-fed/ar3291590",
-      "fecha": "09 Oct 2026, 08:43 hrs"
+      "titulo": "Cierra dólar en $18.41, nivel no visto en casi un año",
+      "resumen": "El dólar cerró en $18.41, con una depreciación de 1.3% para el peso, un nivel no visto desde noviembre de 2025.",
+      "link": "https://www.reforma.com/cierra-dolar-en-18-41-nivel-no-visto-en-casi-un-ano/ar3291742",
+      "fecha": "09 Oct 2026, 12:29 hrs"
     }
   ]
 }
