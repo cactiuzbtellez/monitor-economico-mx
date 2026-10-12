@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/10/2026 15:33 hrs",
+  "actualizado": "11/10/2026 19:01 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Por qué Tiendas 3B vende tan barato y sigue ganando millones? El secreto del \"Hard Discount\"",
+      "resumen": "La estrategia de Tiendas 3B también depende de dónde abre sus sucursales. Concentrar establecimientos en zonas cercanas puede facilitar el abastecimiento y reducir los costos de las rutas de reparto.",
+      "link": "https://expansion.mx/empresas/2026/10/11/por-que-tiendas-3b-vende-tan-barato-secreto-hard-discount",
+      "fecha": "11 Oct 2026, 18:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
       "resumen": "El América dejó de ser solo un equipo de futbol para convertirse en un activo financiero. Hoy, los Azcárraga buscan rentabilizar su afición, su estadio y su marca.",
       "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
@@ -136,15 +145,6 @@
       "resumen": "Consorcio 5M del Golfo ya obtuvo tres campos bajo este esquema, pero considera que los contratos mixtos no son adecuados para todos los proyectos petroleros.",
       "link": "https://expansion.mx/empresas/2026/10/08/contratos-mixtos-no-atraen-shell-bp-empresas-negocio-pemex",
       "fecha": "08 Oct 2026, 17:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos, sus tres hijos y un yerno: los 5 Slim que dominan \"Los 100 empresarios más importantes de México\" 2026",
-      "resumen": "Tres integrantes de la familia están entre los 10 primeros lugares, mientras la siguiente generación consolida su presencia en telecomunicaciones, finanzas e infraestructura.",
-      "link": "https://expansion.mx/empresas/2026/10/08/los-5-slim-entre-los-empresarios-mas-importantes",
-      "fecha": "08 Oct 2026, 16:34 hrs"
     },
     {
       "fuente": "Reforma",
