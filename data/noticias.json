@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/10/2026 02:41 hrs",
+  "actualizado": "12/10/2026 12:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nobel de Economía 2026 distingue a analistas de modelos en hogares y empresas que ayudan a gobiernos a enfrentar crisis",
+      "resumen": "Los galardonados son los estadounidenses Robert E. Hall, de Stanford, y Michael Woodford, por sus aportaciones a los fundamentos microeconómicos de la estabilización macroeconómica.",
+      "link": "https://expansion.mx/economia/2026/10/12/premio-nobel-de-economia-2026-robert-hall-michael-woodford",
+      "fecha": "12 Oct 2026, 07:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La violencia en Sinaloa encarece los seguros y deja a conductores y transportistas más desprotegidos",
+      "resumen": "Las pólizas se disparan hasta 400%, reportan transportistas. La entidad registra un fuerte crecimiento en la contratación de seguros de vida, de acuerdo con datos de la CNSF.",
+      "link": "https://expansion.mx/economia/2026/10/12/la-violencia-en-sinaloa-encarece-los-seguros-y-deja-a-conductores-y-transportistas-mas-desprotegidos",
+      "fecha": "12 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Las pérdidas equivalen a 7.5% de las utilidades bancarias de enero a junio. El sector financiero mantiene la alerta nacional para que la población no descargue apps ni proporcione datos personales",
       "link": "https://expansion.mx/economia/2026/10/09/fraude-bancario-imparable-en-mexico-clientes-reclaman-11-213-mdp-en-el-primer-semestre-de-2026",
       "fecha": "09 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
-      "resumen": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
-      "link": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
-      "fecha": "08 Oct 2026, 16:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
-      "resumen": "El manejo de las remesas evoluciona, el avance tecnológico va borrando las transferencias bancarias tradicionales, y pinta un mayor uso de aplicaciones y dinero digital.",
-      "link": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
-      "fecha": "08 Oct 2026, 15:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Serían CEOs responsables por IA fuera de control",
-      "resumen": "Las aseguradoras se preparan para reclamaciones multimillonarias derivadas de agentes de IA que actúan fuera de control.",
-      "link": "https://www.reforma.com/serian-ceos-responsables-por-ia-fuera-de-control/ar3292038",
-      "fecha": "10 Oct 2026, 05:01 hrs"
+      "titulo": "Logra producción industrial mayor alza en 34 meses",
+      "resumen": "Durante agosto, en el País, la actividad industrial obtuvo su mejor resultado anual en 34 meses, al reportar un aumento de 3.55%.",
+      "link": "https://www.reforma.com/logra-produccion-industrial-mayor-alza-en-34-meses/ar3293094",
+      "fecha": "12 Oct 2026, 11:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Utilizará Shell drones en plataformas marinas",
-      "resumen": "Shell obtuvo una aprobación en Estados Unidos para convertirse en el primer productor de petróleo que utiliza drones en plataformas marinas.",
-      "link": "https://www.reforma.com/utilizara-shell-drones-en-plataformas-marinas/ar3292033",
-      "fecha": "10 Oct 2026, 05:01 hrs"
+      "titulo": "Cae 7% ocupación de mexicanos en EU",
+      "resumen": "El número de trabajadores inmigrantes mexicanos con un empleo en EU se redujo 6.9% en agosto respecto al mismo mes de 2025.",
+      "link": "https://www.reforma.com/cae-7-ocupacion-de-mexicanos-en-eu/ar3292888",
+      "fecha": "12 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Gana BMV 2.35% en la semana y supera los 66 mil puntos",
-      "resumen": "La BMV cerró la semana en el nivel de 66 mil 48.57 puntos y logrando una avance semanal de 2.35%.",
-      "link": "https://www.reforma.com/gana-bmv-2-35-en-la-semana-y-supera-los-66-mil-puntos/ar3291973",
-      "fecha": "09 Oct 2026, 18:52 hrs"
+      "titulo": "Premian a Nobel de Economía por modelos para afrontar crisis",
+      "resumen": "Robert E. Hall y Michael Woodford ganaron el Nobel de Economía por sus modelos que han ayudado a gestionar perturbaciones económicas.",
+      "link": "https://www.reforma.com/premian-a-nobel-de-economia-por-modelos-para-afrontar-crisis/ar3292981",
+      "fecha": "12 Oct 2026, 06:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destruye IMPI mercancía con valor estimado de 18.7 mdp",
-      "resumen": "IMPI destruyó 153 mil piezas de mercancía apócrifa por un valor de 18 millones de pesos procedente de Tepito y Puebla.",
-      "link": "https://www.reforma.com/destruye-impi-mercancia-con-valor-estimado-de-18-7-mdp/ar3291951",
-      "fecha": "09 Oct 2026, 17:56 hrs"
+      "titulo": "Sufren empresas mayor impacto por problemas internos.- CCE",
+      "resumen": "Para empresas mexicanas que evalúan si invertir, los mayores riesgos residen cada vez más en el ámbito interno que en Washington, dijo CCE.",
+      "link": "https://www.reforma.com/sufren-empresas-mayor-impacto-por-problemas-internos-cce/ar3293043",
+      "fecha": "12 Oct 2026, 08:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece satisfacción en servicio de autos chinos",
-      "resumen": "Los compradores de marcas chinas aumentaron su nivel de satisfacción al pasar de 827 a 868 puntos en un año, reveló JD Power.",
-      "link": "https://www.reforma.com/crece-satisfaccion-en-servicio-de-autos-chinos/ar3291941",
-      "fecha": "09 Oct 2026, 17:37 hrs"
+      "titulo": "Gana SAT 80% del monto en litigios fiscales",
+      "resumen": "En el primer semestre del año, el SAT ganó 55.8% de los juicios con sentencia definitiva, que concentraron 80.4% del total en controversia.",
+      "link": "https://www.reforma.com/gana-sat-80-del-monto-en-litigios-fiscales/ar3293154",
+      "fecha": "12 Oct 2026, 12:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Publica SAT lista negra de 120 'contribuyentes' fraudulentos",
-      "resumen": "El SAT publicó una nueva lista de 120 'contribuyentes' imputados por la emisión de comprobantes fiscales falsos y operaciones simuladas.",
-      "link": "https://www.reforma.com/publica-sat-lista-negra-de-120-contribuyentes-fraudulentos/ar3291880",
-      "fecha": "09 Oct 2026, 15:37 hrs"
+      "titulo": "Exporta México más mano de obra joven",
+      "resumen": "En el último lustro emigraron casi 57% más de mexicanos a otro país y 70% lo hizo por trabajo. Más del 40% tiene entre 20 y 29 años.",
+      "link": "https://www.reforma.com/exporta-mexico-mas-mano-de-obra-joven/ar3292843",
+      "fecha": "12 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan precios del crudo y Brent cierra en 104.72 dólares",
-      "resumen": "Futuros del Brent cerraron en 104.72 dólares, con un alza de 0.42%, mientras que los del WTI subieron 0.39% y alcanzaron los 91.85 dólares.",
-      "link": "https://www.reforma.com/aumentan-precios-del-crudo-y-brent-cierra-en-104-72-dolares/ar3291854",
-      "fecha": "09 Oct 2026, 14:53 hrs"
+      "titulo": "Prevén suba el mínimo hasta un 12% en 2027",
+      "resumen": "De acuerdo con la empresa de capital humano Aon, en 2027 el salario mínimo podría aumentar hasta 12 por ciento.",
+      "link": "https://www.reforma.com/preven-suba-el-minimo-hasta-un-12-en-2027/ar3292855",
+      "fecha": "12 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran mercados de EU la semana con ganancias",
-      "resumen": "La Bolsa de Nueva York cerró al alza, impulsada por el sector tecnológico y por la estabilización de las tasas de los bonos.",
-      "link": "https://www.reforma.com/cierran-mercados-de-eu-la-semana-con-ganancias/ar3291842",
-      "fecha": "09 Oct 2026, 14:34 hrs"
+      "titulo": "Aumenta 4% empleo manufacturero en NL",
+      "resumen": "En septiembre, el empleo en el sector manufacturero de NL registró un alza anual de 3.8%.",
+      "link": "https://www.reforma.com/aumenta-4-empleo-manufacturero-en-nl/ar3292892",
+      "fecha": "12 Oct 2026, 07:10 hrs"
     }
   ]
 }
