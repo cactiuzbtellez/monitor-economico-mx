@@ -1,16 +1,7 @@
 {
-  "actualizado": "13/10/2026 03:00 hrs",
+  "actualizado": "13/10/2026 11:22 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Tope a deducciones de empresas pasa al pleno de la Cámara de Diputados",
-      "resumen": "Diputados de la Comisión de Hacienda avalaron la propuesta del Ejecutivo para cambios a la Ley del ISR que busca reforzar la batalla antifactureras y dar un mayor acceso al Resico.",
-      "link": "https://expansion.mx/economia/2026/10/12/limite-deducciones-empresas-2027-comision-diputados",
-      "fecha": "12 Oct 2026, 20:31 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,24 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mantendrá México de las inflaciones médicas más altas en América Latina en 2027",
+      "resumen": "El alza prevista supera por más de cuatro veces la inflación general de México. Aunque el ritmo bajará frente a 2026, los costos médicos seguirán presionando los presupuestos de empresas y familias.",
+      "link": "https://expansion.mx/economia/2026/10/10/mantendra-mexico-de-las-inflaciones-medicas-mas-altas-en-america-latina-en-2027",
+      "fecha": "10 Oct 2026, 08:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hyundai lanza Venue en México para competir por los clientes de Chevrolet Groove, Nissan Magnite y Kia Sonet",
+      "resumen": "La marca introduce Venue, una SUV subcompacta importada de India que se colocará por debajo de Creta. Con precios desde 395,000 pesos, competirá por un segmento que ya representa 42% de las ventas de …",
+      "link": "https://expansion.mx/empresas/2026/10/13/hyundai-venue-2027-precio-mexico",
+      "fecha": "13 Oct 2026, 09:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Carlos Slim tiene casi 100 departamentos frente a Bellas Artes: el negocio que pasa inadvertido en la CDMX",
@@ -138,85 +147,76 @@
       "fecha": "09 Oct 2026, 13:57 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La historia que nadie conoce de crema Teatrical: pasó por Sanborns, la compró Slim y acabó en manos de Rodrigo Herrera",
-      "resumen": "Teatrical nació en 1928, tuvo a Silvia Pinal como una de sus principales embajadoras y hoy forma parte de un gigante mexicano del consumo.",
-      "link": "https://expansion.mx/empresas/2026/10/09/crema-teatrical-historia-carlos-slim-sanborns-genomma-lab",
-      "fecha": "09 Oct 2026, 12:24 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Exentarán de arancel del 10% a autopartes",
+      "resumen": "Gobierno de México publicó decreto que exenta temporalmente del arancel de importación de 10% a partes y componentes para ensamble de autos.",
+      "link": "https://www.reforma.com/exentaran-de-arancel-del-10-a-autopartes/ar3293786",
+      "fecha": "13 Oct 2026, 11:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten alza de precios por cambios fiscales al transporte",
-      "resumen": "Propuesta de restringir estímulos fiscales al transporte de carga presionará márgenes operativos del sector, advierten especialistas.",
-      "link": "https://www.reforma.com/advierten-alza-de-precios-por-cambios-fiscales-al-transporte/ar3293437",
-      "fecha": "12 Oct 2026, 18:49 hrs"
+      "titulo": "Retrocede México en participación económica de las mujeres",
+      "resumen": "México ocupa la posición 117 de 145 en participación y oportunidades económicas, según el WEF.",
+      "link": "https://www.reforma.com/retrocede-mexico-en-participacion-economica-de-las-mujeres/ar3293766",
+      "fecha": "13 Oct 2026, 11:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar en $18.26; se aprecia peso",
-      "resumen": "El dólar cerró el lunes con una cotización de $18.26 unidades; cifra 15.24 centavos menor a lo registrado el viernes.",
-      "link": "https://www.reforma.com/cierra-dolar-en-18-26-se-aprecia-peso/ar3293382",
-      "fecha": "12 Oct 2026, 17:34 hrs"
+      "titulo": "Bajan DNR para turismo extranjero y será de 17.8%.- Sectur",
+      "resumen": "El DNR para 2027, será de 17.8 % y no de 35.8 % como se planteó en el proyecto de modificación de la Ley Federal de Derechos, dijo Sectur.",
+      "link": "https://www.reforma.com/bajan-dnr-para-turismo-extranjero-y-sera-de-17-8-sectur/ar3293781",
+      "fecha": "13 Oct 2026, 11:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exhibe AIFA pasillos vacíos y locales cerrados",
-      "resumen": "A más de cuatro años de su inauguración, el AIFA luce con pasillos desiertos, poco transitados y locales desocupados.",
-      "link": "https://www.reforma.com/exhibe-aifa-pasillos-vacios-y-locales-cerrados/ar3293353",
-      "fecha": "12 Oct 2026, 17:18 hrs"
+      "titulo": "Eleva FMI a 1.5% su pronóstico  de PIB para México este año",
+      "resumen": "El FMI elevó su pronóstico de crecimiento del PIB de México al 1.5% este año, desde el 1.2% de julio, y dijo que en 2027 alcanzaría el 1.8%.",
+      "link": "https://www.reforma.com/eleva-fmi-a-1-5-su-pronostico-de-pib-para-mexico-este-ano/ar3293660",
+      "fecha": "13 Oct 2026, 07:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Planea Kroger recortar cerca de 3 mil empleos corporativos",
-      "resumen": "Kroger planea recortar más de un tercio de su plantilla corporativa, en un esfuerzo por simplificar operaciones y competir con más eficacia.",
-      "link": "https://www.reforma.com/planea-kroger-recortar-cerca-de-3-mil-empleos-corporativos/ar3293295",
-      "fecha": "12 Oct 2026, 15:15 hrs"
+      "titulo": "Aprobarían fusión Viva-Volaris antes de fin de año",
+      "resumen": "La autoridad antimonopolio de México aprobará la fusión entre las aerolíneas Volaris y Viva antes de que termine el año, según fuentes.",
+      "link": "https://www.reforma.com/aprobarian-fusion-viva-volaris-antes-de-fin-de-ano/ar3293646",
+      "fecha": "13 Oct 2026, 07:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden acelerar modernización de puertos",
-      "resumen": "Infraestructura portuaria debe mantener el ritmo de modernización para responder al crecimiento del comercio exterior, indicó Cameintram.",
-      "link": "https://www.reforma.com/piden-acelerar-modernizacion-de-puertos/ar3293286",
-      "fecha": "12 Oct 2026, 15:15 hrs"
+      "titulo": "Crece morosidad entre grandes bancos",
+      "resumen": "Las carteras de crédito de los principales bancos ubicados en México enfrentan un alza de la morosidad y deterioro, según Valmex.",
+      "link": "https://www.reforma.com/crece-morosidad-entre-grandes-bancos/ar3293721",
+      "fecha": "13 Oct 2026, 09:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reordenamiento de CDMX restringe a sector inmobiliario.-ADI",
-      "resumen": "Programa de Ordenación de la Zona Metropolitana del Valle de México generará nuevas restricciones al sector inmobiliario, señaló ADI.",
-      "link": "https://www.reforma.com/reordenamiento-de-cdmx-restringe-a-sector-inmobiliario-adi/ar3293267",
-      "fecha": "12 Oct 2026, 14:54 hrs"
+      "titulo": "Cobra Monte intereses por recuperar prendas",
+      "resumen": "Usuarios de Nacional Monte de Piedad enfrentan incertidumbre de no saber cuándo recuperarán las prendas que empeñaron antes de la huelga.",
+      "link": "https://www.reforma.com/cobra-monte-intereses-por-recuperar-prendas/ar3293502",
+      "fecha": "13 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pacta Getty Images una quiebra preacordada",
-      "resumen": "Getty Images alcanzó un acuerdo con sus acreedores para reestructurar su deuda, retirarse de la bolsa y acogerse a una quiebra preacordada.",
-      "link": "https://www.reforma.com/pacta-getty-images-una-quiebra-preacordada/ar3293263",
-      "fecha": "12 Oct 2026, 14:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo con alza cercana al 2%",
-      "resumen": "El precio del barril de Brent avanzó 1.84% hasta los 106.65 dólares, mientras que el de West Texas Intermediate subió 2.06% a 93.74 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-con-alza-cercana-al-2/ar3293253",
-      "fecha": "12 Oct 2026, 14:26 hrs"
+      "titulo": "Planea Arcelor crecer un 47% en México",
+      "resumen": "ArcelorMittal México proyecta  incrementar su capacidad de producción de acero de 3.6 millones a 5.3 millones de toneladas anuales.",
+      "link": "https://www.reforma.com/planea-arcelor-crecer-un-47-en-mexico/ar3293549",
+      "fecha": "13 Oct 2026, 06:59 hrs"
     }
   ]
 }
