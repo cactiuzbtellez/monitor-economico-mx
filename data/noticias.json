@@ -1,25 +1,7 @@
 {
-  "actualizado": "12/10/2026 12:38 hrs",
+  "actualizado": "12/10/2026 19:07 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nobel de Economía 2026 distingue a analistas de modelos en hogares y empresas que ayudan a gobiernos a enfrentar crisis",
-      "resumen": "Los galardonados son los estadounidenses Robert E. Hall, de Stanford, y Michael Woodford, por sus aportaciones a los fundamentos microeconómicos de la estabilización macroeconómica.",
-      "link": "https://expansion.mx/economia/2026/10/12/premio-nobel-de-economia-2026-robert-hall-michael-woodford",
-      "fecha": "12 Oct 2026, 07:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La violencia en Sinaloa encarece los seguros y deja a conductores y transportistas más desprotegidos",
-      "resumen": "Las pólizas se disparan hasta 400%, reportan transportistas. La entidad registra un fuerte crecimiento en la contratación de seguros de vida, de acuerdo con datos de la CNSF.",
-      "link": "https://expansion.mx/economia/2026/10/12/la-violencia-en-sinaloa-encarece-los-seguros-y-deja-a-conductores-y-transportistas-mas-desprotegidos",
-      "fecha": "12 Oct 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +58,60 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión mixta entre gobierno e IP sumará 5.7 billones de pesos en 2030, dice la Secretaría de Hacienda",
+      "resumen": "La subsecretaria de Hacienda, María del Carmen Bonilla Rodríguez destacó que ya se cuenta con los lineamientos para la Ley que fomenta la coinversión ente el sector público y privado",
+      "link": "https://expansion.mx/economia/2026/10/08/inversion-mixta-billones-de-pesos-2030-sector-energetico",
+      "fecha": "08 Oct 2026, 16:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cierre de Directo a México de Banxico: las apps y el dinero digital cambian el manejo de las remesas",
+      "resumen": "El manejo de las remesas evoluciona, el avance tecnológico va borrando las transferencias bancarias tradicionales, y pinta un mayor uso de aplicaciones y dinero digital.",
+      "link": "https://expansion.mx/economia/2026/10/08/por-que-cerro-programa-remesas-banxico-directo-a-mexico",
+      "fecha": "08 Oct 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim tiene casi 100 departamentos frente a Bellas Artes: el negocio que pasa inadvertido en la CDMX",
+      "resumen": "El desarrollo forma parte de un portafolio residencial que suma al menos 3,546 viviendas identificables en México y refleja el alcance de los negocios inmobiliarios de Inmuebles Carso.",
+      "link": "https://expansion.mx/empresas/2026/10/12/carlos-slim-negocio-departamentos-frente-a-bellas-artes",
+      "fecha": "12 Oct 2026, 16:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Por qué la Tiendas 3B de Polanco luce tan distinta a la de la colonia Guerrero? Las claves del negocio",
+      "resumen": "Algunas sucursales de la cadena marcan la diferencia por su fachada, aunque mantienen la lógica de precios competitivos del hard discount.",
+      "link": "https://expansion.mx/empresas/2026/10/12/que-diferencias-entre-tiendas-3b-polanco-guerrero",
+      "fecha": "12 Oct 2026, 15:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo",
+      "resumen": "Los viajeros usan la inteligencia artificial para buscar destinos, comparar opciones y planear vacaciones, pero empresas del sector enfrentan sistemas antiguos que los mantienen rezagados.",
+      "link": "https://expansion.mx/empresas/2026/10/12/ia-cambia-viajes-pero-empresas-arrastran-sistemas-rezagados",
+      "fecha": "12 Oct 2026, 13:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es el dueño de Kiwo, la marca de autos eléctricos chinos que vende Waldo’s y competirá con Olinia?",
+      "resumen": "Kiwo vende vehículos eléctricos desde 79,999 pesos y utiliza distintos canales para llegar a sus clientes. Esta es la relación de la marca con Waldo’s y lo que la distingue del proyecto Olinia.",
+      "link": "https://expansion.mx/empresas/2026/10/12/quien-es-dueno-kiwo-autos-electricos-competira-olinia",
+      "fecha": "12 Oct 2026, 13:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "¿Por qué Tiendas 3B vende tan barato y sigue ganando millones? El secreto del \"Hard Discount\"",
@@ -111,112 +147,76 @@
       "fecha": "09 Oct 2026, 12:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De recetas en las paredes a la automatización: así cambió la producción de cerveza en la fábrica de Orizaba de Heineken",
-      "resumen": "La planta veracruzana aporta 26% de la producción nacional de Heineken México, pero ahora enfrenta un mercado en transformación. Las instalaciones y sus trabajadores dan cuenta de ello.",
-      "link": "https://expansion.mx/empresas/2026/10/09/heineken-130-anos-planta-orizaba-eficiencia-hidrica-uso-ia",
-      "fecha": "09 Oct 2026, 11:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Volvo arranca producción de camiones en Nuevo León y exporta las primeras unidades a Canadá",
-      "resumen": "La nueva fábrica de Volvo en Nuevo León ya produjo sus primeros camiones y comenzó exportaciones de prueba a Canadá, mientras la compañía mantiene sus planes de abastecer al mercado estadounidense pes…",
-      "link": "https://expansion.mx/empresas/2026/10/09/volvo-inicia-produccion-camiones-en-nuevo-leon-nueva-planta",
-      "fecha": "09 Oct 2026, 05:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nissan se suma a otras 9 marcas tradicionales que importan autos desde China para abastecer a México",
-      "resumen": "La automotriz japonesa estrenó la Frontier PRO PHEV, su primer modelo desarrollado y fabricado en China para exportación global. Chevrolet, Ford y Stellantis ya importan miles de unidades de ese país …",
-      "link": "https://expansion.mx/empresas/2026/10/08/nissan-marcas-autos-china-mexico",
-      "fecha": "08 Oct 2026, 19:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los contratos mixtos no atraen a los gigantes petroleros, pero algunas empresas sí ven negocio con Pemex",
-      "resumen": "Consorcio 5M del Golfo ya obtuvo tres campos bajo este esquema, pero considera que los contratos mixtos no son adecuados para todos los proyectos petroleros.",
-      "link": "https://expansion.mx/empresas/2026/10/08/contratos-mixtos-no-atraen-shell-bp-empresas-negocio-pemex",
-      "fecha": "08 Oct 2026, 17:08 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten alza de precios por cambios fiscales al transporte",
+      "resumen": "Propuesta de restringir estímulos fiscales al transporte de carga presionará márgenes operativos del sector, advierten especialistas.",
+      "link": "https://www.reforma.com/advierten-alza-de-precios-por-cambios-fiscales-al-transporte/ar3293437",
+      "fecha": "12 Oct 2026, 18:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Logra producción industrial mayor alza en 34 meses",
-      "resumen": "Durante agosto, en el País, la actividad industrial obtuvo su mejor resultado anual en 34 meses, al reportar un aumento de 3.55%.",
-      "link": "https://www.reforma.com/logra-produccion-industrial-mayor-alza-en-34-meses/ar3293094",
-      "fecha": "12 Oct 2026, 11:24 hrs"
+      "titulo": "Cierra dólar en $18.26; se aprecia peso",
+      "resumen": "El dólar cerró el lunes con una cotización de $18.26 unidades; cifra 15.24 centavos menor a lo registrado el viernes.",
+      "link": "https://www.reforma.com/cierra-dolar-en-18-26-se-aprecia-peso/ar3293382",
+      "fecha": "12 Oct 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 7% ocupación de mexicanos en EU",
-      "resumen": "El número de trabajadores inmigrantes mexicanos con un empleo en EU se redujo 6.9% en agosto respecto al mismo mes de 2025.",
-      "link": "https://www.reforma.com/cae-7-ocupacion-de-mexicanos-en-eu/ar3292888",
-      "fecha": "12 Oct 2026, 07:10 hrs"
+      "titulo": "Exhibe AIFA pasillos vacíos y locales cerrados",
+      "resumen": "A más de cuatro años de su inauguración, el AIFA luce con pasillos desiertos, poco transitados y locales desocupados.",
+      "link": "https://www.reforma.com/exhibe-aifa-pasillos-vacios-y-locales-cerrados/ar3293353",
+      "fecha": "12 Oct 2026, 17:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Premian a Nobel de Economía por modelos para afrontar crisis",
-      "resumen": "Robert E. Hall y Michael Woodford ganaron el Nobel de Economía por sus modelos que han ayudado a gestionar perturbaciones económicas.",
-      "link": "https://www.reforma.com/premian-a-nobel-de-economia-por-modelos-para-afrontar-crisis/ar3292981",
-      "fecha": "12 Oct 2026, 06:03 hrs"
+      "titulo": "Planea Kroger recortar cerca de 3 mil empleos corporativos",
+      "resumen": "Kroger planea recortar más de un tercio de su plantilla corporativa, en un esfuerzo por simplificar operaciones y competir con más eficacia.",
+      "link": "https://www.reforma.com/planea-kroger-recortar-cerca-de-3-mil-empleos-corporativos/ar3293295",
+      "fecha": "12 Oct 2026, 15:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufren empresas mayor impacto por problemas internos.- CCE",
-      "resumen": "Para empresas mexicanas que evalúan si invertir, los mayores riesgos residen cada vez más en el ámbito interno que en Washington, dijo CCE.",
-      "link": "https://www.reforma.com/sufren-empresas-mayor-impacto-por-problemas-internos-cce/ar3293043",
-      "fecha": "12 Oct 2026, 08:43 hrs"
+      "titulo": "Piden acelerar modernización de puertos",
+      "resumen": "Infraestructura portuaria debe mantener el ritmo de modernización para responder al crecimiento del comercio exterior, indicó Cameintram.",
+      "link": "https://www.reforma.com/piden-acelerar-modernizacion-de-puertos/ar3293286",
+      "fecha": "12 Oct 2026, 15:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Gana SAT 80% del monto en litigios fiscales",
-      "resumen": "En el primer semestre del año, el SAT ganó 55.8% de los juicios con sentencia definitiva, que concentraron 80.4% del total en controversia.",
-      "link": "https://www.reforma.com/gana-sat-80-del-monto-en-litigios-fiscales/ar3293154",
-      "fecha": "12 Oct 2026, 12:25 hrs"
+      "titulo": "Reordenamiento de CDMX restringe a sector inmobiliario.-ADI",
+      "resumen": "Programa de Ordenación de la Zona Metropolitana del Valle de México generará nuevas restricciones al sector inmobiliario, señaló ADI.",
+      "link": "https://www.reforma.com/reordenamiento-de-cdmx-restringe-a-sector-inmobiliario-adi/ar3293267",
+      "fecha": "12 Oct 2026, 14:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exporta México más mano de obra joven",
-      "resumen": "En el último lustro emigraron casi 57% más de mexicanos a otro país y 70% lo hizo por trabajo. Más del 40% tiene entre 20 y 29 años.",
-      "link": "https://www.reforma.com/exporta-mexico-mas-mano-de-obra-joven/ar3292843",
-      "fecha": "12 Oct 2026, 07:10 hrs"
+      "titulo": "Pacta Getty Images una quiebra preacordada",
+      "resumen": "Getty Images alcanzó un acuerdo con sus acreedores para reestructurar su deuda, retirarse de la bolsa y acogerse a una quiebra preacordada.",
+      "link": "https://www.reforma.com/pacta-getty-images-una-quiebra-preacordada/ar3293263",
+      "fecha": "12 Oct 2026, 14:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén suba el mínimo hasta un 12% en 2027",
-      "resumen": "De acuerdo con la empresa de capital humano Aon, en 2027 el salario mínimo podría aumentar hasta 12 por ciento.",
-      "link": "https://www.reforma.com/preven-suba-el-minimo-hasta-un-12-en-2027/ar3292855",
-      "fecha": "12 Oct 2026, 07:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta 4% empleo manufacturero en NL",
-      "resumen": "En septiembre, el empleo en el sector manufacturero de NL registró un alza anual de 3.8%.",
-      "link": "https://www.reforma.com/aumenta-4-empleo-manufacturero-en-nl/ar3292892",
-      "fecha": "12 Oct 2026, 07:10 hrs"
+      "titulo": "Cierra crudo con alza cercana al 2%",
+      "resumen": "El precio del barril de Brent avanzó 1.84% hasta los 106.65 dólares, mientras que el de West Texas Intermediate subió 2.06% a 93.74 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-con-alza-cercana-al-2/ar3293253",
+      "fecha": "12 Oct 2026, 14:26 hrs"
     }
   ]
 }
