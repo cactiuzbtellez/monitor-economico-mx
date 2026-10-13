@@ -1,7 +1,16 @@
 {
-  "actualizado": "13/10/2026 11:22 hrs",
+  "actualizado": "13/10/2026 16:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tope a deducciones de empresas pasa al pleno de la Cámara de Diputados",
+      "resumen": "Diputados de la Comisión de Hacienda avalaron la propuesta del Ejecutivo para cambios a la Ley del ISR que busca reforzar la batalla antifactureras y dar un mayor acceso al Resico.",
+      "link": "https://expansion.mx/economia/2026/10/12/limite-deducciones-empresas-2027-comision-diputados",
+      "fecha": "12 Oct 2026, 20:31 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Mantendrá México de las inflaciones médicas más altas en América Latina en 2027",
-      "resumen": "El alza prevista supera por más de cuatro veces la inflación general de México. Aunque el ritmo bajará frente a 2026, los costos médicos seguirán presionando los presupuestos de empresas y familias.",
-      "link": "https://expansion.mx/economia/2026/10/10/mantendra-mexico-de-las-inflaciones-medicas-mas-altas-en-america-latina-en-2027",
-      "fecha": "10 Oct 2026, 08:00 hrs"
+      "titulo": "Televisa comprará AT&T México: qué pasará con tu línea y qué ocurrirá si todavía tienes una deuda",
+      "resumen": "Si se aprueba la operación, la empresa pasará a manos de uno de los mayores operadores del país, lo que abre interrogantes sobre los contratos, los pagos y los avisos a los usuarios.",
+      "link": "https://expansion.mx/empresas/2026/10/13/televisa-compra-at-t-que-pasara-con-tu-linea-y-deuda",
+      "fecha": "13 Oct 2026, 16:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Televisa y Fintech Holdings acuerdan comprar AT&T México por 2,000 millones de dólares",
+      "resumen": "La compañía prevé registrar su inversión bajo el método de participación, sin consolidar directamente las operaciones de AT&amp;T México.",
+      "link": "https://expansion.mx/empresas/2026/10/13/televisa-acuerda-compra-att-mexico-2000-millones-dolares",
+      "fecha": "13 Oct 2026, 14:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién fabrica las marcas propias de Tiendas 3B? Esto se sabe de las empresas detrás de sus productos",
+      "resumen": "La cadena tiene marcas de lácteos y alimentos hasta artículos de belleza y limpieza. Sin embargo, tener una marca propia no significa que la tienda los fabrique.",
+      "link": "https://expansion.mx/empresas/2026/10/13/marcas-propias-tiendas-3b-fabricante-detras-lo-que-se-sabe",
+      "fecha": "13 Oct 2026, 12:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El coche eléctrico que vale menos de 100,000 pesos, lo venden en Waldo's y quiere competir con Olinia",
+      "resumen": "El vehículo alcanza una velocidad máxima de 40 kilómetros por hora, teniendo una capacidad de hasta 60 kilómetros por carga.",
+      "link": "https://expansion.mx/empresas/2026/10/13/kiwo-coche-electrico-waldos-barato-competencia-olinia",
+      "fecha": "13 Oct 2026, 12:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,48 +147,21 @@
       "fecha": "12 Oct 2026, 13:56 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es el dueño de Kiwo, la marca de autos eléctricos chinos que vende Waldo’s y competirá con Olinia?",
-      "resumen": "Kiwo vende vehículos eléctricos desde 79,999 pesos y utiliza distintos canales para llegar a sus clientes. Esta es la relación de la marca con Waldo’s y lo que la distingue del proyecto Olinia.",
-      "link": "https://expansion.mx/empresas/2026/10/12/quien-es-dueno-kiwo-autos-electricos-competira-olinia",
-      "fecha": "12 Oct 2026, 13:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué Tiendas 3B vende tan barato y sigue ganando millones? El secreto del \"Hard Discount\"",
-      "resumen": "La estrategia de Tiendas 3B también depende de dónde abre sus sucursales. Concentrar establecimientos en zonas cercanas puede facilitar el abastecimiento y reducir los costos de las rutas de reparto.",
-      "link": "https://expansion.mx/empresas/2026/10/11/por-que-tiendas-3b-vende-tan-barato-secreto-hard-discount",
-      "fecha": "11 Oct 2026, 18:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De equipo de adolescentes a negocio de 490 millones: cómo los Azcárraga convirtieron al América en un imperio",
-      "resumen": "El América dejó de ser solo un equipo de futbol para convertirse en un activo financiero. Hoy, los Azcárraga buscan rentabilizar su afición, su estadio y su marca.",
-      "link": "https://expansion.mx/empresas/2026/10/09/america-azcarraga-historia-negocio-y-valor-en-bolsa",
-      "fecha": "09 Oct 2026, 16:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Chivas y Omnilife, Jorge Vergara se levantaba a las 4:00 de la mañana para vender carnitas",
-      "resumen": "Antes de Chivas y Omnilife, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
-      "link": "https://expansion.mx/empresas/2026/09/18/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
-      "fecha": "09 Oct 2026, 13:57 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Compran Televisa y Fintech Holdings a AT&amp;T México",
+      "resumen": "AT&amp;T llegó a un acuerdo para vender su filial en México a Grupo Televisa y Fintech Holdings.",
+      "link": "https://www.reforma.com/compran-televisa-y-fintech-holdings-a-at-t-mexico/ar3293966",
+      "fecha": "13 Oct 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exentarán de arancel del 10% a autopartes",
-      "resumen": "Gobierno de México publicó decreto que exenta temporalmente del arancel de importación de 10% a partes y componentes para ensamble de autos.",
-      "link": "https://www.reforma.com/exentaran-de-arancel-del-10-a-autopartes/ar3293786",
+      "titulo": "Exentan temporalmente arancel del 10% a autopartes",
+      "resumen": "Gobierno de México publicó decreto que exenta temporalmente arancel de importación de 10% a partes y componentes para ensamble de autos.",
+      "link": "https://www.reforma.com/exentan-temporalmente-arancel-del-10-a-autopartes/ar3293786",
       "fecha": "13 Oct 2026, 11:18 hrs"
     },
     {
@@ -168,28 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajan DNR para turismo extranjero y será de 17.8%.- Sectur",
-      "resumen": "El DNR para 2027, será de 17.8 % y no de 35.8 % como se planteó en el proyecto de modificación de la Ley Federal de Derechos, dijo Sectur.",
-      "link": "https://www.reforma.com/bajan-dnr-para-turismo-extranjero-y-sera-de-17-8-sectur/ar3293781",
-      "fecha": "13 Oct 2026, 11:18 hrs"
+      "titulo": "Exige Coparmex transparencia en uso de recursos del IMSS",
+      "resumen": "Coparmex exigió que el IMSS transparente el uso de las cuotas obrero patronales porque no se reflejan en la calidad de sus servicios.",
+      "link": "https://www.reforma.com/exige-coparmex-transparencia-en-uso-de-recursos-del-imss/ar3293959",
+      "fecha": "13 Oct 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva FMI a 1.5% su pronóstico  de PIB para México este año",
-      "resumen": "El FMI elevó su pronóstico de crecimiento del PIB de México al 1.5% este año, desde el 1.2% de julio, y dijo que en 2027 alcanzaría el 1.8%.",
-      "link": "https://www.reforma.com/eleva-fmi-a-1-5-su-pronostico-de-pib-para-mexico-este-ano/ar3293660",
-      "fecha": "13 Oct 2026, 07:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aprobarían fusión Viva-Volaris antes de fin de año",
-      "resumen": "La autoridad antimonopolio de México aprobará la fusión entre las aerolíneas Volaris y Viva antes de que termine el año, según fuentes.",
-      "link": "https://www.reforma.com/aprobarian-fusion-viva-volaris-antes-de-fin-de-ano/ar3293646",
-      "fecha": "13 Oct 2026, 07:24 hrs"
+      "titulo": "Aumenta EU producción de crudo",
+      "resumen": "La producción de petróleo crudo y condensados de EU pasó de 11.29 a 11.35 millones de barriles diarios, según Wood Mackenzie.",
+      "link": "https://www.reforma.com/aumenta-eu-produccion-de-crudo/ar3293955",
+      "fecha": "13 Oct 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cobra Monte intereses por recuperar prendas",
-      "resumen": "Usuarios de Nacional Monte de Piedad enfrentan incertidumbre de no saber cuándo recuperarán las prendas que empeñaron antes de la huelga.",
-      "link": "https://www.reforma.com/cobra-monte-intereses-por-recuperar-prendas/ar3293502",
-      "fecha": "13 Oct 2026, 05:01 hrs"
+      "titulo": "Bajan DNR para turismo extranjero y será de 17.8%.- Sectur",
+      "resumen": "El DNR para 2027, será de 17.8% y no de 35.8% como se planteó en el proyecto de modificación de la Ley Federal de Derechos, dijo Sectur.",
+      "link": "https://www.reforma.com/bajan-dnr-para-turismo-extranjero-y-sera-de-17-8-sectur/ar3293781",
+      "fecha": "13 Oct 2026, 11:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Planea Arcelor crecer un 47% en México",
-      "resumen": "ArcelorMittal México proyecta  incrementar su capacidad de producción de acero de 3.6 millones a 5.3 millones de toneladas anuales.",
-      "link": "https://www.reforma.com/planea-arcelor-crecer-un-47-en-mexico/ar3293549",
-      "fecha": "13 Oct 2026, 06:59 hrs"
+      "titulo": "Multa EU a Bank of America con 1,200 mdd por lavado",
+      "resumen": "Departamento del Tesoro de EU anunció que impondrá una multa de mil 200 millones de dólares a Bank of America por lavado de dinero.",
+      "link": "https://www.reforma.com/multa-eu-a-bank-of-america-con-1-200-mdd-por-lavado/ar3294003",
+      "fecha": "13 Oct 2026, 14:52 hrs"
     }
   ]
 }
