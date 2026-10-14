@@ -1,7 +1,70 @@
 {
-  "actualizado": "14/10/2026 07:20 hrs",
+  "actualizado": "14/10/2026 12:18 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México registra el tercer mayor avance entre los principales exportadores de bienes para la IA",
+      "resumen": "La participación del país pasó de 2.6% en 2023 a 4.8% en el primer semestre de 2026. El auge de los servidores fortalece su posición, mientras EU concentra la demanda y Malasia se mantiene al alcance.",
+      "link": "https://expansion.mx/economia/2026/10/14/mexico-aumenta-participacion-exportaciones-ia",
+      "fecha": "14 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
+      "resumen": "El pleno aprobó, en lo general, el dictamen que también amplía los umbrales para inscribirse al RESICO.",
+      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
+      "fecha": "13 Oct 2026, 22:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
+      "resumen": "El dictamen fue enviado para su discusión y votación en Comisiones y el pleno. La fecha límite de votación, con o sin cambios, es el 31 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
+      "fecha": "13 Oct 2026, 19:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
+      "resumen": "Negativas de pago, demoras en las indemnizaciones y problemas para cancelar pólizas están entre las inconformidades que enfrentan los clientes de seguros en México.",
+      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
+      "fecha": "13 Oct 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
+      "resumen": "El organismo empresarial respalda la meta de Sheinbaum de elevar la inversión, pero pide certidumbre jurídica, seguridad, energía competitiva, infraestructura y agua para concretarla.",
+      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
+      "fecha": "13 Oct 2026, 18:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
+      "resumen": "La presidenta presentó ante el CCE proyectos públicos y mixtos para cuatro años, facilidades para pagar adeudos fiscales en 2027 y medidas para acelerar la inversión privada.",
+      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
+      "fecha": "13 Oct 2026, 18:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
+      "resumen": "La autoridad dijo que el banco que no reportó riesgos como las “Redes Chinas de Lavado de Dinero” y “las finanzas ilícitas” a lo largo de la frontera sur.",
+      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
+      "fecha": "13 Oct 2026, 18:13 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -13,66 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cebolla encarece la canasta básica; hogares urbanos requirieron casi 5,000 pesos para cubrir alimentos y servicios",
-      "resumen": "De acuerdo con el INEGI, pese a la menor inflación general, el costo alimentario fue impulsado por insumos agrícolas y comidas fuera del hogar que elevaron el gasto familiar ineludible.",
-      "link": "https://expansion.mx/economia/2026/10/13/cebolla-encarece-la-canasta-basica-hogares-urbanos-requirieron-casi-5-000-pesos-para-cubrir-alimentos-y-servicios",
-      "fecha": "13 Oct 2026, 14:16 hrs"
+      "titulo": "Gasolineras con permisos pendientes frenan inversiones por más de 7,000 millones de pesos",
+      "resumen": "PetroIntelligence estima que 316 solicitudes de permisos para gasolineras mantienen inversiones comprometidas por 7,218 millones de pesos. De ese monto, 4,537 millones corresponden a estaciones que no…",
+      "link": "https://expansion.mx/empresas/2026/10/14/permisos-gasolineras-inversiones-detenidas-millones-pesos",
+      "fecha": "14 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Menos dinero por petróleo y más por impuestos, el dictamen de la Ley de Ingresos llega al pleno de Diputados",
-      "resumen": "Se prevé su discusión y votación en el pleno para la sesión que inicia este martes 13 de octubre, junto con los dictámenes de la Ley Federal de Derechos, y de la reforma a la Ley del Impuesto Sobre la…",
-      "link": "https://expansion.mx/economia/2026/10/13/menos-dinero-por-petroleo-y-mas-por-impuestos-el-dictamen-de-la-ley-de-ingresos-llega-al-pleno-de-diputados",
-      "fecha": "13 Oct 2026, 11:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México queda por debajo de Guatemala y Honduras en seguridad y estabilidad para negocios",
-      "resumen": "México obtiene sus peores calificaciones en control del crimen y estabilidad política en el índice de Estado de derecho para los negocios de la Cámara de Comercio de EU, elaborado con NORC.",
-      "link": "https://expansion.mx/economia/2026/10/13/mexico-debajo-guatemala-honduras-seguridad-negocios",
-      "fecha": "13 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Tope a deducciones de empresas pasa al pleno de la Cámara de Diputados",
-      "resumen": "Diputados de la Comisión de Hacienda avalaron la propuesta del Ejecutivo para cambios a la Ley del ISR que busca reforzar la batalla antifactureras y dar un mayor acceso al Resico.",
-      "link": "https://expansion.mx/economia/2026/10/12/limite-deducciones-empresas-2027-comision-diputados",
-      "fecha": "12 Oct 2026, 20:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim lleva otra empresa a la BMV; prepara debut de INCA en mercado accionario",
-      "resumen": "No se realizará una Oferta Pública Inicial. Se trata de una escisión de Grupo Financiero Inbursa.",
-      "link": "https://expansion.mx/economia/2026/10/12/carlos-slim-lleva-otra-empresa-a-la-bmv-prepara-debut-de-inca-en-mercado-accionario",
-      "fecha": "12 Oct 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados aprueban en Comisión alzas a cobros a turistas y al uso de vías férreas",
-      "resumen": "El derecho migratorio y las visas para extranjeros en México serán más caros en 2027, diputados de la oposición advierten sobre afectaciones para el turismo a raíz de los incrementos.",
-      "link": "https://expansion.mx/economia/2026/10/12/diputados-alzas-derechos-extranjeros-via-ferroviaria",
-      "fecha": "12 Oct 2026, 17:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hospitales y laboratorios deben involucrarse en discusión de crisis de seguros de gastos médicos: AMIS",
-      "resumen": "Pedro Pacheco, presidente del organismo, dijo que como industria han estado de cerca de los legisladores para intercambiar puntos de vista sobre las iniciativas que buscan incidir en el mercado",
-      "link": "https://expansion.mx/economia/2026/10/12/hospitales-y-laboratorios-deben-involucrarse-en-discusion-de-crisis-de-seguros-de-gastos-medicos-amis",
-      "fecha": "12 Oct 2026, 15:31 hrs"
+      "titulo": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
+      "resumen": "La presencia bursátil del empresario combina compañías consolidadas y negocios surgidos de escisiones. INCA será la siguiente pieza, aunque su precio inicial aún está por conocerse.",
+      "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
+      "fecha": "13 Oct 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,24 +147,6 @@
       "fecha": "12 Oct 2026, 16:35 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Por qué la Tiendas 3B de Polanco luce tan distinta a la de la colonia Guerrero? Las claves del negocio",
-      "resumen": "Algunas sucursales de la cadena marcan la diferencia por su fachada, aunque mantienen la lógica de precios competitivos del hard discount.",
-      "link": "https://expansion.mx/empresas/2026/10/12/que-diferencias-entre-tiendas-3b-polanco-guerrero",
-      "fecha": "12 Oct 2026, 15:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo",
-      "resumen": "Los viajeros usan la inteligencia artificial para buscar destinos, comparar opciones y planear vacaciones, pero empresas del sector enfrentan sistemas antiguos que los mantienen rezagados.",
-      "link": "https://expansion.mx/empresas/2026/10/12/ia-cambia-viajes-pero-empresas-arrastran-sistemas-rezagados",
-      "fecha": "12 Oct 2026, 13:56 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,33 @@
       "resumen": "La compra de AT&amp;T México por parte de Televisa y Fintech Holdings llevará a una mayor concentración en el sector de telecomunicaciones.",
       "link": "https://www.reforma.com/advierten-duopolio-de-telecom/ar3294279",
       "fecha": "14 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben 5.9% acciones de Televisa tras acuerdo con AT&amp;T México",
+      "resumen": "Los títulos de Televisa se negociaban en 8.58 pesos, con una ganancia del 5.9%, tras anunciar acuerdo para comprar AT&amp;T México por 2 mmdd.",
+      "link": "https://www.reforma.com/suben-5-9-acciones-de-televisa-tras-acuerdo-con-at-t-mexico/ar3294457",
+      "fecha": "14 Oct 2026, 08:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Regulan vigencia de permisos de petrolíferos bajo vieja ley",
+      "resumen": "La CNE publicó lineamientos para determinar plazos de los permisos de petrolíferos tramitados por la abrogada Ley de Hidrocarburos de 2014.",
+      "link": "https://www.reforma.com/regulan-vigencia-de-permisos-de-petroliferos-bajo-vieja-ley/ar3294566",
+      "fecha": "14 Oct 2026, 10:45 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Supera dólar los $18.50 tras datos de inflación en EU",
+      "resumen": "Tras los datos de inflación en EU, el peso llegó a debilitarse hasta los 18.5690 por dólar, nivel no visto desde noviembre del año pasado.",
+      "link": "https://www.reforma.com/supera-dolar-los-18-50-tras-datos-de-inflacion-en-eu/ar3294449",
+      "fecha": "14 Oct 2026, 07:32 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,37 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene industria química déficit comercial de 30 mil mdd",
-      "resumen": "Industria química registra un déficit en su balanza comercial de 30 mil millones de dólares, el segundo más elevado en al menos ocho años.",
-      "link": "https://www.reforma.com/tiene-industria-quimica-deficit-comercial-de-30-mil-mdd/ar3294262",
-      "fecha": "14 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Crece la economía de forma heterogénea",
       "resumen": "Economía mexicana creció 1.1% en el primer semestre de 2026 frente al mismo periodo de 2025 debido al comercio al por mayor.",
       "link": "https://www.reforma.com/crece-la-economia-de-forma-heterogenea/ar3294255",
       "fecha": "14 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lidera NL en anuncios de IED en México",
-      "resumen": "NL se posicionó en el primer lugar nacional en expectativas deI ED anunciada durante el periodo de enero a septiembre.",
-      "link": "https://www.reforma.com/lidera-nl-en-anuncios-de-ied-en-mexico/ar3294330",
-      "fecha": "14 Oct 2026, 07:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Envían ganado propenso a plaga",
-      "resumen": "Los envíos de bovinos heridos y propensos a padecimientos como el gusano barrenador a NL desde otras regiones del País repuntaron.",
-      "link": "https://www.reforma.com/envian-ganado-propenso-a-plaga/ar3294322",
-      "fecha": "14 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge CCE ante Sheinbaum cuidar calificación y bajar déficit",
-      "resumen": "En presencia de Sheinbaum, líder del CCE dijo que es necesario que el País conserve la calificación crediticia y que baje el déficit fiscal.",
-      "link": "https://www.reforma.com/urge-cce-ante-sheinbaum-cuidar-calificacion-y-bajar-deficit/ar3294155",
-      "fecha": "13 Oct 2026, 18:16 hrs"
+      "titulo": "Construirá GlobalFoundries dos plantas en EU por 21 mmdd",
+      "resumen": "La estadounidense GlobalFoundries anunció la construcción de 2 plantas de fabricación de chips en Nueva York, con una inversión de 21 mmdd.",
+      "link": "https://www.reforma.com/construira-globalfoundries-dos-plantas-en-eu-por-21-mmdd/ar3294618",
+      "fecha": "14 Oct 2026, 12:15 hrs"
     }
   ]
 }
