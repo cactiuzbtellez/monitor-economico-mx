@@ -1,34 +1,7 @@
 {
-  "actualizado": "14/10/2026 01:08 hrs",
+  "actualizado": "14/10/2026 07:20 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
-      "resumen": "El organismo empresarial respalda la meta de Sheinbaum de elevar la inversión, pero pide certidumbre jurídica, seguridad, energía competitiva, infraestructura y agua para concretarla.",
-      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
-      "fecha": "13 Oct 2026, 18:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
-      "resumen": "La presidenta presentó ante el CCE proyectos públicos y mixtos para cuatro años, facilidades para pagar adeudos fiscales en 2027 y medidas para acelerar la inversión privada.",
-      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
-      "fecha": "13 Oct 2026, 18:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
-      "resumen": "La autoridad dijo que el banco que no reportó riesgos como las “Redes Chinas de Lavado de Dinero” y “las finanzas ilícitas” a lo largo de la frontera sur.",
-      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
-      "fecha": "13 Oct 2026, 18:13 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +49,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
-      "resumen": "La presencia bursátil del empresario combina compañías consolidadas y negocios surgidos de escisiones. INCA será la siguiente pieza, aunque su precio inicial aún está por conocerse.",
-      "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
-      "fecha": "13 Oct 2026, 17:08 hrs"
+      "titulo": "Carlos Slim lleva otra empresa a la BMV; prepara debut de INCA en mercado accionario",
+      "resumen": "No se realizará una Oferta Pública Inicial. Se trata de una escisión de Grupo Financiero Inbursa.",
+      "link": "https://expansion.mx/economia/2026/10/12/carlos-slim-lleva-otra-empresa-a-la-bmv-prepara-debut-de-inca-en-mercado-accionario",
+      "fecha": "12 Oct 2026, 18:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados aprueban en Comisión alzas a cobros a turistas y al uso de vías férreas",
+      "resumen": "El derecho migratorio y las visas para extranjeros en México serán más caros en 2027, diputados de la oposición advierten sobre afectaciones para el turismo a raíz de los incrementos.",
+      "link": "https://expansion.mx/economia/2026/10/12/diputados-alzas-derechos-extranjeros-via-ferroviaria",
+      "fecha": "12 Oct 2026, 17:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hospitales y laboratorios deben involucrarse en discusión de crisis de seguros de gastos médicos: AMIS",
+      "resumen": "Pedro Pacheco, presidente del organismo, dijo que como industria han estado de cerca de los legisladores para intercambiar puntos de vista sobre las iniciativas que buscan incidir en el mercado",
+      "link": "https://expansion.mx/economia/2026/10/12/hospitales-y-laboratorios-deben-involucrarse-en-discusion-de-crisis-de-seguros-de-gastos-medicos-amis",
+      "fecha": "12 Oct 2026, 15:31 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +138,85 @@
       "fecha": "12 Oct 2026, 15:27 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Compran Televisa y Fintech Holdings a AT&amp;T México",
-      "resumen": "AT&amp;T llegó a un acuerdo para vender su filial en México a Grupo Televisa y Fintech Holdings.",
-      "link": "https://www.reforma.com/compran-televisa-y-fintech-holdings-a-at-t-mexico/ar3293966",
-      "fecha": "13 Oct 2026, 14:27 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo",
+      "resumen": "Los viajeros usan la inteligencia artificial para buscar destinos, comparar opciones y planear vacaciones, pero empresas del sector enfrentan sistemas antiguos que los mantienen rezagados.",
+      "link": "https://expansion.mx/empresas/2026/10/12/ia-cambia-viajes-pero-empresas-arrastran-sistemas-rezagados",
+      "fecha": "12 Oct 2026, 13:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exentan temporalmente arancel del 10% a autopartes",
-      "resumen": "Gobierno de México publicó decreto que exenta temporalmente arancel de importación de 10% a partes y componentes para ensamble de autos.",
-      "link": "https://www.reforma.com/exentan-temporalmente-arancel-del-10-a-autopartes/ar3293786",
-      "fecha": "13 Oct 2026, 11:18 hrs"
+      "titulo": "Advierten 'duopolio' de telecom",
+      "resumen": "La compra de AT&amp;T México por parte de Televisa y Fintech Holdings llevará a una mayor concentración en el sector de telecomunicaciones.",
+      "link": "https://www.reforma.com/advierten-duopolio-de-telecom/ar3294279",
+      "fecha": "14 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede México en participación económica de las mujeres",
-      "resumen": "México ocupa la posición 117 de 145 en participación y oportunidades económicas, según el WEF.",
-      "link": "https://www.reforma.com/retrocede-mexico-en-participacion-economica-de-las-mujeres/ar3293766",
-      "fecha": "13 Oct 2026, 11:02 hrs"
+      "titulo": "Endurecen controles comerciales;  alertan riesgos",
+      "resumen": "El Senado de la República aprobó ayer eliminar el umbral del 50% de subvaluación en mercancías de importación.",
+      "link": "https://www.reforma.com/endurecen-controles-comerciales-alertan-riesgos/ar3294327",
+      "fecha": "14 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exige Coparmex transparencia en uso de recursos del IMSS",
-      "resumen": "Coparmex exigió que el IMSS transparente el uso de las cuotas obrero patronales porque no se reflejan en la calidad de sus servicios.",
-      "link": "https://www.reforma.com/exige-coparmex-transparencia-en-uso-de-recursos-del-imss/ar3293959",
-      "fecha": "13 Oct 2026, 14:27 hrs"
+      "titulo": "Tiene industria química déficit comercial de 30 mil mdd",
+      "resumen": "Industria química registra un déficit en su balanza comercial de 30 mil millones de dólares, el segundo más elevado en al menos ocho años.",
+      "link": "https://www.reforma.com/tiene-industria-quimica-deficit-comercial-de-30-mil-mdd/ar3294262",
+      "fecha": "14 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta EU producción de crudo",
-      "resumen": "La producción de petróleo crudo y condensados de EU pasó de 11.29 a 11.35 millones de barriles diarios, según Wood Mackenzie.",
-      "link": "https://www.reforma.com/aumenta-eu-produccion-de-crudo/ar3293955",
-      "fecha": "13 Oct 2026, 14:27 hrs"
+      "titulo": "Crece la economía de forma heterogénea",
+      "resumen": "Economía mexicana creció 1.1% en el primer semestre de 2026 frente al mismo periodo de 2025 debido al comercio al por mayor.",
+      "link": "https://www.reforma.com/crece-la-economia-de-forma-heterogenea/ar3294255",
+      "fecha": "14 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece morosidad entre grandes bancos",
-      "resumen": "Las carteras de crédito de los principales bancos ubicados en México enfrentan un alza de la morosidad y deterioro, según Valmex.",
-      "link": "https://www.reforma.com/crece-morosidad-entre-grandes-bancos/ar3293721",
-      "fecha": "13 Oct 2026, 09:58 hrs"
+      "titulo": "Lidera NL en anuncios de IED en México",
+      "resumen": "NL se posicionó en el primer lugar nacional en expectativas deI ED anunciada durante el periodo de enero a septiembre.",
+      "link": "https://www.reforma.com/lidera-nl-en-anuncios-de-ied-en-mexico/ar3294330",
+      "fecha": "14 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bajan DNR para turismo extranjero y será de 17.8%.- Sectur",
-      "resumen": "El DNR para 2027, será de 17.8% y no de 35.8% como se planteó en el proyecto de modificación de la Ley Federal de Derechos, dijo Sectur.",
-      "link": "https://www.reforma.com/bajan-dnr-para-turismo-extranjero-y-sera-de-17-8-sectur/ar3293781",
-      "fecha": "13 Oct 2026, 11:18 hrs"
+      "titulo": "Envían ganado propenso a plaga",
+      "resumen": "Los envíos de bovinos heridos y propensos a padecimientos como el gusano barrenador a NL desde otras regiones del País repuntaron.",
+      "link": "https://www.reforma.com/envian-ganado-propenso-a-plaga/ar3294322",
+      "fecha": "14 Oct 2026, 07:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Multa EU a Bank of America con 1,200 mdd por lavado",
-      "resumen": "Departamento del Tesoro de EU anunció que impondrá una multa de mil 200 millones de dólares a Bank of America por lavado de dinero.",
-      "link": "https://www.reforma.com/multa-eu-a-bank-of-america-con-1-200-mdd-por-lavado/ar3294003",
-      "fecha": "13 Oct 2026, 14:52 hrs"
+      "titulo": "Gato por NOM",
+      "resumen": "Desde octubre del 2018, la NOM 035 fijó las bases para que las empresas atendieran los factores de riesgo psicosocial.",
+      "link": "https://www.reforma.com/gato-por-nom/ar3294320",
+      "fecha": "14 Oct 2026, 07:10 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge CCE ante Sheinbaum cuidar calificación y bajar déficit",
+      "resumen": "En presencia de Sheinbaum, líder del CCE dijo que es necesario que el País conserve la calificación crediticia y que baje el déficit fiscal.",
+      "link": "https://www.reforma.com/urge-cce-ante-sheinbaum-cuidar-calificacion-y-bajar-deficit/ar3294155",
+      "fecha": "13 Oct 2026, 18:16 hrs"
     }
   ]
 }
