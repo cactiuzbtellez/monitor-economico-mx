@@ -1,7 +1,70 @@
 {
-  "actualizado": "13/10/2026 16:20 hrs",
+  "actualizado": "13/10/2026 19:36 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
+      "resumen": "El organismo empresarial respalda la meta de Sheinbaum de elevar la inversión, pero pide certidumbre jurídica, seguridad, energía competitiva, infraestructura y agua para concretarla.",
+      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
+      "fecha": "13 Oct 2026, 18:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
+      "resumen": "La presidenta presentó ante el CCE proyectos públicos y mixtos para cuatro años, facilidades para pagar adeudos fiscales en 2027 y medidas para acelerar la inversión privada.",
+      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
+      "fecha": "13 Oct 2026, 18:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
+      "resumen": "La autoridad dijo que el banco que no reportó riesgos como las “Redes Chinas de Lavado de Dinero” y “las finanzas ilícitas” a lo largo de la frontera sur.",
+      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
+      "fecha": "13 Oct 2026, 18:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Peso presionado por la Reserva Federal de Estados Unidos; HSBC prevé otra alza en la tasa de la Fed",
+      "resumen": "HSBC mantiene sobreponderación en \nacciones mexicanas, con interés en sector financiero e infraestructura; incertidumbre comercial vinculada con la revisión del T-MEC sigue siendo un riesgo",
+      "link": "https://expansion.mx/economia/2026/10/13/peso-presionado-por-la-reserva-federal-de-estados-unidos-hsbc-preve-otra-alza-en-la-tasa-de-la-fed",
+      "fecha": "13 Oct 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cebolla encarece la canasta básica; hogares urbanos requirieron casi 5,000 pesos para cubrir alimentos y servicios",
+      "resumen": "De acuerdo con el INEGI, pese a la menor inflación general, el costo alimentario fue impulsado por insumos agrícolas y comidas fuera del hogar que elevaron el gasto familiar ineludible.",
+      "link": "https://expansion.mx/economia/2026/10/13/cebolla-encarece-la-canasta-basica-hogares-urbanos-requirieron-casi-5-000-pesos-para-cubrir-alimentos-y-servicios",
+      "fecha": "13 Oct 2026, 14:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Menos dinero por petróleo y más por impuestos, el dictamen de la Ley de Ingresos llega al pleno de Diputados",
+      "resumen": "Se prevé su discusión y votación en el pleno para la sesión que inicia este martes 13 de octubre, junto con los dictámenes de la Ley Federal de Derechos, y de la reforma a la Ley del Impuesto Sobre la…",
+      "link": "https://expansion.mx/economia/2026/10/13/menos-dinero-por-petroleo-y-mas-por-impuestos-el-dictamen-de-la-ley-de-ingresos-llega-al-pleno-de-diputados",
+      "fecha": "13 Oct 2026, 11:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México queda por debajo de Guatemala y Honduras en seguridad y estabilidad para negocios",
+      "resumen": "México obtiene sus peores calificaciones en control del crimen y estabilidad política en el índice de Estado de derecho para los negocios de la Cámara de Comercio de EU, elaborado con NORC.",
+      "link": "https://expansion.mx/economia/2026/10/13/mexico-debajo-guatemala-honduras-seguridad-negocios",
+      "fecha": "13 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -13,66 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Carlos Slim lleva otra empresa a la BMV; prepara debut de INCA en mercado accionario",
-      "resumen": "No se realizará una Oferta Pública Inicial. Se trata de una escisión de Grupo Financiero Inbursa.",
-      "link": "https://expansion.mx/economia/2026/10/12/carlos-slim-lleva-otra-empresa-a-la-bmv-prepara-debut-de-inca-en-mercado-accionario",
-      "fecha": "12 Oct 2026, 18:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados aprueban en Comisión alzas a cobros a turistas y al uso de vías férreas",
-      "resumen": "El derecho migratorio y las visas para extranjeros en México serán más caros en 2027, diputados de la oposición advierten sobre afectaciones para el turismo a raíz de los incrementos.",
-      "link": "https://expansion.mx/economia/2026/10/12/diputados-alzas-derechos-extranjeros-via-ferroviaria",
-      "fecha": "12 Oct 2026, 17:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hospitales y laboratorios deben involucrarse en discusión de crisis de seguros de gastos médicos: AMIS",
-      "resumen": "Pedro Pacheco, presidente del organismo, dijo que como industria han estado de cerca de los legisladores para intercambiar puntos de vista sobre las iniciativas que buscan incidir en el mercado",
-      "link": "https://expansion.mx/economia/2026/10/12/hospitales-y-laboratorios-deben-involucrarse-en-discusion-de-crisis-de-seguros-de-gastos-medicos-amis",
-      "fecha": "12 Oct 2026, 15:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Empresas cumplen con pagos al IMSS dice el CCE; exige mejorar la atención para trabajadores",
-      "resumen": "En medio de la crisis que vive el IMSS, el dirigente de la IP, José Medina Mora, denuncia cirugías aplazadas  y usuarios que compran sus propias medicinas. Pide al gobierno atender deficiencias.",
-      "link": "https://expansion.mx/economia/2026/10/12/empresas-pagan-imss-trabajadores-esperan-atencion",
-      "fecha": "12 Oct 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Niño pone a prueba las finanzas de 10 estados en México, alerta Standard and Poor's",
-      "resumen": "La agencia identifica riesgos para la producción, el empleo y los presupuestos estatales por sequías, inundaciones y ciclones; la capacidad de respuesta dependerá de los recursos disponibles y del apo…",
-      "link": "https://expansion.mx/economia/2026/10/12/el-nino-pone-a-prueba-las-finanzas-de-10-estados-en-mexico-alerta-standard-and-poors",
-      "fecha": "12 Oct 2026, 12:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nobel de Economía 2026 distingue a analistas de modelos en hogares y empresas que ayudan a gobiernos a enfrentar crisis",
-      "resumen": "Los galardonados son los estadounidenses Robert E. Hall, de Stanford, y Michael Woodford, por sus aportaciones a los fundamentos microeconómicos de la estabilización macroeconómica.",
-      "link": "https://expansion.mx/economia/2026/10/12/premio-nobel-de-economia-2026-robert-hall-michael-woodford",
-      "fecha": "12 Oct 2026, 07:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La violencia en Sinaloa encarece los seguros y deja a conductores y transportistas más desprotegidos",
-      "resumen": "Las pólizas se disparan hasta 400%, reportan transportistas. La entidad registra un fuerte crecimiento en la contratación de seguros de vida, de acuerdo con datos de la CNSF.",
-      "link": "https://expansion.mx/economia/2026/10/12/la-violencia-en-sinaloa-encarece-los-seguros-y-deja-a-conductores-y-transportistas-mas-desprotegidos",
-      "fecha": "12 Oct 2026, 05:55 hrs"
+      "titulo": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
+      "resumen": "La presencia bursátil del empresario combina compañías consolidadas y negocios surgidos de escisiones. INCA será la siguiente pieza, aunque su precio inicial aún está por conocerse.",
+      "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
+      "fecha": "13 Oct 2026, 17:08 hrs"
     },
     {
       "fuente": "Expansión",
@@ -136,15 +145,6 @@
       "resumen": "Algunas sucursales de la cadena marcan la diferencia por su fachada, aunque mantienen la lógica de precios competitivos del hard discount.",
       "link": "https://expansion.mx/empresas/2026/10/12/que-diferencias-entre-tiendas-3b-polanco-guerrero",
       "fecha": "12 Oct 2026, 15:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La IA cambia la forma de planear viajes, pero las empresas turísticas no logran seguirle el ritmo",
-      "resumen": "Los viajeros usan la inteligencia artificial para buscar destinos, comparar opciones y planear vacaciones, pero empresas del sector enfrentan sistemas antiguos que los mantienen rezagados.",
-      "link": "https://expansion.mx/empresas/2026/10/12/ia-cambia-viajes-pero-empresas-arrastran-sistemas-rezagados",
-      "fecha": "12 Oct 2026, 13:56 hrs"
     },
     {
       "fuente": "Reforma",
