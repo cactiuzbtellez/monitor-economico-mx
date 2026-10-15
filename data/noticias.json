@@ -1,7 +1,25 @@
 {
-  "actualizado": "15/10/2026 01:00 hrs",
+  "actualizado": "15/10/2026 07:05 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
+      "resumen": "Entre enero y septiembre se registraron 1.2 millones de avisos por operaciones con activos virtuales, en parte por la reducción del umbral para reportarlas.",
+      "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
+      "fecha": "15 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
+      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
+      "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
+      "fecha": "14 Oct 2026, 23:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
-      "resumen": "Negativas de pago, demoras en las indemnizaciones y problemas para cancelar pólizas están entre las inconformidades que enfrentan los clientes de seguros en México.",
-      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
-      "fecha": "13 Oct 2026, 19:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Del anuncio de inversión al empleo: el CCE plantea a Sheinbaum el reto del Plan México",
-      "resumen": "El organismo empresarial respalda la meta de Sheinbaum de elevar la inversión, pero pide certidumbre jurídica, seguridad, energía competitiva, infraestructura y agua para concretarla.",
-      "link": "https://expansion.mx/economia/2026/10/13/cce-sheinbaum-plan-mexico-inversion-empleos",
-      "fecha": "13 Oct 2026, 18:40 hrs"
+      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
+      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
+      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
+      "fecha": "15 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,22 @@
       "fecha": "14 Oct 2026, 16:30 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México espera auditoría de la FAA para confirmar si conserva la Categoría 1",
-      "resumen": "La autoridad aeronáutica de Estados Unidos evalúa el cumplimiento de México en materia de seguridad aérea. La SICT confía en que el país conservará la máxima calificación.",
-      "link": "https://expansion.mx/empresas/2026/10/14/mexico-categoria-1-seguridad-aerea-auditoria-faa",
-      "fecha": "14 Oct 2026, 14:06 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sancionarán delitos con reforma a Propiedad Industrial",
+      "resumen": "La reforma a la Ley Protección a la Propiedad Industrial crea nuevos delitos y busca castigar la falsificación de marcas.",
+      "link": "https://www.reforma.com/sancionaran-delitos-con-reforma-a-propiedad-industrial/ar3295049",
+      "fecha": "15 Oct 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Fijan límites a pagos de grandes lecheros",
+      "resumen": "Aunque Leche para el Bienestar aseguro que restableció pagos a productores de leche, redujo la capacidad de compra a un grupo de ganaderos.",
+      "link": "https://www.reforma.com/fijan-limites-a-pagos-de-grandes-lecheros/ar3295047",
+      "fecha": "15 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,24 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Regresa Heineken 100% del agua a Cuenca del Río San Juan",
-      "resumen": "Heineken en Monterrey logró un hito a nivel mundial, al reincorporar a la Cuenca del Río San Juan el 100% del agua que consumió en 10 años.",
-      "link": "https://www.reforma.com/regresa-heineken-100-del-agua-a-cuenca-del-rio-san-juan/ar3294859",
-      "fecha": "14 Oct 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Demandan 8 estados a OpenAI por riesgos de ChatGPT",
-      "resumen": "Ocho estados presentaron demandas contra OpenAI alegando que ChatGPT es un producto inseguro que ha perjudicado a niños y engañado a padres.",
-      "link": "https://www.reforma.com/demandan-8-estados-a-openai-por-riesgos-de-chatgpt/ar3294847",
-      "fecha": "14 Oct 2026, 15:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Gato por NOM",
       "resumen": "Desde octubre del 2018, la NOM 035 fijó las bases para que las empresas atendieran los factores de riesgo psicosocial.",
       "link": "https://www.reforma.com/gato-por-nom/ar3294320",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llegará Apple Intelligence a China en diciembre",
-      "resumen": "Fabricante del iPhone planea lanzar Apple Intelligence en China continental en diciembre como parte de la próxima actualización de iOS 27.3.",
-      "link": "https://www.reforma.com/llegara-apple-intelligence-a-china-en-diciembre/ar3294819",
-      "fecha": "14 Oct 2026, 15:08 hrs"
+      "titulo": "Regresa Heineken 100% del agua a Cuenca del Río San Juan",
+      "resumen": "Heineken en Monterrey logró un hito a nivel mundial, al reincorporar a la Cuenca del Río San Juan el 100% del agua que consumió en 10 años.",
+      "link": "https://www.reforma.com/regresa-heineken-100-del-agua-a-cuenca-del-rio-san-juan/ar3294859",
+      "fecha": "14 Oct 2026, 15:46 hrs"
     }
   ]
 }
