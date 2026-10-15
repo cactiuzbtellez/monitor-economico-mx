@@ -1,12 +1,12 @@
 {
-  "actualizado": "14/10/2026 19:13 hrs",
+  "actualizado": "15/10/2026 01:00 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Honorarios de doctores encarecen las pólizas de seguros de gastos médicos: la AMIS",
+      "titulo": "Honorarios de doctores encarecen las pólizas de seguros de gastos médicos: AMIS",
       "resumen": "De acuerdo con las aseguradoras, al cierre del primer trimestre de 2026 los padecimientos por los que más paga la industria son cánceres y tumores, con un total de 5,576 millones de pesos.",
       "link": "https://expansion.mx/economia/2026/10/14/honorarios-de-doctores-encarecen-las-polizas-de-seguros-de-gastos-medicos-la-amis",
       "fecha": "14 Oct 2026, 15:54 hrs"
@@ -78,73 +78,73 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
+      "resumen": "Los eléctricos eliminan varias tareas de un auto de gasolina, pero conserva piezas y líquidos que requieren revisiones y gastos periódicos.",
+      "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
+      "fecha": "14 Oct 2026, 19:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Plan Nescafé suma a más de 16,000 productores de café en México",
+      "resumen": "Plan Nescafé opera en Chiapas, Guerrero, Oaxaca, Puebla y Veracruz, donde busca fortalecer la productividad del campo con capacitación y renovación de plantas de café.",
+      "link": "https://expansion.mx/empresas/2026/10/14/nestle-plan-nescafe-productores-cafe-mexico",
+      "fecha": "14 Oct 2026, 18:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Rodrigo Herrera vuelve a un Genomma Lab con ventas a la baja y un nuevo modelo de negocio",
+      "resumen": "El fundador regresará como director general interino en enero de 2027, con el reto de recuperar el crecimiento de una compañía que apuesta por la inteligencia artificial para coordinar sus operaciones…",
+      "link": "https://expansion.mx/empresas/2026/10/14/rodrigo-herrera-reto-genomma-lab-ventas-a-la-baja",
+      "fecha": "14 Oct 2026, 18:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "SimiPet Care suma un laboratorio clínico para ampliar su negocio veterinario",
+      "resumen": "SimiPet Care inauguró SIMILAB PET, un laboratorio clínico que atenderá a 43 consultorios del área metropolitana y tendrá capacidad para procesar 5,000 estudios mensuales.",
+      "link": "https://expansion.mx/empresas/2026/10/14/simipet-care-laboratorio-clinico-mascotas",
+      "fecha": "14 Oct 2026, 18:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es David Martínez, el empresario detrás de Fintech, que comprará AT&T con Televisa y evita los reflectores?",
+      "resumen": "Fundador de Fintech, ha construido su fortuna con deuda corporativa y soberana, inversiones en empresas en crisis y participaciones en compañías de alcance internacional.",
+      "link": "https://expansion.mx/empresas/2026/10/14/david-martinez-inversionista-compra-att-con-televisa",
+      "fecha": "14 Oct 2026, 17:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De enemigo de Ford a salvador de Chrysler: el proyecto que Henry Ford II rechazó y rescató a su rival de la quiebra",
+      "resumen": "Ford despidió a los hombres detrás de una idea que Chrysler retomó en plena crisis y convirtió en una de sus mayores apuestas.",
+      "link": "https://expansion.mx/empresas/2026/10/14/henry-ford-ii-chrysler-k-car-minivan",
+      "fecha": "14 Oct 2026, 17:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "AT&T compró Iusacell para desafiar a Slim, pero ahora vende su negocio en México por la mitad de lo que le costó",
+      "resumen": "Más de una década después de comprar Iusacell y Nextel para competir con Telcel, AT&amp;T acordó vender su operación en México a Grupo Televisa y Fintech Holdings por 2,000 millones de dólares.",
+      "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
+      "fecha": "14 Oct 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "México espera auditoría de la FAA para confirmar si conserva la Categoría 1",
       "resumen": "La autoridad aeronáutica de Estados Unidos evalúa el cumplimiento de México en materia de seguridad aérea. La SICT confía en que el país conservará la máxima calificación.",
       "link": "https://expansion.mx/empresas/2026/10/14/mexico-categoria-1-seguridad-aerea-auditoria-faa",
       "fecha": "14 Oct 2026, 14:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México elimina arancel de 10% para importar kits y abre la puerta al ensamble de autos chinos sin contenido nacional",
-      "resumen": "La eliminación del arancel de 10% a los kits CKD y SKD abarata la instalación de líneas de armado, pero el país puede perder el efecto multiplicador de las plantas que desarrollan proveedores y empleo…",
-      "link": "https://expansion.mx/empresas/2026/10/14/mexico-elimina-arancel-kits-ckd-skd-ensamble-autos-chinos",
-      "fecha": "14 Oct 2026, 13:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Gasolineras con permisos pendientes frenan inversiones por más de 7,000 millones de pesos",
-      "resumen": "PetroIntelligence estima que 316 solicitudes de permisos para gasolineras mantienen inversiones comprometidas por 7,218 millones de pesos. De ese monto, 4,537 millones corresponden a estaciones que no…",
-      "link": "https://expansion.mx/empresas/2026/10/14/permisos-gasolineras-inversiones-detenidas-millones-pesos",
-      "fecha": "14 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim tiene 6 empresas enormes en la Bolsa Mexicana y una más por llegar: de minería a telecomunicaciones",
-      "resumen": "La presencia bursátil del empresario combina compañías consolidadas y negocios surgidos de escisiones. INCA será la siguiente pieza, aunque su precio inicial aún está por conocerse.",
-      "link": "https://expansion.mx/empresas/2026/10/13/carlos-slim-tiene-6-empresas-enormes-en-la-bolsa-mexicana",
-      "fecha": "13 Oct 2026, 17:08 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Televisa comprará AT&T México: qué pasará con tu línea y qué ocurrirá si todavía tienes una deuda",
-      "resumen": "Si se aprueba la operación, la empresa pasará a manos de uno de los mayores operadores del país, lo que abre interrogantes sobre los contratos, los pagos y los avisos a los usuarios.",
-      "link": "https://expansion.mx/empresas/2026/10/13/televisa-compra-at-t-que-pasara-con-tu-linea-y-deuda",
-      "fecha": "13 Oct 2026, 16:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Televisa y Fintech Holdings acuerdan comprar AT&T México por 2,000 millones de dólares",
-      "resumen": "La compañía prevé registrar su inversión bajo el método de participación, sin consolidar directamente las operaciones de AT&amp;T México.",
-      "link": "https://expansion.mx/empresas/2026/10/13/televisa-acuerda-compra-att-mexico-2000-millones-dolares",
-      "fecha": "13 Oct 2026, 14:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién fabrica las marcas propias de Tiendas 3B? Esto se sabe de las empresas detrás de sus productos",
-      "resumen": "La cadena tiene marcas de lácteos y alimentos hasta artículos de belleza y limpieza. Sin embargo, tener una marca propia no significa que la tienda los fabrique.",
-      "link": "https://expansion.mx/empresas/2026/10/13/marcas-propias-tiendas-3b-fabricante-detras-lo-que-se-sabe",
-      "fecha": "13 Oct 2026, 12:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El coche eléctrico que vale menos de 100,000 pesos, lo venden en Waldo's y quiere competir con Olinia",
-      "resumen": "El vehículo alcanza una velocidad máxima de 40 kilómetros por hora, teniendo una capacidad de hasta 60 kilómetros por carga.",
-      "link": "https://expansion.mx/empresas/2026/10/13/kiwo-coche-electrico-waldos-barato-competencia-olinia",
-      "fecha": "13 Oct 2026, 12:41 hrs"
     },
     {
       "fuente": "Reforma",
