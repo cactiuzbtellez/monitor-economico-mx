@@ -1,7 +1,34 @@
 {
-  "actualizado": "14/10/2026 16:02 hrs",
+  "actualizado": "14/10/2026 19:13 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Honorarios de doctores encarecen las pólizas de seguros de gastos médicos: la AMIS",
+      "resumen": "De acuerdo con las aseguradoras, al cierre del primer trimestre de 2026 los padecimientos por los que más paga la industria son cánceres y tumores, con un total de 5,576 millones de pesos.",
+      "link": "https://expansion.mx/economia/2026/10/14/honorarios-de-doctores-encarecen-las-polizas-de-seguros-de-gastos-medicos-la-amis",
+      "fecha": "14 Oct 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Impuestos y deuda serán las principales fuentes de recursos públicos en 2027; diputados aprueban Ley de Ingresos",
+      "resumen": "La mayoría del pleno de la Cámara de Diputados aprobó en lo general la Ley que determina de dónde provendrá el dinero para brindar servicios públicos como educación, salud y seguridad. Aún se discuten…",
+      "link": "https://expansion.mx/economia/2026/10/14/impuestos-deuda-fuentes-recursos-publicos-2027",
+      "fecha": "14 Oct 2026, 15:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bankaool apuesta por Pymes y subirse al Plan México",
+      "resumen": "La institución financiera, propiedad de Grupo OMNI, abrirá más sucursales a la par de mayor uso de tecnología.",
+      "link": "https://expansion.mx/economia/2026/10/14/bankaool-apuesta-por-pymes-y-subirse-al-plan-mexico",
+      "fecha": "14 Oct 2026, 13:40 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -15,8 +42,8 @@
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Cámara de Diputados avala reforma a Ley de ISR que limita deducciones a las empresas",
-      "resumen": "El pleno aprobó en lo general, el dictamen que también amplía los umbrales para inscribirse al RESICO.",
+      "titulo": "Diputados avalan reforma a Ley de ISR que limita deducciones a las empresas y amplía umbral para RESICO",
+      "resumen": "El pleno aprobó en lo general y particular, el dictamen que plantea nuevos límites a deducciones de empresas con ingresos mayores a 50 millones de pesos. El documento fue enviado al Senado para su dis…",
       "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
       "fecha": "13 Oct 2026, 22:38 hrs"
     },
@@ -49,30 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sheinbaum presenta inversión de 8.4 billones para impulsar el crecimiento de México",
-      "resumen": "La presidenta presentó ante el CCE proyectos públicos y mixtos para cuatro años, facilidades para pagar adeudos fiscales en 2027 y medidas para acelerar la inversión privada.",
-      "link": "https://expansion.mx/economia/2026/10/13/sheinbaum-inversion-8-4-billones-infraestructura",
-      "fecha": "13 Oct 2026, 18:20 hrs"
+      "titulo": "México espera auditoría de la FAA para confirmar si conserva la Categoría 1",
+      "resumen": "La autoridad aeronáutica de Estados Unidos evalúa el cumplimiento de México en materia de seguridad aérea. La SICT confía en que el país conservará la máxima calificación.",
+      "link": "https://expansion.mx/empresas/2026/10/14/mexico-categoria-1-seguridad-aerea-auditoria-faa",
+      "fecha": "14 Oct 2026, 14:06 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sanciona Departamento del Tesoro a Bank of America con 1,210 mdd por permitir lavado de dinero de China",
-      "resumen": "La autoridad dijo que el banco que no reportó riesgos como las “Redes Chinas de Lavado de Dinero” y “las finanzas ilícitas” a lo largo de la frontera sur.",
-      "link": "https://expansion.mx/economia/2026/10/13/sanciona-departamento-del-tesoro-a-bank-of-america-con-1-210-mdd-por-permitir-lavado-de-dinero-de-china",
-      "fecha": "13 Oct 2026, 18:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Peso presionado por la Reserva Federal de Estados Unidos; HSBC prevé otra alza en la tasa de la Fed",
-      "resumen": "HSBC mantiene sobreponderación en \nacciones mexicanas, con interés en sector financiero e infraestructura; incertidumbre comercial vinculada con la revisión del T-MEC sigue siendo un riesgo",
-      "link": "https://expansion.mx/economia/2026/10/13/peso-presionado-por-la-reserva-federal-de-estados-unidos-hsbc-preve-otra-alza-en-la-tasa-de-la-fed",
-      "fecha": "13 Oct 2026, 15:58 hrs"
+      "titulo": "México elimina arancel de 10% para importar kits y abre la puerta al ensamble de autos chinos sin contenido nacional",
+      "resumen": "La eliminación del arancel de 10% a los kits CKD y SKD abarata la instalación de líneas de armado, pero el país puede perder el efecto multiplicador de las plantas que desarrollan proveedores y empleo…",
+      "link": "https://expansion.mx/empresas/2026/10/14/mexico-elimina-arancel-kits-ckd-skd-ensamble-autos-chinos",
+      "fecha": "14 Oct 2026, 13:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,58 +147,40 @@
       "fecha": "13 Oct 2026, 12:41 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hyundai lanza Venue en México para competir por los clientes de Chevrolet Groove, Nissan Magnite y Kia Sonet",
-      "resumen": "La marca introduce Venue, una SUV subcompacta importada de India que se colocará por debajo de Creta. Con precios desde 395,000 pesos, competirá por un segmento que ya representa 42% de las ventas de …",
-      "link": "https://expansion.mx/empresas/2026/10/13/hyundai-venue-2027-precio-mexico",
-      "fecha": "13 Oct 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim tiene casi 100 departamentos frente a Bellas Artes: el negocio que pasa inadvertido en la CDMX",
-      "resumen": "El desarrollo forma parte de un portafolio residencial que suma al menos 3,546 viviendas identificables en México y refleja el alcance de los negocios inmobiliarios de Inmuebles Carso.",
-      "link": "https://expansion.mx/empresas/2026/10/12/carlos-slim-negocio-departamentos-frente-a-bellas-artes",
-      "fecha": "12 Oct 2026, 16:35 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Proponen garantías contra exclusión ante 'ley cero efectivo'",
+      "resumen": "Incoativa de Ley de Economía Digital para modernizar el sistema de pagos podría excluir a sectores vulnerables, advirtió México Evalúa.",
+      "link": "https://www.reforma.com/proponen-garantias-contra-exclusion-ante-ley-cero-efectivo/ar3294988",
+      "fecha": "14 Oct 2026, 18:46 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Expresa AMIA preocupación en EU por reglas de origen",
-      "resumen": "La AMIA planteó ante la USITC su preocupación por endurecer las reglas de origen del sector para México y Canadá.",
-      "link": "https://www.reforma.com/expresa-amia-preocupacion-en-eu-por-reglas-de-origen/ar3294681",
-      "fecha": "14 Oct 2026, 14:09 hrs"
+      "titulo": "Dejan seguros de GMM margen de apenas 0.5%.-AMIS",
+      "resumen": "De cada 100 pesos que reciben las aseguradoras por primas de gastos médicos, solo 0.5% representan márgenes para el sector, aseguró AMIS.",
+      "link": "https://www.reforma.com/dejan-seguros-de-gmm-margen-de-apenas-0-5-amis/ar3294952",
+      "fecha": "14 Oct 2026, 18:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Vence plazo sin garantías para compra de AHMSA",
-      "resumen": "Síndico que lleva proceso de quiebra de AHMSA dijo que ni CIESA ni otros postores entregaron depósito de garantía para quedarse con activos.",
-      "link": "https://www.reforma.com/vence-plazo-sin-garantias-para-compra-de-ahmsa/ar3294741",
-      "fecha": "14 Oct 2026, 14:09 hrs"
+      "titulo": "Nombran a Paulino Morán director general de Amanac",
+      "resumen": "La Asociación Mexicana de Agentes Navieros (Amanac) anunció el nombramiento del capitán Paulino Morán como su nuevo director general.",
+      "link": "https://www.reforma.com/nombran-a-paulino-moran-director-general-de-amanac/ar3294931",
+      "fecha": "14 Oct 2026, 17:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Calculan que Fintech tendría 61.15% de AT&amp;T México",
-      "resumen": "Fintech se perfila como el mayor inversionista económico en AT&amp;T México, con una participación directa e indirecta de 61.15 por ciento.",
-      "link": "https://www.reforma.com/calculan-que-fintech-tendria-61-15-de-at-t-mexico/ar3294738",
-      "fecha": "14 Oct 2026, 14:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Analiza Pemex biorrefinería para combustible de aviación",
-      "resumen": "Pemex analiza la construcción de una biorefiniería en Veracruz y construirá una planta en la refinería de Tula para producir bioturbosina.",
-      "link": "https://www.reforma.com/analiza-pemex-biorrefineria-para-combustible-de-aviacion/ar3294743",
-      "fecha": "14 Oct 2026, 14:39 hrs"
+      "titulo": "Confía SICT en mantener Categoría 1 en seguridad aérea",
+      "resumen": "SICT confía en que tras la auditoria de la Administración Federal de Aviación de EU se mantendrá la categoría 1 en seguridad aérea.",
+      "link": "https://www.reforma.com/confia-sict-en-mantener-categoria-1-en-seguridad-aerea/ar3294883",
+      "fecha": "14 Oct 2026, 17:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prepara Citi la salida a bolsa de Banamex",
-      "resumen": "CEO de Citigroup dijo que trabajan intensamente en la separación total de Banamex, mientras hijos de Chico Pardo buscan revitalizar negocio.",
-      "link": "https://www.reforma.com/prepara-citi-la-salida-a-bolsa-de-banamex/ar3294775",
-      "fecha": "14 Oct 2026, 14:39 hrs"
+      "titulo": "Llegará Apple Intelligence a China en diciembre",
+      "resumen": "Fabricante del iPhone planea lanzar Apple Intelligence en China continental en diciembre como parte de la próxima actualización de iOS 27.3.",
+      "link": "https://www.reforma.com/llegara-apple-intelligence-a-china-en-diciembre/ar3294819",
+      "fecha": "14 Oct 2026, 15:08 hrs"
     }
   ]
 }
