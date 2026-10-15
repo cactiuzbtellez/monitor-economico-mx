@@ -1,7 +1,25 @@
 {
-  "actualizado": "15/10/2026 12:00 hrs",
+  "actualizado": "15/10/2026 15:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bank of America cumple con los estándares antilavado de dinero, aseguró Emilio Romano",
+      "resumen": "El director ejecutivo de la institución estadounidense en México aseguró que la firma cumple con los estándares más altos en prevención de operaciones ilícitas",
+      "link": "https://expansion.mx/economia/2026/10/15/bank-of-america-cumple-con-los-estandares-antilavado-de-dinero-aseguro-emilio-romano",
+      "fecha": "15 Oct 2026, 14:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Exportaciones de México crecerán 26% y superarán el ritmo regional, proyecta la Cepal",
+      "resumen": "Las manufacturas y las cadenas productivas de Norteamérica impulsan las ventas mexicanas. El país tendrá el segundo mayor crecimiento exportador de la región, después de Perú.",
+      "link": "https://expansion.mx/economia/2026/10/15/exportaciones-mexico-creceran-26-por-ciento-cepal-2026",
+      "fecha": "15 Oct 2026, 09:17 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -15,7 +33,7 @@
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
+      "titulo": "Diputados aprueban condonación de multas y recargos del SAT a grandes empresas en 2027",
       "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
       "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "fecha": "14 Oct 2026, 23:21 hrs"
@@ -55,24 +73,6 @@
       "resumen": "La participación del país pasó de 2.6% en 2023 a 4.8% en el primer semestre de 2026. El auge de los servidores fortalece su posición, mientras EU concentra la demanda y Malasia se mantiene al alcance.",
       "link": "https://expansion.mx/economia/2026/10/14/mexico-aumenta-participacion-exportaciones-ia",
       "fecha": "14 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados avalan reforma a Ley de ISR que limita deducciones a las empresas y amplía umbral para RESICO",
-      "resumen": "El pleno aprobó en lo general y particular, el dictamen que plantea nuevos límites a deducciones de empresas con ingresos mayores a 50 millones de pesos. El documento fue enviado al Senado para su dis…",
-      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
-      "fecha": "13 Oct 2026, 22:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
-      "resumen": "El dictamen fue enviado para su discusión y votación en Comisiones y el pleno. La fecha límite de votación, con o sin cambios, es el 31 de octubre.",
-      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
-      "fecha": "13 Oct 2026, 19:56 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,19 +150,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sancionarán delitos con reforma a Propiedad Industrial",
-      "resumen": "La reforma a la Ley Protección a la Propiedad Industrial crea nuevos delitos y busca castigar la falsificación de marcas.",
-      "link": "https://www.reforma.com/sancionaran-delitos-con-reforma-a-propiedad-industrial/ar3295049",
-      "fecha": "15 Oct 2026, 05:02 hrs"
+      "titulo": "Enfrenta aviación mexicana riesgo de nuevas trabas de EU",
+      "resumen": "La Agencia Federal de Aviación Civil (AFAC) enfrenta el reto de solventar 21 observaciones de la Administración de Aviación de EU (FAA).",
+      "link": "https://www.reforma.com/enfrenta-aviacion-mexicana-riesgo-de-nuevas-trabas-de-eu/ar3295522",
+      "fecha": "15 Oct 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arrebatan cobranza a Préstamo Feliz",
-      "resumen": "Calidris, especializada en cobranza, asumió operación de toda la cartera de créditos de Préstamo Feliz a nombre de acreedores de la Sofom.",
-      "link": "https://www.reforma.com/arrebatan-cobranza-a-prestamo-feliz/ar3293500",
-      "fecha": "15 Oct 2026, 07:05 hrs"
+      "titulo": "Reduce emisión simplificada 20% costo de financiamiento",
+      "resumen": "La primera emisión simplificada en la BMV disminuyó 20 por ciento los costos potenciales de colocación, según Altor Casa de Bolsa.",
+      "link": "https://www.reforma.com/reduce-emision-simplificada-20-costo-de-financiamiento/ar3295487",
+      "fecha": "15 Oct 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sugieren aprovechar refinerías para SAF",
+      "resumen": "México debe aprovechar la infraestructura de refinación de Pemex para empezar a producir bioturbosina en el corto plazo, señaló OACI.",
+      "link": "https://www.reforma.com/sugieren-aprovechar-refinerias-para-saf/ar3295614",
+      "fecha": "15 Oct 2026, 15:48 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Están en riesgo 46% de las empresas familiares.- IPADE",
+      "resumen": "El 46 por ciento de las empresas familiares están en riesgo de no subsistir debido a malas prácticas, destacó el IPADE.",
+      "link": "https://www.reforma.com/estan-en-riesgo-46-de-las-empresas-familiares-ipade/ar3295490",
+      "fecha": "15 Oct 2026, 14:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen modernizar puertos y simplificar trámites",
+      "resumen": "La Concamin pidió que el País aproveche la oportunidad de maximizar su integración comercial, en especial con América Latina.",
+      "link": "https://www.reforma.com/urgen-modernizar-puertos-y-simplificar-tramites/ar3295513",
+      "fecha": "15 Oct 2026, 14:15 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,45 +204,18 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Urgen diálogo con productores lecheros",
+      "resumen": "Ante la reducción de compras de leche por parte del sector público, el CNA llamó a que el Gobierno abra el diálogo con los ganaderos.",
+      "link": "https://www.reforma.com/urgen-dialogo-con-productores-lecheros/ar3295564",
+      "fecha": "15 Oct 2026, 15:48 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Pide ANIERM objetividad en Ley Aduanera",
       "resumen": "La principal preocupación en las reformas a la Ley Aduanera es la subjetividad de la autoridad, advirtió la ANIERM.",
       "link": "https://www.reforma.com/pide-anierm-objetividad-en-ley-aduanera/ar3295384",
-      "fecha": "15 Oct 2026, 11:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Adoptan empresas IA, pero en nivel básico",
-      "resumen": "El acelerado desarrollo de la Inteligencia Artificial (IA) y sus diversas herramientas ya permea en dos de cada cinco empresas.",
-      "link": "https://www.reforma.com/adoptan-empresas-ia-pero-en-nivel-basico/ar3295110",
-      "fecha": "15 Oct 2026, 07:05 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufre Nasdaq interrupción en red que afecta flujo de datos",
-      "resumen": "Nasdaq sufre una interrupción de la red en sus instalaciones de Nueva Jersey, lo que afecta el flujo de datos en todos sus mercados de EU.",
-      "link": "https://www.reforma.com/sufre-nasdaq-interrupcion-en-red-que-afecta-flujo-de-datos/ar3295361",
-      "fecha": "15 Oct 2026, 11:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Revela Anthropic ingresos de 16,800 mdd previo a su OPI",
-      "resumen": "Anthropic comunicó a los posibles inversionistas que los ingresos del tercer trimestre se dispararon un 45% con respecto al anterior.",
-      "link": "https://www.reforma.com/revela-anthropic-ingresos-de-16-800-mdd-previo-a-su-opi/ar3295234",
-      "fecha": "15 Oct 2026, 07:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Funcionará modelo de IA de Meta en las Mac",
-      "resumen": "Apple y Meta anunciaron alianza en la que los desarrolladores podrán ejecutar el modelo Muse Spark Open en las Mac Studio de Apple.",
-      "link": "https://www.reforma.com/funcionara-modelo-de-ia-de-meta-en-las-mac/ar3295385",
       "fecha": "15 Oct 2026, 11:32 hrs"
     }
   ]
