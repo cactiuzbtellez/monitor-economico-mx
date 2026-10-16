@@ -1,7 +1,25 @@
 {
-  "actualizado": "16/10/2026 13:20 hrs",
+  "actualizado": "16/10/2026 16:34 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "China avanza con las dark factories; México busca encender su industria sin apagar la luz",
+      "resumen": "China instala más de 68 robots industriales por cada uno en México. Las dark factories marcan el rumbo de una transformación que la industria mexicana adopta “sin pausa, pero sin prisa”.",
+      "link": "https://expansion.mx/economia/2026/10/16/dark-factories-china-mexico-automatizacion-industrial",
+      "fecha": "16 Oct 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Arancel cero para ensamblar autos se limita a 11 fabricantes, señala la Secretaría de Economía",
+      "resumen": "Tener una planta en México será un requisito para acceder al beneficio. Los lineamientos también prevén mínimos de producción y controles sobre las piezas importadas.",
+      "link": "https://expansion.mx/economia/2026/10/16/economia-exencion-arancel-ensamble-autos-mexico",
+      "fecha": "16 Oct 2026, 12:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
-      "resumen": "Entre enero y septiembre se registraron 1.2 millones de avisos por operaciones con activos virtuales, en parte por la reducción del umbral para reportarlas.",
-      "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
-      "fecha": "15 Oct 2026, 05:55 hrs"
+      "titulo": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
+      "resumen": "La empresa surgió del grupo América Móvil y obtiene ingresos al arrendar espacios para antenas y equipos de transmisión. Su red suma más de 37,000 sitios y torres en 15 países.",
+      "link": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
+      "fecha": "16 Oct 2026, 15:25 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Diputados aprueban condonación de multas y recargos del SAT a grandes empresas en 2027",
-      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
-      "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
-      "fecha": "14 Oct 2026, 23:21 hrs"
+      "titulo": "Empezó usando baterías de laptop, circula desde hace años en el espacio y es el primer auto volador de Tesla",
+      "resumen": "El Roadster nació para demostrar que un eléctrico podía ser deseable. Dos décadas después, Tesla lleva esa idea del asfalto al aire.",
+      "link": "https://expansion.mx/empresas/2026/10/16/tesla-roadster-auto-volador-historia",
+      "fecha": "16 Oct 2026, 13:37 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,31 +147,22 @@
       "fecha": "15 Oct 2026, 16:44 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
-      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
-      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
-      "fecha": "15 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Plan Nescafé suma a más de 16,000 productores de café en México",
-      "resumen": "Plan Nescafé opera en Chiapas, Guerrero, Oaxaca, Puebla y Veracruz, donde busca fortalecer la productividad del campo con capacitación y renovación de plantas de café.",
-      "link": "https://expansion.mx/empresas/2026/10/14/nestle-plan-nescafe-productores-cafe-mexico",
-      "fecha": "14 Oct 2026, 18:50 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Levanta EU veto a vuelos del AICM y AIFA",
+      "resumen": "Departamento de Transporte de EU levantó la restricción que impedía a aerolíneas mexicanas lanzar nuevos vuelos desde el AICM y AIFA.",
+      "link": "https://www.reforma.com/levanta-eu-veto-a-vuelos-del-aicm-y-aifa/ar3296375",
+      "fecha": "16 Oct 2026, 15:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quitan arancel en autopartes a empresas instaladas en México",
-      "resumen": "La baja arancelaria de 10 por ciento a cero para autopartes, sólo aplica a las empresas con instalaciones productivas en México, dijo la SE.",
-      "link": "https://www.reforma.com/quitan-arancel-en-autopartes-a-empresas-instaladas-en-mexico/ar3296243",
-      "fecha": "16 Oct 2026, 12:14 hrs"
+      "titulo": "Suspenden ganaderos temporalmente exportaciones a EU",
+      "resumen": "Ganaderos de Sonora informaron la suspensión temporal de exportaciones a EU tras detectar lesión en ganado que coincide con fiebre aftosa.",
+      "link": "https://www.reforma.com/suspenden-ganaderos-temporalmente-exportaciones-a-eu/ar3296359",
+      "fecha": "16 Oct 2026, 15:12 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +177,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Genera Lutnick aún más dudas sobre el futuro del T-MEC",
-      "resumen": "Negociaciones entre México y EU se han estancado ya que Howard Lutnick se opone a reducir aranceles al acero, aluminio y autos mexicanos.",
-      "link": "https://www.reforma.com/genera-lutnick-aun-mas-dudas-sobre-el-futuro-del-t-mec/ar3296113",
-      "fecha": "16 Oct 2026, 08:51 hrs"
+      "titulo": "Quitan arancel en autopartes a empresas instaladas en México",
+      "resumen": "La baja arancelaria de 10 por ciento a cero para autopartes, sólo aplica a las empresas con instalaciones productivas en México, dijo la SE.",
+      "link": "https://www.reforma.com/quitan-arancel-en-autopartes-a-empresas-instaladas-en-mexico/ar3296243",
+      "fecha": "16 Oct 2026, 12:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hila empleo manufacturero 4 reveses; cae 2.03% anual",
-      "resumen": "De enero a agosto, el personal ocupado en las manufacturas del País padeció su cuarta variación negativa al hilo.",
-      "link": "https://www.reforma.com/hila-empleo-manufacturero-4-reveses-cae-2-03-anual/ar3296241",
-      "fecha": "16 Oct 2026, 12:04 hrs"
+      "titulo": "Liga peso sexta semana de pérdidas; cierra dólar en $18.48",
+      "resumen": "El dólar cerró en $18.4895 por dólar, con una depreciación del 0.51% para el peso, que acumuló un retroceso semanal de un 0.54%.",
+      "link": "https://www.reforma.com/liga-peso-sexta-semana-de-perdidas-cierra-dolar-en-18-48/ar3296379",
+      "fecha": "16 Oct 2026, 15:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alcanza déficit fiscal de EU  1.992 billones de dólares",
-      "resumen": "Entre octubre de 2025 y septiembre de 2026, el déficit público de EU aumentó 12% con respecto al año anterior, a 1.992 billones de dólares.",
-      "link": "https://www.reforma.com/alcanza-deficit-fiscal-de-eu-1-992-billones-de-dolares/ar3296250",
-      "fecha": "16 Oct 2026, 12:28 hrs"
+      "titulo": "Preocupa más la IA que el cambio climático",
+      "resumen": "Para expertos, la IA lidera la clasificación de riesgos emergentes, por lo que preocupa más que el cambio climático, según Axa.",
+      "link": "https://www.reforma.com/preocupa-mas-la-ia-que-el-cambio-climatico/ar3296329",
+      "fecha": "16 Oct 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a VW y trabajadores a resolver diferencias salariales",
-      "resumen": "Autoridades mexicanas instan a VW Puebla y trabajadores a reanudar conversaciones tras rechazo de sindicato a propuesta de aumento salarial.",
-      "link": "https://www.reforma.com/urgen-a-vw-y-trabajadores-a-resolver-diferencias-salariales/ar3296120",
-      "fecha": "16 Oct 2026, 09:01 hrs"
+      "titulo": "Carecen 38 millones de personas de acceso a seguridad social",
+      "resumen": "En el País, 38 millones de personas ocupadas carecen de acceso a la salud y seguridad social, advirtió Acción Ciudadana Frente a la Pobreza.",
+      "link": "https://www.reforma.com/carecen-38-millones-de-personas-de-acceso-a-seguridad-social/ar3296326",
+      "fecha": "16 Oct 2026, 14:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toca Brent 110 dólares por primera vez desde mayo",
-      "resumen": "Los futuros del Brent tocaron los 110 dólares por primera vez desde mayo, mientras que el WTI subió 3.5% a un máximo de 101.41 dólares.",
-      "link": "https://www.reforma.com/toca-brent-110-dolares-por-primera-vez-desde-mayo/ar3296216",
-      "fecha": "16 Oct 2026, 11:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Supera 50% probabilidad de fusión entre Tesla y SpaceX",
-      "resumen": "Tras presentación del auto volador Roadster, la probabilidad de una fusión Tesla-SpaceX antes de marzo aumentaron del 29% al 56% en Kalshi.",
-      "link": "https://www.reforma.com/supera-50-probabilidad-de-fusion-entre-tesla-y-spacex/ar3296098",
-      "fecha": "16 Oct 2026, 08:12 hrs"
+      "titulo": "Registran S&amp;P 500 y Nasdaq mayor caída semanal desde junio",
+      "resumen": "En la semana, el S&amp;P 500 cayó 1.95%, el Nasdaq perdió 4.5%, mientras que el Dow Jones subió 0.67%.",
+      "link": "https://www.reforma.com/registran-s-p-500-y-nasdaq-mayor-caida-semanal-desde-junio/ar3296330",
+      "fecha": "16 Oct 2026, 14:27 hrs"
     }
   ]
 }
