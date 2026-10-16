@@ -1,13 +1,67 @@
 {
-  "actualizado": "15/10/2026 23:29 hrs",
+  "actualizado": "16/10/2026 04:47 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
-      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras la reunión de la presidenta Sheinbaum con el CCE.",
+      "titulo": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
+      "resumen": "El movimiento refleja el vínculo entre la petrolera y el gobierno federal, en un momento en que la calificadora mantiene su evaluación en escala local y reconoce una reducción en los niveles de deuda.",
+      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
+      "fecha": "15 Oct 2026, 22:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Retiros por desempleo de Afores marcan récord en septiembre; alcanza 36,200 millones de pesos",
+      "resumen": "1.6 millones de trabajadores han sacado dinero de cuenta de ahorro para el retiro, un 18% más que en los primeros nueve meses del 2025.",
+      "link": "https://expansion.mx/economia/2026/10/15/retiros-por-desempleo-de-afores-alcanzan-record-en-septiembre-se-dispara-34-el-monto-consar",
+      "fecha": "15 Oct 2026, 18:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "HR Ratings baja la calificación de largo plazo de México por deterioro fiscal y menor crecimiento",
+      "resumen": "La agencia redujo de BBB+ a BBB la nota crediticia; mantuvo la perspectiva estable y ratificó la calificación de corto plazo en HR3.",
+      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-recorta-calificacion-mexico-deterioro-fiscal",
+      "fecha": "15 Oct 2026, 16:49 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Bank of America cumple con los estándares antilavado de dinero, aseguró Emilio Romano",
+      "resumen": "El director ejecutivo de la institución estadounidense en México aseguró que la firma cumple con los estándares más altos en prevención de operaciones ilícitas",
+      "link": "https://expansion.mx/economia/2026/10/15/bank-of-america-cumple-con-los-estandares-antilavado-de-dinero-aseguro-emilio-romano",
+      "fecha": "15 Oct 2026, 14:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Exportaciones de México crecerán 26% y superarán el ritmo regional, proyecta la Cepal",
+      "resumen": "Las manufacturas y las cadenas productivas de Norteamérica impulsan las ventas mexicanas. El país tendrá el segundo mayor crecimiento exportador de la región, después de Perú.",
+      "link": "https://expansion.mx/economia/2026/10/15/exportaciones-mexico-creceran-26-por-ciento-cepal-2026",
+      "fecha": "15 Oct 2026, 09:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
+      "resumen": "Entre enero y septiembre se registraron 1.2 millones de avisos por operaciones con activos virtuales, en parte por la reducción del umbral para reportarlas.",
+      "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
+      "fecha": "15 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados aprueban condonación de multas y recargos del SAT a grandes empresas en 2027",
+      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
       "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "fecha": "14 Oct 2026, 23:21 hrs"
     },
@@ -22,66 +76,66 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Impuestos y deuda serán las principales fuentes de recursos públicos en 2027; diputados aprueban Ley de Ingresos",
-      "resumen": "La mayoría del pleno de la Cámara de Diputados aprobó en lo general la Ley que determina de dónde provendrá el dinero para brindar servicios públicos como educación, salud y seguridad. Aún se discuten…",
-      "link": "https://expansion.mx/economia/2026/10/14/impuestos-deuda-fuentes-recursos-publicos-2027",
-      "fecha": "14 Oct 2026, 15:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Bankaool apuesta por Pymes y subirse al Plan México",
-      "resumen": "La institución financiera, propiedad de Grupo OMNI, abrirá más sucursales a la par de mayor uso de tecnología.",
-      "link": "https://expansion.mx/economia/2026/10/14/bankaool-apuesta-por-pymes-y-subirse-al-plan-mexico",
-      "fecha": "14 Oct 2026, 13:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México registra el tercer mayor avance entre los principales exportadores de bienes para la IA",
-      "resumen": "La participación del país pasó de 2.6% en 2023 a 4.8% en el primer semestre de 2026. El auge de los servidores fortalece su posición, mientras EU concentra la demanda y Malasia se mantiene al alcance.",
-      "link": "https://expansion.mx/economia/2026/10/14/mexico-aumenta-participacion-exportaciones-ia",
-      "fecha": "14 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados avalan reforma a Ley de ISR que limita deducciones a las empresas y amplía umbral para RESICO",
-      "resumen": "El pleno aprobó en lo general y particular, el dictamen que plantea nuevos límites a deducciones de empresas con ingresos mayores a 50 millones de pesos. El documento fue enviado al Senado para su dis…",
-      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
-      "fecha": "13 Oct 2026, 22:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
-      "resumen": "El dictamen fue enviado para su discusión y votación en Comisiones y el pleno. La fecha límite de votación, con o sin cambios, es el 31 de octubre.",
-      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
-      "fecha": "13 Oct 2026, 19:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
-      "resumen": "Negativas de pago, demoras en las indemnizaciones y problemas para cancelar pólizas están entre las inconformidades que enfrentan los clientes de seguros en México.",
-      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
-      "fecha": "13 Oct 2026, 19:42 hrs"
+      "titulo": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
+      "resumen": "El resultado vuelve a poner en entredicho una negociación que la automotriz y el sindicato habían cerrado el 2 de octubre, después de meses de conversaciones para revisar las condiciones laborales de …",
+      "link": "https://expansion.mx/empresas/2026/10/15/trabajadores-volkswagen-rechazan-contrato-colectivo-huelga",
+      "fecha": "15 Oct 2026, 23:57 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
-      "resumen": "Los eléctricos eliminan varias tareas de un auto de gasolina, pero conserva piezas y líquidos que requieren revisiones y gastos periódicos.",
-      "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
-      "fecha": "14 Oct 2026, 19:44 hrs"
+      "titulo": "Ni Azcárraga ni Vergara: este es el empresario número uno del futbol mexicano",
+      "resumen": "Una historia familiar, décadas de negocios y una larga relación con el futbol explican cómo se construyó una de las mayores fortunas del sector.",
+      "link": "https://expansion.mx/empresas/2026/10/15/empresario-numero-uno-del-futbol-mexicano",
+      "fecha": "15 Oct 2026, 21:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely lanza Monjaro EM-i, el SUV enchufable rival de BYD Song Plus y Mitsubishi Outlander",
+      "resumen": "La marca china apuesta por esta SUV para captar clientes que buscan electrificación y mostrar tecnología que también respalde su oferta de modelos de mayor volumen.",
+      "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
+      "fecha": "15 Oct 2026, 19:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Costco estrena telefonía móvil para competir con Bait de Walmart, ¿qué ofrece Woz y en qué se diferencia?",
+      "resumen": "Costco amplía su oferta más allá de las compras en tienda con un servicio móvil reservado para sus socios. Bait, de Walmart, compite con recargas de prepago y paquetes que van de siete días a un año.",
+      "link": "https://expansion.mx/empresas/2026/10/15/costco-telefonia-movil-competir-bait-walmart-diferencia",
+      "fecha": "15 Oct 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Slim y Televisa eran socios, estalló una guerra de 4 años y la compra de AT&T México podría reabrirla en 2027",
+      "resumen": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisi…",
+      "link": "https://expansion.mx/empresas/2026/10/15/slim-televisa-guerra-empresarial-compra-att-mexico",
+      "fecha": "15 Oct 2026, 18:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia tendrá un rival chino: el mini auto eléctrico que consume 4 veces menos energía y busca conquistar México",
+      "resumen": "Olinia busca desarrollar vehículos eléctricos accesibles con participación de instituciones públicas mexicanas. Mientras se prepara su llegada al mercado, Jinpeng ya comercializa modelos en México.",
+      "link": "https://expansion.mx/empresas/2026/10/15/olinia-rival-auto-electrico-chino-cuatro-veces-menos-100-km",
+      "fecha": "15 Oct 2026, 16:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
+      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
+      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
+      "fecha": "15 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -91,60 +145,6 @@
       "resumen": "Plan Nescafé opera en Chiapas, Guerrero, Oaxaca, Puebla y Veracruz, donde busca fortalecer la productividad del campo con capacitación y renovación de plantas de café.",
       "link": "https://expansion.mx/empresas/2026/10/14/nestle-plan-nescafe-productores-cafe-mexico",
       "fecha": "14 Oct 2026, 18:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Rodrigo Herrera vuelve a un Genomma Lab con ventas a la baja y un nuevo modelo de negocio",
-      "resumen": "El fundador regresará como director general interino en enero de 2027, con el reto de recuperar el crecimiento de una compañía que apuesta por la inteligencia artificial para coordinar sus operaciones…",
-      "link": "https://expansion.mx/empresas/2026/10/14/rodrigo-herrera-reto-genomma-lab-ventas-a-la-baja",
-      "fecha": "14 Oct 2026, 18:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "SimiPet Care suma un laboratorio clínico para ampliar su negocio veterinario",
-      "resumen": "SimiPet Care inauguró SIMILAB PET, un laboratorio clínico que atenderá a 43 consultorios del área metropolitana y tendrá capacidad para procesar 5,000 estudios mensuales.",
-      "link": "https://expansion.mx/empresas/2026/10/14/simipet-care-laboratorio-clinico-mascotas",
-      "fecha": "14 Oct 2026, 18:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es David Martínez, el empresario detrás de Fintech, que comprará AT&T con Televisa y evita los reflectores?",
-      "resumen": "Fundador de Fintech, ha construido su fortuna con deuda corporativa y soberana, inversiones en empresas en crisis y participaciones en compañías de alcance internacional.",
-      "link": "https://expansion.mx/empresas/2026/10/14/david-martinez-inversionista-compra-att-con-televisa",
-      "fecha": "14 Oct 2026, 17:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De enemigo de Ford a salvador de Chrysler: el proyecto que Henry Ford II rechazó y rescató a su rival de la quiebra",
-      "resumen": "Ford despidió a los hombres detrás de una idea que Chrysler retomó en plena crisis y convirtió en una de sus mayores apuestas.",
-      "link": "https://expansion.mx/empresas/2026/10/14/henry-ford-ii-chrysler-k-car-minivan",
-      "fecha": "14 Oct 2026, 17:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AT&T compró Iusacell para desafiar a Slim, pero ahora vende su negocio en México por la mitad de lo que le costó",
-      "resumen": "Más de una década después de comprar Iusacell y Nextel para competir con Telcel, AT&amp;T acordó vender su operación en México a Grupo Televisa y Fintech Holdings por 2,000 millones de dólares.",
-      "link": "https://expansion.mx/empresas/2026/10/14/at-t-compro-iusacell-desafiar-slim-vender-televisa-fintech",
-      "fecha": "14 Oct 2026, 16:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México espera auditoría de la FAA para confirmar si conserva la Categoría 1",
-      "resumen": "La autoridad aeronáutica de Estados Unidos evalúa el cumplimiento de México en materia de seguridad aérea. La SICT confía en que el país conservará la máxima calificación.",
-      "link": "https://expansion.mx/empresas/2026/10/14/mexico-categoria-1-seguridad-aerea-auditoria-faa",
-      "fecha": "14 Oct 2026, 14:06 hrs"
     },
     {
       "fuente": "Reforma",
