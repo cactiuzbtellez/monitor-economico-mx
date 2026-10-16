@@ -1,40 +1,13 @@
 {
-  "actualizado": "15/10/2026 18:10 hrs",
+  "actualizado": "15/10/2026 23:29 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Bank of America cumple con los estándares antilavado de dinero, aseguró Emilio Romano",
-      "resumen": "El director ejecutivo de la institución estadounidense en México aseguró que la firma cumple con los estándares más altos en prevención de operaciones ilícitas",
-      "link": "https://expansion.mx/economia/2026/10/15/bank-of-america-cumple-con-los-estandares-antilavado-de-dinero-aseguro-emilio-romano",
-      "fecha": "15 Oct 2026, 14:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Exportaciones de México crecerán 26% y superarán el ritmo regional, proyecta la Cepal",
-      "resumen": "Las manufacturas y las cadenas productivas de Norteamérica impulsan las ventas mexicanas. El país tendrá el segundo mayor crecimiento exportador de la región, después de Perú.",
-      "link": "https://expansion.mx/economia/2026/10/15/exportaciones-mexico-creceran-26-por-ciento-cepal-2026",
-      "fecha": "15 Oct 2026, 09:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las criptomonedas disparan 52% los avisos antilavado ante la UIF",
-      "resumen": "Entre enero y septiembre se registraron 1.2 millones de avisos por operaciones con activos virtuales, en parte por la reducción del umbral para reportarlas.",
-      "link": "https://expansion.mx/economia/2026/10/15/las-criptomonedas-disparan-52-los-avisos-antilavado-ante-la-uif",
-      "fecha": "15 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados aprueban condonación de multas y recargos del SAT a grandes empresas en 2027",
-      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
+      "titulo": "Diputados aprueban eliminar límite para programa del SAT que condona multas y recargos en 2027",
+      "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras la reunión de la presidenta Sheinbaum con el CCE.",
       "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "fecha": "14 Oct 2026, 23:21 hrs"
     },
@@ -76,21 +49,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Olinia tendrá un rival chino: el mini auto eléctrico que consume 4 veces menos energía y busca conquistar México",
-      "resumen": "Olinia busca desarrollar vehículos eléctricos accesibles con participación de instituciones públicas mexicanas. Mientras se prepara su llegada al mercado, Jinpeng ya comercializa modelos en México.",
-      "link": "https://expansion.mx/empresas/2026/10/15/olinia-rival-auto-electrico-chino-cuatro-veces-menos-100-km",
-      "fecha": "15 Oct 2026, 16:44 hrs"
+      "titulo": "Diputados avalan reforma a Ley de ISR que limita deducciones a las empresas y amplía umbral para RESICO",
+      "resumen": "El pleno aprobó en lo general y particular, el dictamen que plantea nuevos límites a deducciones de empresas con ingresos mayores a 50 millones de pesos. El documento fue enviado al Senado para su dis…",
+      "link": "https://expansion.mx/economia/2026/10/13/diputados-aprueba-reforma-ley-isr-deducciones-empresas",
+      "fecha": "13 Oct 2026, 22:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Derechos 2027 pasa al Senado con alzas a cuotas para turistas, trenes y aeronaves",
+      "resumen": "El dictamen fue enviado para su discusión y votación en Comisiones y el pleno. La fecha límite de votación, con o sin cambios, es el 31 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/13/ley-derechos-2027-alzas-cuotas-turistas-aereo-vias-ferreas",
+      "fecha": "13 Oct 2026, 19:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Quejas contra aseguradoras en México crecen 7.76% y los reclamos suman 2,386 mdp",
+      "resumen": "Negativas de pago, demoras en las indemnizaciones y problemas para cancelar pólizas están entre las inconformidades que enfrentan los clientes de seguros en México.",
+      "link": "https://expansion.mx/economia/2026/10/13/quejas-contra-aseguradoras-en-mexico-crecen-7-76-y-los-reclamos-suman-2-386-mdp",
+      "fecha": "13 Oct 2026, 19:42 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
-      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
-      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
-      "fecha": "15 Oct 2026, 05:55 hrs"
+      "titulo": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
+      "resumen": "Los eléctricos eliminan varias tareas de un auto de gasolina, pero conserva piezas y líquidos que requieren revisiones y gastos periódicos.",
+      "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
+      "fecha": "14 Oct 2026, 19:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,12 +138,66 @@
       "fecha": "14 Oct 2026, 16:30 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "México espera auditoría de la FAA para confirmar si conserva la Categoría 1",
+      "resumen": "La autoridad aeronáutica de Estados Unidos evalúa el cumplimiento de México en materia de seguridad aérea. La SICT confía en que el país conservará la máxima calificación.",
+      "link": "https://expansion.mx/empresas/2026/10/14/mexico-categoria-1-seguridad-aerea-auditoria-faa",
+      "fecha": "14 Oct 2026, 14:06 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja HR Ratings calificación de México",
+      "titulo": "Rechaza sindicato de VW Puebla incremento de 13.16%",
+      "resumen": "Trabajadores de Volkswagen votaron en contra del acuerdo bianual que se había alcanzado con la empresa, para evitar estallar una huelga.",
+      "link": "https://www.reforma.com/rechaza-sindicato-de-vw-puebla-incremento-de-13-16/ar3295943",
+      "fecha": "15 Oct 2026, 21:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven necesario alcanzar un acuerdo concreto en aranceles",
+      "resumen": "México debe alcanzar un acuerdo concreto en materia arancelaria sobre los sectores del acero y automotriz, coincidieron especialistas.",
+      "link": "https://www.reforma.com/ven-necesario-alcanzar-un-acuerdo-concreto-en-aranceles/ar3295871",
+      "fecha": "15 Oct 2026, 20:25 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Amenaza burocracia a cadenas de suministro automotriz",
+      "resumen": "Endurecimiento en verificación de certificados de molino está afectando a la industria automotriz por retención de acero.",
+      "link": "https://www.reforma.com/amenaza-burocracia-a-cadenas-de-suministro-automotriz/ar3295844",
+      "fecha": "15 Oct 2026, 19:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afectarían elecciones en EU revisión del T-MEC.- Cepal",
+      "resumen": "Las elecciones de noviembre en Estados Unidos podrían influir en la revisión del T-MEC y el futuro comercial de México, advirtió la Cepal.",
+      "link": "https://www.reforma.com/afectarian-elecciones-en-eu-revision-del-t-mec-cepal/ar3295827",
+      "fecha": "15 Oct 2026, 19:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipan crisis en autotransporte por desabasto de diesel",
+      "resumen": "Amanac anticipa una crisis por desabasto en el autotransporte de carga si se detienen las exportaciones de diesel desde EU.",
+      "link": "https://www.reforma.com/anticipan-crisis-en-autotransporte-por-desabasto-de-diesel/ar3295785",
+      "fecha": "15 Oct 2026, 18:13 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja HR nota al País por deterioro fiscal y poco crecimiento",
       "resumen": "HR Ratings recortó la calificación de largo plazo de la deuda soberana de México de BBB+ a BBB debido al deterioro de las finanzas públicas.",
-      "link": "https://www.reforma.com/baja-hr-ratings-calificacion-de-mexico/ar3295766",
+      "link": "https://www.reforma.com/baja-hr-nota-al-pais-por-deterioro-fiscal-y-poco-crecimiento/ar3295766",
       "fecha": "15 Oct 2026, 17:49 hrs"
     },
     {
@@ -171,51 +216,6 @@
       "titulo": "Debe sector químico anticiparse a cambios.- ANIQ",
       "resumen": "La industria química mexicana debe pasar de responder a los cambios del entorno global a fortalecer la competitividad del País, según ANIQ.",
       "link": "https://www.reforma.com/debe-sector-quimico-anticiparse-a-cambios-aniq/ar3295714",
-      "fecha": "15 Oct 2026, 17:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sugieren aprovechar refinerías para SAF",
-      "resumen": "México debe aprovechar la infraestructura de refinación de Pemex para empezar a producir bioturbosina en el corto plazo, señaló OACI.",
-      "link": "https://www.reforma.com/sugieren-aprovechar-refinerias-para-saf/ar3295614",
-      "fecha": "15 Oct 2026, 15:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cambia KFC a Pepsi por Coca-Cola en sus restaurantes de EU",
-      "resumen": "KFC está cambiando de PepsiCo a Coca-Cola como proveedor de bebidas para sus restaurantes en Estados Unidos.",
-      "link": "https://www.reforma.com/cambia-kfc-a-pepsi-por-coca-cola-en-sus-restaurantes-de-eu/ar3295588",
-      "fecha": "15 Oct 2026, 14:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube 3% precio del crudo WTI por fuerte demanda",
-      "resumen": "El barril de West Texas Intermediate (WTI) ganó un 3.03%, situándose en 97.97 dólares, mientras que el Brent bajó 0.13% a 105.92.",
-      "link": "https://www.reforma.com/sube-3-precio-del-crudo-wti-por-fuerte-demanda/ar3295565",
-      "fecha": "15 Oct 2026, 14:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Urgen diálogo con productores lecheros",
-      "resumen": "Ante la reducción de compras de leche por parte del sector público, el CNA llamó a que el Gobierno abra el diálogo con los ganaderos.",
-      "link": "https://www.reforma.com/urgen-dialogo-con-productores-lecheros/ar3295564",
-      "fecha": "15 Oct 2026, 15:48 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cuestionan presupuesto para sanidad pese aval de Senasica",
-      "resumen": "Pese a que para el Senasica la propuesta de presupuesto que le asignarían es suficiente, para los productores se necesita mayor monto.",
-      "link": "https://www.reforma.com/cuestionan-presupuesto-para-sanidad-pese-aval-de-senasica/ar3295563",
       "fecha": "15 Oct 2026, 17:49 hrs"
     }
   ]
