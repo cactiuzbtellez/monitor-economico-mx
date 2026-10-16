@@ -1,7 +1,16 @@
 {
-  "actualizado": "16/10/2026 09:13 hrs",
+  "actualizado": "16/10/2026 13:20 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más costos y menos deducciones presionan a las empresas en México para 2027",
+      "resumen": "La reducción de la jornada laboral y los cambios fiscales y aduaneros amenazan la rentabilidad de los negocios y la llegada de nuevas inversiones.",
+      "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
+      "fecha": "16 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El estimulo fiscal entró como reserva de Morena en la discusión y votación de Ley de Ingresos de la Federación 2027, Ricardo Monreal la presentó tras una reunión de la presidenta Sheinbaum con el CCE.",
       "link": "https://expansion.mx/economia/2026/10/14/diputados-aprueban-sat-condona-multas-recargos-2027",
       "fecha": "14 Oct 2026, 23:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Honorarios de doctores encarecen las pólizas de seguros de gastos médicos: AMIS",
-      "resumen": "De acuerdo con las aseguradoras, al cierre del primer trimestre de 2026 los padecimientos por los que más paga la industria son cánceres y tumores, con un total de 5,576 millones de pesos.",
-      "link": "https://expansion.mx/economia/2026/10/14/honorarios-de-doctores-encarecen-las-polizas-de-seguros-de-gastos-medicos-la-amis",
-      "fecha": "14 Oct 2026, 15:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Quitan arancel en autopartes a empresas instaladas en México",
+      "resumen": "La baja arancelaria de 10 por ciento a cero para autopartes, sólo aplica a las empresas con instalaciones productivas en México, dijo la SE.",
+      "link": "https://www.reforma.com/quitan-arancel-en-autopartes-a-empresas-instaladas-en-mexico/ar3296243",
+      "fecha": "16 Oct 2026, 12:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Gobierno inversionistas privados para fabricar Olinia",
+      "resumen": "El Gobierno federal busca inversionistas privados para construir Sociedad Olinia y fabricar autos eléctricos.",
+      "link": "https://www.reforma.com/busca-gobierno-inversionistas-privados-para-fabricar-olinia/ar3296261",
+      "fecha": "16 Oct 2026, 12:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Genera Lutnick aún más dudas sobre el futuro del T-MEC",
       "resumen": "Negociaciones entre México y EU se han estancado ya que Howard Lutnick se opone a reducir aranceles al acero, aluminio y autos mexicanos.",
       "link": "https://www.reforma.com/genera-lutnick-aun-mas-dudas-sobre-el-futuro-del-t-mec/ar3296113",
@@ -159,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fulmina a inversión tramititis energética",
-      "resumen": "Tardanza y ausencia de permisos gubernamentales para emprendimientos energéticos provocan que inversionistas desistan de proyectos en México",
-      "link": "https://www.reforma.com/fulmina-a-inversion-tramititis-energetica/ar3296005",
-      "fecha": "16 Oct 2026, 06:48 hrs"
+      "titulo": "Hila empleo manufacturero 4 reveses; cae 2.03% anual",
+      "resumen": "De enero a agosto, el personal ocupado en las manufacturas del País padeció su cuarta variación negativa al hilo.",
+      "link": "https://www.reforma.com/hila-empleo-manufacturero-4-reveses-cae-2-03-anual/ar3296241",
+      "fecha": "16 Oct 2026, 12:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aceleran autos 'made in China'",
-      "resumen": "A septiembre de este año, los autos manufacturados en China lograron crecer sus ventas en México, en el mejor de los casos hasta 180% anual.",
-      "link": "https://www.reforma.com/aceleran-autos-made-in-china/ar3295951",
-      "fecha": "16 Oct 2026, 05:01 hrs"
+      "titulo": "Alcanza déficit fiscal de EU  1.992 billones de dólares",
+      "resumen": "Entre octubre de 2025 y septiembre de 2026, el déficit público de EU aumentó 12% con respecto al año anterior, a 1.992 billones de dólares.",
+      "link": "https://www.reforma.com/alcanza-deficit-fiscal-de-eu-1-992-billones-de-dolares/ar3296250",
+      "fecha": "16 Oct 2026, 12:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede dólar a $18.37 tras declaraciones de Kevin Warsh",
-      "resumen": "El tipo de cambio cotiza en $18.37 por dólar, con un avance del 0.12% para el peso, que en la semana mostraba un retorno acumulado del 0.1%.",
-      "link": "https://www.reforma.com/retrocede-dolar-a-18-37-tras-declaraciones-de-kevin-warsh/ar3296094",
-      "fecha": "16 Oct 2026, 08:02 hrs"
+      "titulo": "Toca Brent 110 dólares por primera vez desde mayo",
+      "resumen": "Los futuros del Brent tocaron los 110 dólares por primera vez desde mayo, mientras que el WTI subió 3.5% a un máximo de 101.41 dólares.",
+      "link": "https://www.reforma.com/toca-brent-110-dolares-por-primera-vez-desde-mayo/ar3296216",
+      "fecha": "16 Oct 2026, 11:34 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Tras presentación del auto volador Roadster, la probabilidad de una fusión Tesla-SpaceX antes de marzo aumentaron del 29% al 56% en Kalshi.",
       "link": "https://www.reforma.com/supera-50-probabilidad-de-fusion-entre-tesla-y-spacex/ar3296098",
       "fecha": "16 Oct 2026, 08:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Emplea sector panadero a 530 mil mexicanos",
-      "resumen": "Con motivo del Día Mundial del Pan, la Canainppa reveló que el sector emplea a más de 530 mil mexicanos, así como a 60 mil panaderías.",
-      "link": "https://www.reforma.com/emplea-sector-panadero-a-530-mil-mexicanos/ar3295988",
-      "fecha": "16 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Defienden inversión en centros de datos",
-      "resumen": "Afirman que acelerada inversión en centros de datos en México no significa que van a dejar sin electricidad o sin agua a las comunidades.",
-      "link": "https://www.reforma.com/defienden-inversion-en-centros-de-datos/ar3296000",
-      "fecha": "16 Oct 2026, 06:48 hrs"
     }
   ]
 }
