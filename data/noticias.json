@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/10/2026 15:57 hrs",
+  "actualizado": "15/10/2026 18:10 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,19 +78,19 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
-      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
-      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
-      "fecha": "15 Oct 2026, 05:55 hrs"
+      "titulo": "Olinia tendrá un rival chino: el mini auto eléctrico que consume 4 veces menos energía y busca conquistar México",
+      "resumen": "Olinia busca desarrollar vehículos eléctricos accesibles con participación de instituciones públicas mexicanas. Mientras se prepara su llegada al mercado, Jinpeng ya comercializa modelos en México.",
+      "link": "https://expansion.mx/empresas/2026/10/15/olinia-rival-auto-electrico-chino-cuatro-veces-menos-100-km",
+      "fecha": "15 Oct 2026, 16:44 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Un auto eléctrico también pasa por el taller: cuánto cuesta mantenerlo y cada cuánto toca pagar",
-      "resumen": "Los eléctricos eliminan varias tareas de un auto de gasolina, pero conserva piezas y líquidos que requieren revisiones y gastos periódicos.",
-      "link": "https://expansion.mx/empresas/2026/10/14/cuanto-cuesta-mantenimiento-auto-electrico-byd",
-      "fecha": "14 Oct 2026, 19:44 hrs"
+      "titulo": "Vietnam incursiona como proveedor de autos para México con el primer embarque de Hyundai Creta",
+      "resumen": "El país asiático se incorpora a la cadena de suministro de vehículos para México en momentos en que los aranceles llevan a las marcas importadoras a buscar nuevos orígenes de producción.",
+      "link": "https://expansion.mx/empresas/2026/10/15/vietnam-incursiona-proveedor-autos-para-mexico-hyundai-creta",
+      "fecha": "15 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,19 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta aviación mexicana riesgo de nuevas trabas de EU",
-      "resumen": "La Agencia Federal de Aviación Civil (AFAC) enfrenta el reto de solventar 21 observaciones de la Administración de Aviación de EU (FAA).",
-      "link": "https://www.reforma.com/enfrenta-aviacion-mexicana-riesgo-de-nuevas-trabas-de-eu/ar3295522",
-      "fecha": "15 Oct 2026, 14:15 hrs"
+      "titulo": "Baja HR Ratings calificación de México",
+      "resumen": "HR Ratings recortó la calificación de largo plazo de la deuda soberana de México de BBB+ a BBB debido al deterioro de las finanzas públicas.",
+      "link": "https://www.reforma.com/baja-hr-ratings-calificacion-de-mexico/ar3295766",
+      "fecha": "15 Oct 2026, 17:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reduce emisión simplificada 20% costo de financiamiento",
-      "resumen": "La primera emisión simplificada en la BMV disminuyó 20 por ciento los costos potenciales de colocación, según Altor Casa de Bolsa.",
-      "link": "https://www.reforma.com/reduce-emision-simplificada-20-costo-de-financiamiento/ar3295487",
-      "fecha": "15 Oct 2026, 14:15 hrs"
+      "titulo": "Anticipan baja en producción de papa",
+      "resumen": "Confederación Nacional de Papa (Conpapa) anticipa que este año, la producción de papas será de 2 millones de toneladas; cifra menor a 2025.",
+      "link": "https://www.reforma.com/anticipan-baja-en-produccion-de-papa/ar3295750",
+      "fecha": "15 Oct 2026, 17:49 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Debe sector químico anticiparse a cambios.- ANIQ",
+      "resumen": "La industria química mexicana debe pasar de responder a los cambios del entorno global a fortalecer la competitividad del País, según ANIQ.",
+      "link": "https://www.reforma.com/debe-sector-quimico-anticiparse-a-cambios-aniq/ar3295714",
+      "fecha": "15 Oct 2026, 17:49 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,28 +186,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Están en riesgo 46% de las empresas familiares.- IPADE",
-      "resumen": "El 46 por ciento de las empresas familiares están en riesgo de no subsistir debido a malas prácticas, destacó el IPADE.",
-      "link": "https://www.reforma.com/estan-en-riesgo-46-de-las-empresas-familiares-ipade/ar3295490",
-      "fecha": "15 Oct 2026, 14:15 hrs"
+      "titulo": "Cambia KFC a Pepsi por Coca-Cola en sus restaurantes de EU",
+      "resumen": "KFC está cambiando de PepsiCo a Coca-Cola como proveedor de bebidas para sus restaurantes en Estados Unidos.",
+      "link": "https://www.reforma.com/cambia-kfc-a-pepsi-por-coca-cola-en-sus-restaurantes-de-eu/ar3295588",
+      "fecha": "15 Oct 2026, 14:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen modernizar puertos y simplificar trámites",
-      "resumen": "La Concamin pidió que el País aproveche la oportunidad de maximizar su integración comercial, en especial con América Latina.",
-      "link": "https://www.reforma.com/urgen-modernizar-puertos-y-simplificar-tramites/ar3295513",
-      "fecha": "15 Oct 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Otorgaría Telefónica préstamo a comprador de filial mexicana",
-      "resumen": "Telefónica está analizando otorgar un préstamo al comprador de su filial mexicana para ayudar a completar una operación anunciada en abril.",
-      "link": "https://www.reforma.com/otorgaria-telefonica-prestamo-a-comprador-de-filial-mexicana/ar3295367",
-      "fecha": "15 Oct 2026, 11:06 hrs"
+      "titulo": "Sube 3% precio del crudo WTI por fuerte demanda",
+      "resumen": "El barril de West Texas Intermediate (WTI) ganó un 3.03%, situándose en 97.97 dólares, mientras que el Brent bajó 0.13% a 105.92.",
+      "link": "https://www.reforma.com/sube-3-precio-del-crudo-wti-por-fuerte-demanda/ar3295565",
+      "fecha": "15 Oct 2026, 14:23 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide ANIERM objetividad en Ley Aduanera",
-      "resumen": "La principal preocupación en las reformas a la Ley Aduanera es la subjetividad de la autoridad, advirtió la ANIERM.",
-      "link": "https://www.reforma.com/pide-anierm-objetividad-en-ley-aduanera/ar3295384",
-      "fecha": "15 Oct 2026, 11:32 hrs"
+      "titulo": "Cuestionan presupuesto para sanidad pese aval de Senasica",
+      "resumen": "Pese a que para el Senasica la propuesta de presupuesto que le asignarían es suficiente, para los productores se necesita mayor monto.",
+      "link": "https://www.reforma.com/cuestionan-presupuesto-para-sanidad-pese-aval-de-senasica/ar3295563",
+      "fecha": "15 Oct 2026, 17:49 hrs"
     }
   ]
 }
