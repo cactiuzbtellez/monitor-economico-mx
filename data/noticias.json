@@ -1,7 +1,25 @@
 {
-  "actualizado": "17/10/2026 05:24 hrs",
+  "actualizado": "17/10/2026 09:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
+      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp,",
+      "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
+      "fecha": "16 Oct 2026, 18:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda sube IEPS a gasolinas y estímulos a diésel se mantienen; superan los 9.7 pesos por litro",
+      "resumen": "Del 17 al 23 de octubre, la cuota IEPS para la gasolina Magna será de 2.71 pesos y para la gasolina Premium será de 1.91 pesos, montos mayores a los que aplicaron del 10 al 16 de octubre.",
+      "link": "https://expansion.mx/economia/2026/10/16/hacienda-sube-ieps-gasolinas-diesel-17-octubre",
+      "fecha": "16 Oct 2026, 17:52 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "1.6 millones de trabajadores han sacado dinero de cuenta de ahorro para el retiro, un 18% más que en los primeros nueve meses del 2025.",
       "link": "https://expansion.mx/economia/2026/10/15/retiros-por-desempleo-de-afores-alcanzan-record-en-septiembre-se-dispara-34-el-monto-consar",
       "fecha": "15 Oct 2026, 18:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HR Ratings baja la calificación de largo plazo de México por deterioro fiscal y menor crecimiento",
-      "resumen": "La agencia redujo de BBB+ a BBB la nota crediticia; mantuvo la perspectiva estable y ratificó la calificación de corto plazo en HR3.",
-      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-recorta-calificacion-mexico-deterioro-fiscal",
-      "fecha": "15 Oct 2026, 16:49 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Bank of America cumple con los estándares antilavado de dinero, aseguró Emilio Romano",
-      "resumen": "El director ejecutivo de la institución estadounidense en México aseguró que la firma cumple con los estándares más altos en prevención de operaciones ilícitas",
-      "link": "https://expansion.mx/economia/2026/10/15/bank-of-america-cumple-con-los-estandares-antilavado-de-dinero-aseguro-emilio-romano",
-      "fecha": "15 Oct 2026, 14:16 hrs"
     },
     {
       "fuente": "Expansión",
