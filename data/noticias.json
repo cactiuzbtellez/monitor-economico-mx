@@ -1,5 +1,5 @@
 {
-  "actualizado": "16/10/2026 19:05 hrs",
+  "actualizado": "17/10/2026 00:36 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,42 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Aprobaría CFE proyectos de energía renovable por 12,500 mdd",
+      "resumen": "CFE prevé aprobar de forma preliminar a más de 60 proyectos de energía renovable, con una inversión de 12 mil 500 millones de dólares.",
+      "link": "https://www.reforma.com/aprobaria-cfe-proyectos-de-energia-renovable-por-12-500-mdd/ar3296554",
+      "fecha": "16 Oct 2026, 20:11 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Duplica SHCP subsidio adicional a diesel",
+      "resumen": "SHCP anunció que duplicará el subsidio adicional al diesel durante los próximos siete días, elevándolo a 2.3533 pesos.",
+      "link": "https://www.reforma.com/duplica-shcp-subsidio-adicional-a-diesel/ar3296547",
+      "fecha": "16 Oct 2026, 20:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Logra BMV su mayor alza semanal desde abril",
+      "resumen": "La BMV acumuló una ganancia semanal de 4.36% logrando su mejor desempeño desde inicios de abril.",
+      "link": "https://www.reforma.com/logra-bmv-su-mayor-alza-semanal-desde-abril/ar3296514",
+      "fecha": "16 Oct 2026, 19:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afirman diálogo con Hacienda por alza a concesiones de tren",
+      "resumen": "Concamin aseguró que dialoga con la SHCP ante la propuesta del Gobierno de elevar 140% el cobro a ferrocarriles por el uso de las vías.",
+      "link": "https://www.reforma.com/afirman-dialogo-con-hacienda-por-alza-a-concesiones-de-tren/ar3296509",
+      "fecha": "16 Oct 2026, 19:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Prevén nuevas inversiones en Asipona Ensenada",
       "resumen": "Actualizar el Título de Concesión de Asipona Ensenada hasta 2094 atraerá nuevas inversiones, coinciden especialistas.",
       "link": "https://www.reforma.com/preven-nuevas-inversiones-en-asipona-ensenada/ar3296468",
@@ -181,42 +217,6 @@
       "resumen": "Departamento de Transporte de EU levantó la restricción que impedía a aerolíneas mexicanas lanzar nuevos vuelos desde el AICM y AIFA.",
       "link": "https://www.reforma.com/retira-eu-veto-a-nuevas-rutas-de-aerolineas-mexicanas/ar3296375",
       "fecha": "16 Oct 2026, 15:38 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen bonos de EU a 10 años mayor caída semanal en 14 meses",
-      "resumen": "El retorno de los bonos del Tesoro a 10 años cerró en un 5.087%, su menor nivel desde agosto de 2025.",
-      "link": "https://www.reforma.com/tienen-bonos-de-eu-a-10-anos-mayor-caida-semanal-en-14-meses/ar3296357",
-      "fecha": "16 Oct 2026, 15:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suspenden temporalmente ganaderos exportaciones a EU",
-      "resumen": "Ganaderos de Sonora suspendieron temporalmente sus exportaciones a EU tras detectar lesión en ganado que coincidiría con fiebre aftosa.",
-      "link": "https://www.reforma.com/suspenden-temporalmente-ganaderos-exportaciones-a-eu/ar3296359",
-      "fecha": "16 Oct 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registran S&amp;P 500 y Nasdaq mayor caída semanal desde junio",
-      "resumen": "En la semana, el S&amp;P 500 cayó 1.95%, el Nasdaq perdió 4.5%, mientras que el Dow Jones subió 0.67%.",
-      "link": "https://www.reforma.com/registran-s-p-500-y-nasdaq-mayor-caida-semanal-desde-junio/ar3296330",
-      "fecha": "16 Oct 2026, 14:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Preocupa más la IA que el cambio climático",
-      "resumen": "Para expertos, la IA lidera la clasificación de riesgos emergentes, por lo que preocupa más que el cambio climático, según Axa.",
-      "link": "https://www.reforma.com/preocupa-mas-la-ia-que-el-cambio-climatico/ar3296329",
-      "fecha": "16 Oct 2026, 14:27 hrs"
     }
   ]
 }
