@@ -1,16 +1,7 @@
 {
-  "actualizado": "17/10/2026 17:46 hrs",
+  "actualizado": "17/10/2026 21:15 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
-      "resumen": "El FMI advierte que los países con menos recursos enfrentan presiones crecientes para financiar sus servicios públicos, contener los precios y atraer inversión en un entorno de tasas elevadas.",
-      "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
-      "fecha": "17 Oct 2026, 11:48 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
-      "resumen": "El Gobierno de México busca empresas e inversionistas que aporten capital y experiencia industrial para llevar Olinia del prototipo a las líneas de producción.",
-      "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
-      "fecha": "17 Oct 2026, 15:58 hrs"
+      "titulo": "Retiros por desempleo de Afores marcan récord en septiembre; alcanza 36,200 millones de pesos",
+      "resumen": "1.6 millones de trabajadores han sacado dinero de cuenta de ahorro para el retiro, un 18% más que en los primeros nueve meses del 2025.",
+      "link": "https://expansion.mx/economia/2026/10/15/retiros-por-desempleo-de-afores-alcanzan-record-en-septiembre-se-dispara-34-el-monto-consar",
+      "fecha": "15 Oct 2026, 18:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +136,15 @@
       "resumen": "Costco amplía su oferta más allá de las compras en tienda con un servicio móvil reservado para sus socios. Bait, de Walmart, compite con recargas de prepago y paquetes que van de siete días a un año.",
       "link": "https://expansion.mx/empresas/2026/10/15/costco-telefonia-movil-competir-bait-walmart-diferencia",
       "fecha": "15 Oct 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Slim y Televisa eran socios, estalló una guerra de 4 años y la compra de AT&T México podría reabrirla en 2027",
+      "resumen": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisi…",
+      "link": "https://expansion.mx/empresas/2026/10/15/slim-televisa-guerra-empresarial-compra-att-mexico",
+      "fecha": "15 Oct 2026, 18:32 hrs"
     },
     {
       "fuente": "Reforma",
