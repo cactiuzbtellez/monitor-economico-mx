@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/10/2026 13:14 hrs",
+  "actualizado": "18/10/2026 16:14 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
-      "resumen": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisi…",
-      "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
-      "fecha": "17 Oct 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
       "resumen": "El Gobierno de México busca empresas e inversionistas que aporten capital y experiencia industrial para llevar Olinia del prototipo a las líneas de producción.",
       "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
@@ -145,6 +136,15 @@
       "resumen": "La marca china apuesta por esta SUV para captar clientes que buscan electrificación y mostrar tecnología que también respalde su oferta de modelos de mayor volumen.",
       "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
       "fecha": "15 Oct 2026, 19:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Costco estrena telefonía móvil para competir con Bait de Walmart, ¿qué ofrece Woz y en qué se diferencia?",
+      "resumen": "Costco amplía su oferta más allá de las compras en tienda con un servicio móvil reservado para sus socios. Bait, de Walmart, compite con recargas de prepago y paquetes que van de siete días a un año.",
+      "link": "https://expansion.mx/empresas/2026/10/15/costco-telefonia-movil-competir-bait-walmart-diferencia",
+      "fecha": "15 Oct 2026, 19:32 hrs"
     },
     {
       "fuente": "Reforma",
