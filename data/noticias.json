@@ -1,7 +1,34 @@
 {
-  "actualizado": "19/10/2026 06:16 hrs",
+  "actualizado": "19/10/2026 13:02 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México afina la medición del contenido nacional para ganar más negocio en energía",
+      "resumen": "La Secretaría de Economía unifica criterios para hidrocarburos, electricidad y biocombustibles. Busca que más proveedores mexicanos abastezcan los proyectos y que la tecnología deje capacidades en el …",
+      "link": "https://expansion.mx/economia/2026/10/19/mexico-afina-medicion-contenido-nacional-energia",
+      "fecha": "19 Oct 2026, 11:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda refinancia deuda pública por 238,000 millones de pesos",
+      "resumen": "Del total recomprado, 18,823 millones correspondieron a vencimientos en 2026 y 123,910 millones a vencimientos en 2027, informó la dependencia a cargo de Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/10/19/hacienda-refinancia-deuda-publica-238000-millones-de-pesos",
+      "fecha": "19 Oct 2026, 11:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
+      "resumen": "Los cambios obedecen a una necesidad de flujo de dinero del gobierno, coinciden especialistas de Pérez-Llorca y Hogan Lovells Cadwalader en México.",
+      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
+      "fecha": "19 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -16,7 +43,7 @@
       "seccion": "Economía",
       "color": "#C8102E",
       "titulo": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
-      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp,",
+      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp y se coloca en el lugar 24 dentro del sistema bancario en México.",
       "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
       "fecha": "16 Oct 2026, 18:25 hrs"
     },
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Arancel cero para ensamblar autos se limita a 11 fabricantes, señala la Secretaría de Economía",
-      "resumen": "Tener una planta en México será un requisito para acceder al beneficio. Los lineamientos también prevén mínimos de producción y controles sobre las piezas importadas.",
-      "link": "https://expansion.mx/economia/2026/10/16/economia-exencion-arancel-ensamble-autos-mexico",
-      "fecha": "16 Oct 2026, 12:38 hrs"
+      "titulo": "Chevrolet bajó tanto el precio del Aveo nuevo que uno usado dejó de ser la opción barata",
+      "resumen": "¿Y si comprar un Aveo usado ya no fuera la mejor forma de ahorrar? La promoción de Chevrolet que está cambiando las cuentas.",
+      "link": "https://expansion.mx/empresas/2026/10/07/chevrolet-aveo-2026-nuevo-mas-barato-que-usado",
+      "fecha": "19 Oct 2026, 11:51 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más costos y menos deducciones presionan a las empresas en México para 2027",
-      "resumen": "La reducción de la jornada laboral y los cambios fiscales y aduaneros amenazan la rentabilidad de los negocios y la llegada de nuevas inversiones.",
-      "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
-      "fecha": "16 Oct 2026, 05:55 hrs"
+      "titulo": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
+      "resumen": "El gobierno eximirá temporalmente de aranceles los kits SKD y CKD para atraer nuevas líneas de producción, con el reto de que las armadas integren componentes mexicanos en cinco años.",
+      "link": "https://expansion.mx/empresas/2026/10/19/mexico-atraer-inversiones-automotrices-esquema-skd-ckd",
+      "fecha": "19 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
-      "resumen": "El movimiento refleja el vínculo entre la petrolera y el gobierno federal, en un momento en que la calificadora mantiene su evaluación en escala local y reconoce una reducción en los niveles de deuda.",
-      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
-      "fecha": "15 Oct 2026, 22:44 hrs"
+      "titulo": "Estas son las marcas chinas de autobuses eléctricos que ya circulan en el Metrobús de CDMX",
+      "resumen": "Marcas chinas, como BYD, forman parte de la electrificación del Metrobús, con unidades que buscan reducir el uso de diésel en el transporte público capitalino.",
+      "link": "https://expansion.mx/empresas/2026/10/18/marcas-autobuses-electricos-chinos-metrobus-cdmx",
+      "fecha": "18 Oct 2026, 17:41 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,49 +147,40 @@
       "fecha": "16 Oct 2026, 13:37 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
-      "resumen": "El resultado vuelve a poner en entredicho una negociación que la automotriz y el sindicato habían cerrado el 2 de octubre, después de meses de conversaciones para revisar las condiciones laborales de …",
-      "link": "https://expansion.mx/empresas/2026/10/15/trabajadores-volkswagen-rechazan-contrato-colectivo-huelga",
-      "fecha": "15 Oct 2026, 23:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni Azcárraga ni Vergara: este es el empresario número uno del futbol mexicano",
-      "resumen": "Una historia familiar, décadas de negocios y una larga relación con el futbol explican cómo se construyó una de las mayores fortunas del sector.",
-      "link": "https://expansion.mx/empresas/2026/10/15/empresario-numero-uno-del-futbol-mexicano",
-      "fecha": "15 Oct 2026, 21:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Geely lanza Monjaro EM-i, el SUV enchufable rival de BYD Song Plus y Mitsubishi Outlander",
-      "resumen": "La marca china apuesta por esta SUV para captar clientes que buscan electrificación y mostrar tecnología que también respalde su oferta de modelos de mayor volumen.",
-      "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
-      "fecha": "15 Oct 2026, 19:56 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Canceló Gobierno mil permisos de importación de acero.- SE",
+      "resumen": "El Gobierno canceló mil permisos de importación de acero a empresas que realizaban triangulación de mercancía de origen asiático, dijo SE.",
+      "link": "https://www.reforma.com/cancelo-gobierno-mil-permisos-de-importacion-de-acero-se/ar3297718",
+      "fecha": "19 Oct 2026, 12:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pegan superpeso y aranceles al superávit del agro",
-      "resumen": "Entre enero y agosto de este año, el superávit por las exportaciones agroalimentarias se redujo 13.1 por ciento el superpeso y aranceles.",
-      "link": "https://www.reforma.com/pegan-superpeso-y-aranceles-al-superavit-del-agro/ar3297481",
-      "fecha": "19 Oct 2026, 00:17 hrs"
+      "titulo": "Refinancia México deuda por $238,153 millones",
+      "resumen": "México refinanció $238,153 millones en deuda, en una operación que según SHCP busca mejorar las condiciones de liquidez del mercado local.",
+      "link": "https://www.reforma.com/refinancia-mexico-deuda-por-238-153-millones/ar3297626",
+      "fecha": "19 Oct 2026, 10:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja rentabilidad de Magna y diesel",
-      "resumen": "Los altos precios del crudo, el tope a combustibles y menores ganancias motivaros a algunas gasolineras a dejar de vender estos productos.",
-      "link": "https://www.reforma.com/baja-rentabilidad-de-magna-y-diesel/ar3297477",
-      "fecha": "19 Oct 2026, 05:03 hrs"
+      "titulo": "Aumenta 19.3% venta de autos 'verdes'  de enero a septiembre",
+      "resumen": "En los primeros nueve meses del año, las ventas de los vehículos 'verdes' crecieron 19.3%, según la EMA.",
+      "link": "https://www.reforma.com/aumenta-19-3-venta-de-autos-verdes-de-enero-a-septiembre/ar3297697",
+      "fecha": "19 Oct 2026, 12:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Es NL segundo en migración laboral",
+      "resumen": "Entre 2020 y 2025, NL reportó el segundo mayor número de personas que cambiaron de residencia por trabajo, con 180 mil 652, según Coparmex.",
+      "link": "https://www.reforma.com/es-nl-segundo-en-migracion-laboral/ar3297672",
+      "fecha": "19 Oct 2026, 11:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,46 +195,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sepulta ley energética a la libre competencia",
-      "resumen": "Con aprobación de reformas que privilegian a Pemex y CFE, los últimos dos Gobiernos eliminaron libre competencia en sector energético.",
-      "link": "https://www.reforma.com/sepulta-ley-energetica-a-la-libre-competencia/ar3297438",
-      "fecha": "19 Oct 2026, 05:03 hrs"
+      "titulo": "Promete Musk una acción de SpaceX para cada niño de EU",
+      "resumen": "Elon Musk se comprometió a entregar una acción de su empresa SpaceX a \"cada niño en Estados Unidos\" el próximo año.",
+      "link": "https://www.reforma.com/promete-musk-una-accion-de-spacex-para-cada-nino-de-eu/ar3297546",
+      "fecha": "19 Oct 2026, 07:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén más participaciones para NL",
-      "resumen": "Tras resultado de Encuesta Intercensal, estiman que participaciones federales que recibirá NL tendrían alza porcentual de al menos un dígito",
-      "link": "https://www.reforma.com/preven-mas-participaciones-para-nl/ar3297434",
-      "fecha": "19 Oct 2026, 05:03 hrs"
+      "titulo": "Sube 114% tratamiento de cáncer de mama",
+      "resumen": "El tratamiento del cáncer de mama sube 114% en cinco años, mientras la detección tardía y los costos médicos presionan a aseguradoras.",
+      "link": "https://www.reforma.com/sube-114-tratamiento-de-cancer-de-mama/ar3297411",
+      "fecha": "19 Oct 2026, 04:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Resaltan derrama y empleo que generan data centers",
-      "resumen": "Expansión de data centers generará empleos directos con alta remuneración y también son intensivos en los indirectos durante su construcción",
-      "link": "https://www.reforma.com/resaltan-derrama-y-empleo-que-generan-data-centers/ar3297433",
-      "fecha": "19 Oct 2026, 05:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Amenazan la nube e IA a consolas de juegos",
-      "resumen": "Mercado de videojuegos vía internet alcanzará un valor de 38 mmdd en 2035, amenazando las consolas de videojuegos como producto masivo.",
-      "link": "https://www.reforma.com/amenazan-la-nube-e-ia-a-consolas-de-juegos/ar3297426",
-      "fecha": "19 Oct 2026, 05:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Requerirá subsidios Aeropuerto de Tulum",
-      "resumen": "El Aeropuerto Internacional de Tulum enfrenta una compleja tormenta que pone en jaque su viabilidad financiera.",
-      "link": "https://www.reforma.com/requerira-subsidios-aeropuerto-de-tulum/ar3297397",
-      "fecha": "19 Oct 2026, 05:03 hrs"
+      "titulo": "Alcanza Plata ingresos anualizados de 1,000 mdd",
+      "resumen": "CEO del banco digital Plata dijo que los ingresos de 85 millones de dólares de septiembre equivalen a unas ventas anuales de mil millones.",
+      "link": "https://www.reforma.com/alcanza-plata-ingresos-anualizados-de-1-000-mdd/ar3297652",
+      "fecha": "19 Oct 2026, 11:01 hrs"
     }
   ]
 }
