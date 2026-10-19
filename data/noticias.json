@@ -1,34 +1,7 @@
 {
-  "actualizado": "19/10/2026 13:02 hrs",
+  "actualizado": "19/10/2026 17:20 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México afina la medición del contenido nacional para ganar más negocio en energía",
-      "resumen": "La Secretaría de Economía unifica criterios para hidrocarburos, electricidad y biocombustibles. Busca que más proveedores mexicanos abastezcan los proyectos y que la tecnología deje capacidades en el …",
-      "link": "https://expansion.mx/economia/2026/10/19/mexico-afina-medicion-contenido-nacional-energia",
-      "fecha": "19 Oct 2026, 11:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda refinancia deuda pública por 238,000 millones de pesos",
-      "resumen": "Del total recomprado, 18,823 millones correspondieron a vencimientos en 2026 y 123,910 millones a vencimientos en 2027, informó la dependencia a cargo de Édgar Amador Zamora.",
-      "link": "https://expansion.mx/economia/2026/10/19/hacienda-refinancia-deuda-publica-238000-millones-de-pesos",
-      "fecha": "19 Oct 2026, 11:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
-      "resumen": "Los cambios obedecen a una necesidad de flujo de dinero del gobierno, coinciden especialistas de Pérez-Llorca y Hogan Lovells Cadwalader en México.",
-      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
-      "fecha": "19 Oct 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -43,7 +16,7 @@
       "seccion": "Economía",
       "color": "#C8102E",
       "titulo": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
-      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp y se coloca en el lugar 24 dentro del sistema bancario en México.",
+      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp,",
       "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
       "fecha": "16 Oct 2026, 18:25 hrs"
     },
@@ -73,6 +46,33 @@
       "resumen": "China instala más de 68 robots industriales por cada uno en México. Las dark factories marcan el rumbo de una transformación que la industria mexicana adopta “sin pausa, pero sin prisa”.",
       "link": "https://expansion.mx/economia/2026/10/16/dark-factories-china-mexico-automatizacion-industrial",
       "fecha": "16 Oct 2026, 13:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Arancel cero para ensamblar autos se limita a 11 fabricantes, señala la Secretaría de Economía",
+      "resumen": "Tener una planta en México será un requisito para acceder al beneficio. Los lineamientos también prevén mínimos de producción y controles sobre las piezas importadas.",
+      "link": "https://expansion.mx/economia/2026/10/16/economia-exencion-arancel-ensamble-autos-mexico",
+      "fecha": "16 Oct 2026, 12:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más costos y menos deducciones presionan a las empresas en México para 2027",
+      "resumen": "La reducción de la jornada laboral y los cambios fiscales y aduaneros amenazan la rentabilidad de los negocios y la llegada de nuevas inversiones.",
+      "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
+      "fecha": "16 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
+      "resumen": "El movimiento refleja el vínculo entre la petrolera y el gobierno federal, en un momento en que la calificadora mantiene su evaluación en escala local y reconoce una reducción en los niveles de deuda.",
+      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
+      "fecha": "15 Oct 2026, 22:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -159,6 +159,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Frenan altos impuestos  potencial de mercado aéreo en México",
+      "resumen": "ALTA advirtió que cargas fiscales, altas tasas y límites de infraestructura podrían restar competitividad a México en el mercado aéreo.",
+      "link": "https://www.reforma.com/frenan-altos-impuestos-potencial-de-mercado-aereo-en-mexico/ar3297793",
+      "fecha": "19 Oct 2026, 14:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Genera contenido nacional 61 mil mdd en hidrocarburos",
+      "resumen": "Gobierno federal emitió opiniones técnicas en proyectos de extracción de hidrocarburos por 61 mil millones de dólares en contenido nacional.",
+      "link": "https://www.reforma.com/genera-contenido-nacional-61-mil-mdd-en-hidrocarburos/ar3297831",
+      "fecha": "19 Oct 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Refinancia México deuda por $238,153 millones",
       "resumen": "México refinanció $238,153 millones en deuda, en una operación que según SHCP busca mejorar las condiciones de liquidez del mercado local.",
       "link": "https://www.reforma.com/refinancia-mexico-deuda-por-238-153-millones/ar3297626",
@@ -168,55 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 19.3% venta de autos 'verdes'  de enero a septiembre",
-      "resumen": "En los primeros nueve meses del año, las ventas de los vehículos 'verdes' crecieron 19.3%, según la EMA.",
-      "link": "https://www.reforma.com/aumenta-19-3-venta-de-autos-verdes-de-enero-a-septiembre/ar3297697",
-      "fecha": "19 Oct 2026, 12:20 hrs"
+      "titulo": "Evalúa Aeroméxico lanzar nuevos vuelos a EU",
+      "resumen": "Aeroméxico está evaluando nuevos vuelos a EU tras levantamiento de restricciones de Washington para agregar servicios desde el AICM y AIFA.",
+      "link": "https://www.reforma.com/evalua-aeromexico-lanzar-nuevos-vuelos-a-eu/ar3297818",
+      "fecha": "19 Oct 2026, 15:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es NL segundo en migración laboral",
-      "resumen": "Entre 2020 y 2025, NL reportó el segundo mayor número de personas que cambiaron de residencia por trabajo, con 180 mil 652, según Coparmex.",
-      "link": "https://www.reforma.com/es-nl-segundo-en-migracion-laboral/ar3297672",
-      "fecha": "19 Oct 2026, 11:28 hrs"
+      "titulo": "Aplicará Manzanillo operación 24 horas",
+      "resumen": "Tras acumulación de mercancías y fenómenos hidrometeorológicos, ANAM informó que la aduana de Manzanillo operará las 24 horas esta semana.",
+      "link": "https://www.reforma.com/aplicara-manzanillo-operacion-24-horas/ar3297808",
+      "fecha": "19 Oct 2026, 15:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Requeriría millonada reactivar a AHMSA",
-      "resumen": "Volver a operar AHMSA, tras casi 4 años de estar parada, requeriría inversiones millonarias, advierten especialistas.",
-      "link": "https://www.reforma.com/requeriria-millonada-reactivar-a-ahmsa/ar3297439",
-      "fecha": "19 Oct 2026, 05:03 hrs"
+      "titulo": "Reclaman hoteleros mayor presupuesto y promoción turística",
+      "resumen": "Hoteleros acusan que presupuesto de Sectur en 2027 será un tercio del de 2012 y piden mayor promoción turística.",
+      "link": "https://www.reforma.com/reclaman-hoteleros-mayor-presupuesto-y-promocion-turistica/ar3297835",
+      "fecha": "19 Oct 2026, 15:37 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Promete Musk una acción de SpaceX para cada niño de EU",
-      "resumen": "Elon Musk se comprometió a entregar una acción de su empresa SpaceX a \"cada niño en Estados Unidos\" el próximo año.",
-      "link": "https://www.reforma.com/promete-musk-una-accion-de-spacex-para-cada-nino-de-eu/ar3297546",
-      "fecha": "19 Oct 2026, 07:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube 114% tratamiento de cáncer de mama",
-      "resumen": "El tratamiento del cáncer de mama sube 114% en cinco años, mientras la detección tardía y los costos médicos presionan a aseguradoras.",
-      "link": "https://www.reforma.com/sube-114-tratamiento-de-cancer-de-mama/ar3297411",
-      "fecha": "19 Oct 2026, 04:45 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alcanza Plata ingresos anualizados de 1,000 mdd",
-      "resumen": "CEO del banco digital Plata dijo que los ingresos de 85 millones de dólares de septiembre equivalen a unas ventas anuales de mil millones.",
-      "link": "https://www.reforma.com/alcanza-plata-ingresos-anualizados-de-1-000-mdd/ar3297652",
-      "fecha": "19 Oct 2026, 11:01 hrs"
+      "titulo": "Intensifican autos chinos pugna entre financieras y bancos",
+      "resumen": "Expansión de autos chinos en México intensifica la competencia entre los créditos de las financieras y la banca tradicional, señaló Moody's.",
+      "link": "https://www.reforma.com/intensifican-autos-chinos-pugna-entre-financieras-y-bancos/ar3297802",
+      "fecha": "19 Oct 2026, 14:57 hrs"
     }
   ]
 }
