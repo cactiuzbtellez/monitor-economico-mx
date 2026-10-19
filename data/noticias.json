@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/10/2026 23:46 hrs",
+  "actualizado": "19/10/2026 06:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Estas son las marcas chinas de autobuses eléctricos que ya circulan en el Metrobús de CDMX",
-      "resumen": "Marcas chinas, como BYD, forman parte de la electrificación del Metrobús, con unidades que buscan reducir el uso de diésel en el transporte público capitalino.",
-      "link": "https://expansion.mx/empresas/2026/10/18/marcas-autobuses-electricos-chinos-metrobus-cdmx",
-      "fecha": "18 Oct 2026, 17:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
       "resumen": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisi…",
       "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
@@ -147,76 +138,85 @@
       "fecha": "15 Oct 2026, 21:25 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prende alertas deuda por IA",
-      "resumen": "CoreWeave no es la única empresa relacionada con IA que preocupa a los inversionistas por mayor riesgo de default o impago.",
-      "link": "https://www.reforma.com/prende-alertas-deuda-por-ia/ar3296584",
-      "fecha": "17 Oct 2026, 05:01 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Geely lanza Monjaro EM-i, el SUV enchufable rival de BYD Song Plus y Mitsubishi Outlander",
+      "resumen": "La marca china apuesta por esta SUV para captar clientes que buscan electrificación y mostrar tecnología que también respalde su oferta de modelos de mayor volumen.",
+      "link": "https://expansion.mx/empresas/2026/10/15/geely-monjaro-em-i-precio-mexico",
+      "fecha": "15 Oct 2026, 19:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprobaría CFE proyectos de energía renovable por 12,500 mdd",
-      "resumen": "CFE prevé aprobar de forma preliminar a más de 60 proyectos de energía renovable, con una inversión de 12 mil 500 millones de dólares.",
-      "link": "https://www.reforma.com/aprobaria-cfe-proyectos-de-energia-renovable-por-12-500-mdd/ar3296554",
-      "fecha": "16 Oct 2026, 20:11 hrs"
+      "titulo": "Pegan superpeso y aranceles al superávit del agro",
+      "resumen": "Entre enero y agosto de este año, el superávit por las exportaciones agroalimentarias se redujo 13.1 por ciento el superpeso y aranceles.",
+      "link": "https://www.reforma.com/pegan-superpeso-y-aranceles-al-superavit-del-agro/ar3297481",
+      "fecha": "19 Oct 2026, 00:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Duplica SHCP subsidio adicional a diesel",
-      "resumen": "SHCP anunció que duplicará el subsidio adicional al diesel durante los próximos siete días, elevándolo a 2.3533 pesos.",
-      "link": "https://www.reforma.com/duplica-shcp-subsidio-adicional-a-diesel/ar3296547",
-      "fecha": "16 Oct 2026, 20:01 hrs"
+      "titulo": "Baja rentabilidad de Magna y diesel",
+      "resumen": "Los altos precios del crudo, el tope a combustibles y menores ganancias motivaros a algunas gasolineras a dejar de vender estos productos.",
+      "link": "https://www.reforma.com/baja-rentabilidad-de-magna-y-diesel/ar3297477",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Logra BMV su mayor alza semanal desde abril",
-      "resumen": "La BMV acumuló una ganancia semanal de 4.36% logrando su mejor desempeño desde inicios de abril.",
-      "link": "https://www.reforma.com/logra-bmv-su-mayor-alza-semanal-desde-abril/ar3296514",
-      "fecha": "16 Oct 2026, 19:21 hrs"
+      "titulo": "Requeriría millonada reactivar a AHMSA",
+      "resumen": "Volver a operar AHMSA, tras casi 4 años de estar parada, requeriría inversiones millonarias, advierten especialistas.",
+      "link": "https://www.reforma.com/requeriria-millonada-reactivar-a-ahmsa/ar3297439",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirman diálogo con Hacienda por alza a concesiones de tren",
-      "resumen": "Concamin aseguró que dialoga con la SHCP ante la propuesta del Gobierno de elevar 140% el cobro a ferrocarriles por el uso de las vías.",
-      "link": "https://www.reforma.com/afirman-dialogo-con-hacienda-por-alza-a-concesiones-de-tren/ar3296509",
-      "fecha": "16 Oct 2026, 19:09 hrs"
+      "titulo": "Sepulta ley energética a la libre competencia",
+      "resumen": "Con aprobación de reformas que privilegian a Pemex y CFE, los últimos dos Gobiernos eliminaron libre competencia en sector energético.",
+      "link": "https://www.reforma.com/sepulta-ley-energetica-a-la-libre-competencia/ar3297438",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén nuevas inversiones en Asipona Ensenada",
-      "resumen": "Actualizar el Título de Concesión de Asipona Ensenada hasta 2094 atraerá nuevas inversiones, coinciden especialistas.",
-      "link": "https://www.reforma.com/preven-nuevas-inversiones-en-asipona-ensenada/ar3296468",
-      "fecha": "16 Oct 2026, 18:11 hrs"
+      "titulo": "Prevén más participaciones para NL",
+      "resumen": "Tras resultado de Encuesta Intercensal, estiman que participaciones federales que recibirá NL tendrían alza porcentual de al menos un dígito",
+      "link": "https://www.reforma.com/preven-mas-participaciones-para-nl/ar3297434",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Extorsion y secuestro aquejan a transporte de carga.-Canacar",
-      "resumen": "Si bien la incidencia de robo a autotransporte de carga ha disminuido, ahora los actos delictivos son más violentos, aseguró Canacar.",
-      "link": "https://www.reforma.com/extorsion-y-secuestro-aquejan-a-transporte-de-carga-canacar/ar3296432",
-      "fecha": "16 Oct 2026, 17:40 hrs"
+      "titulo": "Resaltan derrama y empleo que generan data centers",
+      "resumen": "Expansión de data centers generará empleos directos con alta remuneración y también son intensivos en los indirectos durante su construcción",
+      "link": "https://www.reforma.com/resaltan-derrama-y-empleo-que-generan-data-centers/ar3297433",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Liga peso sexta semana de pérdidas; cierra dólar en $18.48",
-      "resumen": "El dólar cerró en $18.4895 por dólar, con una depreciación del 0.51% para el peso, que acumuló un retroceso semanal de un 0.54%.",
-      "link": "https://www.reforma.com/liga-peso-sexta-semana-de-perdidas-cierra-dolar-en-18-48/ar3296379",
-      "fecha": "16 Oct 2026, 15:38 hrs"
+      "titulo": "Amenazan la nube e IA a consolas de juegos",
+      "resumen": "Mercado de videojuegos vía internet alcanzará un valor de 38 mmdd en 2035, amenazando las consolas de videojuegos como producto masivo.",
+      "link": "https://www.reforma.com/amenazan-la-nube-e-ia-a-consolas-de-juegos/ar3297426",
+      "fecha": "19 Oct 2026, 05:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Requerirá subsidios Aeropuerto de Tulum",
+      "resumen": "El Aeropuerto Internacional de Tulum enfrenta una compleja tormenta que pone en jaque su viabilidad financiera.",
+      "link": "https://www.reforma.com/requerira-subsidios-aeropuerto-de-tulum/ar3297397",
+      "fecha": "19 Oct 2026, 05:03 hrs"
     }
   ]
 }
