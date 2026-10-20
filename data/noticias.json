@@ -1,7 +1,25 @@
 {
-  "actualizado": "20/10/2026 08:42 hrs",
+  "actualizado": "20/10/2026 12:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
+      "resumen": "Firmas financieras buscan atraer a los automovilistas con sorteos para ganar un año de gasolina gratis al pagar con medios digitales. Banxico estrenará la \"cuenta fácil\" sin necesidad de RFC.",
+      "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
+      "fecha": "20 Oct 2026, 09:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se prepara para disminuir el uso del efectivo; ley de Economía Digital entra en su etapa final de aprobación",
+      "resumen": "La CURP digital será indispensable para la contratación de servicios financieros. Banobras busca mejorar el proceso de cobro en las casetas y llevarlo a un modelo paulatino de \"cero efectivo\".",
+      "link": "https://expansion.mx/economia/2026/10/20/curp-digital-as-bajo-para-reducir-el-uso-de-efectivo",
+      "fecha": "20 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
-      "resumen": "Los cambios obedecen a una necesidad de flujo de dinero del gobierno, coinciden especialistas de Pérez-Llorca y Hogan Lovells Cadwalader en México.",
-      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
-      "fecha": "19 Oct 2026, 05:55 hrs"
+      "titulo": "Cadillac lleva su apuesta por la Fórmula 1 al mercado mexicano con un SUV inspirado en Checo Pérez",
+      "resumen": "La marca de lujo más lanzará 11 unidades de una Escalade V de casi cinco millones de pesos dedicada al piloto mexicano, en una estrategia que vincula su entrada a la Fórmula 1 con el mercado de lujo.",
+      "link": "https://expansion.mx/empresas/2026/10/20/cadillac-checo-perez-escalade-v-edicion-potencia-precio",
+      "fecha": "20 Oct 2026, 12:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los países pobres pagan cada vez más deuda, el petróleo sube y el FMI alerta por otra amenaza que lo empeora",
-      "resumen": "El FMI advierte que los países con menos recursos enfrentan presiones crecientes para financiar sus servicios públicos, contener los precios y atraer inversión en un entorno de tasas elevadas.",
-      "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
-      "fecha": "17 Oct 2026, 11:48 hrs"
+      "titulo": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
+      "resumen": "El resultado vuelve a poner en entredicho una negociación que la automotriz y el sindicato habían cerrado el 2 de octubre, después de meses de conversaciones para revisar las condiciones laborales de …",
+      "link": "https://expansion.mx/empresas/2026/10/20/volkswagen-puebla-sigue-riesgo-huelga",
+      "fecha": "20 Oct 2026, 11:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -114,7 +132,7 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+      "titulo": "Olinia busca el salto industrial: la condición del Gobierno a las empresas extranjeras interesadas",
       "resumen": "El Gobierno de México busca empresas e inversionistas que aporten capital y experiencia industrial para llevar Olinia del prototipo a las líneas de producción.",
       "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
       "fecha": "17 Oct 2026, 15:58 hrs"
@@ -129,58 +147,49 @@
       "fecha": "16 Oct 2026, 16:31 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
-      "resumen": "La empresa surgió del grupo América Móvil y obtiene ingresos al arrendar espacios para antenas y equipos de transmisión. Su red suma más de 37,000 sitios y torres en 15 países.",
-      "link": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
-      "fecha": "16 Oct 2026, 15:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Empezó usando baterías de laptop, circula desde hace años en el espacio y es el primer auto volador de Tesla",
-      "resumen": "El Roadster nació para demostrar que un eléctrico podía ser deseable. Dos décadas después, Tesla lleva esa idea del asfalto al aire.",
-      "link": "https://expansion.mx/empresas/2026/10/16/tesla-roadster-auto-volador-historia",
-      "fecha": "16 Oct 2026, 13:37 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Asegura Sader abasto de pollo pese a restricción para Brasil",
+      "resumen": "La Sader garantizó el abasto de pollo en México y descartó alza en precio, pese a restricciones a las importaciones procedentes de Brasil.",
+      "link": "https://www.reforma.com/asegura-sader-abasto-de-pollo-pese-a-restriccion-para-brasil/ar3298358",
+      "fecha": "20 Oct 2026, 11:42 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Persiste con Asia el déficit acerero",
-      "resumen": "Ni cancelación de permisos ni aranceles frenan importaciones de acero que llegan a México, muchas desde terceros países como Vietnam.",
-      "link": "https://www.reforma.com/persiste-con-asia-el-deficit-acerero/ar3298109",
-      "fecha": "20 Oct 2026, 07:08 hrs"
+      "titulo": "Prevé General Atlantic invertir 10 mmdd en México",
+      "resumen": "General Atlantic prevé invertir 10 mil millones de dólares en México durante los próximos 5 a 10 años, apostando por servicios financieros.",
+      "link": "https://www.reforma.com/preve-general-atlantic-invertir-10-mmdd-en-mexico/ar3298422",
+      "fecha": "20 Oct 2026, 12:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube en 17 estados el costo del delito",
-      "resumen": "De las 32 entidades federativas, 17 registraron un aumento en el costo de los hogares a consecuencia de la inseguridad y el delito.",
-      "link": "https://www.reforma.com/sube-en-17-estados-el-costo-del-delito/ar3298106",
-      "fecha": "20 Oct 2026, 05:01 hrs"
+      "titulo": "Preocupa a Banorte radicalización comercial de Trump",
+      "resumen": "Ante un escenario complejo por el proceso electoral de EU, se espera que Trump tome medidas radicales en contra de México, dijo Banorte.",
+      "link": "https://www.reforma.com/preocupa-a-banorte-radicalizacion-comercial-de-trump/ar3298382",
+      "fecha": "20 Oct 2026, 12:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra México puertas a pollo brasileño",
-      "resumen": "La Sader suspendió las importaciones de productos avícolas procedentes de Brasil ante el brote de la enfermedad de Newcastle.",
-      "link": "https://www.reforma.com/cierra-mexico-puertas-a-pollo-brasileno/ar3298114",
-      "fecha": "20 Oct 2026, 05:01 hrs"
+      "titulo": "Va aguacate mexicano por millennials y Gen Z en EU",
+      "resumen": "Industria aguacatera mexicana busca ganar consumidores en EU con estrategia enfocada en jóvenes y reforzar vínculo con el fútbol americano.",
+      "link": "https://www.reforma.com/va-aguacate-mexicano-por-millennials-y-gen-z-en-eu/ar3298360",
+      "fecha": "20 Oct 2026, 11:42 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece 3.7% actividad económica de México en septiembre",
-      "resumen": "La actividad económica de México se expandió un 3.7% en septiembre a tasa anual, de acuerdo a las cifras preliminares emitidas por INEGI.",
-      "link": "https://www.reforma.com/crece-3-7-actividad-economica-de-mexico-en-septiembre/ar3298219",
-      "fecha": "20 Oct 2026, 07:36 hrs"
+      "titulo": "'Frena' ritmo de crecimiento actividad económica a 0.99%",
+      "resumen": "A tasa trimestral, el Indicador Oportuno de la Actividad Económica del País avanzó 0.99% de julio a septiembre de 2026.",
+      "link": "https://www.reforma.com/frena-ritmo-de-crecimiento-actividad-economica-a-0-99/ar3298355",
+      "fecha": "20 Oct 2026, 11:42 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprobaría CFE 60 proyectos de energía renovable",
-      "resumen": "La CFE prevé dar aprobación preliminar a decenas de proyectos de energía renovable que en conjunto ayudarían a reforzar red eléctrica.",
-      "link": "https://www.reforma.com/aprobaria-cfe-60-proyectos-de-energia-renovable/ar3298092",
-      "fecha": "20 Oct 2026, 07:08 hrs"
+      "titulo": "Acuerda Fibra Mty compra de portafolio industrial en NL",
+      "resumen": "Fibra Mty anunció la firma de un acuerdo para la adquisición de un portafolio inmobiliario industrial estabilizado por un monto de 22 mdd.",
+      "link": "https://www.reforma.com/acuerda-fibra-mty-compra-de-portafolio-industrial-en-nl/ar3298286",
+      "fecha": "20 Oct 2026, 09:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede México en competitividad fiscal",
-      "resumen": "En un año, México retrocedió tres lugares en el Índice de Competitividad Fiscal Internacional, al pasar del sitio 18 en 2025 al 21 en 2026.",
-      "link": "https://www.reforma.com/retrocede-mexico-en-competitividad-fiscal/ar3298104",
-      "fecha": "20 Oct 2026, 07:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsan el cultivo del café en México",
-      "resumen": "La producción de café en México enfrenta el reto de elevar su productividad y adaptarse a condiciones climáticas cada vez más complejas.",
-      "link": "https://www.reforma.com/impulsan-el-cultivo-del-cafe-en-mexico/ar3298076",
-      "fecha": "20 Oct 2026, 05:01 hrs"
+      "titulo": "Trazan empresas de IA planes para compartir su riqueza",
+      "resumen": "Anthropic y OpenAI han comenzado a delinear una serie de propuestas para distribuir las fortunas de la IA, pero aún quedan muchas dudas.",
+      "link": "https://www.reforma.com/trazan-empresas-de-ia-planes-para-compartir-su-riqueza/ar3298378",
+      "fecha": "20 Oct 2026, 12:10 hrs"
     }
   ]
 }
