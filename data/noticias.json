@@ -1,7 +1,70 @@
 {
-  "actualizado": "19/10/2026 17:20 hrs",
+  "actualizado": "19/10/2026 21:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ante envejecimiento del país Afores piden revisar sistema de pensiones, pero descartan elevar la edad de retiro",
+      "resumen": "La Amafore dijo que no puede haber  tantos subsidios intergeneracionales porque cada vez hay menos jóvenes apoyando en edad productiva a adultos mayores",
+      "link": "https://expansion.mx/economia/2026/10/19/ante-envejecimiento-del-pais-afores-piden-revisar-sistema-de-pensiones-pero-descartan-elevar-la-edad-de-retiro",
+      "fecha": "19 Oct 2026, 16:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El rival de Norteamérica no es solo China, sino una Asia que reorganiza su inversión",
+      "resumen": "Diversificar la producción fuera de China no garantiza nuevas fábricas para Norteamérica. Otras economías asiáticas ofrecen proveedores, infraestructura y capacidad industrial.",
+      "link": "https://expansion.mx/economia/2026/10/19/asia-inversion-extranjera-desafio-norteamerica",
+      "fecha": "19 Oct 2026, 16:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Asigna Consar 9.4 millones de cuentas de Afore a XXI Banorte; será la nueva prestadora de servicios del SAR",
+      "resumen": "La administradora recibió las cuentas de trabajadores que aún no están asignadas o registradas en una Afore y tendrá a su cargo su gestión durante seis años. Los recursos permanecerán en el Banco de M…",
+      "link": "https://expansion.mx/economia/2026/10/19/asigna-consar-9-4-millones-de-cuentas-de-afore-a-xxi-banorte-sera-la-nueva-prestadora-de-servicios-del-sar",
+      "fecha": "19 Oct 2026, 16:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sindicatos, municipios, partidos políticos y asociaciones civiles estarán bajo la lupa del SAT",
+      "resumen": "La disposición es parte del Paquete Económico 2027 y ya fue aprobada en la Cámara de Diputados. Falta la discusión y votación en el Senado. El SAT deberá emitir las reglas de operación.",
+      "link": "https://expansion.mx/economia/2026/10/19/sindicatos-municipios-partidos-politicos-asociaciones-sat",
+      "fecha": "19 Oct 2026, 13:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México afina la medición del contenido nacional para ganar más negocio en energía",
+      "resumen": "La Secretaría de Economía unifica criterios para hidrocarburos, electricidad y biocombustibles. Busca que más proveedores mexicanos abastezcan los proyectos y que la tecnología deje capacidades en el …",
+      "link": "https://expansion.mx/economia/2026/10/19/mexico-afina-medicion-contenido-nacional-energia",
+      "fecha": "19 Oct 2026, 11:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda refinancia deuda pública por 238,000 millones de pesos",
+      "resumen": "Del total recomprado, 18,823 millones correspondieron a vencimientos en 2026 y 123,910 millones a vencimientos en 2027, informó la dependencia a cargo de Édgar Amador Zamora.",
+      "link": "https://expansion.mx/economia/2026/10/19/hacienda-refinancia-deuda-publica-238000-millones-de-pesos",
+      "fecha": "19 Oct 2026, 11:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
+      "resumen": "Los cambios obedecen a una necesidad de flujo de dinero del gobierno, coinciden especialistas de Pérez-Llorca y Hogan Lovells Cadwalader en México.",
+      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
+      "fecha": "19 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -10,69 +73,6 @@
       "resumen": "El FMI advierte que los países con menos recursos enfrentan presiones crecientes para financiar sus servicios públicos, contener los precios y atraer inversión en un entorno de tasas elevadas.",
       "link": "https://expansion.mx/economia/2026/10/17/fmi-alerta-deuda-petroleo-y-riesgos-para-paises-pobres",
       "fecha": "17 Oct 2026, 11:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu México debuta como banco ante la CNBV con menor morosidad que otros neobancos",
-      "resumen": "La firma a financiera de origen brasileño arrancó en agosto de 2026 con un IMOR de 6.79%; reporta activos por 112,638 mdp,",
-      "link": "https://expansion.mx/economia/2026/10/16/nu-mexico-debuta-como-banco-reporta-morosidad-de-6-79",
-      "fecha": "16 Oct 2026, 18:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda sube IEPS a gasolinas y estímulos a diésel se mantienen; superan los 9.7 pesos por litro",
-      "resumen": "Del 17 al 23 de octubre, la cuota IEPS para la gasolina Magna será de 2.71 pesos y para la gasolina Premium será de 1.91 pesos, montos mayores a los que aplicaron del 10 al 16 de octubre.",
-      "link": "https://expansion.mx/economia/2026/10/16/hacienda-sube-ieps-gasolinas-diesel-17-octubre",
-      "fecha": "16 Oct 2026, 17:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México logrará reducir aranceles al acero y autos en semanas o meses, asegura Ebrard",
-      "resumen": "El país busca un arancel de hasta 15% para autos y  rebaja en acero. El WSJ reporta resistencia de Lutnick. La relación con EU absorbe hasta 85% del tiempo y esfuerzo, dice el secretario de Economía.",
-      "link": "https://expansion.mx/economia/2026/10/16/ebrard-reduccion-aranceles-acero-autos-eu-t-mec",
-      "fecha": "16 Oct 2026, 16:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "China avanza con las dark factories; México busca encender su industria sin apagar la luz",
-      "resumen": "China instala más de 68 robots industriales por cada uno en México. Las dark factories marcan el rumbo de una transformación que la industria mexicana adopta “sin pausa, pero sin prisa”.",
-      "link": "https://expansion.mx/economia/2026/10/16/dark-factories-china-mexico-automatizacion-industrial",
-      "fecha": "16 Oct 2026, 13:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Arancel cero para ensamblar autos se limita a 11 fabricantes, señala la Secretaría de Economía",
-      "resumen": "Tener una planta en México será un requisito para acceder al beneficio. Los lineamientos también prevén mínimos de producción y controles sobre las piezas importadas.",
-      "link": "https://expansion.mx/economia/2026/10/16/economia-exencion-arancel-ensamble-autos-mexico",
-      "fecha": "16 Oct 2026, 12:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Más costos y menos deducciones presionan a las empresas en México para 2027",
-      "resumen": "La reducción de la jornada laboral y los cambios fiscales y aduaneros amenazan la rentabilidad de los negocios y la llegada de nuevas inversiones.",
-      "link": "https://expansion.mx/economia/2026/10/16/empresas-reforma-ley-laboral-isr-aduanera-retos",
-      "fecha": "16 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "HR Ratings baja calificación de Pemex en línea con ajuste a nota de México",
-      "resumen": "El movimiento refleja el vínculo entre la petrolera y el gobierno federal, en un momento en que la calificadora mantiene su evaluación en escala local y reconoce una reducción en los niveles de deuda.",
-      "link": "https://expansion.mx/economia/2026/10/15/hr-ratings-baja-calificacion-de-pemex-en-linea-con-ajuste-a-nota-de-mexico",
-      "fecha": "15 Oct 2026, 22:44 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Canceló Gobierno mil permisos de importación de acero.- SE",
-      "resumen": "El Gobierno canceló mil permisos de importación de acero a empresas que realizaban triangulación de mercancía de origen asiático, dijo SE.",
-      "link": "https://www.reforma.com/cancelo-gobierno-mil-permisos-de-importacion-de-acero-se/ar3297718",
-      "fecha": "19 Oct 2026, 12:44 hrs"
+      "titulo": "Firman Camimex e IMTA acuerdo en manejo de agua",
+      "resumen": "Camimex y el IMTA firmaron un acuerdo conjunto para desarrollar actividades de investigación y mejorar las prácticas del manejo del agua.",
+      "link": "https://www.reforma.com/firman-camimex-e-imta-acuerdo-en-manejo-de-agua/ar3298047",
+      "fecha": "19 Oct 2026, 20:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenan altos impuestos  potencial de mercado aéreo en México",
-      "resumen": "ALTA advirtió que cargas fiscales, altas tasas y límites de infraestructura podrían restar competitividad a México en el mercado aéreo.",
-      "link": "https://www.reforma.com/frenan-altos-impuestos-potencial-de-mercado-aereo-en-mexico/ar3297793",
-      "fecha": "19 Oct 2026, 14:43 hrs"
+      "titulo": "Pide AMPI otorgar certeza jurídica en inmuebles",
+      "resumen": "AMPI llamó a otorgar certeza jurídica en inmuebles con el objetivo de no comprometer la economía de las familias ni su patrimonio.",
+      "link": "https://www.reforma.com/pide-ampi-otorgar-certeza-juridica-en-inmuebles/ar3298007",
+      "fecha": "19 Oct 2026, 19:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Genera contenido nacional 61 mil mdd en hidrocarburos",
-      "resumen": "Gobierno federal emitió opiniones técnicas en proyectos de extracción de hidrocarburos por 61 mil millones de dólares en contenido nacional.",
-      "link": "https://www.reforma.com/genera-contenido-nacional-61-mil-mdd-en-hidrocarburos/ar3297831",
-      "fecha": "19 Oct 2026, 15:55 hrs"
+      "titulo": "Coloca Banamex 900 mdd en bonos de capital híbrido",
+      "resumen": "Banamex informó la colocación de 900 millones de dólares en instrumentos de capital híbrido conocidos como Additional Tier 1.",
+      "link": "https://www.reforma.com/coloca-banamex-900-mdd-en-bonos-de-capital-hibrido/ar3297995",
+      "fecha": "19 Oct 2026, 19:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Refinancia México deuda por $238,153 millones",
-      "resumen": "México refinanció $238,153 millones en deuda, en una operación que según SHCP busca mejorar las condiciones de liquidez del mercado local.",
-      "link": "https://www.reforma.com/refinancia-mexico-deuda-por-238-153-millones/ar3297626",
-      "fecha": "19 Oct 2026, 10:23 hrs"
+      "titulo": "Tendrá AFAC presupuesto de 1,400 mdp en 2027",
+      "resumen": "Agencia Federal de Aviación Civil (AFAC) tendrá en 2027 un presupuesto de mil 400 millones de pesos, 56% superior a 2025, informó SICT.",
+      "link": "https://www.reforma.com/tendra-afac-presupuesto-de-1-400-mdp-en-2027/ar3297989",
+      "fecha": "19 Oct 2026, 18:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evalúa Aeroméxico lanzar nuevos vuelos a EU",
-      "resumen": "Aeroméxico está evaluando nuevos vuelos a EU tras levantamiento de restricciones de Washington para agregar servicios desde el AICM y AIFA.",
-      "link": "https://www.reforma.com/evalua-aeromexico-lanzar-nuevos-vuelos-a-eu/ar3297818",
-      "fecha": "19 Oct 2026, 15:14 hrs"
+      "titulo": "Cierran queja laboral en contra de Alimentos Grole",
+      "resumen": "Gobierno de México y EU concluyeron la queja laboral en contra de Alimentos Grole después de que la empresa aplicara un plan de remediación.",
+      "link": "https://www.reforma.com/cierran-queja-laboral-en-contra-de-alimentos-grole/ar3297961",
+      "fecha": "19 Oct 2026, 18:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aplicará Manzanillo operación 24 horas",
-      "resumen": "Tras acumulación de mercancías y fenómenos hidrometeorológicos, ANAM informó que la aduana de Manzanillo operará las 24 horas esta semana.",
-      "link": "https://www.reforma.com/aplicara-manzanillo-operacion-24-horas/ar3297808",
-      "fecha": "19 Oct 2026, 15:14 hrs"
+      "titulo": "Ni Louis Vuitton se salva: auge de la segunda mano en China",
+      "resumen": "El auge de la segunda mano en China golpea a marcas de lujo, en una economía que aún no se recupera totalmente de la pandemia.",
+      "link": "https://www.reforma.com/ni-louis-vuitton-se-salva-auge-de-la-segunda-mano-en-china/ar3297955",
+      "fecha": "19 Oct 2026, 18:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reclaman hoteleros mayor presupuesto y promoción turística",
-      "resumen": "Hoteleros acusan que presupuesto de Sectur en 2027 será un tercio del de 2012 y piden mayor promoción turística.",
-      "link": "https://www.reforma.com/reclaman-hoteleros-mayor-presupuesto-y-promocion-turistica/ar3297835",
-      "fecha": "19 Oct 2026, 15:37 hrs"
+      "titulo": "Frena México importaciones avícolas de Brasil",
+      "resumen": "Sader suspendió importaciones de productos avícolas procedentes de Brasil, ante brote de la enfermedad de Newcastle.",
+      "link": "https://www.reforma.com/frena-mexico-importaciones-avicolas-de-brasil/ar3297914",
+      "fecha": "19 Oct 2026, 17:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Intensifican autos chinos pugna entre financieras y bancos",
-      "resumen": "Expansión de autos chinos en México intensifica la competencia entre los créditos de las financieras y la banca tradicional, señaló Moody's.",
-      "link": "https://www.reforma.com/intensifican-autos-chinos-pugna-entre-financieras-y-bancos/ar3297802",
-      "fecha": "19 Oct 2026, 14:57 hrs"
+      "titulo": "Acelera ritmo reapertura ganadera",
+      "resumen": "Se espera que EU y México se coordinen para que a partir del lunes 26 inicie el tercer cruce de ganado mexicano.",
+      "link": "https://www.reforma.com/acelera-ritmo-reapertura-ganadera/ar3297893",
+      "fecha": "19 Oct 2026, 17:34 hrs"
     }
   ]
 }
