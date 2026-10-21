@@ -1,16 +1,7 @@
 {
-  "actualizado": "20/10/2026 19:19 hrs",
+  "actualizado": "21/10/2026 01:07 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
-      "resumen": "Firmas financieras buscan atraer a los automovilistas con sorteos para ganar un año de gasolina gratis al pagar con medios digitales. Banxico estrenará la \"cuenta fácil\" sin necesidad de RFC.",
-      "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
-      "fecha": "20 Oct 2026, 09:51 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,57 +67,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La Comer impulsa sus ventas con promociones, pero mayores gastos en sueldos, publicidad y tiendas diluyen sus ganancias",
-      "resumen": "Los mayores desembolsos en sueldos, publicidad y apertura de tiendas llevaron los gastos generales a 2,960 mdp, que representan un aumento anual de 11%.",
-      "link": "https://expansion.mx/empresas/2026/10/20/la-comer-ventas-utilidad-reporte-trimestral-2026",
-      "fecha": "20 Oct 2026, 19:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Alsea recupera utilidad con el repunte de Starbucks tras un primer semestre difícil",
-      "resumen": "Tras un primer semestre crítico marcado por contracciones superiores al 50% en su beneficio neto, la empresa cortó la racha negativa con un repunte de casi el 48.4%, sumando 545 millones de pesos en e…",
-      "link": "https://expansion.mx/empresas/2026/10/20/reporte-trimestral-alsea-recupera-utilidad-efecto-starbucks",
-      "fecha": "20 Oct 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El hotel de Carlos Slim a minutos de Disney World que pocos mexicanos conocen y cuesta menos de 1,000 pesos la noche",
-      "resumen": "El inmueble llegó al portafolio del empresario en 2010 y destaca por ser la única propiedad hotelera internacional de Inmuebles Carso.",
-      "link": "https://expansion.mx/empresas/2026/10/20/carlos-slim-tiene-un-hotel-cerca-de-disney-world",
-      "fecha": "20 Oct 2026, 16:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El fin de las \"propinas jugosas\": los turistas extranjeros gastan cada vez menos en México",
-      "resumen": "En los primeros ocho meses de 2026, la llegada de turistas internacionales aumentó 3.9% anual, pero los ingresos asociados a ese segmento avanzaron apenas 0.6%.",
-      "link": "https://expansion.mx/empresas/2026/10/20/turistas-extranjeros-gastan-menos-mexico",
-      "fecha": "20 Oct 2026, 13:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cadillac lleva su apuesta por la Fórmula 1 al mercado mexicano con un SUV inspirado en Checo Pérez",
-      "resumen": "La marca de lujo más lanzará 11 unidades de una Escalade-V de cuatro millones de pesos dedicada al piloto mexicano, en una estrategia que vincula su entrada a la Fórmula 1 con el mercado de lujo.",
-      "link": "https://expansion.mx/empresas/2026/10/20/cadillac-checo-perez-escalade-v-edicion-potencia-precio",
-      "fecha": "20 Oct 2026, 12:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
-      "resumen": "El resultado vuelve a poner en entredicho una negociación que la automotriz y el sindicato habían cerrado el 2 de octubre, después de meses de conversaciones para revisar las condiciones laborales de …",
-      "link": "https://expansion.mx/empresas/2026/10/20/volkswagen-puebla-sigue-riesgo-huelga",
-      "fecha": "20 Oct 2026, 11:52 hrs"
+      "titulo": "Abogados analizan amparos frente a reforma a Ley del ISR para 2027",
+      "resumen": "Los cambios obedecen a una necesidad de flujo de dinero del gobierno, coinciden especialistas de Pérez-Llorca y Hogan Lovells Cadwalader en México.",
+      "link": "https://expansion.mx/economia/2026/10/19/amparos-contra-reforma-ley-isr-deducciones",
+      "fecha": "19 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -145,6 +91,96 @@
       "resumen": "El gobierno eximirá temporalmente de aranceles los kits SKD y CKD para atraer nuevas líneas de producción, con el reto de que las armadas integren componentes mexicanos en cinco años.",
       "link": "https://expansion.mx/empresas/2026/10/19/mexico-atraer-inversiones-automotrices-esquema-skd-ckd",
       "fecha": "19 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Estas son las marcas chinas de autobuses eléctricos que ya circulan en el Metrobús de CDMX",
+      "resumen": "Marcas chinas, como BYD, forman parte de la electrificación del Metrobús, con unidades que buscan reducir el uso de diésel en el transporte público capitalino.",
+      "link": "https://expansion.mx/empresas/2026/10/18/marcas-autobuses-electricos-chinos-metrobus-cdmx",
+      "fecha": "18 Oct 2026, 17:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Slim y Televisa pasaron de socios a rivales: estalló una guerra de 4 años y la compra de AT&T México podría reabrirla",
+      "resumen": "La disputa escaló por la publicidad, el negocio de la televisión de paga y las restricciones a Telmex. Más de una década después, un acuerdo empresarial vuelve a poner a ambos grupos en ruta de colisi…",
+      "link": "https://expansion.mx/empresas/2026/10/17/carlos-slim-televisa-guerra-empresarial-att-mexico",
+      "fecha": "17 Oct 2026, 18:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia necesita dinero privado para producir en masa; el gobierno busca empresarios que inviertan hasta 745 mdp",
+      "resumen": "El Gobierno de México busca empresas e inversionistas que aporten capital y experiencia industrial para llevar Olinia del prototipo a las líneas de producción.",
+      "link": "https://expansion.mx/empresas/2026/10/17/olinia-busca-inversionistas-para-producir-autos-electricos",
+      "fecha": "17 Oct 2026, 15:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El AIFA y el AICM superan otro obstáculo, EU levanta restricciones y las aerolíneas podrán abrir más rutas",
+      "resumen": "La decisión beneficia a las operaciones del AIFA y el AICM, al eliminar barreras que limitaban a las aerolíneas mexicanas para ampliar sus vuelos hacia Estados Unidos.",
+      "link": "https://expansion.mx/empresas/2026/10/16/eu-levanta-restricciones-aifa-aicm-nuevas-rutas",
+      "fecha": "16 Oct 2026, 16:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Arturo Elías Ayub encabeza una empresa ligada a Slim que factura 13,832 millones, pero triunfa fuera de México",
+      "resumen": "La empresa surgió del grupo América Móvil y obtiene ingresos al arrendar espacios para antenas y equipos de transmisión. Su red suma más de 37,000 sitios y torres en 15 países.",
+      "link": "https://expansion.mx/empresas/2026/10/16/arturo-elias-ayub-sitios-latinoamerica-negocio-slim",
+      "fecha": "16 Oct 2026, 15:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Empezó usando baterías de laptop, circula desde hace años en el espacio y es el primer auto volador de Tesla",
+      "resumen": "El Roadster nació para demostrar que un eléctrico podía ser deseable. Dos décadas después, Tesla lleva esa idea del asfalto al aire.",
+      "link": "https://expansion.mx/empresas/2026/10/16/tesla-roadster-auto-volador-historia",
+      "fecha": "16 Oct 2026, 13:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anuncian cuarto paso ganadero para noviembre",
+      "resumen": "Departamento de Agricultura de EU informó que el 30 de noviembre autorizará el paso de ganado mexicano a través del cruce Nogales-Columbus.",
+      "link": "https://www.reforma.com/anuncian-cuarto-paso-ganadero-para-noviembre/ar3298971",
+      "fecha": "20 Oct 2026, 22:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé Citi oportunidades con bancos tras escindir Banamex",
+      "resumen": "La filial mexicana de Citigroup busca expandir su negocio con otros bancos después de que su separación de Banamex .",
+      "link": "https://www.reforma.com/preve-citi-oportunidades-con-bancos-tras-escindir-banamex/ar3298896",
+      "fecha": "20 Oct 2026, 20:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reporta Trion avance de 71% en tercer trimestre",
+      "resumen": "Al cierre del tercer trimestre, Trion, el proyecto de aguas profundas que desarrollan Woodside y Pemex, presenta un avance de 71%.",
+      "link": "https://www.reforma.com/reporta-trion-avance-de-71-en-tercer-trimestre/ar3298835",
+      "fecha": "20 Oct 2026, 19:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prometen decreto por límite a deducciones",
+      "resumen": "Tras propuesta de limitar deducciones, se prometió un decreto para exentar a empresas con bajo margen de utilidad, explicó AMDA.",
+      "link": "https://www.reforma.com/prometen-decreto-por-limite-a-deducciones/ar3298797",
+      "fecha": "20 Oct 2026, 19:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -181,42 +217,6 @@
       "resumen": "Aunque la relación con EU preocupa, hay certeza en la continuidad del T-MEC, afirmó Gerardo Esquivel, ex subgobernador de Banxico.",
       "link": "https://www.reforma.com/hay-confianza-en-t-mec-aunque-preocupa-eu-esquivel/ar3298719",
       "fecha": "20 Oct 2026, 17:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presupuesto de AFAC será para fortalecer plantilla técnica",
-      "resumen": "AFAC informó que presupuesto para 2027 se destinará a fortalecer la plantilla técnica, operación y categorización del personal.",
-      "link": "https://www.reforma.com/presupuesto-de-afac-sera-para-fortalecer-plantilla-tecnica/ar3298709",
-      "fecha": "20 Oct 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta gasto en transición energética, pero sin métricas",
-      "resumen": "En 2027, el gasto en transición energética será superior a 20 mil millones de pesos, concentrándose en obras ferroviarias, Pemex y CFE.",
-      "link": "https://www.reforma.com/aumenta-gasto-en-transicion-energetica-pero-sin-metricas/ar3298642",
-      "fecha": "20 Oct 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Forman SpaceX y Tesla comités para explorar una fusión",
-      "resumen": "Elon Musk afirmó que Tesla y SpaceX formaron comités especiales para discutir una posible fusión de las compañías.",
-      "link": "https://www.reforma.com/forman-spacex-y-tesla-comites-para-explorar-una-fusion/ar3298631",
-      "fecha": "20 Oct 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Afirma AICM que no está saturado gracias a mejoras",
-      "resumen": "Juan José Padilla, director general del AICM, aseguró que la terminal aérea no está saturada gracias a modificaciones en infraestructura.",
-      "link": "https://www.reforma.com/afirma-aicm-que-no-esta-saturado-gracias-a-mejoras/ar3298622",
-      "fecha": "20 Oct 2026, 15:56 hrs"
     }
   ]
 }
