@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/10/2026 07:28 hrs",
+  "actualizado": "21/10/2026 12:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La condonación de multas y recargos del SAT abre la puerta a grandes empresas para negociar deudas millonarias",
+      "resumen": "A junio de 2026, las grandes empresas acumulaban créditos fiscales por 1.11 billones de pesos. En 2013, el SAT advirtió que repetir amnistías fiscales debilita los incentivos para cumplir a tiempo.",
+      "link": "https://expansion.mx/economia/2026/10/21/condonacion-multas-recargos-sat-grandes-empresas",
+      "fecha": "21 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Sindicatos, municipios, partidos políticos y asociaciones civiles estarán bajo la lupa del SAT",
-      "resumen": "La disposición es parte del Paquete Económico 2027 y ya fue aprobada en la Cámara de Diputados. Falta la discusión y votación en el Senado. El SAT deberá emitir las reglas de operación.",
-      "link": "https://expansion.mx/economia/2026/10/19/sindicatos-municipios-partidos-politicos-asociaciones-sat",
-      "fecha": "19 Oct 2026, 13:34 hrs"
+      "titulo": "La compra de AT&T por Televisa abre una nueva oportunidad para que Slim lleve a Telmex a la televisión de paga",
+      "resumen": "La integración de los activos de AT&amp;T, Izzi y Sky reaviva la disputa de Carlos Slim por llevar a Telmex al negocio de la televisión de paga y solicitar la revisión de las restricciones regulatoria…",
+      "link": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
+      "fecha": "21 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
+      "resumen": "Arturo Elías Slim pasó por Sears y Sanborns, fundó una empresa y ahora impulsa T1. Su nueva apuesta es llevar la inteligencia artificial más allá de los chats y convertirla en una herramienta para ope…",
+      "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
+      "fecha": "20 Oct 2026, 19:50 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,24 +147,6 @@
       "fecha": "20 Oct 2026, 11:52 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Chevrolet bajó tanto el precio del Aveo nuevo que uno usado dejó de ser la opción barata",
-      "resumen": "¿Y si comprar un Aveo usado ya no fuera la mejor forma de ahorrar? La promoción de Chevrolet que está cambiando las cuentas.",
-      "link": "https://expansion.mx/empresas/2026/10/07/chevrolet-aveo-2026-nuevo-mas-barato-que-usado",
-      "fecha": "19 Oct 2026, 11:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
-      "resumen": "El gobierno eximirá temporalmente de aranceles los kits SKD y CKD para atraer nuevas líneas de producción, con el reto de que las armadas integren componentes mexicanos en cinco años.",
-      "link": "https://expansion.mx/empresas/2026/10/19/mexico-atraer-inversiones-automotrices-esquema-skd-ckd",
-      "fecha": "19 Oct 2026, 05:55 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,10 +159,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipan huelga en VW",
-      "resumen": "Sindicato de Volkswagen propone a agremiados incrementos de hasta 7.98% para evitar la huelga del 22 de octubre en Puebla.",
-      "link": "https://www.reforma.com/anticipan-huelga-en-vw/ar3298965",
-      "fecha": "21 Oct 2026, 05:01 hrs"
+      "titulo": "Urgen fortalecer abasto cárnico",
+      "resumen": "Emergencia sanitaria en Brasil refleja necesidad de tener varios puntos de abasto para dar certidumbre a cadena productiva, dijo Comecarne.",
+      "link": "https://www.reforma.com/urgen-fortalecer-abasto-carnico/ar3299149",
+      "fecha": "21 Oct 2026, 09:28 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crecen 1.18% ingresos del comercio minorista",
+      "resumen": "En agosto, los ingresos totales de las ventas minoristas crecieron 1.18% respecto al mes inmediato anterior, su mejor resultado en 25 meses.",
+      "link": "https://www.reforma.com/crecen-1-18-ingresos-del-comercio-minorista/ar3299237",
+      "fecha": "21 Oct 2026, 11:46 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ordenan a Meta pagar 25 mil mdd por caso Cambridge Analytica",
+      "resumen": "Meta Platforms fue condenada a pagar 25 mil mdd en multas relacionadas con el escándalo de Cambridge Analytica en Nuevo México.",
+      "link": "https://www.reforma.com/ordenan-a-meta-pagar-25-mil-mdd-por-caso-cambridge-analytica/ar3299239",
+      "fecha": "21 Oct 2026, 11:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,28 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anuncian cuarto paso ganadero para noviembre",
-      "resumen": "Departamento de Agricultura de EU informó que el 30 de noviembre autorizará el paso de ganado mexicano a través del cruce Nogales-Columbus.",
-      "link": "https://www.reforma.com/anuncian-cuarto-paso-ganadero-para-noviembre/ar3298971",
-      "fecha": "20 Oct 2026, 22:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Faltan lineamientos para reducir la jornada",
-      "resumen": "Pese a que en 2027 la jornada bajará de 48 a 46 horas, la STPS aún no publica las reglas para aplicarla.",
-      "link": "https://www.reforma.com/faltan-lineamientos-para-reducir-la-jornada/ar3298933",
-      "fecha": "21 Oct 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Busca Fonacot en BMV 7,000 mdp",
-      "resumen": "El Fonacot realizará el próximo jueves una emisión de certificados bursátiles por hasta 7 mil millones de pesos en la BMV.",
-      "link": "https://www.reforma.com/busca-fonacot-en-bmv-7-000-mdp/ar3298928",
-      "fecha": "21 Oct 2026, 05:01 hrs"
+      "titulo": "Ganan acciones de AMX más de 4% tras reporte trimestral",
+      "resumen": "Los títulos de América Móvil ganaban un 4.27% a 21.97 pesos en la BMV, luego de presentar sus resultados financieros del tercer trimestre.",
+      "link": "https://www.reforma.com/ganan-acciones-de-amx-mas-de-4-tras-reporte-trimestral/ar3299116",
+      "fecha": "21 Oct 2026, 08:37 hrs"
     },
     {
       "fuente": "Reforma",
