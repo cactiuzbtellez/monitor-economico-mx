@@ -1,7 +1,43 @@
 {
-  "actualizado": "21/10/2026 12:24 hrs",
+  "actualizado": "21/10/2026 16:07 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Adiós al efectivo en México? Lo que implica la nueva Ley de Economía Digital",
+      "resumen": "Gasolineras y casetas serán los primeros servicios donde se buscará masificar pagos digitales. La predilección por pagos en efectivo menores a 500 pesos, uno de los principales retos, según expertos.",
+      "link": "https://expansion.mx/economia/2026/10/21/adios-al-efectivo-en-mexico-lo-que-implica-la-nueva-ley-de-economia-digital",
+      "fecha": "21 Oct 2026, 14:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más deuda, topes a deducciones, condonación de multas a empresas y mayores cobros a turistas avanzan en el Senado",
+      "resumen": "Los senadores de las Comisiones Unidas de Hacienda y Crédito Público y de Estudios Legislativos dieron el visto bueno a los cambios en materia de ingresos que conforman el Paquete Económico 2027.",
+      "link": "https://expansion.mx/economia/2026/10/21/deuda-deducciones-condonacion-cuotas-turistas-2027",
+      "fecha": "21 Oct 2026, 13:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México tiene 1.8 millones de menores en trabajos no permitidos; más de un tercio no recibe ingresos",
+      "resumen": "Aunque la cifra disminuyó frente a 2022, el trabajo por debajo de la edad mínima o en condiciones peligrosas afecta a 6.6% de la población de 5 a 17 años, según el Inegi.",
+      "link": "https://expansion.mx/economia/2026/10/21/mexico-tiene-1-8-millones-de-menores-trabajos-no-permitidos",
+      "fecha": "21 Oct 2026, 11:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Fernando Chico Pardo quiere llevar a Banamex al nivel de BBVA y sus hijos podrían concretar el plan",
+      "resumen": "El empresario busca ampliar el crédito, recuperar terreno en segmentos clave e invertir 1,700 millones de dólares para modernizar la tecnología del banco antes de su salida a Bolsa.",
+      "link": "https://expansion.mx/economia/2026/10/21/fernando-chico-pardo-quiere-llevar-banamex-al-nivel-de-bbva",
+      "fecha": "21 Oct 2026, 09:28 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México se prepara para disminuir el uso del efectivo; ley de Economía Digital entra en su etapa final de aprobación",
-      "resumen": "La CURP digital será indispensable para la contratación de servicios financieros. Banobras busca mejorar el proceso de cobro en las casetas y llevarlo a un modelo paulatino de \"cero efectivo\".",
-      "link": "https://expansion.mx/economia/2026/10/20/curp-digital-as-bajo-para-reducir-el-uso-de-efectivo",
-      "fecha": "20 Oct 2026, 05:55 hrs"
+      "titulo": "Llegó de Ucrania a los 19 años, vendió herramientas en tianguis de CDMX y sentó las bases del imperio Truper",
+      "resumen": "De un pequeño taller a más de 20 plantas industriales, Truper evolucionó durante generaciones hasta convertirse en un fabricante y distribuidor de herramientas con presencia internacional.",
+      "link": "https://expansion.mx/empresas/2026/10/21/truper-historia-origen-ucrania-tianguis-cdmx",
+      "fecha": "21 Oct 2026, 15:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Ante envejecimiento del país Afores piden revisar sistema de pensiones, pero descartan elevar la edad de retiro",
-      "resumen": "La Amafore dijo que no puede haber  tantos subsidios intergeneracionales porque cada vez hay menos jóvenes apoyando en edad productiva a adultos mayores",
-      "link": "https://expansion.mx/economia/2026/10/19/ante-envejecimiento-del-pais-afores-piden-revisar-sistema-de-pensiones-pero-descartan-elevar-la-edad-de-retiro",
-      "fecha": "19 Oct 2026, 16:53 hrs"
+      "titulo": "Comprar en Costco no siempre significa ahorrar: cuándo conviene pagar por productos en formato grande",
+      "resumen": "Costco basa parte de su modelo en vender grandes volúmenes y presentaciones amplias, pero el ahorro no está garantizado. Estos debes revisar para saber si te conviene comprar por mayoreo.",
+      "link": "https://expansion.mx/empresas/2026/10/21/comprar-costco-no-siempre-significa-ahorrar-cuando-conviene",
+      "fecha": "21 Oct 2026, 13:37 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El rival de Norteamérica no es solo China, sino una Asia que reorganiza su inversión",
-      "resumen": "Diversificar la producción fuera de China no garantiza nuevas fábricas para Norteamérica. Otras economías asiáticas ofrecen proveedores, infraestructura y capacidad industrial.",
-      "link": "https://expansion.mx/economia/2026/10/19/asia-inversion-extranjera-desafio-norteamerica",
-      "fecha": "19 Oct 2026, 16:18 hrs"
+      "titulo": "Amazon acelera sus envíos desde Estados Unidos a México vía el AIFA para fortalecer sus suscripciones Prime",
+      "resumen": "La plataforma refuerza su red logística transfronteriza para captar la alta demanda de productos provenientes de Estados Unidos, ampliando su catálogo e impulsando entregas internacionales en un plazo…",
+      "link": "https://expansion.mx/empresas/2026/10/21/amazon-entregas-productos-desde-eu-mexico-aifa",
+      "fecha": "21 Oct 2026, 13:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Asigna Consar 9.4 millones de cuentas de Afore a XXI Banorte; será la nueva prestadora de servicios del SAR",
-      "resumen": "La administradora recibió las cuentas de trabajadores que aún no están asignadas o registradas en una Afore y tendrá a su cargo su gestión durante seis años. Los recursos permanecerán en el Banco de M…",
-      "link": "https://expansion.mx/economia/2026/10/19/asigna-consar-9-4-millones-de-cuentas-de-afore-a-xxi-banorte-sera-la-nueva-prestadora-de-servicios-del-sar",
-      "fecha": "19 Oct 2026, 16:13 hrs"
+      "titulo": "Pemex despide a trabajadores de confianza y reduce niveles salariales",
+      "resumen": "Los primeros casos reportados ocurrieron en Reynosa, Tamaulipas, donde 11 trabajadores fueron despedidos. La reestructura también contempla reducciones de nivel que pueden recortar más de la mitad del…",
+      "link": "https://expansion.mx/empresas/2026/10/21/pemex-despide-trabajadores-confianza-recortes-salariales",
+      "fecha": "21 Oct 2026, 11:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Combate a huachicol fiscal detecta millones de litros ilegales de combustible y pérdidas por 61,785 millones de pesos",
+      "resumen": "Pemex ha presentado 10,674 casos por robo de combustibles y la Agencia Nacional de Aduanas de México (AMAN) presentó 11 casos por contrabando y falsa declaración de volúmenes de importación.",
+      "link": "https://expansion.mx/empresas/2026/10/21/combate-huachicol-millones-litros-ilegales-combustibles-2025",
+      "fecha": "21 Oct 2026, 11:10 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,76 +147,49 @@
       "fecha": "20 Oct 2026, 19:13 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Alsea recupera utilidad con el repunte de Starbucks tras un primer semestre difícil",
-      "resumen": "Tras un primer semestre crítico marcado por contracciones superiores al 50% en su beneficio neto, la empresa cortó la racha negativa con un repunte de casi el 48.4%, sumando 545 millones de pesos en e…",
-      "link": "https://expansion.mx/empresas/2026/10/20/reporte-trimestral-alsea-recupera-utilidad-efecto-starbucks",
-      "fecha": "20 Oct 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El hotel de Carlos Slim a minutos de Disney World que pocos mexicanos conocen y cuesta menos de 1,000 pesos la noche",
-      "resumen": "El inmueble llegó al portafolio del empresario en 2010 y destaca por ser la única propiedad hotelera internacional de Inmuebles Carso.",
-      "link": "https://expansion.mx/empresas/2026/10/20/carlos-slim-tiene-un-hotel-cerca-de-disney-world",
-      "fecha": "20 Oct 2026, 16:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El fin de las \"propinas jugosas\": los turistas extranjeros gastan cada vez menos en México",
-      "resumen": "En los primeros ocho meses de 2026, la llegada de turistas internacionales aumentó 3.9% anual, pero los ingresos asociados a ese segmento avanzaron apenas 0.6%.",
-      "link": "https://expansion.mx/empresas/2026/10/20/turistas-extranjeros-gastan-menos-mexico",
-      "fecha": "20 Oct 2026, 13:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cadillac lleva su apuesta por la Fórmula 1 al mercado mexicano con un SUV inspirado en Checo Pérez",
-      "resumen": "La marca de lujo más lanzará 11 unidades de una Escalade-V de cuatro millones de pesos dedicada al piloto mexicano, en una estrategia que vincula su entrada a la Fórmula 1 con el mercado de lujo.",
-      "link": "https://expansion.mx/empresas/2026/10/20/cadillac-checo-perez-escalade-v-edicion-potencia-precio",
-      "fecha": "20 Oct 2026, 12:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Trabajadores de Volkswagen rechazan por segunda vez el contrato colectivo y mantienen riesgo de huelga",
-      "resumen": "El resultado vuelve a poner en entredicho una negociación que la automotriz y el sindicato habían cerrado el 2 de octubre, después de meses de conversaciones para revisar las condiciones laborales de …",
-      "link": "https://expansion.mx/empresas/2026/10/20/volkswagen-puebla-sigue-riesgo-huelga",
-      "fecha": "20 Oct 2026, 11:52 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén que tope a combustibles dure todo el sexenio",
+      "resumen": "Especialistas esperan que el tope al precio de los combustibles se mantendrá en el sexenio, impactando las finanzas públicas y de Pemex.",
+      "link": "https://www.reforma.com/preven-que-tope-a-combustibles-dure-todo-el-sexenio/ar3299354",
+      "fecha": "21 Oct 2026, 14:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dudan que Gobierno logre meta de ingresos",
-      "resumen": "Meta de ingresos presupuestarios para 2027 corre el riesgo de incumplirse si la economía no crece como se espera, señalan especialistas.",
-      "link": "https://www.reforma.com/dudan-que-gobierno-logre-meta-de-ingresos/ar3298951",
-      "fecha": "21 Oct 2026, 05:01 hrs"
+      "titulo": "Ven difícil que México sea top 10 económico mundial",
+      "resumen": "Con bajo crecimiento, será difícil que México llegue al top 10 de economías más grandes del mundo en 2030, advirtió México ¿Cómo Vamos?.",
+      "link": "https://www.reforma.com/ven-dificil-que-mexico-sea-top-10-economico-mundial/ar3299444",
+      "fecha": "21 Oct 2026, 15:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen fortalecer abasto cárnico",
-      "resumen": "Emergencia sanitaria en Brasil refleja necesidad de tener varios puntos de abasto para dar certidumbre a cadena productiva, dijo Comecarne.",
-      "link": "https://www.reforma.com/urgen-fortalecer-abasto-carnico/ar3299149",
-      "fecha": "21 Oct 2026, 09:28 hrs"
+      "titulo": "Cancelarán 132 permisos de comercialización de combustibles",
+      "resumen": "Comisión Nacional de Energía  inició el proceso de cancelación de alrededor de 130 permisos de comercialización de combustibles.",
+      "link": "https://www.reforma.com/cancelaran-132-permisos-de-comercializacion-de-combustibles/ar3299431",
+      "fecha": "21 Oct 2026, 15:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen 1.18% ingresos del comercio minorista",
-      "resumen": "En agosto, los ingresos totales de las ventas minoristas crecieron 1.18% respecto al mes inmediato anterior, su mejor resultado en 25 meses.",
-      "link": "https://www.reforma.com/crecen-1-18-ingresos-del-comercio-minorista/ar3299237",
-      "fecha": "21 Oct 2026, 11:46 hrs"
+      "titulo": "Destacará País como observador de elecciones en EU.- UBS",
+      "resumen": "Por ser uno de los principales socios comerciales, México destacarán en el seguimiento de los resultados de las elecciones de EU, dijo UBS.",
+      "link": "https://www.reforma.com/destacara-pais-como-observador-de-elecciones-en-eu-ubs/ar3299391",
+      "fecha": "21 Oct 2026, 14:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se retira GMéxico de puja por red ferroviaria de Argentina",
+      "resumen": "Grupo México no presentará una oferta por la red ferroviaria argentina, Belgrano Cargas, a pesar de haber contado con el respaldo de EU.",
+      "link": "https://www.reforma.com/se-retira-gmexico-de-puja-por-red-ferroviaria-de-argentina/ar3299267",
+      "fecha": "21 Oct 2026, 12:25 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Diluye SAT ventajas de las IMMEX",
-      "resumen": "Ventajas de empresas con programa IMMEX se están diluyendo por retrasos del SAT en renovación de certificaciones y en devolución del IVA.",
-      "link": "https://www.reforma.com/diluye-sat-ventajas-de-las-immex/ar3298912",
-      "fecha": "21 Oct 2026, 07:18 hrs"
+      "titulo": "Apuesta Fonacot por deuda bursátil para mantener tasas bajas",
+      "resumen": "El Fonacot apostará por el financiamiento bursátil para mantener tasas de interés en sus créditos de nómina.",
+      "link": "https://www.reforma.com/apuesta-fonacot-por-deuda-bursatil-para-mantener-tasas-bajas/ar3299316",
+      "fecha": "21 Oct 2026, 14:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concentraría mercado la fusión Viva-Volaris",
-      "resumen": "La fusión de Viva y Volaris podría implicar una concentración del mercado doméstico superior a la que alcanzó en su momento Cintra.",
-      "link": "https://www.reforma.com/concentraria-mercado-la-fusion-viva-volaris/ar3298955",
-      "fecha": "21 Oct 2026, 07:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ganan acciones de AMX más de 4% tras reporte trimestral",
-      "resumen": "Los títulos de América Móvil ganaban un 4.27% a 21.97 pesos en la BMV, luego de presentar sus resultados financieros del tercer trimestre.",
-      "link": "https://www.reforma.com/ganan-acciones-de-amx-mas-de-4-tras-reporte-trimestral/ar3299116",
-      "fecha": "21 Oct 2026, 08:37 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recortan meta para la BMV",
-      "resumen": "Actinver recortó su pronóstico para la BMV ante la falta de catalizadores generales para el mercado.",
-      "link": "https://www.reforma.com/recortan-meta-para-la-bmv/ar3298947",
-      "fecha": "21 Oct 2026, 05:01 hrs"
+      "titulo": "Disminuye 4% flujo operativo de Gruma en el tercer trimestre",
+      "resumen": "Gruma reportó un flujo de 280.3 mdd en el tercer trimestre, un 4% inferior al de igual lapso de 2025, mientras que las ventas crecieron 1%.",
+      "link": "https://www.reforma.com/disminuye-4-flujo-operativo-de-gruma-en-el-tercer-trimestre/ar3299419",
+      "fecha": "21 Oct 2026, 14:58 hrs"
     }
   ]
 }
