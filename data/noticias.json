@@ -1,7 +1,25 @@
 {
-  "actualizado": "21/10/2026 16:07 hrs",
+  "actualizado": "21/10/2026 19:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
+      "resumen": "El CEO de la firma, Enrique Majós, estima que el cambio hacia pagos digitales en México requerirá mayor interoperabilidad entre sistemas y coordinación entre autoridades, bancos y empresas.",
+      "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
+      "fecha": "21 Oct 2026, 18:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Crecen créditos fiscales del sector financiero con el SAT; acumulan 99,674 mdp",
+      "resumen": "De acuerdo con expertos,  el incremento en los adeudos del sistema financiero y aseguradoras es consecuencia de la fiscalización profunda del SAT a falta de una reforma fiscal.",
+      "link": "https://expansion.mx/economia/2026/10/21/crecen-creditos-fiscales-del-sector-financiero-con-el-sat-acumulan-99-674-mdp",
+      "fecha": "21 Oct 2026, 17:23 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
-      "resumen": "El aumento de la esperanza de vida y los cambios en la estructura familiar obligan a incorporar el costo de los cuidados en la planeación financiera para los adultos mayores",
-      "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
-      "fecha": "20 Oct 2026, 16:44 hrs"
+      "titulo": "En México ya circula un mini auto eléctrico que no es Olinia, tiene modo deportivo y hasta 200 km de autonomía",
+      "resumen": "Zacua ensambla en Puebla dos mini eléctricos bajo pedido, mientras Olinia todavía prepara su llegada al mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
+      "fecha": "21 Oct 2026, 19:09 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
-      "resumen": "Firmas financieras buscan atraer a los automovilistas con sorteos para ganar un año de gasolina gratis al pagar con medios digitales. Banxico estrenará la \"cuenta fácil\" sin necesidad de RFC.",
-      "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
-      "fecha": "20 Oct 2026, 09:51 hrs"
+      "titulo": "AT&T reconoce un deterioro contable de 2,600 mdd y pérdida de 500 mdd en ingresos anuales por venta de filial mexicana",
+      "resumen": "La filial mexicana generaba un flujo y una utilidad bajas para el tamaño de la operación lo que explica por qué el negocio se vendió por debajo del valor contable de sus activos.",
+      "link": "https://expansion.mx/empresas/2026/10/21/salida-mexico-att-reconoce-perdida-ingresos-500-mdd-anuales",
+      "fecha": "21 Oct 2026, 18:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,39 +147,57 @@
       "fecha": "21 Oct 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
-      "resumen": "Arturo Elías Slim pasó por Sears y Sanborns, fundó una empresa y ahora impulsa T1. Su nueva apuesta es llevar la inteligencia artificial más allá de los chats y convertirla en una herramienta para ope…",
-      "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
-      "fecha": "20 Oct 2026, 19:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La Comer impulsa sus ventas con promociones, pero mayores gastos en sueldos, publicidad y tiendas diluyen sus ganancias",
-      "resumen": "Los mayores desembolsos en sueldos, publicidad y apertura de tiendas llevaron los gastos generales a 2,960 mdp, que representan un aumento anual de 11%.",
-      "link": "https://expansion.mx/empresas/2026/10/20/la-comer-ventas-utilidad-reporte-trimestral-2026",
-      "fecha": "20 Oct 2026, 19:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Logra dólar su mayor nivel desde noviembre de 2025",
+      "resumen": "El dólar cerró este miércoles con una cotización de $18.68; su nivel más alto desde el 4 de noviembre de 2025.",
+      "link": "https://www.reforma.com/logra-dolar-su-mayor-nivel-desde-noviembre-de-2025/ar3299579",
+      "fecha": "21 Oct 2026, 17:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén que tope a combustibles dure todo el sexenio",
-      "resumen": "Especialistas esperan que el tope al precio de los combustibles se mantendrá en el sexenio, impactando las finanzas públicas y de Pemex.",
-      "link": "https://www.reforma.com/preven-que-tope-a-combustibles-dure-todo-el-sexenio/ar3299354",
-      "fecha": "21 Oct 2026, 14:14 hrs"
+      "titulo": "Apuesta Unilever por gemelos digitales",
+      "resumen": "Unilever anunció que pondrá en marcha más de 40 gemelos digitales con IA en todas sus fábricas en un plazo no mayor a 18 meses.",
+      "link": "https://www.reforma.com/apuesta-unilever-por-gemelos-digitales/ar3299568",
+      "fecha": "21 Oct 2026, 17:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ven difícil que México sea top 10 económico mundial",
+      "titulo": "Pide Hajj abrir televisión de paga a Telmex",
+      "resumen": "Daniel Hajj, director general de América Móvil, dijo que esperarán a que se apruebe venta de AT&amp;T México para poder ofrecer TV de paga.",
+      "link": "https://www.reforma.com/pide-hajj-abrir-television-de-paga-a-telmex/ar3299482",
+      "fecha": "21 Oct 2026, 17:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Planea Meta emitir nuevas acciones para captar capital",
+      "resumen": "Meta Platforms aumentó su previsión de gastos de capital para 2026 y anunció planes para una nueva clase de acciones sin derecho a voto.",
+      "link": "https://www.reforma.com/planea-meta-emitir-nuevas-acciones-para-captar-capital/ar3299461",
+      "fecha": "21 Oct 2026, 15:37 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se estancan ingresos de Tesla y ganancias caen 29%",
+      "resumen": "Tesla reportó resultados mejores de lo esperado para el tercer trimestre, pese a caída en ganancias y de los ingresos del sector automotriz.",
+      "link": "https://www.reforma.com/se-estancan-ingresos-de-tesla-y-ganancias-caen-29/ar3299450",
+      "fecha": "21 Oct 2026, 15:23 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén difícil que México sea top 10 económico mundial",
       "resumen": "Con bajo crecimiento, será difícil que México llegue al top 10 de economías más grandes del mundo en 2030, advirtió México ¿Cómo Vamos?.",
-      "link": "https://www.reforma.com/ven-dificil-que-mexico-sea-top-10-economico-mundial/ar3299444",
+      "link": "https://www.reforma.com/preven-dificil-que-mexico-sea-top-10-economico-mundial/ar3299444",
       "fecha": "21 Oct 2026, 15:23 hrs"
     },
     {
@@ -169,45 +205,9 @@
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Cancelarán 132 permisos de comercialización de combustibles",
-      "resumen": "Comisión Nacional de Energía  inició el proceso de cancelación de alrededor de 130 permisos de comercialización de combustibles.",
+      "resumen": "Comisión Nacional de Energía inició el proceso de cancelación de alrededor de 130 permisos de comercialización de combustibles.",
       "link": "https://www.reforma.com/cancelaran-132-permisos-de-comercializacion-de-combustibles/ar3299431",
       "fecha": "21 Oct 2026, 15:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Destacará País como observador de elecciones en EU.- UBS",
-      "resumen": "Por ser uno de los principales socios comerciales, México destacarán en el seguimiento de los resultados de las elecciones de EU, dijo UBS.",
-      "link": "https://www.reforma.com/destacara-pais-como-observador-de-elecciones-en-eu-ubs/ar3299391",
-      "fecha": "21 Oct 2026, 14:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se retira GMéxico de puja por red ferroviaria de Argentina",
-      "resumen": "Grupo México no presentará una oferta por la red ferroviaria argentina, Belgrano Cargas, a pesar de haber contado con el respaldo de EU.",
-      "link": "https://www.reforma.com/se-retira-gmexico-de-puja-por-red-ferroviaria-de-argentina/ar3299267",
-      "fecha": "21 Oct 2026, 12:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ordenan a Meta pagar 25 mil mdd por caso Cambridge Analytica",
-      "resumen": "Meta Platforms fue condenada a pagar 25 mil mdd en multas relacionadas con el escándalo de Cambridge Analytica en Nuevo México.",
-      "link": "https://www.reforma.com/ordenan-a-meta-pagar-25-mil-mdd-por-caso-cambridge-analytica/ar3299239",
-      "fecha": "21 Oct 2026, 11:46 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apuesta Fonacot por deuda bursátil para mantener tasas bajas",
-      "resumen": "El Fonacot apostará por el financiamiento bursátil para mantener tasas de interés en sus créditos de nómina.",
-      "link": "https://www.reforma.com/apuesta-fonacot-por-deuda-bursatil-para-mantener-tasas-bajas/ar3299316",
-      "fecha": "21 Oct 2026, 14:14 hrs"
     },
     {
       "fuente": "Reforma",
