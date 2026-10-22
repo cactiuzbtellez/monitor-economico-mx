@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/10/2026 07:29 hrs",
+  "actualizado": "22/10/2026 12:19 hrs",
   "total": 24,
   "noticias": [
     {
@@ -177,6 +177,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Baja desocupación a 2.63% en septiembre",
+      "resumen": "La Tasa de Desocupación en el País registró una variación mensual de menos 0.08 puntos porcentuales en septiembre.",
+      "link": "https://www.reforma.com/baja-desocupacion-a-2-63-en-septiembre/ar3300007",
+      "fecha": "22 Oct 2026, 11:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Somete SHCP a consulta pública el objetivo de biodiversidad",
+      "resumen": "La SHCP cometió a consulta la propuesta del objeto de biodiversidad, perteneciente a la Taxonomía Sostenible de México.",
+      "link": "https://www.reforma.com/somete-shcp-a-consulta-publica-el-objetivo-de-biodiversidad/ar3300005",
+      "fecha": "22 Oct 2026, 11:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Alcanzan VW de México y sindicato acuerdo; evitan la huelga",
       "resumen": "Volkswagen y el sindicato de trabajadores de su planta de Puebla llegaron a un acuerdo que evita la huelga prevista para este jueves.",
       "link": "https://www.reforma.com/alcanzan-vw-de-mexico-y-sindicato-acuerdo-evitan-la-huelga/ar3299872",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preparan en Pemex cese de 900 plazas",
-      "resumen": "Pemex  busca reubicar o finalizar la relación laboral de casi 900 empleados que trabajan en servicios a ductos del Cenagas.",
-      "link": "https://www.reforma.com/preparan-en-pemex-cese-de-900-plazas/ar3299726",
-      "fecha": "22 Oct 2026, 05:02 hrs"
+      "titulo": "Caen 7% acciones de Gentera tras informe trimestral",
+      "resumen": "Las acciones de Gentera se hundían 7.09%, después de publicar sus resultados del tercer trimestre, que mostraron un aumento de la morosidad.",
+      "link": "https://www.reforma.com/caen-7-acciones-de-gentera-tras-informe-trimestral/ar3299931",
+      "fecha": "22 Oct 2026, 09:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alertan riesgos fiscales con la ley cero efectivo",
-      "resumen": "Ley de Economía Digital para Pagos Digitales y Electrónicos podría generar riesgos fiscales para las empresas, advierten especialistas.",
-      "link": "https://www.reforma.com/alertan-riesgos-fiscales-con-la-ley-cero-efectivo/ar3299709",
-      "fecha": "22 Oct 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se queda corta la cifra de pérdidas por huachicol",
-      "resumen": "Cifra de 61 mil 785 millones de pesos de pérdidas por el mercado ilícito de combustibles en 2025 se queda corta, aseguró PetroIntelligence.",
-      "link": "https://www.reforma.com/se-queda-corta-la-cifra-de-perdidas-por-huachicol/ar3299665",
-      "fecha": "21 Oct 2026, 20:04 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Exigen reactivar tránsitos internos",
-      "resumen": "Transportistas intermodales piden a la ANAM restablecer el tránsito interno de mercancías de puertos a terminales interiores.",
-      "link": "https://www.reforma.com/exigen-reactivar-transitos-internos/ar3299706",
-      "fecha": "22 Oct 2026, 05:02 hrs"
+      "titulo": "Lideran acciones de Meta y Tesla caídas en sector de la IA",
+      "resumen": "El índice Nsadaq retrocedía 1.5%, lastrado por los descensos de empresas como Meta Platforms y Tesla, que caían 5 y 2%, respectivamente.",
+      "link": "https://www.reforma.com/lideran-acciones-de-meta-y-tesla-caidas-en-sector-de-la-ia/ar3299888",
+      "fecha": "22 Oct 2026, 08:18 hrs"
     }
   ]
 }
