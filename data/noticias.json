@@ -1,34 +1,7 @@
 {
-  "actualizado": "23/10/2026 12:06 hrs",
+  "actualizado": "23/10/2026 15:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
-      "resumen": "La llegada de Nu al sistema bancario mexicano sumó de golpe más de 10 millones de tarjetas de crédito; se coloca en tercer lugar, por detrás de BBVA y Banamex",
-      "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
-      "fecha": "23 Oct 2026, 10:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
-      "resumen": "La economía mexicana avanzó 0.6% en agosto, por encima de lo esperado. La recuperación industrial llevó a Oxford Economics a elevar su pronóstico para 2026, aunque los servicios perdieron impulso.",
-      "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
-      "fecha": "23 Oct 2026, 09:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
-      "resumen": "La brecha comercial pesa sobre la negociación para reducir aranceles. México eleva sus compras a Estados Unidos, aunque ese avance aún resulta insuficiente para contener el déficit bilateral.",
-      "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
-      "fecha": "23 Oct 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +46,42 @@
       "resumen": "Los precios aumentaron 0.41% en la primera quincena, frente al 0.38% previsto por el mercado. La inflación subyacente también sorprendió al alza, con presiones en los servicios.",
       "link": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
       "fecha": "22 Oct 2026, 06:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
+      "resumen": "Eliminar multas y recargos permitirá reducir entre 50% y 60% algunos adeudos con el SAT. La IP busca cambios al ISR para 2027 ante el riesgo de que el impuesto absorba una mayor proporción de las util…",
+      "link": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
+      "fecha": "22 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
+      "resumen": "El CEO de la firma, Enrique Majós, estima que el cambio hacia pagos digitales en México requerirá mayor interoperabilidad entre sistemas y coordinación entre autoridades, bancos y empresas.",
+      "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
+      "fecha": "21 Oct 2026, 18:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Crecen créditos fiscales del sector financiero con el SAT; acumulan 99,674 mdp",
+      "resumen": "De acuerdo con expertos,  el incremento en los adeudos del sistema financiero y aseguradoras es consecuencia de la fiscalización profunda del SAT a falta de una reforma fiscal.",
+      "link": "https://expansion.mx/economia/2026/10/21/crecen-creditos-fiscales-del-sector-financiero-con-el-sat-acumulan-99-674-mdp",
+      "fecha": "21 Oct 2026, 17:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Trabajadores de confianza de Pemex llevan a la SCJN lucha por reconocimiento sindical",
+      "resumen": "Los litigios individuales que se han presentado para la reclasificación de personal de base sí han sido concedidos.",
+      "link": "https://expansion.mx/empresas/2026/10/23/trabajadores-de-confianza-pemex-scjn-reconocimiento-sindical",
+      "fecha": "23 Oct 2026, 14:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "21 Oct 2026, 18:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Llegó de Ucrania a los 19 años, vendió herramientas en tianguis de CDMX y sentó las bases del imperio Truper",
-      "resumen": "De un pequeño taller a más de 20 plantas industriales, Truper evolucionó durante generaciones hasta convertirse en un fabricante y distribuidor de herramientas con presencia internacional.",
-      "link": "https://expansion.mx/empresas/2026/10/21/truper-historia-origen-ucrania-tianguis-cdmx",
-      "fecha": "21 Oct 2026, 15:24 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,24 @@
       "resumen": "Representantes de trabajadores de Pemex pidieron a los directivos que cesen los despidos masivos de personal y reducción de salarios.",
       "link": "https://www.reforma.com/piden-frenar-despidos-y-reduccion-salarial-en-pemex/ar3300749",
       "fecha": "23 Oct 2026, 10:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anuncian transportistas paro indefinido",
+      "resumen": "La Canacar anunció un paro a nivel nacional por tiempo indefinido a partir del 26 de octubre, por la inseguridad en las carreteras.",
+      "link": "https://www.reforma.com/anuncian-transportistas-paro-indefinido/ar3300814",
+      "fecha": "23 Oct 2026, 12:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Transportistas de NL  se suman al paro nacional",
+      "resumen": "Canacar y otros organismos de transportistas en el Estado anunciaron que apoyan y se suman al paro nacional del sector de autotransporte.",
+      "link": "https://www.reforma.com/transportistas-de-nl-se-suman-al-paro-nacional/ar3300916",
+      "fecha": "23 Oct 2026, 14:40 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a dar a IMSS 25% más recursos",
-      "resumen": "Una urgente inyección de al menos 25% más recursos es la dosis que requiere el Sistema Público de Salud, al que pertenece el IMSS.",
-      "link": "https://www.reforma.com/urgen-a-dar-a-imss-25-mas-recursos/ar3300483",
-      "fecha": "23 Oct 2026, 07:13 hrs"
+      "titulo": "Eliminaría EU aranceles sobre algunos productos canadienses",
+      "resumen": "Trump quitaría aranceles del 50% sobre algunos productos agrícolas y forestales canadienses para apoyar a senadora de Maine, Susan Collins.",
+      "link": "https://www.reforma.com/eliminaria-eu-aranceles-sobre-algunos-productos-canadienses/ar3300830",
+      "fecha": "23 Oct 2026, 12:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén amparos por Modalidad 40",
-      "resumen": "Publicación de acuerdo del IMSS en Modalidad 40, pese a que aún no se aprueba una reforma a Ley del Seguro Social, generaría amparos.",
-      "link": "https://www.reforma.com/preven-amparos-por-modalidad-40/ar3300488",
-      "fecha": "23 Oct 2026, 07:13 hrs"
+      "titulo": "Se quejan usuarios del iPhone Duo de pantallas agrietadas",
+      "resumen": "El nuevo iPhone Duo de Apple ha impresionado con su pantalla plegable, pero algunos usuarios ya se quejan de dispositivos agrietados.",
+      "link": "https://www.reforma.com/se-quejan-usuarios-del-iphone-duo-de-pantallas-agrietadas/ar3300941",
+      "fecha": "23 Oct 2026, 15:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lidera NL construcción de parques industriales",
-      "resumen": "NL es la entidad con más parques industriales en construcción y/o ya hechos en el País, al contar con 13 de los 40 que informó ayer la AMPIP",
-      "link": "https://www.reforma.com/lidera-nl-construccion-de-parques-industriales/ar3300484",
-      "fecha": "23 Oct 2026, 07:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben acciones de Bimbo más de 4% tras un sólido reporte",
-      "resumen": "Las acciones de Bimbo subían 4.6%, a $62.69 en la BMV, tras presentar un sólido reporte trimestral y elevar previsiones de rentabilidad.",
-      "link": "https://www.reforma.com/suben-acciones-de-bimbo-mas-de-4-tras-un-solido-reporte/ar3300752",
-      "fecha": "23 Oct 2026, 10:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se dispara Brent hasta los 117 dólares, máximo desde abril",
-      "resumen": "Los futuros del crudo Brent subían 3.54%, a 117.18 dólares el barril, mientras que el crudo WTI avanzaba 3.77%, a 103.22 dólares.",
-      "link": "https://www.reforma.com/se-dispara-brent-hasta-los-117-dolares-maximo-desde-abril/ar3300791",
+      "titulo": "Cierran precios del crudo con alza de más de 3%",
+      "resumen": "Los futuros del crudo Brent subieron 3.14%, a 116.72 dólares el barril, mientras que el crudo WTI avanzó 3.82%, a 103.27 dólares.",
+      "link": "https://www.reforma.com/cierran-precios-del-crudo-con-alza-de-mas-de-3/ar3300791",
       "fecha": "23 Oct 2026, 11:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Tyco planta en Matamoros",
-      "resumen": "Anuncian cierre de empresa maquiladora Tyco Internacional en Matamoros, que actualmente emplea a un poco más de mil trabajadores.",
-      "link": "https://www.reforma.com/cierra-tyco-planta-en-matamoros/ar3300507",
-      "fecha": "23 Oct 2026, 06:35 hrs"
+      "titulo": "Se desploma Dow Jones más de 600 puntos",
+      "resumen": "Este viernes, el Promedio Industrial Dow Jones cayó 652.82 puntos, o un 1.23%, a 52 mil 215 unidades.",
+      "link": "https://www.reforma.com/se-desploma-dow-jones-mas-de-600-puntos/ar3300915",
+      "fecha": "23 Oct 2026, 14:32 hrs"
     }
   ]
 }
