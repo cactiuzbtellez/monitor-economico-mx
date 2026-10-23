@@ -1,7 +1,34 @@
 {
-  "actualizado": "23/10/2026 07:06 hrs",
+  "actualizado": "23/10/2026 12:06 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
+      "resumen": "La llegada de Nu al sistema bancario mexicano sumó de golpe más de 10 millones de tarjetas de crédito; se coloca en tercer lugar, por detrás de BBVA y Banamex",
+      "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
+      "fecha": "23 Oct 2026, 10:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
+      "resumen": "La economía mexicana avanzó 0.6% en agosto, por encima de lo esperado. La recuperación industrial llevó a Oxford Economics a elevar su pronóstico para 2026, aunque los servicios perdieron impulso.",
+      "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
+      "fecha": "23 Oct 2026, 09:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
+      "resumen": "La brecha comercial pesa sobre la negociación para reducir aranceles. México eleva sus compras a Estados Unidos, aunque ese avance aún resulta insuficiente para contener el déficit bilateral.",
+      "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
+      "fecha": "23 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
-      "resumen": "Eliminar multas y recargos permitirá reducir entre 50% y 60% algunos adeudos con el SAT. La IP busca cambios al ISR para 2027 ante el riesgo de que el impuesto absorba una mayor proporción de las util…",
-      "link": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
-      "fecha": "22 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
-      "resumen": "El CEO de la firma, Enrique Majós, estima que el cambio hacia pagos digitales en México requerirá mayor interoperabilidad entre sistemas y coordinación entre autoridades, bancos y empresas.",
-      "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
-      "fecha": "21 Oct 2026, 18:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Crecen créditos fiscales del sector financiero con el SAT; acumulan 99,674 mdp",
-      "resumen": "De acuerdo con expertos,  el incremento en los adeudos del sistema financiero y aseguradoras es consecuencia de la fiscalización profunda del SAT a falta de una reforma fiscal.",
-      "link": "https://expansion.mx/economia/2026/10/21/crecen-creditos-fiscales-del-sector-financiero-con-el-sat-acumulan-99-674-mdp",
-      "fecha": "21 Oct 2026, 17:23 hrs"
+      "titulo": "Bimbo aumenta 22% sus ganancias con México como motor de crecimiento",
+      "resumen": "México aportó 38.6% de las ventas totales de Bimbo en el tercer trimestre, con ingresos por 40,905 millones de pesos, un crecimiento anual de 5.2% que contrastó con la caída de 1.3% de los ingresos co…",
+      "link": "https://expansion.mx/empresas/2026/10/22/bimbo-utilidad-tercer-trimestre-mexico-ventas",
+      "fecha": "22 Oct 2026, 21:12 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "21 Oct 2026, 15:24 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Comprar en Costco no siempre significa ahorrar: cuándo conviene pagar por productos en formato grande",
-      "resumen": "Costco basa parte de su modelo en vender grandes volúmenes y presentaciones amplias, pero el ahorro no está garantizado. Estos debes revisar para saber si te conviene comprar por mayoreo.",
-      "link": "https://expansion.mx/empresas/2026/10/21/comprar-costco-no-siempre-significa-ahorrar-cuando-conviene",
-      "fecha": "21 Oct 2026, 13:37 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden frenar despidos y reducción salarial en Pemex",
+      "resumen": "Representantes de trabajadores de Pemex pidieron a los directivos que cesen los despidos masivos de personal y reducción de salarios.",
+      "link": "https://www.reforma.com/piden-frenar-despidos-y-reduccion-salarial-en-pemex/ar3300749",
+      "fecha": "23 Oct 2026, 10:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amaga Pemex para bajar salarios",
-      "resumen": "Pemex decidió llevar a cabo una estrategia de renivelación salarial \"voluntaria\" de trabajadores de confianza en todo el País.",
-      "link": "https://www.reforma.com/amaga-pemex-para-bajar-salarios/ar3300512",
-      "fecha": "23 Oct 2026, 05:02 hrs"
+      "titulo": "Tiene actividad económica mejor resultado al previsto",
+      "resumen": "El Indicador Global de la Actividad Económica subió 0.56 por ciento mensual en agosto, una cifra que superó el 0.47 por ciento estimado.",
+      "link": "https://www.reforma.com/tiene-actividad-economica-mejor-resultado-al-previsto/ar3300780",
+      "fecha": "23 Oct 2026, 11:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Redoblan firmas de retail ofertas ante consumo débil",
-      "resumen": "Debilidad del consumo en México ha obligado a las empresas del sector retail a reforzar promociones, lanzar productos y ampliar sus redes.",
-      "link": "https://www.reforma.com/redoblan-firmas-de-retail-ofertas-ante-consumo-debil/ar3300510",
-      "fecha": "23 Oct 2026, 05:02 hrs"
+      "titulo": "Urgen a dar a IMSS 25% más recursos",
+      "resumen": "Una urgente inyección de al menos 25% más recursos es la dosis que requiere el Sistema Público de Salud, al que pertenece el IMSS.",
+      "link": "https://www.reforma.com/urgen-a-dar-a-imss-25-mas-recursos/ar3300483",
+      "fecha": "23 Oct 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pega a inflación alza de frutas y verduras",
-      "resumen": "El alza en frutas, verduras y tarifas eléctricas aceleró la inflación anual a 3.62% en la primera quincena de octubre.",
-      "link": "https://www.reforma.com/pega-a-inflacion-alza-de-frutas-y-verduras/ar3300492",
-      "fecha": "23 Oct 2026, 05:02 hrs"
+      "titulo": "Prevén amparos por Modalidad 40",
+      "resumen": "Publicación de acuerdo del IMSS en Modalidad 40, pese a que aún no se aprueba una reforma a Ley del Seguro Social, generaría amparos.",
+      "link": "https://www.reforma.com/preven-amparos-por-modalidad-40/ar3300488",
+      "fecha": "23 Oct 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen a focalizar reglas aduaneras",
-      "resumen": "CLAA busca que las garantías por posibles casos de subvaluación de mercancías importadas se exijan únicamente a nuevos importadores.",
-      "link": "https://www.reforma.com/urgen-a-focalizar-reglas-aduaneras/ar3300490",
-      "fecha": "23 Oct 2026, 05:02 hrs"
+      "titulo": "Lidera NL construcción de parques industriales",
+      "resumen": "NL es la entidad con más parques industriales en construcción y/o ya hechos en el País, al contar con 13 de los 40 que informó ayer la AMPIP",
+      "link": "https://www.reforma.com/lidera-nl-construccion-de-parques-industriales/ar3300484",
+      "fecha": "23 Oct 2026, 07:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apelan por frenar cupos por excedente de carne",
-      "resumen": "Sector pecuario considera innecesario ampliar cupos de importación de carne libres de arancel para países sin acuerdo comercial con México.",
-      "link": "https://www.reforma.com/apelan-por-frenar-cupos-por-excedente-de-carne/ar3300487",
-      "fecha": "23 Oct 2026, 05:02 hrs"
+      "titulo": "Suben acciones de Bimbo más de 4% tras un sólido reporte",
+      "resumen": "Las acciones de Bimbo subían 4.6%, a $62.69 en la BMV, tras presentar un sólido reporte trimestral y elevar previsiones de rentabilidad.",
+      "link": "https://www.reforma.com/suben-acciones-de-bimbo-mas-de-4-tras-un-solido-reporte/ar3300752",
+      "fecha": "23 Oct 2026, 10:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Coparmex etiquetar nueva deuda de NL",
-      "resumen": "Tras ser el 2027 un año electoral, la Coparmex Nuevo León, pidió no usar recursos públicos para promociones políticas.",
-      "link": "https://www.reforma.com/pide-coparmex-etiquetar-nueva-deuda-de-nl/ar3300330",
-      "fecha": "22 Oct 2026, 17:42 hrs"
+      "titulo": "Se dispara Brent hasta los 117 dólares, máximo desde abril",
+      "resumen": "Los futuros del crudo Brent subían 3.54%, a 117.18 dólares el barril, mientras que el crudo WTI avanzaba 3.77%, a 103.22 dólares.",
+      "link": "https://www.reforma.com/se-dispara-brent-hasta-los-117-dolares-maximo-desde-abril/ar3300791",
+      "fecha": "23 Oct 2026, 11:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Investiga CNA abusos en vales de despensa",
-      "resumen": "Comisión Nacional Antimonopolio inició una investigación por abuso de dominancia en el mercado de vales de despensa.",
-      "link": "https://www.reforma.com/investiga-cna-abusos-en-vales-de-despensa/ar3300236",
-      "fecha": "22 Oct 2026, 15:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden combatir huachicol fiscal en aduanas y refinerías",
-      "resumen": "El contrabando de combustibles se debe combatir en las aduanas y refinerías de Pemex, aseguró Lobbying México.",
-      "link": "https://www.reforma.com/piden-combatir-huachicol-fiscal-en-aduanas-y-refinerias/ar3300164",
-      "fecha": "22 Oct 2026, 14:51 hrs"
+      "titulo": "Cierra Tyco planta en Matamoros",
+      "resumen": "Anuncian cierre de empresa maquiladora Tyco Internacional en Matamoros, que actualmente emplea a un poco más de mil trabajadores.",
+      "link": "https://www.reforma.com/cierra-tyco-planta-en-matamoros/ar3300507",
+      "fecha": "23 Oct 2026, 06:35 hrs"
     }
   ]
 }
