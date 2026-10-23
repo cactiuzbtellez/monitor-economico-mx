@@ -1,7 +1,43 @@
 {
-  "actualizado": "22/10/2026 16:07 hrs",
+  "actualizado": "22/10/2026 19:14 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación sorprende al alza en octubre y llega a 3.62% anual: Inegi",
+      "resumen": "Los precios aumentaron 0.41% en la primera quincena, frente al 0.38% previsto por el mercado. La inflación subyacente también sorprendió al alza, con presiones en los servicios.",
+      "link": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
+      "fecha": "22 Oct 2026, 06:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Alivio fiscal para las empresas es un “ganar-ganar”, pero el CCE mantiene la pelea por deducciones",
+      "resumen": "Eliminar multas y recargos permitirá reducir entre 50% y 60% algunos adeudos con el SAT. La IP busca cambios al ISR para 2027 ante el riesgo de que el impuesto absorba una mayor proporción de las util…",
+      "link": "https://expansion.mx/economia/2026/10/22/cce-adeudos-fiscales-multas-recargos-y-deducciones-2027",
+      "fecha": "22 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de economía digital: Gentera prevé una transición gradual en la reducción del efectivo en México",
+      "resumen": "El CEO de la firma, Enrique Majós, estima que el cambio hacia pagos digitales en México requerirá mayor interoperabilidad entre sistemas y coordinación entre autoridades, bancos y empresas.",
+      "link": "https://expansion.mx/economia/2026/10/21/ley-de-economia-digital-gentera-preve-una-transicion-gradual-en-la-reduccion-del-efectivo-en-mexico",
+      "fecha": "21 Oct 2026, 18:01 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Crecen créditos fiscales del sector financiero con el SAT; acumulan 99,674 mdp",
+      "resumen": "De acuerdo con expertos,  el incremento en los adeudos del sistema financiero y aseguradoras es consecuencia de la fiscalización profunda del SAT a falta de una reforma fiscal.",
+      "link": "https://expansion.mx/economia/2026/10/21/crecen-creditos-fiscales-del-sector-financiero-con-el-sat-acumulan-99-674-mdp",
+      "fecha": "21 Oct 2026, 17:23 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La condonación de multas y recargos del SAT abre la puerta a grandes empresas para negociar deudas millonarias",
-      "resumen": "A junio de 2026, las grandes empresas acumulaban créditos fiscales por 1.11 billones de pesos. En 2013, el SAT advirtió que repetir amnistías fiscales debilita los incentivos para cumplir a tiempo.",
-      "link": "https://expansion.mx/economia/2026/10/21/condonacion-multas-recargos-sat-grandes-empresas",
-      "fecha": "21 Oct 2026, 05:55 hrs"
+      "titulo": "Regreso de comisiones bancarias y compra de más infraestructura para pagos digitales presionará el margen de gasolineras",
+      "resumen": "Los empresarios gasolineros deberán adaptar sus sistemas de cobro y facturación para cumplir con los cobros digitales, además del posible regreso de las comisiones bancarias a partir del 31 de octubre…",
+      "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
+      "fecha": "22 Oct 2026, 15:45 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Aprueban Senadores Ley de Economía Digital; regresa al Ejecutivo para su publicación",
-      "resumen": "El gobierno tendrá 15 días para dar a conocer los sectores estratégicos donde comenzará a disminuir el uso de efectivo. Gasolineras y casetas serán la primera prueba para el pago con medios digitales",
-      "link": "https://expansion.mx/economia/2026/10/20/aprueban-senadores-ley-de-economia-digital-regresa-al-ejecutivo-para-su-publicacion",
-      "fecha": "20 Oct 2026, 17:05 hrs"
+      "titulo": "El jaloneo salarial entre Volkswagen y sus trabajadores en Puebla que mantiene a la automotriz en riesgo de huelga",
+      "resumen": "La armadora pasó de un aumento global de 10.04% a uno de 13.16% antes de presentar una tercera propuesta. Los dos primeros fueron rechazados por los trabajadores, que deberán votar el nuevo convenio e…",
+      "link": "https://expansion.mx/empresas/2026/10/22/jaloneo-salarial-volkswagen-trabajadores-puebla",
+      "fecha": "22 Oct 2026, 13:06 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
-      "resumen": "El aumento de la esperanza de vida y los cambios en la estructura familiar obligan a incorporar el costo de los cuidados en la planeación financiera para los adultos mayores",
-      "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
-      "fecha": "20 Oct 2026, 16:44 hrs"
+      "titulo": "En México ya circula un mini auto eléctrico que no es Olinia, tiene modo deportivo y hasta 200 km de autonomía",
+      "resumen": "Zacua ensambla en Puebla dos mini eléctricos bajo pedido, mientras Olinia todavía prepara su llegada al mercado mexicano.",
+      "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
+      "fecha": "21 Oct 2026, 19:09 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Promociones en gasolina y una cuenta bancaria fácil de abrir, así debutará la Ley de Economía Digital",
-      "resumen": "Firmas financieras buscan atraer a los automovilistas con sorteos para ganar un año de gasolina gratis al pagar con medios digitales. Banxico estrenará la \"cuenta fácil\" sin necesidad de RFC.",
-      "link": "https://expansion.mx/economia/2026/10/20/promociones-en-gasolina-y-una-cuenta-bancaria-facil-de-abrir-asi-debutara-la-ley-de-economia-digital",
-      "fecha": "20 Oct 2026, 09:51 hrs"
+      "titulo": "AT&T reconoce un deterioro contable de 2,600 mdd y pérdida de 500 mdd en ingresos anuales por venta de filial mexicana",
+      "resumen": "La filial mexicana generaba un flujo y una utilidad bajas para el tamaño de la operación lo que explica por qué el negocio se vendió por debajo del valor contable de sus activos.",
+      "link": "https://expansion.mx/empresas/2026/10/21/salida-mexico-att-reconoce-perdida-ingresos-500-mdd-anuales",
+      "fecha": "21 Oct 2026, 18:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,13 @@
       "fecha": "21 Oct 2026, 11:43 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Combate a huachicol fiscal detecta millones de litros ilegales de combustible y pérdidas por 61,785 millones de pesos",
-      "resumen": "Pemex ha presentado 10,674 casos por robo de combustibles y la Agencia Nacional de Aduanas de México (AMAN) presentó 11 casos por contrabando y falsa declaración de volúmenes de importación.",
-      "link": "https://expansion.mx/empresas/2026/10/21/combate-huachicol-millones-litros-ilegales-combustibles-2025",
-      "fecha": "21 Oct 2026, 11:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La compra de AT&T por Televisa abre una nueva oportunidad para que Slim lleve a Telmex a la televisión de paga",
-      "resumen": "La integración de los activos de AT&amp;T, Izzi y Sky reaviva la disputa de Carlos Slim por llevar a Telmex al negocio de la televisión de paga y solicitar la revisión de las restricciones regulatoria…",
-      "link": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
-      "fecha": "21 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Sears y Sanborns a la IA, así construye su camino en los negocios el hijo de Arturo Elías Ayub",
-      "resumen": "Arturo Elías Slim pasó por Sears y Sanborns, fundó una empresa y ahora impulsa T1. Su nueva apuesta es llevar la inteligencia artificial más allá de los chats y convertirla en una herramienta para ope…",
-      "link": "https://expansion.mx/empresas/2026/10/20/asi-construye-negocios-hijo-de-arturo-elias-ayub",
-      "fecha": "20 Oct 2026, 19:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La Comer impulsa sus ventas con promociones, pero mayores gastos en sueldos, publicidad y tiendas diluyen sus ganancias",
-      "resumen": "Los mayores desembolsos en sueldos, publicidad y apertura de tiendas llevaron los gastos generales a 2,960 mdp, que representan un aumento anual de 11%.",
-      "link": "https://expansion.mx/empresas/2026/10/20/la-comer-ventas-utilidad-reporte-trimestral-2026",
-      "fecha": "20 Oct 2026, 19:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide Coparmex etiquetar nueva deuda de NL",
+      "resumen": "Tras ser el 2027 un año electoral, la Coparmex Nuevo León, pidió no usar recursos públicos para promociones políticas.",
+      "link": "https://www.reforma.com/pide-coparmex-etiquetar-nueva-deuda-de-nl/ar3300330",
+      "fecha": "22 Oct 2026, 17:42 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "La SHCP cometió a consulta la propuesta del objeto de biodiversidad, perteneciente a la Taxonomía Sostenible de México.",
       "link": "https://www.reforma.com/somete-shcp-a-consulta-publica-el-objetivo-de-biodiversidad/ar3300005",
       "fecha": "22 Oct 2026, 11:34 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevé GMéxico invertir hasta 6,000 mdd en su filial Asarco",
-      "resumen": "GMéxico planea destinar entre 4 mil mdd y 6 mil mdd en próximos tres años para los principales proyectos de su filial estadounidense Asarco.",
-      "link": "https://www.reforma.com/preve-gmexico-invertir-hasta-6-000-mdd-en-su-filial-asarco/ar3300163",
-      "fecha": "22 Oct 2026, 14:51 hrs"
     }
   ]
 }
