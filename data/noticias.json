@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/10/2026 19:14 hrs",
+  "actualizado": "23/10/2026 01:01 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,24 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Regreso de comisiones bancarias y compra de más infraestructura para pagos digitales presionará el margen de gasolineras",
-      "resumen": "Los empresarios gasolineros deberán adaptar sus sistemas de cobro y facturación para cumplir con los cobros digitales, además del posible regreso de las comisiones bancarias a partir del 31 de octubre…",
-      "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
-      "fecha": "22 Oct 2026, 15:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El jaloneo salarial entre Volkswagen y sus trabajadores en Puebla que mantiene a la automotriz en riesgo de huelga",
-      "resumen": "La armadora pasó de un aumento global de 10.04% a uno de 13.16% antes de presentar una tercera propuesta. Los dos primeros fueron rechazados por los trabajadores, que deberán votar el nuevo convenio e…",
-      "link": "https://expansion.mx/empresas/2026/10/22/jaloneo-salarial-volkswagen-trabajadores-puebla",
-      "fecha": "22 Oct 2026, 13:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "En México ya circula un mini auto eléctrico que no es Olinia, tiene modo deportivo y hasta 200 km de autonomía",
       "resumen": "Zacua ensambla en Puebla dos mini eléctricos bajo pedido, mientras Olinia todavía prepara su llegada al mercado mexicano.",
       "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
@@ -145,6 +127,24 @@
       "resumen": "Los primeros casos reportados ocurrieron en Reynosa, Tamaulipas, donde 11 trabajadores fueron despedidos. La reestructura también contempla reducciones de nivel que pueden recortar más de la mitad del…",
       "link": "https://expansion.mx/empresas/2026/10/21/pemex-despide-trabajadores-confianza-recortes-salariales",
       "fecha": "21 Oct 2026, 11:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Combate a huachicol fiscal detecta millones de litros ilegales de combustible y pérdidas por 61,785 millones de pesos",
+      "resumen": "Pemex ha presentado 10,674 casos por robo de combustibles y la Agencia Nacional de Aduanas de México (AMAN) presentó 11 casos por contrabando y falsa declaración de volúmenes de importación.",
+      "link": "https://expansion.mx/empresas/2026/10/21/combate-huachicol-millones-litros-ilegales-combustibles-2025",
+      "fecha": "21 Oct 2026, 11:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La compra de AT&T por Televisa abre una nueva oportunidad para que Slim lleve a Telmex a la televisión de paga",
+      "resumen": "La integración de los activos de AT&amp;T, Izzi y Sky reaviva la disputa de Carlos Slim por llevar a Telmex al negocio de la televisión de paga y solicitar la revisión de las restricciones regulatoria…",
+      "link": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
+      "fecha": "21 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Reforma",
