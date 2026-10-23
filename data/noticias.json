@@ -1,7 +1,43 @@
 {
-  "actualizado": "23/10/2026 01:01 hrs",
+  "actualizado": "23/10/2026 07:06 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu México advierte que el reto de los pagos digitales será la confianza de los mexicanos",
+      "resumen": "De acuerdo con el banco, uno de cada dos de sus clientes había intentado acceder a algún producto financiero fue rechazado por otra institución.",
+      "link": "https://expansion.mx/economia/2026/10/22/nu-mexico-advierte-que-el-reto-de-los-pagos-digitales-sera-la-confianza-de-los-mexicanos",
+      "fecha": "22 Oct 2026, 18:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Ley de Economía Digital habilita la CURP y el Expediente Ciudadano para apertura remota de cuentas",
+      "resumen": "Con la nueva Ley aprobada por el Legislativo ya no será necesario acudir a sucursales bancarias para abrir una cuenta o pedir un préstamo.",
+      "link": "https://expansion.mx/economia/2026/10/22/ley-economia-digital-curp-expediente-ciudadano-remoto",
+      "fecha": "22 Oct 2026, 17:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los cuidados en la vejez requerirán ahorros por persona superiores a 2 mdp ante cambios demográficos en México",
+      "resumen": "El aumento de la esperanza de vida y los cambios en la estructura familiar obligan a incorporar el costo de los cuidados en la planeación financiera para los adultos mayores",
+      "link": "https://expansion.mx/economia/2026/10/20/los-cuidados-en-la-vejez-requeriran-ahorros-por-persona-superiores-a-2-mdp-ante-cambios-demograficos-en-mexico",
+      "fecha": "22 Oct 2026, 16:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Alza de precios en seguros de gastos médicos mayores, principal motivo de cancelación, dice Condusef",
+      "resumen": "Los seguros de automóvil concentran 60% de las quejas contra el sector, principalmente por negativas de pago, tiempos de reparación y diferencias en los montos reconocidos para cubrir los daños.",
+      "link": "https://expansion.mx/economia/2026/10/22/alza-de-precios-en-seguros-de-gastos-medicos-mayores-principal-motivo-de-cancelacion-dice-condusef",
+      "fecha": "22 Oct 2026, 16:38 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Adiós al efectivo en México? Lo que implica la nueva Ley de Economía Digital",
-      "resumen": "Gasolineras y casetas serán los primeros servicios donde se buscará masificar pagos digitales. La predilección por pagos en efectivo menores a 500 pesos, uno de los principales retos, según expertos.",
-      "link": "https://expansion.mx/economia/2026/10/21/adios-al-efectivo-en-mexico-lo-que-implica-la-nueva-ley-de-economia-digital",
-      "fecha": "21 Oct 2026, 14:02 hrs"
+      "titulo": "Apenas están en sus 30, se codean con Slim y ya están entre los 100 empresarios más importantes de México",
+      "resumen": "Ambos presiden empresas con presencia nacional en sectores clave del consumo, desde la producción de harina de maíz hasta la venta de medicamentos.",
+      "link": "https://expansion.mx/empresas/2026/10/22/dos-jovenes-en-el-ranking-de-los-100-empresarios-mexico",
+      "fecha": "22 Oct 2026, 17:54 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Más deuda, topes a deducciones, condonación de multas a empresas y mayores cobros a turistas avanzan en el Senado",
-      "resumen": "Los senadores de las Comisiones Unidas de Hacienda y Crédito Público y de Estudios Legislativos dieron el visto bueno a los cambios en materia de ingresos que conforman el Paquete Económico 2027.",
-      "link": "https://expansion.mx/economia/2026/10/21/deuda-deducciones-condonacion-cuotas-turistas-2027",
-      "fecha": "21 Oct 2026, 13:29 hrs"
+      "titulo": "OfficeMax deja de ser solo papelería e irrumpirá en el mercado del maquillaje y el skincare",
+      "resumen": "La empresa combina nuevas categorías, herramientas digitales y marcas propias para elevar la rentabilidad de sus sucursales y competir con plataformas de bajo precio.",
+      "link": "https://expansion.mx/empresas/2026/10/22/officemax-deja-de-ser-solo-papeleria-maquillaje-skincare",
+      "fecha": "22 Oct 2026, 16:58 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México tiene 1.8 millones de menores en trabajos no permitidos; más de un tercio no recibe ingresos",
-      "resumen": "Aunque la cifra disminuyó frente a 2022, el trabajo por debajo de la edad mínima o en condiciones peligrosas afecta a 6.6% de la población de 5 a 17 años, según el Inegi.",
-      "link": "https://expansion.mx/economia/2026/10/21/mexico-tiene-1-8-millones-de-menores-trabajos-no-permitidos",
-      "fecha": "21 Oct 2026, 11:21 hrs"
+      "titulo": "Regreso de comisiones bancarias y compra de más infraestructura para pagos digitales presionará el margen de gasolineras",
+      "resumen": "Los empresarios gasolineros deberán adaptar sus sistemas de cobro y facturación para cumplir con los cobros digitales, además del posible regreso de las comisiones bancarias a partir del 31 de octubre…",
+      "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
+      "fecha": "22 Oct 2026, 15:45 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Fernando Chico Pardo quiere llevar a Banamex al nivel de BBVA y sus hijos podrían concretar el plan",
-      "resumen": "El empresario busca ampliar el crédito, recuperar terreno en segmentos clave e invertir 1,700 millones de dólares para modernizar la tecnología del banco antes de su salida a Bolsa.",
-      "link": "https://expansion.mx/economia/2026/10/21/fernando-chico-pardo-quiere-llevar-banamex-al-nivel-de-bbva",
-      "fecha": "21 Oct 2026, 09:28 hrs"
+      "titulo": "El jaloneo salarial entre Volkswagen y sus trabajadores en Puebla que mantiene a la automotriz en riesgo de huelga",
+      "resumen": "La armadora pasó de un aumento global de 10.04% a uno de 13.16% antes de presentar una tercera propuesta. Los dos primeros fueron rechazados por los trabajadores, que deberán votar el nuevo convenio e…",
+      "link": "https://expansion.mx/empresas/2026/10/22/jaloneo-salarial-volkswagen-trabajadores-puebla",
+      "fecha": "22 Oct 2026, 13:06 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,40 +147,49 @@
       "fecha": "21 Oct 2026, 13:37 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Amazon acelera sus envíos desde Estados Unidos a México vía el AIFA para fortalecer sus suscripciones Prime",
-      "resumen": "La plataforma refuerza su red logística transfronteriza para captar la alta demanda de productos provenientes de Estados Unidos, ampliando su catálogo e impulsando entregas internacionales en un plazo…",
-      "link": "https://expansion.mx/empresas/2026/10/21/amazon-entregas-productos-desde-eu-mexico-aifa",
-      "fecha": "21 Oct 2026, 13:11 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Amaga Pemex para bajar salarios",
+      "resumen": "Pemex decidió llevar a cabo una estrategia de renivelación salarial \"voluntaria\" de trabajadores de confianza en todo el País.",
+      "link": "https://www.reforma.com/amaga-pemex-para-bajar-salarios/ar3300512",
+      "fecha": "23 Oct 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex despide a trabajadores de confianza y reduce niveles salariales",
-      "resumen": "Los primeros casos reportados ocurrieron en Reynosa, Tamaulipas, donde 11 trabajadores fueron despedidos. La reestructura también contempla reducciones de nivel que pueden recortar más de la mitad del…",
-      "link": "https://expansion.mx/empresas/2026/10/21/pemex-despide-trabajadores-confianza-recortes-salariales",
-      "fecha": "21 Oct 2026, 11:43 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Redoblan firmas de retail ofertas ante consumo débil",
+      "resumen": "Debilidad del consumo en México ha obligado a las empresas del sector retail a reforzar promociones, lanzar productos y ampliar sus redes.",
+      "link": "https://www.reforma.com/redoblan-firmas-de-retail-ofertas-ante-consumo-debil/ar3300510",
+      "fecha": "23 Oct 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Combate a huachicol fiscal detecta millones de litros ilegales de combustible y pérdidas por 61,785 millones de pesos",
-      "resumen": "Pemex ha presentado 10,674 casos por robo de combustibles y la Agencia Nacional de Aduanas de México (AMAN) presentó 11 casos por contrabando y falsa declaración de volúmenes de importación.",
-      "link": "https://expansion.mx/empresas/2026/10/21/combate-huachicol-millones-litros-ilegales-combustibles-2025",
-      "fecha": "21 Oct 2026, 11:10 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pega a inflación alza de frutas y verduras",
+      "resumen": "El alza en frutas, verduras y tarifas eléctricas aceleró la inflación anual a 3.62% en la primera quincena de octubre.",
+      "link": "https://www.reforma.com/pega-a-inflacion-alza-de-frutas-y-verduras/ar3300492",
+      "fecha": "23 Oct 2026, 05:02 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La compra de AT&T por Televisa abre una nueva oportunidad para que Slim lleve a Telmex a la televisión de paga",
-      "resumen": "La integración de los activos de AT&amp;T, Izzi y Sky reaviva la disputa de Carlos Slim por llevar a Telmex al negocio de la televisión de paga y solicitar la revisión de las restricciones regulatoria…",
-      "link": "https://expansion.mx/empresas/2026/10/21/compra-att-televisa-abre-oportunidad-slim-telmex-tv-paga",
-      "fecha": "21 Oct 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen a focalizar reglas aduaneras",
+      "resumen": "CLAA busca que las garantías por posibles casos de subvaluación de mercancías importadas se exijan únicamente a nuevos importadores.",
+      "link": "https://www.reforma.com/urgen-a-focalizar-reglas-aduaneras/ar3300490",
+      "fecha": "23 Oct 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apelan por frenar cupos por excedente de carne",
+      "resumen": "Sector pecuario considera innecesario ampliar cupos de importación de carne libres de arancel para países sin acuerdo comercial con México.",
+      "link": "https://www.reforma.com/apelan-por-frenar-cupos-por-excedente-de-carne/ar3300487",
+      "fecha": "23 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
@@ -172,51 +217,6 @@
       "resumen": "El contrabando de combustibles se debe combatir en las aduanas y refinerías de Pemex, aseguró Lobbying México.",
       "link": "https://www.reforma.com/piden-combatir-huachicol-fiscal-en-aduanas-y-refinerias/ar3300164",
       "fecha": "22 Oct 2026, 14:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frena inversión el control de precio de gas LP.- expertos",
-      "resumen": "Expertos consideran que el precio controlado del gas LP ha sido un fracaso, pues frena proyectos de inversión en almacenamiento.",
-      "link": "https://www.reforma.com/frena-inversion-el-control-de-precio-de-gas-lp-expertos/ar3300129",
-      "fecha": "22 Oct 2026, 14:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Obliga incertidumbre comercial a diversificar en logística",
-      "resumen": "Las empresas de logística buscan mitigar riesgos ante el escenario de incertidumbre que se vive, refirió la consultora Kearney México.",
-      "link": "https://www.reforma.com/obliga-incertidumbre-comercial-a-diversificar-en-logistica/ar3300134",
-      "fecha": "22 Oct 2026, 14:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Convoca Citi a analistas para preparar la OPI de Banamex",
-      "resumen": "Analistas de Wall Street viajaron a Ciudad de México esta semana para reunirse con la dirección de Banamex, de cara a su salida a bolsa.",
-      "link": "https://www.reforma.com/convoca-citi-a-analistas-para-preparar-la-opi-de-banamex/ar3300200",
-      "fecha": "22 Oct 2026, 15:00 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra Nasdaq su mayor caída porcentual diaria desde junio",
-      "resumen": "El índice Nasdaq retrocedió un 2.6% hasta los 26 mil 008.86 puntos, arrastrado por el desplome en Meta y SpaceX de 7 y 9%, respectivamente.",
-      "link": "https://www.reforma.com/registra-nasdaq-su-mayor-caida-porcentual-diaria-desde-junio/ar3300179",
-      "fecha": "22 Oct 2026, 14:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Somete SHCP a consulta pública el objetivo de biodiversidad",
-      "resumen": "La SHCP cometió a consulta la propuesta del objeto de biodiversidad, perteneciente a la Taxonomía Sostenible de México.",
-      "link": "https://www.reforma.com/somete-shcp-a-consulta-publica-el-objetivo-de-biodiversidad/ar3300005",
-      "fecha": "22 Oct 2026, 11:34 hrs"
     }
   ]
 }
