@@ -1,7 +1,16 @@
 {
-  "actualizado": "23/10/2026 18:17 hrs",
+  "actualizado": "23/10/2026 23:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
+      "resumen": "Para la semana del 24 al 30 de octubre, la SHCP otorgó menos subsidios a las gasolinas, mientras el diésel tendrá cuota cero por sexta semana consecutiva.",
+      "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
+      "fecha": "23 Oct 2026, 17:49 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La inflación sorprende al alza en octubre y llega a 3.62% anual: Inegi",
-      "resumen": "Los precios aumentaron 0.41% en la primera quincena, frente al 0.38% previsto por el mercado. La inflación subyacente también sorprendió al alza, con presiones en los servicios.",
-      "link": "https://expansion.mx/economia/2026/10/22/inegi-inflacion-sorprende-al-alza-octubre-3-62-anual",
-      "fecha": "22 Oct 2026, 06:40 hrs"
+      "titulo": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
+      "resumen": "Con una inversión de más de 800 millones de dólares, el empresario impulsó un desarrollo que sigue creciendo y está en el centro del debate por la transformación urbana de la zona.",
+      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
+      "fecha": "23 Oct 2026, 16:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Trabajadores de confianza de Pemex llevan a la SCJN lucha por reconocimiento sindical",
+      "resumen": "Los litigios individuales que se han presentado para la reclasificación de personal de base sí han sido concedidos.",
+      "link": "https://expansion.mx/empresas/2026/10/23/trabajadores-de-confianza-pemex-scjn-reconocimiento-sindical",
+      "fecha": "23 Oct 2026, 14:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -127,24 +145,6 @@
       "resumen": "Zacua ensambla en Puebla dos mini eléctricos bajo pedido, mientras Olinia todavía prepara su llegada al mercado mexicano.",
       "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
       "fecha": "21 Oct 2026, 19:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "AT&T reconoce un deterioro contable de 2,600 mdd y pérdida de 500 mdd en ingresos anuales por venta de filial mexicana",
-      "resumen": "La filial mexicana generaba un flujo y una utilidad bajas para el tamaño de la operación lo que explica por qué el negocio se vendió por debajo del valor contable de sus activos.",
-      "link": "https://expansion.mx/empresas/2026/10/21/salida-mexico-att-reconoce-perdida-ingresos-500-mdd-anuales",
-      "fecha": "21 Oct 2026, 18:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Llegó de Ucrania a los 19 años, vendió herramientas en tianguis de CDMX y sentó las bases del imperio Truper",
-      "resumen": "De un pequeño taller a más de 20 plantas industriales, Truper evolucionó durante generaciones hasta convertirse en un fabricante y distribuidor de herramientas con presencia internacional.",
-      "link": "https://expansion.mx/empresas/2026/10/21/truper-historia-origen-ucrania-tianguis-cdmx",
-      "fecha": "21 Oct 2026, 15:24 hrs"
     },
     {
       "fuente": "Reforma",
