@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/10/2026 04:22 hrs",
+  "actualizado": "24/10/2026 08:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar a $18.65 y liga 7 semanas con subidas",
-      "resumen": "El dólar cerró el viernes con una cotización de $18.65 y una ganancia semanal de 16.80, con lo cual acumuló siete semanas con avances.",
-      "link": "https://www.reforma.com/cierra-dolar-a-18-65-y-liga-7-semanas-con-subidas/ar3301033",
-      "fecha": "23 Oct 2026, 17:59 hrs"
+      "titulo": "Recaudan monto récord para hacer robots",
+      "resumen": "Empresas de robótica e IA física recaudaron 33 mil 400 millones de dólares a nivel mundial durante el primer semestre del 2026.",
+      "link": "https://www.reforma.com/recaudan-monto-record-para-hacer-robots/ar3301058",
+      "fecha": "24 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Limita Airbnb exigencias de anfitriones",
+      "resumen": "Airbnb  indicó que los huéspedes ya no tendrán que preocuparse por quitar las sábanas al terminar su estancia en un alojamiento.",
+      "link": "https://www.reforma.com/limita-airbnb-exigencias-de-anfitriones/ar3301053",
+      "fecha": "24 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acumula peso mexicano la mayor depreciación",
+      "resumen": "El peso mexicano es la divisa que más ha caído desde que la FED aumentó su tasa de interés, ya que la depreciación ha sido de 9.05%.",
+      "link": "https://www.reforma.com/acumula-peso-mexicano-la-mayor-depreciacion/ar3301044",
+      "fecha": "24 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "¡Ganan Dls. 1 millón al año y rentan!",
+      "resumen": "Incluso para quienes más ganan en EU, el alquiler puede resultar más atractivo que la compra de una vivienda, describe Yahoo Finance.",
+      "link": "https://www.reforma.com/ganan-dls-1-millon-al-ano-y-rentan/ar3301057",
+      "fecha": "24 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,33 +217,6 @@
       "resumen": "El nuevo iPhone Duo de Apple ha impresionado con su pantalla plegable, pero algunos usuarios ya se quejan de dispositivos agrietados.",
       "link": "https://www.reforma.com/se-quejan-usuarios-del-iphone-duo-de-pantallas-agrietadas/ar3300941",
       "fecha": "23 Oct 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Transportistas de NL se suman al paro nacional",
-      "resumen": "Canacar y otros organismos de transportistas en el Estado anunciaron que apoyan y se suman al paro nacional del sector de autotransporte.",
-      "link": "https://www.reforma.com/transportistas-de-nl-se-suman-al-paro-nacional/ar3300916",
-      "fecha": "23 Oct 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se desploma Dow Jones más de 600 puntos",
-      "resumen": "Este viernes, el Promedio Industrial Dow Jones cayó 652.82 puntos, o un 1.23%, a 52 mil 215 unidades.",
-      "link": "https://www.reforma.com/se-desploma-dow-jones-mas-de-600-puntos/ar3300915",
-      "fecha": "23 Oct 2026, 14:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene valor de producción de constructoras mayor crecimiento",
-      "resumen": "Con un incremento anual de 10.57 por ciento terminó agosto para el valor de producción de las empresas constructoras del País.",
-      "link": "https://www.reforma.com/tiene-valor-de-produccion-de-constructoras-mayor-crecimiento/ar3300865",
-      "fecha": "23 Oct 2026, 17:51 hrs"
     }
   ]
 }
