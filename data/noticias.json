@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/10/2026 11:51 hrs",
+  "actualizado": "24/10/2026 14:18 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
+      "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
+      "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
+      "fecha": "24 Oct 2026, 12:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
       "resumen": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
       "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
@@ -136,15 +145,6 @@
       "resumen": "Los empresarios gasolineros deberán adaptar sus sistemas de cobro y facturación para cumplir con los cobros digitales, además del posible regreso de las comisiones bancarias a partir del 31 de octubre…",
       "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
       "fecha": "22 Oct 2026, 15:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El jaloneo salarial entre Volkswagen y sus trabajadores en Puebla que mantiene a la automotriz en riesgo de huelga",
-      "resumen": "La armadora pasó de un aumento global de 10.04% a uno de 13.16% antes de presentar una tercera propuesta. Los dos primeros fueron rechazados por los trabajadores, que deberán votar el nuevo convenio e…",
-      "link": "https://expansion.mx/empresas/2026/10/22/jaloneo-salarial-volkswagen-trabajadores-puebla",
-      "fecha": "22 Oct 2026, 13:06 hrs"
     },
     {
       "fuente": "Reforma",
