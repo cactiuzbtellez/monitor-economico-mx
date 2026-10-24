@@ -1,5 +1,5 @@
 {
-  "actualizado": "23/10/2026 23:24 hrs",
+  "actualizado": "24/10/2026 04:22 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
+      "resumen": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
+      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
+      "fecha": "23 Oct 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
       "resumen": "Con una inversión de más de 800 millones de dólares, el empresario impulsó un desarrollo que sigue creciendo y está en el centro del debate por la transformación urbana de la zona.",
       "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
@@ -136,15 +145,6 @@
       "resumen": "La armadora pasó de un aumento global de 10.04% a uno de 13.16% antes de presentar una tercera propuesta. Los dos primeros fueron rechazados por los trabajadores, que deberán votar el nuevo convenio e…",
       "link": "https://expansion.mx/empresas/2026/10/22/jaloneo-salarial-volkswagen-trabajadores-puebla",
       "fecha": "22 Oct 2026, 13:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "En México ya circula un mini auto eléctrico que no es Olinia, tiene modo deportivo y hasta 200 km de autonomía",
-      "resumen": "Zacua ensambla en Puebla dos mini eléctricos bajo pedido, mientras Olinia todavía prepara su llegada al mercado mexicano.",
-      "link": "https://expansion.mx/empresas/2026/10/21/zacua-vs-olinia-auto-electrico-mexicano",
-      "fecha": "21 Oct 2026, 19:09 hrs"
     },
     {
       "fuente": "Reforma",
