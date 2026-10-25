@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/10/2026 18:51 hrs",
+  "actualizado": "24/10/2026 23:44 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
+      "resumen": "La cadena internacional inicia operaciones en Zapopan con Helper Holding. Su plan contempla diez restaurantes propios en Jalisco durante el primer año y una expansión nacional mediante subfranquicias.",
+      "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
+      "fecha": "24 Oct 2026, 18:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Las redes sociales abren oportunidades de venta para las PyMEs de cara al fin de año",
       "resumen": "La temporada de fin de año pone a prueba la capacidad de las pequeñas empresas para atraer compradores digitales y convertir el interés en ventas.",
       "link": "https://expansion.mx/empresas/2026/10/24/pymes-redes-sociales-ventas-fin-de-ano",
@@ -136,15 +145,6 @@
       "resumen": "Ambos presiden empresas con presencia nacional en sectores clave del consumo, desde la producción de harina de maíz hasta la venta de medicamentos.",
       "link": "https://expansion.mx/empresas/2026/10/22/dos-jovenes-en-el-ranking-de-los-100-empresarios-mexico",
       "fecha": "22 Oct 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "OfficeMax deja de ser solo papelería e irrumpirá en el mercado del maquillaje y el skincare",
-      "resumen": "La empresa combina nuevas categorías, herramientas digitales y marcas propias para elevar la rentabilidad de sus sucursales y competir con plataformas de bajo precio.",
-      "link": "https://expansion.mx/empresas/2026/10/22/officemax-deja-de-ser-solo-papeleria-maquillaje-skincare",
-      "fecha": "22 Oct 2026, 16:58 hrs"
     },
     {
       "fuente": "Reforma",
