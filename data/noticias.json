@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/10/2026 16:55 hrs",
+  "actualizado": "24/10/2026 18:51 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Las redes sociales abren oportunidades de venta para las PyMEs de cara al fin de año",
+      "resumen": "La temporada de fin de año pone a prueba la capacidad de las pequeñas empresas para atraer compradores digitales y convertir el interés en ventas.",
+      "link": "https://expansion.mx/empresas/2026/10/24/pymes-redes-sociales-ventas-fin-de-ano",
+      "fecha": "24 Oct 2026, 14:41 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
       "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
       "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
@@ -136,15 +145,6 @@
       "resumen": "La empresa combina nuevas categorías, herramientas digitales y marcas propias para elevar la rentabilidad de sus sucursales y competir con plataformas de bajo precio.",
       "link": "https://expansion.mx/empresas/2026/10/22/officemax-deja-de-ser-solo-papeleria-maquillaje-skincare",
       "fecha": "22 Oct 2026, 16:58 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Regreso de comisiones bancarias y compra de más infraestructura para pagos digitales presionará el margen de gasolineras",
-      "resumen": "Los empresarios gasolineros deberán adaptar sus sistemas de cobro y facturación para cumplir con los cobros digitales, además del posible regreso de las comisiones bancarias a partir del 31 de octubre…",
-      "link": "https://expansion.mx/empresas/2026/10/22/comisiones-bancarias-pagos-digitales-margen-gasolineras",
-      "fecha": "22 Oct 2026, 15:45 hrs"
     },
     {
       "fuente": "Reforma",
