@@ -1,7 +1,16 @@
 {
-  "actualizado": "25/10/2026 12:10 hrs",
+  "actualizado": "25/10/2026 15:27 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Vales de despensa, bajo la lupa antimonopolio; un beneficio que alcanza a 40 millones de personas",
+      "resumen": "Aseval aseguró que los vales de despensa son una de las prestaciones sociales más importantes de los trabajadores.",
+      "link": "https://expansion.mx/economia/2026/10/25/vales-de-despensa-bajo-la-lupa-antimonopolio-un-beneficio-que-alcanza-a-40-millones-de-personas",
+      "fecha": "25 Oct 2026, 10:04 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "De acuerdo con el banco, uno de cada dos de sus clientes había intentado acceder a algún producto financiero fue rechazado por otra institución.",
       "link": "https://expansion.mx/economia/2026/10/22/nu-mexico-advierte-que-el-reto-de-los-pagos-digitales-sera-la-confianza-de-los-mexicanos",
       "fecha": "22 Oct 2026, 18:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Ley de Economía Digital habilita la CURP y el Expediente Ciudadano para apertura remota de cuentas",
-      "resumen": "Con la nueva Ley aprobada por el Legislativo ya no será necesario acudir a sucursales bancarias para abrir una cuenta o pedir un préstamo.",
-      "link": "https://expansion.mx/economia/2026/10/22/ley-economia-digital-curp-expediente-ciudadano-remoto",
-      "fecha": "22 Oct 2026, 17:29 hrs"
     },
     {
       "fuente": "Expansión",
