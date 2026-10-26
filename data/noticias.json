@@ -1,5 +1,5 @@
 {
-  "actualizado": "26/10/2026 03:45 hrs",
+  "actualizado": "26/10/2026 10:31 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Huachicol fiscal: la cifra oficial deja fuera miles de millones de pesos por evasión del IVA",
+      "resumen": "Francisco Barnés, socio director de Cifra2 Consultores y exsubsecretario de Hidrocarburos de la Secretaría de Energía (Sener), calcula que las pérdidas por evasión de IVA superarían los 52,000 millone…",
+      "link": "https://expansion.mx/empresas/2026/10/26/huachicol-fiscal-perdidas-evasion-del-iva",
+      "fecha": "26 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
       "resumen": "La cadena internacional inicia operaciones en Zapopan con Helper Holding. Su plan contempla diez restaurantes propios en Jalisco durante el primer año y una expansión nacional mediante subfranquicias.",
       "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
@@ -138,85 +147,76 @@
       "fecha": "22 Oct 2026, 21:12 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Apenas están en sus 30, se codean con Slim y ya están entre los 100 empresarios más importantes de México",
-      "resumen": "Ambos presiden empresas con presencia nacional en sectores clave del consumo, desde la producción de harina de maíz hasta la venta de medicamentos.",
-      "link": "https://expansion.mx/empresas/2026/10/22/dos-jovenes-en-el-ranking-de-los-100-empresarios-mexico",
-      "fecha": "22 Oct 2026, 17:54 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Será clave década para las pensiones",
+      "resumen": "La próxima década es clave para AL para las pensiones, ya que la población vive más tiempo y las obligaciones futuras crecen, dice estudio.",
+      "link": "https://www.reforma.com/sera-clave-decada-para-las-pensiones/ar3301948",
+      "fecha": "26 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amenaza El Niño al suministro mundial de azúcar",
-      "resumen": "Fenómeno de El Niño amenaza el suministro mundial de azúcar y dispara los precios, con un fuerte impacto en India, su mayor consumidor.",
-      "link": "https://www.reforma.com/amenaza-el-nino-al-suministro-mundial-de-azucar/ar3301404",
-      "fecha": "25 Oct 2026, 16:21 hrs"
+      "titulo": "Afectaría paro de transporte a comercio de NL",
+      "resumen": "El paro de transporte de carga, emplazado para iniciar hoy, afectará comercio exterior y aumentará costos, advierte líder de Comce.",
+      "link": "https://www.reforma.com/afectaria-paro-de-transporte-a-comercio-de-nl/ar3302027",
+      "fecha": "26 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recaudan monto récord para hacer robots",
-      "resumen": "Empresas de robótica e IA física recaudaron 33 mil 400 millones de dólares a nivel mundial durante el primer semestre del 2026.",
-      "link": "https://www.reforma.com/recaudan-monto-record-para-hacer-robots/ar3301058",
-      "fecha": "24 Oct 2026, 05:01 hrs"
+      "titulo": "Investigan en Fiscalía otro fraude inmobiliario",
+      "resumen": "Directivo de KOINOX Developers fue vinculado a proceso por su probable participación en un fraude inmobiliario que investiga Fiscalía de NL.",
+      "link": "https://www.reforma.com/investigan-en-fiscalia-otro-fraude-inmobiliario/ar3301995",
+      "fecha": "26 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ganan 1 millón de dólares al año... ¡y rentan!",
-      "resumen": "Incluso para quienes más ganan en EU, el alquiler puede resultar más atractivo que la compra de una vivienda, describe Yahoo Finance.",
-      "link": "https://www.reforma.com/ganan-1-millon-de-dolares-al-ano-y-rentan/ar3301057",
-      "fecha": "24 Oct 2026, 05:01 hrs"
+      "titulo": "Sostiene nearshoring a viajeros de negocios",
+      "resumen": "Mientras los turistas internacionales han dejado de visitar las playas, los viajeros de negocios siguen llegando a las ciudades del norte.",
+      "link": "https://www.reforma.com/sostiene-nearshoring-a-viajeros-de-negocios/ar3301998",
+      "fecha": "26 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Limita Airbnb exigencias de anfitriones",
-      "resumen": "Airbnb indicó que los huéspedes ya no tendrán que preocuparse por quitar las sábanas al terminar su estancia en un alojamiento.",
-      "link": "https://www.reforma.com/limita-airbnb-exigencias-de-anfitriones/ar3301053",
-      "fecha": "24 Oct 2026, 05:01 hrs"
+      "titulo": "Se desploman Bolsa y real brasileño tras reelección de Lula",
+      "resumen": "La Bolsa de Sao Paulo se desplomó 17% y el real cayó más de 12% frente al dólar, tras la histórica reelección de Luiz Inácio Lula da Silva.",
+      "link": "https://www.reforma.com/se-desploman-bolsa-y-real-brasileno-tras-reeleccion-de-lula/ar3302125",
+      "fecha": "26 Oct 2026, 08:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acumula peso mexicano la mayor depreciación",
-      "resumen": "El peso mexicano es la divisa que más ha caído desde que la FED aumentó su tasa de interés, ya que la depreciación ha sido de 9.05%.",
-      "link": "https://www.reforma.com/acumula-peso-mexicano-la-mayor-depreciacion/ar3301044",
-      "fecha": "24 Oct 2026, 05:01 hrs"
+      "titulo": "Crece 12% flujo de operación de Cemex",
+      "resumen": "Cemex registró un aumento del 12% en su flujo de operación del tercer trimestre, hasta los 990 mdd,mientras que las ventas subieron 8%.",
+      "link": "https://www.reforma.com/crece-12-flujo-de-operacion-de-cemex/ar3302101",
+      "fecha": "26 Oct 2026, 07:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar a $18.65 y liga 7 semanas con subidas",
-      "resumen": "El dólar cerró el viernes con una cotización de $18.65 y una ganancia semanal de 16.80, con lo cual acumuló siete semanas con avances.",
-      "link": "https://www.reforma.com/cierra-dolar-a-18-65-y-liga-7-semanas-con-subidas/ar3301033",
-      "fecha": "23 Oct 2026, 17:59 hrs"
+      "titulo": "Reporta KOF alza de 16.2% en su flujo operativo",
+      "resumen": "Coca-Cola Femsa reportó un flujo de operación de 16 mil 794 mdp en el tercer trimestre, un 16.2% mayor al de igual lapso del año pasado.",
+      "link": "https://www.reforma.com/reporta-kof-alza-de-16-2-en-su-flujo-operativo/ar3302118",
+      "fecha": "26 Oct 2026, 08:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra BMV tercera semana al alza",
-      "resumen": "La BMV cerró con una ganancia semanal de 1.38%, alcanzando el nivel de 69 mil 879.62 unidades y logrando su tercera semana al alza.",
-      "link": "https://www.reforma.com/cierra-bmv-tercera-semana-al-alza/ar3301027",
-      "fecha": "23 Oct 2026, 17:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Detecta SAT otras 171 empresas fantasma",
-      "resumen": "El SAT publicó otra lista de 171 contribuyentes que se ubicaron en el supuesto de presunción de empresas fantasma y factureras.",
-      "link": "https://www.reforma.com/detecta-sat-otras-171-empresas-fantasma/ar3300993",
-      "fecha": "23 Oct 2026, 17:51 hrs"
+      "titulo": "Amaga menor fecundidad a inversión y crecimiento",
+      "resumen": "La caída de la tasa de fecundidad elevará las presiones financieras y fiscales en México, advirtieron expertos.",
+      "link": "https://www.reforma.com/amaga-menor-fecundidad-a-inversion-y-crecimiento/ar3301982",
+      "fecha": "26 Oct 2026, 05:02 hrs"
     }
   ]
 }
