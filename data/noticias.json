@@ -1,7 +1,61 @@
 {
-  "actualizado": "26/10/2026 19:11 hrs",
+  "actualizado": "27/10/2026 01:21 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tras renuncia de Taddei, la IP exige investigar irregularidades y un relevo imparcial",
+      "resumen": "El presidente de la Coparmex, Juan José Sierra, afirmó que esclarecer los señalamientos y determinar responsabilidades ayudará a recuperar la confianza ciudadana rumbo a las elecciones de 2027.",
+      "link": "https://expansion.mx/economia/2026/10/26/coparmex-investigacion-relevo-taddei-ine",
+      "fecha": "26 Oct 2026, 16:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
+      "resumen": "La junta de Gobierno del organismo regulador informó que el año próximo se mantendrá la tendencia a la baja del cobro que se hace a los trabajadores, con un máximo de 0.53%.",
+      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
+      "fecha": "26 Oct 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Leyes del Catastro y Economía Digital ayudan a recaudación pero faltan incentivos para formalidad, dicen economistas",
+      "resumen": "En vista de una economía que puede crecer hasta 2% en 2027, las políticas púbicas deben enfocarse en hacer más amigable la formalidad e incrementar la productividad de  micro, pequeñas y medianas empr…",
+      "link": "https://expansion.mx/economia/2026/10/26/leyes-predial-pagos-digitales-recaudacion-falta-formalidad",
+      "fecha": "26 Oct 2026, 13:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La banca en México perderá comisiones en cobros con tarjetas, pero ganará clientes con pagos digitales, dice Moody's",
+      "resumen": "Con la aprobación de la Ley de Economía Digital, la agencia considera que el ahorro en manejo de efectivo y mayor actividad con plásticos compensarán la reducción de cuotas de intercambio.",
+      "link": "https://expansion.mx/economia/2026/10/26/bancos-pagos-digitales-menos-comisiones-mas-clientes-moodys",
+      "fecha": "26 Oct 2026, 12:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Revolut entra a la captación de nómina de trabajadores en México",
+      "resumen": "El banco de origen británico busca convertirse en la primera institución financiera de asalariados en el país, más allá de solamente ofrecer tarjetas",
+      "link": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico",
+      "fecha": "26 Oct 2026, 07:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hecho en México se prepara para las exigencias en reglas de origen que EU quiere sobre el T-MEC",
+      "resumen": "La Secretaría de Economía busca que el programa ayude a certificar la producción nacional ante un comercio más atento al origen. El reto es sumar proveedores y acreditar cada componente.",
+      "link": "https://expansion.mx/economia/2026/10/26/hecho-en-mexico-reglas-de-origen-t-mec",
+      "fecha": "26 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -22,57 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "A tres años de Otis, negocios operan sin seguro y escasa protección ante eventos climáticos",
-      "resumen": "Una evaluación encontró que ninguno de los negocios analizados tenía protección financiera frente a eventos climáticos. La recuperación también exige recursos para resistir los días sin ventas.",
-      "link": "https://expansion.mx/economia/2026/10/24/huracan-otis-negocios-acapulco-mitad-blindaje-financiero",
-      "fecha": "24 Oct 2026, 08:05 hrs"
+      "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
+      "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
+      "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
+      "fecha": "26 Oct 2026, 18:12 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
-      "resumen": "Para la semana del 24 al 30 de octubre, la SHCP otorgó menos subsidios a las gasolinas, mientras el diésel tendrá cuota cero por sexta semana consecutiva.",
-      "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
-      "fecha": "23 Oct 2026, 17:49 hrs"
+      "titulo": "YUMovil va por los usuarios chinos que viven en México con una plataforma 'al estilo WeChat'",
+      "resumen": "El OMV mexicano atenderá a ciudadanos y empresas asiáticas que operan en el país con servicios que facilitan el acceso a sus redes de comunicación, incluidos los ecosistemas financieros.",
+      "link": "https://expansion.mx/empresas/2026/10/26/yumovil-plataforma-usuarios-chinos-sim-mexico",
+      "fecha": "26 Oct 2026, 16:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
-      "resumen": "La llegada de Nu al sistema bancario mexicano sumó de golpe más de 10 millones de tarjetas de crédito; se coloca en tercer lugar, por detrás de BBVA y Banamex",
-      "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
-      "fecha": "23 Oct 2026, 10:18 hrs"
+      "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
+      "resumen": "Olinia busca desarrollar un auto eléctrico accesible y una cadena de proveeduría nacional, mientras JAC ya ensambla vehículos en Hidalgo.",
+      "link": "https://expansion.mx/empresas/2026/10/26/olinia-auto-electrico-marca-china-presume-sello-hecho-mexico",
+      "fecha": "26 Oct 2026, 15:09 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
-      "resumen": "La economía mexicana avanzó 0.6% en agosto, por encima de lo esperado. La recuperación industrial llevó a Oxford Economics a elevar su pronóstico para 2026, aunque los servicios perdieron impulso.",
-      "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
-      "fecha": "23 Oct 2026, 09:00 hrs"
+      "titulo": "Los 3 destinos que eligió Aeroméxico para estrenar sus nuevas rutas a partir de 2027",
+      "resumen": "La aerolínea sugirió a sus clientes a revisar la disponibilidad de los vuelos que se estrenarán a partir de enero del próximo año. Estas son las ciudades.",
+      "link": "https://expansion.mx/empresas/2026/10/26/tres-nuevas-rutas-aeromexico-estados-unidos-a-partir-2027",
+      "fecha": "26 Oct 2026, 14:02 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
-      "resumen": "La brecha comercial pesa sobre la negociación para reducir aranceles. México eleva sus compras a Estados Unidos, aunque ese avance aún resulta insuficiente para contener el déficit bilateral.",
-      "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
-      "fecha": "23 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu México advierte que el reto de los pagos digitales será la confianza de los mexicanos",
-      "resumen": "De acuerdo con el banco, uno de cada dos de sus clientes había intentado acceder a algún producto financiero fue rechazado por otra institución.",
-      "link": "https://expansion.mx/economia/2026/10/22/nu-mexico-advierte-que-el-reto-de-los-pagos-digitales-sera-la-confianza-de-los-mexicanos",
-      "fecha": "22 Oct 2026, 18:26 hrs"
+      "titulo": "Huachicol fiscal: la cifra oficial deja fuera miles de millones de pesos por evasión del IVA",
+      "resumen": "Francisco Barnés, socio director de Cifra2 Consultores y exsubsecretario de Hidrocarburos de la Secretaría de Energía (Sener), calcula que las pérdidas por evasión de IVA superarían los 52,000 millone…",
+      "link": "https://expansion.mx/empresas/2026/10/26/huachicol-fiscal-perdidas-evasion-del-iva",
+      "fecha": "26 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -100,51 +145,6 @@
       "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
       "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
       "fecha": "24 Oct 2026, 12:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
-      "resumen": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
-      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
-      "fecha": "23 Oct 2026, 19:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
-      "resumen": "Con una inversión de más de 800 millones de dólares, el empresario impulsó un desarrollo que sigue creciendo y está en el centro del debate por la transformación urbana de la zona.",
-      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
-      "fecha": "23 Oct 2026, 16:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Trabajadores de confianza de Pemex llevan a la SCJN lucha por reconocimiento sindical",
-      "resumen": "Los litigios individuales que se han presentado para la reclasificación de personal de base sí han sido concedidos.",
-      "link": "https://expansion.mx/empresas/2026/10/23/trabajadores-de-confianza-pemex-scjn-reconocimiento-sindical",
-      "fecha": "23 Oct 2026, 14:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bimbo aumenta 22% sus ganancias con México como motor de crecimiento",
-      "resumen": "México aportó 38.6% de las ventas totales de Bimbo en el tercer trimestre, con ingresos por 40,905 millones de pesos, un crecimiento anual de 5.2% que contrastó con la caída de 1.3% de los ingresos co…",
-      "link": "https://expansion.mx/empresas/2026/10/22/bimbo-utilidad-tercer-trimestre-mexico-ventas",
-      "fecha": "22 Oct 2026, 21:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Apenas están en sus 30, se codean con Slim y ya están entre los 100 empresarios más importantes de México",
-      "resumen": "Ambos presiden empresas con presencia nacional en sectores clave del consumo, desde la producción de harina de maíz hasta la venta de medicamentos.",
-      "link": "https://expansion.mx/empresas/2026/10/22/dos-jovenes-en-el-ranking-de-los-100-empresarios-mexico",
-      "fecha": "22 Oct 2026, 17:54 hrs"
     },
     {
       "fuente": "Reforma",
