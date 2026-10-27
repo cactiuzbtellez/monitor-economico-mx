@@ -1,7 +1,34 @@
 {
-  "actualizado": "27/10/2026 08:00 hrs",
+  "actualizado": "27/10/2026 13:49 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
+      "resumen": "Un Congreso con mayor presencia demócrata vigilaría más los aranceles, pero el presidente estadounidense conservaría amplias facultades comerciales.",
+      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
+      "fecha": "27 Oct 2026, 09:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Exportaciones de México crecen 37.9% en septiembre y alcanzan su tercer máximo histórico",
+      "resumen": "La electrónica destacó entre las manufacturas que México vendió al exterior. En el mismo mes, el país registró un déficit comercial de 606 millones de dólares.",
+      "link": "https://expansion.mx/economia/2026/10/27/exportaciones-mexico-septiembre-2026-deficit-comercial",
+      "fecha": "27 Oct 2026, 07:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los topes a deducciones y condonación de multas del SAT a grandes empresas llegan al pleno del Senado",
+      "resumen": "Los cambios fiscales del Paquete Económico 2027 llegan a su última etapa de votación y discusión, mientras el sector privado espera una reserva de último minuto.",
+      "link": "https://expansion.mx/economia/2026/10/27/deducciones-condonacion-multas-empresas-senado",
+      "fecha": "27 Oct 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,60 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hecho en México se prepara para las exigencias en reglas de origen que EU quiere sobre el T-MEC",
-      "resumen": "La Secretaría de Economía busca que el programa ayude a certificar la producción nacional ante un comercio más atento al origen. El reto es sumar proveedores y acreditar cada componente.",
-      "link": "https://expansion.mx/economia/2026/10/26/hecho-en-mexico-reglas-de-origen-t-mec",
-      "fecha": "26 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Vales de despensa, bajo la lupa antimonopolio; un beneficio que alcanza a 40 millones de personas",
-      "resumen": "Aseval aseguró que los vales de despensa son una de las prestaciones sociales más importantes de los trabajadores.",
-      "link": "https://expansion.mx/economia/2026/10/25/vales-de-despensa-bajo-la-lupa-antimonopolio-un-beneficio-que-alcanza-a-40-millones-de-personas",
-      "fecha": "25 Oct 2026, 10:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Con ISR de 7.5% el SAT quiere regresar capitales del extranjero",
-      "resumen": "El programa de repatriación de capitales para 2027, prevé una retención de 10% por dividendos o reembolsos, en vez de la de 20% que aplica este 2026.",
-      "link": "https://expansion.mx/economia/2026/10/24/isr-75-sat-retorno-capitales-extranjero-2027",
-      "fecha": "24 Oct 2026, 10:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
-      "resumen": "La marca rusa apuesta por franquicias, herramientas digitales y locales compactos para competir con empresas ya posicionadas en el mercado mexicano de pizzas.",
-      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
-      "fecha": "26 Oct 2026, 19:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
-      "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
-      "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
-      "fecha": "26 Oct 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "YUMovil va por los usuarios chinos que viven en México con una plataforma 'al estilo WeChat'",
-      "resumen": "El OMV mexicano atenderá a ciudadanos y empresas asiáticas que operan en el país con servicios que facilitan el acceso a sus redes de comunicación, incluidos los ecosistemas financieros.",
-      "link": "https://expansion.mx/empresas/2026/10/26/yumovil-plataforma-usuarios-chinos-sim-mexico",
-      "fecha": "26 Oct 2026, 16:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
@@ -147,22 +120,49 @@
       "fecha": "24 Oct 2026, 14:41 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierde más CSP por robo de combustible",
-      "resumen": "En primeros 2 años de CSP, las pérdidas al erario por robo de combustible supera las registradas en los mismos periodos de AMLO y de EPN.",
-      "link": "https://www.reforma.com/pierde-mas-csp-por-robo-de-combustible/ar3302605",
-      "fecha": "27 Oct 2026, 05:01 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
+      "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
+      "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
+      "fecha": "24 Oct 2026, 12:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
+      "resumen": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
+      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
+      "fecha": "23 Oct 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
+      "resumen": "Con una inversión de más de 800 millones de dólares, el empresario impulsó un desarrollo que sigue creciendo y está en el centro del debate por la transformación urbana de la zona.",
+      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
+      "fecha": "23 Oct 2026, 16:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recibe más Sheinbaum que sus pares extranjeros",
-      "resumen": "Mientra la Presidenta de México gana 2.32 millones de pesos al año; el primer ministro británico recibe 75 mil 440 libras esterlinas.",
-      "link": "https://www.reforma.com/recibe-mas-sheinbaum-que-sus-pares-extranjeros/ar3302559",
-      "fecha": "27 Oct 2026, 05:02 hrs"
+      "titulo": "Exportaciones cortan racha de  9 meses al alza",
+      "resumen": "Las exportaciones del País disminuyeron 2.45% mensual en septiembre a 76 mil 499 millones de dólares.",
+      "link": "https://www.reforma.com/exportaciones-cortan-racha-de-9-meses-al-alza/ar3302811",
+      "fecha": "27 Oct 2026, 11:26 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Castiga CNA con 67 mdp a empresas por colusión en tecnología",
+      "resumen": "La CNA sancionó con 67 mdp a nueve empresas que simularon competir en la compra de tecnología para distintas dependencias del Gobierno.",
+      "link": "https://www.reforma.com/castiga-cna-con-67-mdp-a-empresas-por-colusion-en-tecnologia/ar3302870",
+      "fecha": "27 Oct 2026, 12:48 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,28 +177,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quema Pemex 19% de su gas",
-      "resumen": "Pese a menor producción de gas natural, Pemex quema más: de enero a agosto se \"evaporaron\" más de 815 millones de dólares, 18.6% del total.",
-      "link": "https://www.reforma.com/quema-pemex-19-de-su-gas/ar3302583",
-      "fecha": "27 Oct 2026, 05:02 hrs"
+      "titulo": "Despegan acciones de Volaris tras sólido reporte trimestral",
+      "resumen": "Las acciones de Volaris subían 10%, perfilando su mejor sesión desde abril, tras reportar resultados trimestrales mejores a lo esperado.",
+      "link": "https://www.reforma.com/despegan-acciones-de-volaris-tras-solido-reporte-trimestral/ar3302789",
+      "fecha": "27 Oct 2026, 10:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 300% maíz mexicano",
-      "resumen": "A través de prácticas agrosustentables el Cimmyt aumentó hasta 300% la producción de maíz en regiones de México.",
-      "link": "https://www.reforma.com/aumenta-300-maiz-mexicano/ar3302589",
-      "fecha": "27 Oct 2026, 05:02 hrs"
+      "titulo": "Aranceles a autos canadienses serían catastróficos.- Honda",
+      "resumen": "Aumento de los aranceles de EU sobre los vehículos y las piezas canadienses sería \"catastrófico\" para el sector automotriz, advirtió Honda.",
+      "link": "https://www.reforma.com/aranceles-a-autos-canadienses-serian-catastroficos-honda/ar3302800",
+      "fecha": "27 Oct 2026, 11:26 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Niega Préstamo Feliz ceder su cobranza",
-      "resumen": "Préstamo Feliz negó haber concluido operaciones y rechazó haberle transferido a un tercero la cobranza de los préstamos a cuenta de nómina.",
-      "link": "https://www.reforma.com/niega-prestamo-feliz-ceder-su-cobranza/ar3302594",
-      "fecha": "27 Oct 2026, 07:07 hrs"
+      "titulo": "Regresa Topo Chico a estantes de Texas",
+      "resumen": "El agua mineral Topo Chico no estuvo disponible en Texas durante meses debido a problemas de suministro en México.",
+      "link": "https://www.reforma.com/regresa-topo-chico-a-estantes-de-texas/ar3302773",
+      "fecha": "27 Oct 2026, 10:11 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cambian expectativas de pensión",
-      "resumen": "Una persona que proyectaba obtener una pensión de 60 mil pesos mensuales a través de la Modalidad 40 ahora recibirán menos de la mitad.",
-      "link": "https://www.reforma.com/cambian-expectativas-de-pension/ar3302556",
-      "fecha": "27 Oct 2026, 05:02 hrs"
+      "titulo": "Cierra crudo con pérdidas; el WTI baja de los 100 dólares",
+      "resumen": "Los futuros del crudo cayeron casi 2 dólares, debido a que operadores centraban su atención en las conversaciones de paz en Medio Oriente.",
+      "link": "https://www.reforma.com/cierra-crudo-con-perdidas-el-wti-baja-de-los-100-dolares/ar3302894",
+      "fecha": "27 Oct 2026, 13:02 hrs"
     }
   ]
 }
