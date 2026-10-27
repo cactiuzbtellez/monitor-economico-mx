@@ -1,16 +1,7 @@
 {
-  "actualizado": "27/10/2026 13:49 hrs",
+  "actualizado": "27/10/2026 17:31 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
-      "resumen": "Un Congreso con mayor presencia demócrata vigilaría más los aranceles, pero el presidente estadounidense conservaría amplias facultades comerciales.",
-      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
-      "fecha": "27 Oct 2026, 09:02 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,6 +67,42 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hecho en México se prepara para las exigencias en reglas de origen que EU quiere sobre el T-MEC",
+      "resumen": "La Secretaría de Economía busca que el programa ayude a certificar la producción nacional ante un comercio más atento al origen. El reto es sumar proveedores y acreditar cada componente.",
+      "link": "https://expansion.mx/economia/2026/10/26/hecho-en-mexico-reglas-de-origen-t-mec",
+      "fecha": "26 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
+      "resumen": "La marca rusa apuesta por franquicias, herramientas digitales y locales compactos para competir con empresas ya posicionadas en el mercado mexicano de pizzas.",
+      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
+      "fecha": "26 Oct 2026, 19:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
+      "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
+      "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
+      "fecha": "26 Oct 2026, 18:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "YUMovil va por los usuarios chinos que viven en México con una plataforma 'al estilo WeChat'",
+      "resumen": "El OMV mexicano atenderá a ciudadanos y empresas asiáticas que operan en el país con servicios que facilitan el acceso a sus redes de comunicación, incluidos los ecosistemas financieros.",
+      "link": "https://expansion.mx/empresas/2026/10/26/yumovil-plataforma-usuarios-chinos-sim-mexico",
+      "fecha": "26 Oct 2026, 16:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
@@ -120,39 +147,39 @@
       "fecha": "24 Oct 2026, 14:41 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
-      "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
-      "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
-      "fecha": "24 Oct 2026, 12:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras el Olinia costará 150,000 pesos, en Japón el Suzuki e-Sky cuesta 186,319, recorre 310 km y carga en 25 minutos",
-      "resumen": "Olinia tomó como referencia el concepto de los kei cars; el Suzuki e-Sky muestra hasta dónde puede llegar esa fórmula en Japón.",
-      "link": "https://expansion.mx/empresas/2026/10/23/olinia-vs-suzuki-e-sky-precio-autonomia-carga",
-      "fecha": "23 Oct 2026, 19:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim creó el 'Manhattan' de la CDMX donde había fábricas: la megaobra que reúne negocios, vivienda y museos",
-      "resumen": "Con una inversión de más de 800 millones de dólares, el empresario impulsó un desarrollo que sigue creciendo y está en el centro del debate por la transformación urbana de la zona.",
-      "link": "https://expansion.mx/empresas/2026/10/23/plaza-carso-el-manhattan-de-carlos-slim-en-cdmx",
-      "fecha": "23 Oct 2026, 16:30 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Superaría deuda de País 60% sin un cambio fiscal.-HR Ratings",
+      "resumen": "Si no hay un cambio de rumbo en las finanzas públicas la deuda podría incluso superar un nivel de 60 por ciento.",
+      "link": "https://www.reforma.com/superaria-deuda-de-pais-60-sin-un-cambio-fiscal-hr-ratings/ar3302951",
+      "fecha": "27 Oct 2026, 14:20 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exportaciones cortan racha de  9 meses al alza",
+      "titulo": "Persiste riesgo para grado de inversión con déficit de 2027",
+      "resumen": "Déficit de 3.9% en 2027 está lejos de lo que recomienda el FMI y no mitiga el riesgo de perder grado de inversión, señaló México Evalúa.",
+      "link": "https://www.reforma.com/persiste-riesgo-para-grado-de-inversion-con-deficit-de-2027/ar3303014",
+      "fecha": "27 Oct 2026, 15:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén 1,034 mdp por ventas de pan de muerto",
+      "resumen": "La Canainppa estimó que para esta temporada, las ventas por pan muerto ea nivel nacional serán cerca de mil 34 millones de pesos.",
+      "link": "https://www.reforma.com/preven-1-034-mdp-por-ventas-de-pan-de-muerto/ar3302945",
+      "fecha": "27 Oct 2026, 14:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cortan exportaciones racha de 9 meses al alza",
       "resumen": "Las exportaciones del País disminuyeron 2.45% mensual en septiembre a 76 mil 499 millones de dólares.",
-      "link": "https://www.reforma.com/exportaciones-cortan-racha-de-9-meses-al-alza/ar3302811",
+      "link": "https://www.reforma.com/cortan-exportaciones-racha-de-9-meses-al-alza/ar3302811",
       "fecha": "27 Oct 2026, 11:26 hrs"
     },
     {
@@ -168,15 +195,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arrebata el SAT tajada a pensiones",
-      "resumen": "Por atrasos en resoluciones de pensión en el IMSS, el SAT termina por arrebatar a quienes tramitan su retiro una parte de su pensión.",
-      "link": "https://www.reforma.com/arrebata-el-sat-tajada-a-pensiones/ar3302590",
-      "fecha": "27 Oct 2026, 06:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Despegan acciones de Volaris tras sólido reporte trimestral",
       "resumen": "Las acciones de Volaris subían 10%, perfilando su mejor sesión desde abril, tras reportar resultados trimestrales mejores a lo esperado.",
       "link": "https://www.reforma.com/despegan-acciones-de-volaris-tras-solido-reporte-trimestral/ar3302789",
@@ -186,10 +204,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aranceles a autos canadienses serían catastróficos.- Honda",
-      "resumen": "Aumento de los aranceles de EU sobre los vehículos y las piezas canadienses sería \"catastrófico\" para el sector automotriz, advirtió Honda.",
-      "link": "https://www.reforma.com/aranceles-a-autos-canadienses-serian-catastroficos-honda/ar3302800",
-      "fecha": "27 Oct 2026, 11:26 hrs"
+      "titulo": "Sube 0.4% flujo operativo de Walmex",
+      "resumen": "Walmart de México y Centroamérica (Walmex) informó que su flujo operativo del tercer trimestre creció 0.4% hasta los 25 mil 372 mdp.",
+      "link": "https://www.reforma.com/sube-0-4-flujo-operativo-de-walmex/ar3303024",
+      "fecha": "27 Oct 2026, 15:51 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "El agua mineral Topo Chico no estuvo disponible en Texas durante meses debido a problemas de suministro en México.",
       "link": "https://www.reforma.com/regresa-topo-chico-a-estantes-de-texas/ar3302773",
       "fecha": "27 Oct 2026, 10:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ignoran avances de acero en T-MEC",
-      "resumen": "Gobierno negocia bajar aranceles de EU al acero y autos, pero la industria siderúrgica desconoce avances y términos.",
-      "link": "https://www.reforma.com/ignoran-avances-de-acero-en-t-mec/ar3302566",
-      "fecha": "27 Oct 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo con pérdidas; el WTI baja de los 100 dólares",
-      "resumen": "Los futuros del crudo cayeron casi 2 dólares, debido a que operadores centraban su atención en las conversaciones de paz en Medio Oriente.",
-      "link": "https://www.reforma.com/cierra-crudo-con-perdidas-el-wti-baja-de-los-100-dolares/ar3302894",
-      "fecha": "27 Oct 2026, 13:02 hrs"
     }
   ]
 }
