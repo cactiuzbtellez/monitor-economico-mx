@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/10/2026 01:21 hrs",
+  "actualizado": "27/10/2026 08:00 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
+      "resumen": "La marca rusa apuesta por franquicias, herramientas digitales y locales compactos para competir con empresas ya posicionadas en el mercado mexicano de pizzas.",
+      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
+      "fecha": "26 Oct 2026, 19:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
       "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
       "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
@@ -138,85 +147,76 @@
       "fecha": "24 Oct 2026, 14:41 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Mensajería o paquetería? Profeco compara precios y tiempos de entrega",
-      "resumen": "El costo de enviar un paquete depende del peso, las dimensiones y la velocidad de entrega. Profeco detalla las diferencias entre mensajería y paquetería y ofrece recomendaciones para contratar estos s…",
-      "link": "https://expansion.mx/empresas/2026/10/24/profeco-compara-precios-mensajeria-paqueteria",
-      "fecha": "24 Oct 2026, 12:48 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde más CSP por robo de combustible",
+      "resumen": "En primeros 2 años de CSP, las pérdidas al erario por robo de combustible supera las registradas en los mismos periodos de AMLO y de EPN.",
+      "link": "https://www.reforma.com/pierde-mas-csp-por-robo-de-combustible/ar3302605",
+      "fecha": "27 Oct 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Arrancan paso de ganado mexicano a Columbus",
-      "resumen": "Este día se reanudó el tercer punto fronterizo para el paso de ganado mexicano a Estados Unidos en Puerto Palomas, Chihuahua.",
-      "link": "https://www.reforma.com/arrancan-paso-de-ganado-mexicano-a-columbus/ar3302521",
-      "fecha": "26 Oct 2026, 19:09 hrs"
+      "titulo": "Recibe más Sheinbaum que sus pares extranjeros",
+      "resumen": "Mientra la Presidenta de México gana 2.32 millones de pesos al año; el primer ministro británico recibe 75 mil 440 libras esterlinas.",
+      "link": "https://www.reforma.com/recibe-mas-sheinbaum-que-sus-pares-extranjeros/ar3302559",
+      "fecha": "27 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten que México está cerca de perder grado de inversión",
-      "resumen": "Irene Espinosa, ex subgobernadora de Banxico, señaló que México está a un paso de perder el grado de inversión por problemas estructurales.",
-      "link": "https://www.reforma.com/advierten-que-mexico-esta-cerca-de-perder-grado-de-inversion/ar3302467",
-      "fecha": "26 Oct 2026, 17:41 hrs"
+      "titulo": "Arrebata el SAT tajada a pensiones",
+      "resumen": "Por atrasos en resoluciones de pensión en el IMSS, el SAT termina por arrebatar a quienes tramitan su retiro una parte de su pensión.",
+      "link": "https://www.reforma.com/arrebata-el-sat-tajada-a-pensiones/ar3302590",
+      "fecha": "27 Oct 2026, 06:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Costaría paro transportista 21,500 mdp al día",
-      "resumen": "El paro nacional de transportistas tendrá un costo diario de 21 mil 500 millones de pesos, consideró Canacar.",
-      "link": "https://www.reforma.com/costaria-paro-transportista-21-500-mdp-al-dia/ar3302455",
-      "fecha": "26 Oct 2026, 17:20 hrs"
+      "titulo": "Quema Pemex 19% de su gas",
+      "resumen": "Pese a menor producción de gas natural, Pemex quema más: de enero a agosto se \"evaporaron\" más de 815 millones de dólares, 18.6% del total.",
+      "link": "https://www.reforma.com/quema-pemex-19-de-su-gas/ar3302583",
+      "fecha": "27 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llama Coparmex a atender demandas de transportistas",
-      "resumen": "La Coparmex dijo que es fundamental fortalecer la seguridad de las carreteras y evitar la alteración de las cadenas de suministro.",
-      "link": "https://www.reforma.com/llama-coparmex-a-atender-demandas-de-transportistas/ar3302411",
-      "fecha": "26 Oct 2026, 17:20 hrs"
+      "titulo": "Aumenta 300% maíz mexicano",
+      "resumen": "A través de prácticas agrosustentables el Cimmyt aumentó hasta 300% la producción de maíz en regiones de México.",
+      "link": "https://www.reforma.com/aumenta-300-maiz-mexicano/ar3302589",
+      "fecha": "27 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Política fiscal está incrementando la pobreza.-Nora Lustig",
-      "resumen": "Muchos sistemas fiscales empobrecen a los pobres y que en México la política fiscal está agravando ese efecto, advirtió Nora Lustig.",
-      "link": "https://www.reforma.com/politica-fiscal-esta-incrementando-la-pobreza-nora-lustig/ar3302405",
-      "fecha": "26 Oct 2026, 17:20 hrs"
+      "titulo": "Niega Préstamo Feliz ceder su cobranza",
+      "resumen": "Préstamo Feliz negó haber concluido operaciones y rechazó haberle transferido a un tercero la cobranza de los préstamos a cuenta de nómina.",
+      "link": "https://www.reforma.com/niega-prestamo-feliz-ceder-su-cobranza/ar3302594",
+      "fecha": "27 Oct 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé Whirlpool su primera pérdida anual en décadas",
-      "resumen": "La acción de Whirlpool cayó 10% luego de recortar perspectivas por tercera vez en el año y de anticipar su primera pérdida anual en décadas.",
-      "link": "https://www.reforma.com/preve-whirlpool-su-primera-perdida-anual-en-decadas/ar3302396",
-      "fecha": "26 Oct 2026, 15:57 hrs"
+      "titulo": "Ignoran avances de acero en T-MEC",
+      "resumen": "Gobierno negocia bajar aranceles de EU al acero y autos, pero la industria siderúrgica desconoce avances y términos.",
+      "link": "https://www.reforma.com/ignoran-avances-de-acero-en-t-mec/ar3302566",
+      "fecha": "27 Oct 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Demandan en EU a Dollar General por cobrar de más a clientes",
-      "resumen": "La FTC y 20 estados de EU demandaron a Dollar General por cobrar más que los precios marcados en estanterías o publicidad.",
-      "link": "https://www.reforma.com/demandan-en-eu-a-dollar-general-por-cobrar-de-mas-a-clientes/ar3302382",
-      "fecha": "26 Oct 2026, 15:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sufren acciones brasileñas mayor caída diaria desde 2020",
-      "resumen": "Ante triunfo de Lula, Índice Bovespa se desplomó 13.43% a 177 mil 539.81 puntos, su mayor baja diaria desde 2020; el real se depreció 8.36%.",
-      "link": "https://www.reforma.com/sufren-acciones-brasilenas-mayor-caida-diaria-desde-2020/ar3302371",
-      "fecha": "26 Oct 2026, 15:01 hrs"
+      "titulo": "Cambian expectativas de pensión",
+      "resumen": "Una persona que proyectaba obtener una pensión de 60 mil pesos mensuales a través de la Modalidad 40 ahora recibirán menos de la mitad.",
+      "link": "https://www.reforma.com/cambian-expectativas-de-pension/ar3302556",
+      "fecha": "27 Oct 2026, 05:02 hrs"
     }
   ]
 }
