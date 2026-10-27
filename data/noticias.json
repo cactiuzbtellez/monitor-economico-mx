@@ -1,52 +1,7 @@
 {
-  "actualizado": "26/10/2026 15:23 hrs",
+  "actualizado": "26/10/2026 19:11 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
-      "resumen": "La junta de Gobierno del organismo regulador informó que el año próximo se mantendrá la tendencia a la baja del cobro que se hace a los trabajadores, con un máximo de 0.53%.",
-      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
-      "fecha": "26 Oct 2026, 14:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Leyes del Catastro y Economía Digital ayudan a recaudación pero faltan incentivos para formalidad, dicen economistas",
-      "resumen": "En vista de una economía que puede crecer hasta 2% en 2027, las políticas púbicas deben enfocarse en hacer más amigable la formalidad e incrementar la productividad de  micro, pequeñas y medianas empr…",
-      "link": "https://expansion.mx/economia/2026/10/26/leyes-predial-pagos-digitales-recaudacion-falta-formalidad",
-      "fecha": "26 Oct 2026, 13:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La banca en México perderá comisiones en cobros con tarjetas, pero ganará clientes con pagos digitales, dice Moody's",
-      "resumen": "Con la aprobación de la Ley de Economía Digital, la agencia considera que el ahorro en manejo de efectivo y mayor actividad con plásticos compensarán la reducción de cuotas de intercambio.",
-      "link": "https://expansion.mx/economia/2026/10/26/bancos-pagos-digitales-menos-comisiones-mas-clientes-moodys",
-      "fecha": "26 Oct 2026, 12:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Revolut entra a la captación de nómina de trabajadores en México",
-      "resumen": "El banco de origen británico busca convertirse en la primera institución financiera de asalariados en el país, más allá de solamente ofrecer tarjetas",
-      "link": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico",
-      "fecha": "26 Oct 2026, 07:00 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hecho en México se prepara para las exigencias en reglas de origen que EU quiere sobre el T-MEC",
-      "resumen": "La Secretaría de Economía busca que el programa ayude a certificar la producción nacional ante un comercio más atento al origen. El reto es sumar proveedores y acreditar cada componente.",
-      "link": "https://expansion.mx/economia/2026/10/26/hecho-en-mexico-reglas-de-origen-t-mec",
-      "fecha": "26 Oct 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,30 +31,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
-      "resumen": "Olinia busca desarrollar un auto eléctrico accesible y una cadena de proveeduría nacional, mientras JAC ya ensambla vehículos en Hidalgo.",
-      "link": "https://expansion.mx/empresas/2026/10/26/olinia-auto-electrico-marca-china-presume-sello-hecho-mexico",
-      "fecha": "26 Oct 2026, 15:09 hrs"
+      "titulo": "Gasolinas tendrán mayores cuotas por IEPS y los subsidios al diésel llegan a los 10 pesos",
+      "resumen": "Para la semana del 24 al 30 de octubre, la SHCP otorgó menos subsidios a las gasolinas, mientras el diésel tendrá cuota cero por sexta semana consecutiva.",
+      "link": "https://expansion.mx/economia/2026/10/23/gasolinas-impuesto-ieps-subsidios-diesel",
+      "fecha": "23 Oct 2026, 17:49 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Los 3 destinos que eligió Aeroméxico para estrenar sus nuevas rutas a partir de 2027",
-      "resumen": "La aerolínea sugirió a sus clientes a revisar la disponibilidad de los vuelos que se estrenarán a partir de enero del próximo año. Estas son las ciudades.",
-      "link": "https://expansion.mx/empresas/2026/10/26/tres-nuevas-rutas-aeromexico-estados-unidos-a-partir-2027",
-      "fecha": "26 Oct 2026, 14:02 hrs"
+      "titulo": "Ley de economía digital: México alcanza máximo de tarjetas de crédito y reduce el número de sucursales bancarias",
+      "resumen": "La llegada de Nu al sistema bancario mexicano sumó de golpe más de 10 millones de tarjetas de crédito; se coloca en tercer lugar, por detrás de BBVA y Banamex",
+      "link": "https://expansion.mx/economia/2026/10/23/ley-de-economia-digital-mexico-alcanza-maximo-de-tarjetas-de-credito-y-reduce-el-numero-de-sucursales-bancarias",
+      "fecha": "23 Oct 2026, 10:18 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Huachicol fiscal: la cifra oficial deja fuera miles de millones de pesos por evasión del IVA",
-      "resumen": "Francisco Barnés, socio director de Cifra2 Consultores y exsubsecretario de Hidrocarburos de la Secretaría de Energía (Sener), calcula que las pérdidas por evasión de IVA superarían los 52,000 millone…",
-      "link": "https://expansion.mx/empresas/2026/10/26/huachicol-fiscal-perdidas-evasion-del-iva",
-      "fecha": "26 Oct 2026, 05:55 hrs"
+      "titulo": "Economía mexicana crece más de lo esperado y mejora su perspectiva para 2026",
+      "resumen": "La economía mexicana avanzó 0.6% en agosto, por encima de lo esperado. La recuperación industrial llevó a Oxford Economics a elevar su pronóstico para 2026, aunque los servicios perdieron impulso.",
+      "link": "https://expansion.mx/economia/2026/10/23/economia-mexicana-crece-mas-de-lo-esperado-y-mejora-su-perspectiva-para-2026",
+      "fecha": "23 Oct 2026, 09:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Comprar más a EU no basta: el déficit con México sigue creciendo sin freno a la vista",
+      "resumen": "La brecha comercial pesa sobre la negociación para reducir aranceles. México eleva sus compras a Estados Unidos, aunque ese avance aún resulta insuficiente para contener el déficit bilateral.",
+      "link": "https://expansion.mx/economia/2026/10/23/comprar-mas-eu-no-basta-deficit-comercial-mexico",
+      "fecha": "23 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu México advierte que el reto de los pagos digitales será la confianza de los mexicanos",
+      "resumen": "De acuerdo con el banco, uno de cada dos de sus clientes había intentado acceder a algún producto financiero fue rechazado por otra institución.",
+      "link": "https://expansion.mx/economia/2026/10/22/nu-mexico-advierte-que-el-reto-de-los-pagos-digitales-sera-la-confianza-de-los-mexicanos",
+      "fecha": "22 Oct 2026, 18:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +120,103 @@
       "fecha": "23 Oct 2026, 16:30 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presiona Pemex el riesgo de perder el grado de inversión",
-      "resumen": "La pérdida del grado de inversión del País está agravando por Pemex y el bajo crecimiento económico, advirtió México Evalúa.",
-      "link": "https://www.reforma.com/presiona-pemex-el-riesgo-de-perder-el-grado-de-inversion/ar3302269",
-      "fecha": "26 Oct 2026, 12:32 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Trabajadores de confianza de Pemex llevan a la SCJN lucha por reconocimiento sindical",
+      "resumen": "Los litigios individuales que se han presentado para la reclasificación de personal de base sí han sido concedidos.",
+      "link": "https://expansion.mx/empresas/2026/10/23/trabajadores-de-confianza-pemex-scjn-reconocimiento-sindical",
+      "fecha": "23 Oct 2026, 14:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bimbo aumenta 22% sus ganancias con México como motor de crecimiento",
+      "resumen": "México aportó 38.6% de las ventas totales de Bimbo en el tercer trimestre, con ingresos por 40,905 millones de pesos, un crecimiento anual de 5.2% que contrastó con la caída de 1.3% de los ingresos co…",
+      "link": "https://expansion.mx/empresas/2026/10/22/bimbo-utilidad-tercer-trimestre-mexico-ventas",
+      "fecha": "22 Oct 2026, 21:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Apenas están en sus 30, se codean con Slim y ya están entre los 100 empresarios más importantes de México",
+      "resumen": "Ambos presiden empresas con presencia nacional en sectores clave del consumo, desde la producción de harina de maíz hasta la venta de medicamentos.",
+      "link": "https://expansion.mx/empresas/2026/10/22/dos-jovenes-en-el-ranking-de-los-100-empresarios-mexico",
+      "fecha": "22 Oct 2026, 17:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Toman con cautela el triunfo de Lula",
-      "resumen": "Ante el triunfo de Lula como presidente en Brasil, no se verá impactada la relación comercial con México, dijo la ICC.",
-      "link": "https://www.reforma.com/toman-con-cautela-el-triunfo-de-lula/ar3302254",
-      "fecha": "26 Oct 2026, 11:59 hrs"
+      "titulo": "Arrancan paso de ganado mexicano a Columbus",
+      "resumen": "Este día se reanudó el tercer punto fronterizo para el paso de ganado mexicano a Estados Unidos en Puerto Palomas, Chihuahua.",
+      "link": "https://www.reforma.com/arrancan-paso-de-ganado-mexicano-a-columbus/ar3302521",
+      "fecha": "26 Oct 2026, 19:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten que México está cerca de perder grado de inversión",
+      "resumen": "Irene Espinosa, ex subgobernadora de Banxico, señaló que México está a un paso de perder el grado de inversión por problemas estructurales.",
+      "link": "https://www.reforma.com/advierten-que-mexico-esta-cerca-de-perder-grado-de-inversion/ar3302467",
+      "fecha": "26 Oct 2026, 17:41 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Costaría paro transportista 21,500 mdp al día",
+      "resumen": "El paro nacional de transportistas tendrá un costo diario de 21 mil 500 millones de pesos, consideró Canacar.",
+      "link": "https://www.reforma.com/costaria-paro-transportista-21-500-mdp-al-dia/ar3302455",
+      "fecha": "26 Oct 2026, 17:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Llama Coparmex a atender demandas de transportistas",
+      "resumen": "La Coparmex dijo que es fundamental fortalecer la seguridad de las carreteras y evitar la alteración de las cadenas de suministro.",
+      "link": "https://www.reforma.com/llama-coparmex-a-atender-demandas-de-transportistas/ar3302411",
+      "fecha": "26 Oct 2026, 17:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Política fiscal está incrementando la pobreza.-Nora Lustig",
+      "resumen": "Muchos sistemas fiscales empobrecen a los pobres y que en México la política fiscal está agravando ese efecto, advirtió Nora Lustig.",
+      "link": "https://www.reforma.com/politica-fiscal-esta-incrementando-la-pobreza-nora-lustig/ar3302405",
+      "fecha": "26 Oct 2026, 17:20 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé Whirlpool su primera pérdida anual en décadas",
+      "resumen": "La acción de Whirlpool cayó 10% luego de recortar perspectivas por tercera vez en el año y de anticipar su primera pérdida anual en décadas.",
+      "link": "https://www.reforma.com/preve-whirlpool-su-primera-perdida-anual-en-decadas/ar3302396",
+      "fecha": "26 Oct 2026, 15:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Demandan en EU a Dollar General por cobrar de más a clientes",
+      "resumen": "La FTC y 20 estados de EU demandaron a Dollar General por cobrar más que los precios marcados en estanterías o publicidad.",
+      "link": "https://www.reforma.com/demandan-en-eu-a-dollar-general-por-cobrar-de-mas-a-clientes/ar3302382",
+      "fecha": "26 Oct 2026, 15:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Sufren acciones brasileñas mayor caída diaria desde 2020",
-      "resumen": "Índice Bovespa se desplomó 13.43% a 177 mil 539.81 puntos, su mayor baja porcentual diaria desde marzo de 2020; el real se depreció 8.36%.",
+      "resumen": "Ante triunfo de Lula, Índice Bovespa se desplomó 13.43% a 177 mil 539.81 puntos, su mayor baja diaria desde 2020; el real se depreció 8.36%.",
       "link": "https://www.reforma.com/sufren-acciones-brasilenas-mayor-caida-diaria-desde-2020/ar3302371",
       "fecha": "26 Oct 2026, 15:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Calculan en 16% inflación de ofrendas",
-      "resumen": "La ofrenda de Día de Muertos tendrá una inflación anual de hasta 16.1 por ciento, destacará el pan, según Anpec.",
-      "link": "https://www.reforma.com/calculan-en-16-inflacion-de-ofrendas/ar3302348",
-      "fecha": "26 Oct 2026, 14:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Autorizó CNBV a Gema para tomar control de Kubo Financiero",
-      "resumen": "Gema obtuvo la autorización de la CNBV para asumir el control de la Sofipo Kubo Financiero, desde el pasado 19 de octubre de 2026.",
-      "link": "https://www.reforma.com/autorizo-cnbv-a-gema-para-tomar-control-de-kubo-financiero/ar3302296",
-      "fecha": "26 Oct 2026, 14:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se celebran en Los Cabos 20 años del VIP Summit",
-      "resumen": "VIP Summit de Los Cabos, donde se promociona este destino turístico, cumplió 20 años, según Fiturca.",
-      "link": "https://www.reforma.com/se-celebran-en-los-cabos-20-anos-del-vip-summit/ar3302331",
-      "fecha": "26 Oct 2026, 14:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece 12% flujo de operación de Cemex",
-      "resumen": "Cemex registró un aumento del 12% en su flujo de operación del tercer trimestre, hasta los 990 mdd,mientras que las ventas subieron 8%.",
-      "link": "https://www.reforma.com/crece-12-flujo-de-operacion-de-cemex/ar3302101",
-      "fecha": "26 Oct 2026, 07:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Abre Nefab planta de empaques plegables en Apodaca",
-      "resumen": "Nefab inaugura nueva planta en Apodaca para producir empaques plegables de madera.",
-      "link": "https://www.reforma.com/abre-nefab-planta-de-empaques-plegables-en-apodaca/ar3302220",
-      "fecha": "26 Oct 2026, 11:38 hrs"
     }
   ]
 }
