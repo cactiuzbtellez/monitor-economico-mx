@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/10/2026 22:15 hrs",
+  "actualizado": "28/10/2026 04:59 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Coca-Cola Femsa recupera ventas en México pese al alza de impuestos a las bebidas azucaradas",
+      "resumen": "La compañía elevó 8.3% sus ingresos en México y Centroamérica durante el tercer trimestre de 2026, pese a la presión del IEPS a las bebidas y a los presupuestos familiares más ajustados.",
+      "link": "https://expansion.mx/empresas/2026/10/27/coca-cola-femsa-ventas-mexico-ieps-tercer-trimestre-2026",
+      "fecha": "27 Oct 2026, 22:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "El súper peso y el menor consumo en Estados Unidos frenan los resultados de Chedraui",
       "resumen": "La minorista reportó ventas por 70,356 millones de pesos en el tercer trimestre de 2026, una caída de 2% por la debilidad en EU y el efecto cambiario.",
       "link": "https://expansion.mx/empresas/2026/10/27/chedraui-ventas-estados-unidos-presion-migratoria-super-peso",
@@ -136,15 +145,6 @@
       "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
       "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
       "fecha": "26 Oct 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "YUMovil va por los usuarios chinos que viven en México con una plataforma 'al estilo WeChat'",
-      "resumen": "El OMV mexicano atenderá a ciudadanos y empresas asiáticas que operan en el país con servicios que facilitan el acceso a sus redes de comunicación, incluidos los ecosistemas financieros.",
-      "link": "https://expansion.mx/empresas/2026/10/26/yumovil-plataforma-usuarios-chinos-sim-mexico",
-      "fecha": "26 Oct 2026, 16:26 hrs"
     },
     {
       "fuente": "Reforma",
