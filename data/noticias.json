@@ -1,7 +1,52 @@
 {
-  "actualizado": "27/10/2026 17:31 hrs",
+  "actualizado": "27/10/2026 22:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Senado aprueba las leyes de Ingresos y Derechos 2027 y las envía al Ejecutivo para su publicación en el DOF",
+      "resumen": "La condonación de multas y recargos del SAT para grandes empresas será factible a partir del primero de enero de 2027, al igual que los incrementos al Derecho de No Residente (DNR) a turistas.",
+      "link": "https://expansion.mx/economia/2026/10/27/senado-aprueba-ley-ingresos-derechos",
+      "fecha": "27 Oct 2026, 19:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Senadores blindan a sector automotriz y gasolineros de topes a deducciones, reforma al ISR regresa a Diputados",
+      "resumen": "El dictamen de la reforma al ISR fue votado en lo general y en lo particular con votos 77 votos a favor, 34 en contra y cero abstenciones.",
+      "link": "https://expansion.mx/economia/2026/10/27/senadores-automotriz-gasolineros-topes-deducciones-isr",
+      "fecha": "27 Oct 2026, 18:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Recorte a CFE para 2027 obedece a revisión de su gasto, explica Hacienda",
+      "resumen": "La subsecretaria de Egresos, Bertha Gómez Castro, se reunió con diputados de la Comisión de Presupuesto y Cuenta Pública como parte del proceso para la discusión y votación del presupuesto público par…",
+      "link": "https://expansion.mx/economia/2026/10/27/hacienda-recorte-cfe-2027-obedece-revision-gasto",
+      "fecha": "27 Oct 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El seguro médico sube de precio, pero empresas buscan mantener la prestación a sus colaboradores",
+      "resumen": "En México, 70% del seguro de gastos médicos mayores es contratado por empresas, con lo que se trata de uno de los beneficios más valorado por los trabajadores",
+      "link": "https://expansion.mx/economia/2026/10/27/el-seguro-medico-sube-de-precio-pero-empresas-buscan-mantener-la-prestacion-a-sus-colaboradores",
+      "fecha": "27 Oct 2026, 17:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
+      "resumen": "Un Congreso con mayor presencia demócrata vigilaría más los aranceles, pero el presidente estadounidense conservaría amplias facultades comerciales.",
+      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
+      "fecha": "27 Oct 2026, 09:02 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
-      "resumen": "La junta de Gobierno del organismo regulador informó que el año próximo se mantendrá la tendencia a la baja del cobro que se hace a los trabajadores, con un máximo de 0.53%.",
-      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
-      "fecha": "26 Oct 2026, 14:34 hrs"
+      "titulo": "El súper peso y el menor consumo en Estados Unidos frenan los resultados de Chedraui",
+      "resumen": "La minorista reportó ventas por 70,356 millones de pesos en el tercer trimestre de 2026, una caída de 2% por la debilidad en EU y el efecto cambiario.",
+      "link": "https://expansion.mx/empresas/2026/10/27/chedraui-ventas-estados-unidos-presion-migratoria-super-peso",
+      "fecha": "27 Oct 2026, 19:22 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Leyes del Catastro y Economía Digital ayudan a recaudación pero faltan incentivos para formalidad, dicen economistas",
-      "resumen": "En vista de una economía que puede crecer hasta 2% en 2027, las políticas púbicas deben enfocarse en hacer más amigable la formalidad e incrementar la productividad de  micro, pequeñas y medianas empr…",
-      "link": "https://expansion.mx/economia/2026/10/26/leyes-predial-pagos-digitales-recaudacion-falta-formalidad",
-      "fecha": "26 Oct 2026, 13:50 hrs"
+      "titulo": "Walmart mantiene precios bajos para atraer clientes, pero la estrategia presiona sus resultados",
+      "resumen": "El programa Precios que No se Tocan mantuvo los precios de 4,000 productos esenciales durante 90 días, pero los gastos generales en México aumentaron 6.4% y la utilidad operativa disminuyó 2.6%.",
+      "link": "https://expansion.mx/empresas/2026/10/27/walmart-reporte-trimestral-ganancias-2026",
+      "fecha": "27 Oct 2026, 16:19 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La banca en México perderá comisiones en cobros con tarjetas, pero ganará clientes con pagos digitales, dice Moody's",
-      "resumen": "Con la aprobación de la Ley de Economía Digital, la agencia considera que el ahorro en manejo de efectivo y mayor actividad con plásticos compensarán la reducción de cuotas de intercambio.",
-      "link": "https://expansion.mx/economia/2026/10/26/bancos-pagos-digitales-menos-comisiones-mas-clientes-moodys",
-      "fecha": "26 Oct 2026, 12:03 hrs"
+      "titulo": "Carlos Slim compró una minera hace 40 años y hoy tiene un negocio de oro y plata que factura 14,056 mdp al año",
+      "resumen": "La minera produce oro y plata, pero también depende de metales industriales como el cobre y el zinc. Sus resultados recientes reflejan el peso de los precios y del volumen procesado en sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/10/27/carlos-slim-minera-frisco-cuanto-oro-y-plata-produce",
+      "fecha": "27 Oct 2026, 15:30 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Revolut entra a la captación de nómina de trabajadores en México",
-      "resumen": "El banco de origen británico busca convertirse en la primera institución financiera de asalariados en el país, más allá de solamente ofrecer tarjetas",
-      "link": "https://expansion.mx/economia/2026/10/26/revolut-entra-a-la-captacion-de-nomina-de-trabajadores-en-mexico",
-      "fecha": "26 Oct 2026, 07:00 hrs"
+      "titulo": "Que el diésel esté caro es una mala noticia para tu bolsillo, aunque no tengas auto",
+      "resumen": "Los estímulos fiscales de Hacienda buscan contener el precio del diésel, pero no garantizan que los alimentos, los materiales de construcción y otros productos bajen cuando disminuyan los costos del c…",
+      "link": "https://expansion.mx/empresas/2026/10/27/diesel-caro-mala-noticia-bolsillo-precios-productos",
+      "fecha": "27 Oct 2026, 15:03 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Hecho en México se prepara para las exigencias en reglas de origen que EU quiere sobre el T-MEC",
-      "resumen": "La Secretaría de Economía busca que el programa ayude a certificar la producción nacional ante un comercio más atento al origen. El reto es sumar proveedores y acreditar cada componente.",
-      "link": "https://expansion.mx/economia/2026/10/26/hecho-en-mexico-reglas-de-origen-t-mec",
-      "fecha": "26 Oct 2026, 05:55 hrs"
+      "titulo": "L'Oréal Groupe México destaca el movimiento refill en la Semana de México por el Clima",
+      "resumen": "Durante la segunda edición de México por el clima, la empresa abordó su perspectiva de cómo el liderazgo, la innovación y la economía circular pueden ayudar a modificar las industrias y los patrones d…",
+      "link": "https://expansion.mx/empresas/2026/10/27/loreal-destaca-movimiento-refill-semana-mexico-por-clima",
+      "fecha": "27 Oct 2026, 11:47 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,49 +147,13 @@
       "fecha": "26 Oct 2026, 16:26 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
-      "resumen": "Olinia busca desarrollar un auto eléctrico accesible y una cadena de proveeduría nacional, mientras JAC ya ensambla vehículos en Hidalgo.",
-      "link": "https://expansion.mx/empresas/2026/10/26/olinia-auto-electrico-marca-china-presume-sello-hecho-mexico",
-      "fecha": "26 Oct 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 3 destinos que eligió Aeroméxico para estrenar sus nuevas rutas a partir de 2027",
-      "resumen": "La aerolínea sugirió a sus clientes a revisar la disponibilidad de los vuelos que se estrenarán a partir de enero del próximo año. Estas son las ciudades.",
-      "link": "https://expansion.mx/empresas/2026/10/26/tres-nuevas-rutas-aeromexico-estados-unidos-a-partir-2027",
-      "fecha": "26 Oct 2026, 14:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Huachicol fiscal: la cifra oficial deja fuera miles de millones de pesos por evasión del IVA",
-      "resumen": "Francisco Barnés, socio director de Cifra2 Consultores y exsubsecretario de Hidrocarburos de la Secretaría de Energía (Sener), calcula que las pérdidas por evasión de IVA superarían los 52,000 millone…",
-      "link": "https://expansion.mx/empresas/2026/10/26/huachicol-fiscal-perdidas-evasion-del-iva",
-      "fecha": "26 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Dodo Pizza llega a México con un plan de 200 restaurantes para 2035",
-      "resumen": "La cadena internacional inicia operaciones en Zapopan con Helper Holding. Su plan contempla diez restaurantes propios en Jalisco durante el primer año y una expansión nacional mediante subfranquicias.",
-      "link": "https://expansion.mx/empresas/2026/10/24/dodo-pizza-mexico-200-restaurantes-2035",
-      "fecha": "24 Oct 2026, 18:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las redes sociales abren oportunidades de venta para las PyMEs de cara al fin de año",
-      "resumen": "La temporada de fin de año pone a prueba la capacidad de las pequeñas empresas para atraer compradores digitales y convertir el interés en ventas.",
-      "link": "https://expansion.mx/empresas/2026/10/24/pymes-redes-sociales-ventas-fin-de-ano",
-      "fecha": "24 Oct 2026, 14:41 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pactan transportistas y Gobierno mesas de trabajo",
+      "resumen": "Gobierno federal y organizaciones de transportistas acordaron una ruta de trabajo para dar solución a las demandas del sector.",
+      "link": "https://www.reforma.com/pactan-transportistas-y-gobierno-mesas-de-trabajo/ar3303131",
+      "fecha": "27 Oct 2026, 18:52 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,6 +172,15 @@
       "resumen": "Déficit de 3.9% en 2027 está lejos de lo que recomienda el FMI y no mitiga el riesgo de perder grado de inversión, señaló México Evalúa.",
       "link": "https://www.reforma.com/persiste-riesgo-para-grado-de-inversion-con-deficit-de-2027/ar3303014",
       "fecha": "27 Oct 2026, 15:51 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen por incrementar recursos a sanidad alimentaria",
+      "resumen": "Comecarne expresó la urgencia por garantizar recursos para la sanidad alimentaria, pues deber ser parte de la política pública.",
+      "link": "https://www.reforma.com/urgen-por-incrementar-recursos-a-sanidad-alimentaria/ar3303089",
+      "fecha": "27 Oct 2026, 17:48 hrs"
     },
     {
       "fuente": "Reforma",
@@ -199,24 +217,6 @@
       "resumen": "Las acciones de Volaris subían 10%, perfilando su mejor sesión desde abril, tras reportar resultados trimestrales mejores a lo esperado.",
       "link": "https://www.reforma.com/despegan-acciones-de-volaris-tras-solido-reporte-trimestral/ar3302789",
       "fecha": "27 Oct 2026, 10:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube 0.4% flujo operativo de Walmex",
-      "resumen": "Walmart de México y Centroamérica (Walmex) informó que su flujo operativo del tercer trimestre creció 0.4% hasta los 25 mil 372 mdp.",
-      "link": "https://www.reforma.com/sube-0-4-flujo-operativo-de-walmex/ar3303024",
-      "fecha": "27 Oct 2026, 15:51 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Regresa Topo Chico a estantes de Texas",
-      "resumen": "El agua mineral Topo Chico no estuvo disponible en Texas durante meses debido a problemas de suministro en México.",
-      "link": "https://www.reforma.com/regresa-topo-chico-a-estantes-de-texas/ar3302773",
-      "fecha": "27 Oct 2026, 10:11 hrs"
     }
   ]
 }
