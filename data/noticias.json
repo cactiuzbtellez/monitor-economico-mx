@@ -1,34 +1,7 @@
 {
-  "actualizado": "28/10/2026 11:06 hrs",
+  "actualizado": "28/10/2026 16:14 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El Senado aprueba las leyes de Ingresos y Derechos 2027 y las envía al Ejecutivo para su publicación en el DOF",
-      "resumen": "La condonación de multas y recargos del SAT para grandes empresas será factible a partir del primero de enero de 2027, al igual que los incrementos al Derecho de No Residente (DNR) a turistas.",
-      "link": "https://expansion.mx/economia/2026/10/27/senado-aprueba-ley-ingresos-derechos",
-      "fecha": "27 Oct 2026, 19:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Senadores blindan a sector automotriz y gasolineros de topes a deducciones, reforma al ISR regresa a Diputados",
-      "resumen": "El dictamen de la reforma al ISR fue votado en lo general y en lo particular con votos 77 votos a favor, 34 en contra y cero abstenciones.",
-      "link": "https://expansion.mx/economia/2026/10/27/senadores-automotriz-gasolineros-topes-deducciones-isr",
-      "fecha": "27 Oct 2026, 18:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Recorte a CFE para 2027 obedece a revisión de su gasto, explica Hacienda",
-      "resumen": "La subsecretaria de Egresos, Bertha Gómez Castro, se reunió con diputados de la Comisión de Presupuesto y Cuenta Pública como parte del proceso para la discusión y votación del presupuesto público par…",
-      "link": "https://expansion.mx/economia/2026/10/27/hacienda-recorte-cfe-2027-obedece-revision-gasto",
-      "fecha": "27 Oct 2026, 17:53 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +49,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "El súper peso y el menor consumo en Estados Unidos frenan los resultados de Chedraui",
-      "resumen": "La minorista reportó ventas por 70,356 millones de pesos en el tercer trimestre de 2026, una caída de 2% por la debilidad en EU y el efecto cambiario.",
-      "link": "https://expansion.mx/empresas/2026/10/27/chedraui-ventas-estados-unidos-presion-migratoria-super-peso",
-      "fecha": "27 Oct 2026, 19:22 hrs"
+      "titulo": "Afores obtienen más dinero vía comisiones mientras Consar vuelve a bajar la tasa de cobro para 2027",
+      "resumen": "La junta de Gobierno del organismo regulador informó que el año próximo se mantendrá la tendencia a la baja del cobro que se hace a los trabajadores, con un máximo de 0.53%.",
+      "link": "https://expansion.mx/economia/2026/10/26/afores-obtienen-mas-dinero-via-comisiones-mientras-consar-vuelve-a-bajar-la-tasa-de-cobro-para-2027",
+      "fecha": "26 Oct 2026, 14:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Leyes del Catastro y Economía Digital ayudan a recaudación pero faltan incentivos para formalidad, dicen economistas",
+      "resumen": "En vista de una economía que puede crecer hasta 2% en 2027, las políticas púbicas deben enfocarse en hacer más amigable la formalidad e incrementar la productividad de  micro, pequeñas y medianas empr…",
+      "link": "https://expansion.mx/economia/2026/10/26/leyes-predial-pagos-digitales-recaudacion-falta-formalidad",
+      "fecha": "26 Oct 2026, 13:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La banca en México perderá comisiones en cobros con tarjetas, pero ganará clientes con pagos digitales, dice Moody's",
+      "resumen": "Con la aprobación de la Ley de Economía Digital, la agencia considera que el ahorro en manejo de efectivo y mayor actividad con plásticos compensarán la reducción de cuotas de intercambio.",
+      "link": "https://expansion.mx/economia/2026/10/26/bancos-pagos-digitales-menos-comisiones-mas-clientes-moodys",
+      "fecha": "26 Oct 2026, 12:03 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,58 +138,67 @@
       "fecha": "26 Oct 2026, 16:26 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inician negociaciones con India para un Acuerdo Preferencial",
-      "resumen": "México e India arrancan negociaciones de un Acuerdo de Comercio Preferencial con el que buscan mejorar vínculos y negocios entre los países.",
-      "link": "https://www.reforma.com/inician-negociaciones-con-india-para-un-acuerdo-preferencial/ar3303549",
-      "fecha": "28 Oct 2026, 10:56 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Olinia quiere hacer el auto eléctrico mexicano, pero una marca china ya presume su sello de \"Hecho en México\"",
+      "resumen": "Olinia busca desarrollar un auto eléctrico accesible y una cadena de proveeduría nacional, mientras JAC ya ensambla vehículos en Hidalgo.",
+      "link": "https://expansion.mx/empresas/2026/10/26/olinia-auto-electrico-marca-china-presume-sello-hecho-mexico",
+      "fecha": "26 Oct 2026, 15:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revelan retos internos para cumplir con T-MEC",
-      "resumen": "El cumplimiento de las reglas de origen en sectores como el automotriz va más allá de las mercancías que cruzan la aduana hacia EU.",
-      "link": "https://www.reforma.com/revelan-retos-internos-para-cumplir-con-t-mec/ar3303273",
-      "fecha": "28 Oct 2026, 07:03 hrs"
+      "titulo": "Reducir déficit fiscal es la prioridad del Gobierno.-SHCP",
+      "resumen": "La prioridad del Gobierno es reducir el déficit fiscal al mantener la deuda en una trayectoria estable hacia el futuro, según la SHCP.",
+      "link": "https://www.reforma.com/reducir-deficit-fiscal-es-la-prioridad-del-gobierno-shcp/ar3303593",
+      "fecha": "28 Oct 2026, 12:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén suba a 80% importación de maíz",
-      "resumen": "Dependencia de las importaciones de maíz seguirá en aumento y podría llegar a cubrir más del 80% de la demanda nacional, advierte CNA.",
-      "link": "https://www.reforma.com/preven-suba-a-80-importacion-de-maiz/ar3303227",
-      "fecha": "28 Oct 2026, 05:01 hrs"
+      "titulo": "Analiza CFE, todavía, proyectos mixtos",
+      "resumen": "A nueve meses de su convocatoria para construir centrales con la iniciativa privada, CFE aún analiza los proyectos para firmar contratos.",
+      "link": "https://www.reforma.com/analiza-cfe-todavia-proyectos-mixtos/ar3303765",
+      "fecha": "28 Oct 2026, 15:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen México aplicar IA para mantener liderazgo",
-      "resumen": "México debe priorizar la aplicación de modelos de IA en lugar de competir con Estados Unidos, considera Umesh Ramakrishnan.",
-      "link": "https://www.reforma.com/urgen-mexico-aplicar-ia-para-mantener-liderazgo/ar3303233",
-      "fecha": "28 Oct 2026, 05:01 hrs"
+      "titulo": "Promueven a inversionistas globales estímulos de Plan México",
+      "resumen": "SHCP fomentó ante inversionistas globales incentivos fiscales del Plan México y tratamiento preferencial para repatriación de capitales.",
+      "link": "https://www.reforma.com/promueven-a-inversionistas-globales-estimulos-de-plan-mexico/ar3303580",
+      "fecha": "28 Oct 2026, 11:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frena EU licencias de carga",
-      "resumen": "La expedición de licencias internacionales para operadores del autotransporte federal de carga cayó 48.3% anual en agosto.",
-      "link": "https://www.reforma.com/frena-eu-licencias-de-carga/ar3303204",
-      "fecha": "28 Oct 2026, 05:01 hrs"
+      "titulo": "Debe México pedir piso parejo en mecanismo laboral",
+      "resumen": "México aún no puede cuestionar casos de violaciones laborales de connacionales en EU bajo el mecanismo laboral de respuesta rápida.",
+      "link": "https://www.reforma.com/debe-mexico-pedir-piso-parejo-en-mecanismo-laboral/ar3303829",
+      "fecha": "28 Oct 2026, 16:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Usan apps y biometría para registro electrónico",
-      "resumen": "En los países más avanzados en la reducción de la jornada laboral impulsan aplicaciones móviles y herramientas biométricas.",
-      "link": "https://www.reforma.com/usan-apps-y-biometria-para-registro-electronico/ar3303307",
-      "fecha": "28 Oct 2026, 07:03 hrs"
+      "titulo": "Ya estamos cerca del objetivo de 3% en inflación.- Banxico",
+      "resumen": "Galia Borja, subgobernadora del Banco de México, aseveró que el proceso desinflacionario ya está más cerca del objetivo de 3 por ciento.",
+      "link": "https://www.reforma.com/ya-estamos-cerca-del-objetivo-de-3-en-inflacion-banxico/ar3303613",
+      "fecha": "28 Oct 2026, 12:22 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Mantiene Fed tasas sin cambios",
+      "resumen": "La Reserva Federal decidió mantener las tasas de interés estables, en el rango de 3.75%-4%, a pesar de que la inflación se mantine elevada.",
+      "link": "https://www.reforma.com/mantiene-fed-tasas-sin-cambios/ar3303598",
+      "fecha": "28 Oct 2026, 12:09 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta 12.9% flujo operativo de Femsa en tercer trimestre",
-      "resumen": "Femsa anunció un aumento de 12.9% en su flujo del tercer trimestre, que alcanzó los 34 mil 833 mdp, mientras que la utilidad se disparó 81%.",
-      "link": "https://www.reforma.com/aumenta-12-9-flujo-operativo-de-femsa-en-tercer-trimestre/ar3303455",
-      "fecha": "28 Oct 2026, 08:13 hrs"
+      "titulo": "Anticipa Comce 30% más exportaciones en 2026",
+      "resumen": "Entre retos por la revisión del T-MEC y oportunidades por la IA, el Comce prevé un alza del 30% en las exportaciones del 2026.",
+      "link": "https://www.reforma.com/anticipa-comce-30-mas-exportaciones-en-2026/ar3303619",
+      "fecha": "28 Oct 2026, 12:34 hrs"
     }
   ]
 }
