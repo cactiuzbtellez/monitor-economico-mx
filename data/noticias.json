@@ -1,43 +1,7 @@
 {
-  "actualizado": "29/10/2026 03:25 hrs",
+  "actualizado": "29/10/2026 10:37 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
-      "resumen": "La ABM prevé una implementación ordenada de la Ley de Economía Digital para el cobro de impuestos y servicios además de disminuir el uso del efectivo.",
-      "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
-      "fecha": "28 Oct 2026, 19:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Más controles y más ventas, las exigencias del agro de EU que se suman para México en el T-MEC",
-      "resumen": "De las inspecciones en huertas a las garantías de pago, productores y exportadores buscan cambiar las condiciones del comercio con México.",
-      "link": "https://expansion.mx/economia/2026/10/28/agro-eu-pide-mas-controles-mexico-t-mec",
-      "fecha": "28 Oct 2026, 18:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
-      "resumen": "Ante el temor de mayores costos por la Ley de Economía Digital, Ebrard defendió los cobros electrónicos y planteó incorporar a otro millón de pequeños negocios.",
-      "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
-      "fecha": "28 Oct 2026, 16:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Comce eleva proyección para 2026; el boom exportador de México apunta a más de 800,000 mdd",
-      "resumen": "Las ventas al exterior aceleran, pero Comce pide que cada nueva inversión abra espacio a más empresas mexicanas.",
-      "link": "https://expansion.mx/economia/2026/10/28/comce-exportaciones-mexico-pronostico-2026-800000-mdd",
-      "fecha": "28 Oct 2026, 12:21 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,21 +40,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La falta de reglas claras para importar carne brasileña pone en vilo los planes de la industria mexicana",
-      "resumen": "El cambio al mecanismo de asignación de cupos retrasó las importaciones de carne de res y cerdo en 2026. La industria pide reglas claras para 2027 ante el riesgo de mayores costos y dificultades de ab…",
-      "link": "https://expansion.mx/empresas/2026/10/28/cupos-importacion-carne-brasil-mexico-productores-costos",
-      "fecha": "28 Oct 2026, 14:40 hrs"
+      "titulo": "Senadores blindan a sector automotriz y gasolineros de topes a deducciones, reforma al ISR regresa a Diputados",
+      "resumen": "El dictamen de la reforma al ISR fue votado en lo general y en lo particular con votos 77 votos a favor, 34 en contra y cero abstenciones.",
+      "link": "https://expansion.mx/economia/2026/10/27/senadores-automotriz-gasolineros-topes-deducciones-isr",
+      "fecha": "27 Oct 2026, 18:34 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Los otros negocios de Arturo Elías Ayub más allá de Slim: sus vínculos con Germán Larrea, KUO y Grupo Gigante",
-      "resumen": "Su trayectoria empresarial incluye puestos en órganos de gobierno corporativo de compañías con intereses en industrias que van de la minería al comercio y los bienes raíces.",
-      "link": "https://expansion.mx/empresas/2026/10/28/arturo-elias-ayub-negocios-fuera-del-grupo-slim",
-      "fecha": "28 Oct 2026, 11:54 hrs"
+      "titulo": "Recorte a CFE para 2027 obedece a revisión de su gasto, explica Hacienda",
+      "resumen": "La subsecretaria de Egresos, Bertha Gómez Castro, se reunió con diputados de la Comisión de Presupuesto y Cuenta Pública como parte del proceso para la discusión y votación del presupuesto público par…",
+      "link": "https://expansion.mx/economia/2026/10/27/hacienda-recorte-cfe-2027-obedece-revision-gasto",
+      "fecha": "27 Oct 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El seguro médico sube de precio, pero empresas buscan mantener la prestación a sus colaboradores",
+      "resumen": "En México, 70% del seguro de gastos médicos mayores es contratado por empresas, con lo que se trata de uno de los beneficios más valorado por los trabajadores",
+      "link": "https://expansion.mx/economia/2026/10/27/el-seguro-medico-sube-de-precio-pero-empresas-buscan-mantener-la-prestacion-a-sus-colaboradores",
+      "fecha": "27 Oct 2026, 17:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
+      "resumen": "Un Congreso con mayor presencia demócrata vigilaría más los aranceles, pero el presidente estadounidense conservaría amplias facultades comerciales.",
+      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
+      "fecha": "27 Oct 2026, 09:02 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +129,94 @@
       "fecha": "27 Oct 2026, 11:47 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aceptan trabajadores de Volkswagen incremento de 8.24%",
-      "resumen": "Trabajadores de Volkswagen Puebla aceptaron un incremento global de 8.24 por ciento, con lo cual evitaron el estallido de una huelga.",
-      "link": "https://www.reforma.com/aceptan-trabajadores-de-volkswagen-incremento-de-8-24/ar3304061",
-      "fecha": "28 Oct 2026, 20:24 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
+      "resumen": "La marca rusa apuesta por franquicias, herramientas digitales y locales compactos para competir con empresas ya posicionadas en el mercado mexicano de pizzas.",
+      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
+      "fecha": "26 Oct 2026, 19:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
+      "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
+      "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
+      "fecha": "26 Oct 2026, 18:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reportan fallas en Totalplay e Izzi",
-      "resumen": "Usuarios reportan fallas en sus servicios de telefonía e internet de Totalplay e Izzi.",
-      "link": "https://www.reforma.com/reportan-fallas-en-totalplay-e-izzi/ar3304050",
-      "fecha": "28 Oct 2026, 20:14 hrs"
+      "titulo": "Pierde 4T al refinar 1.4 billones de pesos",
+      "resumen": "Durante los gobiernos de la 4T, Pemex Transformación Industrial (TRI) acumula una pérdida de 1.4 billones de pesos.",
+      "link": "https://www.reforma.com/pierde-4t-al-refinar-1-4-billones-de-pesos/ar3304123",
+      "fecha": "29 Oct 2026, 07:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan derrama económica de 235 mil mdp por el Buen Fin",
-      "resumen": "Concanaco Servytur estimó que en el próximo Buen Fin habrá una derrama económica de 235 mil millones de pesos; cifra 7.3% mayor a 2025.",
-      "link": "https://www.reforma.com/esperan-derrama-economica-de-235-mil-mdp-por-el-buen-fin/ar3304035",
-      "fecha": "28 Oct 2026, 19:49 hrs"
+      "titulo": "Busca Vitro  deslistarse de BMV",
+      "resumen": "Vitro convoca a sus accionistas a una asamblea extraordinaria para discutir, y en su caso aprobar, el desliste de sus acciones de la BMV.",
+      "link": "https://www.reforma.com/busca-vitro-deslistarse-de-bmv/ar3304358",
+      "fecha": "29 Oct 2026, 10:24 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Calculan impacto a 70 mil empleos por tope a deducciones",
-      "resumen": "AMDA estimó en 70 mil los empleos afectados de las agencias automotrices por tope a deducciones aprobado en la Miscelánea Fiscal de 2027.",
-      "link": "https://www.reforma.com/calculan-impacto-a-70-mil-empleos-por-tope-a-deducciones/ar3304020",
-      "fecha": "28 Oct 2026, 19:28 hrs"
+      "titulo": "Vende Carlos Slim acciones de petroleras por 1,150 mdd",
+      "resumen": "Carlos Slim ha acelerado la venta de acciones de PBF Energy y Talos Energy durante octubre, aprovechando el repunte de los precios del crudo",
+      "link": "https://www.reforma.com/vende-carlos-slim-acciones-de-petroleras-por-1-150-mdd/ar3304315",
+      "fecha": "29 Oct 2026, 09:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Financia banca a 28 mil mipymes nuevas por Plan México",
-      "resumen": "La cobertura de crédito a micro, pequeñas y medianas empresas (mipymes) ya alcanza el 28.3 por ciento de la meta, reportó ABM.",
-      "link": "https://www.reforma.com/financia-banca-a-28-mil-mipymes-nuevas-por-plan-mexico/ar3303988",
-      "fecha": "28 Oct 2026, 18:54 hrs"
+      "titulo": "Llaman a negociar sin precipitaciones",
+      "resumen": "Urgen a negociadores mexicanos del T-MEC a no apresurarse en tener un arancel preferencial, porque después será difícil darle reversa.",
+      "link": "https://www.reforma.com/llaman-a-negociar-sin-precipitaciones/ar3304156",
+      "fecha": "29 Oct 2026, 07:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta AL retos gigantescos de desarrollo.-CAF",
-      "resumen": "América Latina enfrenta 'retos gigantescos' de desarrollo con una economía informal que ronda 50 por ciento, manifestó CAF.",
-      "link": "https://www.reforma.com/enfrenta-al-retos-gigantescos-de-desarrollo-caf/ar3303970",
-      "fecha": "28 Oct 2026, 18:39 hrs"
+      "titulo": "Caen acciones de Becle un 12% tras débil reporte trimestral",
+      "resumen": "Las acciones de la tequilera mexicana Becle cayeron más de 13% y fueron suspendidas brevemente en la BMV, tras débil informe trimestral.",
+      "link": "https://www.reforma.com/caen-acciones-de-becle-un-12-tras-debil-reporte-trimestral/ar3304298",
+      "fecha": "29 Oct 2026, 08:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Disfrazar la relación laboral",
-      "resumen": "Uno de los riesgos más grandes muy comunes, en los centros de trabajo es disfrazar las verdaderas relaciones laborales bajo otras figuras.",
-      "link": "https://www.reforma.com/disfrazar-la-relacion-laboral/ar3303268",
-      "fecha": "28 Oct 2026, 07:03 hrs"
+      "titulo": "Se acelera crecimiento de EU a 3.4% en el tercer trimestre",
+      "resumen": "El Producto Interno Bruto de Estados Unidos creció a una tasa anualizada del 3.4% el último trimestre, más de lo esperado.",
+      "link": "https://www.reforma.com/se-acelera-crecimiento-de-eu-a-3-4-en-el-tercer-trimestre/ar3304273",
+      "fecha": "29 Oct 2026, 07:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen 85% ganancias de José Cuervo en tercer trimestre",
-      "resumen": "Becle, matriz de José Cuervo, reportó una caída de 85% en su utilidad del tercer trimestre de 2026 debido a la apreciación del peso.",
-      "link": "https://www.reforma.com/caen-85-ganancias-de-jose-cuervo-en-tercer-trimestre/ar3303924",
-      "fecha": "28 Oct 2026, 18:14 hrs"
+      "titulo": "Amenaza retraso de permisos T1 operación de SHein en México",
+      "resumen": "Shein advierte que la demora en la renovación de un permiso clave para sus envíos en México amenaza sus operaciones en el país.",
+      "link": "https://www.reforma.com/amenaza-retraso-de-permisos-t1-operacion-de-shein-en-mexico/ar3304320",
+      "fecha": "29 Oct 2026, 09:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "CEO de Nvidia habría sido objetivo de espionaje chino.- NYT",
+      "resumen": "La empresaria china Alice Huang, que mantenía una estrecha relación con Jensen Huang, estaba filtrando información a Pekín, según el NYT.",
+      "link": "https://www.reforma.com/ceo-de-nvidia-habria-sido-objetivo-de-espionaje-chino-nyt/ar3304302",
+      "fecha": "29 Oct 2026, 08:48 hrs"
     }
   ]
 }
