@@ -1,7 +1,43 @@
 {
-  "actualizado": "29/10/2026 10:37 hrs",
+  "actualizado": "29/10/2026 15:33 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
+      "resumen": "La ABM prevé una implementación ordenada de la Ley de Economía Digital para el cobro de impuestos y servicios además de disminuir el uso del efectivo.",
+      "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
+      "fecha": "28 Oct 2026, 19:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más controles y más ventas, las exigencias del agro de EU que se suman para México en el T-MEC",
+      "resumen": "De las inspecciones en huertas a las garantías de pago, productores y exportadores buscan cambiar las condiciones del comercio con México.",
+      "link": "https://expansion.mx/economia/2026/10/28/agro-eu-pide-mas-controles-mexico-t-mec",
+      "fecha": "28 Oct 2026, 18:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
+      "resumen": "Ante el temor de mayores costos por la Ley de Economía Digital, Ebrard defendió los cobros electrónicos y planteó incorporar a otro millón de pequeños negocios.",
+      "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
+      "fecha": "28 Oct 2026, 16:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Comce eleva proyección para 2026; el boom exportador de México apunta a más de 800,000 mdd",
+      "resumen": "Las ventas al exterior aceleran, pero Comce pide que cada nueva inversión abra espacio a más empresas mexicanas.",
+      "link": "https://expansion.mx/economia/2026/10/28/comce-exportaciones-mexico-pronostico-2026-800000-mdd",
+      "fecha": "28 Oct 2026, 12:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,57 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Senadores blindan a sector automotriz y gasolineros de topes a deducciones, reforma al ISR regresa a Diputados",
-      "resumen": "El dictamen de la reforma al ISR fue votado en lo general y en lo particular con votos 77 votos a favor, 34 en contra y cero abstenciones.",
-      "link": "https://expansion.mx/economia/2026/10/27/senadores-automotriz-gasolineros-topes-deducciones-isr",
-      "fecha": "27 Oct 2026, 18:34 hrs"
+      "titulo": "Renault renueva el Kwid y cambia de fábrica para mantener su precio en México",
+      "resumen": "Kwid ahora será importado desde Colombia en lugar de Brasil, un cambio que permitirá a Renault reducir costos logísticos y mantener el precio del modelo.",
+      "link": "https://expansion.mx/empresas/2026/10/28/renault-renueva-kwid-precio",
+      "fecha": "28 Oct 2026, 20:29 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Recorte a CFE para 2027 obedece a revisión de su gasto, explica Hacienda",
-      "resumen": "La subsecretaria de Egresos, Bertha Gómez Castro, se reunió con diputados de la Comisión de Presupuesto y Cuenta Pública como parte del proceso para la discusión y votación del presupuesto público par…",
-      "link": "https://expansion.mx/economia/2026/10/27/hacienda-recorte-cfe-2027-obedece-revision-gasto",
-      "fecha": "27 Oct 2026, 17:53 hrs"
+      "titulo": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
+      "resumen": "La experiencia de Taco Bell mostró que una marca estadounidense no tiene garantizado el éxito por ofrecer comida inspirada en sabores mexicanos.",
+      "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
+      "fecha": "28 Oct 2026, 19:52 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El seguro médico sube de precio, pero empresas buscan mantener la prestación a sus colaboradores",
-      "resumen": "En México, 70% del seguro de gastos médicos mayores es contratado por empresas, con lo que se trata de uno de los beneficios más valorado por los trabajadores",
-      "link": "https://expansion.mx/economia/2026/10/27/el-seguro-medico-sube-de-precio-pero-empresas-buscan-mantener-la-prestacion-a-sus-colaboradores",
-      "fecha": "27 Oct 2026, 17:21 hrs"
+      "titulo": "José Cuervo no logra atraer nuevos consumidores y sus ganancias se desploman 85% en el tercer trimestre",
+      "resumen": "La marca representó 35% del volumen total de Becle y 32.1% de sus ventas netas, por lo que su desempeño tuvo un peso relevante en los resultados consolidados.",
+      "link": "https://expansion.mx/empresas/2026/10/28/jose-cuervo-caida-ganancias-tercer-trimestre-2026",
+      "fecha": "28 Oct 2026, 18:24 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Las elecciones de EU pueden cambiar la negociación del T-MEC, pero no el poder de Trump",
-      "resumen": "Un Congreso con mayor presencia demócrata vigilaría más los aranceles, pero el presidente estadounidense conservaría amplias facultades comerciales.",
-      "link": "https://expansion.mx/economia/2026/10/27/t-mec-elecciones-eu-que-cambia-para-mexico",
-      "fecha": "27 Oct 2026, 09:02 hrs"
+      "titulo": "Cuando Checo Pérez soñaba con la F1, Carlos Slim Domit creyó en él; hoy el piloto lo llama su “segundo padre”",
+      "resumen": "El apoyo de Escudería Telmex fue clave para que el mexicano compitiera en Europa, superara obstáculos económicos y abriera camino hacia las grandes escuderías.",
+      "link": "https://expansion.mx/empresas/2026/10/28/carlos-slim-domit-el-segundo-padre-de-checo-perez",
+      "fecha": "28 Oct 2026, 17:07 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La falta de reglas claras para importar carne brasileña pone en vilo los planes de la industria mexicana",
+      "resumen": "El cambio al mecanismo de asignación de cupos retrasó las importaciones de carne de res y cerdo en 2026. La industria pide reglas claras para 2027 ante el riesgo de mayores costos y dificultades de ab…",
+      "link": "https://expansion.mx/empresas/2026/10/28/cupos-importacion-carne-brasil-mexico-productores-costos",
+      "fecha": "28 Oct 2026, 14:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los otros negocios de Arturo Elías Ayub más allá de Slim: sus vínculos con Germán Larrea, KUO y Grupo Gigante",
+      "resumen": "Su trayectoria empresarial incluye puestos en órganos de gobierno corporativo de compañías con intereses en industrias que van de la minería al comercio y los bienes raíces.",
+      "link": "https://expansion.mx/empresas/2026/10/28/arturo-elias-ayub-negocios-fuera-del-grupo-slim",
+      "fecha": "28 Oct 2026, 11:54 hrs"
     },
     {
       "fuente": "Expansión",
@@ -93,112 +147,58 @@
       "fecha": "27 Oct 2026, 19:22 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Walmart mantiene precios bajos para atraer clientes, pero la estrategia presiona sus resultados",
-      "resumen": "El programa Precios que No se Tocan mantuvo los precios de 4,000 productos esenciales durante 90 días, pero los gastos generales en México aumentaron 6.4% y la utilidad operativa disminuyó 2.6%.",
-      "link": "https://expansion.mx/empresas/2026/10/27/walmart-reporte-trimestral-ganancias-2026",
-      "fecha": "27 Oct 2026, 16:19 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim compró una minera hace 40 años y hoy tiene un negocio de oro y plata que factura 14,056 mdp al año",
-      "resumen": "La minera produce oro y plata, pero también depende de metales industriales como el cobre y el zinc. Sus resultados recientes reflejan el peso de los precios y del volumen procesado en sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/10/27/carlos-slim-minera-frisco-cuanto-oro-y-plata-produce",
-      "fecha": "27 Oct 2026, 15:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Que el diésel esté caro es una mala noticia para tu bolsillo, aunque no tengas auto",
-      "resumen": "Los estímulos fiscales de Hacienda buscan contener el precio del diésel, pero no garantizan que los alimentos, los materiales de construcción y otros productos bajen cuando disminuyan los costos del c…",
-      "link": "https://expansion.mx/empresas/2026/10/27/diesel-caro-mala-noticia-bolsillo-precios-productos",
-      "fecha": "27 Oct 2026, 15:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "L'Oréal Groupe México destaca el movimiento refill en la Semana de México por el Clima",
-      "resumen": "Durante la segunda edición de México por el clima, la empresa abordó su perspectiva de cómo el liderazgo, la innovación y la economía circular pueden ayudar a modificar las industrias y los patrones d…",
-      "link": "https://expansion.mx/empresas/2026/10/27/loreal-destaca-movimiento-refill-semana-mexico-por-clima",
-      "fecha": "27 Oct 2026, 11:47 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Quién es dueño de Dodo Pizza, la cadena rusa que quiere quitarle clientes a Little Caesars y Domino's en México?",
-      "resumen": "La marca rusa apuesta por franquicias, herramientas digitales y locales compactos para competir con empresas ya posicionadas en el mercado mexicano de pizzas.",
-      "link": "https://expansion.mx/empresas/2026/10/26/quien-dueno-dodo-pizza-cadena-rusa-little-caesars-dominos",
-      "fecha": "26 Oct 2026, 19:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nu y Smart Fit conquistan México mientras Slim conecta a 90 millones de personas con su negocio estrella en Brasil",
-      "resumen": "Cinco empresas brasileñas figuran entre las 500 más importantes de México, mientras firmas mexicanas mantienen operaciones en telecomunicaciones, bebidas, panificación y tecnología en Brasil.",
-      "link": "https://expansion.mx/empresas/2026/10/26/nu-slim-y-las-empresas-que-conectan-mexico-y-brasil",
-      "fecha": "26 Oct 2026, 18:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde CFE  23 mil mdp  en trimestre",
+      "resumen": "CFE reportó una pérdida neta de 23 mil 310 millones de pesos en el tercer trimestre de 2026 y la utilidad neta a septiembre cayó 80.5%.",
+      "link": "https://www.reforma.com/pierde-cfe-23-mil-mdp-en-trimestre/ar3304608",
+      "fecha": "29 Oct 2026, 15:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde 4T al refinar 1.4 billones de pesos",
-      "resumen": "Durante los gobiernos de la 4T, Pemex Transformación Industrial (TRI) acumula una pérdida de 1.4 billones de pesos.",
-      "link": "https://www.reforma.com/pierde-4t-al-refinar-1-4-billones-de-pesos/ar3304123",
-      "fecha": "29 Oct 2026, 07:14 hrs"
+      "titulo": "Acumula Trion inversión de 7,200 mdd este año",
+      "resumen": "Este año, la inversión acumulada en el proyecto Trion fue de 7 mil 200 mdd; cerca del 70% de la estimación total, según Woodside Energy.",
+      "link": "https://www.reforma.com/acumula-trion-inversion-de-7-200-mdd-este-ano/ar3304528",
+      "fecha": "29 Oct 2026, 14:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Vitro  deslistarse de BMV",
+      "titulo": "Pegan bloqueos en transporte de alimentos a EU",
+      "resumen": "Bloqueos en Tamaulipas ponen en riesgo la cadena logística de hortalizas a EU, advirtió Grupo Consultor de Mercados Agrícolas (GCMA).",
+      "link": "https://www.reforma.com/pegan-bloqueos-en-transporte-de-alimentos-a-eu/ar3304624",
+      "fecha": "29 Oct 2026, 15:14 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reporta Televisa ganancia de 49 mdd en tercer trimestre",
+      "resumen": "Grupo Televisa reportó una ganancia de 882.7 millones de pesos o 48.82 millones de dólares en el tercer trimestre de 2026.",
+      "link": "https://www.reforma.com/reporta-televisa-ganancia-de-49-mdd-en-tercer-trimestre/ar3304593",
+      "fecha": "29 Oct 2026, 14:54 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Destacan que inseguridad  complica atracción de capitales",
+      "resumen": "La inseguridad y delincuencia obstaculizan que el País atraiga capital, dijo Bill Ackman, fundador de Pershing Square Capital Management.",
+      "link": "https://www.reforma.com/destacan-que-inseguridad-complica-atraccion-de-capitales/ar3304409",
+      "fecha": "29 Oct 2026, 11:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Vitro deslistarse de BMV",
       "resumen": "Vitro convoca a sus accionistas a una asamblea extraordinaria para discutir, y en su caso aprobar, el desliste de sus acciones de la BMV.",
       "link": "https://www.reforma.com/busca-vitro-deslistarse-de-bmv/ar3304358",
       "fecha": "29 Oct 2026, 10:24 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Vende Carlos Slim acciones de petroleras por 1,150 mdd",
-      "resumen": "Carlos Slim ha acelerado la venta de acciones de PBF Energy y Talos Energy durante octubre, aprovechando el repunte de los precios del crudo",
-      "link": "https://www.reforma.com/vende-carlos-slim-acciones-de-petroleras-por-1-150-mdd/ar3304315",
-      "fecha": "29 Oct 2026, 09:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Llaman a negociar sin precipitaciones",
-      "resumen": "Urgen a negociadores mexicanos del T-MEC a no apresurarse en tener un arancel preferencial, porque después será difícil darle reversa.",
-      "link": "https://www.reforma.com/llaman-a-negociar-sin-precipitaciones/ar3304156",
-      "fecha": "29 Oct 2026, 07:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de Becle un 12% tras débil reporte trimestral",
-      "resumen": "Las acciones de la tequilera mexicana Becle cayeron más de 13% y fueron suspendidas brevemente en la BMV, tras débil informe trimestral.",
-      "link": "https://www.reforma.com/caen-acciones-de-becle-un-12-tras-debil-reporte-trimestral/ar3304298",
-      "fecha": "29 Oct 2026, 08:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se acelera crecimiento de EU a 3.4% en el tercer trimestre",
-      "resumen": "El Producto Interno Bruto de Estados Unidos creció a una tasa anualizada del 3.4% el último trimestre, más de lo esperado.",
-      "link": "https://www.reforma.com/se-acelera-crecimiento-de-eu-a-3-4-en-el-tercer-trimestre/ar3304273",
-      "fecha": "29 Oct 2026, 07:32 hrs"
     },
     {
       "fuente": "Reforma",
