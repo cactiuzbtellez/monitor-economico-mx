@@ -1,5 +1,5 @@
 {
-  "actualizado": "28/10/2026 20:08 hrs",
+  "actualizado": "29/10/2026 03:25 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,33 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
-      "resumen": "La experiencia de Taco Bell mostró que una marca estadounidense no tiene garantizado el éxito por ofrecer comida inspirada en sabores mexicanos.",
-      "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
-      "fecha": "28 Oct 2026, 19:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "José Cuervo no logra atraer nuevos consumidores y sus ganancias se desploman 85% en el tercer trimestre",
-      "resumen": "La marca representó 35% del volumen total de Becle y 32.1% de sus ventas netas, por lo que su desempeño tuvo un peso relevante en los resultados consolidados.",
-      "link": "https://expansion.mx/empresas/2026/10/28/jose-cuervo-caida-ganancias-tercer-trimestre-2026",
-      "fecha": "28 Oct 2026, 18:24 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cuando Checo Pérez soñaba con la F1, Carlos Slim Domit creyó en él; hoy el piloto lo llama su “segundo padre”",
-      "resumen": "El apoyo de Escudería Telmex fue clave para que el mexicano compitiera en Europa, superara obstáculos económicos y abriera camino hacia las grandes escuderías.",
-      "link": "https://expansion.mx/empresas/2026/10/28/carlos-slim-domit-el-segundo-padre-de-checo-perez",
-      "fecha": "28 Oct 2026, 17:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "La falta de reglas claras para importar carne brasileña pone en vilo los planes de la industria mexicana",
       "resumen": "El cambio al mecanismo de asignación de cupos retrasó las importaciones de carne de res y cerdo en 2026. La industria pide reglas claras para 2027 ante el riesgo de mayores costos y dificultades de ab…",
       "link": "https://expansion.mx/empresas/2026/10/28/cupos-importacion-carne-brasil-mexico-productores-costos",
@@ -147,6 +120,51 @@
       "fecha": "27 Oct 2026, 16:19 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim compró una minera hace 40 años y hoy tiene un negocio de oro y plata que factura 14,056 mdp al año",
+      "resumen": "La minera produce oro y plata, pero también depende de metales industriales como el cobre y el zinc. Sus resultados recientes reflejan el peso de los precios y del volumen procesado en sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/10/27/carlos-slim-minera-frisco-cuanto-oro-y-plata-produce",
+      "fecha": "27 Oct 2026, 15:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Que el diésel esté caro es una mala noticia para tu bolsillo, aunque no tengas auto",
+      "resumen": "Los estímulos fiscales de Hacienda buscan contener el precio del diésel, pero no garantizan que los alimentos, los materiales de construcción y otros productos bajen cuando disminuyan los costos del c…",
+      "link": "https://expansion.mx/empresas/2026/10/27/diesel-caro-mala-noticia-bolsillo-precios-productos",
+      "fecha": "27 Oct 2026, 15:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "L'Oréal Groupe México destaca el movimiento refill en la Semana de México por el Clima",
+      "resumen": "Durante la segunda edición de México por el clima, la empresa abordó su perspectiva de cómo el liderazgo, la innovación y la economía circular pueden ayudar a modificar las industrias y los patrones d…",
+      "link": "https://expansion.mx/empresas/2026/10/27/loreal-destaca-movimiento-refill-semana-mexico-por-clima",
+      "fecha": "27 Oct 2026, 11:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aceptan trabajadores de Volkswagen incremento de 8.24%",
+      "resumen": "Trabajadores de Volkswagen Puebla aceptaron un incremento global de 8.24 por ciento, con lo cual evitaron el estallido de una huelga.",
+      "link": "https://www.reforma.com/aceptan-trabajadores-de-volkswagen-incremento-de-8-24/ar3304061",
+      "fecha": "28 Oct 2026, 20:24 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reportan fallas en Totalplay e Izzi",
+      "resumen": "Usuarios reportan fallas en sus servicios de telefonía e internet de Totalplay e Izzi.",
+      "link": "https://www.reforma.com/reportan-fallas-en-totalplay-e-izzi/ar3304050",
+      "fecha": "28 Oct 2026, 20:14 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -186,24 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen 85% ganancias de José Cuervo en tercer trimestre",
-      "resumen": "Becle, matriz de José Cuervo, reportó una caída de 85% en su utilidad del tercer trimestre de 2026 debido a la apreciación del peso.",
-      "link": "https://www.reforma.com/caen-85-ganancias-de-jose-cuervo-en-tercer-trimestre/ar3303924",
-      "fecha": "28 Oct 2026, 18:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Consideran un reto alcanzar meta en generación eléctrica",
-      "resumen": "Para Rodrigo Esparza, director de eva, la meta de generación de energía eléctrica del Gobierno será todo un desafío.",
-      "link": "https://www.reforma.com/consideran-un-reto-alcanzar-meta-en-generacion-electrica/ar3303880",
-      "fecha": "28 Oct 2026, 18:14 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Disfrazar la relación laboral",
       "resumen": "Uno de los riesgos más grandes muy comunes, en los centros de trabajo es disfrazar las verdaderas relaciones laborales bajo otras figuras.",
       "link": "https://www.reforma.com/disfrazar-la-relacion-laboral/ar3303268",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Debe México pedir piso parejo en mecanismo laboral",
-      "resumen": "México aún no puede cuestionar casos de violaciones laborales de connacionales en EU bajo el mecanismo laboral de respuesta rápida.",
-      "link": "https://www.reforma.com/debe-mexico-pedir-piso-parejo-en-mecanismo-laboral/ar3303829",
-      "fecha": "28 Oct 2026, 16:02 hrs"
+      "titulo": "Caen 85% ganancias de José Cuervo en tercer trimestre",
+      "resumen": "Becle, matriz de José Cuervo, reportó una caída de 85% en su utilidad del tercer trimestre de 2026 debido a la apreciación del peso.",
+      "link": "https://www.reforma.com/caen-85-ganancias-de-jose-cuervo-en-tercer-trimestre/ar3303924",
+      "fecha": "28 Oct 2026, 18:14 hrs"
     }
   ]
 }
