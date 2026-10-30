@@ -1,7 +1,25 @@
 {
-  "actualizado": "30/10/2026 09:34 hrs",
+  "actualizado": "30/10/2026 14:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La aduana de Colombia abre espacio para un nuevo polo industrial en Nuevo León",
+      "resumen": "Samuel García quiere aprovechar la conexión con Texas y la revisión conjunta de mercancías para atraer más actividad empresarial.",
+      "link": "https://expansion.mx/economia/2026/10/29/nuevo-leon-aduana-colombia-polo-industrial",
+      "fecha": "29 Oct 2026, 15:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Las fábricas que exportan desde México quieren nuevas reglas para competir y atraer inversiones",
+      "resumen": "Index alista una propuesta para Sheinbaum y actualizar el IMMEX ante una manufactura que exige más tecnología y cadenas de producción más ágiles.",
+      "link": "https://expansion.mx/economia/2026/10/29/industria-exportadora-modernizacion-immex-4-0-mexico",
+      "fecha": "29 Oct 2026, 13:09 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,60 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿Aún conviene la Modalidad 40 del IMSS tras los cambios si estoy en trámite para jubilarme?",
-      "resumen": "Expertos consultados por Expansión coinciden en que la Modalidad 40 aún es viable aunque los cambios sí impactarán al reducir el monto de pensión al momento del retiro",
-      "link": "https://expansion.mx/economia/2026/10/28/aun-conviene-la-modalidad-40-del-imss-tras-los-cambios-si-estoy-en-tramite-para-jubilarme",
-      "fecha": "28 Oct 2026, 09:41 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "La Ley de Economía Digital abre una batalla legal por las facultades de Hacienda",
-      "resumen": "Expertos advierten que la ley daría a la SHCP margen para decidir quién puede usar efectivo en México. Banamex señala los retos de conectividad para pequeños comercios y de ciberseguridad.",
-      "link": "https://expansion.mx/economia/2026/10/28/la-ley-de-economia-digital-abre-una-batalla-legal-por-las-facultades-de-hacienda",
-      "fecha": "28 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las agencias de autos tendrán que exprimir cada peso para sobrevivir al nuevo tope a las deducciones",
-      "resumen": "Los distribuidores deberán reducir costos, acelerar la rotación de inventarios y elevar los ingresos por posventa para absorber el impacto fiscal sin comprometer su operación. Aquellos que no lo logre…",
-      "link": "https://expansion.mx/empresas/2026/10/30/agencias-autos-rentabilidad-sobrevivir-tope-deducciones",
-      "fecha": "30 Oct 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Megacable aumenta 30% sus ganancias mientras reduce su planes de inversión en fibra óptica",
-      "resumen": "Tras años de fuertes inversiones en infraestructura, Megacable comienza a priorizar la rentabilidad y la consolidación de su negocio y desplazar a Televisa como el segundo operador de internet fijo.",
-      "link": "https://expansion.mx/empresas/2026/10/29/megacable-ganancias-reduce-inversion-fibra",
-      "fecha": "29 Oct 2026, 19:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Paleta Payaso, Carlos V y Pelón Pelo Rico ya no son mexicanos: los dulces de la calaverita que tienen dueño extranjero",
-      "resumen": "Ricolino, Grupo Lorena, Turín y La Azteca protagonizaron operaciones millonarias que transformaron el negocio de la confitería en México.",
-      "link": "https://expansion.mx/empresas/2026/10/29/dulces-de-la-calaverita-y-sus-duenos-extranjeros",
-      "fecha": "29 Oct 2026, 17:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Cómo Canelo Álvarez convirtió su éxito en el ring en negocios millonarios",
-      "resumen": "El campeón mexicano combina disciplina, visión y estrategia, demostrando que la fama y el talento se pueden transformar en un legado financiero duradero.",
-      "link": "https://expansion.mx/empresas/2026/10/29/canelo-alvarez-pelea-millones-empresas-fortuna",
-      "fecha": "29 Oct 2026, 17:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "CFE pierde 23,310 millones de pesos en el tercer trimestre por tipo de cambio y obligaciones laborales",
@@ -147,6 +111,60 @@
       "fecha": "29 Oct 2026, 09:16 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Renault renueva el Kwid y cambia de fábrica para mantener su precio en México",
+      "resumen": "Kwid ahora será importado desde Colombia en lugar de Brasil, un cambio que permitirá a Renault reducir costos logísticos y mantener el precio del modelo.",
+      "link": "https://expansion.mx/empresas/2026/10/28/renault-renueva-kwid-precio",
+      "fecha": "28 Oct 2026, 20:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
+      "resumen": "La experiencia de Taco Bell mostró que una marca estadounidense no tiene garantizado el éxito por ofrecer comida inspirada en sabores mexicanos.",
+      "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
+      "fecha": "28 Oct 2026, 19:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "José Cuervo no logra atraer nuevos consumidores y sus ganancias se desploman 85% en el tercer trimestre",
+      "resumen": "La marca representó 35% del volumen total de Becle y 32.1% de sus ventas netas, por lo que su desempeño tuvo un peso relevante en los resultados consolidados.",
+      "link": "https://expansion.mx/empresas/2026/10/28/jose-cuervo-caida-ganancias-tercer-trimestre-2026",
+      "fecha": "28 Oct 2026, 18:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Cuando Checo Pérez soñaba con la F1, Carlos Slim Domit creyó en él; hoy el piloto lo llama su “segundo padre”",
+      "resumen": "El apoyo de Escudería Telmex fue clave para que el mexicano compitiera en Europa, superara obstáculos económicos y abriera camino hacia las grandes escuderías.",
+      "link": "https://expansion.mx/empresas/2026/10/28/carlos-slim-domit-el-segundo-padre-de-checo-perez",
+      "fecha": "28 Oct 2026, 17:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Sin estímulo fiscal a gasolina, inflación sería de 5%.-SHCP",
+      "resumen": "Sin los estímulos fiscales a la gasolina y el diesel, la inflación sería de 5.2 por ciento, en lugar del 3.6 por ciento, según la SHCP.",
+      "link": "https://www.reforma.com/sin-estimulo-fiscal-a-gasolina-inflacion-seria-de-5-shcp/ar3305266",
+      "fecha": "30 Oct 2026, 12:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pierde Pemex 10.8 mil mdp en tercer trimestre",
+      "resumen": "En tercer trimestre, Pemex tuvo una pérdida neta de 10.8 mil mdp; una mejora de 50.4 mil mdp respecto al mismo periodo del año previo.",
+      "link": "https://www.reforma.com/pierde-pemex-10-8-mil-mdp-en-tercer-trimestre/ar3305200",
+      "fecha": "30 Oct 2026, 10:27 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -159,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Peligra Comisión en Pemex sin Cuauhtémoc Cárdenas",
-      "resumen": "Comisión Consultiva de Petróleo de Pemex desaparecería tras el fallecimiento de Cuauhtémoc Cárdenas Solórzano, consideran especialistas.",
-      "link": "https://www.reforma.com/peligra-comision-en-pemex-sin-cuauhtemoc-cardenas/ar3304944",
-      "fecha": "30 Oct 2026, 05:01 hrs"
+      "titulo": "Se reúnen México y Japón para mejorar clima de negocios",
+      "resumen": "México y Japón celebraron la XV Reunión del Comité para la Mejora del Ambiente de Negocios (CIBE), en el marco del AAEMJ, dijo la SE.",
+      "link": "https://www.reforma.com/se-reunen-mexico-y-japon-para-mejorar-clima-de-negocios/ar3305189",
+      "fecha": "30 Oct 2026, 10:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exhorta Index a tener una visión transexenal",
-      "resumen": "Index establecer una visión transexenal para que la industria maquiladora y manufacturera de exportación en México avance.",
-      "link": "https://www.reforma.com/exhorta-index-a-tener-una-vision-transexenal/ar3304979",
-      "fecha": "30 Oct 2026, 07:15 hrs"
+      "titulo": "Profundizan mercados de EU pérdidas; Nasdaq cae 3%",
+      "resumen": "El Nasdaq se desploma un 3% y se encamina a su peor jornada desde junio; el S&amp;P 500 descendía 1.9% y el Dow Jones caía un 0.9%.",
+      "link": "https://www.reforma.com/profundizan-mercados-de-eu-perdidas-nasdaq-cae-3/ar3305155",
+      "fecha": "30 Oct 2026, 08:17 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla energía a 90% de naves industriales",
-      "resumen": "Industria padece por suministro de energía eléctrica, 90% de parques industriales ha reportado al menos una falla en los últimos 12 meses.",
-      "link": "https://www.reforma.com/falla-energia-a-90-de-naves-industriales/ar3304968",
-      "fecha": "30 Oct 2026, 07:15 hrs"
+      "titulo": "Tienen acciones de Intel su peor día desde la década de 1970",
+      "resumen": "Las acciones de Intel tuvieron su peor día en más de 50 años, provocando una pérdida de casi 12 mmdd en la participación del gobierno.",
+      "link": "https://www.reforma.com/tienen-acciones-de-intel-su-peor-dia-desde-la-decada-de-1970/ar3305316",
+      "fecha": "30 Oct 2026, 14:23 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tendrá NL en un mes nuevo Cluster de IA",
-      "resumen": "Empresas, universidades y el Gobierno de Nuevo León pondrán en marcha, el nuevo Cluster de Inteligencia Artificial.",
-      "link": "https://www.reforma.com/tendra-nl-en-un-mes-nuevo-cluster-de-ia/ar3304984",
-      "fecha": "30 Oct 2026, 07:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Golpean al Nasdaq caídas de Amazon e Intel",
-      "resumen": "El índice Nasdaq caía un 2.26%, lastrado por las bajas de 5 y 26% en las acciones de Amazon e Intel.",
-      "link": "https://www.reforma.com/golpean-al-nasdaq-caidas-de-amazon-e-intel/ar3305155",
-      "fecha": "30 Oct 2026, 08:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Estima Binance en 6,300 mdd mayor hackeo de historia cripto",
-      "resumen": "Binance dijo que hackeo afectó fondos por 6 mil 300 millones de dólares, de los cuales 3 mil millones en criptomonedas fueron congelados.",
-      "link": "https://www.reforma.com/estima-binance-en-6-300-mdd-mayor-hackeo-de-historia-cripto/ar3305141",
-      "fecha": "30 Oct 2026, 07:40 hrs"
+      "titulo": "Suben crudo WTI y Brent más de 13% en octubre",
+      "resumen": "Los futuros del crudo Brent subieron un 2.4%, a 117.64 dólares el barril, mientras que los del WTI ganaron un 2.08%, a 104.12 dólares.",
+      "link": "https://www.reforma.com/suben-crudo-wti-y-brent-mas-de-13-en-octubre/ar3305309",
+      "fecha": "30 Oct 2026, 14:23 hrs"
     }
   ]
 }
