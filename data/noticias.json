@@ -1,5 +1,5 @@
 {
-  "actualizado": "29/10/2026 15:33 hrs",
+  "actualizado": "29/10/2026 19:35 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Renault renueva el Kwid y cambia de fábrica para mantener su precio en México",
-      "resumen": "Kwid ahora será importado desde Colombia en lugar de Brasil, un cambio que permitirá a Renault reducir costos logísticos y mantener el precio del modelo.",
-      "link": "https://expansion.mx/empresas/2026/10/28/renault-renueva-kwid-precio",
-      "fecha": "28 Oct 2026, 20:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Taco Bell fracasó en México donde hoy triunfa Chipotle: la breve historia de su paso fallido por el país",
       "resumen": "La experiencia de Taco Bell mostró que una marca estadounidense no tiene garantizado el éxito por ofrecer comida inspirada en sabores mexicanos.",
       "link": "https://expansion.mx/empresas/2026/10/28/taco-bell-fracaso-mexico-triunfa-chipotle-historia",
@@ -147,6 +138,15 @@
       "fecha": "27 Oct 2026, 19:22 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Walmart mantiene precios bajos para atraer clientes, pero la estrategia presiona sus resultados",
+      "resumen": "El programa Precios que No se Tocan mantuvo los precios de 4,000 productos esenciales durante 90 días, pero los gastos generales en México aumentaron 6.4% y la utilidad operativa disminuyó 2.6%.",
+      "link": "https://expansion.mx/empresas/2026/10/27/walmart-reporte-trimestral-ganancias-2026",
+      "fecha": "27 Oct 2026, 16:19 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "CFE reportó una pérdida neta de 23 mil 310 millones de pesos en el tercer trimestre de 2026 y la utilidad neta a septiembre cayó 80.5%.",
       "link": "https://www.reforma.com/pierde-cfe-23-mil-mdp-en-trimestre/ar3304608",
       "fecha": "29 Oct 2026, 15:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar $18.86, su cotización más alta de agosto 2025",
+      "resumen": "Dólar cerró este jueves con una cotización de $18.86 logrando su mejor nivel desde agosto de 2025.",
+      "link": "https://www.reforma.com/cierra-dolar-18-86-su-cotizacion-mas-alta-de-agosto-2025/ar3304736",
+      "fecha": "29 Oct 2026, 17:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "Shein advierte que la demora en la renovación de un permiso clave para sus envíos en México amenaza sus operaciones en el país.",
       "link": "https://www.reforma.com/amenaza-retraso-de-permisos-t1-operacion-de-shein-en-mexico/ar3304320",
       "fecha": "29 Oct 2026, 09:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "CEO de Nvidia habría sido objetivo de espionaje chino.- NYT",
-      "resumen": "La empresaria china Alice Huang, que mantenía una estrecha relación con Jensen Huang, estaba filtrando información a Pekín, según el NYT.",
-      "link": "https://www.reforma.com/ceo-de-nvidia-habria-sido-objetivo-de-espionaje-chino-nyt/ar3304302",
-      "fecha": "29 Oct 2026, 08:48 hrs"
     }
   ]
 }
