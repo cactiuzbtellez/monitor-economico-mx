@@ -1,25 +1,7 @@
 {
-  "actualizado": "30/10/2026 18:25 hrs",
+  "actualizado": "31/10/2026 00:40 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crece 0.9% en tercer trimestre: Inegi",
-      "resumen": "En su comparación anual, la economía registró un crecimiento de 3.2%, mientras que en el acumulado de enero a septiembre avanzó 1.9% respecto al mismo periodo de 2025.",
-      "link": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi",
-      "fecha": "30 Oct 2026, 08:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los bancos y neobancos aceleran su apuesta y patrocinios por la F1",
-      "resumen": "Un estudio de IC identifica 41 marcas financieras que patrocinan equipos o la categoría. Nu y Revolut entre los protagonistas mientras Mercado Libre apuesta por Checo Pérez y Colapinto.",
-      "link": "https://expansion.mx/economia/2026/10/30/los-bancos-y-neobancos-aceleran-su-apuesta-y-patrocinios-por-la-f1",
-      "fecha": "30 Oct 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,75 +58,93 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Empresas",
+      "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Las agencias de autos tendrán que exprimir cada peso para sobrevivir al nuevo tope a las deducciones",
-      "resumen": "Los distribuidores deberán reducir costos, acelerar la rotación de inventarios y elevar los ingresos por posventa para absorber el impacto fiscal sin comprometer su operación. Aquellos que no lo logre…",
-      "link": "https://expansion.mx/empresas/2026/10/30/agencias-autos-rentabilidad-sobrevivir-tope-deducciones",
-      "fecha": "30 Oct 2026, 05:55 hrs"
+      "titulo": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
+      "resumen": "Ante el temor de mayores costos por la Ley de Economía Digital, Ebrard defendió los cobros electrónicos y planteó incorporar a otro millón de pequeños negocios.",
+      "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
+      "fecha": "28 Oct 2026, 16:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Comce eleva proyección para 2026; el boom exportador de México apunta a más de 800,000 mdd",
+      "resumen": "Las ventas al exterior aceleran, pero Comce pide que cada nueva inversión abra espacio a más empresas mexicanas.",
+      "link": "https://expansion.mx/economia/2026/10/28/comce-exportaciones-mexico-pronostico-2026-800000-mdd",
+      "fecha": "28 Oct 2026, 12:21 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Megacable aumenta 30% sus ganancias mientras reduce su planes de inversión en fibra óptica",
-      "resumen": "Tras años de fuertes inversiones en infraestructura, Megacable comienza a priorizar la rentabilidad y la consolidación de su negocio y desplazar a Televisa como el segundo operador de internet fijo.",
-      "link": "https://expansion.mx/empresas/2026/10/29/megacable-ganancias-reduce-inversion-fibra",
-      "fecha": "29 Oct 2026, 19:15 hrs"
+      "titulo": "Ollamani de Emilio Azcárraga pierde casi 1,000 millones de pesos por el Mundial 2026 y estos son los motivos",
+      "resumen": "Aunque el torneo elevó los ingresos del negocio de fútbol, los gastos de operación, hospitalidad y adecuación del inmueble superaron los recursos obtenidos.",
+      "link": "https://expansion.mx/empresas/2026/10/30/ollamani-pierde-casi-mil-millones-por-el-mundial-2026",
+      "fecha": "30 Oct 2026, 18:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Paleta Payaso, Carlos V y Pelón Pelo Rico ya no son mexicanos: los dulces de la calaverita que tienen dueño extranjero",
-      "resumen": "Ricolino, Grupo Lorena, Turín y La Azteca protagonizaron operaciones millonarias que transformaron el negocio de la confitería en México.",
-      "link": "https://expansion.mx/empresas/2026/10/29/dulces-de-la-calaverita-y-sus-duenos-extranjeros",
-      "fecha": "29 Oct 2026, 17:35 hrs"
+      "titulo": "¿15 o 40 días de aguinaldo? La condición que hace que unos trabajadores reciban mucho más que otros",
+      "resumen": "Detrás de una misma prestación hay reglas distintas que pueden cambiar por completo lo que cada persona recibe al cierre del año.",
+      "link": "https://expansion.mx/empresas/2026/10/30/aguinaldo-15-40-dias-trabajadores-mexico",
+      "fecha": "30 Oct 2026, 14:18 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cómo Canelo Álvarez convirtió su éxito en el ring en negocios millonarios",
-      "resumen": "El campeón mexicano combina disciplina, visión y estrategia, demostrando que la fama y el talento se pueden transformar en un legado financiero duradero.",
-      "link": "https://expansion.mx/empresas/2026/10/29/canelo-alvarez-pelea-millones-empresas-fortuna",
-      "fecha": "29 Oct 2026, 17:13 hrs"
+      "titulo": "Carlos Slim tiene un negocio millonario de oro y plata del que poco se habla: opera minas en varios estados de México",
+      "resumen": "La minera produce oro y plata, pero también depende de metales industriales como el cobre y el zinc. Sus resultados recientes reflejan el peso de los precios y del volumen procesado en sus ingresos.",
+      "link": "https://expansion.mx/empresas/2026/10/30/carlos-slim-negocio-minero-oro-plata-mexico",
+      "fecha": "30 Oct 2026, 13:01 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "CFE pierde 23,310 millones de pesos en el tercer trimestre por tipo de cambio y obligaciones laborales",
-      "resumen": "La empresa estatal atribuyó sus pérdidas a efectos negativos por pérdidas cambiarias, así como mayores costos por las obligaciones laborales, y por mayores remuneraciones y prestaciones para el person…",
-      "link": "https://expansion.mx/empresas/2026/10/29/cfe-perdidas-obligaciones-laborales-reporte-trimestral",
-      "fecha": "29 Oct 2026, 15:12 hrs"
+      "titulo": "Pemex pierde 10,795 millones de pesos, aunque reduce su deuda financiera y con proveedores",
+      "resumen": "La deuda financiera de Pemex disminuyó 8.9% al cierre de septiembre, mientras que los adeudos con proveedores y contratistas bajaron 5.1%.",
+      "link": "https://expansion.mx/empresas/2026/10/30/pemex-perdidas-tercer-trimestre-2026-ingresos-deuda",
+      "fecha": "30 Oct 2026, 12:32 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Walmart va por los clientes de Amazon y Mercado Libre con una membresía de 89 pesos al mes",
-      "resumen": "La minorista integra envíos, entretenimiento, conectividad y servicios de salud en Walmart+, con la que busca aumentar la frecuencia de compra y fortalecer su negocio digital.",
-      "link": "https://expansion.mx/empresas/2026/10/29/walmart-lanza-membresia-walmart-plus-mexico",
-      "fecha": "29 Oct 2026, 12:39 hrs"
+      "titulo": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
+      "resumen": "El gobierno eximirá temporalmente de aranceles los kits SKD y CKD para atraer nuevas líneas de producción, con el reto de que las armadas integren componentes mexicanos en cinco años.",
+      "link": "https://expansion.mx/empresas/2026/10/30/mexico-atraer-inversiones-automotrices-esquema-prohibido-1962",
+      "fecha": "30 Oct 2026, 12:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Volkswagen evita huelga en la planta de Puebla; dará un aumento de 8.24% a sus empleados este año",
-      "resumen": "Los trabajadores sindicalizados aprobaron el tercer acuerdo de revisión contractual, que contempla un aumento directo al salario de 4.4%, un incremento al fondo de ahorro y un pago único de 12,000 pes…",
-      "link": "https://expansion.mx/empresas/2026/10/29/volkswagen-puebla-aumento-salarial-evita-huelga",
-      "fecha": "29 Oct 2026, 10:43 hrs"
+      "titulo": "Soriana recorta su superficie comercial y eso impacta sus ganancias 19% en el tercer trimestre",
+      "resumen": "La minorista cerró el periodo con 801 establecimientos activos en sus formatos Híper, Súper, Mercado, Express y City Club, una disminución de 18 unidades respecto a las 819 tiendas registradas un año …",
+      "link": "https://expansion.mx/empresas/2026/10/30/soriana-recorta-superficie-comercial-reporte-trimestral-2026",
+      "fecha": "30 Oct 2026, 11:55 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Carlos Slim va por más pozos petroleros para aumentar la producción de Grupo Carso",
-      "resumen": "A través de Zamajal, su subsidiaria energética, el empresario avanza en el desarrollo de sus activos petroleros y busca adquirir plataformas marinas para acelerar las operaciones en el Golfo de México…",
-      "link": "https://expansion.mx/empresas/2026/10/29/slim-mas-pozos-petroleros-aumentar-produccion-grupo-cardo",
-      "fecha": "29 Oct 2026, 09:16 hrs"
+      "titulo": "Dos plazas, una junto a la otra y cerca de la F1: ¿quién es dueño de Parque Tezontle y Plaza Oriente?",
+      "resumen": "Parque Tezontle y Plaza Oriente se encuentran sobre Canal de Tezontle, en Iztapalapa, a pocos minutos del Estadio GNP y el Autódromo Hermanos Rodríguez.",
+      "link": "https://expansion.mx/empresas/2026/10/30/duenos-parque-tezontle-plaza-oriente-y-la-f1",
+      "fecha": "30 Oct 2026, 11:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El Mundial pasa factura a las finanzas de TelevisaUnivision, pero impulsa los ingresos de ViX",
+      "resumen": "La compañía registró una pérdida operativa de 119 millones de dólares en el tercer trimestre, pero su plataforma de streaming reportó incrementos de 9%, así como avances en el segmento de publicidad e…",
+      "link": "https://expansion.mx/empresas/2026/10/30/mundial-factura-televisaunivision-impulsa-vix",
+      "fecha": "30 Oct 2026, 11:25 hrs"
     },
     {
       "fuente": "Reforma",
