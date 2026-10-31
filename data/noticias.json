@@ -1,87 +1,78 @@
 {
-  "actualizado": "31/10/2026 00:40 hrs",
+  "actualizado": "31/10/2026 07:20 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "BBVA México: Crecimiento está por debajo de su potencial, pero Plan México y Ley Digital impulsarán la economía",
-      "resumen": "La utilidad neta del grupo se ubicó en 84,713 millones de pesos durante los primeros nueve meses de 2026, una caída de 1.5% contra el mismo período del año anterior.",
-      "link": "https://expansion.mx/economia/2026/10/29/bbva-mexico-crecimiento-esta-por-debajo-de-su-potencial-pero-plan-mexico-y-ley-digital-impulsaran-la-economia",
-      "fecha": "29 Oct 2026, 17:16 hrs"
+      "titulo": "Cuota cero IEPS del diésel va por su octava semana consecutiva, mientras sube carga por impuesto a gasolinas",
+      "resumen": "La cuota IEPS para la gasolina Magna será de 3.78 pesos para la semana del 31 de octubre al seis de noviembre, un monto mayor al que aplica para la semana que termina este viernes 30.",
+      "link": "https://expansion.mx/economia/2026/10/30/cuota-cero-ieps-diesel-impuesto-gasolinas",
+      "fecha": "30 Oct 2026, 17:48 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "La aduana de Colombia abre espacio para un nuevo polo industrial en Nuevo León",
-      "resumen": "Samuel García quiere aprovechar la conexión con Texas y la revisión conjunta de mercancías para atraer más actividad empresarial.",
-      "link": "https://expansion.mx/economia/2026/10/29/nuevo-leon-aduana-colombia-polo-industrial",
-      "fecha": "29 Oct 2026, 15:19 hrs"
+      "titulo": "Recaudación del ISR queda 137,000 millones debajo de lo programado en el tercer trimestre",
+      "resumen": "Mientras el ISR reportó un faltante en su recaudación por menos declaraciones y pagos de las empresas, el IVA por consumo ayudó a compensar ingresos faltantes",
+      "link": "https://expansion.mx/economia/2026/10/30/recaudacion-isr-iva-septiembre-shcp-tercer-trimestre",
+      "fecha": "30 Oct 2026, 17:04 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Las fábricas que exportan desde México quieren nuevas reglas para competir y atraer inversiones",
-      "resumen": "Index alista una propuesta para Sheinbaum y actualizar el IMMEX ante una manufactura que exige más tecnología y cadenas de producción más ágiles.",
-      "link": "https://expansion.mx/economia/2026/10/29/industria-exportadora-modernizacion-immex-4-0-mexico",
-      "fecha": "29 Oct 2026, 13:09 hrs"
+      "titulo": "El T-MEC puede perder prioridad para Trump tras las elecciones, prevé Daniel Watson",
+      "resumen": "El exnegociador del tratado por EU anticipa que las conversaciones continuarían con menor presión política para concluir, mientras siguen pendientes aranceles y reglas de origen.",
+      "link": "https://expansion.mx/economia/2026/10/30/tmec-trump-elecciones-perder-prioridad-daniel-watson",
+      "fecha": "30 Oct 2026, 16:37 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Presupuesto 2027 tendrá inversión pública estancada e intereses de la deuda en ascenso",
-      "resumen": "Para 2032, Hacienda proyecta que el costo financiero ascenderá a 3.7% del PIB, un porcentaje menor al de 2027, pero 2.4 veces mayor al dinero para obra pública, estimado en 1.5% del PIB.",
-      "link": "https://expansion.mx/economia/2026/10/29/presupuesto-2027-inversion-publica-estancada-intereses-deuda",
-      "fecha": "29 Oct 2026, 05:55 hrs"
+      "titulo": "Binance admite robo de fondos en la hot wallet por ciberataque; anuncia plan para recuperar el dinero",
+      "resumen": "Richard Teng, Co-CEO de la firma de criptodivisas, informó que han recuperado una parte del dinero sustraído.",
+      "link": "https://expansion.mx/economia/2026/10/30/binance-admite-robo-de-fondos-hot-wallet-ciberataque",
+      "fecha": "30 Oct 2026, 14:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Ley de Economía Digital no será draconiana; la implementación de pagos digitales será paulatina, dicen banqueros",
-      "resumen": "La ABM prevé una implementación ordenada de la Ley de Economía Digital para el cobro de impuestos y servicios además de disminuir el uso del efectivo.",
-      "link": "https://expansion.mx/economia/2026/10/28/ley-de-economia-digital-no-sera-draconiana-la-implementacion-de-pagos-digitales-sera-paulatina-dicen-banqueros",
-      "fecha": "28 Oct 2026, 19:55 hrs"
+      "titulo": "México debe reducir la incertidumbre para atraer la inversión, dice Vanessa Rubio",
+      "resumen": "La exfuncionaria mencionó que las preocupaciones están presentes en sectores como energía y servicios financieros, donde las decisiones  dependen de cumplimiento de contratos y disponibilidad de infra…",
+      "link": "https://expansion.mx/economia/2026/10/30/mexico-debe-reducir-la-incertidumbre-para-atraer-la-inversion-dice-vanessa-rubio",
+      "fecha": "30 Oct 2026, 13:05 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Más controles y más ventas, las exigencias del agro de EU que se suman para México en el T-MEC",
-      "resumen": "De las inspecciones en huertas a las garantías de pago, productores y exportadores buscan cambiar las condiciones del comercio con México.",
-      "link": "https://expansion.mx/economia/2026/10/28/agro-eu-pide-mas-controles-mexico-t-mec",
-      "fecha": "28 Oct 2026, 18:24 hrs"
+      "titulo": "Una sobreoferta de frijol deja pérdidas para el gobierno y un efecto mínimo en la inflación",
+      "resumen": "El gobierno puede perder entre 2,000 y 2,850 millones de pesos, por una súper cosecha en 2025 y compras de a 27 pesos el kilo.",
+      "link": "https://expansion.mx/economia/2026/10/30/gobierno-compro-frijol-27-pesos-ahora-remata",
+      "fecha": "30 Oct 2026, 10:03 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Ebrard a pequeños negocios: sin pagos digitales “te vas a ir quedando fuera”",
-      "resumen": "Ante el temor de mayores costos por la Ley de Economía Digital, Ebrard defendió los cobros electrónicos y planteó incorporar a otro millón de pequeños negocios.",
-      "link": "https://expansion.mx/economia/2026/10/28/ebrard-a-pequenos-negocios-sin-pagos-digitales-te-vas-a-ir-quedando-fuera",
-      "fecha": "28 Oct 2026, 16:27 hrs"
+      "titulo": "PIB de México crece 0.9% en tercer trimestre: Inegi",
+      "resumen": "En su comparación anual, la economía registró un crecimiento de 3.2%, mientras que en el acumulado de enero a septiembre avanzó 1.9% respecto al mismo periodo de 2025.",
+      "link": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi",
+      "fecha": "30 Oct 2026, 08:52 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
-      "titulo": "Comce eleva proyección para 2026; el boom exportador de México apunta a más de 800,000 mdd",
-      "resumen": "Las ventas al exterior aceleran, pero Comce pide que cada nueva inversión abra espacio a más empresas mexicanas.",
-      "link": "https://expansion.mx/economia/2026/10/28/comce-exportaciones-mexico-pronostico-2026-800000-mdd",
-      "fecha": "28 Oct 2026, 12:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ollamani de Emilio Azcárraga pierde casi 1,000 millones de pesos por el Mundial 2026 y estos son los motivos",
-      "resumen": "Aunque el torneo elevó los ingresos del negocio de fútbol, los gastos de operación, hospitalidad y adecuación del inmueble superaron los recursos obtenidos.",
-      "link": "https://expansion.mx/empresas/2026/10/30/ollamani-pierde-casi-mil-millones-por-el-mundial-2026",
-      "fecha": "30 Oct 2026, 18:29 hrs"
+      "titulo": "Los bancos y neobancos aceleran su apuesta y patrocinios por la F1",
+      "resumen": "Un estudio de IC identifica 41 marcas financieras que patrocinan equipos o la categoría. Nu y Revolut entre los protagonistas mientras Mercado Libre apuesta por Checo Pérez y Colapinto.",
+      "link": "https://expansion.mx/economia/2026/10/30/los-bancos-y-neobancos-aceleran-su-apuesta-y-patrocinios-por-la-f1",
+      "fecha": "30 Oct 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,6 +138,33 @@
       "fecha": "30 Oct 2026, 11:25 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las agencias de autos tendrán que exprimir cada peso para sobrevivir al nuevo tope a las deducciones",
+      "resumen": "Los distribuidores deberán reducir costos, acelerar la rotación de inventarios y elevar los ingresos por posventa para absorber el impacto fiscal sin comprometer su operación. Aquellos que no lo logre…",
+      "link": "https://expansion.mx/empresas/2026/10/30/agencias-autos-rentabilidad-sobrevivir-tope-deducciones",
+      "fecha": "30 Oct 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pueden VEs surtir energía a red pública",
+      "resumen": "Las baterías de los VEs pueden almacenar electricidad de la red cuando hay excedente y devolverla cuando la demanda alcanza un máximo.",
+      "link": "https://www.reforma.com/pueden-ves-surtir-energia-a-red-publica/ar3305243",
+      "fecha": "31 Oct 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén aumento salarial de 5.1%",
+      "resumen": "Según la Encuesta de Remuneración Total México 2026 de Marsh, las empresas concederán para el 2027 un aumento salarial promedio de 5.1%.",
+      "link": "https://www.reforma.com/preven-aumento-salarial-de-5-1/ar3305246",
+      "fecha": "31 Oct 2026, 05:02 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -199,24 +217,6 @@
       "resumen": "Los ingresos públicos cayeron 28.4% anual en septiembre, con una baja de 80.9% en los petroleros, de 1.9% en el ISR y de 21.1% en IEPS.",
       "link": "https://www.reforma.com/caen-ingresos-petroleros-los-de-isr-y-de-ieps/ar3305325",
       "fecha": "30 Oct 2026, 14:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen acciones de Intel su peor día desde la década de 1970",
-      "resumen": "Las acciones de Intel tuvieron su peor día en más de 50 años, provocando una pérdida de casi 12 mmdd en la participación del gobierno.",
-      "link": "https://www.reforma.com/tienen-acciones-de-intel-su-peor-dia-desde-la-decada-de-1970/ar3305316",
-      "fecha": "30 Oct 2026, 14:23 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben crudo WTI y Brent más de 13% en octubre",
-      "resumen": "Los futuros del crudo Brent subieron un 2.4%, a 117.64 dólares el barril, mientras que los del WTI ganaron un 2.08%, a 104.12 dólares.",
-      "link": "https://www.reforma.com/suben-crudo-wti-y-brent-mas-de-13-en-octubre/ar3305309",
-      "fecha": "30 Oct 2026, 14:23 hrs"
     }
   ]
 }
