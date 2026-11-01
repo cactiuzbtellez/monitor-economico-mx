@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/11/2026 09:47 hrs",
+  "actualizado": "01/11/2026 14:13 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "“No podemos depender de un solo sector”: Puebla acelera su diversificación tras el bache de Volkswagen",
+      "resumen": "La armadora y su cadena de proveeduría representan hasta 43.4% del PIB estatal, una dependencia que el gobierno de Alejandro Armenta busca reducir mediante la diversificación hacia otros sectores.",
+      "link": "https://expansion.mx/empresas/2026/10/31/puebla-acelera-diversificacion-planta-volkswagen",
+      "fecha": "31 Oct 2026, 17:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Renault, Hyundai y Nissan bajan 50,000 pesos los precios de Kwid, Grand i10 y March",
       "resumen": "Las tres automotrices recurren a promociones y bonos para colocar sus modelos de entrada entre los más económicos del mercado. La competencia también se libra en motores, tecnología y seguridad.",
       "link": "https://expansion.mx/empresas/2026/10/31/kwid-grand-i10-march-bajan-precio-auto-mas-barato-mexico",
@@ -136,15 +145,6 @@
       "resumen": "La minorista cerró el periodo con 801 establecimientos activos en sus formatos Híper, Súper, Mercado, Express y City Club, una disminución de 18 unidades respecto a las 819 tiendas registradas un año …",
       "link": "https://expansion.mx/empresas/2026/10/30/soriana-recorta-superficie-comercial-reporte-trimestral-2026",
       "fecha": "30 Oct 2026, 11:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Dos plazas, una junto a la otra y cerca de la F1: ¿quién es dueño de Parque Tezontle y Plaza Oriente?",
-      "resumen": "Parque Tezontle y Plaza Oriente se encuentran sobre Canal de Tezontle, en Iztapalapa, a pocos minutos del Estadio GNP y el Autódromo Hermanos Rodríguez.",
-      "link": "https://expansion.mx/empresas/2026/10/30/duenos-parque-tezontle-plaza-oriente-y-la-f1",
-      "fecha": "30 Oct 2026, 11:53 hrs"
     },
     {
       "fuente": "Reforma",
