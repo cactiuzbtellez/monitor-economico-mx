@@ -1,5 +1,5 @@
 {
-  "actualizado": "01/11/2026 18:17 hrs",
+  "actualizado": "02/11/2026 01:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,10 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pueden VEs surtir energía a red pública",
-      "resumen": "Las baterías de los VEs pueden almacenar electricidad de la red cuando hay excedente y devolverla cuando la demanda alcanza un máximo.",
-      "link": "https://www.reforma.com/pueden-ves-surtir-energia-a-red-publica/ar3305243",
-      "fecha": "31 Oct 2026, 05:02 hrs"
+      "titulo": "Atraen a nuevas generaciones hacia la manufactura",
+      "resumen": "Un grupo de mujeres especialistas urgió a impulsar programas desde la primaria y secundaria que despierten el interés en manufactura.",
+      "link": "https://www.reforma.com/atraen-a-nuevas-generaciones-hacia-la-manufactura/ar3306391",
+      "fecha": "01 Nov 2026, 23:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Bonanza petrolera... y Pemex ¡en rojo!",
+      "resumen": "Mientras petroleras a nivel internacional obtuvieron resultados positivos debido a los altos precios del petróleo, Pemex sigue perdiendo.",
+      "link": "https://www.reforma.com/bonanza-petrolera-y-pemex-en-rojo/ar3305460",
+      "fecha": "31 Oct 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Grava Suiza la riqueza ¡y multiplica millonarios!",
+      "resumen": "Suiza, uno de los países más ricos del mundo, lleva más de un siglo gravando la riqueza personal, al tiempo que suma más millonarios.",
+      "link": "https://www.reforma.com/grava-suiza-la-riqueza-y-multiplica-millonarios/ar3305249",
+      "fecha": "31 Oct 2026, 16:29 hrs"
     },
     {
       "fuente": "Reforma",
@@ -162,6 +180,15 @@
       "titulo": "Prevén aumento salarial de 5.1%",
       "resumen": "Según la Encuesta de Remuneración Total México 2026 de Marsh, las empresas concederán para el 2027 un aumento salarial promedio de 5.1%.",
       "link": "https://www.reforma.com/preven-aumento-salarial-de-5-1/ar3305246",
+      "fecha": "31 Oct 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pueden VEs surtir energía a red pública",
+      "resumen": "Las baterías de los VEs pueden almacenar electricidad de la red cuando hay excedente y devolverla cuando la demanda alcanza un máximo.",
+      "link": "https://www.reforma.com/pueden-ves-surtir-energia-a-red-publica/ar3305243",
       "fecha": "31 Oct 2026, 05:02 hrs"
     },
     {
@@ -190,33 +217,6 @@
       "resumen": "Acciones de Apple cayeron 1.2%, resultando en un valor bursátil de 5.03 billones de dólares, mientras que Nvidia bajó 4.2% a 4.93 billones.",
       "link": "https://www.reforma.com/vuelve-apple-a-superar-a-nvidia-como-la-empresa-mas-valiosa/ar3305344",
       "fecha": "30 Oct 2026, 15:06 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mantiene EU ingreso de ganado mexicano",
-      "resumen": "USDA dijo que no suspenderá el ingreso de ganado mexicano por Nuevo México y Arizona, pese al fuerte aumento de casos de gusano barrenador.",
-      "link": "https://www.reforma.com/mantiene-eu-ingreso-de-ganado-mexicano/ar3305332",
-      "fecha": "30 Oct 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Registra Nasdaq su mayor baja mensual desde marzo de 2025",
-      "resumen": "En octubre, el Nasdaq cedió 5.3%, su mayor baja mensual desde marzo de 2025; el S&amp;P 500 perdió 0.94%, mientras que el Dow Jones subió 1.7%.",
-      "link": "https://www.reforma.com/registra-nasdaq-su-mayor-baja-mensual-desde-marzo-de-2025/ar3305326",
-      "fecha": "30 Oct 2026, 14:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen ingresos petroleros, los de ISR y de IEPS",
-      "resumen": "Los ingresos públicos cayeron 28.4% anual en septiembre, con una baja de 80.9% en los petroleros, de 1.9% en el ISR y de 21.1% en IEPS.",
-      "link": "https://www.reforma.com/caen-ingresos-petroleros-los-de-isr-y-de-ieps/ar3305325",
-      "fecha": "30 Oct 2026, 14:33 hrs"
     }
   ]
 }
