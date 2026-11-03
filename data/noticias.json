@@ -1,7 +1,61 @@
 {
-  "actualizado": "03/11/2026 09:51 hrs",
+  "actualizado": "03/11/2026 15:31 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Buen Fin 2026 tendrá un premio de 250,000 pesos: así puedes participar y qué compras cuentan para el sorteo",
+      "resumen": "El sorteo tiene el objetivo de fomentar el comercio formal y los pagos electrónicos, ofreciendo premios de miles de pesos a los comercios y consumidores que resulten ganadores.",
+      "link": "https://expansion.mx/economia/2026/11/03/sat-regalara-dinero-en-el-sorteo-del-buen-fin-2026",
+      "fecha": "03 Nov 2026, 09:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La IA es un lento \"tsunami\" laboral y financiero que preocupa al FMI",
+      "resumen": "El Fondo Monetario Internacional espera que, en menos de cinco años, la IA impacte en el 40% de los empleos a nivel global.",
+      "link": "https://expansion.mx/economia/2026/11/03/la-ia-es-un-lento-tsunami-laboral-y-financiero-que-preocupa-al-fmi",
+      "fecha": "03 Nov 2026, 08:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "FMI destaca a Brasil como el país que lo tiene todo para crecer",
+      "resumen": "La Conferencia Bancaria Internacional organizada por Banco Santander se inauguró en Madrid con discusiones sobre la relevancia de América Latina, los riesgos fiscales y tecnológicos.",
+      "link": "https://expansion.mx/economia/2026/11/03/fmi-destaca-a-brasil-pais-tiene-todo-para-crecer",
+      "fecha": "03 Nov 2026, 08:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El Fondo Monetario Internacional está listo para rescatar a una economía avanzada",
+      "resumen": "La directora del Fondo Monetario Internacional indicó que esta situación es indeseable, pues dejaría más vulnerables a las economías de menores recursos.",
+      "link": "https://expansion.mx/economia/2026/11/03/el-fondo-monetario-internacional-esta-listo-para-rescatar-a-una-economia-avanzada",
+      "fecha": "03 Nov 2026, 08:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Por envejecimiento de la población, rentas vitalicias tomarán vuelo, advierte la AMIS",
+      "resumen": "En entrevista con Expansión, Pedro Pacheco, presidente del organismo, dijo que la industria busca incentivar la reflexión sobre la protección financiera en la segunda semana nacional del Seguro.",
+      "link": "https://expansion.mx/economia/2026/11/03/por-envejecimiento-de-la-poblacion-rentas-vitalicias-tomaran-vuelo-advierte-la-amis",
+      "fecha": "03 Nov 2026, 06:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
+      "resumen": "La Secretaría de Hacienda informó que concluyó la revisión internacional sobre los mecanismos de México para prevenir el lavado de dinero. Los resultados se publicarán el 17 de diciembre.",
+      "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
+      "fecha": "02 Nov 2026, 18:21 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,60 +73,6 @@
       "resumen": "Las obligaciones fiscales no desaparecen automáticamente al morir. La sucesión puede tener impuestos pendientes y derechos a devolución; estos son los puntos clave.",
       "link": "https://expansion.mx/economia/2026/10/31/sat-que-pasa-deudas-saldos-a-favor-persona-fallecida-2026",
       "fecha": "31 Oct 2026, 08:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Cuota cero IEPS del diésel va por su octava semana consecutiva, mientras sube carga por impuesto a gasolinas",
-      "resumen": "La cuota IEPS para la gasolina Magna será de 3.78 pesos para la semana del 31 de octubre al seis de noviembre, un monto mayor al que aplica para la semana que termina este viernes 30.",
-      "link": "https://expansion.mx/economia/2026/10/30/cuota-cero-ieps-diesel-impuesto-gasolinas",
-      "fecha": "30 Oct 2026, 17:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Recaudación del ISR queda 137,000 millones debajo de lo programado en el tercer trimestre",
-      "resumen": "Mientras el ISR reportó un faltante en su recaudación por menos declaraciones y pagos de las empresas, el IVA por consumo ayudó a compensar ingresos faltantes",
-      "link": "https://expansion.mx/economia/2026/10/30/recaudacion-isr-iva-septiembre-shcp-tercer-trimestre",
-      "fecha": "30 Oct 2026, 17:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El T-MEC puede perder prioridad para Trump tras las elecciones, prevé Daniel Watson",
-      "resumen": "El exnegociador del tratado por EU anticipa que las conversaciones continuarían con menor presión política para concluir, mientras siguen pendientes aranceles y reglas de origen.",
-      "link": "https://expansion.mx/economia/2026/10/30/tmec-trump-elecciones-perder-prioridad-daniel-watson",
-      "fecha": "30 Oct 2026, 16:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Binance admite robo de fondos en la hot wallet por ciberataque; anuncia plan para recuperar el dinero",
-      "resumen": "Richard Teng, Co-CEO de la firma de criptodivisas, informó que han recuperado una parte del dinero sustraído.",
-      "link": "https://expansion.mx/economia/2026/10/30/binance-admite-robo-de-fondos-hot-wallet-ciberataque",
-      "fecha": "30 Oct 2026, 14:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México debe reducir la incertidumbre para atraer la inversión, dice Vanessa Rubio",
-      "resumen": "La exfuncionaria mencionó que las preocupaciones están presentes en sectores como energía y servicios financieros, donde las decisiones  dependen de cumplimiento de contratos y disponibilidad de infra…",
-      "link": "https://expansion.mx/economia/2026/10/30/mexico-debe-reducir-la-incertidumbre-para-atraer-la-inversion-dice-vanessa-rubio",
-      "fecha": "30 Oct 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Una sobreoferta de frijol deja pérdidas para el gobierno y un efecto mínimo en la inflación",
-      "resumen": "El gobierno puede perder entre 2,000 y 2,850 millones de pesos, por una súper cosecha en 2025 y compras de a 27 pesos el kilo.",
-      "link": "https://expansion.mx/economia/2026/10/30/gobierno-compro-frijol-27-pesos-ahora-remata",
-      "fecha": "30 Oct 2026, 10:03 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Estiman que no se logrará inflación de 3% en todo el sexenio",
+      "resumen": "La inflación no llegará a la meta puntual de 3.0 por ciento de Banxico en 2027 ni para 2030, estimaron analistas encuestados por el Banco.",
+      "link": "https://www.reforma.com/estiman-que-no-se-lograra-inflacion-de-3-en-todo-el-sexenio/ar3307331",
+      "fecha": "03 Nov 2026, 12:30 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Trabajaremos con quien resulte electo en EU.- CCE",
+      "resumen": "CCE señaló que trabajará con quien resulte electo en el Congreso y en las gubernaturas, en las elecciones de Estados Unidos.",
+      "link": "https://www.reforma.com/trabajaremos-con-quien-resulte-electo-en-eu-cce/ar3307448",
+      "fecha": "03 Nov 2026, 14:57 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierte US Chamber por impacto fiscal en México",
+      "resumen": "El organismo advierte impacto a la inversión de las empresas de EU en México por las medidas fiscales del Paquete Económico 2027.",
+      "link": "https://www.reforma.com/advierte-us-chamber-por-impacto-fiscal-en-mexico/ar3307287",
+      "fecha": "03 Nov 2026, 11:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Baja de tasas causaría caída desordenada del peso.- JPMorgan",
       "resumen": "JPMorgan advirtió de una caída \"desordenada\" del peso mexicano frente al dólar si Banxico recorta la tasa de interés a fines de esta semana.",
       "link": "https://www.reforma.com/baja-de-tasas-causaria-caida-desordenada-del-peso-jpmorgan/ar3307175",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firmará CFE contratos mixtos con IP en 2027",
-      "resumen": "CFE empezará a firmar los primeros contratos de desarrollo de centrales eléctricas con iniciativa privada en el primer trimestre de 2027.",
-      "link": "https://www.reforma.com/firmara-cfe-contratos-mixtos-con-ip-en-2027/ar3306960",
-      "fecha": "03 Nov 2026, 05:01 hrs"
+      "titulo": "Temen causa política en barrenador aguacatero",
+      "resumen": "Aguacateros michoacanos sospechan un trasfondo político en la alerta por barrenador, tras protestas contra nuevos requisitos de exportación.",
+      "link": "https://www.reforma.com/temen-causa-politica-en-barrenador-aguacatero/ar3307391",
+      "fecha": "03 Nov 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Elevaría semana de 40 hrs costo laboral en 10 mmdd",
-      "resumen": "Para 2030, cuando se implementen las 40 horas laborales a la semana, costo de nómina podría encarecerse hasta en casi 10 mmdd para las IMMEX",
-      "link": "https://www.reforma.com/elevaria-semana-de-40-hrs-costo-laboral-en-10-mmdd/ar3307000",
-      "fecha": "03 Nov 2026, 07:25 hrs"
+      "titulo": "Estima Canaco 20 mil mdp por ventas del Buen Fin en NL",
+      "resumen": "La Canaco Monterrey estima una derrama económica de 20 mil 200 millones de pesos por El Buen Fin 2026, un alza del 7% en relación al 2025.",
+      "link": "https://www.reforma.com/estima-canaco-20-mil-mdp-por-ventas-del-buen-fin-en-nl/ar3307390",
+      "fecha": "03 Nov 2026, 14:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja costo financiero y da respiro al gasto público",
-      "resumen": "El costo financiero del sector público bajó 3.7% real anual a 958 mil 999.7 mdp de enero a septiembre, por peso fuerte y menores tasas.",
-      "link": "https://www.reforma.com/baja-costo-financiero-y-da-respiro-al-gasto-publico/ar3306937",
-      "fecha": "03 Nov 2026, 05:01 hrs"
+      "titulo": "Prepara Banxico nuevo marco regulatorio para fideicomisos",
+      "resumen": "Banxico sometió a consulta pública un nuevo marco regulatorio para los fideicomisos operados por bancos y otras entidades financieras.",
+      "link": "https://www.reforma.com/prepara-banxico-nuevo-marco-regulatorio-para-fideicomisos/ar3307358",
+      "fecha": "03 Nov 2026, 14:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Ve luz' la economía",
-      "resumen": "A tasa anual, la economía mexicana, medida por el PIB, se incrementó 3.19 por ciento en el tercer trimestre de 2026.",
-      "link": "https://www.reforma.com/ve-luz-la-economia/ar3306957",
-      "fecha": "03 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Hackers de Binance usaron entrevista de trabajo falsa",
-      "resumen": "Binance dijo que hackers usaron una entrevista de trabajo falsa para comprometer un computador y con ayuda de IA lograron robar 6,300 mdd.",
-      "link": "https://www.reforma.com/hackers-de-binance-usaron-entrevista-de-trabajo-falsa/ar3307197",
-      "fecha": "03 Nov 2026, 09:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Baja Pemex inversión y registra pérdidas",
-      "resumen": "Pemex redujo 4.5% real anual su inversión presupuestal en exploración y extracción de hidrocarburos en los primeros nueve meses de 2025.",
-      "link": "https://www.reforma.com/baja-pemex-inversion-y-registra-perdidas/ar3306942",
-      "fecha": "03 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Va 3B por más tiendas; proyecta llegar a 14 mil",
-      "resumen": "La cadena de tiendas 3B ve potencial para casi cuadruplicar su presencia en México, donde actualmente opera 3 mil 624 establecimientos.",
-      "link": "https://www.reforma.com/va-3b-por-mas-tiendas-proyecta-llegar-a-14-mil/ar3306946",
-      "fecha": "03 Nov 2026, 05:01 hrs"
+      "titulo": "Falla electricidad en el 98% de manufactureras",
+      "resumen": "El 97.9% de las empresas manufactureras socias de Caintra reportaron en el primer semestre una afectación en el suministro de energía.",
+      "link": "https://www.reforma.com/falla-electricidad-en-el-98-de-manufactureras/ar3307319",
+      "fecha": "03 Nov 2026, 12:19 hrs"
     }
   ]
 }
