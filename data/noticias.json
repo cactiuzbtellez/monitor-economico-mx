@@ -1,7 +1,25 @@
 {
-  "actualizado": "02/11/2026 18:34 hrs",
+  "actualizado": "03/11/2026 01:36 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
+      "resumen": "La Secretaría de Hacienda informó que concluyó la revisión internacional sobre los mecanismos de México para prevenir el lavado de dinero. Los resultados se publicarán el 17 de diciembre.",
+      "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
+      "fecha": "02 Nov 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Restaurantes, bienestar y mascotas ganan espacio en el gasto con tarjetas de jóvenes",
+      "resumen": "De acuerdo con American Express, el uso de tarjetas para pagar experiencias relacionados con el estilo de vida registra avances en distintas categorías, en un contexto de cambios en los hábitos de con…",
+      "link": "https://expansion.mx/economia/2026/11/02/restaurantes-bienestar-y-mascotas-ganan-espacio-en-el-gasto-con-tarjetas-de-jovenes",
+      "fecha": "02 Nov 2026, 09:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "La exfuncionaria mencionó que las preocupaciones están presentes en sectores como energía y servicios financieros, donde las decisiones  dependen de cumplimiento de contratos y disponibilidad de infra…",
       "link": "https://expansion.mx/economia/2026/10/30/mexico-debe-reducir-la-incertidumbre-para-atraer-la-inversion-dice-vanessa-rubio",
       "fecha": "30 Oct 2026, 13:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Una sobreoferta de frijol deja pérdidas para el gobierno y un efecto mínimo en la inflación",
-      "resumen": "El gobierno puede perder entre 2,000 y 2,850 millones de pesos, por una súper cosecha en 2025 y compras de a 27 pesos el kilo.",
-      "link": "https://expansion.mx/economia/2026/10/30/gobierno-compro-frijol-27-pesos-ahora-remata",
-      "fecha": "30 Oct 2026, 10:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crece 0.9% en tercer trimestre: Inegi",
-      "resumen": "En su comparación anual, la economía registró un crecimiento de 3.2%, mientras que en el acumulado de enero a septiembre avanzó 1.9% respecto al mismo periodo de 2025.",
-      "link": "https://expansion.mx/economia/2026/10/30/pib-de-mexico-crece-0-9-en-tercer-trimestre-inegi",
-      "fecha": "30 Oct 2026, 08:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -195,15 +195,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide IP elección transparente de nuevo titular del INE",
-      "resumen": "CCE pidió que que el proceso para desginar a la nueva presidenta del INE se lleve a cabo de forma abierta y verificable.",
-      "link": "https://www.reforma.com/pide-ip-eleccion-transparente-de-nuevo-titular-del-ine/ar3306812",
-      "fecha": "02 Nov 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Mantendrá Toyota operaciones en planta de Guanajuato",
       "resumen": "Toyota confirmó que su planta en Guanajuato seguirá operando con normalidad, pese a la inversión de 3 mil 600 mdd que anunció en Texas.",
       "link": "https://www.reforma.com/mantendra-toyota-operaciones-en-planta-de-guanajuato/ar3306790",
@@ -217,6 +208,15 @@
       "resumen": "Pemex produjo un millón 595.6 mil bpd de hidrocarburos en septiembre, 2.46% menos que hace un año, sin detallar crudo y condensados.",
       "link": "https://www.reforma.com/cae-nuevamente-produccion-de-pemex-omite-desglose-de-crudo/ar3306780",
       "fecha": "02 Nov 2026, 14:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se hunde crudo 8% tras señales de conversaciones de paz",
+      "resumen": "Futuros del crudo Brent cedieron 11.24, a 104.77 dólares el barril, mientras que los del West Texas Intermediate restaron 7.36%, a 96.46.",
+      "link": "https://www.reforma.com/se-hunde-crudo-8-tras-senales-de-conversaciones-de-paz/ar3306605",
+      "fecha": "02 Nov 2026, 12:24 hrs"
     }
   ]
 }
