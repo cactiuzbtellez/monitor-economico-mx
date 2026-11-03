@@ -1,16 +1,7 @@
 {
-  "actualizado": "03/11/2026 01:36 hrs",
+  "actualizado": "03/11/2026 09:51 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
-      "resumen": "La Secretaría de Hacienda informó que concluyó la revisión internacional sobre los mecanismos de México para prevenir el lavado de dinero. Los resultados se publicarán el 17 de diciembre.",
-      "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
-      "fecha": "02 Nov 2026, 18:21 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "La exfuncionaria mencionó que las preocupaciones están presentes en sectores como energía y servicios financieros, donde las decisiones  dependen de cumplimiento de contratos y disponibilidad de infra…",
       "link": "https://expansion.mx/economia/2026/10/30/mexico-debe-reducir-la-incertidumbre-para-atraer-la-inversion-dice-vanessa-rubio",
       "fecha": "30 Oct 2026, 13:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Una sobreoferta de frijol deja pérdidas para el gobierno y un efecto mínimo en la inflación",
+      "resumen": "El gobierno puede perder entre 2,000 y 2,850 millones de pesos, por una súper cosecha en 2025 y compras de a 27 pesos el kilo.",
+      "link": "https://expansion.mx/economia/2026/10/30/gobierno-compro-frijol-27-pesos-ahora-remata",
+      "fecha": "30 Oct 2026, 10:03 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra dólar en $18.57",
-      "resumen": "El dólar cerró este lunes con una cotización de $18.57; cifra 20.81 centavos menor al viernes.",
-      "link": "https://www.reforma.com/cierra-dolar-en-18-57/ar3306906",
-      "fecha": "02 Nov 2026, 17:56 hrs"
+      "titulo": "Baja de tasas causaría caída desordenada del peso.- JPMorgan",
+      "resumen": "JPMorgan advirtió de una caída \"desordenada\" del peso mexicano frente al dólar si Banxico recorta la tasa de interés a fines de esta semana.",
+      "link": "https://www.reforma.com/baja-de-tasas-causaria-caida-desordenada-del-peso-jpmorgan/ar3307175",
+      "fecha": "03 Nov 2026, 08:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Concluye México Evaluación Mutua de GAFI",
-      "resumen": "SHCP anunció que concluyó el proceso de Evaluación Mutua del Grupo de Acción Financiera Internacional (GAFI).",
-      "link": "https://www.reforma.com/concluye-mexico-evaluacion-mutua-de-gafi/ar3306893",
-      "fecha": "02 Nov 2026, 17:31 hrs"
+      "titulo": "Firmará CFE contratos mixtos con IP en 2027",
+      "resumen": "CFE empezará a firmar los primeros contratos de desarrollo de centrales eléctricas con iniciativa privada en el primer trimestre de 2027.",
+      "link": "https://www.reforma.com/firmara-cfe-contratos-mixtos-con-ip-en-2027/ar3306960",
+      "fecha": "03 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afecta gusano ahora al aguacate",
-      "resumen": "Detección de gusano barrenador en aguacate mexicano provocó la destrucción de hasta 52 toneladas en Michoacán, Jalisco, Colima y Nayarit.",
-      "link": "https://www.reforma.com/afecta-gusano-ahora-al-aguacate/ar3306884",
-      "fecha": "02 Nov 2026, 17:17 hrs"
+      "titulo": "Elevaría semana de 40 hrs costo laboral en 10 mmdd",
+      "resumen": "Para 2030, cuando se implementen las 40 horas laborales a la semana, costo de nómina podría encarecerse hasta en casi 10 mmdd para las IMMEX",
+      "link": "https://www.reforma.com/elevaria-semana-de-40-hrs-costo-laboral-en-10-mmdd/ar3307000",
+      "fecha": "03 Nov 2026, 07:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Abren queja laboral contra Madobox",
-      "resumen": "USTR abrió una queja laboral en contra de la empresa Madobox por negar el derecho a la libertad de asociación y negociación colectiva.",
-      "link": "https://www.reforma.com/abren-queja-laboral-contra-madobox/ar3306883",
-      "fecha": "02 Nov 2026, 17:17 hrs"
+      "titulo": "Baja costo financiero y da respiro al gasto público",
+      "resumen": "El costo financiero del sector público bajó 3.7% real anual a 958 mil 999.7 mdp de enero a septiembre, por peso fuerte y menores tasas.",
+      "link": "https://www.reforma.com/baja-costo-financiero-y-da-respiro-al-gasto-publico/ar3306937",
+      "fecha": "03 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecen 12% ingresos de Apple y superan expectativas",
-      "resumen": "Apple superó las expectativas de ingresos trimestrales en el primer informe de ganancias del CEO John Ternus.",
-      "link": "https://www.reforma.com/crecen-12-ingresos-de-apple-y-superan-expectativas/ar3306843",
-      "fecha": "02 Nov 2026, 15:40 hrs"
+      "titulo": "'Ve luz' la economía",
+      "resumen": "A tasa anual, la economía mexicana, medida por el PIB, se incrementó 3.19 por ciento en el tercer trimestre de 2026.",
+      "link": "https://www.reforma.com/ve-luz-la-economia/ar3306957",
+      "fecha": "03 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Mantendrá Toyota operaciones en planta de Guanajuato",
-      "resumen": "Toyota confirmó que su planta en Guanajuato seguirá operando con normalidad, pese a la inversión de 3 mil 600 mdd que anunció en Texas.",
-      "link": "https://www.reforma.com/mantendra-toyota-operaciones-en-planta-de-guanajuato/ar3306790",
-      "fecha": "02 Nov 2026, 14:23 hrs"
+      "titulo": "Hackers de Binance usaron entrevista de trabajo falsa",
+      "resumen": "Binance dijo que hackers usaron una entrevista de trabajo falsa para comprometer un computador y con ayuda de IA lograron robar 6,300 mdd.",
+      "link": "https://www.reforma.com/hackers-de-binance-usaron-entrevista-de-trabajo-falsa/ar3307197",
+      "fecha": "03 Nov 2026, 09:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae nuevamente producción de Pemex; omite desglose de crudo",
-      "resumen": "Pemex produjo un millón 595.6 mil bpd de hidrocarburos en septiembre, 2.46% menos que hace un año, sin detallar crudo y condensados.",
-      "link": "https://www.reforma.com/cae-nuevamente-produccion-de-pemex-omite-desglose-de-crudo/ar3306780",
-      "fecha": "02 Nov 2026, 14:19 hrs"
+      "titulo": "Baja Pemex inversión y registra pérdidas",
+      "resumen": "Pemex redujo 4.5% real anual su inversión presupuestal en exploración y extracción de hidrocarburos en los primeros nueve meses de 2025.",
+      "link": "https://www.reforma.com/baja-pemex-inversion-y-registra-perdidas/ar3306942",
+      "fecha": "03 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se hunde crudo 8% tras señales de conversaciones de paz",
-      "resumen": "Futuros del crudo Brent cedieron 11.24, a 104.77 dólares el barril, mientras que los del West Texas Intermediate restaron 7.36%, a 96.46.",
-      "link": "https://www.reforma.com/se-hunde-crudo-8-tras-senales-de-conversaciones-de-paz/ar3306605",
-      "fecha": "02 Nov 2026, 12:24 hrs"
+      "titulo": "Va 3B por más tiendas; proyecta llegar a 14 mil",
+      "resumen": "La cadena de tiendas 3B ve potencial para casi cuadruplicar su presencia en México, donde actualmente opera 3 mil 624 establecimientos.",
+      "link": "https://www.reforma.com/va-3b-por-mas-tiendas-proyecta-llegar-a-14-mil/ar3306946",
+      "fecha": "03 Nov 2026, 05:01 hrs"
     }
   ]
 }
