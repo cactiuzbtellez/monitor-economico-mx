@@ -1,7 +1,70 @@
 {
-  "actualizado": "03/11/2026 15:31 hrs",
+  "actualizado": "03/11/2026 19:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banorte pagará más impuestos en 2027 por cambios a la Ley de Ingresos, dice su CEO Marcos Ramírez",
+      "resumen": "Al cierre del tercer trimestre de 2026, la utilidad neta del segundo grupo financiero más grande de México se ubicó en 15,658 millones de pesos, un aumento anual de 20%.",
+      "link": "https://expansion.mx/economia/2026/11/03/banorte-pagara-mas-impuestos-en-2027-por-cambios-a-la-ley-de-ingresos-dice-su-ceo-marcos-ramirez",
+      "fecha": "03 Nov 2026, 19:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Manufactureras, comercio y servicios profesionales concentran los créditos fiscales con el SAT",
+      "resumen": "Cinco sectores concentran el 58% de los adeudos con la autoridad fiscal por más de 1.9 billones de pesos, mientras el 87% de los créditos corresponde a personas morales.",
+      "link": "https://expansion.mx/economia/2026/11/03/creditos-fiscales-sat-sectores",
+      "fecha": "03 Nov 2026, 16:42 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Cámara de Comercio de EU pide al Senado de México corregir los cambios al ISR por riesgos a la inversión",
+      "resumen": "Las empresas de Estados Unidos respaldan combatir la evasión, pero pide ajustar el Paquete Económico 2027 para proteger gastos operativos y evitar la doble tributación.",
+      "link": "https://expansion.mx/economia/2026/11/03/cambios-isr-2027-mexico-alerta-camara-comercio-eu",
+      "fecha": "03 Nov 2026, 15:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Economía de México crecerá más en 2026 y 2027, dice encuesta de Banxico",
+      "resumen": "En octubre incrementó el optimismo sobre la situación económica del país. Sobre el tipo de cambio, especialistas consultados por el banco central estiman una paridad de18.25 pesos por dólar para el ci…",
+      "link": "https://expansion.mx/economia/2026/11/03/economia-2026-y-2027-economistas-suben-expectativas",
+      "fecha": "03 Nov 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "De Facebook a WhatsApp: el modus operandi con el que suplantan identidad a Barclays México para robar tu dinero",
+      "resumen": "Condusef advierte publicidad falsa en redes sociales en donde personas promueven cursos para convertirse en \"especialistas en inversiones”.",
+      "link": "https://expansion.mx/economia/2026/11/03/de-facebook-a-whatsapp-el-modus-operandi-con-el-que-suplantan-identidad-a-barclays-mexico-para-robar-tu-dinero",
+      "fecha": "03 Nov 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ante elecciones en EU, aranceles y guerra con Irán debilitan a Trump, dice Banamex",
+      "resumen": "De acuerdo con el banco, la narrativa \"MAGA\" prometía reducir el costo de la vida para los norteamericanos, pero su política comercial y el conflicto en Medio Oriente sólo consiguieron aumentarlo de m…",
+      "link": "https://expansion.mx/economia/2026/11/03/ante-elecciones-en-eu-aranceles-y-guerra-con-iran-debilitan-a-trump-dice-banamex",
+      "fecha": "03 Nov 2026, 12:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México está impulsando el boom de IA de Estados Unidos, dice Roberto Velasco",
+      "resumen": "En Madrid, el secretario de Relaciones Exteriores explicó que 11 de los 12 mexicanos afectados en el choque de trenes de alta velocidad, el pasado 28 de octubre, tuvieron heridas leves y fueron dados …",
+      "link": "https://expansion.mx/economia/2026/11/03/mexico-esta-impulsando-el-boom-de-ia-de-estados-unidos-sre",
+      "fecha": "03 Nov 2026, 10:17 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -13,66 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La IA es un lento \"tsunami\" laboral y financiero que preocupa al FMI",
-      "resumen": "El Fondo Monetario Internacional espera que, en menos de cinco años, la IA impacte en el 40% de los empleos a nivel global.",
-      "link": "https://expansion.mx/economia/2026/11/03/la-ia-es-un-lento-tsunami-laboral-y-financiero-que-preocupa-al-fmi",
-      "fecha": "03 Nov 2026, 08:11 hrs"
+      "titulo": "Profeco analizó 36 caldos y sazonadores; detectó que Knorr y otras marcas no cumplen con las normas",
+      "resumen": "Profeco encontró faltantes de producto, errores de etiquetado y fallas en envases; también identificó opciones con menos sodio.",
+      "link": "https://expansion.mx/empresas/2026/11/03/profeco-caldos-sazonadores-knorr-marcas-no-cumplen",
+      "fecha": "03 Nov 2026, 19:05 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "FMI destaca a Brasil como el país que lo tiene todo para crecer",
-      "resumen": "La Conferencia Bancaria Internacional organizada por Banco Santander se inauguró en Madrid con discusiones sobre la relevancia de América Latina, los riesgos fiscales y tecnológicos.",
-      "link": "https://expansion.mx/economia/2026/11/03/fmi-destaca-a-brasil-pais-tiene-todo-para-crecer",
-      "fecha": "03 Nov 2026, 08:09 hrs"
+      "titulo": "Marcas de ropa en México usan probadores virtuales para vender más y reducir devoluciones",
+      "resumen": "Ante el aumento de costos por devoluciones, algunos negocios como Campillo y Yakampot han incorporado una herramienta que recomienda medidas y muestra cómo se vería la prenda antes de pagarla.",
+      "link": "https://expansion.mx/empresas/2026/11/03/probadores-virtuales-ropa-mexico-devoluciones",
+      "fecha": "03 Nov 2026, 18:13 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El Fondo Monetario Internacional está listo para rescatar a una economía avanzada",
-      "resumen": "La directora del Fondo Monetario Internacional indicó que esta situación es indeseable, pues dejaría más vulnerables a las economías de menores recursos.",
-      "link": "https://expansion.mx/economia/2026/11/03/el-fondo-monetario-internacional-esta-listo-para-rescatar-a-una-economia-avanzada",
-      "fecha": "03 Nov 2026, 08:06 hrs"
+      "titulo": "El aeropuerto de Texcoco no se construyó, pero el AICM todavía debe 3,152 millones de dólares",
+      "resumen": "Aunque el NAIM nunca recibió pasajeros, su cancelación continúa generando obligaciones financieras. La TUA que pagan los viajeros del AICM financian tanto esa deuda como parte de las obras de remodela…",
+      "link": "https://expansion.mx/empresas/2026/11/03/cancelar-aeropuerto-texcoco-aun-cuesta-aicm",
+      "fecha": "03 Nov 2026, 15:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Por envejecimiento de la población, rentas vitalicias tomarán vuelo, advierte la AMIS",
-      "resumen": "En entrevista con Expansión, Pedro Pacheco, presidente del organismo, dijo que la industria busca incentivar la reflexión sobre la protección financiera en la segunda semana nacional del Seguro.",
-      "link": "https://expansion.mx/economia/2026/11/03/por-envejecimiento-de-la-poblacion-rentas-vitalicias-tomaran-vuelo-advierte-la-amis",
-      "fecha": "03 Nov 2026, 06:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México concluye evaluación del GAFI sobre lavado de dinero, pero aún falta conocer su calificación",
-      "resumen": "La Secretaría de Hacienda informó que concluyó la revisión internacional sobre los mecanismos de México para prevenir el lavado de dinero. Los resultados se publicarán el 17 de diciembre.",
-      "link": "https://expansion.mx/economia/2026/11/02/mexico-evaluacion-gafi-lavado-dinero-resultados-2026",
-      "fecha": "02 Nov 2026, 18:21 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Restaurantes, bienestar y mascotas ganan espacio en el gasto con tarjetas de jóvenes",
-      "resumen": "De acuerdo con American Express, el uso de tarjetas para pagar experiencias relacionados con el estilo de vida registra avances en distintas categorías, en un contexto de cambios en los hábitos de con…",
-      "link": "https://expansion.mx/economia/2026/11/02/restaurantes-bienestar-y-mascotas-ganan-espacio-en-el-gasto-con-tarjetas-de-jovenes",
-      "fecha": "02 Nov 2026, 09:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "SAT hasta en la tumba: qué pasa con las deudas y los saldos a favor cuando alguien muere en 2026",
-      "resumen": "Las obligaciones fiscales no desaparecen automáticamente al morir. La sucesión puede tener impuestos pendientes y derechos a devolución; estos son los puntos clave.",
-      "link": "https://expansion.mx/economia/2026/10/31/sat-que-pasa-deudas-saldos-a-favor-persona-fallecida-2026",
-      "fecha": "31 Oct 2026, 08:01 hrs"
+      "titulo": "Ni el América ni la FIFA: el negocio 'secreto' que sostiene a Ollamani de Azcárraga tras el Mundial 2026",
+      "resumen": "Con 17 casinos en 12 estados, la división de juegos y sorteos se ha convertido en uno de los principales motores financieros de la empresa.",
+      "link": "https://expansion.mx/empresas/2026/11/03/playcity-el-negocio-que-sostiene-a-ollamani-de-azcarraga",
+      "fecha": "03 Nov 2026, 12:17 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,49 +147,67 @@
       "fecha": "30 Oct 2026, 14:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim tiene un negocio millonario de oro y plata del que poco se habla: opera minas en varios estados de México",
-      "resumen": "La minera produce oro y plata, pero también depende de metales industriales como el cobre y el zinc. Sus resultados recientes reflejan el peso de los precios y del volumen procesado en sus ingresos.",
-      "link": "https://expansion.mx/empresas/2026/10/30/carlos-slim-negocio-minero-oro-plata-mexico",
-      "fecha": "30 Oct 2026, 13:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex pierde 10,795 millones de pesos, aunque reduce su deuda financiera y con proveedores",
-      "resumen": "La deuda financiera de Pemex disminuyó 8.9% al cierre de septiembre, mientras que los adeudos con proveedores y contratistas bajaron 5.1%.",
-      "link": "https://expansion.mx/empresas/2026/10/30/pemex-perdidas-tercer-trimestre-2026-ingresos-deuda",
-      "fecha": "30 Oct 2026, 12:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "México quiere atraer inversiones automotrices con un esquema que López Mateos prohibió en 1962",
-      "resumen": "El gobierno eximirá temporalmente de aranceles los kits SKD y CKD para atraer nuevas líneas de producción, con el reto de que las armadas integren componentes mexicanos en cinco años.",
-      "link": "https://expansion.mx/empresas/2026/10/30/mexico-atraer-inversiones-automotrices-esquema-prohibido-1962",
-      "fecha": "30 Oct 2026, 12:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Soriana recorta su superficie comercial y eso impacta sus ganancias 19% en el tercer trimestre",
-      "resumen": "La minorista cerró el periodo con 801 establecimientos activos en sus formatos Híper, Súper, Mercado, Express y City Club, una disminución de 18 unidades respecto a las 819 tiendas registradas un año …",
-      "link": "https://expansion.mx/empresas/2026/10/30/soriana-recorta-superficie-comercial-reporte-trimestral-2026",
-      "fecha": "30 Oct 2026, 11:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pagarán bancos más impuestos por cambios fiscales",
+      "resumen": "cambios fiscales impuestos en el Paquete Económico para 2027 significarán un mayor pago de impuestos para la banca, afirmó Banorte.",
+      "link": "https://www.reforma.com/pagaran-bancos-mas-impuestos-por-cambios-fiscales/ar3307660",
+      "fecha": "03 Nov 2026, 18:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estiman que no se logrará inflación de 3% en todo el sexenio",
-      "resumen": "La inflación no llegará a la meta puntual de 3.0 por ciento de Banxico en 2027 ni para 2030, estimaron analistas encuestados por el Banco.",
-      "link": "https://www.reforma.com/estiman-que-no-se-lograra-inflacion-de-3-en-todo-el-sexenio/ar3307331",
-      "fecha": "03 Nov 2026, 12:30 hrs"
+      "titulo": "Afirma Carney que EU ha rebajado sus exigencias comerciales",
+      "resumen": "Primer Ministro canadiense, Mark Carney, afirmó que EU está pidiendo menos y ofreciendo más en las negociaciones comerciales.",
+      "link": "https://www.reforma.com/afirma-carney-que-eu-ha-rebajado-sus-exigencias-comerciales/ar3307655",
+      "fecha": "03 Nov 2026, 18:42 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pagan 566 mdd por cancelación del NAIM; faltan 3 mil 152 mdd",
+      "resumen": "fideicomiso MEXCAT amortizó 565.9 millones de dólares para saldar una serie de bonos emitidos por la cancelación del NAIM.",
+      "link": "https://www.reforma.com/pagan-566-mdd-por-cancelacion-del-naim-faltan-3-mil-152-mdd/ar3307610",
+      "fecha": "03 Nov 2026, 17:50 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crecen 20% ganancias de Banorte en tercer trimestre",
+      "resumen": "Banorte reportó un aumento del 20% en su beneficio neto del tercer trimestre, a 15 mil 660 millones de pesos, en línea con lo esperado.",
+      "link": "https://www.reforma.com/crecen-20-ganancias-de-banorte-en-tercer-trimestre/ar3307500",
+      "fecha": "03 Nov 2026, 15:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impulsan cambios a Modalidad 40 planes privados de retiro",
+      "resumen": "Cambios a la Modalidad 40 del IMSS impulsan planes personales de retiro (PPR) entre jóvenes, señaló AMASFAC.",
+      "link": "https://www.reforma.com/impulsan-cambios-a-modalidad-40-planes-privados-de-retiro/ar3307499",
+      "fecha": "03 Nov 2026, 17:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suman 100 millones de líneas celulares registradas",
+      "resumen": "México superó los 100 millones de líneas celulares vinculadas, aunque todavía quedan cerca de 20 millones por registrar, reveló CRT.",
+      "link": "https://www.reforma.com/suman-100-millones-de-lineas-celulares-registradas/ar3307479",
+      "fecha": "03 Nov 2026, 15:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cae crudo Brent a mínimo de casi cuatro semanas",
+      "resumen": "Los futuros del Brent cayeron 1.12%, a 103.60 dólares el barril, mientras que el West Texas Intermediate perdió 0.38%, a 96.46 dólares.",
+      "link": "https://www.reforma.com/cae-crudo-brent-a-minimo-de-casi-cuatro-semanas/ar3307468",
+      "fecha": "03 Nov 2026, 15:03 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,60 +217,6 @@
       "resumen": "CCE señaló que trabajará con quien resulte electo en el Congreso y en las gubernaturas, en las elecciones de Estados Unidos.",
       "link": "https://www.reforma.com/trabajaremos-con-quien-resulte-electo-en-eu-cce/ar3307448",
       "fecha": "03 Nov 2026, 14:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Advierte US Chamber por impacto fiscal en México",
-      "resumen": "El organismo advierte impacto a la inversión de las empresas de EU en México por las medidas fiscales del Paquete Económico 2027.",
-      "link": "https://www.reforma.com/advierte-us-chamber-por-impacto-fiscal-en-mexico/ar3307287",
-      "fecha": "03 Nov 2026, 11:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Baja de tasas causaría caída desordenada del peso.- JPMorgan",
-      "resumen": "JPMorgan advirtió de una caída \"desordenada\" del peso mexicano frente al dólar si Banxico recorta la tasa de interés a fines de esta semana.",
-      "link": "https://www.reforma.com/baja-de-tasas-causaria-caida-desordenada-del-peso-jpmorgan/ar3307175",
-      "fecha": "03 Nov 2026, 08:59 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Temen causa política en barrenador aguacatero",
-      "resumen": "Aguacateros michoacanos sospechan un trasfondo político en la alerta por barrenador, tras protestas contra nuevos requisitos de exportación.",
-      "link": "https://www.reforma.com/temen-causa-politica-en-barrenador-aguacatero/ar3307391",
-      "fecha": "03 Nov 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Estima Canaco 20 mil mdp por ventas del Buen Fin en NL",
-      "resumen": "La Canaco Monterrey estima una derrama económica de 20 mil 200 millones de pesos por El Buen Fin 2026, un alza del 7% en relación al 2025.",
-      "link": "https://www.reforma.com/estima-canaco-20-mil-mdp-por-ventas-del-buen-fin-en-nl/ar3307390",
-      "fecha": "03 Nov 2026, 14:13 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prepara Banxico nuevo marco regulatorio para fideicomisos",
-      "resumen": "Banxico sometió a consulta pública un nuevo marco regulatorio para los fideicomisos operados por bancos y otras entidades financieras.",
-      "link": "https://www.reforma.com/prepara-banxico-nuevo-marco-regulatorio-para-fideicomisos/ar3307358",
-      "fecha": "03 Nov 2026, 14:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Falla electricidad en el 98% de manufactureras",
-      "resumen": "El 97.9% de las empresas manufactureras socias de Caintra reportaron en el primer semestre una afectación en el suministro de energía.",
-      "link": "https://www.reforma.com/falla-electricidad-en-el-98-de-manufactureras/ar3307319",
-      "fecha": "03 Nov 2026, 12:19 hrs"
     }
   ]
 }
