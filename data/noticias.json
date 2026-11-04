@@ -1,5 +1,5 @@
 {
-  "actualizado": "03/11/2026 19:55 hrs",
+  "actualizado": "04/11/2026 02:40 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Anticipan inversionistas avance demócrata en Congreso de EU",
+      "resumen": "Inversionistas se preparan para un resultado en donde los demócratas avanzarás tras las elecciones legislativas de este martes.",
+      "link": "https://www.reforma.com/anticipan-inversionistas-avance-democrata-en-congreso-de-eu/ar3307724",
+      "fecha": "03 Nov 2026, 20:43 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Pagarán bancos más impuestos por cambios fiscales",
       "resumen": "cambios fiscales impuestos en el Paquete Económico para 2027 significarán un mayor pago de impuestos para la banca, afirmó Banorte.",
       "link": "https://www.reforma.com/pagaran-bancos-mas-impuestos-por-cambios-fiscales/ar3307660",
@@ -208,15 +217,6 @@
       "resumen": "Los futuros del Brent cayeron 1.12%, a 103.60 dólares el barril, mientras que el West Texas Intermediate perdió 0.38%, a 96.46 dólares.",
       "link": "https://www.reforma.com/cae-crudo-brent-a-minimo-de-casi-cuatro-semanas/ar3307468",
       "fecha": "03 Nov 2026, 15:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Trabajaremos con quien resulte electo en EU.- CCE",
-      "resumen": "CCE señaló que trabajará con quien resulte electo en el Congreso y en las gubernaturas, en las elecciones de Estados Unidos.",
-      "link": "https://www.reforma.com/trabajaremos-con-quien-resulte-electo-en-eu-cce/ar3307448",
-      "fecha": "03 Nov 2026, 14:57 hrs"
     }
   ]
 }
