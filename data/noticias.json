@@ -1,7 +1,16 @@
 {
-  "actualizado": "04/11/2026 02:40 hrs",
+  "actualizado": "04/11/2026 10:52 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México se la pone difícil a China; aduanas aumentan vigilancia",
+      "resumen": "Antes de que los productos entren al país, se hará un intercambio de información con los gobiernos asiáticos, explicó directiva de la ANAM.",
+      "link": "https://expansion.mx/economia/2026/11/04/mexico-aduanas-asia-importaciones-irregulares",
+      "fecha": "04 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El Buen Fin 2026 tendrá un premio de 250,000 pesos: así puedes participar y qué compras cuentan para el sorteo",
-      "resumen": "El sorteo tiene el objetivo de fomentar el comercio formal y los pagos electrónicos, ofreciendo premios de miles de pesos a los comercios y consumidores que resulten ganadores.",
-      "link": "https://expansion.mx/economia/2026/11/03/sat-regalara-dinero-en-el-sorteo-del-buen-fin-2026",
-      "fecha": "03 Nov 2026, 09:25 hrs"
+      "titulo": "El Fin Irresistible vs. El Buen Fin 2026: cuándo empieza cada uno, qué tiendas participan y cómo cambian las ofertas",
+      "resumen": "Durante 5 días seguidos, las ofertas de ambas iniciativas se combinarán en las 3 cadenas de supermercados pertenecientes a Walmart de México.",
+      "link": "https://expansion.mx/empresas/2026/11/04/fin-irresistible-vs-buen-fin-2026-cuando-inicia-cada-uno",
+      "fecha": "04 Nov 2026, 10:33 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué pasó con Hermanos Vázquez? Cerró sus tiendas, pero la familia construyó un imperio de 92,813 millones de pesos",
+      "resumen": "La cadena que vendía muebles a crédito desapareció hace más de una década, pero la familia detrás del negocio construyó un conglomerado que hoy ocupa un lugar entre las 60 mayores empresas del país.",
+      "link": "https://expansion.mx/empresas/2026/11/04/que-fue-de-hermanos-vazquez-y-su-imperio-comercial",
+      "fecha": "04 Nov 2026, 09:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,31 +147,49 @@
       "fecha": "31 Oct 2026, 11:19 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ollamani de Emilio Azcárraga pierde casi 1,000 millones de pesos por el Mundial 2026 y estos son los motivos",
-      "resumen": "Aunque el torneo elevó los ingresos del negocio de fútbol, los gastos de operación, hospitalidad y adecuación del inmueble superaron los recursos obtenidos.",
-      "link": "https://expansion.mx/empresas/2026/10/30/ollamani-pierde-casi-mil-millones-por-el-mundial-2026",
-      "fecha": "30 Oct 2026, 18:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿15 o 40 días de aguinaldo? La condición que hace que unos trabajadores reciban mucho más que otros",
-      "resumen": "Detrás de una misma prestación hay reglas distintas que pueden cambiar por completo lo que cada persona recibe al cierre del año.",
-      "link": "https://expansion.mx/empresas/2026/10/30/aguinaldo-15-40-dias-trabajadores-mexico",
-      "fecha": "30 Oct 2026, 14:18 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Impacta a ingresos de CFE ajuste tarifario",
+      "resumen": "Ajuste de tarifas eléctricas y menores precios de gas natural impactaron en los ingresos de la Comisión Federal de Electricidad (CFE).",
+      "link": "https://www.reforma.com/impacta-a-ingresos-de-cfe-ajuste-tarifario/ar3307763",
+      "fecha": "04 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipan inversionistas avance demócrata en Congreso de EU",
-      "resumen": "Inversionistas se preparan para un resultado en donde los demócratas avanzarás tras las elecciones legislativas de este martes.",
-      "link": "https://www.reforma.com/anticipan-inversionistas-avance-democrata-en-congreso-de-eu/ar3307724",
-      "fecha": "03 Nov 2026, 20:43 hrs"
+      "titulo": "Suben 4.8% anual ventas de vehículos",
+      "resumen": "De enero a octubre, las ventas de vehículos ligeros sumaron un millón 287 mil 268 unidades; un incremento anual de 4.8%.",
+      "link": "https://www.reforma.com/suben-4-8-anual-ventas-de-vehiculos/ar3307958",
+      "fecha": "04 Nov 2026, 09:45 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se disparan mercados de EU tras victoria demócrata",
+      "resumen": "El Dow Jones subía más de mil 200 puntos al disminuir el riesgo político tras la victoria demócrata en elecciones de mitad de mandato en EU.",
+      "link": "https://www.reforma.com/se-disparan-mercados-de-eu-tras-victoria-democrata/ar3307927",
+      "fecha": "04 Nov 2026, 09:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevén que tras elección continúe incertidumbre",
+      "resumen": "Sin importar el resultado de las elecciones intermedias en EUs, especialistas prevén que el T-MEC continuará sujeto a presiones.",
+      "link": "https://www.reforma.com/preven-que-tras-eleccion-continue-incertidumbre/ar3307792",
+      "fecha": "04 Nov 2026, 07:04 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acuerdan reanudar exportación de aguacate",
+      "resumen": "Tras afectaciones, Gobierno federal informó que empacadoras y trabajadores alcanzaron un acuerdo para reanudar agroexportación en Michoacán.",
+      "link": "https://www.reforma.com/acuerdan-reanudar-exportacion-de-aguacate/ar3307944",
+      "fecha": "04 Nov 2026, 09:12 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma Carney que EU ha rebajado sus exigencias comerciales",
-      "resumen": "Primer Ministro canadiense, Mark Carney, afirmó que EU está pidiendo menos y ofreciendo más en las negociaciones comerciales.",
-      "link": "https://www.reforma.com/afirma-carney-que-eu-ha-rebajado-sus-exigencias-comerciales/ar3307655",
-      "fecha": "03 Nov 2026, 18:42 hrs"
+      "titulo": "Crea sector privado de EU 86 mil empleos en octubre",
+      "resumen": "El crecimiento del empleo en el sector privado estadounidense se aceleró a 86 mil plazas en octubre.",
+      "link": "https://www.reforma.com/crea-sector-privado-de-eu-86-mil-empleos-en-octubre/ar3307897",
+      "fecha": "04 Nov 2026, 07:45 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pagan 566 mdd por cancelación del NAIM; faltan 3 mil 152 mdd",
-      "resumen": "fideicomiso MEXCAT amortizó 565.9 millones de dólares para saldar una serie de bonos emitidos por la cancelación del NAIM.",
-      "link": "https://www.reforma.com/pagan-566-mdd-por-cancelacion-del-naim-faltan-3-mil-152-mdd/ar3307610",
-      "fecha": "03 Nov 2026, 17:50 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crecen 20% ganancias de Banorte en tercer trimestre",
-      "resumen": "Banorte reportó un aumento del 20% en su beneficio neto del tercer trimestre, a 15 mil 660 millones de pesos, en línea con lo esperado.",
-      "link": "https://www.reforma.com/crecen-20-ganancias-de-banorte-en-tercer-trimestre/ar3307500",
-      "fecha": "03 Nov 2026, 15:52 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Impulsan cambios a Modalidad 40 planes privados de retiro",
-      "resumen": "Cambios a la Modalidad 40 del IMSS impulsan planes personales de retiro (PPR) entre jóvenes, señaló AMASFAC.",
-      "link": "https://www.reforma.com/impulsan-cambios-a-modalidad-40-planes-privados-de-retiro/ar3307499",
-      "fecha": "03 Nov 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suman 100 millones de líneas celulares registradas",
-      "resumen": "México superó los 100 millones de líneas celulares vinculadas, aunque todavía quedan cerca de 20 millones por registrar, reveló CRT.",
-      "link": "https://www.reforma.com/suman-100-millones-de-lineas-celulares-registradas/ar3307479",
-      "fecha": "03 Nov 2026, 15:35 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae crudo Brent a mínimo de casi cuatro semanas",
-      "resumen": "Los futuros del Brent cayeron 1.12%, a 103.60 dólares el barril, mientras que el West Texas Intermediate perdió 0.38%, a 96.46 dólares.",
-      "link": "https://www.reforma.com/cae-crudo-brent-a-minimo-de-casi-cuatro-semanas/ar3307468",
-      "fecha": "03 Nov 2026, 15:03 hrs"
+      "titulo": "Complican régimen a maquiladoras",
+      "resumen": "La aplicación de una única metodología fiscal desde el 2022, conocida como Safe Harbor, afecta a las que operan bajo el programa IMMEX.",
+      "link": "https://www.reforma.com/complican-regimen-a-maquiladoras/ar3307788",
+      "fecha": "04 Nov 2026, 07:04 hrs"
     }
   ]
 }
