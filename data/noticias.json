@@ -1,7 +1,25 @@
 {
-  "actualizado": "05/11/2026 05:54 hrs",
+  "actualizado": "05/11/2026 13:33 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
+      "resumen": "La Junta de Gobierno de Banco de México voto en decisión divida de 3 a 2 bajar la tasa de interés",
+      "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
+      "fecha": "05 Nov 2026, 13:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de economía digital: los riesgos que enfrentarán los usuarios con más pagos con QR y transferencias",
+      "resumen": "La entrada en vigor de la Ley de Economía Digital busca disminuir el uso del efectivo en el país. El uso de medios de pago electrónicos conlleva mayor precaución para evitar fraudes o errores en trans…",
+      "link": "https://expansion.mx/economia/2026/11/05/ley-de-economia-digital-los-riesgos-que-enfrentaran-los-usuarios-con-mas-pagos-con-qr-y-transferencias",
+      "fecha": "05 Nov 2026, 13:02 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Santander conectará México y Estados Unidos a través de Openbank",
-      "resumen": "El banco prepara transferencias rápidas y de bajo costo entre ambos países, aunque la conexión tardará unos meses más de lo previsto, reconoció Ana Botín.",
-      "link": "https://expansion.mx/economia/2026/11/04/santander-conectara-mexico-estados-unidos-a-traves-openbank",
-      "fecha": "04 Nov 2026, 13:11 hrs"
+      "titulo": "Jetour va por los clientes de Ford Bronco con su SUV T2 4x4 de menos de un millón de pesos",
+      "resumen": "La automotriz china amplía la oferta de su modelo insignia en México con una versión híbrida enchufable de tracción integral, con la que busca ganar espacio en el mercado de las SUV todoterreno.",
+      "link": "https://expansion.mx/empresas/2026/11/05/jetour-t2-4x4-suv-llega-mexico-precio",
+      "fecha": "05 Nov 2026, 11:12 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Ebrard enfría la expectativa de cambios en aranceles tras las elecciones de EU",
-      "resumen": "El secretario de Economía dijo que México espera retomar las conversaciones del T-MEC tras la pausa electoral que solicitaron las autoridades estadounidenses.",
-      "link": "https://expansion.mx/economia/2026/11/04/eb-rard-aranceles-mexico-t-mec-elecciones-eu",
-      "fecha": "04 Nov 2026, 12:54 hrs"
+      "titulo": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
+      "resumen": "El ranking de Las 500 de Expansión revela cuáles son las compañías estadounidenses con mayores ingresos y cuántas personas trabajan en sus operaciones mexicanas.",
+      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
+      "fecha": "05 Nov 2026, 09:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Liverpool gana más por rentar espacios en sus plazas comerciales que Palacio de Hierro",
+      "resumen": "Liverpool aceleró sus ingresos por rentas con la expansión de Perisur y el control de Galerías Metepec, mientras Palacio de Hierro reportó un crecimiento más moderado en su negocio inmobiliario.",
+      "link": "https://expansion.mx/empresas/2026/11/05/liverpool-palacio-de-hierro-renta-locales-plazas-comerciales",
+      "fecha": "05 Nov 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,57 +147,66 @@
       "fecha": "04 Nov 2026, 16:34 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Trabajadores de Telcel crean Sindicato para protegerse de despidos y cambios laborales",
-      "resumen": "Trabajadores de Telcel buscan una representación sindical independiente ante los despidos y presuntos incumplimientos laborales que atribuyen a la empresa y a su actual sindicato titular.",
-      "link": "https://expansion.mx/empresas/2026/11/04/trabajadores-telcel-crean-nuevo-sindicato",
-      "fecha": "04 Nov 2026, 15:58 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reduce Banxico tasa a 6.25% y desafía diferencial con EU",
+      "resumen": "Banxico redujo su tasa de interés de referencia a 6.25 por ciento, en una decisión que pone a prueba el diferencial de tasas frente a EU.",
+      "link": "https://www.reforma.com/reduce-banxico-tasa-a-6-25-y-desafia-diferencial-con-eu/ar3308887",
+      "fecha": "05 Nov 2026, 13:10 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky para triplicar sus ingresos anuales",
-      "resumen": "La estrategia busca elevar los ingresos anuales en 8,000 millones de dólares mediante la venta conjunta de servicios fijos, móviles y satelitales, sin integrar inicialmente las operaciones de las tres…",
-      "link": "https://expansion.mx/empresas/2026/11/04/televisa-une-clientes-servicios-att-izzi-sky-ingresos",
-      "fecha": "04 Nov 2026, 12:58 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Van contra comercializadoras de combustibles 'de papel'",
+      "resumen": "La CNE exigirá a comercializadores 'de papel' de hidrocarburos invertir en infraestructura para combatir el huachicol fiscal.",
+      "link": "https://www.reforma.com/van-contra-comercializadoras-de-combustibles-de-papel/ar3308750",
+      "fecha": "05 Nov 2026, 09:57 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Fin Irresistible vs. El Buen Fin 2026: cuándo empieza cada uno, qué tiendas participan y cómo cambian las ofertas",
-      "resumen": "Durante 5 días seguidos, las ofertas de ambas iniciativas se combinarán en las 3 cadenas de supermercados pertenecientes a Walmart de México.",
-      "link": "https://expansion.mx/empresas/2026/11/04/fin-irresistible-vs-buen-fin-2026-cuando-inicia-cada-uno",
-      "fecha": "04 Nov 2026, 10:33 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Amplía SAT canales para tener Constancia de Situación Fiscal",
+      "resumen": "El SAT amplió las opciones para obtener la Constancia de Situación Fiscal (CSF).",
+      "link": "https://www.reforma.com/amplia-sat-canales-para-tener-constancia-de-situacion-fiscal/ar3308836",
+      "fecha": "05 Nov 2026, 12:00 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Profundizan mercados de EU pérdidas; Dow pierde 1,700 puntos",
+      "resumen": "Un día después del triunfo demócrata, el Nasdaq cae 4.9%, el S&amp;P 500 baja 3.7%, seguido por el Dow Jones que pierde mil 711 puntos, o 3.2%.",
+      "link": "https://www.reforma.com/profundizan-mercados-de-eu-perdidas-dow-pierde-1-700-puntos/ar3308687",
+      "fecha": "05 Nov 2026, 08:47 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Apunta IMPI contra medicamentos y bebidas alcohólicas pirata",
+      "resumen": "El IMPI hará operativos para combatir la venta de medicamentos y bebidas alcohólicas pirata.",
+      "link": "https://www.reforma.com/apunta-impi-contra-medicamentos-y-bebidas-alcoholicas-pirata/ar3308795",
+      "fecha": "05 Nov 2026, 11:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge AmCham a cabildeo con nuevo Congreso de EU",
+      "resumen": "Tras los resultados en las elecciones en EU ahora la tarea es aumentar el cabildeo con los nuevos congresistas por comercio con México.",
+      "link": "https://www.reforma.com/urge-amcham-a-cabildeo-con-nuevo-congreso-de-eu/ar3308515",
+      "fecha": "05 Nov 2026, 07:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Da CFE 'luz verde' a inversión privada",
-      "resumen": "CFEse puso fin a la pausa en los proyectos eléctricos con la iniciativa privada y se detonarán inversiones por 651 mil millones de pesos.",
+      "resumen": "CFE se puso fin a la pausa en los proyectos eléctricos con la iniciativa privada y se detonarán inversiones por 651 mil millones de pesos.",
       "link": "https://www.reforma.com/da-cfe-luz-verde-a-inversion-privada/ar3308544",
-      "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reclaman mejoras en la frontera norte",
-      "resumen": "Frontera norte enfrenta rezagos en infraestructura carretera, aduanera y energética, por lo que es necesario reforzar su desarrollo.",
-      "link": "https://www.reforma.com/reclaman-mejoras-en-la-frontera-norte/ar3308542",
-      "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Analizan gaseros ampararse contra reforma a ISR",
-      "resumen": "Sector de distribución de gas licuado de petróleo analiza interponer amparos contra la reforma a la Ley del Impuesto Sobre la Renta (ISR).",
-      "link": "https://www.reforma.com/analizan-gaseros-ampararse-contra-reforma-a-isr/ar3308548",
       "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
@@ -181,42 +217,6 @@
       "resumen": "Actividad turística registró un crecimiento moderado durante el segundo trimestre de 2026, luego de que el PIB turístico avanzó 0.4%.",
       "link": "https://www.reforma.com/avanza-turismo-a-paso-lento/ar3308549",
       "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden dar reglas claras ante reforma laboral",
-      "resumen": "STPS debe aclarar cómo operarán las pausas obligatorias, la desconexión digital y el trabajo asíncrono, opinan especialistas.",
-      "link": "https://www.reforma.com/piden-dar-reglas-claras-ante-reforma-laboral/ar3308531",
-      "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aumenta 1.4% robo de electrónicos",
-      "resumen": "Robo de electrónicos en el tercer trimestre de 2026 representó 6.1% de los robos a nivel nacional para el transporte de carga.",
-      "link": "https://www.reforma.com/aumenta-1-4-robo-de-electronicos/ar3308524",
-      "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven estabilidad en T-MEC tras triunfo demócrata en EU",
-      "resumen": "Antonio del Valle, presidente del CMN, consideró que el triunfo demócrata podría mejorar el entorno para migrantes y estabilizar el T-MEC.",
-      "link": "https://www.reforma.com/ven-estabilidad-en-t-mec-tras-triunfo-democrata-en-eu/ar3308503",
-      "fecha": "04 Nov 2026, 20:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acumula 5,675 MW generación distribuida",
-      "resumen": "En el primer semestre de 2026, apacidad acumulada instalada de generación distribuida alcanzó los 5 mil 675.47 megawatts, informó CNE.",
-      "link": "https://www.reforma.com/acumula-5-675-mw-generacion-distribuida/ar3308468",
-      "fecha": "04 Nov 2026, 19:49 hrs"
     }
   ]
 }
