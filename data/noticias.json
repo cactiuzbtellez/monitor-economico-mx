@@ -1,7 +1,52 @@
 {
-  "actualizado": "04/11/2026 21:12 hrs",
+  "actualizado": "05/11/2026 05:54 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "De cada 100 pesos del gasto público, 14 provendrán de deuda",
+      "resumen": "El gobierno federal recurre cada vez más a este tipo de financiamiento ante un menor crecimiento de los ingresos y un mayor gasto",
+      "link": "https://expansion.mx/economia/2026/11/04/100-pesos-gasto-publico-14-provendran-de-deuda-en-2027",
+      "fecha": "04 Nov 2026, 20:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Del ensamble a la innovación: la nueva oportunidad que abre el nearshoring en México",
+      "resumen": "Tras los años de anuncios e inversiones, el nearshoring entra en una etapa de ejecución en la que México deberá conectar a sus proveedores con las grandes empresas y elevar su valor agregado.",
+      "link": "https://expansion.mx/economia/2026/11/04/la-innovacion-abre-nueva-oportunidad-para-el-nearshoring",
+      "fecha": "04 Nov 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gobierno publica Ley de Economía Digital en DOF; en 15 días deben establecerse sectores donde disminuirá uso de efectivo",
+      "resumen": "Gasolineras y casetas serán los primeros giros donde se busque masificar los pagos digitales, además de incrementar el uso de CoDi y DiMo",
+      "link": "https://expansion.mx/economia/2026/11/04/ley-de-economia-digital-dof-cuando-entra-vigor",
+      "fecha": "04 Nov 2026, 19:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
+      "resumen": "De acuerdo con el presidente de ABM, en el nuevo Poder Judicial apenas existen dos tribunales especializados en materia mercantil del sector financiero.",
+      "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
+      "fecha": "04 Nov 2026, 18:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El norte de México atrae inversión, pero necesita preparar dónde recibirla, dicen especialistas",
+      "resumen": "La región conserva talento y experiencia industrial, pero la energía, la infraestructura y la certeza jurídica condicionan su crecimiento, señalaron los panelistas del Summit Norte de Expansión.",
+      "link": "https://expansion.mx/economia/2026/11/04/norte-mexico-obstaculos-atraer-inversion",
+      "fecha": "04 Nov 2026, 18:02 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,48 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¿Cómo puede afectar al T-MEC la nueva configuración política de EU?",
-      "resumen": "El control demócrata traería mayor vigilancia sobre temas comerciales y regulatorias de EU; sin embargo, no necesariamente facilitará las negociaciones, debido a que también buscarán proteger los empl…",
-      "link": "https://expansion.mx/economia/2026/11/04/como-puede-afectar-el-t-mec-la-nueva-configuracion-politica-de-eu",
-      "fecha": "04 Nov 2026, 12:26 hrs"
+      "titulo": "Las elecciones de EU dan certidumbre a la carga aérea en el norte de México",
+      "resumen": "Ricardo Dueñas, director general de OMA, ve en los resultados de las elecciones intermedias de EU una señal de certidumbre para invertir y aprovechar el crecimiento de la carga aérea impulsado por el …",
+      "link": "https://expansion.mx/empresas/2026/11/04/elecciones-intermedias-eu-dan-certidumbre-aeropuertos-norte",
+      "fecha": "04 Nov 2026, 21:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México se la pone difícil a China; aduanas aumentan vigilancia",
-      "resumen": "Antes de que los productos entren al país, se hará un intercambio de información con los gobiernos asiáticos, explicó directiva de la ANAM.",
-      "link": "https://expansion.mx/economia/2026/11/04/mexico-aduanas-asia-importaciones-irregulares",
-      "fecha": "04 Nov 2026, 05:55 hrs"
+      "titulo": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
+      "resumen": "Los compradores de acero ya consideran las emisiones de CO2 al elegir proveedores, un criterio comercial que puede determinar quién consigue contratos.",
+      "link": "https://expansion.mx/empresas/2026/11/04/ternium-inversion-4000-mdd-pesqueria-china-estados-unidos",
+      "fecha": "04 Nov 2026, 19:48 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banorte pagará más impuestos en 2027 por cambios a la Ley de Ingresos, dice su CEO Marcos Ramírez",
-      "resumen": "Al cierre del tercer trimestre de 2026, la utilidad neta del segundo grupo financiero más grande de México se ubicó en 15,658 millones de pesos, un aumento anual de 20%.",
-      "link": "https://expansion.mx/economia/2026/11/03/banorte-pagara-mas-impuestos-en-2027-por-cambios-a-la-ley-de-ingresos-dice-su-ceo-marcos-ramirez",
-      "fecha": "03 Nov 2026, 19:42 hrs"
+      "titulo": "La estrategia de OXXO para ir contra Nu y convertir a sus clientes en usuarios de tarjeta Spin",
+      "resumen": "Mientras Nu y otros empresas financieras buscan crecer, OXXO apuesta por sus tiendas para impulsar Spin y ampliar su presencia entre los usuarios.",
+      "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
+      "fecha": "04 Nov 2026, 17:50 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Manufactureras, comercio y servicios profesionales concentran los créditos fiscales con el SAT",
-      "resumen": "Cinco sectores concentran el 58% de los adeudos con la autoridad fiscal por más de 1.9 billones de pesos, mientras el 87% de los créditos corresponde a personas morales.",
-      "link": "https://expansion.mx/economia/2026/11/03/creditos-fiscales-sat-sectores",
-      "fecha": "03 Nov 2026, 16:42 hrs"
+      "titulo": "Flying Tiger Copenhagen llega a México: dónde estarán sus tiendas y qué podrás comprar en la cadena de diseño accesible",
+      "resumen": "La marca danesa nació en 1995 con un concepto de artículos a bajo precio y hoy tiene más de 1,000 establecimientos en distintos mercados. En México, su primera tienda abrió en Plaza Carso.",
+      "link": "https://expansion.mx/empresas/2026/11/04/flying-tiger-copenhagen-cuando-abre-tiendas-mexico",
+      "fecha": "04 Nov 2026, 17:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Cámara de Comercio de EU pide al Senado de México corregir los cambios al ISR por riesgos a la inversión",
-      "resumen": "Las empresas de Estados Unidos respaldan combatir la evasión, pero pide ajustar el Paquete Económico 2027 para proteger gastos operativos y evitar la doble tributación.",
-      "link": "https://expansion.mx/economia/2026/11/03/cambios-isr-2027-mexico-alerta-camara-comercio-eu",
-      "fecha": "03 Nov 2026, 15:15 hrs"
+      "titulo": "Mientras Olinia costará 150,000 pesos, en Japón Nissan Sakura vale 293,832, con cámara 360° y alimenta electrodomésticos",
+      "resumen": "El eléctrico japonés ofrece hasta 180 km de autonomía, carga rápida y funciones que llevan su propuesta más allá del uso urbano.",
+      "link": "https://expansion.mx/empresas/2026/11/04/olinia-vs-nissan-sakura-precio-autonomia-equipamiento",
+      "fecha": "04 Nov 2026, 16:34 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,49 +147,58 @@
       "fecha": "04 Nov 2026, 10:33 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "¿Qué pasó con Hermanos Vázquez? Cerró sus tiendas, pero la familia construyó un imperio de 92,813 millones de pesos",
-      "resumen": "La cadena que vendía muebles a crédito desapareció hace más de una década, pero la familia detrás del negocio construyó un conglomerado que hoy ocupa un lugar entre las 60 mayores empresas del país.",
-      "link": "https://expansion.mx/empresas/2026/11/04/que-fue-de-hermanos-vazquez-y-su-imperio-comercial",
-      "fecha": "04 Nov 2026, 09:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Da CFE 'luz verde' a inversión privada",
+      "resumen": "CFEse puso fin a la pausa en los proyectos eléctricos con la iniciativa privada y se detonarán inversiones por 651 mil millones de pesos.",
+      "link": "https://www.reforma.com/da-cfe-luz-verde-a-inversion-privada/ar3308544",
+      "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Profeco analizó 36 caldos y sazonadores; detectó que Knorr y otras marcas no cumplen con las normas",
-      "resumen": "Profeco encontró faltantes de producto, errores de etiquetado y fallas en envases; también identificó opciones con menos sodio.",
-      "link": "https://expansion.mx/empresas/2026/11/03/profeco-caldos-sazonadores-knorr-marcas-no-cumplen",
-      "fecha": "03 Nov 2026, 19:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reclaman mejoras en la frontera norte",
+      "resumen": "Frontera norte enfrenta rezagos en infraestructura carretera, aduanera y energética, por lo que es necesario reforzar su desarrollo.",
+      "link": "https://www.reforma.com/reclaman-mejoras-en-la-frontera-norte/ar3308542",
+      "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Marcas de ropa en México usan probadores virtuales para vender más y reducir devoluciones",
-      "resumen": "Ante el aumento de costos por devoluciones, algunos negocios como Campillo y Yakampot han incorporado una herramienta que recomienda medidas y muestra cómo se vería la prenda antes de pagarla.",
-      "link": "https://expansion.mx/empresas/2026/11/03/probadores-virtuales-ropa-mexico-devoluciones",
-      "fecha": "03 Nov 2026, 18:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Analizan gaseros ampararse contra reforma a ISR",
+      "resumen": "Sector de distribución de gas licuado de petróleo analiza interponer amparos contra la reforma a la Ley del Impuesto Sobre la Renta (ISR).",
+      "link": "https://www.reforma.com/analizan-gaseros-ampararse-contra-reforma-a-isr/ar3308548",
+      "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El aeropuerto de Texcoco no se construyó, pero el AICM todavía debe 3,152 millones de dólares",
-      "resumen": "Aunque el NAIM nunca recibió pasajeros, su cancelación continúa generando obligaciones financieras. La TUA que pagan los viajeros del AICM financian tanto esa deuda como parte de las obras de remodela…",
-      "link": "https://expansion.mx/empresas/2026/11/03/cancelar-aeropuerto-texcoco-aun-cuesta-aicm",
-      "fecha": "03 Nov 2026, 15:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Avanza turismo a paso lento",
+      "resumen": "Actividad turística registró un crecimiento moderado durante el segundo trimestre de 2026, luego de que el PIB turístico avanzó 0.4%.",
+      "link": "https://www.reforma.com/avanza-turismo-a-paso-lento/ar3308549",
+      "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni el América ni la FIFA: el negocio 'secreto' que sostiene a Ollamani de Azcárraga tras el Mundial 2026",
-      "resumen": "Con 17 casinos en 12 estados, la división de juegos y sorteos se ha convertido en uno de los principales motores financieros de la empresa.",
-      "link": "https://expansion.mx/empresas/2026/11/03/playcity-el-negocio-que-sostiene-a-ollamani-de-azcarraga",
-      "fecha": "03 Nov 2026, 12:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Piden dar reglas claras ante reforma laboral",
+      "resumen": "STPS debe aclarar cómo operarán las pausas obligatorias, la desconexión digital y el trabajo asíncrono, opinan especialistas.",
+      "link": "https://www.reforma.com/piden-dar-reglas-claras-ante-reforma-laboral/ar3308531",
+      "fecha": "05 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta 1.4% robo de electrónicos",
+      "resumen": "Robo de electrónicos en el tercer trimestre de 2026 representó 6.1% de los robos a nivel nacional para el transporte de carga.",
+      "link": "https://www.reforma.com/aumenta-1-4-robo-de-electronicos/ar3308524",
+      "fecha": "05 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -163,60 +217,6 @@
       "resumen": "En el primer semestre de 2026, apacidad acumulada instalada de generación distribuida alcanzó los 5 mil 675.47 megawatts, informó CNE.",
       "link": "https://www.reforma.com/acumula-5-675-mw-generacion-distribuida/ar3308468",
       "fecha": "04 Nov 2026, 19:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierde México 251 mil mdp por excluir talento",
-      "resumen": "México deja de producir alrededor de 251 mil millones de pesos anuales, equivalentes al 0.75 PIB, por excluir a personas con discapacidad.",
-      "link": "https://www.reforma.com/pierde-mexico-251-mil-mdp-por-excluir-talento/ar3308463",
-      "fecha": "04 Nov 2026, 19:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Manda United Airlines 'a volar' al Aeropuerto de Tulum",
-      "resumen": "United Airlines anunció que dejará de operar en el Aeropuerto Internacional de Tulum Felipe Carrillo Puerto.",
-      "link": "https://www.reforma.com/manda-united-airlines-a-volar-al-aeropuerto-de-tulum/ar3308407",
-      "fecha": "04 Nov 2026, 18:54 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Publican ley de pagos digitales obligatorios",
-      "resumen": "El Gobierno federal publicó en el DOF la nueva ley de pagos digitales que no permitirá efectivo en los sectores que determine Hacienda.",
-      "link": "https://www.reforma.com/publican-ley-de-pagos-digitales-obligatorios/ar3308401",
-      "fecha": "04 Nov 2026, 18:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra dólar en $18.61 y recupera terreno peso",
-      "resumen": "El dólar cerró el miércoles con una cotización de $18.61; cifra 21.41 centavos menor al martes.",
-      "link": "https://www.reforma.com/cierra-dolar-en-18-61-y-recupera-terreno-peso/ar3308387",
-      "fecha": "04 Nov 2026, 18:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presionan porcicultores para limitar importaciones",
-      "resumen": "Los productores de carne de cerdo piden limitar las importaciones de ese alimento, en especial desde países sin un TLC, como Brasil.",
-      "link": "https://www.reforma.com/presionan-porcicultores-para-limitar-importaciones/ar3308313",
-      "fecha": "04 Nov 2026, 17:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cae Snap 10% tras incumplir previsión de ingresos y usuarios",
-      "resumen": "Las acciones de Snap cayeron más del 10% después de que la compañía no alcanzara las previsiones de ingresos y usuarios activos diarios.",
-      "link": "https://www.reforma.com/cae-snap-10-tras-incumplir-prevision-de-ingresos-y-usuarios/ar3308259",
-      "fecha": "04 Nov 2026, 15:48 hrs"
     }
   ]
 }
