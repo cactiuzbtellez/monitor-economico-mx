@@ -1,7 +1,43 @@
 {
-  "actualizado": "04/11/2026 16:25 hrs",
+  "actualizado": "04/11/2026 21:12 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "EU votó, pero los pendientes comerciales de México siguen sobre la mesa, señala la IP",
+      "resumen": "Concanaco- Servytur advierte que el cambio político no resuelve los aranceles ni el T-MEC. CCE e Index apuestan por el diálogo para fortalecer la integración.",
+      "link": "https://expansion.mx/economia/2026/11/04/elecciones-eu-pendientes-comerciales-mexico-ip",
+      "fecha": "04 Nov 2026, 14:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Santander conectará México y Estados Unidos a través de Openbank",
+      "resumen": "El banco prepara transferencias rápidas y de bajo costo entre ambos países, aunque la conexión tardará unos meses más de lo previsto, reconoció Ana Botín.",
+      "link": "https://expansion.mx/economia/2026/11/04/santander-conectara-mexico-estados-unidos-a-traves-openbank",
+      "fecha": "04 Nov 2026, 13:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ebrard enfría la expectativa de cambios en aranceles tras las elecciones de EU",
+      "resumen": "El secretario de Economía dijo que México espera retomar las conversaciones del T-MEC tras la pausa electoral que solicitaron las autoridades estadounidenses.",
+      "link": "https://expansion.mx/economia/2026/11/04/eb-rard-aranceles-mexico-t-mec-elecciones-eu",
+      "fecha": "04 Nov 2026, 12:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿Cómo puede afectar al T-MEC la nueva configuración política de EU?",
+      "resumen": "El control demócrata traería mayor vigilancia sobre temas comerciales y regulatorias de EU; sin embargo, no necesariamente facilitará las negociaciones, debido a que también buscarán proteger los empl…",
+      "link": "https://expansion.mx/economia/2026/11/04/como-puede-afectar-el-t-mec-la-nueva-configuracion-politica-de-eu",
+      "fecha": "04 Nov 2026, 12:26 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Economía de México crecerá más en 2026 y 2027, dice encuesta de Banxico",
-      "resumen": "En octubre incrementó el optimismo sobre la situación económica del país. Sobre el tipo de cambio, especialistas consultados por el banco central estiman una paridad de18.25 pesos por dólar para el ci…",
-      "link": "https://expansion.mx/economia/2026/11/03/economia-2026-y-2027-economistas-suben-expectativas",
-      "fecha": "03 Nov 2026, 15:08 hrs"
+      "titulo": "Trabajadores de Telcel crean Sindicato para protegerse de despidos y cambios laborales",
+      "resumen": "Trabajadores de Telcel buscan una representación sindical independiente ante los despidos y presuntos incumplimientos laborales que atribuyen a la empresa y a su actual sindicato titular.",
+      "link": "https://expansion.mx/empresas/2026/11/04/trabajadores-telcel-crean-nuevo-sindicato",
+      "fecha": "04 Nov 2026, 15:58 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "De Facebook a WhatsApp: el modus operandi con el que suplantan identidad a Barclays México para robar tu dinero",
-      "resumen": "Condusef advierte publicidad falsa en redes sociales en donde personas promueven cursos para convertirse en \"especialistas en inversiones”.",
-      "link": "https://expansion.mx/economia/2026/11/03/de-facebook-a-whatsapp-el-modus-operandi-con-el-que-suplantan-identidad-a-barclays-mexico-para-robar-tu-dinero",
-      "fecha": "03 Nov 2026, 13:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ante elecciones en EU, aranceles y guerra con Irán debilitan a Trump, dice Banamex",
-      "resumen": "De acuerdo con el banco, la narrativa \"MAGA\" prometía reducir el costo de la vida para los norteamericanos, pero su política comercial y el conflicto en Medio Oriente sólo consiguieron aumentarlo de m…",
-      "link": "https://expansion.mx/economia/2026/11/03/ante-elecciones-en-eu-aranceles-y-guerra-con-iran-debilitan-a-trump-dice-banamex",
-      "fecha": "03 Nov 2026, 12:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México está impulsando el boom de IA de Estados Unidos, dice Roberto Velasco",
-      "resumen": "En Madrid, el secretario de Relaciones Exteriores explicó que 11 de los 12 mexicanos afectados en el choque de trenes de alta velocidad, el pasado 28 de octubre, tuvieron heridas leves y fueron dados …",
-      "link": "https://expansion.mx/economia/2026/11/03/mexico-esta-impulsando-el-boom-de-ia-de-estados-unidos-sre",
-      "fecha": "03 Nov 2026, 10:17 hrs"
+      "titulo": "Televisa combinará los servicios y clientes de AT&T, Izzi y Sky para triplicar sus ingresos anuales",
+      "resumen": "La estrategia busca elevar los ingresos anuales en 8,000 millones de dólares mediante la venta conjunta de servicios fijos, móviles y satelitales, sin integrar inicialmente las operaciones de las tres…",
+      "link": "https://expansion.mx/empresas/2026/11/04/televisa-une-clientes-servicios-att-izzi-sky-ingresos",
+      "fecha": "04 Nov 2026, 12:58 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,94 +147,76 @@
       "fecha": "03 Nov 2026, 12:17 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "“No podemos depender de un solo sector”: Puebla acelera su diversificación tras el bache de Volkswagen",
-      "resumen": "La armadora y su cadena de proveeduría representan hasta 43.4% del PIB estatal, una dependencia que el gobierno de Alejandro Armenta busca reducir mediante la diversificación hacia otros sectores.",
-      "link": "https://expansion.mx/empresas/2026/10/31/puebla-acelera-diversificacion-planta-volkswagen",
-      "fecha": "31 Oct 2026, 17:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Renault, Hyundai y Nissan bajan 50,000 pesos los precios de Kwid, Grand i10 y March",
-      "resumen": "Las tres automotrices recurren a promociones y bonos para colocar sus modelos de entrada entre los más económicos del mercado. La competencia también se libra en motores, tecnología y seguridad.",
-      "link": "https://expansion.mx/empresas/2026/10/31/kwid-grand-i10-march-bajan-precio-auto-mas-barato-mexico",
-      "fecha": "31 Oct 2026, 11:19 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ven estabilidad en T-MEC tras triunfo demócrata en EU",
+      "resumen": "Antonio del Valle, presidente del CMN, consideró que el triunfo demócrata podría mejorar el entorno para migrantes y estabilizar el T-MEC.",
+      "link": "https://www.reforma.com/ven-estabilidad-en-t-mec-tras-triunfo-democrata-en-eu/ar3308503",
+      "fecha": "04 Nov 2026, 20:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén revés a impuesto de 1% en las remesas a México",
-      "resumen": "El triunfo del Partido Demócrata podría echar atrás el impuesto del 1% a las remesas en efectivo enviadas a México.",
-      "link": "https://www.reforma.com/preven-reves-a-impuesto-de-1-en-las-remesas-a-mexico/ar3308103",
-      "fecha": "04 Nov 2026, 13:00 hrs"
+      "titulo": "Acumula 5,675 MW generación distribuida",
+      "resumen": "En el primer semestre de 2026, apacidad acumulada instalada de generación distribuida alcanzó los 5 mil 675.47 megawatts, informó CNE.",
+      "link": "https://www.reforma.com/acumula-5-675-mw-generacion-distribuida/ar3308468",
+      "fecha": "04 Nov 2026, 19:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Ebrard cautela en triunfo demócrata en EU",
-      "resumen": "Los efectos del triunfo demócrata deben ser tomados con cautela y se espera sean acotados a las revisiones del T-MEC, dijo la SE.",
-      "link": "https://www.reforma.com/pide-ebrard-cautela-en-triunfo-democrata-en-eu/ar3308138",
-      "fecha": "04 Nov 2026, 14:13 hrs"
+      "titulo": "Pierde México 251 mil mdp por excluir talento",
+      "resumen": "México deja de producir alrededor de 251 mil millones de pesos anuales, equivalentes al 0.75 PIB, por excluir a personas con discapacidad.",
+      "link": "https://www.reforma.com/pierde-mexico-251-mil-mdp-por-excluir-talento/ar3308463",
+      "fecha": "04 Nov 2026, 19:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten afectación por nuevas disposiciones fiscales",
-      "resumen": "Las modificaciones a la ley del ISR podrían afectar la capacidad de inversión y producción de las empresas mexicanas, destacó la Canacintra.",
-      "link": "https://www.reforma.com/advierten-afectacion-por-nuevas-disposiciones-fiscales/ar3308082",
-      "fecha": "04 Nov 2026, 12:46 hrs"
+      "titulo": "Manda United Airlines 'a volar' al Aeropuerto de Tulum",
+      "resumen": "United Airlines anunció que dejará de operar en el Aeropuerto Internacional de Tulum Felipe Carrillo Puerto.",
+      "link": "https://www.reforma.com/manda-united-airlines-a-volar-al-aeropuerto-de-tulum/ar3308407",
+      "fecha": "04 Nov 2026, 18:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tienen exportaciones de México a EU mayor avance en 4 años",
-      "resumen": "En el periodo de enero a septiembre, las exportaciones de México a EU subieron 20.7% anual, su mejor resultado en cuatro años.",
-      "link": "https://www.reforma.com/tienen-exportaciones-de-mexico-a-eu-mayor-avance-en-4-anos/ar3308087",
-      "fecha": "04 Nov 2026, 12:46 hrs"
+      "titulo": "Publican ley de pagos digitales obligatorios",
+      "resumen": "El Gobierno federal publicó en el DOF la nueva ley de pagos digitales que no permitirá efectivo en los sectores que determine Hacienda.",
+      "link": "https://www.reforma.com/publican-ley-de-pagos-digitales-obligatorios/ar3308401",
+      "fecha": "04 Nov 2026, 18:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran precios del crudo en mínimos desde el 31 de agosto",
-      "resumen": "Los futuros del Brent cerraron con una baja de 8.67%, a 94.62 dólares, mientras que los del WTI cedieron 8.29% hasta los 88.12 dólares.",
-      "link": "https://www.reforma.com/cierran-precios-del-crudo-en-minimos-desde-el-31-de-agosto/ar3308009",
-      "fecha": "04 Nov 2026, 10:55 hrs"
+      "titulo": "Cierra dólar en $18.61 y recupera terreno peso",
+      "resumen": "El dólar cerró el miércoles con una cotización de $18.61; cifra 21.41 centavos menor al martes.",
+      "link": "https://www.reforma.com/cierra-dolar-en-18-61-y-recupera-terreno-peso/ar3308387",
+      "fecha": "04 Nov 2026, 18:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube Dow Jones cerca de 1,600 puntos",
-      "resumen": "El Dow Jones volvió a superar los 53 mil puntos por primera vez desde el 8 de septiembre y registró su mejor día en 19 meses.",
-      "link": "https://www.reforma.com/sube-dow-jones-cerca-de-1-600-puntos/ar3308203",
-      "fecha": "04 Nov 2026, 14:42 hrs"
+      "titulo": "Presionan porcicultores para limitar importaciones",
+      "resumen": "Los productores de carne de cerdo piden limitar las importaciones de ese alimento, en especial desde países sin un TLC, como Brasil.",
+      "link": "https://www.reforma.com/presionan-porcicultores-para-limitar-importaciones/ar3308313",
+      "fecha": "04 Nov 2026, 17:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rechaza STPS injerencia en plaga aguacatera",
-      "resumen": "La STPS rechazó tener relación con el precio del aguacate y las situaciones sanitarias de ese fruto.",
-      "link": "https://www.reforma.com/rechaza-stps-injerencia-en-plaga-aguacatera/ar3308192",
-      "fecha": "04 Nov 2026, 14:42 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Triunfo de demócratas no es solución para T-MEC.- Concanaco",
-      "resumen": "El triunfo de los demócratas no garantiza que se solucionen la imposición de aranceles ni desafíos del T-MEC, dijo la Concanaco.",
-      "link": "https://www.reforma.com/triunfo-de-democratas-no-es-solucion-para-t-mec-concanaco/ar3308046",
-      "fecha": "04 Nov 2026, 12:02 hrs"
+      "titulo": "Cae Snap 10% tras incumplir previsión de ingresos y usuarios",
+      "resumen": "Las acciones de Snap cayeron más del 10% después de que la compañía no alcanzara las previsiones de ingresos y usuarios activos diarios.",
+      "link": "https://www.reforma.com/cae-snap-10-tras-incumplir-prevision-de-ingresos-y-usuarios/ar3308259",
+      "fecha": "04 Nov 2026, 15:48 hrs"
     }
   ]
 }
