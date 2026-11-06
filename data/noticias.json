@@ -1,5 +1,5 @@
 {
-  "actualizado": "06/11/2026 09:41 hrs",
+  "actualizado": "06/11/2026 15:17 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La botella de tres litros gana terreno en México y cambia el negocio de Coca-Cola",
+      "resumen": "El IEPS, los mayores costos laborales y un consumidor que cuida más su gasto llevan a Arca Continental y Coca-Cola FEMSA presentaciones, precios y promociones.",
+      "link": "https://expansion.mx/empresas/2026/11/06/coca-cola-botella-tres-litros-mexico-negocio",
+      "fecha": "06 Nov 2026, 13:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Elon Musk frenará la producción de Cybertruck tras su fracaso en ventas y le entrega su lugar al nuevo robotaxi de Tesla",
       "resumen": "El empresario presentó la pick-up en 2019 con la promesa de revolucionar el mercado, pero su llegada tardía, precios y problemas de fabricación marcaron su trayectoria.",
       "link": "https://expansion.mx/empresas/2026/11/06/tesla-recorta-produccion-cybertruck-para-fabricar-cybercab",
@@ -138,13 +147,22 @@
       "fecha": "05 Nov 2026, 09:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Liverpool gana más por rentar espacios en sus plazas comerciales que Palacio de Hierro",
-      "resumen": "Liverpool aceleró sus ingresos por rentas con la expansión de Perisur y el control de Galerías Metepec, mientras Palacio de Hierro reportó un crecimiento más moderado en su negocio inmobiliario.",
-      "link": "https://expansion.mx/empresas/2026/11/05/liverpool-palacio-de-hierro-renta-locales-plazas-comerciales",
-      "fecha": "05 Nov 2026, 05:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Promete líder demócrata revocar aranceles y mantener T-MEC",
+      "resumen": "Richard Neal, líder demócrata en Cámara de EU, se comprometió a revocar aranceles injustificados y dijo que prioridad es mantener el T-MEC.",
+      "link": "https://www.reforma.com/promete-lider-democrata-revocar-aranceles-y-mantener-t-mec/ar3309658",
+      "fecha": "06 Nov 2026, 12:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dirá Tesla adiós a la Cybertruck",
+      "resumen": "Tesla dejará de producir su camioneta Cybertruck, cuyas ventas estuvieron lejos de alcanzar las ambiciosas previsiones de Elon Musk.",
+      "link": "https://www.reforma.com/dira-tesla-adios-a-la-cybertruck/ar3309648",
+      "fecha": "06 Nov 2026, 12:28 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,28 +177,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja Banxico tasa; cae (y caerá) Peso",
-      "resumen": "Banxico recorta su tasa pese al repunte inflacionario y a las advertencias de que provocaría una mayor depreciación cambiaria.",
-      "link": "https://www.reforma.com/baja-banxico-tasa-cae-y-caera-peso/ar3309408",
-      "fecha": "06 Nov 2026, 07:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "Urge Comce a facilitar procesos aduaneros",
       "resumen": "El Comce y la ANAM se reunieron para plantear la necesidad de fortalecer los controles aduaneros y facilitar el comercio.",
       "link": "https://www.reforma.com/urge-comce-a-facilitar-procesos-aduaneros/ar3309298",
       "fecha": "06 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Anticipan sustitución de embargo por garantía",
-      "resumen": "Con la reforma a la Ley Aduanera, el SAT permitirá garantías o depósitos en efectivo en lugar de embargos si hay posible subvaluación.",
-      "link": "https://www.reforma.com/anticipan-sustitucion-de-embargo-por-garantia/ar3309197",
-      "fecha": "05 Nov 2026, 17:48 hrs"
     },
     {
       "fuente": "Reforma",
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apunta crudo Brent a baja semanal de 16%",
-      "resumen": "El contrato del Brent va camino de registrar esta semana una caída del 16%, mientras que el WTI se encamina a un descenso superior al 13%.",
-      "link": "https://www.reforma.com/apunta-crudo-brent-a-baja-semanal-de-16/ar3309499",
-      "fecha": "06 Nov 2026, 07:53 hrs"
+      "titulo": "Prevén operadores que Fed subirá tasas en diciembre",
+      "resumen": "Dato de empleo de octubre mejor de lo esperado reforzó argumentos a favor de un alza de tasas de interés de la Reserva Federal en diciembre.",
+      "link": "https://www.reforma.com/preven-operadores-que-fed-subira-tasas-en-diciembre/ar3309563",
+      "fecha": "06 Nov 2026, 10:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reducirá Tesla producción del Cybertruck en Texas",
-      "resumen": "Tesla planea reducir gradualmente la producción del Cybertruck en gigafábrica de Texas a mediados del 2027 para dar cabida al Cybercab.",
-      "link": "https://www.reforma.com/reducira-tesla-produccion-del-cybertruck-en-texas/ar3309495",
-      "fecha": "06 Nov 2026, 07:27 hrs"
+      "titulo": "Apunta crudo Brent a baja semanal de 16%",
+      "resumen": "El contrato del Brent va camino de registrar esta semana una caída del 16%, mientras que el WTI se encamina a un descenso superior al 13%.",
+      "link": "https://www.reforma.com/apunta-crudo-brent-a-baja-semanal-de-16/ar3309499",
+      "fecha": "06 Nov 2026, 07:53 hrs"
     }
   ]
 }
