@@ -1,13 +1,49 @@
 {
-  "actualizado": "05/11/2026 13:33 hrs",
+  "actualizado": "05/11/2026 18:47 hrs",
   "total": 24,
   "noticias": [
     {
       "fuente": "Expansión",
       "seccion": "Economía",
       "color": "#C8102E",
+      "titulo": "De cada 100 pesos del gasto público en 2027, 14 provendrán de deuda",
+      "resumen": "El gobierno federal recurre cada vez más a este tipo de financiamiento ante un menor crecimiento de los ingresos y un mayor gasto.",
+      "link": "https://expansion.mx/economia/2026/11/05/de-cada-100-pesos-del-gasto-publico-en-2027-14-provendran-de-deuda",
+      "fecha": "05 Nov 2026, 17:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Peso se deprecia por sorpresa de Banxico y analistas prevén mayor debilidad para moneda mexicana",
+      "resumen": "El tipo de cambio cerró las operaciones en 18.77 pesos por dólar. Banamex estimó que el peso mexicano subirá hasta 19.1 en 2027 ante mayores presiones.",
+      "link": "https://expansion.mx/economia/2026/11/05/peso-se-deprecia-por-sorpresa-de-banxico-y-analistas-preven-mayor-debilidad-para-moneda-mexicana",
+      "fecha": "05 Nov 2026, 17:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados aprueban en lo general y en Comisión el proyecto del gasto público para 2027",
+      "resumen": "Mañana viernes continuará la sesión en Comisión para discutir y votar reservas.  Se prevé que el dictamen del Presupuesto de Egresos de la Federación comience su discusión en el pleno el próximo lunes…",
+      "link": "https://expansion.mx/economia/2026/11/05/diputados-aprueban-comision-presupuesto-gasto-publico-2027",
+      "fecha": "05 Nov 2026, 17:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Seguros de gastos médicos más caros obligan a usuarios a limitar coberturas, dice Fitch",
+      "resumen": "La inflación médica y los ajustes de tarifas por el IVA llevan a asegurados a contratar menor protección o elevar deducibles y coaseguros.",
+      "link": "https://expansion.mx/economia/2026/11/05/seguros-gastos-medicos-alza-precios-menor-cobertura-fitch",
+      "fecha": "05 Nov 2026, 13:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
       "titulo": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
-      "resumen": "La Junta de Gobierno de Banco de México voto en decisión divida de 3 a 2 bajar la tasa de interés",
+      "resumen": "La Junta de Gobierno de Banco de México votó en decisión divida de 3 a 2 bajar la tasa de interés",
       "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
       "fecha": "05 Nov 2026, 13:10 hrs"
     },
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gobierno publica Ley de Economía Digital en DOF; en 15 días deben establecerse sectores donde disminuirá uso de efectivo",
-      "resumen": "Gasolineras y casetas serán los primeros giros donde se busque masificar los pagos digitales, además de incrementar el uso de CoDi y DiMo",
-      "link": "https://expansion.mx/economia/2026/11/04/ley-de-economia-digital-dof-cuando-entra-vigor",
-      "fecha": "04 Nov 2026, 19:27 hrs"
+      "titulo": "La millonaria multa que tendrías que pagar si usas el logo del Buen Fin sin haber registrado tu negocio",
+      "resumen": "Durante la campaña de noviembre, los comercios deben distinguir entre ofrecer descuentos y anunciarse como participantes oficiales del evento.",
+      "link": "https://expansion.mx/empresas/2026/11/05/multa-usar-logo-buen-fin-publicidad",
+      "fecha": "05 Nov 2026, 18:03 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banqueros piden a SCJN acelerar juzgados financieros para el cobro de garantías en créditos vencidos",
-      "resumen": "De acuerdo con el presidente de ABM, en el nuevo Poder Judicial apenas existen dos tribunales especializados en materia mercantil del sector financiero.",
-      "link": "https://expansion.mx/empresas/2026/11/04/banqueros-piden-a-scjn-acelerar-juzgados-financieros-para-el-cobro-de-garantias-en-creditos-vencidos",
-      "fecha": "04 Nov 2026, 18:53 hrs"
+      "titulo": "Abrían una tienda cada 48 horas hasta sumar 3,100 Farmacias Guadalajara: así es el imperio tapatío de la familia Arroyo",
+      "resumen": "Lo que comenzó como una farmacia en Guadalajara se convirtió en un negocio diversificado que vende desde medicamentos hasta pan recién horneado y artículos de uso diario.",
+      "link": "https://expansion.mx/empresas/2026/11/05/farmacias-guadalajara-imperio-familia-arroyo-mexico-2026",
+      "fecha": "05 Nov 2026, 16:04 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El norte de México atrae inversión, pero necesita preparar dónde recibirla, dicen especialistas",
-      "resumen": "La región conserva talento y experiencia industrial, pero la energía, la infraestructura y la certeza jurídica condicionan su crecimiento, señalaron los panelistas del Summit Norte de Expansión.",
-      "link": "https://expansion.mx/economia/2026/11/04/norte-mexico-obstaculos-atraer-inversion",
-      "fecha": "04 Nov 2026, 18:02 hrs"
+      "titulo": "Los autos tienen cada vez más tecnología, pero eso también les genera más problemas a sus dueños",
+      "resumen": "Las pantallas más grandes, las cámaras y los sistemas digitales elevan el equipamiento de los automóviles, pero también multiplican las posibilidades de fallas.",
+      "link": "https://expansion.mx/empresas/2026/11/05/autos-tienen-mas-tecnologia-pero-generan-mas-fallas",
+      "fecha": "05 Nov 2026, 15:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "EU votó, pero los pendientes comerciales de México siguen sobre la mesa, señala la IP",
-      "resumen": "Concanaco- Servytur advierte que el cambio político no resuelve los aranceles ni el T-MEC. CCE e Index apuestan por el diálogo para fortalecer la integración.",
-      "link": "https://expansion.mx/economia/2026/11/04/elecciones-eu-pendientes-comerciales-mexico-ip",
-      "fecha": "04 Nov 2026, 14:04 hrs"
+      "titulo": "¿Qué compañía telefónica te da más por 100 pesos en 2026? Telcel, AT&T, Movistar, OXXO y Bait se enfrentan",
+      "resumen": "Una recarga de 100 pesos puede cumplir más con tus necesidades. Estas son las diferencias entre Movistar, Telcel, AT&amp;T, Bait y OXXO Cel.",
+      "link": "https://expansion.mx/empresas/2026/11/05/recarga-100-pesos-2026-telcel-at-t-movistar-oxxo-bait",
+      "fecha": "05 Nov 2026, 15:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,112 +147,76 @@
       "fecha": "04 Nov 2026, 21:36 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La acerera Ternium desafía la presión de China y EU con una inversión de 4,000 mdd en Pesquería",
-      "resumen": "Los compradores de acero ya consideran las emisiones de CO2 al elegir proveedores, un criterio comercial que puede determinar quién consigue contratos.",
-      "link": "https://expansion.mx/empresas/2026/11/04/ternium-inversion-4000-mdd-pesqueria-china-estados-unidos",
-      "fecha": "04 Nov 2026, 19:48 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La estrategia de OXXO para ir contra Nu y convertir a sus clientes en usuarios de tarjeta Spin",
-      "resumen": "Mientras Nu y otros empresas financieras buscan crecer, OXXO apuesta por sus tiendas para impulsar Spin y ampliar su presencia entre los usuarios.",
-      "link": "https://expansion.mx/empresas/2026/11/04/oxxo-clientes-usuarios-tajeta-spin-desafiar-nu",
-      "fecha": "04 Nov 2026, 17:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Flying Tiger Copenhagen llega a México: dónde estarán sus tiendas y qué podrás comprar en la cadena de diseño accesible",
-      "resumen": "La marca danesa nació en 1995 con un concepto de artículos a bajo precio y hoy tiene más de 1,000 establecimientos en distintos mercados. En México, su primera tienda abrió en Plaza Carso.",
-      "link": "https://expansion.mx/empresas/2026/11/04/flying-tiger-copenhagen-cuando-abre-tiendas-mexico",
-      "fecha": "04 Nov 2026, 17:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras Olinia costará 150,000 pesos, en Japón Nissan Sakura vale 293,832, con cámara 360° y alimenta electrodomésticos",
-      "resumen": "El eléctrico japonés ofrece hasta 180 km de autonomía, carga rápida y funciones que llevan su propuesta más allá del uso urbano.",
-      "link": "https://expansion.mx/empresas/2026/11/04/olinia-vs-nissan-sakura-precio-autonomia-equipamiento",
-      "fecha": "04 Nov 2026, 16:34 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Anticipan sustitución de embargo por garantía",
+      "resumen": "Con la reforma a la Ley Aduanera, el SAT permitirá garantías o depósitos en efectivo en lugar de embargos si hay posible subvaluación.",
+      "link": "https://www.reforma.com/anticipan-sustitucion-de-embargo-por-garantia/ar3309197",
+      "fecha": "05 Nov 2026, 17:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reduce Banxico tasa a 6.25% y desafía diferencial con EU",
-      "resumen": "Banxico redujo su tasa de interés de referencia a 6.25 por ciento, en una decisión que pone a prueba el diferencial de tasas frente a EU.",
-      "link": "https://www.reforma.com/reduce-banxico-tasa-a-6-25-y-desafia-diferencial-con-eu/ar3308887",
-      "fecha": "05 Nov 2026, 13:10 hrs"
+      "titulo": "Se deprecia peso ante recorte tasa referencia de Banxico",
+      "resumen": "Tras decisión de Banxico de reducir su tasa de referencia, el peso cerró el jueves con una cotización de $18.75 frente al dólar.",
+      "link": "https://www.reforma.com/se-deprecia-peso-ante-recorte-tasa-referencia-de-banxico/ar3309172",
+      "fecha": "05 Nov 2026, 17:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Van contra comercializadoras de combustibles 'de papel'",
-      "resumen": "La CNE exigirá a comercializadores 'de papel' de hidrocarburos invertir en infraestructura para combatir el huachicol fiscal.",
-      "link": "https://www.reforma.com/van-contra-comercializadoras-de-combustibles-de-papel/ar3308750",
-      "fecha": "05 Nov 2026, 09:57 hrs"
+      "titulo": "Cuestionan recorte de Banxico; prevén se deprecie el peso",
+      "resumen": "Ante el recorte de Banxico a su tasa de referencia, expertos consideraron que no se cumplían las condiciones para hacer tal moviemiento.",
+      "link": "https://www.reforma.com/cuestionan-recorte-de-banxico-preven-se-deprecie-el-peso/ar3309149",
+      "fecha": "05 Nov 2026, 17:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía SAT canales para tener Constancia de Situación Fiscal",
-      "resumen": "El SAT amplió las opciones para obtener la Constancia de Situación Fiscal (CSF).",
-      "link": "https://www.reforma.com/amplia-sat-canales-para-tener-constancia-de-situacion-fiscal/ar3308836",
-      "fecha": "05 Nov 2026, 12:00 hrs"
+      "titulo": "Prevén cuarta ronda de T-MEC en 2027",
+      "resumen": "La cuarta ronda de revisión del T-MEC, entre México y EU, será hasta 2027, pese a estar programada desde septiembre pasado, según el Comce.",
+      "link": "https://www.reforma.com/preven-cuarta-ronda-de-t-mec-en-2027/ar3309126",
+      "fecha": "05 Nov 2026, 17:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Profundizan mercados de EU pérdidas; Dow pierde 1,700 puntos",
-      "resumen": "Un día después del triunfo demócrata, el Nasdaq cae 4.9%, el S&amp;P 500 baja 3.7%, seguido por el Dow Jones que pierde mil 711 puntos, o 3.2%.",
-      "link": "https://www.reforma.com/profundizan-mercados-de-eu-perdidas-dow-pierde-1-700-puntos/ar3308687",
-      "fecha": "05 Nov 2026, 08:47 hrs"
+      "titulo": "Predominan mujeres en población que no estudia ni trabaja",
+      "resumen": "Las mujeres superan a los hombres en la proporción de población sin estudiar, capacitarse o trabajar, según Afore Sura y el CIMAD.",
+      "link": "https://www.reforma.com/predominan-mujeres-en-poblacion-que-no-estudia-ni-trabaja/ar3309121",
+      "fecha": "05 Nov 2026, 17:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Apunta IMPI contra medicamentos y bebidas alcohólicas pirata",
-      "resumen": "El IMPI hará operativos para combatir la venta de medicamentos y bebidas alcohólicas pirata.",
-      "link": "https://www.reforma.com/apunta-impi-contra-medicamentos-y-bebidas-alcoholicas-pirata/ar3308795",
-      "fecha": "05 Nov 2026, 11:01 hrs"
+      "titulo": "Pierden Tesla y SpaceX más de 420 mil mdd tras elecciones",
+      "resumen": "Tesla y SpaceX perdieron más de 420 mil mdd en valor bursátil combinado en los dos días posteriores a las elecciones de mitad de mandato.",
+      "link": "https://www.reforma.com/pierden-tesla-y-spacex-mas-de-420-mil-mdd-tras-elecciones/ar3309085",
+      "fecha": "05 Nov 2026, 15:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge AmCham a cabildeo con nuevo Congreso de EU",
-      "resumen": "Tras los resultados en las elecciones en EU ahora la tarea es aumentar el cabildeo con los nuevos congresistas por comercio con México.",
-      "link": "https://www.reforma.com/urge-amcham-a-cabildeo-con-nuevo-congreso-de-eu/ar3308515",
-      "fecha": "05 Nov 2026, 07:06 hrs"
+      "titulo": "Tiene CFE pérdida eléctrica de 13.41%",
+      "resumen": "En 2025, las pérdidas de energía eléctrica en las redes de transmisión y distribución se ubicaron en 13.41%, afirmó CFE.",
+      "link": "https://www.reforma.com/tiene-cfe-perdida-electrica-de-13-41/ar3309081",
+      "fecha": "05 Nov 2026, 17:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Da CFE 'luz verde' a inversión privada",
-      "resumen": "CFE se puso fin a la pausa en los proyectos eléctricos con la iniciativa privada y se detonarán inversiones por 651 mil millones de pesos.",
-      "link": "https://www.reforma.com/da-cfe-luz-verde-a-inversion-privada/ar3308544",
-      "fecha": "05 Nov 2026, 05:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Avanza turismo a paso lento",
-      "resumen": "Actividad turística registró un crecimiento moderado durante el segundo trimestre de 2026, luego de que el PIB turístico avanzó 0.4%.",
-      "link": "https://www.reforma.com/avanza-turismo-a-paso-lento/ar3308549",
-      "fecha": "05 Nov 2026, 05:01 hrs"
+      "titulo": "Prevén que zonas prime de CDMX se aprecien hasta 35% a 2030",
+      "resumen": "El valor de las viviendas de lujo en la CDMX aumentará entre 25% y 35% hacia 2030, aseguró la firma de bienes raíces Barnes.",
+      "link": "https://www.reforma.com/preven-que-zonas-prime-de-cdmx-se-aprecien-hasta-35-a-2030/ar3309056",
+      "fecha": "05 Nov 2026, 15:40 hrs"
     }
   ]
 }
