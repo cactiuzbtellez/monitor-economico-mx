@@ -1,7 +1,16 @@
 {
-  "actualizado": "06/11/2026 01:41 hrs",
+  "actualizado": "06/11/2026 09:41 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "En 2027, México enfrentará un doble riesgo para la inversión entre reglas del T-MEC y cambios internos",
+      "resumen": "El acuerdo comercial puede abrir espacio a más proveedores mexicanos, pero la IP advierte que reglas de origen más estrictas pueden desalentar los capitales foráneos.",
+      "link": "https://expansion.mx/economia/2026/11/06/mexico-atraer-inversiones-retos-internos-tmec",
+      "fecha": "06 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Del ensamble a la innovación: la nueva oportunidad que abre el nearshoring en México",
-      "resumen": "Tras los años de anuncios e inversiones, el nearshoring entra en una etapa de ejecución en la que México deberá conectar a sus proveedores con las grandes empresas y elevar su valor agregado.",
-      "link": "https://expansion.mx/economia/2026/11/04/la-innovacion-abre-nueva-oportunidad-para-el-nearshoring",
-      "fecha": "04 Nov 2026, 19:32 hrs"
+      "titulo": "Elon Musk frenará la producción de Cybertruck tras su fracaso en ventas y le entrega su lugar al nuevo robotaxi de Tesla",
+      "resumen": "El empresario presentó la pick-up en 2019 con la promesa de revolucionar el mercado, pero su llegada tardía, precios y problemas de fabricación marcaron su trayectoria.",
+      "link": "https://expansion.mx/empresas/2026/11/06/tesla-recorta-produccion-cybertruck-para-fabricar-cybercab",
+      "fecha": "06 Nov 2026, 08:52 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,13 +147,31 @@
       "fecha": "05 Nov 2026, 05:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las elecciones de EU dan certidumbre a la carga aérea en el norte de México",
-      "resumen": "Ricardo Dueñas, director general de OMA, ve en los resultados de las elecciones intermedias de EU una señal de certidumbre para invertir y aprovechar el crecimiento de la carga aérea impulsado por el …",
-      "link": "https://expansion.mx/empresas/2026/11/04/elecciones-intermedias-eu-dan-certidumbre-aeropuertos-norte",
-      "fecha": "04 Nov 2026, 21:36 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Caería 9.3% producción de café de Centroamérica y México",
+      "resumen": "Producción combinada de café de la región de América Central y México disminuiría 9.3 por ciento en el ciclo 2026-2027.",
+      "link": "https://www.reforma.com/caeria-9-3-produccion-de-cafe-de-centroamerica-y-mexico/ar3309380",
+      "fecha": "06 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Baja Banxico tasa; cae (y caerá) Peso",
+      "resumen": "Banxico recorta su tasa pese al repunte inflacionario y a las advertencias de que provocaría una mayor depreciación cambiaria.",
+      "link": "https://www.reforma.com/baja-banxico-tasa-cae-y-caera-peso/ar3309408",
+      "fecha": "06 Nov 2026, 07:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urge Comce a facilitar procesos aduaneros",
+      "resumen": "El Comce y la ANAM se reunieron para plantear la necesidad de fortalecer los controles aduaneros y facilitar el comercio.",
+      "link": "https://www.reforma.com/urge-comce-a-facilitar-procesos-aduaneros/ar3309298",
+      "fecha": "06 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,64 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se deprecia peso ante recorte tasa referencia de Banxico",
-      "resumen": "Tras decisión de Banxico de reducir su tasa de referencia, el peso cerró el jueves con una cotización de $18.75 frente al dólar.",
-      "link": "https://www.reforma.com/se-deprecia-peso-ante-recorte-tasa-referencia-de-banxico/ar3309172",
-      "fecha": "05 Nov 2026, 17:30 hrs"
+      "titulo": "Suma economía estadounidense 165 mil empleos en octubre",
+      "resumen": "La economía estadounidense sumó 165 mil empleos en octubre, mucho más de lo esperado, mientras que la tasa de desempleo bajó al 4.1%.",
+      "link": "https://www.reforma.com/suma-economia-estadounidense-165-mil-empleos-en-octubre/ar3309501",
+      "fecha": "06 Nov 2026, 07:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuestionan recorte de Banxico; prevén se deprecie el peso",
-      "resumen": "Ante el recorte de Banxico a su tasa de referencia, expertos consideraron que no se cumplían las condiciones para hacer tal moviemiento.",
-      "link": "https://www.reforma.com/cuestionan-recorte-de-banxico-preven-se-deprecie-el-peso/ar3309149",
-      "fecha": "05 Nov 2026, 17:27 hrs"
+      "titulo": "Suben Nasdaq y S&amp;P 500 tras su peor caída en 19 meses",
+      "resumen": "En las primeras operaciones, el Nasdaq avanzaba 1.18% y el S&amp;P 500 ganaba 0.28%, aunque estaban lejos de compensar las pérdidas del jueves.",
+      "link": "https://www.reforma.com/suben-nasdaq-y-s-p-500-tras-su-peor-caida-en-19-meses/ar3309518",
+      "fecha": "06 Nov 2026, 08:54 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén cuarta ronda de T-MEC en 2027",
-      "resumen": "La cuarta ronda de revisión del T-MEC, entre México y EU, será hasta 2027, pese a estar programada desde septiembre pasado, según el Comce.",
-      "link": "https://www.reforma.com/preven-cuarta-ronda-de-t-mec-en-2027/ar3309126",
-      "fecha": "05 Nov 2026, 17:27 hrs"
+      "titulo": "Apunta crudo Brent a baja semanal de 16%",
+      "resumen": "El contrato del Brent va camino de registrar esta semana una caída del 16%, mientras que el WTI se encamina a un descenso superior al 13%.",
+      "link": "https://www.reforma.com/apunta-crudo-brent-a-baja-semanal-de-16/ar3309499",
+      "fecha": "06 Nov 2026, 07:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Predominan mujeres en población que no estudia ni trabaja",
-      "resumen": "Las mujeres superan a los hombres en la proporción de población sin estudiar, capacitarse o trabajar, según Afore Sura y el CIMAD.",
-      "link": "https://www.reforma.com/predominan-mujeres-en-poblacion-que-no-estudia-ni-trabaja/ar3309121",
-      "fecha": "05 Nov 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pierden Tesla y SpaceX más de 420 mil mdd tras elecciones",
-      "resumen": "Tesla y SpaceX perdieron más de 420 mil mdd en valor bursátil combinado en los dos días posteriores a las elecciones de mitad de mandato.",
-      "link": "https://www.reforma.com/pierden-tesla-y-spacex-mas-de-420-mil-mdd-tras-elecciones/ar3309085",
-      "fecha": "05 Nov 2026, 15:57 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene CFE pérdida eléctrica de 13.41%",
-      "resumen": "En 2025, las pérdidas de energía eléctrica en las redes de transmisión y distribución se ubicaron en 13.41%, afirmó CFE.",
-      "link": "https://www.reforma.com/tiene-cfe-perdida-electrica-de-13-41/ar3309081",
-      "fecha": "05 Nov 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén que zonas prime de CDMX se aprecien hasta 35% a 2030",
-      "resumen": "El valor de las viviendas de lujo en la CDMX aumentará entre 25% y 35% hacia 2030, aseguró la firma de bienes raíces Barnes.",
-      "link": "https://www.reforma.com/preven-que-zonas-prime-de-cdmx-se-aprecien-hasta-35-a-2030/ar3309056",
-      "fecha": "05 Nov 2026, 15:40 hrs"
+      "titulo": "Reducirá Tesla producción del Cybertruck en Texas",
+      "resumen": "Tesla planea reducir gradualmente la producción del Cybertruck en gigafábrica de Texas a mediados del 2027 para dar cabida al Cybercab.",
+      "link": "https://www.reforma.com/reducira-tesla-produccion-del-cybertruck-en-texas/ar3309495",
+      "fecha": "06 Nov 2026, 07:27 hrs"
     }
   ]
 }
