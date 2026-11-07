@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/11/2026 02:23 hrs",
+  "actualizado": "07/11/2026 09:26 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El negocio de vender autos deja solo 38 centavos",
-      "resumen": "Los concesionarios argumentan que los cambios fiscales previstos para 2027 comprometerían la viabilidad de 30% de la red de distribución, alrededor de 1,000 agencias, y pondrían en riesgo más de 70,00…",
-      "link": "https://expansion.mx/empresas/2026/11/06/negocio-de-vender-autos-deja-solo-38-centavos",
-      "fecha": "06 Nov 2026, 17:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "La botella de tres litros gana terreno en México y cambia el negocio de Coca-Cola",
       "resumen": "El IEPS, los mayores costos laborales y un consumidor que cuida más su gasto llevan a Arca Continental y Coca-Cola FEMSA presentaciones, precios y promociones.",
       "link": "https://expansion.mx/empresas/2026/11/06/coca-cola-botella-tres-litros-mexico-negocio",
@@ -147,6 +138,33 @@
       "fecha": "05 Nov 2026, 11:12 hrs"
     },
     {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
+      "resumen": "El ranking de Las 500 de Expansión revela cuáles son las compañías estadounidenses con mayores ingresos y cuántas personas trabajan en sus operaciones mexicanas.",
+      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
+      "fecha": "05 Nov 2026, 09:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frenarían exportación de equipo de cómputo",
+      "resumen": "Triunfo de candidatos demócratas a Gobernadores en EU significaría un freno a las exportaciones de equipo de cómputo de México a ese país.",
+      "link": "https://www.reforma.com/frenarian-exportacion-de-equipo-de-computo/ar3310034",
+      "fecha": "07 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Acusan que México evade fallo al maíz",
+      "resumen": "Grupos agrícolas de Estados Unidos acusan a México de eludir con reglas ambiguas el fallo del T-MEC sobre maíz transgénico.",
+      "link": "https://www.reforma.com/acusan-que-mexico-evade-fallo-al-maiz/ar3310029",
+      "fecha": "07 Nov 2026, 05:01 hrs"
+    },
+    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hace Viva ajustes por nueva inspección de motores",
-      "resumen": "Viva ajustó su programación ante menor disponibilidad de aeronaves, ante una nueva inspección preventiva de los motores Pratt &amp; Whitney.",
-      "link": "https://www.reforma.com/hace-viva-ajustes-por-nueva-inspeccion-de-motores/ar3309782",
-      "fecha": "06 Nov 2026, 15:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent semana con baja de 16% y el WTI de 12%",
-      "resumen": "Este viernes, el Brent cerró estable en 98.32 dólares, pero en la semana perdió 16%; el WTI registró un descenso semanal de 12%.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-semana-con-baja-de-16-y-el-wti-de-12/ar3309780",
-      "fecha": "06 Nov 2026, 15:18 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Promete líder demócrata revocar aranceles y mantener T-MEC",
-      "resumen": "Richard Neal, líder demócrata en Cámara de EU, se comprometió a revocar aranceles injustificados y dijo que prioridad es mantener el T-MEC.",
-      "link": "https://www.reforma.com/promete-lider-democrata-revocar-aranceles-y-mantener-t-mec/ar3309658",
-      "fecha": "06 Nov 2026, 12:36 hrs"
+      "titulo": "Con la misma vara",
+      "resumen": "El caso Taddei ya no es contra Taddei, sino contra la oposición, y el instrumento para lograrlo es la culpa por asociación.",
+      "link": "https://www.reforma.com/con-la-misma-vara/ar3309491",
+      "fecha": "06 Nov 2026, 07:16 hrs"
     }
   ]
 }
