@@ -1,7 +1,43 @@
 {
-  "actualizado": "06/11/2026 15:17 hrs",
+  "actualizado": "06/11/2026 19:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Crisis en Paraguay podría afectar confianza de inversionistas en el corto plazo, dice S&P",
+      "resumen": "La calificadora mantiene su previsión de crecimiento para el país, aunque advierte que la transición presidencial podría retrasar la corrección fiscal.",
+      "link": "https://expansion.mx/economia/2026/11/06/crisis-en-paraguay-podria-afectar-confianza-de-inversionistas-en-el-corto-plazo-dice-s-p",
+      "fecha": "06 Nov 2026, 18:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda sube IEPS a gasolinas, mientras la cuota cero del diésel va por su novena semana consecutiva",
+      "resumen": "Para la semana del 7 al 13 de noviembre, la gasolina Magna tendrá una cuota de 4.96 pesos por litro, mientras en la Premium subió a 4.27 pesos por litro.",
+      "link": "https://expansion.mx/economia/2026/11/06/impuesto-gasolinas-sube-magna-premium-diesel-cero",
+      "fecha": "06 Nov 2026, 18:17 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¡Castigo al INE!, diputados le quitan 6,000 millones y aprueban dictamen del Presupuesto 2027",
+      "resumen": "Los legisladores de la Comisión de Presupuesto aprobaron en lo general y en lo particular el dictamen del gasto público 2027, el cual iniciará su discusión en el pleno el próximo lunes.",
+      "link": "https://expansion.mx/economia/2026/11/06/diputados-6000-millones-ine-educacion-mujeres-turismo",
+      "fecha": "06 Nov 2026, 16:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
+      "resumen": "La calificadora señaló que la crisis bancaria en el país sudamericano pone de manifiesto las debilidades institucionales del país, aunque no anticipa un impacto inmediato en su calificación crediticia",
+      "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
+      "fecha": "06 Nov 2026, 16:10 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Seguros de gastos médicos más caros obligan a usuarios a limitar coberturas, dice Fitch",
-      "resumen": "La inflación médica y los ajustes de tarifas por el IVA llevan a asegurados a contratar menor protección o elevar deducibles y coaseguros.",
-      "link": "https://expansion.mx/economia/2026/11/05/seguros-gastos-medicos-alza-precios-menor-cobertura-fitch",
-      "fecha": "05 Nov 2026, 13:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Banco de México sorprende y recorta su tasa de interés a 6.25%",
-      "resumen": "La Junta de Gobierno de Banco de México votó en decisión divida de 3 a 2 bajar la tasa de interés",
-      "link": "https://expansion.mx/economia/2026/11/05/banco-de-mexico-sorprende-y-recorta-su-tasa-de-interes-a-6-25",
-      "fecha": "05 Nov 2026, 13:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de economía digital: los riesgos que enfrentarán los usuarios con más pagos con QR y transferencias",
-      "resumen": "La entrada en vigor de la Ley de Economía Digital busca disminuir el uso del efectivo en el país. El uso de medios de pago electrónicos conlleva mayor precaución para evitar fraudes o errores en trans…",
-      "link": "https://expansion.mx/economia/2026/11/05/ley-de-economia-digital-los-riesgos-que-enfrentaran-los-usuarios-con-mas-pagos-con-qr-y-transferencias",
-      "fecha": "05 Nov 2026, 13:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "De cada 100 pesos del gasto público, 14 provendrán de deuda",
-      "resumen": "El gobierno federal recurre cada vez más a este tipo de financiamiento ante un menor crecimiento de los ingresos y un mayor gasto",
-      "link": "https://expansion.mx/economia/2026/11/04/100-pesos-gasto-publico-14-provendran-de-deuda-en-2027",
-      "fecha": "04 Nov 2026, 20:31 hrs"
+      "titulo": "El negocio de vender autos deja solo 38 centavos",
+      "resumen": "Los concesionarios argumentan que los cambios fiscales previstos para 2027 comprometerían la viabilidad de 30% de la red de distribución, alrededor de 1,000 agencias, y pondrían en riesgo más de 70,00…",
+      "link": "https://expansion.mx/empresas/2026/11/06/negocio-de-vender-autos-deja-solo-38-centavos",
+      "fecha": "06 Nov 2026, 17:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,15 +147,6 @@
       "fecha": "05 Nov 2026, 11:12 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
-      "resumen": "El ranking de Las 500 de Expansión revela cuáles son las compañías estadounidenses con mayores ingresos y cuántas personas trabajan en sus operaciones mexicanas.",
-      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
-      "fecha": "05 Nov 2026, 09:15 hrs"
-    },
-    {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
@@ -154,6 +154,15 @@
       "resumen": "Richard Neal, líder demócrata en Cámara de EU, se comprometió a revocar aranceles injustificados y dijo que prioridad es mantener el T-MEC.",
       "link": "https://www.reforma.com/promete-lider-democrata-revocar-aranceles-y-mantener-t-mec/ar3309658",
       "fecha": "06 Nov 2026, 12:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hace Viva ajustes por nueva inspección de motores",
+      "resumen": "Viva ajustó su programación ante menor disponibilidad de aeronaves, ante una nueva inspección preventiva de los motores Pratt &amp; Whitney.",
+      "link": "https://www.reforma.com/hace-viva-ajustes-por-nueva-inspeccion-de-motores/ar3309782",
+      "fecha": "06 Nov 2026, 15:32 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,19 +177,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caería 9.3% producción de café de Centroamérica y México",
-      "resumen": "Producción combinada de café de la región de América Central y México disminuiría 9.3 por ciento en el ciclo 2026-2027.",
-      "link": "https://www.reforma.com/caeria-9-3-produccion-de-cafe-de-centroamerica-y-mexico/ar3309380",
-      "fecha": "06 Nov 2026, 05:01 hrs"
+      "titulo": "Recupera índice Nasdaq terreno; sube 1%",
+      "resumen": "Tras su peor sesión en 19 meses, el Nasdaq repuntó un 1.09%; el S&amp;P 500 subió 0.3%, mientras que el Dow Jones perdió 237 puntos, o el 0.5%.",
+      "link": "https://www.reforma.com/recupera-indice-nasdaq-terreno-sube-1/ar3309788",
+      "fecha": "06 Nov 2026, 15:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urge Comce a facilitar procesos aduaneros",
-      "resumen": "El Comce y la ANAM se reunieron para plantear la necesidad de fortalecer los controles aduaneros y facilitar el comercio.",
-      "link": "https://www.reforma.com/urge-comce-a-facilitar-procesos-aduaneros/ar3309298",
-      "fecha": "06 Nov 2026, 05:01 hrs"
+      "titulo": "Cierra crudo Brent semana con baja de 16% y el WTI de 12%",
+      "resumen": "Este viernes, el Brent cerró estable en 98.32 dólares, pero en la semana perdió 16%; el WTI registró un descenso semanal de 12%.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-semana-con-baja-de-16-y-el-wti-de-12/ar3309780",
+      "fecha": "06 Nov 2026, 15:18 hrs"
     },
     {
       "fuente": "Reforma",
@@ -190,15 +199,6 @@
       "resumen": "La economía estadounidense sumó 165 mil empleos en octubre, mucho más de lo esperado, mientras que la tasa de desempleo bajó al 4.1%.",
       "link": "https://www.reforma.com/suma-economia-estadounidense-165-mil-empleos-en-octubre/ar3309501",
       "fecha": "06 Nov 2026, 07:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suben Nasdaq y S&amp;P 500 tras su peor caída en 19 meses",
-      "resumen": "En las primeras operaciones, el Nasdaq avanzaba 1.18% y el S&amp;P 500 ganaba 0.28%, aunque estaban lejos de compensar las pérdidas del jueves.",
-      "link": "https://www.reforma.com/suben-nasdaq-y-s-p-500-tras-su-peor-caida-en-19-meses/ar3309518",
-      "fecha": "06 Nov 2026, 08:54 hrs"
     },
     {
       "fuente": "Reforma",
