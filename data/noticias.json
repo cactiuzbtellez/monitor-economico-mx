@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/11/2026 09:26 hrs",
+  "actualizado": "07/11/2026 13:54 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Honda ensamblará en Jalisco motos que traía de China; el ajuste evitará despidos tras caída en producción de autopartes",
+      "resumen": "La marca japonesa abrió una segunda línea para producir 66,000 motocicletas de mayor cilindrada en Jalisco, con la que busca compensar la caída en la fabricación de autopartes que realiza en la misma …",
+      "link": "https://expansion.mx/empresas/2026/11/07/honda-produccion-motos-jalisco-traia-china-evita-despidos",
+      "fecha": "07 Nov 2026, 09:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El negocio de vender autos deja solo 38 centavos",
+      "resumen": "Los concesionarios argumentan que los cambios fiscales previstos para 2027 comprometerían la viabilidad de 30% de la red de distribución, alrededor de 1,000 agencias, y pondrían en riesgo más de 70,00…",
+      "link": "https://expansion.mx/empresas/2026/11/06/negocio-de-vender-autos-deja-solo-38-centavos",
+      "fecha": "06 Nov 2026, 17:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "La botella de tres litros gana terreno en México y cambia el negocio de Coca-Cola",
       "resumen": "El IEPS, los mayores costos laborales y un consumidor que cuida más su gasto llevan a Arca Continental y Coca-Cola FEMSA presentaciones, precios y promociones.",
       "link": "https://expansion.mx/empresas/2026/11/06/coca-cola-botella-tres-litros-mexico-negocio",
@@ -127,24 +145,6 @@
       "resumen": "Una recarga de 100 pesos puede cumplir más con tus necesidades. Estas son las diferencias entre Movistar, Telcel, AT&amp;T, Bait y OXXO Cel.",
       "link": "https://expansion.mx/empresas/2026/11/05/recarga-100-pesos-2026-telcel-at-t-movistar-oxxo-bait",
       "fecha": "05 Nov 2026, 15:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Jetour va por los clientes de Ford Bronco con su SUV T2 4x4 de menos de un millón de pesos",
-      "resumen": "La automotriz china amplía la oferta de su modelo insignia en México con una versión híbrida enchufable de tracción integral, con la que busca ganar espacio en el mercado de las SUV todoterreno.",
-      "link": "https://expansion.mx/empresas/2026/11/05/jetour-t2-4x4-suv-llega-mexico-precio",
-      "fecha": "05 Nov 2026, 11:12 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Las 10 empresas de EU que encontraron en México un negocio de billonario, de Walmart a Costco y General Motors",
-      "resumen": "El ranking de Las 500 de Expansión revela cuáles son las compañías estadounidenses con mayores ingresos y cuántas personas trabajan en sus operaciones mexicanas.",
-      "link": "https://expansion.mx/empresas/2026/11/05/las-10-empresas-estadounidenses-mas-grandes-en-mexico",
-      "fecha": "05 Nov 2026, 09:15 hrs"
     },
     {
       "fuente": "Reforma",
