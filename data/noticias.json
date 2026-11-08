@@ -1,5 +1,5 @@
 {
-  "actualizado": "07/11/2026 22:42 hrs",
+  "actualizado": "08/11/2026 05:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Petrobras analiza áreas petroleras en México para detectar oportunidades de desarrollo",
-      "resumen": "La petrolera brasileña ya efectúa estudios sísmicos en ocho áreas del Golfo de México, así como en campos maduros y yacimientos presalinos para descubrir nuevas oportunidades de exploración petrolera.",
-      "link": "https://expansion.mx/empresas/2026/11/07/petrobras-analiza-areas-petroleras-en-mexico",
-      "fecha": "07 Nov 2026, 14:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Honda ensamblará en Jalisco motos que traía de China; el ajuste evitará despidos tras caída en producción de autopartes",
       "resumen": "La marca japonesa abrió una segunda línea para producir 66,000 motocicletas de mayor cilindrada en Jalisco, con la que busca compensar la caída en la fabricación de autopartes que realiza en la misma …",
       "link": "https://expansion.mx/empresas/2026/11/07/honda-produccion-motos-jalisco-traia-china-evita-despidos",
@@ -145,6 +136,15 @@
       "resumen": "Las pantallas más grandes, las cámaras y los sistemas digitales elevan el equipamiento de los automóviles, pero también multiplican las posibilidades de fallas.",
       "link": "https://expansion.mx/empresas/2026/11/05/autos-tienen-mas-tecnologia-pero-generan-mas-fallas",
       "fecha": "05 Nov 2026, 15:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "¿Qué compañía telefónica te da más por 100 pesos en 2026? Telcel, AT&T, Movistar, OXXO y Bait se enfrentan",
+      "resumen": "Una recarga de 100 pesos puede cumplir más con tus necesidades. Estas son las diferencias entre Movistar, Telcel, AT&amp;T, Bait y OXXO Cel.",
+      "link": "https://expansion.mx/empresas/2026/11/05/recarga-100-pesos-2026-telcel-at-t-movistar-oxxo-bait",
+      "fecha": "05 Nov 2026, 15:18 hrs"
     },
     {
       "fuente": "Reforma",
