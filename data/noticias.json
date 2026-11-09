@@ -1,7 +1,25 @@
 {
-  "actualizado": "09/11/2026 03:12 hrs",
+  "actualizado": "09/11/2026 14:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Electricidad y transporte aéreo impulsaron la inflación en octubre a 3.75%",
+      "resumen": "La inflación subyacente, aquella que excluye los bienes y servicios más volátiles, cerró octubre con una tasa anual de 3.80%",
+      "link": "https://expansion.mx/economia/2026/11/09/electricidad-y-transporte-aereo-impulsaron-la-inflacion-en-octubre-a-3-75",
+      "fecha": "09 Nov 2026, 07:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Barclays prevé otro recorte de Banxico en marzo y anticipa una tasa de 6% en 2027",
+      "resumen": "La firma espera que el banco central mantenga sin cambios el referencial en diciembre y febrero, pese a que la Junta de gobierno anticipó que permanecerá en ese nivel por un periodo prolongado.",
+      "link": "https://expansion.mx/economia/2026/11/09/banxico-promete-mantener-tasa-barclays-preve-otro-recorte",
+      "fecha": "09 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Peso se deprecia por sorpresa de Banxico y analistas prevén mayor debilidad para moneda mexicana",
-      "resumen": "El tipo de cambio cerró las operaciones en 18.77 pesos por dólar. Banamex estimó que el peso mexicano subirá hasta 19.1 en 2027 ante mayores presiones.",
-      "link": "https://expansion.mx/economia/2026/11/05/peso-se-deprecia-por-sorpresa-de-banxico-y-analistas-preven-mayor-debilidad-para-moneda-mexicana",
-      "fecha": "05 Nov 2026, 17:44 hrs"
+      "titulo": "Pemex avanza con fracking; ya perforó el primer pozo en Coahuila para evaluar presencia de agua salina",
+      "resumen": "El objetivo es determinar el volumen y la calidad del agua disponible y descartar conexiones con acuíferos de agua dulce, una condición para desarrollar yacimientos no convencionales.",
+      "link": "https://expansion.mx/empresas/2026/11/09/pemex-avanza-fracking-perfora-primer-pozo-coahuila",
+      "fecha": "09 Nov 2026, 14:11 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Diputados aprueban en lo general y en Comisión el proyecto del gasto público para 2027",
-      "resumen": "Mañana viernes continuará la sesión en Comisión para discutir y votar reservas.  Se prevé que el dictamen del Presupuesto de Egresos de la Federación comience su discusión en el pleno el próximo lunes…",
-      "link": "https://expansion.mx/economia/2026/11/05/diputados-aprueban-comision-presupuesto-gasto-publico-2027",
-      "fecha": "05 Nov 2026, 17:16 hrs"
+      "titulo": "Mexicana MRO sobrevivió a la quiebra de la aerolínea, pero ya tiene fecha límite para venderse y salvar 1,600 empleos",
+      "resumen": "El taller aeronáutico enfrenta presiones financieras y necesita un comprador que aporte capital para modernizar sus instalaciones y mantener 1,600 empleos. Ya hay seis empresas interesadas.",
+      "link": "https://expansion.mx/empresas/2026/11/09/mexicana-mro-taller-fecha-limite-venta-salvar-1600-empleos",
+      "fecha": "09 Nov 2026, 13:36 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "FEMSA apuesta por cerrar más de 100 tiendas OXXO, mientras que acelera la expansión de Bara para competir con Tiendas 3B",
+      "resumen": "Bara ya tiene casi 900 tiendas en México y busca ganar terreno frente a Tiendas 3B, mientras FEMSA reorganiza su red de establecimientos y reduce unidades en otros negocios.",
+      "link": "https://expansion.mx/empresas/2026/11/08/femsa-cierra-100-tiendas-oxxo-acelera-bara-tiendas-3b",
+      "fecha": "08 Nov 2026, 17:20 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "06 Nov 2026, 13:38 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Elon Musk frenará la producción de Cybertruck tras su fracaso en ventas y le entrega su lugar al nuevo robotaxi de Tesla",
-      "resumen": "El empresario presentó la pick-up en 2019 con la promesa de revolucionar el mercado, pero su llegada tardía, precios y problemas de fabricación marcaron su trayectoria.",
-      "link": "https://expansion.mx/empresas/2026/11/06/tesla-recorta-produccion-cybertruck-para-fabricar-cybercab",
-      "fecha": "06 Nov 2026, 08:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La millonaria multa que tendrías que pagar si usas el logo del Buen Fin sin haber registrado tu negocio",
-      "resumen": "Durante la campaña de noviembre, los comercios deben distinguir entre ofrecer descuentos y anunciarse como participantes oficiales del evento.",
-      "link": "https://expansion.mx/empresas/2026/11/05/multa-usar-logo-buen-fin-publicidad",
-      "fecha": "05 Nov 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Abrían una tienda cada 48 horas hasta sumar 3,100 Farmacias Guadalajara: así es el imperio tapatío de la familia Arroyo",
-      "resumen": "Lo que comenzó como una farmacia en Guadalajara se convirtió en un negocio diversificado que vende desde medicamentos hasta pan recién horneado y artículos de uso diario.",
-      "link": "https://expansion.mx/empresas/2026/11/05/farmacias-guadalajara-imperio-familia-arroyo-mexico-2026",
-      "fecha": "05 Nov 2026, 16:04 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se registran 161,077 nuevos empleos; máximo en 8 meses",
+      "resumen": "En el País, se crearon 161 mil 77 nuevos empleos formales durante octubre, siendo su mayor cifra en ocho meses.",
+      "link": "https://www.reforma.com/se-registran-161-077-nuevos-empleos-maximo-en-8-meses/ar3311219",
+      "fecha": "09 Nov 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenarían exportación de equipo de cómputo",
-      "resumen": "Triunfo de candidatos demócratas a Gobernadores en EU significaría un freno a las exportaciones de equipo de cómputo de México a ese país.",
-      "link": "https://www.reforma.com/frenarian-exportacion-de-equipo-de-computo/ar3310034",
-      "fecha": "07 Nov 2026, 05:01 hrs"
+      "titulo": "Compite México con desventaja maicera",
+      "resumen": "México es el mayor importador de maíz en el mundo, pese a ser el país de origen de este grano, destacó el GCMA.",
+      "link": "https://www.reforma.com/compite-mexico-con-desventaja-maicera/ar3311163",
+      "fecha": "09 Nov 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan que México evade fallo al maíz",
-      "resumen": "Grupos agrícolas de Estados Unidos acusan a México de eludir con reglas ambiguas el fallo del T-MEC sobre maíz transgénico.",
-      "link": "https://www.reforma.com/acusan-que-mexico-evade-fallo-al-maiz/ar3310029",
-      "fecha": "07 Nov 2026, 05:01 hrs"
+      "titulo": "Trata IP temas de comercio y energía con empresarios de EU",
+      "resumen": "El CCE asistió a la cumbre del B20, en dónde tratarán los temas de comercio, energía, crecimiento económico e innovación.",
+      "link": "https://www.reforma.com/trata-ip-temas-de-comercio-y-energia-con-empresarios-de-eu/ar3311094",
+      "fecha": "09 Nov 2026, 11:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aprueba CNE 6 centrales de generación; invertirán 750 mdd",
-      "resumen": "Comisión Nacional de Energía (CNE) aprobó sólo seis permisos de centrales eléctricas de un total de 57 proyectos que se presentaron.",
-      "link": "https://www.reforma.com/aprueba-cne-6-centrales-de-generacion-invertiran-750-mdd/ar3309941",
-      "fecha": "06 Nov 2026, 19:50 hrs"
+      "titulo": "Retroceden 4% producción de autos y 3.3% la exportación",
+      "resumen": "De enero a octubre, la producción de autos y exportación tuvieron sus peores resultados relativos en periodos comparables desde la pandemia.",
+      "link": "https://www.reforma.com/retroceden-4-produccion-de-autos-y-3-3-la-exportacion/ar3311061",
+      "fecha": "09 Nov 2026, 11:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Avanza BMV 2.30% en la semana",
-      "resumen": "La Bolsa Mexicana de Valores (BMV) acumuló una ganancia semanal de 2.30% al cerrar el viernes en el nivel de 71 mil 393.57 puntos.",
-      "link": "https://www.reforma.com/avanza-bmv-2-30-en-la-semana/ar3309930",
-      "fecha": "06 Nov 2026, 19:41 hrs"
+      "titulo": "'Regaña' Sader a industriales: pide cumplir acuerdos en maíz",
+      "resumen": "Los industriales del sector agroalimentario no han cumplido con su promesa de reducir las importaciones de maíz, dijo la Sader.",
+      "link": "https://www.reforma.com/regana-sader-a-industriales-pide-cumplir-acuerdos-en-maiz/ar3311092",
+      "fecha": "09 Nov 2026, 11:43 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rompe peso racha de ocho semanas a la baja",
-      "resumen": "El peso mexicano cortó una racha de ocho semanas consecutivas de pérdidas frente al dólar tras lograr una apreciación de 0.90%.",
-      "link": "https://www.reforma.com/rompe-peso-racha-de-ocho-semanas-a-la-baja/ar3309918",
-      "fecha": "06 Nov 2026, 19:41 hrs"
+      "titulo": "Estancan presencia de mujeres en puestos de liderazgo.- Imco",
+      "resumen": "La participación de mujeres en Consejos de Administración de las empresas que cotizan en Bolsa, se estancó, es sólo de 14.8 por ciento.",
+      "link": "https://www.reforma.com/estancan-presencia-de-mujeres-en-puestos-de-liderazgo-imco/ar3311066",
+      "fecha": "09 Nov 2026, 11:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quiere México reducir dependencia farmacéutica",
-      "resumen": "Con una inversión privada de 4 mil mdp, México potenciaría la investigación y manufactura de terapias avanzadas en materia biotecnológica.",
-      "link": "https://www.reforma.com/quiere-mexico-reducir-dependencia-farmaceutica/ar3309829",
-      "fecha": "06 Nov 2026, 19:41 hrs"
+      "titulo": "Lideraron Polanco y Reforma demanda de espacios corporativos",
+      "resumen": "En la CDMX, Polanco, Reforma y Lomas de las Palmas lideraron la demanda de áreas corporativas, con 39 por ciento de la absorción, dijo CBRE.",
+      "link": "https://www.reforma.com/lideraron-polanco-y-reforma-demanda-de-espacios-corporativos/ar3311210",
+      "fecha": "09 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recupera índice Nasdaq terreno; sube 1%",
-      "resumen": "Tras su peor sesión en 19 meses, el Nasdaq repuntó un 1.09%; el S&amp;P 500 subió 0.3%, mientras que el Dow Jones perdió 237 puntos, o el 0.5%.",
-      "link": "https://www.reforma.com/recupera-indice-nasdaq-terreno-sube-1/ar3309788",
-      "fecha": "06 Nov 2026, 15:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Con la misma vara",
-      "resumen": "El caso Taddei ya no es contra Taddei, sino contra la oposición, y el instrumento para lograrlo es la culpa por asociación.",
-      "link": "https://www.reforma.com/con-la-misma-vara/ar3309491",
-      "fecha": "06 Nov 2026, 07:16 hrs"
+      "titulo": "Baja Brent 5.8% tras actitud moderada de Trump sobre Irán",
+      "resumen": "El crudo Brent bajó 5.85%, a 92.57 dólares el barril. En tanto, el West Texas Intermediate perdió 4.4%, a 86.85 dólares.",
+      "link": "https://www.reforma.com/baja-brent-5-8-tras-actitud-moderada-de-trump-sobre-iran/ar3311144",
+      "fecha": "09 Nov 2026, 12:23 hrs"
     }
   ]
 }
