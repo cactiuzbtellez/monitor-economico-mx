@@ -1,7 +1,43 @@
 {
-  "actualizado": "10/11/2026 06:09 hrs",
+  "actualizado": "10/11/2026 14:15 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía digital: México puede reducir a 50% el uso de efectivo, prevé Openbank",
+      "resumen": "El banco digital de Santander plantea digitalizar los pagos al gobierno y reducir las comisiones que enfrentan los pequeños comercios por aceptar pagos electrónicos.",
+      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-mexico-puede-reducir-a-50-el-uso-de-efectivo-preve-openbank",
+      "fecha": "09 Nov 2026, 19:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Buen Fin 2026: las ofertas pueden salir caras: recomendaciones para no endeudarse",
+      "resumen": "Para la edición de la semana más barata del año, Banamex publicó su guía para consumidores",
+      "link": "https://expansion.mx/economia/2026/11/09/buen-fin-2026-las-ofertas-pueden-salir-caras-recomendaciones-para-no-endeudarse",
+      "fecha": "09 Nov 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Servicios de salud privados en México subirán 12.8% en 2027; envejecimiento y tecnología disparan la inflación médica",
+      "resumen": "Durante los últimos 18 meses, el cáncer de mama, el colorrectal y el de próstata figuraron como los padecimientos que tienen la mayor presión en precios, dice WTW.",
+      "link": "https://expansion.mx/economia/2026/11/09/servicios-de-salud-privados-en-mexico-subiran-12-8-en-2027-envejecimiento-y-tecnologia-disparan-la-inflacion-medica",
+      "fecha": "09 Nov 2026, 15:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía Digital desempolva a CoDi: bancos facilitarán su uso a partir de diciembre",
+      "resumen": "Con solamente tres pasos, los usuarios podrán acceder a CoDi en su teléfono móvil. Se busca el uso masivo de operaciones con códigos QR y muy pocos usuarios saben que pueden hacerlo desde su app banca…",
+      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-desempolva-a-codi",
+      "fecha": "09 Nov 2026, 14:36 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "¡Castigo al INE!, diputados le quitan 6,000 millones y aprueban dictamen del Presupuesto 2027",
-      "resumen": "Los legisladores de la Comisión de Presupuesto aprobaron en lo general y en lo particular el dictamen del gasto público 2027, el cual iniciará su discusión en el pleno el próximo lunes.",
-      "link": "https://expansion.mx/economia/2026/11/06/diputados-6000-millones-ine-educacion-mujeres-turismo",
-      "fecha": "06 Nov 2026, 16:55 hrs"
+      "titulo": "Walmart y Pemex lideran la presencia de mujeres en sus consejos, mientras 20 empresas no tienen una sola",
+      "resumen": "Veinte empresas listadas en bolsa no tienen mujeres en sus consejos de administración y 136 mantienen una representación de 20% o menos. Las redes masculinas y las barreras para ascender explican part…",
+      "link": "https://expansion.mx/empresas/2026/11/09/walmart-y-pemex-lideran-la-presencia-de-mujeres-en-sus-consejos-mientras-20-empresas-no-tienen-una-sola",
+      "fecha": "09 Nov 2026, 19:04 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
-      "resumen": "La calificadora señaló que la crisis bancaria en el país sudamericano pone de manifiesto las debilidades institucionales del país, aunque no anticipa un impacto inmediato en su calificación crediticia",
-      "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
-      "fecha": "06 Nov 2026, 16:10 hrs"
+      "titulo": "Pemex arrastra adeudos con proveedores y contratistas desde 2024 y promete pagar hasta 2027",
+      "resumen": "El director de Pemex asegura que 99% de los adeudos de 2025 están cubiertos, pero reconoce que los compromisos de 2024 siguen pendientes y que algunos contratistas tampoco pagan a sus subcontratistas.",
+      "link": "https://expansion.mx/empresas/2026/11/09/pemex-arrastra-adeudos-proveedores-desde-2024-pagara-2027",
+      "fecha": "09 Nov 2026, 16:59 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "En 2027, México enfrentará un doble riesgo para la inversión entre reglas del T-MEC y cambios internos",
-      "resumen": "El acuerdo comercial puede abrir espacio a más proveedores mexicanos, pero la IP advierte que reglas de origen más estrictas pueden desalentar los capitales foráneos.",
-      "link": "https://expansion.mx/economia/2026/11/06/mexico-atraer-inversiones-retos-internos-tmec",
-      "fecha": "06 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "De cada 100 pesos del gasto público en 2027, 14 provendrán de deuda",
-      "resumen": "El gobierno federal recurre cada vez más a este tipo de financiamiento ante un menor crecimiento de los ingresos y un mayor gasto.",
-      "link": "https://expansion.mx/economia/2026/11/05/de-cada-100-pesos-del-gasto-publico-en-2027-14-provendran-de-deuda",
-      "fecha": "05 Nov 2026, 17:55 hrs"
+      "titulo": "El 'aguinaldo' que Carlos Slim cobra a los negocios de sus plazas comerciales durante el Buen Fin y Navidad",
+      "resumen": "Los contratos de Inmuebles Carso contemplan rentas variables, cuotas de mantenimiento y pagos adicionales que pueden aumentar cuando los establecimientos venden más.",
+      "link": "https://expansion.mx/empresas/2026/11/09/carlos-slim-aguinaldo-tiendas-buen-fin-navidad",
+      "fecha": "09 Nov 2026, 16:39 hrs"
     },
     {
       "fuente": "Expansión",
@@ -89,7 +116,7 @@
       "color": "#C8102E",
       "titulo": "Mexicana MRO sobrevivió a la quiebra de la aerolínea, pero ya tiene fecha límite para venderse y salvar 1,600 empleos",
       "resumen": "El taller aeronáutico enfrenta presiones financieras y necesita un comprador que aporte capital para modernizar sus instalaciones y mantener 1,600 empleos. Ya hay seis empresas interesadas.",
-      "link": "https://expansion.mx/empresas/2026/11/09/mexicana-mro-taller-fecha-limite-venta-salvar-1600-empleos",
+      "link": "https://expansion.mx/empresas/2026/11/09/mexicana-taller-sobrevivio-quiebra-riesgo",
       "fecha": "09 Nov 2026, 13:36 hrs"
     },
     {
@@ -120,103 +147,76 @@
       "fecha": "07 Nov 2026, 14:40 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Honda ensamblará en Jalisco motos que traía de China; el ajuste evitará despidos tras caída en producción de autopartes",
-      "resumen": "La marca japonesa abrió una segunda línea para producir 66,000 motocicletas de mayor cilindrada en Jalisco, con la que busca compensar la caída en la fabricación de autopartes que realiza en la misma …",
-      "link": "https://expansion.mx/empresas/2026/11/07/honda-produccion-motos-jalisco-traia-china-evita-despidos",
-      "fecha": "07 Nov 2026, 09:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El negocio de vender autos deja solo 38 centavos",
-      "resumen": "Los concesionarios argumentan que los cambios fiscales previstos para 2027 comprometerían la viabilidad de 30% de la red de distribución, alrededor de 1,000 agencias, y pondrían en riesgo más de 70,00…",
-      "link": "https://expansion.mx/empresas/2026/11/06/negocio-de-vender-autos-deja-solo-38-centavos",
-      "fecha": "06 Nov 2026, 17:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La botella de tres litros gana terreno en México y cambia el negocio de Coca-Cola",
-      "resumen": "El IEPS, los mayores costos laborales y un consumidor que cuida más su gasto llevan a Arca Continental y Coca-Cola FEMSA presentaciones, precios y promociones.",
-      "link": "https://expansion.mx/empresas/2026/11/06/coca-cola-botella-tres-litros-mexico-negocio",
-      "fecha": "06 Nov 2026, 13:38 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide SHCP a Afores maximizar rendimientos",
+      "resumen": "La SHCP llamó a las Afores a buscar las mejores alternativas de inversión para elevar los rendimientos de los trabajadores.",
+      "link": "https://www.reforma.com/pide-shcp-a-afores-maximizar-rendimientos/ar3311846",
+      "fecha": "10 Nov 2026, 12:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Doble IVA a plazos no es la solución'",
-      "resumen": "De resolver la Corte que se cobre doble IVA a empresas, pero con la opción de amortizar el pago, no representaría una solución de fondo.",
-      "link": "https://www.reforma.com/doble-iva-a-plazos-no-es-la-solucion/ar3311537",
-      "fecha": "10 Nov 2026, 05:01 hrs"
+      "titulo": "Sufren algún delito 1 de cada 4 empresas en México",
+      "resumen": "Una de cada cuatro empresas fue víctima de algún delito el año pasado; destacan la extorsión, el robo hormiga y el asalto, según el Inegi.",
+      "link": "https://www.reforma.com/sufren-algun-delito-1-de-cada-4-empresas-en-mexico/ar3311859",
+      "fecha": "10 Nov 2026, 12:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte IP poco margen para elevar salario mínimo",
-      "resumen": "El sector patronal presentó análisis a Conasami que advierte que margen para continuar con los incrementos al salario mínimo se ha reducido.",
-      "link": "https://www.reforma.com/advierte-ip-poco-margen-para-elevar-salario-minimo/ar3311479",
-      "fecha": "10 Nov 2026, 05:00 hrs"
+      "titulo": "Urgen limitar expansión china en manufactura",
+      "resumen": "China genera el 35 por ciento de la manufactura global, por lo que México debe competir y retornar la generación de riqueza, dijo Ternium.",
+      "link": "https://www.reforma.com/urgen-limitar-expansion-china-en-manufactura/ar3311813",
+      "fecha": "10 Nov 2026, 11:52 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Emerge Monterrey como opción para data centers",
-      "resumen": "En medio de preocupaciones de que se frenen nuevos proyectos de centros de datos en EU, Monterrey y Querétaro emergen como opción.",
-      "link": "https://www.reforma.com/emerge-monterrey-como-opcion-para-data-centers/ar3311533",
-      "fecha": "10 Nov 2026, 05:01 hrs"
+      "titulo": "Pierde Nvidia 6% y pasa a ser la tercera empresa más valiosa",
+      "resumen": "Nvidia ha borrado más de 400 mmdd en valor de mercado, cayendo al tercer lugar de las empresas más valiosas, detrás de Apple y Microsoft.",
+      "link": "https://www.reforma.com/pierde-nvidia-6-y-pasa-a-ser-la-tercera-empresa-mas-valiosa/ar3311829",
+      "fecha": "10 Nov 2026, 12:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amenazan riesgos a reservas del IMSS",
-      "resumen": "El IMSS elevó sus reservas siete años seguidos, pero admite que su suficiencia financiera se reduciría a 2034 en un escenario de riesgo.",
-      "link": "https://www.reforma.com/amenazan-riesgos-a-reservas-del-imss/ar3311536",
-      "fecha": "10 Nov 2026, 05:01 hrs"
+      "titulo": "Sube probabilidad de que Fed eleve tasa en 50 puntos",
+      "resumen": "Probabilidades de que Fed suba las tasas de interés en medio punto porcentual en diciembre se disparaban tras los datos de inflación.",
+      "link": "https://www.reforma.com/sube-probabilidad-de-que-fed-eleve-tasa-en-50-puntos/ar3311750",
+      "fecha": "10 Nov 2026, 11:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Subiría informalidad por más carga fiscal",
-      "resumen": "El Paquete Económico 2027 amplía las brechas fiscales de México con sus socios y podría elevar la informalidad, alertan especialistas.",
-      "link": "https://www.reforma.com/subiria-informalidad-por-mas-carga-fiscal/ar3311523",
-      "fecha": "10 Nov 2026, 05:01 hrs"
+      "titulo": "Va Anthropic por 1.4 billones de dólares para salida a bolsa",
+      "resumen": "Anthropic busca una valoración diluida de alrededor de 1.4 billones de dólares, en un intento del primer laboratorio de IA en salir a bolsa.",
+      "link": "https://www.reforma.com/va-anthropic-por-1-4-billones-de-dolares-para-salida-a-bolsa/ar3311642",
+      "fecha": "10 Nov 2026, 07:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae 3.3% tráfico de pasajeros de ASUR en México",
-      "resumen": "ASUR transportó 32.3 millones de pasajeros en México de enero a octubre, 3.3% menos, y analistas no ven catalizadores de mejora.",
-      "link": "https://www.reforma.com/cae-3-3-trafico-de-pasajeros-de-asur-en-mexico/ar3311429",
-      "fecha": "09 Nov 2026, 18:06 hrs"
+      "titulo": "Dispara IA superávit comercial chino al billón de dólares",
+      "resumen": "El superávit comercial de China superó el billón de dólares en los primeros 10 meses del año,",
+      "link": "https://www.reforma.com/dispara-ia-superavit-comercial-chino-al-billon-de-dolares/ar3311886",
+      "fecha": "10 Nov 2026, 12:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Frenan 300 permisos para gasolinerías",
-      "resumen": "CNE tiene congeladas las autorizaciones de 300 estaciones de gasolinas desde hace tres meses, acusó Lejar Innovaciones.",
-      "link": "https://www.reforma.com/frenan-300-permisos-para-gasolinerias/ar3311401",
-      "fecha": "09 Nov 2026, 17:28 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Desarrolla Pemex nuevos contratos para aguas profundas",
-      "resumen": "Pemex desarrolla un nuevo modelo de contrato y esquema financiero para la exploración de campos en aguas profundas.",
-      "link": "https://www.reforma.com/desarrolla-pemex-nuevos-contratos-para-aguas-profundas/ar3311380",
-      "fecha": "09 Nov 2026, 17:18 hrs"
+      "titulo": "Advierten que hackeos podrían apuntar a electrodomésticos",
+      "resumen": "Tras ciberataques a sistemas de refrigeración en Europa, advierten que los electrodomésticos de hogares podrían ser el próximo objetivo.",
+      "link": "https://www.reforma.com/advierten-que-hackeos-podrian-apuntar-a-electrodomesticos/ar3311787",
+      "fecha": "10 Nov 2026, 11:23 hrs"
     }
   ]
 }
