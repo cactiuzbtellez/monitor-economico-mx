@@ -1,7 +1,43 @@
 {
-  "actualizado": "09/11/2026 14:26 hrs",
+  "actualizado": "09/11/2026 21:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía digital: México puede reducir a 50% el uso de efectivo, prevé Openbank",
+      "resumen": "El banco digital de Santander plantea digitalizar los pagos al gobierno y reducir las comisiones que enfrentan los pequeños comercios por aceptar pagos electrónicos.",
+      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-mexico-puede-reducir-a-50-el-uso-de-efectivo-preve-openbank",
+      "fecha": "09 Nov 2026, 19:50 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Buen Fin 2026: las ofertas pueden salir caras: recomendaciones para no endeudarse",
+      "resumen": "Para la edición de la semana más barata del año, Banamex publicó su guía para consumidores",
+      "link": "https://expansion.mx/economia/2026/11/09/buen-fin-2026-las-ofertas-pueden-salir-caras-recomendaciones-para-no-endeudarse",
+      "fecha": "09 Nov 2026, 19:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Servicios de salud privados en México subirán 12.8% en 2027; envejecimiento y tecnología disparan la inflación médica",
+      "resumen": "Durante los últimos 18 meses, el cáncer de mama, el colorrectal y el de próstata figuraron como los padecimientos que tienen la mayor presión en precios, dice WTW.",
+      "link": "https://expansion.mx/economia/2026/11/09/servicios-de-salud-privados-en-mexico-subiran-12-8-en-2027-envejecimiento-y-tecnologia-disparan-la-inflacion-medica",
+      "fecha": "09 Nov 2026, 15:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía Digital desempolva a CoDi: bancos facilitarán su uso a partir de diciembre",
+      "resumen": "Con solamente tres pasos, los usuarios podrán acceder a CoDi en su teléfono móvil. Se busca el uso masivo de operaciones con códigos QR y muy pocos usuarios saben que pueden hacerlo desde su app banca…",
+      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-desempolva-a-codi",
+      "fecha": "09 Nov 2026, 14:36 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,60 +73,6 @@
       "resumen": "Para la semana del 7 al 13 de noviembre, la gasolina Magna tendrá una cuota de 4.96 pesos por litro, mientras en la Premium subió a 4.27 pesos por litro.",
       "link": "https://expansion.mx/economia/2026/11/06/impuesto-gasolinas-sube-magna-premium-diesel-cero",
       "fecha": "06 Nov 2026, 18:17 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¡Castigo al INE!, diputados le quitan 6,000 millones y aprueban dictamen del Presupuesto 2027",
-      "resumen": "Los legisladores de la Comisión de Presupuesto aprobaron en lo general y en lo particular el dictamen del gasto público 2027, el cual iniciará su discusión en el pleno el próximo lunes.",
-      "link": "https://expansion.mx/economia/2026/11/06/diputados-6000-millones-ine-educacion-mujeres-turismo",
-      "fecha": "06 Nov 2026, 16:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Quiebra de Ueno Bank exhibe fallas de supervisión y corrupción en Paraguay, advierte Moody’s",
-      "resumen": "La calificadora señaló que la crisis bancaria en el país sudamericano pone de manifiesto las debilidades institucionales del país, aunque no anticipa un impacto inmediato en su calificación crediticia",
-      "link": "https://expansion.mx/economia/2026/11/06/quiebra-de-ueno-bank-exhibe-fallas-de-supervision-y-corrupcion-en-paraguay-advierte-moodys",
-      "fecha": "06 Nov 2026, 16:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "En 2027, México enfrentará un doble riesgo para la inversión entre reglas del T-MEC y cambios internos",
-      "resumen": "El acuerdo comercial puede abrir espacio a más proveedores mexicanos, pero la IP advierte que reglas de origen más estrictas pueden desalentar los capitales foráneos.",
-      "link": "https://expansion.mx/economia/2026/11/06/mexico-atraer-inversiones-retos-internos-tmec",
-      "fecha": "06 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "De cada 100 pesos del gasto público en 2027, 14 provendrán de deuda",
-      "resumen": "El gobierno federal recurre cada vez más a este tipo de financiamiento ante un menor crecimiento de los ingresos y un mayor gasto.",
-      "link": "https://expansion.mx/economia/2026/11/05/de-cada-100-pesos-del-gasto-publico-en-2027-14-provendran-de-deuda",
-      "fecha": "05 Nov 2026, 17:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex avanza con fracking; ya perforó el primer pozo en Coahuila para evaluar presencia de agua salina",
-      "resumen": "El objetivo es determinar el volumen y la calidad del agua disponible y descartar conexiones con acuíferos de agua dulce, una condición para desarrollar yacimientos no convencionales.",
-      "link": "https://expansion.mx/empresas/2026/11/09/pemex-avanza-fracking-perfora-primer-pozo-coahuila",
-      "fecha": "09 Nov 2026, 14:11 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana MRO sobrevivió a la quiebra de la aerolínea, pero ya tiene fecha límite para venderse y salvar 1,600 empleos",
-      "resumen": "El taller aeronáutico enfrenta presiones financieras y necesita un comprador que aporte capital para modernizar sus instalaciones y mantener 1,600 empleos. Ya hay seis empresas interesadas.",
-      "link": "https://expansion.mx/empresas/2026/11/09/mexicana-mro-taller-fecha-limite-venta-salvar-1600-empleos",
-      "fecha": "09 Nov 2026, 13:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -147,76 +129,94 @@
       "fecha": "06 Nov 2026, 13:38 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se registran 161,077 nuevos empleos; máximo en 8 meses",
-      "resumen": "En el País, se crearon 161 mil 77 nuevos empleos formales durante octubre, siendo su mayor cifra en ocho meses.",
-      "link": "https://www.reforma.com/se-registran-161-077-nuevos-empleos-maximo-en-8-meses/ar3311219",
-      "fecha": "09 Nov 2026, 14:09 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Elon Musk frenará la producción de Cybertruck tras su fracaso en ventas y le entrega su lugar al nuevo robotaxi de Tesla",
+      "resumen": "El empresario presentó la pick-up en 2019 con la promesa de revolucionar el mercado, pero su llegada tardía, precios y problemas de fabricación marcaron su trayectoria.",
+      "link": "https://expansion.mx/empresas/2026/11/06/tesla-recorta-produccion-cybertruck-para-fabricar-cybercab",
+      "fecha": "06 Nov 2026, 08:52 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "La millonaria multa que tendrías que pagar si usas el logo del Buen Fin sin haber registrado tu negocio",
+      "resumen": "Durante la campaña de noviembre, los comercios deben distinguir entre ofrecer descuentos y anunciarse como participantes oficiales del evento.",
+      "link": "https://expansion.mx/empresas/2026/11/05/multa-usar-logo-buen-fin-publicidad",
+      "fecha": "05 Nov 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Compite México con desventaja maicera",
-      "resumen": "México es el mayor importador de maíz en el mundo, pese a ser el país de origen de este grano, destacó el GCMA.",
-      "link": "https://www.reforma.com/compite-mexico-con-desventaja-maicera/ar3311163",
-      "fecha": "09 Nov 2026, 14:09 hrs"
+      "titulo": "Cae 3.3% tráfico de pasajeros de ASUR en México",
+      "resumen": "ASUR transportó 32.3 millones de pasajeros en México de enero a octubre, 3.3% menos, y analistas no ven catalizadores de mejora.",
+      "link": "https://www.reforma.com/cae-3-3-trafico-de-pasajeros-de-asur-en-mexico/ar3311429",
+      "fecha": "09 Nov 2026, 18:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Trata IP temas de comercio y energía con empresarios de EU",
-      "resumen": "El CCE asistió a la cumbre del B20, en dónde tratarán los temas de comercio, energía, crecimiento económico e innovación.",
-      "link": "https://www.reforma.com/trata-ip-temas-de-comercio-y-energia-con-empresarios-de-eu/ar3311094",
-      "fecha": "09 Nov 2026, 11:43 hrs"
+      "titulo": "Frenan 300 permisos para gasolinerías",
+      "resumen": "CNE tiene congeladas las autorizaciones de 300 estaciones de gasolinas desde hace tres meses, acusó Lejar Innovaciones.",
+      "link": "https://www.reforma.com/frenan-300-permisos-para-gasolinerias/ar3311401",
+      "fecha": "09 Nov 2026, 17:28 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retroceden 4% producción de autos y 3.3% la exportación",
-      "resumen": "De enero a octubre, la producción de autos y exportación tuvieron sus peores resultados relativos en periodos comparables desde la pandemia.",
-      "link": "https://www.reforma.com/retroceden-4-produccion-de-autos-y-3-3-la-exportacion/ar3311061",
-      "fecha": "09 Nov 2026, 11:01 hrs"
+      "titulo": "Desarrolla Pemex nuevos contratos para aguas profundas",
+      "resumen": "Pemex desarrolla un nuevo modelo de contrato y esquema financiero para la exploración de campos en aguas profundas.",
+      "link": "https://www.reforma.com/desarrolla-pemex-nuevos-contratos-para-aguas-profundas/ar3311380",
+      "fecha": "09 Nov 2026, 17:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Regaña' Sader a industriales: pide cumplir acuerdos en maíz",
-      "resumen": "Los industriales del sector agroalimentario no han cumplido con su promesa de reducir las importaciones de maíz, dijo la Sader.",
-      "link": "https://www.reforma.com/regana-sader-a-industriales-pide-cumplir-acuerdos-en-maiz/ar3311092",
-      "fecha": "09 Nov 2026, 11:43 hrs"
+      "titulo": "Pujan 7 empresas por Mexicana MRO; confían se venda este año",
+      "resumen": "Después de diversos problemas, Mexicana MRO, centro de mantenimiento de aeronaves, alista su venta y a siete empresas les interesa.",
+      "link": "https://www.reforma.com/pujan-7-empresas-por-mexicana-mro-confian-se-venda-este-ano/ar3311353",
+      "fecha": "09 Nov 2026, 17:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estancan presencia de mujeres en puestos de liderazgo.- Imco",
-      "resumen": "La participación de mujeres en Consejos de Administración de las empresas que cotizan en Bolsa, se estancó, es sólo de 14.8 por ciento.",
-      "link": "https://www.reforma.com/estancan-presencia-de-mujeres-en-puestos-de-liderazgo-imco/ar3311066",
-      "fecha": "09 Nov 2026, 11:08 hrs"
+      "titulo": "Analiza Pemex esquema de pagos para subcontratados",
+      "resumen": "Pemex elevaría a nivel contractual la obligación de que sus proveedores paguen en tiempo y forma los servicios que subcontratan a terceros.",
+      "link": "https://www.reforma.com/analiza-pemex-esquema-de-pagos-para-subcontratados/ar3311337",
+      "fecha": "09 Nov 2026, 17:18 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Lideraron Polanco y Reforma demanda de espacios corporativos",
-      "resumen": "En la CDMX, Polanco, Reforma y Lomas de las Palmas lideraron la demanda de áreas corporativas, con 39 por ciento de la absorción, dijo CBRE.",
-      "link": "https://www.reforma.com/lideraron-polanco-y-reforma-demanda-de-espacios-corporativos/ar3311210",
-      "fecha": "09 Nov 2026, 14:17 hrs"
+      "titulo": "Pide The Children Place protección por bancarrota en EU",
+      "resumen": "La tienda de ropa infantil The Children s Place pidió la protección por bancarrota del Capítulo 11 y busca comprador antes de diciembre 9.",
+      "link": "https://www.reforma.com/pide-the-children-place-proteccion-por-bancarrota-en-eu/ar3311309",
+      "fecha": "09 Nov 2026, 15:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja Brent 5.8% tras actitud moderada de Trump sobre Irán",
-      "resumen": "El crudo Brent bajó 5.85%, a 92.57 dólares el barril. En tanto, el West Texas Intermediate perdió 4.4%, a 86.85 dólares.",
-      "link": "https://www.reforma.com/baja-brent-5-8-tras-actitud-moderada-de-trump-sobre-iran/ar3311144",
-      "fecha": "09 Nov 2026, 12:23 hrs"
+      "titulo": "Piden ganaderos analizar impacto de cupos",
+      "resumen": "Ganaderos y porcicultores urgen analizar el impacto de elevar los cupos libres de arancel de carne que pide Comecarne para 2027.",
+      "link": "https://www.reforma.com/piden-ganaderos-analizar-impacto-de-cupos/ar3311298",
+      "fecha": "09 Nov 2026, 15:34 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se recuperan mercados de EU; Nvidia pierde 4.27%",
+      "resumen": "Este lunes, el Dow Jones sumó 1,104 puntos, o 2.15%, mientras que el S&amp;P 500 avanzó 2.34% y el Nasdaq 2.74%, pese a baja de 4.27% en Nvidia.",
+      "link": "https://www.reforma.com/se-recuperan-mercados-de-eu-nvidia-pierde-4-27/ar3311281",
+      "fecha": "09 Nov 2026, 15:06 hrs"
     }
   ]
 }
