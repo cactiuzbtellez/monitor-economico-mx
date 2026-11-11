@@ -1,5 +1,5 @@
 {
-  "actualizado": "11/11/2026 10:54 hrs",
+  "actualizado": "11/11/2026 17:18 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tienen 30,000 sucursales y venden millones: los 3 empresarios que disputan el negocio a las tienditas de la esquina",
-      "resumen": "Las tienditas de la esquina tienen nuevos rivales. Tiendas 3B, OXXO y Supercito avanzan para conquistar las compras cotidianas de los mexicanos y competir por un mercado históricamente dominado por pe…",
-      "link": "https://expansion.mx/empresas/2026/11/11/empresarios-que-disputan-negocio-a-tienditas-de-la-esquina",
-      "fecha": "11 Nov 2026, 08:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Pemex deja de reportar producción exclusiva de petróleo crudo para elevar cifras con condensados",
       "resumen": "El director de la petrolera, Juan Carlos Carpio, no ofreció una respuesta clara sobre los cambios realizados en los reportes de su base de datos.",
       "link": "https://expansion.mx/empresas/2026/11/10/pemex-deja-de-reportar-produccion-exclusiva-de-petroleo-crudo-para-elevar-cifras-con-condensados",
@@ -147,58 +138,67 @@
       "fecha": "09 Nov 2026, 19:04 hrs"
     },
     {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "'Desempolva' Pemex cláusula de impago",
-      "resumen": "Pemex busca poner orden a la deuda con contratistas desempolvando un esquema que existe desde el 2016.",
-      "link": "https://www.reforma.com/desempolva-pemex-clausula-de-impago/ar3312344",
-      "fecha": "11 Nov 2026, 05:01 hrs"
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Pemex arrastra adeudos con proveedores y contratistas desde 2024 y promete pagar hasta 2027",
+      "resumen": "El director de Pemex asegura que 99% de los adeudos de 2025 están cubiertos, pero reconoce que los compromisos de 2024 siguen pendientes y que algunos contratistas tampoco pagan a sus subcontratistas.",
+      "link": "https://expansion.mx/empresas/2026/11/09/pemex-arrastra-adeudos-proveedores-desde-2024-pagara-2027",
+      "fecha": "09 Nov 2026, 16:59 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufre algún delito el 26% de empresas",
-      "resumen": "Una de cada cuatro empresas en México fue víctima de algún delito el año pasado, siendo los más frecuentes extorsión, robo hormiga y asalto.",
-      "link": "https://www.reforma.com/sufre-algun-delito-el-26-de-empresas/ar3312394",
-      "fecha": "11 Nov 2026, 07:10 hrs"
+      "titulo": "Bloquea México 13 mil mdp de acero irregular",
+      "resumen": "En los últimos nueve meses, México ha reducido en 30% sus importaciones de acero de países sin un acuerdo comercial,  aseguró SE.",
+      "link": "https://www.reforma.com/bloquea-mexico-13-mil-mdp-de-acero-irregular/ar3312865",
+      "fecha": "11 Nov 2026, 15:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evalúa Ternium más casos antidumping en México",
-      "resumen": "Ternium evalúa más casos antidumping en México para combatir las importaciones, especialmente de Asia, dijo su director, Máximo Vedoya.",
-      "link": "https://www.reforma.com/evalua-ternium-mas-casos-antidumping-en-mexico/ar3312514",
-      "fecha": "11 Nov 2026, 08:52 hrs"
+      "titulo": "Plantea Altagracia regular y no cerrar puertas a China",
+      "resumen": "La producción nacional se debe proteger, en especial en China y evitar cerrarle la puerta, dijo Altagracia Gómez, titular del Caderr.",
+      "link": "https://www.reforma.com/plantea-altagracia-regular-y-no-cerrar-puertas-a-china/ar3312764",
+      "fecha": "11 Nov 2026, 14:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exhibe sector fabril rezago en 16 ramas",
-      "resumen": "La producción de 16 de los 21 componentes de la industria manufacturera registró variaciones negativas de enero a agosto de 2026.",
-      "link": "https://www.reforma.com/exhibe-sector-fabril-rezago-en-16-ramas/ar3312337",
-      "fecha": "11 Nov 2026, 05:01 hrs"
+      "titulo": "Descarta Banxico secuencia de recortes a tasa de interés",
+      "resumen": "El recorte de la tasa de interés no significa el inicio de una nueva secuencia de reducciones, informó Banxico.",
+      "link": "https://www.reforma.com/descarta-banxico-secuencia-de-recortes-a-tasa-de-interes/ar3312691",
+      "fecha": "11 Nov 2026, 13:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tendrá NL primera fábrica autónoma",
-      "resumen": "El siguiente paso para la manufactura en México es la implementación de procesos autónomos y una empresa ya tiene planes para hacerlo en NL.",
-      "link": "https://www.reforma.com/tendra-nl-primera-fabrica-autonoma/ar3312370",
-      "fecha": "11 Nov 2026, 07:10 hrs"
+      "titulo": "Será degradación crediticia riesgo latente para País en 2027",
+      "resumen": "La posible pérdida del grado de inversión por el recorte de calificadoras será un riesgo para México en 2027, dijo Franklin Templeton.",
+      "link": "https://www.reforma.com/sera-degradacion-crediticia-riesgo-latente-para-pais-en-2027/ar3312615",
+      "fecha": "11 Nov 2026, 11:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden 'luz verde' para el fracking",
-      "resumen": "El Gobierno debe permitir yacimientos no convencionales y revisar la exclusión de Tampico-Misantla, afirma Labardini &amp; Christlieb.",
-      "link": "https://www.reforma.com/piden-luz-verde-para-el-fracking/ar3312348",
-      "fecha": "11 Nov 2026, 05:01 hrs"
+      "titulo": "Elevará Afore Sura en 2 mmdd su inversión en infraestructura",
+      "resumen": "El fondo de pensiones mexicano Afore Sura planea aumentar su inversión en infraestructura en unos 2 mmdd durante los próximos años.",
+      "link": "https://www.reforma.com/elevara-afore-sura-en-2-mmdd-su-inversion-en-infraestructura/ar3312870",
+      "fecha": "11 Nov 2026, 15:55 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Iniciará Hokchi Energy perforación en aguas someras",
+      "resumen": "Hokchi Energy dijo que iniciará perforación en aguas someras del Golfo de México a fines de noviembre para evaluar prospectos Woolis y Tojol",
+      "link": "https://www.reforma.com/iniciara-hokchi-energy-perforacion-en-aguas-someras/ar3312674",
+      "fecha": "11 Nov 2026, 12:41 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acumula EU más de 40 casos de gusano barrenador en noviembre",
-      "resumen": "Según el USDA, en lo que va de noviembre se han confirmado más de 40 casos, siendo el peor mes desde que la plaga apareció a inicios de año.",
-      "link": "https://www.reforma.com/acumula-eu-mas-de-40-casos-de-gusano-barrenador-en-noviembre/ar3312565",
-      "fecha": "11 Nov 2026, 10:05 hrs"
+      "titulo": "Pide Canacar un 'respiro' fiscal para el autotransporte",
+      "resumen": "Ante la falta de flujo, el sector del autotransporte solicita estímulos fiscales para echar a andar su flota, refirió Canacar.",
+      "link": "https://www.reforma.com/pide-canacar-un-respiro-fiscal-para-el-autotransporte/ar3312690",
+      "fecha": "11 Nov 2026, 13:01 hrs"
     }
   ]
 }
