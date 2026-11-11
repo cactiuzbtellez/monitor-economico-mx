@@ -1,7 +1,16 @@
 {
-  "actualizado": "10/11/2026 19:01 hrs",
+  "actualizado": "11/11/2026 02:53 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gina Hinojosa abre una vía al T-MEC en Texas, pero deja dudas sobre exportaciones mexicanas para la IA",
+      "resumen": "México lleva al menos 18 años como principal socio comercial de Texas. En 2025, el estado le vendió 124,700 millones de dólares y le compró 177,100 millones.",
+      "link": "https://expansion.mx/economia/2026/11/10/gina-hinojosa-texas-tmec-exportaciones-mexicanas-ia",
+      "fecha": "10 Nov 2026, 15:00 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "El banco digital de Santander plantea digitalizar los pagos al gobierno y reducir las comisiones que enfrentan los pequeños comercios por aceptar pagos electrónicos.",
       "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-mexico-puede-reducir-a-50-el-uso-de-efectivo-preve-openbank",
       "fecha": "09 Nov 2026, 19:50 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Buen Fin 2026: las ofertas pueden salir caras: recomendaciones para no endeudarse",
-      "resumen": "Para la edición de la semana más barata del año, Banamex publicó su guía para consumidores",
-      "link": "https://expansion.mx/economia/2026/11/09/buen-fin-2026-las-ofertas-pueden-salir-caras-recomendaciones-para-no-endeudarse",
-      "fecha": "09 Nov 2026, 19:32 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Eligen a nuevo director del Centro Federal de Conciliación",
+      "resumen": "El Senado designó a José Luis Sánchez Cuazitl como nuevo director general del Centro Federal de Conciliación y Registro Laboral.",
+      "link": "https://www.reforma.com/eligen-a-nuevo-director-del-centro-federal-de-conciliacion/ar3312229",
+      "fecha": "10 Nov 2026, 19:33 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Destinan 500 mil dólares a mercado mexicano de vivienda",
       "resumen": "VUUN AI anunció que destinará 500 mil dólares para ampliar su expansión en AL, incluyendo su incursión en el mercado mexicano de vivienda.",
       "link": "https://www.reforma.com/destinan-500-mil-dolares-a-mercado-mexicano-de-vivienda/ar3312155",
@@ -208,15 +217,6 @@
       "resumen": "Clara recaudó 105 mdd para reforzar equipos de ventas e ingeniería, desarrollar herramientas de IA e ingresar a nuevos mercados.",
       "link": "https://www.reforma.com/recauda-clara-105-mdd/ar3311995",
       "fecha": "10 Nov 2026, 15:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo Brent a la baja, en 91.49 dólares",
-      "resumen": "Los futuros del Brent bajaron 1.17%, a 91.49 dólares el barril, mientras que os del West Texas Intermediate cayeron 0.93%, a 86.04 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-brent-a-la-baja-en-91-49-dolares/ar3311967",
-      "fecha": "10 Nov 2026, 14:32 hrs"
     }
   ]
 }
