@@ -1,7 +1,61 @@
 {
-  "actualizado": "10/11/2026 14:15 hrs",
+  "actualizado": "10/11/2026 19:01 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Secretaría de Hacienda busca mayor inversión en Plan México y las Afores jugarían un papel relevante",
+      "resumen": "Édgar Amador dijo en el encuentro Amafore 2026 que el desarrollo de infraestructura y el ahorro pensionario son socios naturales, con lo que las Afore son fuente de financiamiento a largo plazo",
+      "link": "https://expansion.mx/economia/2026/11/10/secretaria-de-hacienda-busca-mayor-inversion-en-plan-mexico-y-las-afores-jugarian-un-papel-relevante",
+      "fecha": "10 Nov 2026, 13:24 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Consar alista ajuste regulatorio para Afores; busca evitar malas prácticas y enfrentar amenazas informáticas",
+      "resumen": "El presidente de la Consar, Julio César Cervantes, informó que en 2026 las plusvalías ya superan los 700,000 millones de pesos",
+      "link": "https://expansion.mx/economia/2026/11/10/consar-alista-ajuste-regulatorio-para-afores-busca-evitar-malas-practicas-y-enfrentar-amenazas-informaticas",
+      "fecha": "10 Nov 2026, 11:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tras el colapso de Ueno Bank, Banco Central de Paraguay reporta devolución al 93% de clientes",
+      "resumen": "El gobierno paraguayo ha devuelto 340 millones de dólares a cerca de 1.7 millones de personas, mientras persisten dudas sobre la recuperación de fondos públicos.",
+      "link": "https://expansion.mx/economia/2026/11/10/banco-central-paraguay-ueno-bank-devolucion-ahorros",
+      "fecha": "10 Nov 2026, 11:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "¿El Buen fin tiene algún efecto en la inflación? esto dicen especialistas y Banco de México",
+      "resumen": "El precio de la electricidad, el tipo de cambio y la intensidad de las rebajas influyen en el resultado de noviembre, más allá de los descuentos en tiendas y ofertas en internet.",
+      "link": "https://expansion.mx/economia/2026/11/10/el-buen-fin-tiene-algun-efecto-en-la-inflacion-esto-dicen-especialistas-y-banco-de-mexico",
+      "fecha": "10 Nov 2026, 09:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Productores de California quieren limitar la entrada de aguacates mexicanos en el T-MEC",
+      "resumen": "Agricultores de San Diego dicen que la fruta mexicana ya está en las empacadoras cuando empieza su cosecha y piden al representante comercial de EU que intervenga. Calculan que el condado pierde una f…",
+      "link": "https://expansion.mx/economia/2026/11/10/aguacate-mexicano-disputa-cosecha-california-tmec",
+      "fecha": "10 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Diputados aprueban en lo general, el gasto público con el costo financiero más alto desde 1990",
+      "resumen": "Los legisladores aprobaron el dictamen del Presupuesto de Egresos de la Federación el cual estipula que más del 80% ya está comprometido para gastos como intereses de la deuda, pensiones y jubilacione…",
+      "link": "https://expansion.mx/economia/2026/11/09/presupuesto-2027-diputados-ine-reasignacion-jalisco",
+      "fecha": "09 Nov 2026, 22:03 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,60 +73,6 @@
       "resumen": "Para la edición de la semana más barata del año, Banamex publicó su guía para consumidores",
       "link": "https://expansion.mx/economia/2026/11/09/buen-fin-2026-las-ofertas-pueden-salir-caras-recomendaciones-para-no-endeudarse",
       "fecha": "09 Nov 2026, 19:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Servicios de salud privados en México subirán 12.8% en 2027; envejecimiento y tecnología disparan la inflación médica",
-      "resumen": "Durante los últimos 18 meses, el cáncer de mama, el colorrectal y el de próstata figuraron como los padecimientos que tienen la mayor presión en precios, dice WTW.",
-      "link": "https://expansion.mx/economia/2026/11/09/servicios-de-salud-privados-en-mexico-subiran-12-8-en-2027-envejecimiento-y-tecnologia-disparan-la-inflacion-medica",
-      "fecha": "09 Nov 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Economía Digital desempolva a CoDi: bancos facilitarán su uso a partir de diciembre",
-      "resumen": "Con solamente tres pasos, los usuarios podrán acceder a CoDi en su teléfono móvil. Se busca el uso masivo de operaciones con códigos QR y muy pocos usuarios saben que pueden hacerlo desde su app banca…",
-      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-desempolva-a-codi",
-      "fecha": "09 Nov 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Electricidad y transporte aéreo impulsaron la inflación en octubre a 3.75%",
-      "resumen": "La inflación subyacente, aquella que excluye los bienes y servicios más volátiles, cerró octubre con una tasa anual de 3.80%",
-      "link": "https://expansion.mx/economia/2026/11/09/electricidad-y-transporte-aereo-impulsaron-la-inflacion-en-octubre-a-3-75",
-      "fecha": "09 Nov 2026, 07:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Barclays prevé otro recorte de Banxico en marzo y anticipa una tasa de 6% en 2027",
-      "resumen": "La firma espera que el banco central mantenga sin cambios el referencial en diciembre y febrero, pese a que la Junta de gobierno anticipó que permanecerá en ese nivel por un periodo prolongado.",
-      "link": "https://expansion.mx/economia/2026/11/09/banxico-promete-mantener-tasa-barclays-preve-otro-recorte",
-      "fecha": "09 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Crisis en Paraguay podría afectar confianza de inversionistas en el corto plazo, dice S&P",
-      "resumen": "La calificadora mantiene su previsión de crecimiento para el país, aunque advierte que la transición presidencial podría retrasar la corrección fiscal.",
-      "link": "https://expansion.mx/economia/2026/11/06/crisis-en-paraguay-podria-afectar-confianza-de-inversionistas-en-el-corto-plazo-dice-s-p",
-      "fecha": "06 Nov 2026, 18:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Hacienda sube IEPS a gasolinas, mientras la cuota cero del diésel va por su novena semana consecutiva",
-      "resumen": "Para la semana del 7 al 13 de noviembre, la gasolina Magna tendrá una cuota de 4.96 pesos por litro, mientras en la Premium subió a 4.27 pesos por litro.",
-      "link": "https://expansion.mx/economia/2026/11/06/impuesto-gasolinas-sube-magna-premium-diesel-cero",
-      "fecha": "06 Nov 2026, 18:17 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide SHCP a Afores maximizar rendimientos",
-      "resumen": "La SHCP llamó a las Afores a buscar las mejores alternativas de inversión para elevar los rendimientos de los trabajadores.",
-      "link": "https://www.reforma.com/pide-shcp-a-afores-maximizar-rendimientos/ar3311846",
-      "fecha": "10 Nov 2026, 12:21 hrs"
+      "titulo": "Destinan 500 mil dólares a mercado mexicano de vivienda",
+      "resumen": "VUUN AI anunció que destinará 500 mil dólares para ampliar su expansión en AL, incluyendo su incursión en el mercado mexicano de vivienda.",
+      "link": "https://www.reforma.com/destinan-500-mil-dolares-a-mercado-mexicano-de-vivienda/ar3312155",
+      "fecha": "10 Nov 2026, 18:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufren algún delito 1 de cada 4 empresas en México",
-      "resumen": "Una de cada cuatro empresas fue víctima de algún delito el año pasado; destacan la extorsión, el robo hormiga y el asalto, según el Inegi.",
-      "link": "https://www.reforma.com/sufren-algun-delito-1-de-cada-4-empresas-en-mexico/ar3311859",
-      "fecha": "10 Nov 2026, 12:35 hrs"
+      "titulo": "Compite industria acerera con subsidios por 980,000 mdd",
+      "resumen": "Para la industria acerera mexicana, la competencia china implica enfrentar subsidios de hasta 5 puntos del PIB de China, reveló Alacero.",
+      "link": "https://www.reforma.com/compite-industria-acerera-con-subsidios-por-980-000-mdd/ar3312142",
+      "fecha": "10 Nov 2026, 18:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen limitar expansión china en manufactura",
-      "resumen": "China genera el 35 por ciento de la manufactura global, por lo que México debe competir y retornar la generación de riqueza, dijo Ternium.",
-      "link": "https://www.reforma.com/urgen-limitar-expansion-china-en-manufactura/ar3311813",
-      "fecha": "10 Nov 2026, 11:52 hrs"
+      "titulo": "Pega a tienditas inflación, inseguridad y precios de energía",
+      "resumen": "Inflación, inseguridad y precios de insumos, como la energía, le están pegando a las ventas de las tienditas de la esquina, señaló ANPEC.",
+      "link": "https://www.reforma.com/pega-a-tienditas-inflacion-inseguridad-y-precios-de-energia/ar3312125",
+      "fecha": "10 Nov 2026, 17:52 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde Nvidia 6% y pasa a ser la tercera empresa más valiosa",
-      "resumen": "Nvidia ha borrado más de 400 mmdd en valor de mercado, cayendo al tercer lugar de las empresas más valiosas, detrás de Apple y Microsoft.",
-      "link": "https://www.reforma.com/pierde-nvidia-6-y-pasa-a-ser-la-tercera-empresa-mas-valiosa/ar3311829",
-      "fecha": "10 Nov 2026, 12:06 hrs"
+      "titulo": "Se incrementan precio de la vivienda 7.6%",
+      "resumen": "En los primeros nueve meses de 2026, el precio de la vivienda registró un alza de 7.6%, reveló el Índice de Sociedad Hipotecaria Federal.",
+      "link": "https://www.reforma.com/se-incrementan-precio-de-la-vivienda-7-6/ar3312028",
+      "fecha": "10 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube probabilidad de que Fed eleve tasa en 50 puntos",
-      "resumen": "Probabilidades de que Fed suba las tasas de interés en medio punto porcentual en diciembre se disparaban tras los datos de inflación.",
-      "link": "https://www.reforma.com/sube-probabilidad-de-que-fed-eleve-tasa-en-50-puntos/ar3311750",
-      "fecha": "10 Nov 2026, 11:01 hrs"
+      "titulo": "Caen mercados de EU tras dato de inflación",
+      "resumen": "El S&amp;P 500 bajó 0.38%, a 7 mil 521.48 unidades; el Nasdaq cayó un 0.74%, a 25 mil 067.23; y el Dow Jones cedió un 0.31%, a 52 mil 227.80.",
+      "link": "https://www.reforma.com/caen-mercados-de-eu-tras-dato-de-inflacion/ar3312022",
+      "fecha": "10 Nov 2026, 15:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Va Anthropic por 1.4 billones de dólares para salida a bolsa",
-      "resumen": "Anthropic busca una valoración diluida de alrededor de 1.4 billones de dólares, en un intento del primer laboratorio de IA en salir a bolsa.",
-      "link": "https://www.reforma.com/va-anthropic-por-1-4-billones-de-dolares-para-salida-a-bolsa/ar3311642",
-      "fecha": "10 Nov 2026, 07:34 hrs"
+      "titulo": "Presionan pensiones al gasto público",
+      "resumen": "Envejecimiento de la población y persistencia de informalidad presionan tanto el ahorro para el retiro como las finanzas públicas de México.",
+      "link": "https://www.reforma.com/presionan-pensiones-al-gasto-publico/ar3312015",
+      "fecha": "10 Nov 2026, 15:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dispara IA superávit comercial chino al billón de dólares",
-      "resumen": "El superávit comercial de China superó el billón de dólares en los primeros 10 meses del año,",
-      "link": "https://www.reforma.com/dispara-ia-superavit-comercial-chino-al-billon-de-dolares/ar3311886",
-      "fecha": "10 Nov 2026, 12:57 hrs"
+      "titulo": "Recauda Clara 105 mdd",
+      "resumen": "Clara recaudó 105 mdd para reforzar equipos de ventas e ingeniería, desarrollar herramientas de IA e ingresar a nuevos mercados.",
+      "link": "https://www.reforma.com/recauda-clara-105-mdd/ar3311995",
+      "fecha": "10 Nov 2026, 15:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten que hackeos podrían apuntar a electrodomésticos",
-      "resumen": "Tras ciberataques a sistemas de refrigeración en Europa, advierten que los electrodomésticos de hogares podrían ser el próximo objetivo.",
-      "link": "https://www.reforma.com/advierten-que-hackeos-podrian-apuntar-a-electrodomesticos/ar3311787",
-      "fecha": "10 Nov 2026, 11:23 hrs"
+      "titulo": "Cierra crudo Brent a la baja, en 91.49 dólares",
+      "resumen": "Los futuros del Brent bajaron 1.17%, a 91.49 dólares el barril, mientras que os del West Texas Intermediate cayeron 0.93%, a 86.04 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-brent-a-la-baja-en-91-49-dolares/ar3311967",
+      "fecha": "10 Nov 2026, 14:32 hrs"
     }
   ]
 }
