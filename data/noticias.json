@@ -1,7 +1,52 @@
 {
-  "actualizado": "11/11/2026 17:18 hrs",
+  "actualizado": "11/11/2026 23:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ganancias de los bancos en México caen 5% al cierre del tercer trimestre de 2026",
+      "resumen": "En opinión de Emilio Romano, presidente de la ABM, en el imaginario colectivo se piensa que la banca en un negocio que siempre gana dinero",
+      "link": "https://expansion.mx/economia/2026/11/11/ganancias-de-los-bancos-en-mexico-caen-5-al-cierre-del-tercer-trimestre-de-2026",
+      "fecha": "11 Nov 2026, 18:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Seguros de gastos médicos seguirán caros; siniestros consumen casi todo lo que cobran las aseguradoras",
+      "resumen": "De acuerdo con un análisis de Swiss Re, el aumento de los costos hospitalarios, tratamientos y reclamaciones reduce los márgenes de las aseguradoras en México.",
+      "link": "https://expansion.mx/economia/2026/11/11/seguros-de-gastos-medicos-seguiran-caros-siniestros-consumen-casi-todo-lo-que-cobran-las-aseguradoras",
+      "fecha": "11 Nov 2026, 15:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Patrones y trabajadores chocan por el MIR del salario mínimo de 2027",
+      "resumen": "El Monto Independiente de Recuperación se creó para que el salario mínimo ganara poder de compra. Su futuro se discute de cara al próximo aumento que se anunciará en los primeros días de diciembre",
+      "link": "https://expansion.mx/economia/2026/11/11/salario-minimo-2027-discusion-patrones-trabajadores-mir",
+      "fecha": "11 Nov 2026, 15:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ueno bank: ¿Por qué el caso recuerda al Fobaproa en México?",
+      "resumen": "La presidenta Claudia Sheinbaum aprovechó el episodio que golpea a Paraguay para recordar la crisis bancaria que vivió nuestro país a mediados de los años 90.",
+      "link": "https://expansion.mx/economia/2026/11/11/ueno-bank-por-que-el-caso-recuerda-al-fobaproa-en-mexico",
+      "fecha": "11 Nov 2026, 14:06 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mientras retrasan el gasto a Pemex y trenes, el gobierno acelera el del IMSS Bienestar",
+      "resumen": "Al cierre de septiembre, la petrolera mexicana reportó un menor gasto a lo aprobado por la Cámara de Diputados, en tanto las instituciones de salud pública gastaron más.",
+      "link": "https://expansion.mx/economia/2026/11/11/menos-gasto-pemex-trenes-mas-imss-bienestar",
+      "fecha": "11 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,84 +76,66 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tras el colapso de Ueno Bank, Banco Central de Paraguay reporta devolución al 93% de clientes",
-      "resumen": "El gobierno paraguayo ha devuelto 340 millones de dólares a cerca de 1.7 millones de personas, mientras persisten dudas sobre la recuperación de fondos públicos.",
-      "link": "https://expansion.mx/economia/2026/11/10/banco-central-paraguay-ueno-bank-devolucion-ahorros",
-      "fecha": "10 Nov 2026, 11:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "¿El Buen fin tiene algún efecto en la inflación? esto dicen especialistas y Banco de México",
-      "resumen": "El precio de la electricidad, el tipo de cambio y la intensidad de las rebajas influyen en el resultado de noviembre, más allá de los descuentos en tiendas y ofertas en internet.",
-      "link": "https://expansion.mx/economia/2026/11/10/el-buen-fin-tiene-algun-efecto-en-la-inflacion-esto-dicen-especialistas-y-banco-de-mexico",
-      "fecha": "10 Nov 2026, 09:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Productores de California quieren limitar la entrada de aguacates mexicanos en el T-MEC",
-      "resumen": "Agricultores de San Diego dicen que la fruta mexicana ya está en las empacadoras cuando empieza su cosecha y piden al representante comercial de EU que intervenga. Calculan que el condado pierde una f…",
-      "link": "https://expansion.mx/economia/2026/11/10/aguacate-mexicano-disputa-cosecha-california-tmec",
-      "fecha": "10 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Diputados aprueban en lo general, el gasto público con el costo financiero más alto desde 1990",
-      "resumen": "Los legisladores aprobaron el dictamen del Presupuesto de Egresos de la Federación el cual estipula que más del 80% ya está comprometido para gastos como intereses de la deuda, pensiones y jubilacione…",
-      "link": "https://expansion.mx/economia/2026/11/09/presupuesto-2027-diputados-ine-reasignacion-jalisco",
-      "fecha": "09 Nov 2026, 22:03 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Economía digital: México puede reducir a 50% el uso de efectivo, prevé Openbank",
-      "resumen": "El banco digital de Santander plantea digitalizar los pagos al gobierno y reducir las comisiones que enfrentan los pequeños comercios por aceptar pagos electrónicos.",
-      "link": "https://expansion.mx/economia/2026/11/09/ley-de-economia-digital-mexico-puede-reducir-a-50-el-uso-de-efectivo-preve-openbank",
-      "fecha": "09 Nov 2026, 19:50 hrs"
+      "titulo": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
+      "resumen": "Aunque la marca prepara su relevo en algunos mercados asiáticos con una nueva generación de la CX-3, el subcompacto seguirá disponible en el país con precios desde 301,900 pesos.",
+      "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
+      "fecha": "11 Nov 2026, 21:26 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Pemex deja de reportar producción exclusiva de petróleo crudo para elevar cifras con condensados",
-      "resumen": "El director de la petrolera, Juan Carlos Carpio, no ofreció una respuesta clara sobre los cambios realizados en los reportes de su base de datos.",
-      "link": "https://expansion.mx/empresas/2026/11/10/pemex-deja-de-reportar-produccion-exclusiva-de-petroleo-crudo-para-elevar-cifras-con-condensados",
-      "fecha": "10 Nov 2026, 19:04 hrs"
+      "titulo": "Costco revela por qué abrir más tiendas no es tan fácil y el terreno no es el único problema",
+      "resumen": "México es uno de los mercados con más almacenes de Costco en el mundo, aunque la competencia con Sam´s Club muestra una brecha importante en cobertura y ventas.",
+      "link": "https://expansion.mx/empresas/2026/11/11/por-que-no-hay-costco-cerca-de-ti-obstaculos-nuevas-tiendas",
+      "fecha": "11 Nov 2026, 18:38 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La empresa que solo en Buen Fin y Navidad vende más que Liverpool, Sanborns, Costco y Mercado Libre en todo un año",
-      "resumen": "Aunque mantiene ventas estables durante el año, el último trimestre concentra casi tres de cada 10 pesos que ingresa la compañía, impulsada por el consumo de fin de año.",
-      "link": "https://expansion.mx/empresas/2026/11/10/cuanto-vende-walmart-en-buen-fin-y-navidad-en-mexico",
-      "fecha": "10 Nov 2026, 17:40 hrs"
+      "titulo": "De Carlos Slim a Liverpool y Gigante, ¿quiénes son los dueños de las 20 plazas comerciales más importantes de CDMX?",
+      "resumen": "Perisur, Mítikah, Santa Fe y Parque Delta tienen historias distintas de desarrollo, expansión y adquisición que revelan cómo se mueve el negocio inmobiliario.",
+      "link": "https://expansion.mx/empresas/2026/11/11/duenos-de-las-20-plazas-comerciales-mas-importantes-cdmx",
+      "fecha": "11 Nov 2026, 18:15 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Tiendas 3B tiene más de 3,000 sucursales, pero se queda con menos de un peso por cada 1,000 que vende",
-      "resumen": "Tiendas 3B crece a través de precios bajos, un catálogo reducido y compras planeadas con años de anticipación. Pero, después de cubrir sus costos y gastos, conserva apenas 82 centavos.",
-      "link": "https://expansion.mx/empresas/2026/11/10/tiendas-3b-sucursales-gana-menos-un-peso-cada-1-000-vende",
-      "fecha": "10 Nov 2026, 17:08 hrs"
+      "titulo": "Bait suma usuarios, pero sus ingresos se desaceleran por el registro obligatorio de líneas",
+      "resumen": "El OMV de Walmart añadió 800,000 usuarios en el tercer trimestre, pero sus ingresos mostraron un menor dinamismo ante los cambios en el mercado por el registro obligatorio de líneas.",
+      "link": "https://expansion.mx/empresas/2026/11/11/bait-crece-no-como-antes-registro-lineas",
+      "fecha": "11 Nov 2026, 17:04 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Chedraui se alía con Toka para que 3 millones de usuarios puedan pagar con su celular en sus tiendas",
-      "resumen": "El movimiento de Chedraui incorpora una nueva alternativa a un mercado en el que Walmart de México ya participa con Cashi, su propia billetera digital, disponible en sus distintos formatos comerciales…",
-      "link": "https://expansion.mx/empresas/2026/11/10/chedraui-pagos-digitales-toka-tiendas",
-      "fecha": "10 Nov 2026, 16:28 hrs"
+      "titulo": "Mexicana, Aeroméxico y Volaris lanzan descuentos por el Buen Fin; estas son las ofertas para comprar vuelos",
+      "resumen": "Durante el Buen Fin, los viajeros buscan ofertas para conseguir vuelos a mejores precios. Estas son las promociones que las aerolíneas anuncian en sus páginas oficiales.",
+      "link": "https://expansion.mx/empresas/2026/11/11/descuentos-aerolineas-mexicana-aeromexico-volaris-buen-fin",
+      "fecha": "11 Nov 2026, 16:32 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Hokchi Energy arranca nueva exploración petrolera en aguas del Golfo de México",
+      "resumen": "La inversión prevista supera los 60 millones de dólares para evaluar los pozos Woolis y Tojol, que concentran recursos prospectivos de más de 100 millones de barriles de petróleo crudo equivalente.",
+      "link": "https://expansion.mx/empresas/2026/11/11/hokchi-energy-nueva-exploracion-petrolera-golfo-de-mexico",
+      "fecha": "11 Nov 2026, 15:44 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mientras el Olinia costará 150,000 pesos, el BYD Racco vale 287,760, recorre 320 km y trae cajuela de hasta 1,372 litros",
+      "resumen": "El vehículo japonés y el proyecto mexicano comparten vocación urbana, pero su tecnología y condiciones de compra responden a necesidades distintas.",
+      "link": "https://expansion.mx/empresas/2026/11/11/byd-racco-vs-olinia-uno-precio-autonomia-equipamiento",
+      "fecha": "11 Nov 2026, 13:15 hrs"
     },
     {
       "fuente": "Expansión",
@@ -116,71 +143,53 @@
       "color": "#C8102E",
       "titulo": "Telmex construye dos Data Centers en Tijuana y Chihuahua; necesita más espacio para almacenar información de clientes",
       "resumen": "La compañía puso en operación instalaciones en el norte del país para fortalecer su infraestructura tecnológica, ampliar la redundancia de sus servicios y responder al crecimiento de la demanda digita…",
-      "link": "https://expansion.mx/empresas/2026/11/10/telmex-data-centers-almacenar-informacion-sat-usuarios",
-      "fecha": "10 Nov 2026, 15:33 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Novo Nordisk amplía su negocio contra la obesidad con Wegovy en tabletas",
-      "resumen": "La compañía farmacéutica comenzará con la distribución del medicamento el 11 de noviembre y su expectativa es alcanzar casi 10,000 puntos de venta y un universo potencial de 7.5 millones de pacientes.",
-      "link": "https://expansion.mx/empresas/2026/11/10/novo-nordisk-wegovy-tabletas-mexico-obesidad",
-      "fecha": "10 Nov 2026, 15:07 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Walmart y Pemex lideran la presencia de mujeres en sus consejos, mientras 20 empresas no tienen una sola",
-      "resumen": "Veinte empresas listadas en bolsa no tienen mujeres en sus consejos de administración y 136 mantienen una representación de 20% o menos. Las redes masculinas y las barreras para ascender explican part…",
-      "link": "https://expansion.mx/empresas/2026/11/09/walmart-y-pemex-lideran-la-presencia-de-mujeres-en-sus-consejos-mientras-20-empresas-no-tienen-una-sola",
-      "fecha": "09 Nov 2026, 19:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Pemex arrastra adeudos con proveedores y contratistas desde 2024 y promete pagar hasta 2027",
-      "resumen": "El director de Pemex asegura que 99% de los adeudos de 2025 están cubiertos, pero reconoce que los compromisos de 2024 siguen pendientes y que algunos contratistas tampoco pagan a sus subcontratistas.",
-      "link": "https://expansion.mx/empresas/2026/11/09/pemex-arrastra-adeudos-proveedores-desde-2024-pagara-2027",
-      "fecha": "09 Nov 2026, 16:59 hrs"
+      "link": "https://expansion.mx/empresas/2026/11/11/telmex-necesita-mas-espacio-dos-nuevos-data-centers",
+      "fecha": "11 Nov 2026, 12:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Bloquea México 13 mil mdp de acero irregular",
-      "resumen": "En los últimos nueve meses, México ha reducido en 30% sus importaciones de acero de países sin un acuerdo comercial,  aseguró SE.",
-      "link": "https://www.reforma.com/bloquea-mexico-13-mil-mdp-de-acero-irregular/ar3312865",
-      "fecha": "11 Nov 2026, 15:55 hrs"
+      "titulo": "Asegura IMPI y Marina mercancía en Plaza Meave",
+      "resumen": "IMPI, Semar y SSC informaron el decomiso de mercancía ilegal de videojuegos en Plaza Meave en la CDMX.",
+      "link": "https://www.reforma.com/asegura-impi-y-marina-mercancia-en-plaza-meave/ar3313172",
+      "fecha": "11 Nov 2026, 22:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plantea Altagracia regular y no cerrar puertas a China",
-      "resumen": "La producción nacional se debe proteger, en especial en China y evitar cerrarle la puerta, dijo Altagracia Gómez, titular del Caderr.",
-      "link": "https://www.reforma.com/plantea-altagracia-regular-y-no-cerrar-puertas-a-china/ar3312764",
-      "fecha": "11 Nov 2026, 14:09 hrs"
+      "titulo": "Prevén que economía crecerá 2.1% en 2027",
+      "resumen": "La economía de México mantendrá un ritmo de crecimiento moderado, proyectando un crecimiento de 2.1% para 2027, anticipan especialistas.",
+      "link": "https://www.reforma.com/preven-que-economia-crecera-2-1-en-2027/ar3313166",
+      "fecha": "11 Nov 2026, 22:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta Banxico secuencia de recortes a tasa de interés",
-      "resumen": "El recorte de la tasa de interés no significa el inicio de una nueva secuencia de reducciones, informó Banxico.",
-      "link": "https://www.reforma.com/descarta-banxico-secuencia-de-recortes-a-tasa-de-interes/ar3312691",
-      "fecha": "11 Nov 2026, 13:01 hrs"
+      "titulo": "Prevé ADI que equilibrio en EU detone inmuebles en México",
+      "resumen": "Nuevo equilibrio de fuerzas en el Congreso de EU perfila un escenario favorable para el sector inmobiliario mexicano, aseguró ADI.",
+      "link": "https://www.reforma.com/preve-adi-que-equilibrio-en-eu-detone-inmuebles-en-mexico/ar3313118",
+      "fecha": "11 Nov 2026, 22:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Será degradación crediticia riesgo latente para País en 2027",
-      "resumen": "La posible pérdida del grado de inversión por el recorte de calificadoras será un riesgo para México en 2027, dijo Franklin Templeton.",
-      "link": "https://www.reforma.com/sera-degradacion-crediticia-riesgo-latente-para-pais-en-2027/ar3312615",
-      "fecha": "11 Nov 2026, 11:41 hrs"
+      "titulo": "Ven riesgo en Banxico por salida de Heath",
+      "resumen": "Con la salida de Jonathan Heath a finales de 2026 del Banxico podría aumentar el sesgo acomodaticio en el banco central, advirtió Banamex.",
+      "link": "https://www.reforma.com/ven-riesgo-en-banxico-por-salida-de-heath/ar3313046",
+      "fecha": "11 Nov 2026, 22:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afirman que Nvidia prepara destitución de su CEO",
+      "resumen": "Nvidia se prepara para destituir a Jensen Huang tras una investigación de la empresa sobre una relación con una espía china, según WSJ.",
+      "link": "https://www.reforma.com/afirman-que-nvidia-prepara-destitucion-de-su-ceo/ar3312938",
+      "fecha": "11 Nov 2026, 16:56 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,15 +204,6 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Iniciará Hokchi Energy perforación en aguas someras",
-      "resumen": "Hokchi Energy dijo que iniciará perforación en aguas someras del Golfo de México a fines de noviembre para evaluar prospectos Woolis y Tojol",
-      "link": "https://www.reforma.com/iniciara-hokchi-energy-perforacion-en-aguas-someras/ar3312674",
-      "fecha": "11 Nov 2026, 12:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
       "titulo": "El Estado es un mal empleador",
       "resumen": "El Estado descuida los derechos laborales de las personas que desempeñan labores en los diversos entes públicos de los tres poderes.",
       "link": "https://www.reforma.com/el-estado-es-un-mal-empleador/ar3312359",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Canacar un 'respiro' fiscal para el autotransporte",
-      "resumen": "Ante la falta de flujo, el sector del autotransporte solicita estímulos fiscales para echar a andar su flota, refirió Canacar.",
-      "link": "https://www.reforma.com/pide-canacar-un-respiro-fiscal-para-el-autotransporte/ar3312690",
-      "fecha": "11 Nov 2026, 13:01 hrs"
+      "titulo": "Bloquea México 13 mil mdp de acero irregular",
+      "resumen": "En los últimos nueve meses, México ha reducido en 30% sus importaciones de acero de países sin un acuerdo comercial, aseguró SE.",
+      "link": "https://www.reforma.com/bloquea-mexico-13-mil-mdp-de-acero-irregular/ar3312865",
+      "fecha": "11 Nov 2026, 15:55 hrs"
     }
   ]
 }
