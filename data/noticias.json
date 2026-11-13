@@ -1,5 +1,5 @@
 {
-  "actualizado": "13/11/2026 04:35 hrs",
+  "actualizado": "13/11/2026 12:23 hrs",
   "total": 24,
   "noticias": [
     {
@@ -114,6 +114,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "El consumo se enfría y convierte a los mexicanos en cazadores de ofertas; las tiendas van tras ellos en El Buen Fin",
+      "resumen": "Con un consumo que pierde dinamismo y hogares más cautelosos con sus gastos, las tiendas ajustan sus estrategias para atraer compradores que comparan precios y priorizan las promociones antes de sacar…",
+      "link": "https://expansion.mx/empresas/2026/11/12/consumo-mexicanos-ofertas-tiendas-buen-fin",
+      "fecha": "12 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
       "resumen": "Aunque la marca prepara su relevo en algunos mercados asiáticos con una nueva generación de la CX-3, el subcompacto seguirá disponible en el país con precios desde 301,900 pesos.",
       "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
@@ -138,85 +147,76 @@
       "fecha": "11 Nov 2026, 18:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait suma usuarios, pero sus ingresos se desaceleran por el registro obligatorio de líneas",
-      "resumen": "El OMV de Walmart añadió 800,000 usuarios en el tercer trimestre, pero sus ingresos mostraron un menor dinamismo ante los cambios en el mercado por el registro obligatorio de líneas.",
-      "link": "https://expansion.mx/empresas/2026/11/11/bait-crece-no-como-antes-registro-lineas",
-      "fecha": "11 Nov 2026, 17:04 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crece especulación de que Banxico busca debilitar el peso",
+      "resumen": "Operadores especulan cada vez más que Banxico está impulsando un debilitamiento del peso, cuya fortaleza amenazaba a exportaciones y turismo",
+      "link": "https://www.reforma.com/crece-especulacion-de-que-banxico-busca-debilitar-el-peso/ar3314154",
+      "fecha": "13 Nov 2026, 09:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan 1.86 millones de viajeros por puente y Buen Fin",
-      "resumen": "Sectur prevé la llegada de 1.86 millones de viajeros con motivo del puente vacacional y la realización del Buen Fin.",
-      "link": "https://www.reforma.com/esperan-1-86-millones-de-viajeros-por-puente-y-buen-fin/ar3313838",
-      "fecha": "12 Nov 2026, 19:34 hrs"
+      "titulo": "Compra Farmacias del Ahorro a Benavides",
+      "resumen": "Farmacias Benavides llegó a un acuerdo para ser adquirida por Farmacias del Ahorro por un monto no revelado.",
+      "link": "https://www.reforma.com/compra-farmacias-del-ahorro-a-benavides/ar3314178",
+      "fecha": "13 Nov 2026, 10:09 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dice senador sobre Secretaria: 'es mujer...pero inteligente'",
-      "resumen": "En comparecencia de la titular de Sener, el senador Óscar Cantón dijo sobre ella: 'es mujer, es joven, pero es profundamente inteligente'.",
-      "link": "https://www.reforma.com/dice-senador-sobre-secretaria-es-mujer-pero-inteligente/ar3313845",
-      "fecha": "12 Nov 2026, 19:16 hrs"
+      "titulo": "Deja nearshoring auge de oficinas",
+      "resumen": "De enero a septiembre, la absorción neta acumulada del mercado regio de oficinas subió 147.8% anual, a 57 mil metros cuadrados.",
+      "link": "https://www.reforma.com/deja-nearshoring-auge-de-oficinas/ar3314007",
+      "fecha": "13 Nov 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Fibra Next alcanzar 15 millones de metros cuadrados",
-      "resumen": "Fibra Next alista una agresiva etapa de expansión con un portafolio de oportunidades superior a los 6 mil millones de dólares.",
-      "link": "https://www.reforma.com/busca-fibra-next-alcanzar-15-millones-de-metros-cuadrados/ar3313818",
-      "fecha": "12 Nov 2026, 18:29 hrs"
+      "titulo": "Pierde boom de IA a su innovador #1 ¡y a su banco!",
+      "resumen": "Partida de Huang de Nvidia no será necesariamente desastrosa para la empresa en el corto plazo, pero probablemente nunca igualará innovación",
+      "link": "https://www.reforma.com/pierde-boom-de-ia-a-su-innovador-1-y-a-su-banco/ar3314011",
+      "fecha": "13 Nov 2026, 07:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Iniciarán en diciembre obras del tren México-Guadalajara",
-      "resumen": "En diciembre arrancarán las obras de construcción del Tren CDMX-Guadalajara, en su tramo de Irapuato, informó SICT.",
-      "link": "https://www.reforma.com/iniciaran-en-diciembre-obras-del-tren-mexico-guadalajara/ar3313689",
-      "fecha": "12 Nov 2026, 16:01 hrs"
+      "titulo": "Así fueron las últimas horas de Jensen Huang en Nvidia",
+      "resumen": "En sus últimas horas en Nvidia, Jensen Huang usó frases como \"lo que sea\" y \"no me importa\", además de decir: \"soy un pedazo de mierda\".",
+      "link": "https://www.reforma.com/asi-fueron-las-ultimas-horas-de-jensen-huang-en-nvidia/ar3314217",
+      "fecha": "13 Nov 2026, 11:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierra Nvidia con baja de 4.34%",
-      "resumen": "Las acciones de Nvidia cerraron con una caída del 4.34%, tras la renuncia de Jensen Huang.",
-      "link": "https://www.reforma.com/cierra-nvidia-con-baja-de-4-34/ar3313643",
-      "fecha": "12 Nov 2026, 15:09 hrs"
+      "titulo": "Prolongan acciones de Nvidia racha negativa; caen más de 4%",
+      "resumen": "Este viernes, las acciones de Nvidia ampliaban sus pérdidas iniciales y operaban con una baja de 4.06%, a 159.45 dólares.",
+      "link": "https://www.reforma.com/prolongan-acciones-de-nvidia-racha-negativa-caen-mas-de-4/ar3314135",
+      "fecha": "13 Nov 2026, 09:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Va Pemex por recuperación de gas natural",
-      "resumen": "Pemex busca recuperar alrededor 500 millones de pies cúbicos diarios de gas natural que envía a quemadores para reducir importaciones de EU.",
-      "link": "https://www.reforma.com/va-pemex-por-recuperacion-de-gas-natural/ar3313638",
-      "fecha": "12 Nov 2026, 15:09 hrs"
+      "titulo": "'Carga' cada mexicano $13,484 por Pemex",
+      "resumen": "Cada mexicano, incluidos los recién nacidos, tendría que aportar 13 mil 484.31 pesos para liquidar la deuda financiera de Pemex.",
+      "link": "https://www.reforma.com/carga-cada-mexicano-13-484-por-pemex/ar3313930",
+      "fecha": "13 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repunta Brent 3.3% tras declaraciones de Trump sobre Irán",
-      "resumen": "El barril de Brent avanzó un 3.30% hasta los 95.82 dólares, mientras que su equivalente estadounidense subió 2.55% a 88.74 dólares.",
-      "link": "https://www.reforma.com/repunta-brent-3-3-tras-declaraciones-de-trump-sobre-iran/ar3313637",
-      "fecha": "12 Nov 2026, 14:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Demandan a OpenAI y Anthropic para frenar avance de la IA",
-      "resumen": "Presentan demanda contra OpenAI, Anthropic, Meta y Google para bloquear el desarrollo futuro de modelos de IA más avanzada.",
-      "link": "https://www.reforma.com/demandan-a-openai-y-anthropic-para-frenar-avance-de-la-ia/ar3313618",
-      "fecha": "12 Nov 2026, 14:37 hrs"
+      "titulo": "Influye informalidad en bajo gasto social",
+      "resumen": "Baja recaudación e informalidad frenan el gasto social en México: 10% del PIB, frente a 21% de la OCDE, afirma economista.",
+      "link": "https://www.reforma.com/influye-informalidad-en-bajo-gasto-social/ar3313940",
+      "fecha": "13 Nov 2026, 05:02 hrs"
     }
   ]
 }
