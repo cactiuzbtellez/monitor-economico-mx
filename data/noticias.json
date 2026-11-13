@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/11/2026 15:44 hrs",
+  "actualizado": "12/11/2026 20:24 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Corrupción, burocracia y desconfianza, entre las mayores trabas para comerciar con México, dice encuesta de Santander",
+      "resumen": "Una de cada cinco empresas consultadas que apuntan al mercado mexicano identifica la corrupción como obstáculo. Encontrar socios de confianza encabeza la lista, de acuerdo con el banco español",
+      "link": "https://expansion.mx/economia/2026/11/12/corrupcion-burocracia-entre-mayores-trabas-comerciar-mexico",
+      "fecha": "12 Nov 2026, 15:04 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El FMI reduce acceso a la línea de crédito flexible para México a solicitud del gobierno",
+      "resumen": "El órgano internacional aprobó disminuir el nivel de acceso de 200% a 150% de la cuota de México en el FMI, por lo que quedó en 18,000 millones de dólares.",
+      "link": "https://expansion.mx/economia/2026/11/12/fmi-reduce-acceso-linea-credito-flexible-mexico",
+      "fecha": "12 Nov 2026, 13:15 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Gina Hinojosa abre una vía al T-MEC en Texas, pero deja dudas sobre exportaciones mexicanas para la IA",
-      "resumen": "México lleva al menos 18 años como principal socio comercial de Texas. En 2025, el estado le vendió 124,700 millones de dólares y le compró 177,100 millones.",
-      "link": "https://expansion.mx/economia/2026/11/10/gina-hinojosa-texas-tmec-exportaciones-mexicanas-ia",
-      "fecha": "10 Nov 2026, 15:00 hrs"
+      "titulo": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
+      "resumen": "La siderúrgica concluirá su tercera fase de expansión en Nuevo León, pero la sobreoferta mundial y los precios del acero chino ponen presión sobre su capacidad para colocar la nueva producción.",
+      "link": "https://expansion.mx/empresas/2026/11/12/ternium-invierte-mexico-pero-acero-chino-amenaza-expansion",
+      "fecha": "12 Nov 2026, 19:17 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Secretaría de Hacienda busca mayor inversión en Plan México y las Afores jugarían un papel relevante",
-      "resumen": "Édgar Amador dijo en el encuentro Amafore 2026 que el desarrollo de infraestructura y el ahorro pensionario son socios naturales, con lo que las Afore son fuente de financiamiento a largo plazo",
-      "link": "https://expansion.mx/economia/2026/11/10/secretaria-de-hacienda-busca-mayor-inversion-en-plan-mexico-y-las-afores-jugarian-un-papel-relevante",
-      "fecha": "10 Nov 2026, 13:24 hrs"
+      "titulo": "Mientras Walmart tiene cajas de autocobro, OXXO busca robots para que sus empleados puedan abrir la segunda caja",
+      "resumen": "La compañía explora cómo reducir las responsabilidades de sus empleados y aprovechar mejor el tiempo en sus establecimientos, muchos de los cuales permanecen abiertos las 24 horas.",
+      "link": "https://expansion.mx/empresas/2026/11/12/oxxo-robots-reforma-laboral-40-horas-aumento-salario",
+      "fecha": "12 Nov 2026, 17:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Sener eleva la apuesta eléctrica y promete 141 centrales en construcción para 2027",
+      "resumen": "La nueva meta supera en 41 centrales la previsión anunciada en septiembre. Los proyectos requerirán 460,000 millones de pesos y forman parte del plan para sumar 32,000 megawatts hacia 2030.",
+      "link": "https://expansion.mx/empresas/2026/11/12/sener-mexico-141-centrales-electricas-construccion-2027",
+      "fecha": "12 Nov 2026, 14:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Walmart vende solo en el Buen Fin y Navidad mucho más que Liverpool, Sanborns y Costco en un año",
+      "resumen": "Aunque mantiene ventas estables durante el año, el último trimestre concentra casi tres de cada 10 pesos que ingresa la compañía, impulsada por el consumo de fin de año.",
+      "link": "https://expansion.mx/empresas/2026/11/12/walmart-vende-buen-fin-navidad-mas-liverpool-sanborns-costco",
+      "fecha": "12 Nov 2026, 12:26 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,49 +147,49 @@
       "fecha": "11 Nov 2026, 18:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Bait suma usuarios, pero sus ingresos se desaceleran por el registro obligatorio de líneas",
-      "resumen": "El OMV de Walmart añadió 800,000 usuarios en el tercer trimestre, pero sus ingresos mostraron un menor dinamismo ante los cambios en el mercado por el registro obligatorio de líneas.",
-      "link": "https://expansion.mx/empresas/2026/11/11/bait-crece-no-como-antes-registro-lineas",
-      "fecha": "11 Nov 2026, 17:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mexicana, Aeroméxico y Volaris lanzan descuentos por el Buen Fin; estas son las ofertas para comprar vuelos",
-      "resumen": "Durante el Buen Fin, los viajeros buscan ofertas para conseguir vuelos a mejores precios. Estas son las promociones que las aerolíneas anuncian en sus páginas oficiales.",
-      "link": "https://expansion.mx/empresas/2026/11/11/descuentos-aerolineas-mexicana-aeromexico-volaris-buen-fin",
-      "fecha": "11 Nov 2026, 16:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Hokchi Energy arranca nueva exploración petrolera en aguas del Golfo de México",
-      "resumen": "La inversión prevista supera los 60 millones de dólares para evaluar los pozos Woolis y Tojol, que concentran recursos prospectivos de más de 100 millones de barriles de petróleo crudo equivalente.",
-      "link": "https://expansion.mx/empresas/2026/11/11/hokchi-energy-nueva-exploracion-petrolera-golfo-de-mexico",
-      "fecha": "11 Nov 2026, 15:44 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras el Olinia costará 150,000 pesos, el BYD Racco vale 287,760, recorre 320 km y trae cajuela de hasta 1,372 litros",
-      "resumen": "El vehículo japonés y el proyecto mexicano comparten vocación urbana, pero su tecnología y condiciones de compra responden a necesidades distintas.",
-      "link": "https://expansion.mx/empresas/2026/11/11/byd-racco-vs-olinia-uno-precio-autonomia-equipamiento",
-      "fecha": "11 Nov 2026, 13:15 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Esperan 1.86 millones de viajeros por puente y Buen Fin",
+      "resumen": "Sectur prevé la llegada de 1.86 millones de viajeros con motivo del puente vacacional y la realización del Buen Fin.",
+      "link": "https://www.reforma.com/esperan-1-86-millones-de-viajeros-por-puente-y-buen-fin/ar3313838",
+      "fecha": "12 Nov 2026, 19:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Renueva FMI línea de crédito a México por 18 mil mdd",
-      "resumen": "FMI y México acordaron una reducción de la Línea de Crédito Flexible a aproximadamente 18 mil millones de dólares para el resto de vigencia.",
-      "link": "https://www.reforma.com/renueva-fmi-linea-de-credito-a-mexico-por-18-mil-mdd/ar3313500",
-      "fecha": "12 Nov 2026, 13:04 hrs"
+      "titulo": "Dice senador sobre Secretaria: 'es mujer...pero inteligente'",
+      "resumen": "En comparecencia de la titular de Sener, el senador Óscar Cantón dijo sobre ella: 'es mujer, es joven, pero es profundamente inteligente'.",
+      "link": "https://www.reforma.com/dice-senador-sobre-secretaria-es-mujer-pero-inteligente/ar3313845",
+      "fecha": "12 Nov 2026, 19:16 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Busca Fibra Next alcanzar 15 millones de metros cuadrados",
+      "resumen": "Fibra Next alista una agresiva etapa de expansión con un portafolio de oportunidades superior a los 6 mil millones de dólares.",
+      "link": "https://www.reforma.com/busca-fibra-next-alcanzar-15-millones-de-metros-cuadrados/ar3313818",
+      "fecha": "12 Nov 2026, 18:29 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Iniciarán en diciembre obras del tren México-Guadalajara",
+      "resumen": "En diciembre arrancarán las obras de construcción del Tren CDMX-Guadalajara, en su tramo de Irapuato, informó SICT.",
+      "link": "https://www.reforma.com/iniciaran-en-diciembre-obras-del-tren-mexico-guadalajara/ar3313689",
+      "fecha": "12 Nov 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra Nvidia con baja de 4.34%",
+      "resumen": "Las acciones de Nvidia cerraron con una caída del 4.34%, tras la renuncia de Jensen Huang.",
+      "link": "https://www.reforma.com/cierra-nvidia-con-baja-de-4-34/ar3313643",
+      "fecha": "12 Nov 2026, 15:09 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Recorte a tasa confunde y manda mensaje equivocado.- Heath",
-      "resumen": "Jonathan Heath, subgobernador de Banxico, dijo que el recorte a tasa va en contra del panorama inflacionario y de la depreciación del peso.",
-      "link": "https://www.reforma.com/recorte-a-tasa-confunde-y-manda-mensaje-equivocado-heath/ar3313430",
-      "fecha": "12 Nov 2026, 11:27 hrs"
+      "titulo": "Repunta Brent 3.3% tras declaraciones de Trump sobre Irán",
+      "resumen": "El barril de Brent avanzó un 3.30% hasta los 95.82 dólares, mientras que su equivalente estadounidense subió 2.55% a 88.74 dólares.",
+      "link": "https://www.reforma.com/repunta-brent-3-3-tras-declaraciones-de-trump-sobre-iran/ar3313637",
+      "fecha": "12 Nov 2026, 14:53 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Falla sitio web de Profeco previo al arranque de El Buen Fin",
-      "resumen": "Aunque mañana está por empezar el Buen Fin, la página web de la Profeco tiene una oferta poco atractiva: no está disponible.",
-      "link": "https://www.reforma.com/falla-sitio-web-de-profeco-previo-al-arranque-de-el-buen-fin/ar3313531",
-      "fecha": "12 Nov 2026, 14:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra Nvidia con baja de 4.34%",
-      "resumen": "La presión vendedora sobre las acciones de Nvidia disminuyó un poco, y las acciones cerraron con una caída del 4.34% tras renuncia de Huang.",
-      "link": "https://www.reforma.com/cierra-nvidia-con-baja-de-4-34/ar3313643",
-      "fecha": "12 Nov 2026, 15:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Reporta Microsoft falla global en sus servicios",
-      "resumen": "Microsoft informó falla en plataforma 365 que ha afectado a usuarios, quienes presentan problemas para acceder a Outlook y otros servicios.",
-      "link": "https://www.reforma.com/reporta-microsoft-falla-global-en-sus-servicios/ar3313554",
-      "fecha": "12 Nov 2026, 13:53 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "En riesgo, acuerdo de Acciona para vender activos en México",
-      "resumen": "Acuerdo de mil mdd de Acciona Energía para vender activos solares y eólicos a Mexico Infrastructure Partners corre el riesgo de fracasar.",
-      "link": "https://www.reforma.com/en-riesgo-acuerdo-de-acciona-para-vender-activos-en-mexico/ar3313507",
-      "fecha": "12 Nov 2026, 14:22 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tiene STPS resultado mixto en investigación contra Yokohama",
-      "resumen": "La investigación que la STPS hizo en la planta de Yokohama Tire Manufacturing, en Coahuila, obtuvo resultados mixtos, dijo la dependencia.",
-      "link": "https://www.reforma.com/tiene-stps-resultado-mixto-en-investigacion-contra-yokohama/ar3313576",
-      "fecha": "12 Nov 2026, 14:22 hrs"
+      "titulo": "Demandan a OpenAI y Anthropic para frenar avance de la IA",
+      "resumen": "Presentan demanda contra OpenAI, Anthropic, Meta y Google para bloquear el desarrollo futuro de modelos de IA más avanzada.",
+      "link": "https://www.reforma.com/demandan-a-openai-y-anthropic-para-frenar-avance-de-la-ia/ar3313618",
+      "fecha": "12 Nov 2026, 14:37 hrs"
     }
   ]
 }
