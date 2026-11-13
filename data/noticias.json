@@ -1,7 +1,25 @@
 {
-  "actualizado": "12/11/2026 20:24 hrs",
+  "actualizado": "13/11/2026 04:35 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nvidia extiende caída en bolsa. ¿Es momento de comprar acciones?",
+      "resumen": "La tecnológica cerró la jornada con una caída de 4.3%. Analistas ven oportunidad de inversión pese a volatilidad en la empresa ante la salida de Jensen Huang.",
+      "link": "https://expansion.mx/economia/2026/11/12/nvidia-extiende-caida-en-bolsa-es-momento-de-comprar-acciones",
+      "fecha": "12 Nov 2026, 17:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pago de comisiones y falta de conectividad, los retos que enfrentan pequeños negocios con Ley de Economía Digital",
+      "resumen": "Falta de internet o datos limita a 60.9% de los consumidores digitales encuestados por Endeavor. El reto de conectividad llega a 83% de los participantes rurales, frente a 57% en ciudades grandes",
+      "link": "https://expansion.mx/economia/2026/11/12/pago-de-comisiones-y-falta-de-conectividad-los-retos-que-enfrentan-pequenos-negocios-con-ley-de-economia-digital",
+      "fecha": "12 Nov 2026, 15:54 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,24 +76,6 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ueno bank: ¿Por qué el caso recuerda al Fobaproa en México?",
-      "resumen": "La presidenta Claudia Sheinbaum aprovechó el episodio que golpea a Paraguay para recordar la crisis bancaria que vivió nuestro país a mediados de los años 90.",
-      "link": "https://expansion.mx/economia/2026/11/11/ueno-bank-por-que-el-caso-recuerda-al-fobaproa-en-mexico",
-      "fecha": "11 Nov 2026, 14:06 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Mientras retrasan el gasto a Pemex y trenes, el gobierno acelera el del IMSS Bienestar",
-      "resumen": "Al cierre de septiembre, la petrolera mexicana reportó un menor gasto a lo aprobado por la Cámara de Diputados, en tanto las instituciones de salud pública gastaron más.",
-      "link": "https://expansion.mx/economia/2026/11/11/menos-gasto-pemex-trenes-mas-imss-bienestar",
-      "fecha": "11 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
       "titulo": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
@@ -114,15 +114,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El consumo se enfría y convierte a los mexicanos en cazadores de ofertas; las tiendas van tras ellos en El Buen Fin",
-      "resumen": "Con un consumo que pierde dinamismo y hogares más cautelosos con sus gastos, las tiendas ajustan sus estrategias para atraer compradores que comparan precios y priorizan las promociones antes de sacar…",
-      "link": "https://expansion.mx/empresas/2026/11/12/consumo-mexicanos-ofertas-tiendas-buen-fin",
-      "fecha": "12 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
       "resumen": "Aunque la marca prepara su relevo en algunos mercados asiáticos con una nueva generación de la CX-3, el subcompacto seguirá disponible en el país con precios desde 301,900 pesos.",
       "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
@@ -145,6 +136,15 @@
       "resumen": "Perisur, Mítikah, Santa Fe y Parque Delta tienen historias distintas de desarrollo, expansión y adquisición que revelan cómo se mueve el negocio inmobiliario.",
       "link": "https://expansion.mx/empresas/2026/11/11/duenos-de-las-20-plazas-comerciales-mas-importantes-cdmx",
       "fecha": "11 Nov 2026, 18:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Bait suma usuarios, pero sus ingresos se desaceleran por el registro obligatorio de líneas",
+      "resumen": "El OMV de Walmart añadió 800,000 usuarios en el tercer trimestre, pero sus ingresos mostraron un menor dinamismo ante los cambios en el mercado por el registro obligatorio de líneas.",
+      "link": "https://expansion.mx/empresas/2026/11/11/bait-crece-no-como-antes-registro-lineas",
+      "fecha": "11 Nov 2026, 17:04 hrs"
     },
     {
       "fuente": "Reforma",
