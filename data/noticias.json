@@ -1,7 +1,25 @@
 {
-  "actualizado": "13/11/2026 12:23 hrs",
+  "actualizado": "13/11/2026 18:11 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Buen fin 2026: Guía para evitar deudas con la tarjeta de crédito, según Condusef",
+      "resumen": "Antes de comprar en esta temporada de descuentos, se debe considerar que la tarjeta de crédito no es dinero extra ni una extensión del salario",
+      "link": "https://expansion.mx/economia/2026/11/13/buen-fin-2026-guia-para-evitar-deudas-con-la-tarjeta-de-credito-segun-condusef",
+      "fecha": "13 Nov 2026, 10:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los \"coyotes\" de las Afore se instalan en el Metro y cobran hasta 11,000 pesos por los retiros de desempleo",
+      "resumen": "Dentro de la estación El Rosario asesores persuaden a los usuarios para realizar un trámite que es gratuito; la Consar y el SAT implementarán acciones para combatir el fraude.",
+      "link": "https://expansion.mx/economia/2026/11/13/los-coyotes-de-las-afore-se-instalan-en-el-metro-y-cobran-hasta-11-000-pesos-por-los-retiros-de-desempleo",
+      "fecha": "13 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,21 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Seguros de gastos médicos seguirán caros; siniestros consumen casi todo lo que cobran las aseguradoras",
-      "resumen": "De acuerdo con un análisis de Swiss Re, el aumento de los costos hospitalarios, tratamientos y reclamaciones reduce los márgenes de las aseguradoras en México.",
-      "link": "https://expansion.mx/economia/2026/11/11/seguros-de-gastos-medicos-seguiran-caros-siniestros-consumen-casi-todo-lo-que-cobran-las-aseguradoras",
-      "fecha": "11 Nov 2026, 15:22 hrs"
+      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
+      "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
+      "fecha": "13 Nov 2026, 23:36 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Patrones y trabajadores chocan por el MIR del salario mínimo de 2027",
-      "resumen": "El Monto Independiente de Recuperación se creó para que el salario mínimo ganara poder de compra. Su futuro se discute de cara al próximo aumento que se anunciará en los primeros días de diciembre",
-      "link": "https://expansion.mx/economia/2026/11/11/salario-minimo-2027-discusion-patrones-trabajadores-mir",
-      "fecha": "11 Nov 2026, 15:05 hrs"
+      "titulo": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
+      "resumen": "De consolidarse la transacción, la red de farmacias sumaría alrededor de 3,000 unidades y hará frente a otras cadenas como Farmacias Similares",
+      "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
+      "fecha": "13 Nov 2026, 11:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El tope de espectro de la CRT abre la puerta a Televisa para adquirir frecuencias y pone límites a AT&T, Axtel y Telcel",
+      "resumen": "Promtel y AT&amp;T advirtieron que los nuevos criterios de la subasta de CRT podrían afectar la competencia y favorecer la participación de Televisa por espectro en detrimento de los pequeños operador…",
+      "link": "https://expansion.mx/empresas/2026/11/13/tope-espectro-beneficia-a-televisa-limites-att-axtel-telcel",
+      "fecha": "13 Nov 2026, 05:48 hrs"
     },
     {
       "fuente": "Expansión",
@@ -114,46 +141,37 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El consumo se enfría y convierte a los mexicanos en cazadores de ofertas; las tiendas van tras ellos en El Buen Fin",
-      "resumen": "Con un consumo que pierde dinamismo y hogares más cautelosos con sus gastos, las tiendas ajustan sus estrategias para atraer compradores que comparan precios y priorizan las promociones antes de sacar…",
-      "link": "https://expansion.mx/empresas/2026/11/12/consumo-mexicanos-ofertas-tiendas-buen-fin",
-      "fecha": "12 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
       "resumen": "Aunque la marca prepara su relevo en algunos mercados asiáticos con una nueva generación de la CX-3, el subcompacto seguirá disponible en el país con precios desde 301,900 pesos.",
       "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
       "fecha": "11 Nov 2026, 21:26 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Costco revela por qué abrir más tiendas no es tan fácil y el terreno no es el único problema",
-      "resumen": "México es uno de los mercados con más almacenes de Costco en el mundo, aunque la competencia con Sam´s Club muestra una brecha importante en cobertura y ventas.",
-      "link": "https://expansion.mx/empresas/2026/11/11/por-que-no-hay-costco-cerca-de-ti-obstaculos-nuevas-tiendas",
-      "fecha": "11 Nov 2026, 18:38 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Carlos Slim a Liverpool y Gigante, ¿quiénes son los dueños de las 20 plazas comerciales más importantes de CDMX?",
-      "resumen": "Perisur, Mítikah, Santa Fe y Parque Delta tienen historias distintas de desarrollo, expansión y adquisición que revelan cómo se mueve el negocio inmobiliario.",
-      "link": "https://expansion.mx/empresas/2026/11/11/duenos-de-las-20-plazas-comerciales-mas-importantes-cdmx",
-      "fecha": "11 Nov 2026, 18:15 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dejan en tierra todos los vuelos de México a EU",
+      "resumen": "EU pidió que aeronaves en aeropuertos mexicanos con vuelos hacia ese país permanezcan en tierra, dijeron autoridades aeronáuticas de México.",
+      "link": "https://www.reforma.com/dejan-en-tierra-todos-los-vuelos-de-mexico-a-eu/ar3314421",
+      "fecha": "13 Nov 2026, 16:27 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crece especulación de que Banxico busca debilitar el peso",
-      "resumen": "Operadores especulan cada vez más que Banxico está impulsando un debilitamiento del peso, cuya fortaleza amenazaba a exportaciones y turismo",
-      "link": "https://www.reforma.com/crece-especulacion-de-que-banxico-busca-debilitar-el-peso/ar3314154",
-      "fecha": "13 Nov 2026, 09:41 hrs"
+      "titulo": "Publican en DOF tope a deducciones para 2027",
+      "resumen": "El Gobierno federal publicó la reforma al ISR que topa deducciones empresariales a 96.67% de los ingresos y limita pérdidas fiscales a 50%.",
+      "link": "https://www.reforma.com/publican-en-dof-tope-a-deducciones-para-2027/ar3314328",
+      "fecha": "13 Nov 2026, 14:21 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Descarta Ebrard tratado comercial con China",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard, descartó que México negociaría un Tratado de Libre Comercio con China en el corto plazo.",
+      "link": "https://www.reforma.com/descarta-ebrard-tratado-comercial-con-china/ar3314293",
+      "fecha": "13 Nov 2026, 14:21 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja nearshoring auge de oficinas",
-      "resumen": "De enero a septiembre, la absorción neta acumulada del mercado regio de oficinas subió 147.8% anual, a 57 mil metros cuadrados.",
-      "link": "https://www.reforma.com/deja-nearshoring-auge-de-oficinas/ar3314007",
-      "fecha": "13 Nov 2026, 07:05 hrs"
+      "titulo": "Prevén crezcan 6% ventas del Buen Fin",
+      "resumen": "ANTAD prevé que ventas durante el Buen Fin crecerán 6.0% en comparación con 2025 pese a débil desempeño del consumo.",
+      "link": "https://www.reforma.com/preven-crezcan-6-ventas-del-buen-fin/ar3314309",
+      "fecha": "13 Nov 2026, 14:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pierde boom de IA a su innovador #1 ¡y a su banco!",
-      "resumen": "Partida de Huang de Nvidia no será necesariamente desastrosa para la empresa en el corto plazo, pero probablemente nunca igualará innovación",
-      "link": "https://www.reforma.com/pierde-boom-de-ia-a-su-innovador-1-y-a-su-banco/ar3314011",
-      "fecha": "13 Nov 2026, 07:05 hrs"
+      "titulo": "Acumula Nvidia pérdida semanal de 13%",
+      "resumen": "Las acciones de Nvidia cerraron con una baja de 2.01%, con lo que en la semana acumularon una pérdida de 13%, la mayor desde abril de 2025.",
+      "link": "https://www.reforma.com/acumula-nvidia-perdida-semanal-de-13/ar3314389",
+      "fecha": "13 Nov 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Así fueron las últimas horas de Jensen Huang en Nvidia",
-      "resumen": "En sus últimas horas en Nvidia, Jensen Huang usó frases como \"lo que sea\" y \"no me importa\", además de decir: \"soy un pedazo de mierda\".",
-      "link": "https://www.reforma.com/asi-fueron-las-ultimas-horas-de-jensen-huang-en-nvidia/ar3314217",
-      "fecha": "13 Nov 2026, 11:27 hrs"
+      "titulo": "Afirma IP que CFE se comprometió a eliminar apagones",
+      "resumen": "El CCE dijo que la CFE se comprometió con el sector privado a eliminar los apagones que afectan zonas como Monterrey y Yucatán.",
+      "link": "https://www.reforma.com/afirma-ip-que-cfe-se-comprometio-a-eliminar-apagones/ar3314251",
+      "fecha": "13 Nov 2026, 12:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prolongan acciones de Nvidia racha negativa; caen más de 4%",
-      "resumen": "Este viernes, las acciones de Nvidia ampliaban sus pérdidas iniciales y operaban con una baja de 4.06%, a 159.45 dólares.",
-      "link": "https://www.reforma.com/prolongan-acciones-de-nvidia-racha-negativa-caen-mas-de-4/ar3314135",
-      "fecha": "13 Nov 2026, 09:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "'Carga' cada mexicano $13,484 por Pemex",
-      "resumen": "Cada mexicano, incluidos los recién nacidos, tendría que aportar 13 mil 484.31 pesos para liquidar la deuda financiera de Pemex.",
-      "link": "https://www.reforma.com/carga-cada-mexicano-13-484-por-pemex/ar3313930",
-      "fecha": "13 Nov 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Influye informalidad en bajo gasto social",
-      "resumen": "Baja recaudación e informalidad frenan el gasto social en México: 10% del PIB, frente a 21% de la OCDE, afirma economista.",
-      "link": "https://www.reforma.com/influye-informalidad-en-bajo-gasto-social/ar3313940",
-      "fecha": "13 Nov 2026, 05:02 hrs"
+      "titulo": "Descarta Sader nuevos casos de influenza aviar en Yucatán",
+      "resumen": "La Sader informó que no se han localizado más casos de influenza aviar de alta patogenicidad (IAAP) AH5N1 en Yucatán.",
+      "link": "https://www.reforma.com/descarta-sader-nuevos-casos-de-influenza-aviar-en-yucatan/ar3314320",
+      "fecha": "13 Nov 2026, 14:23 hrs"
     }
   ]
 }
