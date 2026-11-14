@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/11/2026 08:47 hrs",
+  "actualizado": "14/11/2026 13:43 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,15 +78,6 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
-      "resumen": "El secretario de Seguridad Nacional, Markwayne Mullin dijo que \"no hubo ciberataque\" y que \"no hay conexión entre esto y Microsoft\"",
-      "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
-      "fecha": "13 Nov 2026, 20:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
       "titulo": "Paralización de vuelos en EU impacta a las aerolíneas mexicanas desde el AICM hasta Monterrey",
       "resumen": "La autoridad aeronáutica estadounidense pidió que todos los vuelos programados hacia aquel país desde México permanezcan en tierra hasta que se autorice su reanudación.",
       "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
@@ -145,6 +136,15 @@
       "resumen": "Promtel y AT&amp;T advirtieron que los nuevos criterios de la subasta de CRT podrían afectar la competencia y favorecer la participación de Televisa por espectro en detrimento de los pequeños operador…",
       "link": "https://expansion.mx/empresas/2026/11/13/tope-espectro-beneficia-a-televisa-limites-att-axtel-telcel",
       "fecha": "13 Nov 2026, 05:48 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
+      "resumen": "La siderúrgica concluirá su tercera fase de expansión en Nuevo León, pero la sobreoferta mundial y los precios del acero chino ponen presión sobre su capacidad para colocar la nueva producción.",
+      "link": "https://expansion.mx/empresas/2026/11/12/ternium-invierte-mexico-pero-acero-chino-amenaza-expansion",
+      "fecha": "12 Nov 2026, 19:17 hrs"
     },
     {
       "fuente": "Reforma",
