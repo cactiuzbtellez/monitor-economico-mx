@@ -1,7 +1,43 @@
 {
-  "actualizado": "13/11/2026 18:11 hrs",
+  "actualizado": "14/11/2026 01:22 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "En puente, Hacienda aumenta IEPS a combustibles: deja en 0.02 pesos el estimulo para Magna y se lo quita a la Premium",
+      "resumen": "Para la semana del 14 al 20 de noviembre, la gasolina Magna tendrá una cuota IEPS de 6.68 pesos por litro, mientras que para la Premium será de 5.66 pesos por litro.",
+      "link": "https://expansion.mx/economia/2026/11/13/cero-subsidio-ieps-premium-magna-diesel-puente",
+      "fecha": "13 Nov 2026, 17:53 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
+      "resumen": "Los retiros por desempleo en las Afores sumaron 41,099 mdp de enero a octubre de 2026, un nuevo máximo histórico y ya ha rebasado a todo lo registrado el año pasado.",
+      "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
+      "fecha": "13 Nov 2026, 14:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
+      "resumen": "A partir de 2027, entrarán en vigor cambios en Ingresos, Ley del ISR y de Derechos, las cuales estipulan cambios en los cobros de impuestos, derechos y aprovechamientos.",
+      "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
+      "fecha": "13 Nov 2026, 13:22 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Chihuahua gana terreno frente a la manzana de EU mientras México investiga dumping",
+      "resumen": "El Departamento de Agricultura de EU prevé que la cosecha mexicana crezca 5% y las importaciones bajen 9% en el ciclo 2026-2027. Aun así, el país necesitará comprar 310,000 toneladas en el exterior.",
+      "link": "https://expansion.mx/economia/2026/11/13/manzana-mexicana-gana-terreno-frente-a-eu",
+      "fecha": "13 Nov 2026, 12:32 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,48 +76,21 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Corrupción, burocracia y desconfianza, entre las mayores trabas para comerciar con México, dice encuesta de Santander",
-      "resumen": "Una de cada cinco empresas consultadas que apuntan al mercado mexicano identifica la corrupción como obstáculo. Encontrar socios de confianza encabeza la lista, de acuerdo con el banco español",
-      "link": "https://expansion.mx/economia/2026/11/12/corrupcion-burocracia-entre-mayores-trabas-comerciar-mexico",
-      "fecha": "12 Nov 2026, 15:04 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El FMI reduce acceso a la línea de crédito flexible para México a solicitud del gobierno",
-      "resumen": "El órgano internacional aprobó disminuir el nivel de acceso de 200% a 150% de la cuota de México en el FMI, por lo que quedó en 18,000 millones de dólares.",
-      "link": "https://expansion.mx/economia/2026/11/12/fmi-reduce-acceso-linea-credito-flexible-mexico",
-      "fecha": "12 Nov 2026, 13:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México quiere más insumos nacionales, pero manufactureras aumentan importaciones",
-      "resumen": "De cada 100 pesos en suministros para las fábricas IMMEX, solo 29 correspondieron a materiales mexicanos. Un año antes eran casi 32.",
-      "link": "https://expansion.mx/economia/2026/11/12/insumos-mexicanos-pierden-terreno-immex-2026",
-      "fecha": "12 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ganancias de los bancos en México caen 5% al cierre del tercer trimestre de 2026",
-      "resumen": "En opinión de Emilio Romano, presidente de la ABM, en el imaginario colectivo se piensa que la banca en un negocio que siempre gana dinero",
-      "link": "https://expansion.mx/economia/2026/11/11/ganancias-de-los-bancos-en-mexico-caen-5-al-cierre-del-tercer-trimestre-de-2026",
-      "fecha": "11 Nov 2026, 18:21 hrs"
+      "titulo": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
+      "resumen": "El secretario de Seguridad Nacional, Markwayne Mullin dijo que \"no hubo ciberataque\" y que \"no hay conexión entre esto y Microsoft\"",
+      "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
+      "fecha": "13 Nov 2026, 20:29 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
-      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
-      "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
-      "fecha": "13 Nov 2026, 23:36 hrs"
+      "titulo": "Paralización de vuelos en EU impacta a las aerolíneas mexicanas desde el AICM hasta Monterrey",
+      "resumen": "La autoridad aeronáutica estadounidense pidió que todos los vuelos programados hacia aquel país desde México permanezcan en tierra hasta que se autorice su reanudación.",
+      "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
+      "fecha": "13 Nov 2026, 17:18 hrs"
     },
     {
       "fuente": "Expansión",
@@ -90,7 +99,43 @@
       "titulo": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
       "resumen": "De consolidarse la transacción, la red de farmacias sumaría alrededor de 3,000 unidades y hará frente a otras cadenas como Farmacias Similares",
       "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
-      "fecha": "13 Nov 2026, 11:28 hrs"
+      "fecha": "13 Nov 2026, 15:12 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Antes de Chivas y Omnilife, Jorge Vergara madrugaba a las 4:00 de la mañana para vender carnitas",
+      "resumen": "Antes de Chivas y Omnilife, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
+      "link": "https://expansion.mx/empresas/2026/11/13/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
+      "fecha": "13 Nov 2026, 12:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Costco revela qué puede frenar la apertura de nuevas tiendas en México: no se trata sólo de conseguir terreno",
+      "resumen": "La empresa estadounidense ha reconocido que existen varios factores por los cuales le es difícil abrir nuevas tiendas no sólo en México, sino en el mundo.",
+      "link": "https://expansion.mx/empresas/2026/11/13/nuevas-tiendas-costco-mexico-por-que-no-hay",
+      "fecha": "13 Nov 2026, 11:58 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Carlos Slim vio potencial en este basurero del Edomex y lo convirtió en plaza comercial, hospital y centro deportivo",
+      "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
+      "link": "https://expansion.mx/empresas/2026/11/13/ciudad-jardin-basurero-plaza-comercial-carlos-slim",
+      "fecha": "13 Nov 2026, 11:51 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
+      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
+      "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
+      "fecha": "13 Nov 2026, 11:36 hrs"
     },
     {
       "fuente": "Expansión",
@@ -102,49 +147,31 @@
       "fecha": "13 Nov 2026, 05:48 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ternium invierte 7,510 millones de dólares en México, pero la inundación del acero chino amenaza su expansión",
-      "resumen": "La siderúrgica concluirá su tercera fase de expansión en Nuevo León, pero la sobreoferta mundial y los precios del acero chino ponen presión sobre su capacidad para colocar la nueva producción.",
-      "link": "https://expansion.mx/empresas/2026/11/12/ternium-invierte-mexico-pero-acero-chino-amenaza-expansion",
-      "fecha": "12 Nov 2026, 19:17 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Perjudicó falla aérea en EU a 18 mil pasajeros en México",
+      "resumen": "La suspensión de vuelos ordenada por EU durante más de 4 horas impactó a 193 operaciones y 18 mil 2 pasajeros en México, reportó la AFAC.",
+      "link": "https://www.reforma.com/perjudico-falla-aerea-en-eu-a-18-mil-pasajeros-en-mexico/ar3314682",
+      "fecha": "13 Nov 2026, 23:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras Walmart tiene cajas de autocobro, OXXO busca robots para que sus empleados puedan abrir la segunda caja",
-      "resumen": "La compañía explora cómo reducir las responsabilidades de sus empleados y aprovechar mejor el tiempo en sus establecimientos, muchos de los cuales permanecen abiertos las 24 horas.",
-      "link": "https://expansion.mx/empresas/2026/11/12/oxxo-robots-reforma-laboral-40-horas-aumento-salario",
-      "fecha": "12 Nov 2026, 17:28 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "'Nos afectó en todo: en el hospedaje y en el itinerario'",
+      "resumen": "La falla de más de 4 horas en el control aéreo de EU afectó 73 vuelos y a 10 mil 293 pasajeros en el AICM, al arrancar el puente vacacional.",
+      "link": "https://www.reforma.com/nos-afecto-en-todo-en-el-hospedaje-y-en-el-itinerario/ar3314581",
+      "fecha": "13 Nov 2026, 20:15 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sener eleva la apuesta eléctrica y promete 141 centrales en construcción para 2027",
-      "resumen": "La nueva meta supera en 41 centrales la previsión anunciada en septiembre. Los proyectos requerirán 460,000 millones de pesos y forman parte del plan para sumar 32,000 megawatts hacia 2030.",
-      "link": "https://expansion.mx/empresas/2026/11/12/sener-mexico-141-centrales-electricas-construccion-2027",
-      "fecha": "12 Nov 2026, 14:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Walmart vende solo en el Buen Fin y Navidad mucho más que Liverpool, Sanborns y Costco en un año",
-      "resumen": "Aunque mantiene ventas estables durante el año, el último trimestre concentra casi tres de cada 10 pesos que ingresa la compañía, impulsada por el consumo de fin de año.",
-      "link": "https://expansion.mx/empresas/2026/11/12/walmart-vende-buen-fin-navidad-mas-liverpool-sanborns-costco",
-      "fecha": "12 Nov 2026, 12:26 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mazda prepara el relevo del Mazda2 en Asia, pero México todavía tiene razones para mantenerlo",
-      "resumen": "Aunque la marca prepara su relevo en algunos mercados asiáticos con una nueva generación de la CX-3, el subcompacto seguirá disponible en el país con precios desde 301,900 pesos.",
-      "link": "https://expansion.mx/empresas/2026/11/11/mazda2-ventas-produccion-precio-mexico",
-      "fecha": "11 Nov 2026, 21:26 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Alertan por vuelos ante regreso de nave de SpaceX",
+      "resumen": "SENEAM informó podría coordinar ajustes preventivos en vuelos este sábado si una nave Starship de SpaceX cruza el espacio aéreo mexicano.",
+      "link": "https://www.reforma.com/alertan-por-vuelos-ante-regreso-de-nave-de-spacex/ar3314515",
+      "fecha": "13 Nov 2026, 18:17 hrs"
     },
     {
       "fuente": "Reforma",
@@ -159,44 +186,17 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Publican en DOF tope a deducciones para 2027",
-      "resumen": "El Gobierno federal publicó la reforma al ISR que topa deducciones empresariales a 96.67% de los ingresos y limita pérdidas fiscales a 50%.",
-      "link": "https://www.reforma.com/publican-en-dof-tope-a-deducciones-para-2027/ar3314328",
-      "fecha": "13 Nov 2026, 14:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Descarta Ebrard tratado comercial con China",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard, descartó que México negociaría un Tratado de Libre Comercio con China en el corto plazo.",
-      "link": "https://www.reforma.com/descarta-ebrard-tratado-comercial-con-china/ar3314293",
-      "fecha": "13 Nov 2026, 14:21 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Compra Farmacias del Ahorro a Benavides",
-      "resumen": "Farmacias Benavides llegó a un acuerdo para ser adquirida por Farmacias del Ahorro por un monto no revelado.",
-      "link": "https://www.reforma.com/compra-farmacias-del-ahorro-a-benavides/ar3314178",
-      "fecha": "13 Nov 2026, 10:09 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Prevén crezcan 6% ventas del Buen Fin",
-      "resumen": "ANTAD prevé que ventas durante el Buen Fin crecerán 6.0% en comparación con 2025 pese a débil desempeño del consumo.",
-      "link": "https://www.reforma.com/preven-crezcan-6-ventas-del-buen-fin/ar3314309",
-      "fecha": "13 Nov 2026, 14:21 hrs"
+      "titulo": "Agiliza SICT licencias para operadores del autotransporte",
+      "resumen": "SICT anunció que brindará facilidades a operadores de aerotransporta para la renovación o expedición de sus licencias.",
+      "link": "https://www.reforma.com/agiliza-sict-licencias-para-operadores-del-autotransporte/ar3314405",
+      "fecha": "13 Nov 2026, 18:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
       "titulo": "Acumula Nvidia pérdida semanal de 13%",
-      "resumen": "Las acciones de Nvidia cerraron con una baja de 2.01%, con lo que en la semana acumularon una pérdida de 13%, la mayor desde abril de 2025.",
+      "resumen": "Las acciones de Nvidia cerraron con una caída de 2.01%, con lo que en la semana acumularon una pérdida de 13%, la mayor desde abril de 2025.",
       "link": "https://www.reforma.com/acumula-nvidia-perdida-semanal-de-13/ar3314389",
       "fecha": "13 Nov 2026, 15:31 hrs"
     },
@@ -204,19 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma IP que CFE se comprometió a eliminar apagones",
-      "resumen": "El CCE dijo que la CFE se comprometió con el sector privado a eliminar los apagones que afectan zonas como Monterrey y Yucatán.",
-      "link": "https://www.reforma.com/afirma-ip-que-cfe-se-comprometio-a-eliminar-apagones/ar3314251",
-      "fecha": "13 Nov 2026, 12:47 hrs"
+      "titulo": "Cierra crudo estable, con el Brent en 95.84 dólares",
+      "resumen": "El barril de Brent se mantuvo estable, con un alza marginal de 0.02% a 95.84 dólares, mientras el WTI cedió apenas un 0.20% a 88.56 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-estable-con-el-brent-en-95-84-dolares/ar3314380",
+      "fecha": "13 Nov 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descarta Sader nuevos casos de influenza aviar en Yucatán",
-      "resumen": "La Sader informó que no se han localizado más casos de influenza aviar de alta patogenicidad (IAAP) AH5N1 en Yucatán.",
-      "link": "https://www.reforma.com/descarta-sader-nuevos-casos-de-influenza-aviar-en-yucatan/ar3314320",
-      "fecha": "13 Nov 2026, 14:23 hrs"
+      "titulo": "Se disculpa Microsoft por interrupción masiva de servicios",
+      "resumen": "Microsoft emitió una disculpa por una interrupción generalizada de Outlook y otros productos, mientras trabajaba para restablecer servicios.",
+      "link": "https://www.reforma.com/se-disculpa-microsoft-por-interrupcion-masiva-de-servicios/ar3314360",
+      "fecha": "13 Nov 2026, 14:46 hrs"
     }
   ]
 }
