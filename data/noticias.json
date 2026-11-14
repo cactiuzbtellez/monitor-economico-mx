@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/11/2026 01:22 hrs",
+  "actualizado": "14/11/2026 08:47 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,19 +150,28 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Perjudicó falla aérea en EU a 18 mil pasajeros en México",
-      "resumen": "La suspensión de vuelos ordenada por EU durante más de 4 horas impactó a 193 operaciones y 18 mil 2 pasajeros en México, reportó la AFAC.",
-      "link": "https://www.reforma.com/perjudico-falla-aerea-en-eu-a-18-mil-pasajeros-en-mexico/ar3314682",
-      "fecha": "13 Nov 2026, 23:59 hrs"
+      "titulo": "'Repatriamos Benavides a México'",
+      "resumen": "Al comprar Benavides, Farmacias del Ahorro ampliará su red en 56% y además repatriará una cadena regia histórica.",
+      "link": "https://www.reforma.com/repatriamos-benavides-a-mexico/ar3314565",
+      "fecha": "14 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "'Nos afectó en todo: en el hospedaje y en el itinerario'",
-      "resumen": "La falla de más de 4 horas en el control aéreo de EU afectó 73 vuelos y a 10 mil 293 pasajeros en el AICM, al arrancar el puente vacacional.",
-      "link": "https://www.reforma.com/nos-afecto-en-todo-en-el-hospedaje-y-en-el-itinerario/ar3314581",
-      "fecha": "13 Nov 2026, 20:15 hrs"
+      "titulo": "Pega paro de vuelos a las exportaciones",
+      "resumen": "El Comce Noreste estimó que el costo por detener las exportaciones aéreas es de 4.5 millones de dólares por una hora de paro.",
+      "link": "https://www.reforma.com/pega-paro-de-vuelos-a-las-exportaciones/ar3314564",
+      "fecha": "14 Nov 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra dólar en $18.53 y suma peso 2 semanas con plusvalías",
+      "resumen": "Dólar hiló dos semanas con balance en contra frente al peso tras cerrar en $18.53, lo que representó una reducción semnal de 7.85 centavos.",
+      "link": "https://www.reforma.com/cierra-dolar-en-18-53-y-suma-peso-2-semanas-con-plusvalias/ar3314525",
+      "fecha": "13 Nov 2026, 18:27 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "El barril de Brent se mantuvo estable, con un alza marginal de 0.02% a 95.84 dólares, mientras el WTI cedió apenas un 0.20% a 88.56 dólares.",
       "link": "https://www.reforma.com/cierra-crudo-estable-con-el-brent-en-95-84-dolares/ar3314380",
       "fecha": "13 Nov 2026, 15:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Se disculpa Microsoft por interrupción masiva de servicios",
-      "resumen": "Microsoft emitió una disculpa por una interrupción generalizada de Outlook y otros productos, mientras trabajaba para restablecer servicios.",
-      "link": "https://www.reforma.com/se-disculpa-microsoft-por-interrupcion-masiva-de-servicios/ar3314360",
-      "fecha": "13 Nov 2026, 14:46 hrs"
     }
   ]
 }
