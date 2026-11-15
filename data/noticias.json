@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/11/2026 07:29 hrs",
+  "actualizado": "15/11/2026 13:33 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
+      "resumen": "En el primer día de la 16.ª edición de El Buen Fin, la Procuraduría Federal del Consumidor informó que se han otorgado 2,115 asesorías a consumidores sobre sus derechos.",
+      "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
+      "fecha": "14 Nov 2026, 17:37 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
       "resumen": "La paralización en tierra no solo sumió el transporte aéreo en el caos, sino que desata preocupaciones sobre la infraestructura envejecida del país y vulnerabilidad a ciberataques.",
       "link": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
@@ -136,15 +145,6 @@
       "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
       "link": "https://expansion.mx/empresas/2026/11/13/ciudad-jardin-basurero-plaza-comercial-carlos-slim",
       "fecha": "13 Nov 2026, 11:51 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "FEMSA conquista México con OXXO, pero su imperio de negocios se extiende de Estados Unidos hasta Europa",
-      "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
-      "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
-      "fecha": "13 Nov 2026, 11:36 hrs"
     },
     {
       "fuente": "Reforma",
