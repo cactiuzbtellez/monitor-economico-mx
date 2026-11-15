@@ -1,5 +1,5 @@
 {
-  "actualizado": "14/11/2026 23:01 hrs",
+  "actualizado": "15/11/2026 07:29 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
+      "resumen": "La paralización en tierra no solo sumió el transporte aéreo en el caos, sino que desata preocupaciones sobre la infraestructura envejecida del país y vulnerabilidad a ciberataques.",
+      "link": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
+      "fecha": "14 Nov 2026, 10:28 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
       "resumen": "El secretario de Seguridad Nacional, Markwayne Mullin dijo que \"no hubo ciberataque\" y que \"no hay conexión entre esto y Microsoft\"",
       "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
@@ -136,15 +145,6 @@
       "resumen": "La expansión de FEMSA fuera de México incluye tiendas de conveniencia, alimentos, bebidas, servicios financieros y soluciones digitales.",
       "link": "https://expansion.mx/empresas/2026/11/13/mientras-oxxo-cierra-tiendas-mexico-femsa-imperio-marcas-europa",
       "fecha": "13 Nov 2026, 11:36 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El tope de espectro de la CRT abre la puerta a Televisa para adquirir frecuencias y pone límites a AT&T, Axtel y Telcel",
-      "resumen": "Promtel y AT&amp;T advirtieron que los nuevos criterios de la subasta de CRT podrían afectar la competencia y favorecer la participación de Televisa por espectro en detrimento de los pequeños operador…",
-      "link": "https://expansion.mx/empresas/2026/11/13/tope-espectro-beneficia-a-televisa-limites-att-axtel-telcel",
-      "fecha": "13 Nov 2026, 05:48 hrs"
     },
     {
       "fuente": "Reforma",
