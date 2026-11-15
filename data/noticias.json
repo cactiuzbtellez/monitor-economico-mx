@@ -1,5 +1,5 @@
 {
-  "actualizado": "15/11/2026 13:33 hrs",
+  "actualizado": "15/11/2026 17:46 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Ni con Farmacias Benavides alcanza al Dr. Simi; Farmacias del Ahorro podrá llegar a poco más de 3,000 tiendas",
+      "resumen": "Aunque la integración colocaría a Farmacias del Ahorro entre las cadenas con mayor presencia en México, Farmacias Similares conservaría una ventaja de miles de establecimientos.",
+      "link": "https://expansion.mx/empresas/2026/11/15/farmacias-benavides-dr-simi-farmacias-del-ahorro-tiendas",
+      "fecha": "15 Nov 2026, 13:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
       "resumen": "En el primer día de la 16.ª edición de El Buen Fin, la Procuraduría Federal del Consumidor informó que se han otorgado 2,115 asesorías a consumidores sobre sus derechos.",
       "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
@@ -138,13 +147,22 @@
       "fecha": "13 Nov 2026, 11:58 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Carlos Slim vio potencial en este basurero del Edomex y lo convirtió en plaza comercial, hospital y centro deportivo",
-      "resumen": "La historia detrás de Ciudad Jardín Bicentenario mezcla negocios, inversión, recuperación urbana y participación gubernamental en uno de los municipios más poblados del país.",
-      "link": "https://expansion.mx/empresas/2026/11/13/ciudad-jardin-basurero-plaza-comercial-carlos-slim",
-      "fecha": "13 Nov 2026, 11:51 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Roban con voces de IA 129 millones de dólares",
+      "resumen": "Con voces creadas por IA, estafadores suplantan a directivos y logran robar 129 millones de dólares mediante transferencias bancarias.",
+      "link": "https://www.reforma.com/roban-con-voces-de-ia-129-millones-de-dolares/ar3314826",
+      "fecha": "15 Nov 2026, 10:07 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Crece 56% Farmacias del Ahorro con la compra de Benavides",
+      "resumen": "Con la adquisición de mil 132 sucursales de Farmacias Benavides, la cadena Farmacias del Ahorro crecerá en 56% sus unidades en el mercado.",
+      "link": "https://www.reforma.com/crece-56-farmacias-del-ahorro-con-la-compra-de-benavides/ar3314614",
+      "fecha": "14 Nov 2026, 05:00 hrs"
     },
     {
       "fuente": "Reforma",
@@ -168,55 +186,37 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Perjudicó falla aérea en EU a 18 mil pasajeros en México",
+      "resumen": "La suspensión de vuelos ordenada por EU durante más de 4 horas impactó a 193 operaciones y 18 mil 2 pasajeros en México, reportó la AFAC.",
+      "link": "https://www.reforma.com/perjudico-falla-aerea-en-eu-a-18-mil-pasajeros-en-mexico/ar3314682",
+      "fecha": "13 Nov 2026, 23:59 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide EU investigar situación laboral en Industrias FG",
+      "resumen": "EU presentó queja laboral en el T-MEC contra Industrias FG, de Morelos, por presunta negativa a la libertad de asociación y negociación.",
+      "link": "https://www.reforma.com/pide-eu-investigar-situacion-laboral-en-industrias-fg/ar3314603",
+      "fecha": "15 Nov 2026, 16:28 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Afectó pausa aérea en EU a más de 10 mil pasajeros del AICM",
+      "resumen": "La falla de más de 4 horas en el control aéreo de EU afectó 73 vuelos y a 10 mil 293 pasajeros en el AICM, al arrancar el puente vacacional.",
+      "link": "https://www.reforma.com/afecto-pausa-aerea-en-eu-a-mas-de-10-mil-pasajeros-del-aicm/ar3314581",
+      "fecha": "13 Nov 2026, 20:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierra dólar en $18.53 y suma peso 2 semanas con plusvalías",
       "resumen": "Dólar hiló dos semanas con balance en contra frente al peso tras cerrar en $18.53, lo que representó una reducción semnal de 7.85 centavos.",
       "link": "https://www.reforma.com/cierra-dolar-en-18-53-y-suma-peso-2-semanas-con-plusvalias/ar3314525",
       "fecha": "13 Nov 2026, 18:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan por vuelos ante regreso de nave de SpaceX",
-      "resumen": "SENEAM informó podría coordinar ajustes preventivos en vuelos este sábado si una nave Starship de SpaceX cruza el espacio aéreo mexicano.",
-      "link": "https://www.reforma.com/alertan-por-vuelos-ante-regreso-de-nave-de-spacex/ar3314515",
-      "fecha": "13 Nov 2026, 18:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Dejan en tierra todos los vuelos de México a EU",
-      "resumen": "EU pidió que aeronaves en aeropuertos mexicanos con vuelos hacia ese país permanezcan en tierra, dijeron autoridades aeronáuticas de México.",
-      "link": "https://www.reforma.com/dejan-en-tierra-todos-los-vuelos-de-mexico-a-eu/ar3314421",
-      "fecha": "13 Nov 2026, 16:27 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Agiliza SICT licencias para operadores del autotransporte",
-      "resumen": "SICT anunció que brindará facilidades a operadores de aerotransporta para la renovación o expedición de sus licencias.",
-      "link": "https://www.reforma.com/agiliza-sict-licencias-para-operadores-del-autotransporte/ar3314405",
-      "fecha": "13 Nov 2026, 18:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Acumula Nvidia pérdida semanal de 13%",
-      "resumen": "Las acciones de Nvidia cerraron con una caída de 2.01%, con lo que en la semana acumularon una pérdida de 13%, la mayor desde abril de 2025.",
-      "link": "https://www.reforma.com/acumula-nvidia-perdida-semanal-de-13/ar3314389",
-      "fecha": "13 Nov 2026, 15:31 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Cierra crudo estable, con el Brent en 95.84 dólares",
-      "resumen": "El barril de Brent se mantuvo estable, con un alza marginal de 0.02% a 95.84 dólares, mientras el WTI cedió apenas un 0.20% a 88.56 dólares.",
-      "link": "https://www.reforma.com/cierra-crudo-estable-con-el-brent-en-95-84-dolares/ar3314380",
-      "fecha": "13 Nov 2026, 15:31 hrs"
     }
   ]
 }
