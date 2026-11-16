@@ -1,16 +1,7 @@
 {
-  "actualizado": "16/11/2026 07:30 hrs",
+  "actualizado": "16/11/2026 17:13 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México y China comercian cada vez más entre nuevos aranceles y mayor presión de EU",
-      "resumen": "El intercambio entre nuestro país y el gigante asiático creció 12.8% y alcanzó 117,080 mdd entre enero y septiembre de 2026. Sheinbaum vuelve a reunirse con Xi en la cumbre de APEC.",
-      "link": "https://expansion.mx/economia/2026/11/16/sheinbaum-xi-jinping-apec-comercio-mexico-china",
-      "fecha": "16 Nov 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -76,12 +67,21 @@
     },
     {
       "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Pago de comisiones y falta de conectividad, los retos que enfrentan pequeños negocios con Ley de Economía Digital",
+      "resumen": "Falta de internet o datos limita a 60.9% de los consumidores digitales encuestados por Endeavor. El reto de conectividad llega a 83% de los participantes rurales, frente a 57% en ciudades grandes",
+      "link": "https://expansion.mx/economia/2026/11/12/pago-de-comisiones-y-falta-de-conectividad-los-retos-que-enfrentan-pequenos-negocios-con-ley-de-economia-digital",
+      "fecha": "12 Nov 2026, 15:54 hrs"
+    },
+    {
+      "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El nuevo BMW X5 es la apuesta maestra de la firma alemana para sobrevivir a la transición eléctrica",
-      "resumen": "La quinta generación del SUV estrena el lenguaje de diseño Neue Klasse y cinco alternativas de propulsión, pero también refleja la apuesta de BMW por fabricar componentes críticos cerca de sus plantas…",
-      "link": "https://expansion.mx/empresas/2026/11/16/bmw-x5-diseno-polemico-modelo-estrategia-industrial-local",
-      "fecha": "16 Nov 2026, 05:55 hrs"
+      "titulo": "De 5G a 3G, por qué los celulares cambian de red mientras te desplazas",
+      "resumen": "La disponibilidad de antenas, la intensidad de la señal y los acuerdos entre operadores determinan a qué red se conecta un teléfono. Los cambios también pueden afectar la duración de la batería.",
+      "link": "https://expansion.mx/empresas/2026/11/16/por-que-los-celulares-cambian-de-red-5g-4g-3g",
+      "fecha": "16 Nov 2026, 15:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "IA: Tu asistente PERSONAL",
-      "resumen": "Un agente de IA razona, usa herramientas externas y ejecuta tareas para cumplir un objetivo específico sin intervención humana constante.",
-      "link": "https://www.reforma.com/ia-tu-asistente-personal/ar3315421",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Cae Wall Street debido a incertidumbre sobre la IA",
+      "resumen": "Amplia ola de ventas arrastró a las Bolsas de EU con inversionistas ansiosos por las acciones de IA y el reporte de mañana de Nvidia.",
+      "link": "https://www.reforma.com/cae-wall-street-debido-a-incertidumbre-sobre-la-ia/ar3315706",
+      "fecha": "16 Nov 2026, 16:13 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Logra NL noveno puesto en recaudación predial",
-      "resumen": "De acuerdo con Fitch Ratings, Nuevo León registró en el 2025 un ingreso per cápita por concepto de impuesto predial de 877.72 pesos.",
-      "link": "https://www.reforma.com/logra-nl-noveno-puesto-en-recaudacion-predial/ar3315420",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Acusan a 4T de debilitar al campo mexicano",
+      "resumen": "Políticas de la 4T eliminaron mecanismos que protegían a productores agrícolas a la par de acuerdos incumplidos, acusó GCMA.",
+      "link": "https://www.reforma.com/acusan-a-4t-de-debilitar-al-campo-mexicano/ar3315638",
+      "fecha": "16 Nov 2026, 13:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Genera inquietud encuesta del Inegi",
-      "resumen": "Empresas temen que revelar presuntos actos de corrupción en una encuesta del Inegi comprometa sus datos y genere represalias.",
-      "link": "https://www.reforma.com/genera-inquietud-encuesta-del-inegi/ar3315375",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Reportan clientes fallas en Chase, BofA y Wells Fargo",
+      "resumen": "Clientes de Chase, Bank of America y Wells Fargo informaron haber experimentado interrupciones en el servicio este lunes.",
+      "link": "https://www.reforma.com/reportan-clientes-fallas-en-chase-bofa-y-wells-fargo/ar3315629",
+      "fecha": "16 Nov 2026, 13:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "¿Planea Huang su regreso a Nvidia?",
-      "resumen": "Jensen Huang está considerando volver a ocupar el cargo de CEO de Nvidia... y está recibiendo el apoyo de importantes inversionistas.",
-      "link": "https://www.reforma.com/planea-huang-su-regreso-a-nvidia/ar3315406",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Descartan que junta considere regreso de Huang a Nvidia",
+      "resumen": "La junta directiva de Nvidia no está considerando el regreso de Jensen Huang como director ejecutivo, informó a CNBC una fuente cercana.",
+      "link": "https://www.reforma.com/descartan-que-junta-considere-regreso-de-huang-a-nvidia/ar3315624",
+      "fecha": "16 Nov 2026, 12:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presionará T-MEC a revertir reformas",
-      "resumen": "Estiman que postura de EU en negociación del T-MEC abre la puerta a la factibilidad de revertir las reformas energética y judicial.",
-      "link": "https://www.reforma.com/presionara-t-mec-a-revertir-reformas/ar3315403",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Restringe EU acceso de China a los chips de IA",
+      "resumen": "EU establece restricciones a exportación de chips a centros de datos en el extranjero que permiten a China acceder a chips avanzados de IA.",
+      "link": "https://www.reforma.com/restringe-eu-acceso-de-china-a-los-chips-de-ia/ar3315568",
+      "fecha": "16 Nov 2026, 10:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Evidencia la baja talla el rezago económico",
-      "resumen": "La baja talla de los mexicanos también evidencia la desigualdad económica que vive el País, revelan expertos.",
-      "link": "https://www.reforma.com/evidencia-la-baja-talla-el-rezago-economico/ar3315324",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Anticipa Goldman Sachs superávit de petróleo en 2027",
+      "resumen": "El mercado petrolero enfrentará un superávit considerable el próximo año que presionará los precios a la baja, indicó Goldman Sachs.",
+      "link": "https://www.reforma.com/anticipa-goldman-sachs-superavit-de-petroleo-en-2027/ar3315558",
+      "fecha": "16 Nov 2026, 10:05 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Objetan método de contabilidad de Pemex",
-      "resumen": "Las recientes modificaciones en la consolidación contable de Pemex la exponen a un mayor escrutinio por parte de las autoridades EU",
-      "link": "https://www.reforma.com/objetan-metodo-de-contabilidad-de-pemex/ar3315376",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Presiona Bessent a Nvidia por un cambio drástico",
+      "resumen": "Tras salida de su CEO, el Secretario del Tesoro instó a Nvidia a realizar una reestructuración drástica en su liderazgo.",
+      "link": "https://www.reforma.com/presiona-bessent-a-nvidia-por-un-cambio-drastico/ar3315557",
+      "fecha": "16 Nov 2026, 09:51 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden apoyo para el campo mexicano",
-      "resumen": "Uno de los principales retos que enfrenta la producción agropecuaria es la separación de la política pública del orden del mercado",
-      "link": "https://www.reforma.com/piden-apoyo-para-el-campo-mexicano/ar3315374",
-      "fecha": "16 Nov 2026, 05:02 hrs"
+      "titulo": "Caen Bolsas de EU; sigue ola de ventas en tecnológicas",
+      "resumen": "Mercados financieros de EU caen ante la ola de ventas en el sector tecnológico; atentos al reporte trimestral de mañana de Nvidia.",
+      "link": "https://www.reforma.com/caen-bolsas-de-eu-sigue-ola-de-ventas-en-tecnologicas/ar3315546",
+      "fecha": "16 Nov 2026, 09:44 hrs"
     }
   ]
 }
