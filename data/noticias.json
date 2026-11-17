@@ -1,7 +1,34 @@
 {
-  "actualizado": "17/11/2026 10:42 hrs",
+  "actualizado": "17/11/2026 17:44 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mexicanos abandonan las cuentas de ahorro tradicionales para buscar mejores rendimientos, revela Banamex",
+      "resumen": "El Índice Banamex de Inclusión Financiera 2026 revela que el uso de cuentas de ahorro cayó 3.2%. El banco considera que la Ley de Economía Digital fortalecerá a herramientas como CoDi y DiMo.",
+      "link": "https://expansion.mx/economia/2026/11/17/mexicanos-abandonan-las-cuentas-de-ahorro-tradicionales-para-buscar-mejores-rendimientos-revela-banamex",
+      "fecha": "17 Nov 2026, 15:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Trabajar después de los 50 años: el reto que debe atender México antes de elevar la edad de retiro",
+      "resumen": "Solo 7 de cada 100 personas de 55 a 60 años cuenta con un empleo formal en el país",
+      "link": "https://expansion.mx/economia/2026/11/17/50-anos-eres-grande-trabajar-joven-para-retirarte-crisis",
+      "fecha": "17 Nov 2026, 14:27 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Alemania pide \"transparencia\" a Deutsche Bank tras filtración de documentos en investigación periodística",
+      "resumen": "La investigación, titulada \"Inside Deutsche Bank\", fue realizada por más de 200 periodistas de un consorcio entre los que figuran Financial Times, Der Spiegel, Le Monde, The New York Times, elDiario.e…",
+      "link": "https://expansion.mx/economia/2026/11/17/alemania-pide-transparencia-a-deutsche-bank-tras-filtracion-de-documentos-en-investigacion-periodistica",
+      "fecha": "17 Nov 2026, 13:24 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "A partir de 2027, entrarán en vigor cambios en Ingresos, Ley del ISR y de Derechos, las cuales estipulan cambios en los cobros de impuestos, derechos y aprovechamientos.",
       "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
       "fecha": "13 Nov 2026, 13:22 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Chihuahua gana terreno frente a la manzana de EU mientras México investiga dumping",
-      "resumen": "El Departamento de Agricultura de EU prevé que la cosecha mexicana crezca 5% y las importaciones bajen 9% en el ciclo 2026-2027. Aun así, el país necesitará comprar 310,000 toneladas en el exterior.",
-      "link": "https://expansion.mx/economia/2026/11/13/manzana-mexicana-gana-terreno-frente-a-eu",
-      "fecha": "13 Nov 2026, 12:32 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Buen fin 2026: Guía para evitar deudas con la tarjeta de crédito, según Condusef",
-      "resumen": "Antes de comprar en esta temporada de descuentos, se debe considerar que la tarjeta de crédito no es dinero extra ni una extensión del salario",
-      "link": "https://expansion.mx/economia/2026/11/13/buen-fin-2026-guia-para-evitar-deudas-con-la-tarjeta-de-credito-segun-condusef",
-      "fecha": "13 Nov 2026, 10:45 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los \"coyotes\" de las Afore se instalan en el Metro y cobran hasta 11,000 pesos por los retiros de desempleo",
-      "resumen": "Dentro de la estación El Rosario asesores persuaden a los usuarios para realizar un trámite que es gratuito; la Consar y el SAT implementarán acciones para combatir el fraude.",
-      "link": "https://expansion.mx/economia/2026/11/13/los-coyotes-de-las-afore-se-instalan-en-el-metro-y-cobran-hasta-11-000-pesos-por-los-retiros-de-desempleo",
-      "fecha": "13 Nov 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es México campeón...  ¡de la informalidad!",
-      "resumen": "México tiene Tasa de Informalidad Laboral 6.2 veces más alta que el promedio que registran economías avanzadas, según datos del Inegi y OIT.",
-      "link": "https://www.reforma.com/es-mexico-campeon-de-la-informalidad/ar3315883",
-      "fecha": "17 Nov 2026, 05:01 hrs"
+      "titulo": "Acuerda Alsea venta de Burger King en Argentina",
+      "resumen": "Alsea firmó un acuerdo vinculante para vender sus restaurantes Burger King en Argentina.",
+      "link": "https://www.reforma.com/acuerda-alsea-venta-de-burger-king-en-argentina/ar3316380",
+      "fecha": "17 Nov 2026, 17:38 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Daña 'El Niño' 10% siembra de maíz",
-      "resumen": "Calor y sequía por \"El Niño\" provocaron pérdida de 650 mil hectáreas de maíz sembradas en México, 9.6% de la superficie que iba a cosecharse",
-      "link": "https://www.reforma.com/dana-el-nino-10-siembra-de-maiz/ar3315903",
-      "fecha": "17 Nov 2026, 07:03 hrs"
+      "titulo": "Piden atender el rezago del margen operativo en gas LP",
+      "resumen": "La Amexgas pidió al Gobierno atender el rezago del margen operativo en la regulación de precios máximos del gas LP.",
+      "link": "https://www.reforma.com/piden-atender-el-rezago-del-margen-operativo-en-gas-lp/ar3316323",
+      "fecha": "17 Nov 2026, 17:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hackean 178 sitios web importantes para robar criptomonedas",
-      "resumen": "Reportan que varios sitios web, entre ellos los de Zoom y HSBC, fueron hackeados con el fin de robar criptomonedas e infectar iPhone.",
-      "link": "https://www.reforma.com/hackean-178-sitios-web-importantes-para-robar-criptomonedas/ar3316030",
-      "fecha": "17 Nov 2026, 09:14 hrs"
+      "titulo": "Aumentan ingresos telefónicas pese a pérdida de líneas",
+      "resumen": "Los ingresos de las telefónicas crecieron 5.7 % anual en el tercer trimestre, pese a la desconexión de 7.6 millones de líneas celulares.",
+      "link": "https://www.reforma.com/aumentan-ingresos-telefonicas-pese-a-perdida-de-lineas/ar3316322",
+      "fecha": "17 Nov 2026, 17:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrenta México trabas para atraer centros de datos de IA",
-      "resumen": "Si la ubicación lo fuera todo, México viviría un auge de centros de datos pero no está energéticamente preparado para aprovechar el momento.",
-      "link": "https://www.reforma.com/enfrenta-mexico-trabas-para-atraer-centros-de-datos-de-ia/ar3315989",
-      "fecha": "17 Nov 2026, 08:12 hrs"
+      "titulo": "Supera Nvidia expectativas de ingresos y ganancias",
+      "resumen": "En su primer informe de ganancias tras la salida de Jensen Huang, Nvidia reportó ingresos y ganancias mayores a lo esperado.",
+      "link": "https://www.reforma.com/supera-nvidia-expectativas-de-ingresos-y-ganancias/ar3316285",
+      "fecha": "17 Nov 2026, 15:39 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afirma Huang estar dispuesto a regresar como CEO de Nvidia",
-      "resumen": "Jensen Huang afirmó que estaría dispuesto y que \"sería un honor\" regresar a dirección ejecutiva de Nvidia si lo pide el Consejo de empresa.",
-      "link": "https://www.reforma.com/afirma-huang-estar-dispuesto-a-regresar-como-ceo-de-nvidia/ar3316075",
-      "fecha": "17 Nov 2026, 10:19 hrs"
+      "titulo": "Caen mercados de EU: Dow Jones pierde cerca de 900 puntos",
+      "resumen": "Al cierre de mercados, el Dow Jones registró una caída de 1.68%, u 862 puntos; el S&amp;P 500 bajó 1.02%, mientras que el Nasdaq cayó 0.74%.",
+      "link": "https://www.reforma.com/caen-mercados-de-eu-dow-jones-pierde-cerca-de-900-puntos/ar3316263",
+      "fecha": "17 Nov 2026, 15:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplían pérdidas mercados de EU, presionados por Nvidia",
-      "resumen": "El Dow Jones lidera las caídas, con una baja de 707 puntos (-1.5%), seguido por el descenso de 1.06% en el Nasdaq, y de 0.97% en el S&amp;P 500.",
-      "link": "https://www.reforma.com/amplian-perdidas-mercados-de-eu-presionados-por-nvidia/ar3316019",
-      "fecha": "17 Nov 2026, 09:06 hrs"
+      "titulo": "Alertan por déficit de 5% y pérdida de credibilidad fiscal",
+      "resumen": "IMEF advirtió que es muy probable que el déficit público de 2026 sea mayor al estimado por Hacienda y llegue a un nivel cercano al 5%.",
+      "link": "https://www.reforma.com/alertan-por-deficit-de-5-y-perdida-de-credibilidad-fiscal/ar3316256",
+      "fecha": "17 Nov 2026, 15:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Adeuda 388 mmdp Pemex a la banca",
-      "resumen": "Pemex debe 388 mmdp a decenas de bancos y entidades financieras de EU, México y otros países, según el más reciente reporte financiero.",
-      "link": "https://www.reforma.com/adeuda-388-mmdp-pemex-a-la-banca/ar3315882",
-      "fecha": "17 Nov 2026, 05:00 hrs"
+      "titulo": "Tienen aún 1,620 municipios pobre inclusión financiera",
+      "resumen": "Si bien la inclusión financiera ha avanzado, mil 20 municipios tienen un nivel muy bajo y 600 una escala baja, reveló un estudio de Banamex.",
+      "link": "https://www.reforma.com/tienen-aun-1-620-municipios-pobre-inclusion-financiera/ar3316253",
+      "fecha": "17 Nov 2026, 15:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "La salida de Jensen Huang de Nvidia es ya oficial en X",
-      "resumen": "La cuenta de X de Jensen Huang ahora lo identifica únicamente como \"fundador de NVIDIA\".",
-      "link": "https://www.reforma.com/la-salida-de-jensen-huang-de-nvidia-es-ya-oficial-en-x/ar3316062",
-      "fecha": "17 Nov 2026, 10:17 hrs"
+      "titulo": "Proyecta AIFA cerrar año con 7% más de pasajeros que en 2025",
+      "resumen": "Para este año, se espera que el AIFA cierre con un aumento de 7 por ciento en el flujo de pasajeros, respecto a 2025.",
+      "link": "https://www.reforma.com/proyecta-aifa-cerrar-ano-con-7-mas-de-pasajeros-que-en-2025/ar3316210",
+      "fecha": "17 Nov 2026, 15:10 hrs"
     }
   ]
 }
