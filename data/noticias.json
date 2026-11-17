@@ -1,7 +1,16 @@
 {
-  "actualizado": "16/11/2026 17:13 hrs",
+  "actualizado": "17/11/2026 00:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México y China comercian cada vez más entre nuevos aranceles y mayor presión de EU",
+      "resumen": "El intercambio entre nuestro país y el gigante asiático creció 12.8% y alcanzó 117,080 mdd entre enero y septiembre de 2026. Sheinbaum vuelve a reunirse con Xi en la cumbre de APEC.",
+      "link": "https://expansion.mx/economia/2026/11/16/sheinbaum-xi-jinping-apec-comercio-mexico-china",
+      "fecha": "16 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La tecnológica cerró la jornada con una caída de 4.3%. Analistas ven oportunidad de inversión pese a volatilidad en la empresa ante la salida de Jensen Huang.",
       "link": "https://expansion.mx/economia/2026/11/12/nvidia-extiende-caida-en-bolsa-es-momento-de-comprar-acciones",
       "fecha": "12 Nov 2026, 17:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Pago de comisiones y falta de conectividad, los retos que enfrentan pequeños negocios con Ley de Economía Digital",
-      "resumen": "Falta de internet o datos limita a 60.9% de los consumidores digitales encuestados por Endeavor. El reto de conectividad llega a 83% de los participantes rurales, frente a 57% en ciudades grandes",
-      "link": "https://expansion.mx/economia/2026/11/12/pago-de-comisiones-y-falta-de-conectividad-los-retos-que-enfrentan-pequenos-negocios-con-ley-de-economia-digital",
-      "fecha": "12 Nov 2026, 15:54 hrs"
     },
     {
       "fuente": "Expansión",
