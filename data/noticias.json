@@ -1,7 +1,16 @@
 {
-  "actualizado": "17/11/2026 00:47 hrs",
+  "actualizado": "17/11/2026 10:42 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresarios ya no aguantan el ritmo a Sheinbaum con el salario mínimo",
+      "resumen": "A los incrementos anuales en el ingreso base le quedan cuatro ajustes para llegar a las 2.5 canastas básicas que el gobierno fijó como objetivo para 2030.",
+      "link": "https://expansion.mx/economia/2026/11/17/salario-minimo-2027-empresarios-sheinbaum-bajar-aumentos",
+      "fecha": "17 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "Dentro de la estación El Rosario asesores persuaden a los usuarios para realizar un trámite que es gratuito; la Consar y el SAT implementarán acciones para combatir el fraude.",
       "link": "https://expansion.mx/economia/2026/11/13/los-coyotes-de-las-afore-se-instalan-en-el-metro-y-cobran-hasta-11-000-pesos-por-los-retiros-de-desempleo",
       "fecha": "13 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nvidia extiende caída en bolsa. ¿Es momento de comprar acciones?",
-      "resumen": "La tecnológica cerró la jornada con una caída de 4.3%. Analistas ven oportunidad de inversión pese a volatilidad en la empresa ante la salida de Jensen Huang.",
-      "link": "https://expansion.mx/economia/2026/11/12/nvidia-extiende-caida-en-bolsa-es-momento-de-comprar-acciones",
-      "fecha": "12 Nov 2026, 17:35 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae Wall Street debido a incertidumbre sobre la IA",
-      "resumen": "Amplia ola de ventas arrastró a las Bolsas de EU con inversionistas ansiosos por las acciones de IA y el reporte de mañana de Nvidia.",
-      "link": "https://www.reforma.com/cae-wall-street-debido-a-incertidumbre-sobre-la-ia/ar3315706",
-      "fecha": "16 Nov 2026, 16:13 hrs"
+      "titulo": "Es México campeón...  ¡de la informalidad!",
+      "resumen": "México tiene Tasa de Informalidad Laboral 6.2 veces más alta que el promedio que registran economías avanzadas, según datos del Inegi y OIT.",
+      "link": "https://www.reforma.com/es-mexico-campeon-de-la-informalidad/ar3315883",
+      "fecha": "17 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan a 4T de debilitar al campo mexicano",
-      "resumen": "Políticas de la 4T eliminaron mecanismos que protegían a productores agrícolas a la par de acuerdos incumplidos, acusó GCMA.",
-      "link": "https://www.reforma.com/acusan-a-4t-de-debilitar-al-campo-mexicano/ar3315638",
-      "fecha": "16 Nov 2026, 13:19 hrs"
+      "titulo": "Daña 'El Niño' 10% siembra de maíz",
+      "resumen": "Calor y sequía por \"El Niño\" provocaron pérdida de 650 mil hectáreas de maíz sembradas en México, 9.6% de la superficie que iba a cosecharse",
+      "link": "https://www.reforma.com/dana-el-nino-10-siembra-de-maiz/ar3315903",
+      "fecha": "17 Nov 2026, 07:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reportan clientes fallas en Chase, BofA y Wells Fargo",
-      "resumen": "Clientes de Chase, Bank of America y Wells Fargo informaron haber experimentado interrupciones en el servicio este lunes.",
-      "link": "https://www.reforma.com/reportan-clientes-fallas-en-chase-bofa-y-wells-fargo/ar3315629",
-      "fecha": "16 Nov 2026, 13:07 hrs"
+      "titulo": "Hackean 178 sitios web importantes para robar criptomonedas",
+      "resumen": "Reportan que varios sitios web, entre ellos los de Zoom y HSBC, fueron hackeados con el fin de robar criptomonedas e infectar iPhone.",
+      "link": "https://www.reforma.com/hackean-178-sitios-web-importantes-para-robar-criptomonedas/ar3316030",
+      "fecha": "17 Nov 2026, 09:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Descartan que junta considere regreso de Huang a Nvidia",
-      "resumen": "La junta directiva de Nvidia no está considerando el regreso de Jensen Huang como director ejecutivo, informó a CNBC una fuente cercana.",
-      "link": "https://www.reforma.com/descartan-que-junta-considere-regreso-de-huang-a-nvidia/ar3315624",
-      "fecha": "16 Nov 2026, 12:57 hrs"
+      "titulo": "Enfrenta México trabas para atraer centros de datos de IA",
+      "resumen": "Si la ubicación lo fuera todo, México viviría un auge de centros de datos pero no está energéticamente preparado para aprovechar el momento.",
+      "link": "https://www.reforma.com/enfrenta-mexico-trabas-para-atraer-centros-de-datos-de-ia/ar3315989",
+      "fecha": "17 Nov 2026, 08:12 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Restringe EU acceso de China a los chips de IA",
-      "resumen": "EU establece restricciones a exportación de chips a centros de datos en el extranjero que permiten a China acceder a chips avanzados de IA.",
-      "link": "https://www.reforma.com/restringe-eu-acceso-de-china-a-los-chips-de-ia/ar3315568",
-      "fecha": "16 Nov 2026, 10:05 hrs"
+      "titulo": "Afirma Huang estar dispuesto a regresar como CEO de Nvidia",
+      "resumen": "Jensen Huang afirmó que estaría dispuesto y que \"sería un honor\" regresar a dirección ejecutiva de Nvidia si lo pide el Consejo de empresa.",
+      "link": "https://www.reforma.com/afirma-huang-estar-dispuesto-a-regresar-como-ceo-de-nvidia/ar3316075",
+      "fecha": "17 Nov 2026, 10:19 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Anticipa Goldman Sachs superávit de petróleo en 2027",
-      "resumen": "El mercado petrolero enfrentará un superávit considerable el próximo año que presionará los precios a la baja, indicó Goldman Sachs.",
-      "link": "https://www.reforma.com/anticipa-goldman-sachs-superavit-de-petroleo-en-2027/ar3315558",
-      "fecha": "16 Nov 2026, 10:05 hrs"
+      "titulo": "Amplían pérdidas mercados de EU, presionados por Nvidia",
+      "resumen": "El Dow Jones lidera las caídas, con una baja de 707 puntos (-1.5%), seguido por el descenso de 1.06% en el Nasdaq, y de 0.97% en el S&amp;P 500.",
+      "link": "https://www.reforma.com/amplian-perdidas-mercados-de-eu-presionados-por-nvidia/ar3316019",
+      "fecha": "17 Nov 2026, 09:06 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presiona Bessent a Nvidia por un cambio drástico",
-      "resumen": "Tras salida de su CEO, el Secretario del Tesoro instó a Nvidia a realizar una reestructuración drástica en su liderazgo.",
-      "link": "https://www.reforma.com/presiona-bessent-a-nvidia-por-un-cambio-drastico/ar3315557",
-      "fecha": "16 Nov 2026, 09:51 hrs"
+      "titulo": "Adeuda 388 mmdp Pemex a la banca",
+      "resumen": "Pemex debe 388 mmdp a decenas de bancos y entidades financieras de EU, México y otros países, según el más reciente reporte financiero.",
+      "link": "https://www.reforma.com/adeuda-388-mmdp-pemex-a-la-banca/ar3315882",
+      "fecha": "17 Nov 2026, 05:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Caen Bolsas de EU; sigue ola de ventas en tecnológicas",
-      "resumen": "Mercados financieros de EU caen ante la ola de ventas en el sector tecnológico; atentos al reporte trimestral de mañana de Nvidia.",
-      "link": "https://www.reforma.com/caen-bolsas-de-eu-sigue-ola-de-ventas-en-tecnologicas/ar3315546",
-      "fecha": "16 Nov 2026, 09:44 hrs"
+      "titulo": "La salida de Jensen Huang de Nvidia es ya oficial en X",
+      "resumen": "La cuenta de X de Jensen Huang ahora lo identifica únicamente como \"fundador de NVIDIA\".",
+      "link": "https://www.reforma.com/la-salida-de-jensen-huang-de-nvidia-es-ya-oficial-en-x/ar3316062",
+      "fecha": "17 Nov 2026, 10:17 hrs"
     }
   ]
 }
