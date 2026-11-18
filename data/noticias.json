@@ -1,7 +1,16 @@
 {
-  "actualizado": "18/11/2026 00:05 hrs",
+  "actualizado": "18/11/2026 10:12 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Agroindustria nacional ve “inaceptable” que EU venda libremente y frene al campo mexicano",
+      "resumen": "El tomate y la fresa ilustran el reclamo del campo mexicano en la revisión del T-MEC. El Consejo Nacional Agropecuario exige que sus exportaciones compitan en condiciones parejas.",
+      "link": "https://expansion.mx/economia/2026/11/17/cna-restricciones-campo-mexicano-eu-tmec",
+      "fecha": "17 Nov 2026, 17:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -67,12 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Reducción a deducciones y mayores cobros a turistas ya son ley; publica gobierno Ley de Ingresos 2027",
-      "resumen": "A partir de 2027, entrarán en vigor cambios en Ingresos, Ley del ISR y de Derechos, las cuales estipulan cambios en los cobros de impuestos, derechos y aprovechamientos.",
-      "link": "https://expansion.mx/economia/2026/11/13/gobierno-publica-reduccion-deducciones-cobros-a-turistas",
-      "fecha": "13 Nov 2026, 13:22 hrs"
+      "titulo": "Carlos Slim rescató una vieja fábrica de aluminio y le puso albercas, toboganes, plaza, casas, hotel y hasta hospital",
+      "resumen": "Lo que comenzó como una reconversión de terrenos industriales terminó por integrar actividades comerciales, residenciales, médicas, hoteleras y de entretenimiento.",
+      "link": "https://expansion.mx/empresas/2026/11/17/carlos-slim-y-su-parque-acuatico-en-veracruz",
+      "fecha": "17 Nov 2026, 17:49 hrs"
     },
     {
       "fuente": "Expansión",
@@ -138,85 +147,76 @@
       "fecha": "13 Nov 2026, 20:29 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Paralización de vuelos en EU impacta a las aerolíneas mexicanas desde el AICM hasta Monterrey",
-      "resumen": "La autoridad aeronáutica estadounidense pidió que todos los vuelos programados hacia aquel país desde México permanezcan en tierra hasta que se autorice su reanudación.",
-      "link": "https://expansion.mx/empresas/2026/11/13/detenimiento-vuelos-eu-llega-mexico-aicm-hasta-monterrey",
-      "fecha": "13 Nov 2026, 17:18 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pegan a gasto deuda, pensiones y apoyos",
+      "resumen": "Más del 80% del gasto público aprobado para 2027 está comprometido en costo financiero de la deuda, pago de pensiones y programas sociales.",
+      "link": "https://www.reforma.com/pegan-a-gasto-deuda-pensiones-y-apoyos/ar3316622",
+      "fecha": "18 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reducirán ruido de aeronaves modificación de rutas aéreas",
-      "resumen": "Nuevas rutas de salida en el AICM podrían reducir el ruido y operar desde marzo o abril de 2027, informó Aeronáutica Segura, Menos Ruido.",
-      "link": "https://www.reforma.com/reduciran-ruido-de-aeronaves-modificacion-de-rutas-aereas/ar3316547",
-      "fecha": "17 Nov 2026, 21:10 hrs"
+      "titulo": "Se complica negociación por alza al salario mínimo",
+      "resumen": "Mientras Coparmex solicita un aumento al salario mínimo cercano al 6%, la Unión Nacional de Trabajadores se pronunció por un 13%.",
+      "link": "https://www.reforma.com/se-complica-negociacion-por-alza-al-salario-minimo/ar3316602",
+      "fecha": "18 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumenta precio de vivienda por falta de inventario",
-      "resumen": "Inventario de vivienda en la ZMVM cayó 12.9% anual, mientras que el precio por metro cuadrado subió 9.3%, a 56 mil 785 pesos, reveló Tinsa",
-      "link": "https://www.reforma.com/aumenta-precio-de-vivienda-por-falta-de-inventario/ar3316481",
-      "fecha": "17 Nov 2026, 19:18 hrs"
+      "titulo": "Crecería 2% PIB de NL en 2027",
+      "resumen": "Pese a un panorama de retos económicos, analistas de BBVA Research México prevén que la economía de Nuevo León crezca 2% en el 2027.",
+      "link": "https://www.reforma.com/creceria-2-pib-de-nl-en-2027/ar3316587",
+      "fecha": "18 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé Mexicana crecimiento de 30% en transporte de pasajeros",
-      "resumen": "Mexicana de Aviación proyecta cerrar 2026 con un crecimiento superior al 30% en transporte de pasajeros.",
-      "link": "https://www.reforma.com/preve-mexicana-crecimiento-de-30-en-transporte-de-pasajeros/ar3316413",
-      "fecha": "17 Nov 2026, 18:06 hrs"
+      "titulo": "Advierten más incertidumbre para IED en México",
+      "resumen": "La Inversión Extranjera Directa (IED) en México enfrentará en el 2027 un entorno de mayor incertidumbre que en años anteriores.",
+      "link": "https://www.reforma.com/advierten-mas-incertidumbre-para-ied-en-mexico/ar3316576",
+      "fecha": "18 Nov 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acuerda Alsea venta de Burger King en Argentina",
-      "resumen": "Alsea firmó un acuerdo vinculante para vender sus restaurantes Burger King en Argentina.",
-      "link": "https://www.reforma.com/acuerda-alsea-venta-de-burger-king-en-argentina/ar3316380",
-      "fecha": "17 Nov 2026, 17:38 hrs"
+      "titulo": "Esperan en diciembre resolución contra cerdo",
+      "resumen": "La Opormex prevé que el Gobierno federal emita una resolución si EU vende a México pierna y espaldilla de cerdo a precios baratos.",
+      "link": "https://www.reforma.com/esperan-en-diciembre-resolucion-contra-cerdo/ar3316579",
+      "fecha": "18 Nov 2026, 07:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden atender el rezago del margen operativo en gas LP",
-      "resumen": "La Amexgas pidió al Gobierno atender el rezago del margen operativo en la regulación de precios máximos del gas LP.",
-      "link": "https://www.reforma.com/piden-atender-el-rezago-del-margen-operativo-en-gas-lp/ar3316323",
-      "fecha": "17 Nov 2026, 17:30 hrs"
+      "titulo": "Llega más IED a NL",
+      "resumen": "En la última semana dos empresas de diversos países decidieron apostaron por NL para ampliar sus operaciones ya existentes.",
+      "link": "https://www.reforma.com/llega-mas-ied-a-nl/ar3316567",
+      "fecha": "18 Nov 2026, 09:55 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Aumentan ingresos telefónicas pese a pérdida de líneas",
-      "resumen": "Los ingresos de las telefónicas crecieron 5.7 % anual en el tercer trimestre, pese a la desconexión de 7.6 millones de líneas celulares.",
-      "link": "https://www.reforma.com/aumentan-ingresos-telefonicas-pese-a-perdida-de-lineas/ar3316322",
-      "fecha": "17 Nov 2026, 17:30 hrs"
+      "titulo": "Firma Peñoles acuerdo de energía limpia a 20 años con Atlas",
+      "resumen": "Peñoles firmó un contrato de energía con Atlas Renewable, que respaldará parte de la demanda eléctrica de sus operaciones en norte del país.",
+      "link": "https://www.reforma.com/firma-penoles-acuerdo-de-energia-limpia-a-20-anos-con-atlas/ar3316743",
+      "fecha": "18 Nov 2026, 09:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Supera Nvidia expectativas de ingresos y ganancias",
-      "resumen": "En su primer informe de ganancias tras la salida de Jensen Huang, Nvidia reportó ingresos y ganancias mayores a lo esperado.",
-      "link": "https://www.reforma.com/supera-nvidia-expectativas-de-ingresos-y-ganancias/ar3316285",
-      "fecha": "17 Nov 2026, 15:39 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen mercados de EU: Dow Jones pierde cerca de 900 puntos",
-      "resumen": "Al cierre de mercados, el Dow Jones registró una caída de 1.68%, u 862 puntos; el S&amp;P 500 bajó 1.02%, mientras que el Nasdaq cayó 0.74%.",
-      "link": "https://www.reforma.com/caen-mercados-de-eu-dow-jones-pierde-cerca-de-900-puntos/ar3316263",
-      "fecha": "17 Nov 2026, 15:10 hrs"
+      "titulo": "Bajan mercados de EU tras resultados de Nvidia",
+      "resumen": "Tras un breve impulso por el reporte de Nvidia mejor a lo esperado, el Dow Jones perdía 0.7%; el S&amp;P 500 bajaba 0.3% y el Nasdaq un 0.1%.",
+      "link": "https://www.reforma.com/bajan-mercados-de-eu-tras-resultados-de-nvidia/ar3316752",
+      "fecha": "18 Nov 2026, 09:14 hrs"
     }
   ]
 }
