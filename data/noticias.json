@@ -1,7 +1,52 @@
 {
-  "actualizado": "18/11/2026 10:12 hrs",
+  "actualizado": "18/11/2026 17:16 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores, advierte KPMG",
+      "resumen": "La mayor afectación será el flujo de efectivo de las empresas, debido a la aplicación de factores fijos para estimar el coeficiente de utilidad y que determina el monto de pagos provisionales del impu…",
+      "link": "https://expansion.mx/economia/2026/11/18/empresas-2027-mayores-pagos-provisionales-isr-2-veces",
+      "fecha": "18 Nov 2026, 13:18 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Subgobernador de Banxico Omar Mejía descarta sorpresa en recorte de tasa a 6.25% y destaca prudencia del banco central",
+      "resumen": "El pasado 5 de noviembre, la Junta de Gobierno de Banco de México decidió, con tres votos a favor y dos en contra, la reducción en la tasa",
+      "link": "https://expansion.mx/economia/2026/11/18/subgobernador-de-banxico-omar-mejia-descarta-sorpresa-en-recorte-de-tasa-a-6-25-y-destaca-prudencia-del-banco-central",
+      "fecha": "18 Nov 2026, 12:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Deutsche Bank en México: Vendió su licencia a Citi y los fideicomisos a CIBanco",
+      "resumen": "El banco de origen alemán tiene presencia en el país desde 1902, pero en 2015 decidió no priorizar el mercado mexicano",
+      "link": "https://expansion.mx/economia/2026/11/18/deutsche-bank-en-mexico-vendio-su-licencia-a-citi-y-los-fideicomisos-a-cibanco",
+      "fecha": "18 Nov 2026, 11:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Meade alerta por reto permanente de encajar programas sociales en presupuesto y cumplir con paquete económico en 2027",
+      "resumen": "El excandidato presidencial señaló que el año próximo las condiciones están dadas para que la economía mexicana se muestre sólida",
+      "link": "https://expansion.mx/economia/2026/11/18/meade-alerta-por-reto-permanente-de-encajar-programas-sociales-en-presupuesto-y-cumplir-con-paquete-economico-en-2027",
+      "fecha": "18 Nov 2026, 11:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT obtiene menos ingresos de los grandes empresarios, ¿se acabó la cacería de brujas?",
+      "resumen": "Si bien se redujo el total de la recaudación a este grupo de contribuyentes, el promedio por cada auditoría pasó de 255 millones de pesos a 336 millones, según información de la SHCP.",
+      "link": "https://expansion.mx/economia/2026/11/18/sat-recaudacion-fiscalizacion-grandes-contribuyentes",
+      "fecha": "18 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -31,48 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Alemania pide \"transparencia\" a Deutsche Bank tras filtración de documentos en investigación periodística",
-      "resumen": "La investigación, titulada \"Inside Deutsche Bank\", fue realizada por más de 200 periodistas de un consorcio entre los que figuran Financial Times, Der Spiegel, Le Monde, The New York Times, elDiario.e…",
-      "link": "https://expansion.mx/economia/2026/11/17/alemania-pide-transparencia-a-deutsche-bank-tras-filtracion-de-documentos-en-investigacion-periodistica",
-      "fecha": "17 Nov 2026, 13:24 hrs"
+      "titulo": "De comprar a los San Francisco 49ers por 13 millones a construir un imperio de 10,500 millones: esta es la familia dueña",
+      "resumen": "El equipo de Santa Clara, que jugará en territorio mexicano por tercera vez en su historia, ha estado bajo el mando de la misma familia por casi 50 años.",
+      "link": "https://expansion.mx/empresas/2026/11/18/esta-es-la-familia-duena-de-los-san-francisco-49ers",
+      "fecha": "18 Nov 2026, 16:27 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Empresarios ya no aguantan el ritmo a Sheinbaum con el salario mínimo",
-      "resumen": "A los incrementos anuales en el ingreso base le quedan cuatro ajustes para llegar a las 2.5 canastas básicas que el gobierno fijó como objetivo para 2030.",
-      "link": "https://expansion.mx/economia/2026/11/17/salario-minimo-2027-empresarios-sheinbaum-bajar-aumentos",
-      "fecha": "17 Nov 2026, 05:55 hrs"
+      "titulo": "SCJN avala que Telcel, AT&T, Movistar y OMV almacenen datos de los usuarios por dos años",
+      "resumen": "Las compañías podrán almacenar números telefónicos, horarios, duración de llamadas y geolocalización, pero no el contenido de las conversaciones, además, la Corte estableció límites para el acceso de …",
+      "link": "https://expansion.mx/empresas/2026/11/18/scjn-telcel-at-t-movistar-y-omv-datos-usuarios",
+      "fecha": "18 Nov 2026, 12:59 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México y China comercian cada vez más entre nuevos aranceles y mayor presión de EU",
-      "resumen": "El intercambio entre nuestro país y el gigante asiático creció 12.8% y alcanzó 117,080 mdd entre enero y septiembre de 2026. Sheinbaum vuelve a reunirse con Xi en la cumbre de APEC.",
-      "link": "https://expansion.mx/economia/2026/11/16/sheinbaum-xi-jinping-apec-comercio-mexico-china",
-      "fecha": "16 Nov 2026, 05:55 hrs"
+      "titulo": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
+      "resumen": "Miguel Quintana Pali planea un hotel donde seis personas paguen por una sola habitación y visiten los parques con horarios fijos, en un Caribe mexicano con menor ocupación hotelera.",
+      "link": "https://expansion.mx/empresas/2026/11/18/xcaret-hotel-barato-hotel-salud-miguel-quintana-pali",
+      "fecha": "18 Nov 2026, 12:26 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "En puente, Hacienda aumenta IEPS a combustibles: deja en 0.02 pesos el estimulo para Magna y se lo quita a la Premium",
-      "resumen": "Para la semana del 14 al 20 de noviembre, la gasolina Magna tendrá una cuota IEPS de 6.68 pesos por litro, mientras que para la Premium será de 5.66 pesos por litro.",
-      "link": "https://expansion.mx/economia/2026/11/13/cero-subsidio-ieps-premium-magna-diesel-puente",
-      "fecha": "13 Nov 2026, 17:53 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trabajadores sacan más de las Afores por desempleo que lo que ganan las administradoras por comisiones",
-      "resumen": "Los retiros por desempleo en las Afores sumaron 41,099 mdp de enero a octubre de 2026, un nuevo máximo histórico y ya ha rebasado a todo lo registrado el año pasado.",
-      "link": "https://expansion.mx/economia/2026/11/13/trabajadores-sacan-mas-de-las-afores-por-desempleo-que-lo-que-ganan-las-administradoras-por-comisiones",
-      "fecha": "13 Nov 2026, 14:02 hrs"
+      "titulo": "Daniel Servitje obtiene el primer lugar en el ranking de Merco Líderes México",
+      "resumen": "El presidente ejecutivo de Grupo Bimbo es el único empresario mexicano que ha encabezado el listado por 11 años consecutivos.",
+      "link": "https://expansion.mx/empresas/2026/11/18/daniel-servitje-obtiene-el-primer-lugar-en-el-ranking-de-merco-lideres-mexico",
+      "fecha": "18 Nov 2026, 11:37 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,112 +147,76 @@
       "fecha": "16 Nov 2026, 15:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ni con Farmacias Benavides alcanza al Dr. Simi; Farmacias del Ahorro podrá llegar a poco más de 3,000 tiendas",
-      "resumen": "Aunque la integración colocaría a Farmacias del Ahorro entre las cadenas con mayor presencia en México, Farmacias Similares conservaría una ventaja de miles de establecimientos.",
-      "link": "https://expansion.mx/empresas/2026/11/15/farmacias-benavides-dr-simi-farmacias-del-ahorro-tiendas",
-      "fecha": "15 Nov 2026, 13:30 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Sam’s Club, Walmart, First Cash y Elektra encabezan las quejas en el primer día del Buen Fin",
-      "resumen": "En el primer día de la 16.ª edición de El Buen Fin, la Procuraduría Federal del Consumidor informó que se han otorgado 2,115 asesorías a consumidores sobre sus derechos.",
-      "link": "https://expansion.mx/empresas/2026/11/14/sams-club-walmart-first-cash-elektra-quejas-un-dia-buen-fin",
-      "fecha": "14 Nov 2026, 17:37 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Suman más de 16 mil vuelos cancelados en Estados Unidos por fallas en comunicaciones",
-      "resumen": "La paralización en tierra no solo sumió el transporte aéreo en el caos, sino que desata preocupaciones sobre la infraestructura envejecida del país y vulnerabilidad a ciberataques.",
-      "link": "https://expansion.mx/empresas/2026/11/14/vuelos-estados-unidos-se-restablecen-paulatimente-caos",
-      "fecha": "14 Nov 2026, 10:28 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Espacio aéreo de EU está abierto de nuevo y descartan ciberataque; culpan a  \"hardware viejo\"",
-      "resumen": "El secretario de Seguridad Nacional, Markwayne Mullin dijo que \"no hubo ciberataque\" y que \"no hay conexión entre esto y Microsoft\"",
-      "link": "https://expansion.mx/empresas/2026/11/13/levantan-suspension-vuelos-estados-unidos",
-      "fecha": "13 Nov 2026, 20:29 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Pide Banxico no confundir inacción con prudencia",
+      "resumen": "Ante las críticas al Banxico por recortar la tasa de interés, el subgobernador Omar Mejía pidió no confundir la inacción con la prudencia.",
+      "link": "https://www.reforma.com/pide-banxico-no-confundir-inaccion-con-prudencia/ar3316960",
+      "fecha": "18 Nov 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pegan a gasto deuda, pensiones y apoyos",
-      "resumen": "Más del 80% del gasto público aprobado para 2027 está comprometido en costo financiero de la deuda, pago de pensiones y programas sociales.",
-      "link": "https://www.reforma.com/pegan-a-gasto-deuda-pensiones-y-apoyos/ar3316622",
-      "fecha": "18 Nov 2026, 05:01 hrs"
+      "titulo": "Sugieren salario mínimo de 345 pesos al día",
+      "resumen": "Sugiere Acción Ciudadana Frente a la Pobreza subir el salario mínimo de 315 a 345 pesos diarios el próximo año.",
+      "link": "https://www.reforma.com/sugieren-salario-minimo-de-345-pesos-al-dia/ar3316948",
+      "fecha": "18 Nov 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se complica negociación por alza al salario mínimo",
-      "resumen": "Mientras Coparmex solicita un aumento al salario mínimo cercano al 6%, la Unión Nacional de Trabajadores se pronunció por un 13%.",
-      "link": "https://www.reforma.com/se-complica-negociacion-por-alza-al-salario-minimo/ar3316602",
-      "fecha": "18 Nov 2026, 05:02 hrs"
+      "titulo": "Exige Coparmex elegir al presidente del INE por mérito",
+      "resumen": "Coparmex exigió a los legisladores que designación de la próxima presidencia del INE se realice basada en conocimientos y transparencia.",
+      "link": "https://www.reforma.com/exige-coparmex-elegir-al-presidente-del-ine-por-merito/ar3317006",
+      "fecha": "18 Nov 2026, 14:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Crecería 2% PIB de NL en 2027",
-      "resumen": "Pese a un panorama de retos económicos, analistas de BBVA Research México prevén que la economía de Nuevo León crezca 2% en el 2027.",
-      "link": "https://www.reforma.com/creceria-2-pib-de-nl-en-2027/ar3316587",
-      "fecha": "18 Nov 2026, 05:02 hrs"
+      "titulo": "Prevén que más empresas se sumen a Resico",
+      "resumen": "Se espera que para 2027 más pequeñas empresas se sumen al Resico, debido a que amplió sus beneficios, consideró el SAT.",
+      "link": "https://www.reforma.com/preven-que-mas-empresas-se-sumen-a-resico/ar3316863",
+      "fecha": "18 Nov 2026, 11:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierten más incertidumbre para IED en México",
-      "resumen": "La Inversión Extranjera Directa (IED) en México enfrentará en el 2027 un entorno de mayor incertidumbre que en años anteriores.",
-      "link": "https://www.reforma.com/advierten-mas-incertidumbre-para-ied-en-mexico/ar3316576",
-      "fecha": "18 Nov 2026, 07:07 hrs"
+      "titulo": "Fija Anthropic el precio de su salida a bolsa en 83 dólares",
+      "resumen": "Anthropic fijó el precio de su salida a bolsa en 83 dólares por acción, por encima del rango previsto, según fuentes cercanas a la empresa.",
+      "link": "https://www.reforma.com/fija-anthropic-el-precio-de-su-salida-a-bolsa-en-83-dolares/ar3317070",
+      "fecha": "18 Nov 2026, 15:34 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan en diciembre resolución contra cerdo",
-      "resumen": "La Opormex prevé que el Gobierno federal emita una resolución si EU vende a México pierna y espaldilla de cerdo a precios baratos.",
-      "link": "https://www.reforma.com/esperan-en-diciembre-resolucion-contra-cerdo/ar3316579",
-      "fecha": "18 Nov 2026, 07:07 hrs"
+      "titulo": "Esperan en la Fed más alzas a su tasa",
+      "resumen": "Algunos de los miembros de la Fed dijeron que subiría medio punto porcentual la tasa si los datos de inflación resultan desfavorables.",
+      "link": "https://www.reforma.com/esperan-en-la-fed-mas-alzas-a-su-tasa/ar3316984",
+      "fecha": "18 Nov 2026, 14:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Llega más IED a NL",
-      "resumen": "En la última semana dos empresas de diversos países decidieron apostaron por NL para ampliar sus operaciones ya existentes.",
-      "link": "https://www.reforma.com/llega-mas-ied-a-nl/ar3316567",
-      "fecha": "18 Nov 2026, 09:55 hrs"
+      "titulo": "Deja de pertenecer Imjuve a la Secretaría del Trabajo",
+      "resumen": "El Imjuve dejará de ser administrado por la STPS para reforzar los programas dirigidos a los jóvenes, según un decreto del DOF.",
+      "link": "https://www.reforma.com/deja-de-pertenecer-imjuve-a-la-secretaria-del-trabajo/ar3316891",
+      "fecha": "18 Nov 2026, 12:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Firma Peñoles acuerdo de energía limpia a 20 años con Atlas",
-      "resumen": "Peñoles firmó un contrato de energía con Atlas Renewable, que respaldará parte de la demanda eléctrica de sus operaciones en norte del país.",
-      "link": "https://www.reforma.com/firma-penoles-acuerdo-de-energia-limpia-a-20-anos-con-atlas/ar3316743",
-      "fecha": "18 Nov 2026, 09:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bajan mercados de EU tras resultados de Nvidia",
-      "resumen": "Tras un breve impulso por el reporte de Nvidia mejor a lo esperado, el Dow Jones perdía 0.7%; el S&amp;P 500 bajaba 0.3% y el Nasdaq un 0.1%.",
-      "link": "https://www.reforma.com/bajan-mercados-de-eu-tras-resultados-de-nvidia/ar3316752",
-      "fecha": "18 Nov 2026, 09:14 hrs"
+      "titulo": "Requiere vivienda 200 subestaciones eléctricas",
+      "resumen": "El desarrollo habitacional requiere alrededor de 200 subestaciones eléctricas para reforzar la red de distribución, advirtió Canadevi.",
+      "link": "https://www.reforma.com/requiere-vivienda-200-subestaciones-electricas/ar3316950",
+      "fecha": "18 Nov 2026, 14:16 hrs"
     }
   ]
 }
