@@ -1,5 +1,5 @@
 {
-  "actualizado": "17/11/2026 17:44 hrs",
+  "actualizado": "18/11/2026 00:05 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Mientras Bimbo y Gruma alimentan a China con pan y tortillas, MG, Huawei y Hisense invaden México con autos y tecnología",
+      "resumen": "Adquisiciones, plantas industriales y redes comerciales marcan la expansión de compañías que buscan nuevos consumidores y oportunidades de negocio en ambos mercados.",
+      "link": "https://expansion.mx/empresas/2026/11/17/empresas-mexicanas-en-china-y-chinas-en-mexico",
+      "fecha": "17 Nov 2026, 15:11 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "El 90% de concesionarios de radio y TV ya implementó los lineamientos de derechos de las audiencias",
+      "resumen": "La CRT informó que la mayoría de los concesionarios cumplió con las nuevas disposiciones, que establecen códigos de ética y sanciones de hasta 1% de sus ingresos acumulables por incumplimiento.",
+      "link": "https://expansion.mx/empresas/2026/11/17/concesionarios-radio-tv-lineamientos-derechos-audiencias",
+      "fecha": "17 Nov 2026, 13:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De 5G a 3G, por qué los celulares cambian de red mientras te desplazas",
       "resumen": "La disponibilidad de antenas, la intensidad de la señal y los acuerdos entre operadores determinan a qué red se conecta un teléfono. Los cambios también pueden afectar la duración de la batería.",
       "link": "https://expansion.mx/empresas/2026/11/16/por-que-los-celulares-cambian-de-red-5g-4g-3g",
@@ -129,22 +147,31 @@
       "fecha": "13 Nov 2026, 17:18 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Farmacias del Ahorro acuerda comprar más de 96% de Farmacias Benavides",
-      "resumen": "De consolidarse la transacción, la red de farmacias sumaría alrededor de 3,000 unidades y hará frente a otras cadenas como Farmacias Similares",
-      "link": "https://expansion.mx/empresas/2026/11/13/farmacias-del-ahorro-acuerda-comprar-a-farmacias-benavides",
-      "fecha": "13 Nov 2026, 15:12 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reducirán ruido de aeronaves modificación de rutas aéreas",
+      "resumen": "Nuevas rutas de salida en el AICM podrían reducir el ruido y operar desde marzo o abril de 2027, informó Aeronáutica Segura, Menos Ruido.",
+      "link": "https://www.reforma.com/reduciran-ruido-de-aeronaves-modificacion-de-rutas-aereas/ar3316547",
+      "fecha": "17 Nov 2026, 21:10 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Antes de Chivas y Omnilife, Jorge Vergara madrugaba a las 4:00 de la mañana para vender carnitas",
-      "resumen": "Antes de Chivas y Omnilife, Jorge Vergara enfrentó una quiebra y probó suerte con las carnitas; el giro decisivo llegó después.",
-      "link": "https://expansion.mx/empresas/2026/11/13/antes-de-chivas-omnilife-jorge-vergara-vendia-carnitas",
-      "fecha": "13 Nov 2026, 12:57 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Aumenta precio de vivienda por falta de inventario",
+      "resumen": "Inventario de vivienda en la ZMVM cayó 12.9% anual, mientras que el precio por metro cuadrado subió 9.3%, a 56 mil 785 pesos, reveló Tinsa",
+      "link": "https://www.reforma.com/aumenta-precio-de-vivienda-por-falta-de-inventario/ar3316481",
+      "fecha": "17 Nov 2026, 19:18 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Prevé Mexicana crecimiento de 30% en transporte de pasajeros",
+      "resumen": "Mexicana de Aviación proyecta cerrar 2026 con un crecimiento superior al 30% en transporte de pasajeros.",
+      "link": "https://www.reforma.com/preve-mexicana-crecimiento-de-30-en-transporte-de-pasajeros/ar3316413",
+      "fecha": "17 Nov 2026, 18:06 hrs"
     },
     {
       "fuente": "Reforma",
@@ -189,33 +216,6 @@
       "titulo": "Caen mercados de EU: Dow Jones pierde cerca de 900 puntos",
       "resumen": "Al cierre de mercados, el Dow Jones registró una caída de 1.68%, u 862 puntos; el S&amp;P 500 bajó 1.02%, mientras que el Nasdaq cayó 0.74%.",
       "link": "https://www.reforma.com/caen-mercados-de-eu-dow-jones-pierde-cerca-de-900-puntos/ar3316263",
-      "fecha": "17 Nov 2026, 15:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alertan por déficit de 5% y pérdida de credibilidad fiscal",
-      "resumen": "IMEF advirtió que es muy probable que el déficit público de 2026 sea mayor al estimado por Hacienda y llegue a un nivel cercano al 5%.",
-      "link": "https://www.reforma.com/alertan-por-deficit-de-5-y-perdida-de-credibilidad-fiscal/ar3316256",
-      "fecha": "17 Nov 2026, 15:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Tienen aún 1,620 municipios pobre inclusión financiera",
-      "resumen": "Si bien la inclusión financiera ha avanzado, mil 20 municipios tienen un nivel muy bajo y 600 una escala baja, reveló un estudio de Banamex.",
-      "link": "https://www.reforma.com/tienen-aun-1-620-municipios-pobre-inclusion-financiera/ar3316253",
-      "fecha": "17 Nov 2026, 15:10 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Proyecta AIFA cerrar año con 7% más de pasajeros que en 2025",
-      "resumen": "Para este año, se espera que el AIFA cierre con un aumento de 7 por ciento en el flujo de pasajeros, respecto a 2025.",
-      "link": "https://www.reforma.com/proyecta-aifa-cerrar-ano-con-7-mas-de-pasajeros-que-en-2025/ar3316210",
       "fecha": "17 Nov 2026, 15:10 hrs"
     }
   ]
