@@ -1,7 +1,34 @@
 {
-  "actualizado": "19/11/2026 00:07 hrs",
+  "actualizado": "19/11/2026 10:19 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Los aumentos salariales y el \"Súper Niño\" le ponen presión al alza de precios, advierte Banxico",
+      "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
+      "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
+      "fecha": "19 Nov 2026, 10:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
+      "resumen": "Entre ambas instituciones suman más de 18 millones de tarjetas en el mercado, pero los CAT que cobran a sus usuarios se ubican entre 150% y 169%.",
+      "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
+      "fecha": "19 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "China le deja más dinero a México por aranceles, pero 24% menos de lo que esperaba",
+      "resumen": "El alza de aranceles a productos asiáticos y de impuestos a ciertos envíos de paquetería encarece las compras del extranjero, mientras la recaudación avanza por debajo de lo proyectado por Hacienda.",
+      "link": "https://expansion.mx/economia/2026/11/18/mexico-aranceles-china-recaudacion-menor-previsto-hacienda",
+      "fecha": "18 Nov 2026, 17:27 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "Si bien se redujo el total de la recaudación a este grupo de contribuyentes, el promedio por cada auditoría pasó de 255 millones de pesos a 336 millones, según información de la SHCP.",
       "link": "https://expansion.mx/economia/2026/11/18/sat-recaudacion-fiscalizacion-grandes-contribuyentes",
       "fecha": "18 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Agroindustria nacional ve “inaceptable” que EU venda libremente y frene al campo mexicano",
-      "resumen": "El tomate y la fresa ilustran el reclamo del campo mexicano en la revisión del T-MEC. El Consejo Nacional Agropecuario exige que sus exportaciones compitan en condiciones parejas.",
-      "link": "https://expansion.mx/economia/2026/11/17/cna-restricciones-campo-mexicano-eu-tmec",
-      "fecha": "17 Nov 2026, 17:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Mexicanos abandonan las cuentas de ahorro tradicionales para buscar mejores rendimientos, revela Banamex",
-      "resumen": "El Índice Banamex de Inclusión Financiera 2026 revela que el uso de cuentas de ahorro cayó 3.2%. El banco considera que la Ley de Economía Digital fortalecerá a herramientas como CoDi y DiMo.",
-      "link": "https://expansion.mx/economia/2026/11/17/mexicanos-abandonan-las-cuentas-de-ahorro-tradicionales-para-buscar-mejores-rendimientos-revela-banamex",
-      "fecha": "17 Nov 2026, 15:40 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Trabajar después de los 50 años: el reto que debe atender México antes de elevar la edad de retiro",
-      "resumen": "Solo 7 de cada 100 personas de 55 a 60 años cuenta con un empleo formal en el país",
-      "link": "https://expansion.mx/economia/2026/11/17/50-anos-eres-grande-trabajar-joven-para-retirarte-crisis",
-      "fecha": "17 Nov 2026, 14:27 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,51 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Frena regulación inversión de empresas",
+      "resumen": "El principal desafío que enfrentan las empresa al planear inversiones es la incertidumbre regulatoria, afirmó Edmundo Rodarte, CEO de Cydsa.",
+      "link": "https://www.reforma.com/frena-regulacion-inversion-de-empresas/ar3317318",
+      "fecha": "19 Nov 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Dan fundadores de Anthropic campanazo en el Nasdaq",
+      "resumen": "Los fundadores del laboratorio de inteligencia artificial Anthropic, Dario y Daniela Amodei, han dado el campanazo de apertura del Nasdaq.",
+      "link": "https://www.reforma.com/dan-fundadores-de-anthropic-campanazo-en-el-nasdaq/ar3317517",
+      "fecha": "19 Nov 2026, 08:53 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Urgen en aduanas más infraestructura",
+      "resumen": "Sugieren en Comce aplicar ingresos récord para mejorar operaciones en Aduanas.",
+      "link": "https://www.reforma.com/urgen-en-aduanas-mas-infraestructura/ar3317314",
+      "fecha": "19 Nov 2026, 07:03 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Advierten rezago laboral en apps",
+      "resumen": "La reducción de la jornada laboral no necesariamente beneficiará a los conductores y repartidores de plataformas digitales, advierte UNTA.",
+      "link": "https://www.reforma.com/advierten-rezago-laboral-en-apps/ar3317275",
+      "fecha": "19 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Frena a CFOs lentitud para invertir en IA",
+      "resumen": "El 54% de los CFOs en México admite que su asignación de capital para IA es lenta para adaptarse, frente a 38% global, según IBM.",
+      "link": "https://www.reforma.com/frena-a-cfos-lentitud-para-invertir-en-ia/ar3317194",
+      "fecha": "19 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Recauda CFE 776 mdd mediante oferta de acciones",
       "resumen": "CFE recaudó 776 millones de dólares con una oferta de acciones de filial CFE Capital para financiar nuevas líneas de transmisión eléctrica.",
       "link": "https://www.reforma.com/recauda-cfe-776-mdd-mediante-oferta-de-acciones/ar3317372",
@@ -159,64 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cerrará sector de construcción con crecimiento de hasta 3%",
-      "resumen": "Tras un período complejo de casi dos años, industria de la construcción prevé cerrar el año con un crecimiento de hasta 3%, afirmó CMIC.",
-      "link": "https://www.reforma.com/cerrara-sector-de-construccion-con-crecimiento-de-hasta-3/ar3317277",
-      "fecha": "18 Nov 2026, 20:03 hrs"
+      "titulo": "Baja IA planes de contratación en firmas",
+      "resumen": "En México, 17.5% de los negocios que san IA ha evitado contrataciones previstas y 6.7% ha reemplazado puestos existentes, reveló ASEM.",
+      "link": "https://www.reforma.com/baja-ia-planes-de-contratacion-en-firmas/ar3317183",
+      "fecha": "19 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Logra Anthropic la mayor salida a bolsa de la historia",
-      "resumen": "La salida a bolsa de Anthropic ha recaudado 107 mil 300 mdd, superando la operación de SpaceX, para convertirse en la mayor de la historia.",
-      "link": "https://www.reforma.com/logra-anthropic-la-mayor-salida-a-bolsa-de-la-historia/ar3317280",
-      "fecha": "18 Nov 2026, 19:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Mantienen transportistas amago de paro pese a acuerdos",
-      "resumen": "Pese a acuerdos con Gobierno federal, Canacar, Fematrac, Hamotac e Indeco amagan con nuevos paros si siguen los robos.",
-      "link": "https://www.reforma.com/mantienen-transportistas-amago-de-paro-pese-a-acuerdos/ar3317199",
-      "fecha": "18 Nov 2026, 18:03 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Presionan pensiones finanzas de estados.- Moody's",
-      "resumen": "Desaceleración de ingresos y creciente gasto en pensiones reducirán margen financiero de estados para cubrir obligaciones, dijo Moody's.",
-      "link": "https://www.reforma.com/presionan-pensiones-finanzas-de-estados-moody-s/ar3317186",
-      "fecha": "18 Nov 2026, 17:47 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Padece peso peor sesión desde abril de 2025",
-      "resumen": "El peso sufrió su peor sesión desde el 4 de abril de 2025, ya que el dólar subió 44.44 centavos este miércoles, a $18.86.",
-      "link": "https://www.reforma.com/padece-peso-peor-sesion-desde-abril-de-2025/ar3317174",
-      "fecha": "18 Nov 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Va México en la cuerda floja ; ven descarrilamiento fiscal",
-      "resumen": "De desviarse la consolidación fiscal se perdería el grado de inversión, dijo Julio Santaella, asesor de la Junta de Gobierno del Banxico.",
-      "link": "https://www.reforma.com/va-mexico-en-la-cuerda-floja-ven-descarrilamiento-fiscal/ar3317127",
-      "fecha": "18 Nov 2026, 17:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Suspende Meta el plan de venta de acciones de Zuckerberg",
-      "resumen": "Meta Platforms ha suspendido el plan de venta de acciones de Mark Zuckerberg en medio de una disputa legal con inversionistas.",
-      "link": "https://www.reforma.com/suspende-meta-el-plan-de-venta-de-acciones-de-zuckerberg/ar3317085",
-      "fecha": "18 Nov 2026, 15:52 hrs"
+      "titulo": "Reporta 80% daño en salud mental",
+      "resumen": "El 80% de las personas manifiesta algún síntoma de deterioro en su salud mental, como estrés, ansiedad o fatiga, advierte Metlife.",
+      "link": "https://www.reforma.com/reporta-80-dano-en-salud-mental/ar3317272",
+      "fecha": "19 Nov 2026, 05:01 hrs"
     }
   ]
 }
