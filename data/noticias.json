@@ -1,5 +1,5 @@
 {
-  "actualizado": "18/11/2026 17:16 hrs",
+  "actualizado": "19/11/2026 00:07 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,24 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Mientras el Olinia costará 150,000 pesos, el Mitsubishi eK X EV vale 293,568, recorre 180 km y tiene frenado automático",
+      "resumen": "El eléctrico japonés ya se vende en su país, mientras Olinia apuesta por otra combinación de precio, capacidad de pasajeros y recarga doméstica.",
+      "link": "https://expansion.mx/empresas/2026/11/18/olinia-uno-vs-mitsubishi-ek-x-ev-precio-autonomia",
+      "fecha": "18 Nov 2026, 19:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mientras Slim cierra Sanborns, iShop crece con los iPhone y gana terreno dentro del imperio comercial de su familia",
+      "resumen": "iShop y Mixup concentran buena parte del crecimiento de Grupo Sanborns, que busca ampliar su presencia con tiendas enfocadas en tecnología y entretenimiento. A la par, Sears y Sanborns están enfrentan…",
+      "link": "https://expansion.mx/empresas/2026/11/18/cierra-sanborns-ishop-iphone-gana-terreno-imperio-familia",
+      "fecha": "18 Nov 2026, 18:03 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "De comprar a los San Francisco 49ers por 13 millones a construir un imperio de 10,500 millones: esta es la familia dueña",
       "resumen": "El equipo de Santa Clara, que jugará en territorio mexicano por tercera vez en su historia, ha estado bajo el mando de la misma familia por casi 50 años.",
       "link": "https://expansion.mx/empresas/2026/11/18/esta-es-la-familia-duena-de-los-san-francisco-49ers",
@@ -129,94 +147,76 @@
       "fecha": "17 Nov 2026, 15:11 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El 90% de concesionarios de radio y TV ya implementó los lineamientos de derechos de las audiencias",
-      "resumen": "La CRT informó que la mayoría de los concesionarios cumplió con las nuevas disposiciones, que establecen códigos de ética y sanciones de hasta 1% de sus ingresos acumulables por incumplimiento.",
-      "link": "https://expansion.mx/empresas/2026/11/17/concesionarios-radio-tv-lineamientos-derechos-audiencias",
-      "fecha": "17 Nov 2026, 13:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De 5G a 3G, por qué los celulares cambian de red mientras te desplazas",
-      "resumen": "La disponibilidad de antenas, la intensidad de la señal y los acuerdos entre operadores determinan a qué red se conecta un teléfono. Los cambios también pueden afectar la duración de la batería.",
-      "link": "https://expansion.mx/empresas/2026/11/16/por-que-los-celulares-cambian-de-red-5g-4g-3g",
-      "fecha": "16 Nov 2026, 15:05 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Recauda CFE 776 mdd mediante oferta de acciones",
+      "resumen": "CFE recaudó 776 millones de dólares con una oferta de acciones de filial CFE Capital para financiar nuevas líneas de transmisión eléctrica.",
+      "link": "https://www.reforma.com/recauda-cfe-776-mdd-mediante-oferta-de-acciones/ar3317372",
+      "fecha": "18 Nov 2026, 22:14 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Pide Banxico no confundir inacción con prudencia",
-      "resumen": "Ante las críticas al Banxico por recortar la tasa de interés, el subgobernador Omar Mejía pidió no confundir la inacción con la prudencia.",
-      "link": "https://www.reforma.com/pide-banxico-no-confundir-inaccion-con-prudencia/ar3316960",
-      "fecha": "18 Nov 2026, 14:16 hrs"
+      "titulo": "Cerrará sector de construcción con crecimiento de hasta 3%",
+      "resumen": "Tras un período complejo de casi dos años, industria de la construcción prevé cerrar el año con un crecimiento de hasta 3%, afirmó CMIC.",
+      "link": "https://www.reforma.com/cerrara-sector-de-construccion-con-crecimiento-de-hasta-3/ar3317277",
+      "fecha": "18 Nov 2026, 20:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sugieren salario mínimo de 345 pesos al día",
-      "resumen": "Sugiere Acción Ciudadana Frente a la Pobreza subir el salario mínimo de 315 a 345 pesos diarios el próximo año.",
-      "link": "https://www.reforma.com/sugieren-salario-minimo-de-345-pesos-al-dia/ar3316948",
-      "fecha": "18 Nov 2026, 14:16 hrs"
+      "titulo": "Logra Anthropic la mayor salida a bolsa de la historia",
+      "resumen": "La salida a bolsa de Anthropic ha recaudado 107 mil 300 mdd, superando la operación de SpaceX, para convertirse en la mayor de la historia.",
+      "link": "https://www.reforma.com/logra-anthropic-la-mayor-salida-a-bolsa-de-la-historia/ar3317280",
+      "fecha": "18 Nov 2026, 19:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exige Coparmex elegir al presidente del INE por mérito",
-      "resumen": "Coparmex exigió a los legisladores que designación de la próxima presidencia del INE se realice basada en conocimientos y transparencia.",
-      "link": "https://www.reforma.com/exige-coparmex-elegir-al-presidente-del-ine-por-merito/ar3317006",
-      "fecha": "18 Nov 2026, 14:36 hrs"
+      "titulo": "Mantienen transportistas amago de paro pese a acuerdos",
+      "resumen": "Pese a acuerdos con Gobierno federal, Canacar, Fematrac, Hamotac e Indeco amagan con nuevos paros si siguen los robos.",
+      "link": "https://www.reforma.com/mantienen-transportistas-amago-de-paro-pese-a-acuerdos/ar3317199",
+      "fecha": "18 Nov 2026, 18:03 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén que más empresas se sumen a Resico",
-      "resumen": "Se espera que para 2027 más pequeñas empresas se sumen al Resico, debido a que amplió sus beneficios, consideró el SAT.",
-      "link": "https://www.reforma.com/preven-que-mas-empresas-se-sumen-a-resico/ar3316863",
-      "fecha": "18 Nov 2026, 11:41 hrs"
+      "titulo": "Presionan pensiones finanzas de estados.- Moody's",
+      "resumen": "Desaceleración de ingresos y creciente gasto en pensiones reducirán margen financiero de estados para cubrir obligaciones, dijo Moody's.",
+      "link": "https://www.reforma.com/presionan-pensiones-finanzas-de-estados-moody-s/ar3317186",
+      "fecha": "18 Nov 2026, 17:47 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Fija Anthropic el precio de su salida a bolsa en 83 dólares",
-      "resumen": "Anthropic fijó el precio de su salida a bolsa en 83 dólares por acción, por encima del rango previsto, según fuentes cercanas a la empresa.",
-      "link": "https://www.reforma.com/fija-anthropic-el-precio-de-su-salida-a-bolsa-en-83-dolares/ar3317070",
-      "fecha": "18 Nov 2026, 15:34 hrs"
+      "titulo": "Padece peso peor sesión desde abril de 2025",
+      "resumen": "El peso sufrió su peor sesión desde el 4 de abril de 2025, ya que el dólar subió 44.44 centavos este miércoles, a $18.86.",
+      "link": "https://www.reforma.com/padece-peso-peor-sesion-desde-abril-de-2025/ar3317174",
+      "fecha": "18 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan en la Fed más alzas a su tasa",
-      "resumen": "Algunos de los miembros de la Fed dijeron que subiría medio punto porcentual la tasa si los datos de inflación resultan desfavorables.",
-      "link": "https://www.reforma.com/esperan-en-la-fed-mas-alzas-a-su-tasa/ar3316984",
-      "fecha": "18 Nov 2026, 14:16 hrs"
+      "titulo": "Va México en la cuerda floja ; ven descarrilamiento fiscal",
+      "resumen": "De desviarse la consolidación fiscal se perdería el grado de inversión, dijo Julio Santaella, asesor de la Junta de Gobierno del Banxico.",
+      "link": "https://www.reforma.com/va-mexico-en-la-cuerda-floja-ven-descarrilamiento-fiscal/ar3317127",
+      "fecha": "18 Nov 2026, 17:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Deja de pertenecer Imjuve a la Secretaría del Trabajo",
-      "resumen": "El Imjuve dejará de ser administrado por la STPS para reforzar los programas dirigidos a los jóvenes, según un decreto del DOF.",
-      "link": "https://www.reforma.com/deja-de-pertenecer-imjuve-a-la-secretaria-del-trabajo/ar3316891",
-      "fecha": "18 Nov 2026, 12:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Requiere vivienda 200 subestaciones eléctricas",
-      "resumen": "El desarrollo habitacional requiere alrededor de 200 subestaciones eléctricas para reforzar la red de distribución, advirtió Canadevi.",
-      "link": "https://www.reforma.com/requiere-vivienda-200-subestaciones-electricas/ar3316950",
-      "fecha": "18 Nov 2026, 14:16 hrs"
+      "titulo": "Suspende Meta el plan de venta de acciones de Zuckerberg",
+      "resumen": "Meta Platforms ha suspendido el plan de venta de acciones de Mark Zuckerberg en medio de una disputa legal con inversionistas.",
+      "link": "https://www.reforma.com/suspende-meta-el-plan-de-venta-de-acciones-de-zuckerberg/ar3317085",
+      "fecha": "18 Nov 2026, 15:52 hrs"
     }
   ]
 }
