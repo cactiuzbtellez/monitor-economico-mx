@@ -1,5 +1,5 @@
 {
-  "actualizado": "20/11/2026 08:57 hrs",
+  "actualizado": "20/11/2026 16:11 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,42 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "La fábrica de chocolates de Carlos Slim en CDMX que pocos conocen y esconde un negocio histórico detrás de Sanborns",
+      "resumen": "Cacao de Tabasco, procesos manuales y una planta en plena Ciudad de México forman parte de la historia de este negocio de confitería del ingeniero.",
+      "link": "https://expansion.mx/empresas/2026/11/20/carlos-slim-y-su-fabrica-de-chocolate-en-sanborns",
+      "fecha": "20 Nov 2026, 15:56 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Telcel falla este viernes: usuarios reportan problemas para hacer llamadas y conectarse a internet",
+      "resumen": "La empresa explicó que el problema estivo asociado a una degradación en localidades de la región 9 que implican, CDMX, Morelos, entre otras. La red aún presenta intermitencias.",
+      "link": "https://expansion.mx/empresas/2026/11/20/telcel-falla-este-viernes-problemas-para-hacer-llamadas",
+      "fecha": "20 Nov 2026, 12:43 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De criar 50 pollitas a tener 40 millones de gallinas: la historia detrás de Huevo San Juan y la familia Romo de Jalisco",
+      "resumen": "Manuel Romo Muñoz fundó PROAN en 1954. Siete décadas después, el grupo produce huevo, carne de cerdo, leche, panadería y alimentos para mascotas.",
+      "link": "https://expansion.mx/empresas/2026/11/20/huevo-san-juan-historia-familia-romo-y-su-imperio",
+      "fecha": "20 Nov 2026, 11:57 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Mazda eliminará la transmisión manual y ajustará los precios de su compacto Mazda3 a partir de 2027",
+      "resumen": "El Mazda3 2027 llega a México con menos configuraciones mecánicas, más asistencias de conducción y ajustes de precios en sus carrocerías sedán y hatchback.",
+      "link": "https://expansion.mx/empresas/2026/11/20/mazda3-2027-adios-transmision-manual-precios-versiones-mexico",
+      "fecha": "20 Nov 2026, 08:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Los 4,000 millones de pesos que Carlos Slim quiere invertir en Puebla dependen de una sola autorización",
       "resumen": "El proyecto inmobiliario de Carlos Slim contempla departamentos, oficinas, comercios y la rehabilitación de seis inmuebles, pero su construcción depende de los permisos correspondientes.",
       "link": "https://expansion.mx/empresas/2026/11/19/carlos-slim-quiere-invertir-puebla-dependen-de-autorizacion",
@@ -111,67 +147,58 @@
       "fecha": "19 Nov 2026, 15:54 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "BMW X7 2027 combina lujo, amplitud y tecnología en cada trayecto",
-      "resumen": "Con tres filas de asientos, motor Mild Hybrid de seis cilindros y tecnología de asistencia a la conducción, el BMW X7 xDrive40i 2027 reúne espacio, dinamismo y confort para distintos estilos de viaje.",
-      "link": "https://expansion.mx/empresas/2026/11/19/bmw-x7-2027-combina-lujo-y-tecnologia",
-      "fecha": "19 Nov 2026, 15:42 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La industria automotriz ya ve señales de escasez chips, pero esta vez el culpable no es una pandemia, sino la IA",
-      "resumen": "La expansión de la inteligencia artificial está desviando la producción de semiconductores hacia mercados que pagan más, una presión que complicará el abastecimiento de las automotrices en los siguien…",
-      "link": "https://expansion.mx/empresas/2026/11/19/industria-automotriz-escasez-chips-inteligencia-artificial",
-      "fecha": "19 Nov 2026, 10:52 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras el Olinia costará 150,000 pesos, el Mitsubishi eK X EV vale 293,568, recorre 180 km y tiene frenado automático",
-      "resumen": "El eléctrico japonés ya se vende en su país, mientras Olinia apuesta por otra combinación de precio, capacidad de pasajeros y recarga doméstica.",
-      "link": "https://expansion.mx/empresas/2026/11/18/olinia-uno-vs-mitsubishi-ek-x-ev-precio-autonomia",
-      "fecha": "18 Nov 2026, 19:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mientras Slim cierra Sanborns, iShop crece con los iPhone y gana terreno dentro del imperio comercial de su familia",
-      "resumen": "iShop y Mixup concentran buena parte del crecimiento de Grupo Sanborns, que busca ampliar su presencia con tiendas enfocadas en tecnología y entretenimiento. A la par, Sears y Sanborns están enfrentan…",
-      "link": "https://expansion.mx/empresas/2026/11/18/cierra-sanborns-ishop-iphone-gana-terreno-imperio-familia",
-      "fecha": "18 Nov 2026, 18:03 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Ofrece SAT renovación de e.firma por internet",
+      "resumen": "Las personas podrán renovar su e.firma vía internet, siempre y cuando haya vencido hace menos de un año, informó el SAT.",
+      "link": "https://www.reforma.com/ofrece-sat-renovacion-de-e-firma-por-internet/ar3318392",
+      "fecha": "20 Nov 2026, 12:16 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revisará Conasami el salario mínimo profesional",
-      "resumen": "Salarios mínimos profesionales serán objeto de revisión en el marco de las discusiones en Comisión Nacional de Salarios Mínimos (Conasami).",
-      "link": "https://www.reforma.com/revisara-conasami-el-salario-minimo-profesional/ar3318096",
-      "fecha": "20 Nov 2026, 05:02 hrs"
+      "titulo": "Prevén otro año  sólido en Bolsa",
+      "resumen": "La BMV espera que este año el financiamiento obtenido por las empresas, a través de ésta, sea igual de positivo que los resultados de 2025.",
+      "link": "https://www.reforma.com/preven-otro-ano-solido-en-bolsa/ar3318406",
+      "fecha": "20 Nov 2026, 12:40 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Dificulta 'El Niño' agricultura de México",
-      "resumen": "El Niño será el mayor reto para producir granos básicos en México y el mundo el próximo año, advierte Bram Govaerts, del Cimmyt",
-      "link": "https://www.reforma.com/dificulta-el-nino-agricultura-de-mexico/ar3318080",
-      "fecha": "20 Nov 2026, 05:02 hrs"
+      "titulo": "Afectan intermitencias a usuarios de telefónicas",
+      "resumen": "Usuarios de telefónicas sufrieron fallas en llamadas e internet móvil; Telcel reconoció las intermitencias en CDMX y otras entidades.",
+      "link": "https://www.reforma.com/afectan-intermitencias-a-usuarios-de-telefonicas/ar3318433",
+      "fecha": "20 Nov 2026, 13:08 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reconocen pasivos por 7,723 mdp en Préstamo Feliz",
-      "resumen": "Acreedores acumulan pasivos que les adeudan por 7 mil 723 mdp, de acuerdo a una sentencia del 18 de noviembre",
-      "link": "https://www.reforma.com/reconocen-pasivos-por-7-723-mdp-en-prestamo-feliz/ar3318017",
-      "fecha": "20 Nov 2026, 07:08 hrs"
+      "titulo": "Se desploman mercados de EU; cae Nasdaq más de 5%",
+      "resumen": "El Nasdaq cerró con una baja de 5.28%, el S&amp;P 500 cayó 3.69% y el Dow Jones 1.93%; Nvidia y Anthropic bajaron 13.8 y 8.74%, respectivamente.",
+      "link": "https://www.reforma.com/se-desploman-mercados-de-eu-cae-nasdaq-mas-de-5/ar3318525",
+      "fecha": "20 Nov 2026, 15:12 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Investiga SEC contabilidad de Nvidia",
+      "resumen": "La Comisión de Bolsa y Valores de EU investiga las prácticas contables de Nvidia, en medio de desafíos que enfrenta el fabricante de chips.",
+      "link": "https://www.reforma.com/investiga-sec-contabilidad-de-nvidia/ar3318502",
+      "fecha": "20 Nov 2026, 14:36 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Suben casos de gusano barrenador en EU",
+      "resumen": "Según el USDA, se han detectado 64 contagios del gusano barrenador a cabezas de ganado, perros, caballos y otros animales en noviembre.",
+      "link": "https://www.reforma.com/suben-casos-de-gusano-barrenador-en-eu/ar3318370",
+      "fecha": "20 Nov 2026, 11:58 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan banco de horas y mantener productividad",
-      "resumen": "Una de las alternativas que analizan las empresas ante la reducción de la jornada laboral es implementar un banco de horas.",
-      "link": "https://www.reforma.com/analizan-banco-de-horas-y-mantener-productividad/ar3318130",
-      "fecha": "20 Nov 2026, 07:08 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Caen acciones de Anthropic más de 8%",
-      "resumen": "Las acciones de Anthropic caían un 8.35%, a 91.16 dólares, en su primer día completo de cotización en el Nasdaq.",
-      "link": "https://www.reforma.com/caen-acciones-de-anthropic-mas-de-8/ar3318267",
-      "fecha": "20 Nov 2026, 07:26 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Destacan rol de México en la APEC",
-      "resumen": "La visita de la Presidenta Claudia Sheinbaum a la APEC deja un presente sobre el interés de México de diversificar sus alianzas comerciales.",
-      "link": "https://www.reforma.com/destacan-rol-de-mexico-en-la-apec/ar3318091",
-      "fecha": "20 Nov 2026, 05:02 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Confía UE concretar acuerdo comercial con México este año",
-      "resumen": "Comisario de Agricultura de la UE, Christophe Hansen, confía que el Senado mexicano aprobara el pacto europeo antes de fin de año.",
-      "link": "https://www.reforma.com/confia-ue-concretar-acuerdo-comercial-con-mexico-este-ano/ar3318271",
-      "fecha": "20 Nov 2026, 07:57 hrs"
+      "titulo": "Resuelven con Claude otro de los 'Problemas del Milenio'",
+      "resumen": "Levent Alpöge, miembro del equipo técnico de Anthropic, afirmó haber resuelto la hipótesis de Riemann sobre números primos usando Claude.",
+      "link": "https://www.reforma.com/resuelven-con-claude-otro-de-los-problemas-del-milenio/ar3318561",
+      "fecha": "20 Nov 2026, 16:01 hrs"
     }
   ]
 }
