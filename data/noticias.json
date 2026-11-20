@@ -1,52 +1,7 @@
 {
-  "actualizado": "19/11/2026 17:24 hrs",
+  "actualizado": "19/11/2026 23:54 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vive el mejor momento para la digitalización, dice Mastercard",
-      "resumen": "Directivos de la firma ya trabajan con gasolineras y han mantenido reuniones con autoridades ante la próxima entrada en vigor de la ley de Economía Digital",
-      "link": "https://expansion.mx/economia/2026/11/19/mexico-vive-el-mejor-momento-para-la-digitalizacion-dice-mastercard",
-      "fecha": "19 Nov 2026, 16:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Incremento del salario mínimo en 2027 enciende alertas sobre alzas en precios",
-      "resumen": "Especialistas consideran que aún hay espacio para el alza salarial; sin embargo, entre 2028 y 2030, los ajustes coincidirían con la reducción de la jornada laboral, mientras la productividad no avanza…",
-      "link": "https://expansion.mx/economia/2026/11/19/incremento-del-salario-minimo-en-2027-enciende-alertas-sobre-alzas-en-precios",
-      "fecha": "19 Nov 2026, 16:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México ya sabe comprarle a China y sus empresarios miran a Brasil y Chile para aprender a venderle",
-      "resumen": "En Shenzhen, el CCE planteó cómo aumentar las exportaciones nacionales a China, un mercado del que México importa 13 dólares por cada dólar que exporta.",
-      "link": "https://expansion.mx/economia/2026/11/19/brasil-y-chile-la-referencia-de-mexico-para-vender-a-china",
-      "fecha": "19 Nov 2026, 13:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los aumentos salariales y el \"Súper Niño\" le ponen presión al alza de precios, advierte Banxico",
-      "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
-      "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
-      "fecha": "19 Nov 2026, 10:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
-      "resumen": "Entre ambas instituciones suman más de 18 millones de tarjetas en el mercado, pero los CAT que cobran a sus usuarios se ubican entre 150% y 169%.",
-      "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
-      "fecha": "19 Nov 2026, 05:55 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +28,69 @@
       "resumen": "El pasado 5 de noviembre, la Junta de Gobierno de Banco de México decidió, con tres votos a favor y dos en contra, la reducción en la tasa",
       "link": "https://expansion.mx/economia/2026/11/18/subgobernador-de-banxico-omar-mejia-descarta-sorpresa-en-recorte-de-tasa-a-6-25-y-destaca-prudencia-del-banco-central",
       "fecha": "18 Nov 2026, 12:45 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Deutsche Bank en México: Vendió su licencia a Citi y los fideicomisos a CIBanco",
+      "resumen": "El banco de origen alemán tiene presencia en el país desde 1902, pero en 2015 decidió no priorizar el mercado mexicano",
+      "link": "https://expansion.mx/economia/2026/11/18/deutsche-bank-en-mexico-vendio-su-licencia-a-citi-y-los-fideicomisos-a-cibanco",
+      "fecha": "18 Nov 2026, 11:38 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Meade alerta por reto permanente de encajar programas sociales en presupuesto y cumplir con paquete económico en 2027",
+      "resumen": "El excandidato presidencial señaló que el año próximo las condiciones están dadas para que la economía mexicana se muestre sólida",
+      "link": "https://expansion.mx/economia/2026/11/18/meade-alerta-por-reto-permanente-de-encajar-programas-sociales-en-presupuesto-y-cumplir-con-paquete-economico-en-2027",
+      "fecha": "18 Nov 2026, 11:19 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El SAT obtiene menos ingresos de los grandes empresarios, ¿se acabó la cacería de brujas?",
+      "resumen": "Si bien se redujo el total de la recaudación a este grupo de contribuyentes, el promedio por cada auditoría pasó de 255 millones de pesos a 336 millones, según información de la SHCP.",
+      "link": "https://expansion.mx/economia/2026/11/18/sat-recaudacion-fiscalizacion-grandes-contribuyentes",
+      "fecha": "18 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Agroindustria nacional ve “inaceptable” que EU venda libremente y frene al campo mexicano",
+      "resumen": "El tomate y la fresa ilustran el reclamo del campo mexicano en la revisión del T-MEC. El Consejo Nacional Agropecuario exige que sus exportaciones compitan en condiciones parejas.",
+      "link": "https://expansion.mx/economia/2026/11/17/cna-restricciones-campo-mexicano-eu-tmec",
+      "fecha": "17 Nov 2026, 17:46 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Mexicanos abandonan las cuentas de ahorro tradicionales para buscar mejores rendimientos, revela Banamex",
+      "resumen": "El Índice Banamex de Inclusión Financiera 2026 revela que el uso de cuentas de ahorro cayó 3.2%. El banco considera que la Ley de Economía Digital fortalecerá a herramientas como CoDi y DiMo.",
+      "link": "https://expansion.mx/economia/2026/11/17/mexicanos-abandonan-las-cuentas-de-ahorro-tradicionales-para-buscar-mejores-rendimientos-revela-banamex",
+      "fecha": "17 Nov 2026, 15:40 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Los 4,000 millones de pesos que Carlos Slim quiere invertir en Puebla dependen de una sola autorización",
+      "resumen": "El proyecto inmobiliario de Carlos Slim contempla departamentos, oficinas, comercios y la rehabilitación de seis inmuebles, pero su construcción depende de los permisos correspondientes.",
+      "link": "https://expansion.mx/empresas/2026/11/19/carlos-slim-quiere-invertir-puebla-dependen-de-autorizacion",
+      "fecha": "19 Nov 2026, 19:29 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "De Liverpool a Palacio de Hierro y Herdez, las empresas mexicanas que sobrevivieron a la Revolución Mexicana",
+      "resumen": "La Revolución Mexicana marcó un antes y un después en la historia del país, pero también fue un periodo que atravesaron negocios que hoy son gigantes empresariales.",
+      "link": "https://expansion.mx/empresas/2026/11/19/empresas-mexicanas-sobrevivieron-revolucion-mexicana",
+      "fecha": "19 Nov 2026, 18:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -129,40 +147,40 @@
       "fecha": "18 Nov 2026, 18:03 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De comprar a los San Francisco 49ers por 13 millones a construir un imperio de 10,500 millones: esta es la familia dueña",
-      "resumen": "El equipo de Santa Clara, que jugará en territorio mexicano por tercera vez en su historia, ha estado bajo el mando de la misma familia por casi 50 años.",
-      "link": "https://expansion.mx/empresas/2026/11/18/esta-es-la-familia-duena-de-los-san-francisco-49ers",
-      "fecha": "18 Nov 2026, 16:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "SCJN avala que Telcel, AT&T, Movistar y OMV almacenen datos de los usuarios por dos años",
-      "resumen": "Las compañías podrán almacenar números telefónicos, horarios, duración de llamadas y geolocalización, pero no el contenido de las conversaciones, además, la Corte estableció límites para el acceso de …",
-      "link": "https://expansion.mx/empresas/2026/11/18/scjn-telcel-at-t-movistar-y-omv-datos-usuarios",
-      "fecha": "18 Nov 2026, 12:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Oficializan en DOF filtro militar para inversión extranjera",
+      "resumen": "Desde el 20 de noviembre, Sedena y Semar entran a decisiones sobre capital extranjero, con reforma a la Ley de Inversión Extranjera.",
+      "link": "https://www.reforma.com/oficializan-en-dof-filtro-militar-para-inversion-extranjera/ar3318098",
+      "fecha": "19 Nov 2026, 21:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advirtió Borja retraso a meta de 3% en inflación",
-      "resumen": "Recortar la tasa de interés retrasaría la convergencia de la inflación al objetivo de 3 %, dijo Galia Borja, subgobernadora del Banxico.",
-      "link": "https://www.reforma.com/advirtio-borja-retraso-a-meta-de-3-en-inflacion/ar3317579",
-      "fecha": "19 Nov 2026, 10:32 hrs"
+      "titulo": "Presentan queja laboral contra Polygroup Industrias México",
+      "resumen": "Polygroup Industrias México recibió una queja a través del Mecanismo Laboral de Respuesta Rápida por violar la libertad de asociación.",
+      "link": "https://www.reforma.com/presentan-queja-laboral-contra-polygroup-industrias-mexico/ar3318072",
+      "fecha": "19 Nov 2026, 20:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rebasa dólar los 19 pesos",
-      "resumen": "El tipo de cambio retroce y se coloca en 19.04 pesos por dólar, su nivel más débil desde junio de 2025 tras las minutas del Banxico.",
-      "link": "https://www.reforma.com/rebasa-dolar-los-19-pesos/ar3317586",
-      "fecha": "19 Nov 2026, 10:35 hrs"
+      "titulo": "Participará México en feria turística de Shanghái en 2027",
+      "resumen": "Sectur anunció que México participará por primera vez en tres ferias turísticas en Shanghai y Beijing en 2027.",
+      "link": "https://www.reforma.com/participara-mexico-en-feria-turistica-de-shanghai-en-2027/ar3318011",
+      "fecha": "19 Nov 2026, 19:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Reportan Visa y Mastercard filtración de datos de clientes",
+      "resumen": "Visa, Mastercard y JPMorgan reportaron que, a raíz de un ciberataque contra un proveedor, se tuvo acceso a cierta información de clientes.",
+      "link": "https://www.reforma.com/reportan-visa-y-mastercard-filtracion-de-datos-de-clientes/ar3317894",
+      "fecha": "19 Nov 2026, 17:37 hrs"
     },
     {
       "fuente": "Reforma",
@@ -177,10 +195,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Exhiben Pueblos Mágicos brechas socioeconómicas",
-      "resumen": "Municipios con Pueblos Mágicos registran mejores ingresos y acceso a servicios, aunque las ventajas varían según condiciones, reportó BBVA.",
-      "link": "https://www.reforma.com/exhiben-pueblos-magicos-brechas-socioeconomicas/ar3317718",
-      "fecha": "19 Nov 2026, 14:06 hrs"
+      "titulo": "Prueba Uber viajes para niños de 10 a 12 años en EU",
+      "resumen": "Uber informó que los padres de niños de entre 10 y 12 años pueden solicitar viajes en su nombre, como parte de un programa de prueba en EU.",
+      "link": "https://www.reforma.com/prueba-uber-viajes-para-ninos-de-10-a-12-anos-en-eu/ar3317784",
+      "fecha": "19 Nov 2026, 14:21 hrs"
     },
     {
       "fuente": "Reforma",
@@ -195,28 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tenemos que venderle más a China.- CCE",
-      "resumen": "El CCE refirió que México debe plantearse cómo le puede vender más a China y sugirió el ejemplo de Chile y Brasil.",
-      "link": "https://www.reforma.com/tenemos-que-venderle-mas-a-china-cce/ar3317607",
-      "fecha": "19 Nov 2026, 11:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "'El futuro del trabajo no se construye solo con reformas'",
-      "resumen": "Roberto Cantú, presidente de Coparmex Nuevo León, afirmó que los costos de la formalidad desafían a empleadores.",
-      "link": "https://www.reforma.com/el-futuro-del-trabajo-no-se-construye-solo-con-reformas/ar3317635",
-      "fecha": "19 Nov 2026, 11:32 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Crece 0.21% actividad económica de México en octubre",
-      "resumen": "En octubre, el Indicador Oportuno de la Actividad Económica subió 0.21%.",
-      "link": "https://www.reforma.com/crece-0-21-actividad-economica-de-mexico-en-octubre/ar3317636",
-      "fecha": "19 Nov 2026, 11:47 hrs"
+      "titulo": "Exhiben Pueblos Mágicos brechas socioeconómicas",
+      "resumen": "Municipios con Pueblos Mágicos registran mejores ingresos y acceso a servicios, aunque las ventajas varían según condiciones, reportó BBVA.",
+      "link": "https://www.reforma.com/exhiben-pueblos-magicos-brechas-socioeconomicas/ar3317718",
+      "fecha": "19 Nov 2026, 14:06 hrs"
     }
   ]
 }
