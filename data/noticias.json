@@ -1,16 +1,7 @@
 {
-  "actualizado": "20/11/2026 21:45 hrs",
+  "actualizado": "21/11/2026 06:09 hrs",
   "total": 24,
   "noticias": [
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
-      "resumen": "Por segunda semana consecutiva, la gasolina Premium tampoco tendrá estímulo fiscal, mientras incrementa el IEPS para el diésel, después de 10 semanas de cuota cero.",
-      "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
-      "fecha": "20 Nov 2026, 18:25 hrs"
-    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -73,6 +64,15 @@
       "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
       "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
       "fecha": "19 Nov 2026, 10:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
+      "resumen": "Entre ambas instituciones suman más de 18 millones de tarjetas en el mercado, pero los CAT que cobran a sus usuarios se ubican entre 150% y 169%.",
+      "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
+      "fecha": "19 Nov 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,10 +150,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Preparan normas sobre topes a comisiones de tarjetas",
-      "resumen": "El Gobierno de México prepara nuevos topes a las comisiones de tarjetas bancarias para reducir costos e impulsar los pagos digitales.",
-      "link": "https://www.reforma.com/preparan-normas-sobre-topes-a-comisiones-de-tarjetas/ar3318700",
-      "fecha": "20 Nov 2026, 21:17 hrs"
+      "titulo": "Compras navideñas: entre Santa y el Grinch",
+      "resumen": "Estafadores usan IA para crear tiendas, fotos y reseñas falsas en Navidad; en EU, 16% sufrió fraude en compras en línea, según Norton.",
+      "link": "https://www.reforma.com/compras-navidenas-entre-santa-y-el-grinch/ar3318765",
+      "fecha": "21 Nov 2026, 05:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Concentra NL 6% del ahorro voluntario",
+      "resumen": "Al cierre de octubre, el ahorro voluntario de Nuevo León en Afores sumó 15 mil 530 millones de pesos, 5.8% del monto nacional.",
+      "link": "https://www.reforma.com/concentra-nl-6-del-ahorro-voluntario/ar3318762",
+      "fecha": "21 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
@@ -208,15 +217,6 @@
       "resumen": "La Comisión de Bolsa y Valores de EU investiga las prácticas contables de Nvidia, en medio de desafíos que enfrenta el fabricante de chips.",
       "link": "https://www.reforma.com/investiga-sec-practicas-contables-de-nvidia/ar3318502",
       "fecha": "20 Nov 2026, 14:36 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recauda GTA VI 3,800 mdd en día de su lanzamiento",
-      "resumen": "El videojuego \"Grand Theft Auto VI\" recaudó 3 mil 790 mdd en ventas solo en el día de su lanzamiento, según informó Rockstar Games.",
-      "link": "https://www.reforma.com/recauda-gta-vi-3-800-mdd-en-dia-de-su-lanzamiento/ar3318495",
-      "fecha": "20 Nov 2026, 14:29 hrs"
     }
   ]
 }
