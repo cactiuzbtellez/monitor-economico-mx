@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/11/2026 06:09 hrs",
+  "actualizado": "21/11/2026 13:56 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
+      "resumen": "Por segunda semana consecutiva, la gasolina Premium tampoco tendrá estímulo fiscal, mientras incrementa el IEPS para el diésel, después de 10 semanas de cuota cero.",
+      "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
+      "fecha": "20 Nov 2026, 18:25 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
       "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
       "fecha": "19 Nov 2026, 10:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
-      "resumen": "Entre ambas instituciones suman más de 18 millones de tarjetas en el mercado, pero los CAT que cobran a sus usuarios se ubican entre 150% y 169%.",
-      "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
-      "fecha": "19 Nov 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
