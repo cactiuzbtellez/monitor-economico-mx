@@ -1,7 +1,43 @@
 {
-  "actualizado": "20/11/2026 16:11 hrs",
+  "actualizado": "20/11/2026 21:45 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
+      "resumen": "Por segunda semana consecutiva, la gasolina Premium tampoco tendrá estímulo fiscal, mientras incrementa el IEPS para el diésel, después de 10 semanas de cuota cero.",
+      "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
+      "fecha": "20 Nov 2026, 18:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México oficializa control a inversiones extranjeras y abre incertidumbre por adquisiciones",
+      "resumen": "La reforma a la Ley de Inversión Extranjera permitirá revisar y bloquear adquisiciones en sectores como inteligencia artificial, energía, biotecnología y semiconductores.",
+      "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
+      "fecha": "20 Nov 2026, 15:00 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La Unión Europea y Reino Unido sellan acuerdos para dar un \"nuevo impulso\" a sus relaciones",
+      "resumen": "Londres y Bruselas acordaron suavizar los controles sobre exportaciones británicas de productos agroalimentarios, impulsar la movilidad juvenil y vincular sus mercados de emisiones de carbono",
+      "link": "https://expansion.mx/economia/2026/11/20/la-union-europea-y-reino-unido-sellan-acuerdos-para-dar-un-nuevo-impulso-a-sus-relaciones",
+      "fecha": "20 Nov 2026, 09:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Europa defiende sus quesos ante las presiones de EU sobre México",
+      "resumen": "La disputa por los nombres de los quesos enfrenta dos visiones comerciales y coloca a México entre los compromisos del T-MEC y el acuerdo modernizado con la Unión Europea.",
+      "link": "https://expansion.mx/economia/2026/11/20/disputa-quesos-mexico-union-europea-tmec",
+      "fecha": "20 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -37,42 +73,6 @@
       "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
       "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
       "fecha": "19 Nov 2026, 10:13 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Nu y Plata se pelean por los tarjetazos de los jóvenes, pese a sus altos costos y riesgos de morosidad",
-      "resumen": "Entre ambas instituciones suman más de 18 millones de tarjetas en el mercado, pero los CAT que cobran a sus usuarios se ubican entre 150% y 169%.",
-      "link": "https://expansion.mx/economia/2026/11/19/nu-y-plata-se-pelean-por-los-tarjetazos-de-los-jovenes-pese-a-sus-altos-costos-y-riesgos-de-morosidad",
-      "fecha": "19 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "China le deja más dinero a México por aranceles, pero 24% menos de lo que esperaba",
-      "resumen": "El alza de aranceles a productos asiáticos y de impuestos a ciertos envíos de paquetería encarece las compras del extranjero, mientras la recaudación avanza por debajo de lo proyectado por Hacienda.",
-      "link": "https://expansion.mx/economia/2026/11/18/mexico-aranceles-china-recaudacion-menor-previsto-hacienda",
-      "fecha": "18 Nov 2026, 17:27 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Empresas iniciarán 2027 con pagos provisionales de ISR hasta 2.5 veces mayores, advierte KPMG",
-      "resumen": "La mayor afectación será el flujo de efectivo de las empresas, debido a la aplicación de factores fijos para estimar el coeficiente de utilidad y que determina el monto de pagos provisionales del impu…",
-      "link": "https://expansion.mx/economia/2026/11/18/empresas-2027-mayores-pagos-provisionales-isr-2-veces",
-      "fecha": "18 Nov 2026, 13:18 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Subgobernador de Banxico Omar Mejía descarta sorpresa en recorte de tasa a 6.25% y destaca prudencia del banco central",
-      "resumen": "El pasado 5 de noviembre, la Junta de Gobierno de Banco de México decidió, con tres votos a favor y dos en contra, la reducción en la tasa",
-      "link": "https://expansion.mx/economia/2026/11/18/subgobernador-de-banxico-omar-mejia-descarta-sorpresa-en-recorte-de-tasa-a-6-25-y-destaca-prudencia-del-banco-central",
-      "fecha": "18 Nov 2026, 12:45 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,28 +150,46 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ofrece SAT renovación de e.firma por internet",
-      "resumen": "Las personas podrán renovar su e.firma vía internet, siempre y cuando haya vencido hace menos de un año, informó el SAT.",
-      "link": "https://www.reforma.com/ofrece-sat-renovacion-de-e-firma-por-internet/ar3318392",
-      "fecha": "20 Nov 2026, 12:16 hrs"
+      "titulo": "Preparan normas sobre topes a comisiones de tarjetas",
+      "resumen": "El Gobierno de México prepara nuevos topes a las comisiones de tarjetas bancarias para reducir costos e impulsar los pagos digitales.",
+      "link": "https://www.reforma.com/preparan-normas-sobre-topes-a-comisiones-de-tarjetas/ar3318700",
+      "fecha": "20 Nov 2026, 21:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevén otro año  sólido en Bolsa",
-      "resumen": "La BMV espera que este año el financiamiento obtenido por las empresas, a través de ésta, sea igual de positivo que los resultados de 2025.",
-      "link": "https://www.reforma.com/preven-otro-ano-solido-en-bolsa/ar3318406",
-      "fecha": "20 Nov 2026, 12:40 hrs"
+      "titulo": "Cae BMV 3.62% en la semana",
+      "resumen": "La BMV acumuló una caída semanal de 3.62%, cerrando el viernes con en el nivel de 68 mil 629 unidades.",
+      "link": "https://www.reforma.com/cae-bmv-3-62-en-la-semana/ar3318624",
+      "fecha": "20 Nov 2026, 17:42 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Afectan intermitencias a usuarios de telefónicas",
-      "resumen": "Usuarios de telefónicas sufrieron fallas en llamadas e internet móvil; Telcel reconoció las intermitencias en CDMX y otras entidades.",
-      "link": "https://www.reforma.com/afectan-intermitencias-a-usuarios-de-telefonicas/ar3318433",
-      "fecha": "20 Nov 2026, 13:08 hrs"
+      "titulo": "Cierra dólar en $19.16, peor nivel para el peso desde 2025",
+      "resumen": "El peso cerró la jornada del viernes en $19.16 frente al dólar, lo que representó su peor nivel desde el 4 de junio de 2025.",
+      "link": "https://www.reforma.com/cierra-dolar-en-19-16-peor-nivel-para-el-peso-desde-2025/ar3318603",
+      "fecha": "20 Nov 2026, 17:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Resuelven con Claude otro de los 'Problemas del Milenio'",
+      "resumen": "Levent Alpöge, miembro del equipo técnico de Anthropic, afirmó haber resuelto la hipótesis de Riemann sobre números primos usando Claude.",
+      "link": "https://www.reforma.com/resuelven-con-claude-otro-de-los-problemas-del-milenio/ar3318561",
+      "fecha": "20 Nov 2026, 16:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra crudo semana con ligera alza",
+      "resumen": "El barril de Brent subió un 0.64% a 92.57 dólares, mientras que el de West Texas Intermediate avanzó un 0.93% hasta los 83.98 dólares.",
+      "link": "https://www.reforma.com/cierra-crudo-semana-con-ligera-alza/ar3318536",
+      "fecha": "20 Nov 2026, 15:22 hrs"
     },
     {
       "fuente": "Reforma",
@@ -186,37 +204,19 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Investiga SEC contabilidad de Nvidia",
+      "titulo": "Investiga SEC prácticas contables de Nvidia",
       "resumen": "La Comisión de Bolsa y Valores de EU investiga las prácticas contables de Nvidia, en medio de desafíos que enfrenta el fabricante de chips.",
-      "link": "https://www.reforma.com/investiga-sec-contabilidad-de-nvidia/ar3318502",
+      "link": "https://www.reforma.com/investiga-sec-practicas-contables-de-nvidia/ar3318502",
       "fecha": "20 Nov 2026, 14:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Suben casos de gusano barrenador en EU",
-      "resumen": "Según el USDA, se han detectado 64 contagios del gusano barrenador a cabezas de ganado, perros, caballos y otros animales en noviembre.",
-      "link": "https://www.reforma.com/suben-casos-de-gusano-barrenador-en-eu/ar3318370",
-      "fecha": "20 Nov 2026, 11:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Lanza 4 Tech Plus, de Tomás Milmo, oferta por Axtel",
-      "resumen": "Controladora Axtel y Axtel informaron que 4 Tech Plus, de Tomás Milmo Santos, ha lanzado una OPA por hasta la totalidad de sus acciones.",
-      "link": "https://www.reforma.com/lanza-4-tech-plus-de-tomas-milmo-oferta-por-axtel/ar3318275",
-      "fecha": "20 Nov 2026, 08:29 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Resuelven con Claude otro de los 'Problemas del Milenio'",
-      "resumen": "Levent Alpöge, miembro del equipo técnico de Anthropic, afirmó haber resuelto la hipótesis de Riemann sobre números primos usando Claude.",
-      "link": "https://www.reforma.com/resuelven-con-claude-otro-de-los-problemas-del-milenio/ar3318561",
-      "fecha": "20 Nov 2026, 16:01 hrs"
+      "titulo": "Recauda GTA VI 3,800 mdd en día de su lanzamiento",
+      "resumen": "El videojuego \"Grand Theft Auto VI\" recaudó 3 mil 790 mdd en ventas solo en el día de su lanzamiento, según informó Rockstar Games.",
+      "link": "https://www.reforma.com/recauda-gta-vi-3-800-mdd-en-dia-de-su-lanzamiento/ar3318495",
+      "fecha": "20 Nov 2026, 14:29 hrs"
     }
   ]
 }
