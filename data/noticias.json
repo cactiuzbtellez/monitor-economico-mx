@@ -1,7 +1,16 @@
 {
-  "actualizado": "21/11/2026 13:56 hrs",
+  "actualizado": "21/11/2026 18:09 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El plan de los empresarios para amortiguar el golpe de la inseguridad en Sinaloa",
+      "resumen": "Coparmex reporta la pérdida de 44,000 empleos y propone incentivos para reabrir negocios y medidas para investigar los delitos que afectan a las empresas.",
+      "link": "https://expansion.mx/economia/2026/11/21/plan-coparmex-sinaloa-inseguridad",
+      "fecha": "21 Nov 2026, 11:56 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -64,15 +73,6 @@
       "resumen": "En Shenzhen, el CCE planteó cómo aumentar las exportaciones nacionales a China, un mercado del que México importa 13 dólares por cada dólar que exporta.",
       "link": "https://expansion.mx/economia/2026/11/19/brasil-y-chile-la-referencia-de-mexico-para-vender-a-china",
       "fecha": "19 Nov 2026, 13:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Los aumentos salariales y el \"Súper Niño\" le ponen presión al alza de precios, advierte Banxico",
-      "resumen": "La mayoría de los integrantes de la Junta de Gobierno de Banxico destacó la incertidumbre asociada al entorno internacional, como un riesgo para que la inflación llegue a 3.0% en el último trimestre d…",
-      "link": "https://expansion.mx/economia/2026/11/19/banxico-super-nino-aumentos-salariales-alza-inflacion",
-      "fecha": "19 Nov 2026, 10:13 hrs"
     },
     {
       "fuente": "Expansión",
