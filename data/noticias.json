@@ -1,5 +1,5 @@
 {
-  "actualizado": "22/11/2026 15:37 hrs",
+  "actualizado": "22/11/2026 20:16 hrs",
   "total": 24,
   "noticias": [
     {
@@ -168,6 +168,15 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Preparan normas sobre topes a comisiones de tarjetas",
+      "resumen": "El Gobierno de México prepara nuevos topes a las comisiones de tarjetas bancarias para reducir costos e impulsar los pagos digitales.",
+      "link": "https://www.reforma.com/preparan-normas-sobre-topes-a-comisiones-de-tarjetas/ar3318700",
+      "fecha": "20 Nov 2026, 21:17 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cae BMV 3.62% en la semana",
       "resumen": "La BMV acumuló una caída semanal de 3.62%, cerrando el viernes con en el nivel de 68 mil 629 unidades.",
       "link": "https://www.reforma.com/cae-bmv-3-62-en-la-semana/ar3318624",
@@ -208,15 +217,6 @@
       "resumen": "El Nasdaq cerró con una baja de 5.28%, el S&amp;P 500 cayó 3.69% y el Dow Jones 1.93%; Nvidia y Anthropic bajaron 13.8 y 8.74%, respectivamente.",
       "link": "https://www.reforma.com/se-desploman-mercados-de-eu-cae-nasdaq-mas-de-5/ar3318525",
       "fecha": "20 Nov 2026, 15:12 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Investiga SEC prácticas contables de Nvidia",
-      "resumen": "La Comisión de Bolsa y Valores de EU investiga las prácticas contables de Nvidia, en medio de desafíos que enfrenta el fabricante de chips.",
-      "link": "https://www.reforma.com/investiga-sec-practicas-contables-de-nvidia/ar3318502",
-      "fecha": "20 Nov 2026, 14:36 hrs"
     }
   ]
 }
