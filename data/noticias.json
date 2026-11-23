@@ -1,7 +1,25 @@
 {
-  "actualizado": "23/11/2026 05:51 hrs",
+  "actualizado": "23/11/2026 17:26 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "PIB de México crece 0.9% en el tercer trimestre, pero pierde ritmo",
+      "resumen": "La economía avanzó menos que en el segundo trimestre, cuando creció 1.4%. A tasa anual, el PIB aumentó 3.3%, impulsado por el comercio y los servicios.",
+      "link": "https://expansion.mx/economia/2026/11/23/pib-de-mexico-crece-0-9-tercer-trimestre-pierde-ritmo-inegi",
+      "fecha": "23 Nov 2026, 06:20 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Empresas chinas piden al gobierno de Sheinbaum reglas claras para invertir en México",
+      "resumen": "Amapola Grijalva, de la Cámara de Comercio y Tecnología México-China, solicita que el gobierno precise qué evaluará por seguridad nacional antes de que las empresas asiáticas comprometan recursos.",
+      "link": "https://expansion.mx/economia/2026/11/23/sheinbaum-empresas-china-filtro-inversion-extranjera",
+      "fecha": "23 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "Directivos de la firma ya trabajan con gasolineras y han mantenido reuniones con autoridades ante la próxima entrada en vigor de la ley de Economía Digital",
       "link": "https://expansion.mx/economia/2026/11/19/mexico-vive-el-mejor-momento-para-la-digitalizacion-dice-mastercard",
       "fecha": "19 Nov 2026, 16:59 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Incremento del salario mínimo en 2027 enciende alertas sobre alzas en precios",
-      "resumen": "Especialistas consideran que aún hay espacio para el alza salarial; sin embargo, entre 2028 y 2030, los ajustes coincidirían con la reducción de la jornada laboral, mientras la productividad no avanza…",
-      "link": "https://expansion.mx/economia/2026/11/19/incremento-del-salario-minimo-en-2027-enciende-alertas-sobre-alzas-en-precios",
-      "fecha": "19 Nov 2026, 16:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México ya sabe comprarle a China y sus empresarios miran a Brasil y Chile para aprender a venderle",
-      "resumen": "En Shenzhen, el CCE planteó cómo aumentar las exportaciones nacionales a China, un mercado del que México importa 13 dólares por cada dólar que exporta.",
-      "link": "https://expansion.mx/economia/2026/11/19/brasil-y-chile-la-referencia-de-mexico-para-vender-a-china",
-      "fecha": "19 Nov 2026, 13:01 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae gasolina a menos de $15... en sur de Texas",
-      "resumen": "Pese a la inestabilidad en Medio Oriente y políticas de Trump, el litro de gasolina regular cae a menos de $15 en sur de Texas.",
-      "link": "https://www.reforma.com/cae-gasolina-a-menos-de-15-en-sur-de-texas/ar3319631",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Advierte CCE cierre de empresas por alzas al mínimo",
+      "resumen": "Las alzas al salario mínimo han provocado pérdida de 60 mil puestos de trabajo y el cierre empresas, destacó el sector privado.",
+      "link": "https://www.reforma.com/advierte-cce-cierre-de-empresas-por-alzas-al-minimo/ar3319933",
+      "fecha": "23 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Duplica NL deuda a corto plazo",
-      "resumen": "Al tercer trimestre, NL registra un saldo de 3,369 mdp en cuentas por pagar a proveedores y contratistas en corto plazo, 93% más que 2025.",
-      "link": "https://www.reforma.com/duplica-nl-deuda-a-corto-plazo/ar3319618",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Alerta Amexgas pérdida de 30 mil empleos y abasto de gas LP",
+      "resumen": "Amexgas señaló que falta de actualización en tarifa de distribución arriesga hasta 30 mil empleos y abasto en diversas regiones del País.",
+      "link": "https://www.reforma.com/alerta-amexgas-perdida-de-30-mil-empleos-y-abasto-de-gas-lp/ar3319993",
+      "fecha": "23 Nov 2026, 15:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Piden elevar potencial exportador de México",
-      "resumen": "México tiene potencial para incrementar sus exportaciones a China y a los países de la región Asia-Pacífico.",
-      "link": "https://www.reforma.com/piden-elevar-potencial-exportador-de-mexico/ar3319643",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Solicita Coparmex certeza energética",
+      "resumen": "La certeza energética es una condición indispensable para atraer inversiones a México, destacó la Coparmex.",
+      "link": "https://www.reforma.com/solicita-coparmex-certeza-energetica/ar3319942",
+      "fecha": "23 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Me quisieron defraudar... ¿cómo evitar caer?",
-      "resumen": "Los estafadores están más que ocupados: desde mensajitos de WhatsApp hasta las típicas llamadas telefónicas.",
-      "link": "https://www.reforma.com/me-quisieron-defraudar-como-evitar-caer/ar3319637",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Quiere México aumentar exportaciones a China",
+      "resumen": "Marcelo Ebrard, Secretario de Economía, aseguró que la intención de México es acelerar las exportaciones nacionales hacia China.",
+      "link": "https://www.reforma.com/quiere-mexico-aumentar-exportaciones-a-china/ar3319806",
+      "fecha": "23 Nov 2026, 10:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se dispara 286% valor de cada compu exportada",
-      "resumen": "Exportaciones mexicanas se han elevado por equipo de cómputo y no es porque se manden más unidades, sino porque el valor unitario subió 286%",
-      "link": "https://www.reforma.com/se-dispara-286-valor-de-cada-compu-exportada/ar3319635",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Sube 31% acción de Nvidia y revitaliza a mercados",
+      "resumen": "El repunte de 31% en las acciones de Nvidia impulsó un alza de 6.51% en el Nasdaq, de 4.74% en el S&amp;P 500 y de 3% en el Dow Jones.",
+      "link": "https://www.reforma.com/sube-31-accion-de-nvidia-y-revitaliza-a-mercados/ar3320003",
+      "fecha": "23 Nov 2026, 15:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destinan a obras en NL 16,606 mdp las Afores",
-      "resumen": "Al cierre de septiembre, la inversión de las Afores en NL registró un saldo por 16,606 mdp, principalmente en infraestructura carretera.",
-      "link": "https://www.reforma.com/destinan-a-obras-en-nl-16-606-mdp-las-afores/ar3319632",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Promete Huang ser un mejor CEO a su regreso a sede de Nvidia",
+      "resumen": "Jensen Huang regresó hoy a la sede de Nvidia, donde fue recibido con vítores por los empleados, a los que prometió ser \"un mejor CEO\".",
+      "link": "https://www.reforma.com/promete-huang-ser-un-mejor-ceo-a-su-regreso-a-sede-de-nvidia/ar3319970",
+      "fecha": "23 Nov 2026, 14:35 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Esperan por el tren mayor integración",
-      "resumen": "Con la construcción del tren Saltillo-Monterrey-Nuevo Laredo, la IP y Gobiernos necesitan colaborar en conjunto.",
-      "link": "https://www.reforma.com/esperan-por-el-tren-mayor-integracion/ar3319624",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Amplía Yokohama su operación en Saltillo",
+      "resumen": "Con una inversión de 110 mdd, la productora japonesa de llantas Yokohama anunció una ampliación en su complejo en Saltillo, Coahuila.",
+      "link": "https://www.reforma.com/amplia-yokohama-su-operacion-en-saltillo/ar3319872",
+      "fecha": "23 Nov 2026, 12:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Prevé solo 15% de firmas reducción de jornada",
-      "resumen": "Sólo 15% de las empresas está preparado para reducir la jornada laboral; Adecco advierte que deben elevar su productividad.",
-      "link": "https://www.reforma.com/preve-solo-15-de-firmas-reduccion-de-jornada/ar3319584",
-      "fecha": "23 Nov 2026, 05:01 hrs"
+      "titulo": "Aplaude EU cooperación con México",
+      "resumen": "Para Estados Unidos es necesario fortalecer la coordinación con el Gobierno mexicano, según la Embajada de EU en México.",
+      "link": "https://www.reforma.com/aplaude-eu-cooperacion-con-mexico/ar3319868",
+      "fecha": "23 Nov 2026, 12:01 hrs"
     }
   ]
 }
