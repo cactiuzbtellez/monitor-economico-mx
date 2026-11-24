@@ -1,7 +1,43 @@
 {
-  "actualizado": "23/11/2026 17:26 hrs",
+  "actualizado": "24/11/2026 02:38 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Sector empresarial advierte que un alza del 15% al salario mínimo pone en riesgo el empleo",
+      "resumen": "El presidente del CCE, José Medina Mora, citó el caso de Ciudad Juárez para explicar su postura.  Atribuyó al alza del salario mínimo fronterizo la pérdida de 60,000 empleos.",
+      "link": "https://expansion.mx/economia/2026/11/23/cce-advierte-riesgo-empleo-alza-salario-minimo",
+      "fecha": "23 Nov 2026, 15:10 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ebrard quiere que México venda más a China porque \"es lo justo\"; busca destrabar permisos de exportación",
+      "resumen": "El secretario de Economía dijo que existen trámites comerciales que llevan hasta una década pendientes. Entre los productos que busca vender en ese mercado están aguacate, limón y carne, entre otros.",
+      "link": "https://expansion.mx/economia/2026/11/23/mexico-china-mesa-comercial-exportaciones-mexicanas",
+      "fecha": "23 Nov 2026, 13:21 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Aranceles de EU afectan estructura de costos de 45% de empresas en México, dice encuesta de HSBC",
+      "resumen": "A pesar del impacto en la operación, las firmas nacionales son optimistas en el comercio bilateral, ya que un 90% confía en aumentar el intercambio de bienes en los próximos dos años",
+      "link": "https://expansion.mx/economia/2026/11/23/aranceles-de-eu-afectan-estructura-de-costos-de-45-de-empresas-en-mexico-dice-encuesta-de-hsbc",
+      "fecha": "23 Nov 2026, 13:13 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Seguridad en México tardará más de 5 años en mejorar, dice sondeo empresarial de AmCham",
+      "resumen": "Una de cada cuatro compañías consultadas por el organismo suspendió operaciones en algún estado por inseguridad y 17% redujo sus inversiones en México.",
+      "link": "https://expansion.mx/economia/2026/11/23/empresas-seguridad-mexico-cinco-anos-amcham",
+      "fecha": "23 Nov 2026, 11:34 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México oficializa control a inversiones extranjeras y abre incertidumbre por adquisiciones",
-      "resumen": "La reforma a la Ley de Inversión Extranjera permitirá revisar y bloquear adquisiciones en sectores como inteligencia artificial, energía, biotecnología y semiconductores.",
-      "link": "https://expansion.mx/economia/2026/11/20/mexico-filtro-seguridad-nacional-inversiones-extranjeras",
-      "fecha": "20 Nov 2026, 15:00 hrs"
+      "titulo": "Un cheque sin fondos, Domino’s y Starbucks: así nació el negocio millonario de los hermanos Torrado en México",
+      "resumen": "Lo que comenzó con una apuesta arriesgada por Domino’s se convirtió en un grupo que opera Starbucks, Burger King, Vips, Chili’s y otras marcas en México y el extranjero.",
+      "link": "https://expansion.mx/empresas/2026/11/23/hermanos-torrado-cheque-sin-fondos-dominos-alsea",
+      "fecha": "23 Nov 2026, 15:55 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La Unión Europea y Reino Unido sellan acuerdos para dar un \"nuevo impulso\" a sus relaciones",
-      "resumen": "Londres y Bruselas acordaron suavizar los controles sobre exportaciones británicas de productos agroalimentarios, impulsar la movilidad juvenil y vincular sus mercados de emisiones de carbono",
-      "link": "https://expansion.mx/economia/2026/11/20/la-union-europea-y-reino-unido-sellan-acuerdos-para-dar-un-nuevo-impulso-a-sus-relaciones",
-      "fecha": "20 Nov 2026, 09:21 hrs"
+      "titulo": "El cardiólogo que se metió al mundo de los negocios y construyó Médica Sur, un imperio de 4,800 mdp",
+      "resumen": "Un grupo de 17 médicos comenzó el proyecto que daría origen a Médica Sur. Entre sus fundadores estuvo Jaime Jacobo Arriaga Gracia, quien participó en el desarrollo de un negocio multimillonario.",
+      "link": "https://expansion.mx/empresas/2026/11/23/doctor-negocios-construir-medica-sur-imperio-4-800-mdp",
+      "fecha": "23 Nov 2026, 13:57 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Europa defiende sus quesos ante las presiones de EU sobre México",
-      "resumen": "La disputa por los nombres de los quesos enfrenta dos visiones comerciales y coloca a México entre los compromisos del T-MEC y el acuerdo modernizado con la Unión Europea.",
-      "link": "https://expansion.mx/economia/2026/11/20/disputa-quesos-mexico-union-europea-tmec",
-      "fecha": "20 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México vive el mejor momento para la digitalización, dice Mastercard",
-      "resumen": "Directivos de la firma ya trabajan con gasolineras y han mantenido reuniones con autoridades ante la próxima entrada en vigor de la ley de Economía Digital",
-      "link": "https://expansion.mx/economia/2026/11/19/mexico-vive-el-mejor-momento-para-la-digitalizacion-dice-mastercard",
-      "fecha": "19 Nov 2026, 16:59 hrs"
+      "titulo": "Enel Energía fortalece la sostenibilidad y eficiencia de los negocios",
+      "resumen": "Una estrategia energética a la medida optimiza las finanzas y la competitividad, para alcanzar las metas sostenibles en el entorno corporativo.",
+      "link": "https://expansion.mx/empresas/2026/11/23/enel-energia-fortalece-la-sostenibilidad-y-eficiencia-de-los-negocios",
+      "fecha": "23 Nov 2026, 08:05 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "20 Nov 2026, 08:59 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Los 4,000 millones de pesos que Carlos Slim quiere invertir en Puebla dependen de una sola autorización",
-      "resumen": "El proyecto inmobiliario de Carlos Slim contempla departamentos, oficinas, comercios y la rehabilitación de seis inmuebles, pero su construcción depende de los permisos correspondientes.",
-      "link": "https://expansion.mx/empresas/2026/11/19/carlos-slim-quiere-invertir-puebla-dependen-de-autorizacion",
-      "fecha": "19 Nov 2026, 19:29 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De Liverpool a Palacio de Hierro y Herdez, las empresas mexicanas que sobrevivieron a la Revolución Mexicana",
-      "resumen": "La Revolución Mexicana marcó un antes y un después en la historia del país, pero también fue un periodo que atravesaron negocios que hoy son gigantes empresariales.",
-      "link": "https://expansion.mx/empresas/2026/11/19/empresas-mexicanas-sobrevivieron-revolucion-mexicana",
-      "fecha": "19 Nov 2026, 18:01 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Aeroméxico ofrece hasta 7 días de escala en la CDMX pero solo en viajes que salgan desde estos aeropuertos",
-      "resumen": "La aerolínea destaca los lugares turísticos que pueden visitar las personas que decidan quedarse en la CDMX. Estos son los aeropuertos que entran en la dinámica.",
-      "link": "https://expansion.mx/empresas/2026/11/19/aeromexico-ofrece-hasta-7-dias-escala-cdmx-escalas",
-      "fecha": "19 Nov 2026, 16:28 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Subiría 16% costo laboral en 2027 por salario y jornada",
+      "resumen": "El alza al salario mínimo y la reducción de la jornada laboral elevarían 16 por ciento el costo por hora de trabajo en 2027, estima Banamex.",
+      "link": "https://www.reforma.com/subiria-16-costo-laboral-en-2027-por-salario-y-jornada/ar3320227",
+      "fecha": "23 Nov 2026, 21:07 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte CCE cierre de empresas por alzas al mínimo",
-      "resumen": "Las alzas al salario mínimo han provocado pérdida de 60 mil puestos de trabajo y el cierre empresas, destacó el sector privado.",
-      "link": "https://www.reforma.com/advierte-cce-cierre-de-empresas-por-alzas-al-minimo/ar3319933",
-      "fecha": "23 Nov 2026, 14:17 hrs"
+      "titulo": "Amplía CNBV plazo para que Benavides salga de BMV",
+      "resumen": "CNBV dio a Farmacias Benavides 90 días más para cancelar su registro de acciones de la BMV tras compra por parte de Farmacias del Ahorro.",
+      "link": "https://www.reforma.com/amplia-cnbv-plazo-para-que-benavides-salga-de-bmv/ar3320181",
+      "fecha": "23 Nov 2026, 20:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alerta Amexgas pérdida de 30 mil empleos y abasto de gas LP",
-      "resumen": "Amexgas señaló que falta de actualización en tarifa de distribución arriesga hasta 30 mil empleos y abasto en diversas regiones del País.",
-      "link": "https://www.reforma.com/alerta-amexgas-perdida-de-30-mil-empleos-y-abasto-de-gas-lp/ar3319993",
-      "fecha": "23 Nov 2026, 15:10 hrs"
+      "titulo": "Carecen de gas LP 4.5 millones de hogares",
+      "resumen": "Señalan especialistas que 4.5 millones de familias cocinan con leña, principalmente en Chiapas, Oaxaca, Guerrero y Tabasco.",
+      "link": "https://www.reforma.com/carecen-de-gas-lp-4-5-millones-de-hogares/ar3320137",
+      "fecha": "23 Nov 2026, 18:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Solicita Coparmex certeza energética",
-      "resumen": "La certeza energética es una condición indispensable para atraer inversiones a México, destacó la Coparmex.",
-      "link": "https://www.reforma.com/solicita-coparmex-certeza-energetica/ar3319942",
-      "fecha": "23 Nov 2026, 14:17 hrs"
+      "titulo": "Advierte UBS que México gana tiempo ante calificadoras",
+      "resumen": "Acciones emprendidas por el Gobierno mexicano están encaminadas más a ganar tiempo frente a las agencias calificadoras , señaló UBS.",
+      "link": "https://www.reforma.com/advierte-ubs-que-mexico-gana-tiempo-ante-calificadoras/ar3320084",
+      "fecha": "23 Nov 2026, 17:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Quiere México aumentar exportaciones a China",
-      "resumen": "Marcelo Ebrard, Secretario de Economía, aseguró que la intención de México es acelerar las exportaciones nacionales hacia China.",
-      "link": "https://www.reforma.com/quiere-mexico-aumentar-exportaciones-a-china/ar3319806",
-      "fecha": "23 Nov 2026, 10:58 hrs"
+      "titulo": "Son aranceles mayor gasto de exportadores.- HSBC",
+      "resumen": "Los costos relacionados a los aranceles fueron el elemento que mayor gasto generó a las empresas exportadoras, según HSBC Trade Pulse.",
+      "link": "https://www.reforma.com/son-aranceles-mayor-gasto-de-exportadores-hsbc/ar3320064",
+      "fecha": "23 Nov 2026, 17:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube 31% acción de Nvidia y revitaliza a mercados",
-      "resumen": "El repunte de 31% en las acciones de Nvidia impulsó un alza de 6.51% en el Nasdaq, de 4.74% en el S&amp;P 500 y de 3% en el Dow Jones.",
-      "link": "https://www.reforma.com/sube-31-accion-de-nvidia-y-revitaliza-a-mercados/ar3320003",
-      "fecha": "23 Nov 2026, 15:10 hrs"
+      "titulo": "Cuesta mercado ilícito de gas LP 12 mil mdp anuales",
+      "resumen": "El mercado ilícito de gas licuado de petróleo (LP) genera pérdidas anuales cercanas a 12 mil mdp para la industria, según Amexgas.",
+      "link": "https://www.reforma.com/cuesta-mercado-ilicito-de-gas-lp-12-mil-mdp-anuales/ar3320058",
+      "fecha": "23 Nov 2026, 17:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Promete Huang ser un mejor CEO a su regreso a sede de Nvidia",
-      "resumen": "Jensen Huang regresó hoy a la sede de Nvidia, donde fue recibido con vítores por los empleados, a los que prometió ser \"un mejor CEO\".",
-      "link": "https://www.reforma.com/promete-huang-ser-un-mejor-ceo-a-su-regreso-a-sede-de-nvidia/ar3319970",
-      "fecha": "23 Nov 2026, 14:35 hrs"
+      "titulo": "Venden 28% de empresas de mujeres más de 500 mil pesos",
+      "resumen": "Sólo 27.8 % de las empresas fundadas por mujeres vende más de 500 mil pesos al año; frente a 51.1 % de las fundadas por hombres.",
+      "link": "https://www.reforma.com/venden-28-de-empresas-de-mujeres-mas-de-500-mil-pesos/ar3320031",
+      "fecha": "23 Nov 2026, 17:58 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía Yokohama su operación en Saltillo",
-      "resumen": "Con una inversión de 110 mdd, la productora japonesa de llantas Yokohama anunció una ampliación en su complejo en Saltillo, Coahuila.",
-      "link": "https://www.reforma.com/amplia-yokohama-su-operacion-en-saltillo/ar3319872",
-      "fecha": "23 Nov 2026, 12:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aplaude EU cooperación con México",
-      "resumen": "Para Estados Unidos es necesario fortalecer la coordinación con el Gobierno mexicano, según la Embajada de EU en México.",
-      "link": "https://www.reforma.com/aplaude-eu-cooperacion-con-mexico/ar3319868",
-      "fecha": "23 Nov 2026, 12:01 hrs"
+      "titulo": "Pide Gobierno a industriales mayor inversión",
+      "resumen": "Funcionarias de Sader y la Secretaría de Economía hicieron un llamado a que industriales inviertan más recursos en los Polos de Desarrollo.",
+      "link": "https://www.reforma.com/pide-gobierno-a-industriales-mayor-inversion/ar3320026",
+      "fecha": "23 Nov 2026, 17:58 hrs"
     }
   ]
 }
