@@ -1,5 +1,5 @@
 {
-  "actualizado": "24/11/2026 02:38 hrs",
+  "actualizado": "24/11/2026 13:57 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Ford busca conquistar a compradores de autos de lujo en México con precios de China",
+      "resumen": "El último ejemplo de esta estrategia es Lincoln Corsair, que llegará a México importado de China con un precio 20% inferior que el de modelos de marcas rivales, gracias a la alianza de manufactura ent…",
+      "link": "https://expansion.mx/empresas/2026/11/24/ford-lincoln-corsair-precio-mexico-importado-china",
+      "fecha": "24 Nov 2026, 13:16 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Un cheque sin fondos, Domino’s y Starbucks: así nació el negocio millonario de los hermanos Torrado en México",
       "resumen": "Lo que comenzó con una apuesta arriesgada por Domino’s se convirtió en un grupo que opera Starbucks, Burger King, Vips, Chili’s y otras marcas en México y el extranjero.",
       "link": "https://expansion.mx/empresas/2026/11/23/hermanos-torrado-cheque-sin-fondos-dominos-alsea",
@@ -138,85 +147,76 @@
       "fecha": "20 Nov 2026, 11:57 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Mazda eliminará la transmisión manual y ajustará los precios de su compacto Mazda3 a partir de 2027",
-      "resumen": "El Mazda3 2027 llega a México con menos configuraciones mecánicas, más asistencias de conducción y ajustes de precios en sus carrocerías sedán y hatchback.",
-      "link": "https://expansion.mx/empresas/2026/11/20/mazda3-2027-adios-transmision-manual-precios-versiones-mexico",
-      "fecha": "20 Nov 2026, 08:59 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Rebasa IED  43 mil mdd:  se concentra  en reinversión",
+      "resumen": "De enero a septiembre la IED fue de 43 mil 90 millones de dólares, con lo que se apuntó un récord para un periodo similar, según la SE.",
+      "link": "https://www.reforma.com/rebasa-ied-43-mil-mdd-se-concentra-en-reinversion/ar3320524",
+      "fecha": "24 Nov 2026, 12:21 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Subiría 16% costo laboral en 2027 por salario y jornada",
-      "resumen": "El alza al salario mínimo y la reducción de la jornada laboral elevarían 16 por ciento el costo por hora de trabajo en 2027, estima Banamex.",
-      "link": "https://www.reforma.com/subiria-16-costo-laboral-en-2027-por-salario-y-jornada/ar3320227",
-      "fecha": "23 Nov 2026, 21:07 hrs"
+      "titulo": "Repunta inflación a 3.96% en primera quincena de noviembre",
+      "resumen": "Durante la primera quincena de noviembre, la inflación general en México se aceleró a 3.96%, más de lo previsto.",
+      "link": "https://www.reforma.com/repunta-inflacion-a-3-96-en-primera-quincena-de-noviembre/ar3320364",
+      "fecha": "24 Nov 2026, 07:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Amplía CNBV plazo para que Benavides salga de BMV",
-      "resumen": "CNBV dio a Farmacias Benavides 90 días más para cancelar su registro de acciones de la BMV tras compra por parte de Farmacias del Ahorro.",
-      "link": "https://www.reforma.com/amplia-cnbv-plazo-para-que-benavides-salga-de-bmv/ar3320181",
-      "fecha": "23 Nov 2026, 20:02 hrs"
+      "titulo": "Reprueba México en balance vida-trabajo",
+      "resumen": "En México, solo el 56.7 por ciento de los colaboradores siente que tiene un buen balance entre su vida y el trabajo, según Rankmi.",
+      "link": "https://www.reforma.com/reprueba-mexico-en-balance-vida-trabajo/ar3320475",
+      "fecha": "24 Nov 2026, 10:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Carecen de gas LP 4.5 millones de hogares",
-      "resumen": "Señalan especialistas que 4.5 millones de familias cocinan con leña, principalmente en Chiapas, Oaxaca, Guerrero y Tabasco.",
-      "link": "https://www.reforma.com/carecen-de-gas-lp-4-5-millones-de-hogares/ar3320137",
-      "fecha": "23 Nov 2026, 18:33 hrs"
+      "titulo": "Convoca USTR a formar paneles del Capítulo 10 de T-MEC",
+      "resumen": "La USTR invita a los interesados a postularse para formar parte de los paneles binacionales previstos en el Capítulo 10 del T-MEC.",
+      "link": "https://www.reforma.com/convoca-ustr-a-formar-paneles-del-capitulo-10-de-t-mec/ar3320560",
+      "fecha": "24 Nov 2026, 12:42 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte UBS que México gana tiempo ante calificadoras",
-      "resumen": "Acciones emprendidas por el Gobierno mexicano están encaminadas más a ganar tiempo frente a las agencias calificadoras , señaló UBS.",
-      "link": "https://www.reforma.com/advierte-ubs-que-mexico-gana-tiempo-ante-calificadoras/ar3320084",
-      "fecha": "23 Nov 2026, 17:58 hrs"
+      "titulo": "Advierte Coparmex NL de caída en patrones",
+      "resumen": "Al cierre de octubre, el número de registros patronales en NL se ubicó en 75 mil 754, dato menor en 972 patrones respecto al cierre de 2025.",
+      "link": "https://www.reforma.com/advierte-coparmex-nl-de-caida-en-patrones/ar3320541",
+      "fecha": "24 Nov 2026, 12:36 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Son aranceles mayor gasto de exportadores.- HSBC",
-      "resumen": "Los costos relacionados a los aranceles fueron el elemento que mayor gasto generó a las empresas exportadoras, según HSBC Trade Pulse.",
-      "link": "https://www.reforma.com/son-aranceles-mayor-gasto-de-exportadores-hsbc/ar3320064",
-      "fecha": "23 Nov 2026, 17:58 hrs"
+      "titulo": "Alista EU nuevos aranceles contra China, UE y más países",
+      "resumen": "Estados Unidos anunciaría un aumento de los aranceles a bienes procedentes de China, la Unión Europea y más de una docena de otros países.",
+      "link": "https://www.reforma.com/alista-eu-nuevos-aranceles-contra-china-ue-y-mas-paises/ar3320479",
+      "fecha": "24 Nov 2026, 10:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuesta mercado ilícito de gas LP 12 mil mdp anuales",
-      "resumen": "El mercado ilícito de gas licuado de petróleo (LP) genera pérdidas anuales cercanas a 12 mil mdp para la industria, según Amexgas.",
-      "link": "https://www.reforma.com/cuesta-mercado-ilicito-de-gas-lp-12-mil-mdp-anuales/ar3320058",
-      "fecha": "23 Nov 2026, 17:58 hrs"
+      "titulo": "Baja 8% Nvidia tras repunte histórico por regreso de Huang",
+      "resumen": "Los títulos de Nvidia caían más de 8% después de que el regreso de Jensen Huang como CEO de la empresa provocara un fuerte repunte el lunes.",
+      "link": "https://www.reforma.com/baja-8-nvidia-tras-repunte-historico-por-regreso-de-huang/ar3320382",
+      "fecha": "24 Nov 2026, 08:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Venden 28% de empresas de mujeres más de 500 mil pesos",
-      "resumen": "Sólo 27.8 % de las empresas fundadas por mujeres vende más de 500 mil pesos al año; frente a 51.1 % de las fundadas por hombres.",
-      "link": "https://www.reforma.com/venden-28-de-empresas-de-mujeres-mas-de-500-mil-pesos/ar3320031",
-      "fecha": "23 Nov 2026, 17:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Pide Gobierno a industriales mayor inversión",
-      "resumen": "Funcionarias de Sader y la Secretaría de Economía hicieron un llamado a que industriales inviertan más recursos en los Polos de Desarrollo.",
-      "link": "https://www.reforma.com/pide-gobierno-a-industriales-mayor-inversion/ar3320026",
-      "fecha": "23 Nov 2026, 17:58 hrs"
+      "titulo": "Cae Anthropic por debajo del precio de OPI de 83 dólares",
+      "resumen": "Las acciones de Anthropic caían más de 11% hasta los 77.29 dólares, situándose por debajo del precio de salida a bolsa de la compañía de IA.",
+      "link": "https://www.reforma.com/cae-anthropic-por-debajo-del-precio-de-opi-de-83-dolares/ar3320365",
+      "fecha": "24 Nov 2026, 07:29 hrs"
     }
   ]
 }
