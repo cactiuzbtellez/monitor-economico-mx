@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/11/2026 07:55 hrs",
+  "actualizado": "25/11/2026 16:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Desempleo en México alcanza a 1.8 millones de personas; se incrementa más en las mujeres",
+      "resumen": "Al cierre de septiembre, más de 90 mil mujeres buscaron un nuevo trabajo sin tener éxito; mientras que 71,688 hombres lo hicieron sin tener suerte, de acuerdo con datos del Inegi",
+      "link": "https://expansion.mx/economia/2026/11/25/desempleo-en-mexico-alcanza-a-1-8-millones-de-personas-se-incrementa-mas-en-las-mujeres",
+      "fecha": "25 Nov 2026, 12:26 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México libra por ahora los aranceles que Trump propone a 14 economías por sobrecapacidad industrial",
+      "resumen": "La USTR  plantea tasas de 15% a 35%, con Vietnam en el extremo más alto. Dejó pendientes las resoluciones sobre México y Noruega.",
+      "link": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera",
+      "fecha": "25 Nov 2026, 08:48 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "El presidente de la ABM, Emilio Romano, dice que se ha avanzado en infraestructura, pero reconoce retos como reducir la desconfianza en los bancos y aumentar la inclusión financiera del país.",
       "link": "https://expansion.mx/economia/2026/11/24/ley-de-economia-digital-enfrentara-resistencias-sugieren-incentivos-a-comercios-para-impulsar-pagos-electronicos",
       "fecha": "24 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Sector empresarial advierte que un alza del 15% al salario mínimo pone en riesgo el empleo",
-      "resumen": "El presidente del CCE, José Medina Mora, citó el caso de Ciudad Juárez para explicar su postura.  Atribuyó al alza del salario mínimo fronterizo la pérdida de 60,000 empleos.",
-      "link": "https://expansion.mx/economia/2026/11/23/cce-advierte-riesgo-empleo-alza-salario-minimo",
-      "fecha": "23 Nov 2026, 15:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ebrard quiere que México venda más a China porque \"es lo justo\"; busca destrabar permisos de exportación",
-      "resumen": "El secretario de Economía dijo que existen trámites comerciales que llevan hasta una década pendientes. Entre los productos que busca vender en ese mercado están aguacate, limón y carne, entre otros.",
-      "link": "https://expansion.mx/economia/2026/11/23/mexico-china-mesa-comercial-exportaciones-mexicanas",
-      "fecha": "23 Nov 2026, 13:21 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,55 +150,55 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Propone EU nuevos aranceles a 14 socios comerciales",
-      "resumen": "EU propuso nuevos aranceles a 14 socios comerciales para combatir el \"exceso de capacidad industrial\"; México queda fuera por ahora.",
-      "link": "https://www.reforma.com/propone-eu-nuevos-aranceles-a-14-socios-comerciales/ar3321145",
-      "fecha": "25 Nov 2026, 07:29 hrs"
+      "titulo": "Modera dólar avance; cierra en $19.58",
+      "resumen": "Luego de cotizar en hasta $19.84, nivel no visto desde abril de 2025, el dólar cerró en $19.58, con un avance de 1% frente al martes.",
+      "link": "https://www.reforma.com/modera-dolar-avance-cierra-en-19-58/ar3321541",
+      "fecha": "25 Nov 2026, 15:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Busca Costco instalar tienda en Santa Catarina",
-      "resumen": "Costco, la cadena tipo club de precios más grande del mundo, busca instalar su quinta tienda de NL en Santa Catarina.",
-      "link": "https://www.reforma.com/busca-costco-instalar-tienda-en-santa-catarina/ar3320961",
-      "fecha": "25 Nov 2026, 05:02 hrs"
+      "titulo": "Acusan a Pemex de sugerir triangular pagos y elevar facturas",
+      "resumen": "Pemex implementó un mecanismo para contratar obras y servicios directamente a empresas que no están registradas en su padrón, dijo SCTPA.",
+      "link": "https://www.reforma.com/acusan-a-pemex-de-sugerir-triangular-pagos-y-elevar-facturas/ar3321359",
+      "fecha": "25 Nov 2026, 12:56 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sube IED 6.8% en NL",
-      "resumen": "La IED sigue al alza en NL y en enero-septiembre de este año subió 6.8% anual, a 4,431 mdd.",
-      "link": "https://www.reforma.com/sube-ied-6-8-en-nl/ar3320964",
-      "fecha": "25 Nov 2026, 05:02 hrs"
+      "titulo": "Paraliza falla en sistema aduanero cruce en Nuevo Laredo",
+      "resumen": "Apagón en sistema aduanero afecta exportaciones y genera congestionamiento en el Puente Internacional del Comercio Mundial, en Nuevo Laredo.",
+      "link": "https://www.reforma.com/paraliza-falla-en-sistema-aduanero-cruce-en-nuevo-laredo/ar3321484",
+      "fecha": "25 Nov 2026, 15:11 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acapara Estado 35% de inversión coreana",
-      "resumen": "La inversión productiva de empresas de Corea del Sur en México tiene una marcada preferencia por Nuevo León.",
-      "link": "https://www.reforma.com/acapara-estado-35-de-inversion-coreana/ar3321005",
-      "fecha": "25 Nov 2026, 05:02 hrs"
+      "titulo": "Es inviable alza al salario mínimo sin apoyos.- Concanaco",
+      "resumen": "El sector comercio y servicios aseguró que el incremento al salario mínimo no es viable en un contexto de bajo crecimiento.",
+      "link": "https://www.reforma.com/es-inviable-alza-al-salario-minimo-sin-apoyos-concanaco/ar3321394",
+      "fecha": "25 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reciben estados 3.2% menos participaciones",
-      "resumen": "Las participaciones federales pagadas a los estados de enero a octubre sumaron 1.197 billones de pesos, un 3.2% inferior a lo programado.",
-      "link": "https://www.reforma.com/reciben-estados-3-2-menos-participaciones/ar3321053",
-      "fecha": "25 Nov 2026, 07:04 hrs"
+      "titulo": "Ven urgente reforma fiscal ante limitado margen de gasto",
+      "resumen": "México requiere una reforma fiscal para subir ingresos tributarios y ampliar el margen de maniobra del Gobierno, dijo México, ¿cómo vamos?",
+      "link": "https://www.reforma.com/ven-urgente-reforma-fiscal-ante-limitado-margen-de-gasto/ar3321388",
+      "fecha": "25 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen retener inversión con mejor red eléctrica",
-      "resumen": "México perderá la oportunidad de que lleguen nuevas empresas y sea rebasado por otros países si no moderniza su red eléctrica, advierte UP.",
-      "link": "https://www.reforma.com/urgen-retener-inversion-con-mejor-red-electrica/ar3321011",
-      "fecha": "25 Nov 2026, 05:02 hrs"
+      "titulo": "Bonificará Telcel a usuarios afectados por falla en su red",
+      "resumen": "Telcel compensará con datos adicionales de navegación a los usuarios de prepago y pospago afectados por la interrupción de sus servicios.",
+      "link": "https://www.reforma.com/bonificara-telcel-a-usuarios-afectados-por-falla-en-su-red/ar3321413",
+      "fecha": "25 Nov 2026, 14:17 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Revisan PIB de EU al alza; sube 4.3% en el tercer trimestre",
-      "resumen": "El Producto Interno Bruto de Estados Unidos subió un 4.3% en el tercer trimestre, frente al crecimiento de 3.4% de la primera estimación.",
-      "link": "https://www.reforma.com/revisan-pib-de-eu-al-alza-sube-4-3-en-el-tercer-trimestre/ar3321157",
-      "fecha": "25 Nov 2026, 07:52 hrs"
+      "titulo": "Cierran Nasdaq y S&amp;P 500 a la baja; el Dow repunta",
+      "resumen": "El Nasdaq cedió 0.6% y el S&amp;P 500 perdió 0.3%, tras caer hasta 4.6% y 3.2%; el Dow Jones borró una pérdida de mil 100 puntos y subió 0.3%.",
+      "link": "https://www.reforma.com/cierran-nasdaq-y-s-p-500-a-la-baja-el-dow-repunta/ar3321512",
+      "fecha": "25 Nov 2026, 15:31 hrs"
     }
   ]
 }
