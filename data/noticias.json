@@ -1,7 +1,34 @@
 {
-  "actualizado": "24/11/2026 13:57 hrs",
+  "actualizado": "24/11/2026 21:27 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Inversión extranjera en México bate récord con 43,090 mdd, pero los nuevos capitales caen 42%",
+      "resumen": "La IED creció 5.3% entre enero y septiembre de 2026. Ocho de cada 10 dólares provinieron de utilidades que las empresas reinvirtieron en el país.",
+      "link": "https://expansion.mx/economia/2026/11/24/inversion-extranjera-en-mexico-bate-record-con-43-090-mdd-pero-los-nuevos-capitales-caen-42",
+      "fecha": "24 Nov 2026, 11:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "La inflación se acelera y llega a 3.96% en la quincena en que arrancó El Buen Fin",
+      "resumen": "La electricidad y las frutas y verduras impulsaron al índice de precios en los primeros 15 días de noviembre, mientras que las mercancías no alimenticias bajaron 0.46%.",
+      "link": "https://expansion.mx/economia/2026/11/24/la-inflacion-sube-a-3-96-en-la-quincena-en-que-arranco-el-buen-fin",
+      "fecha": "24 Nov 2026, 06:34 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía Digital enfrentará resistencias; sugieren incentivos a comercios para impulsar pagos electrónicos",
+      "resumen": "El presidente de la ABM, Emilio Romano, dice que se ha avanzado en infraestructura, pero reconoce retos como reducir la desconfianza en los bancos y aumentar la inclusión financiera del país.",
+      "link": "https://expansion.mx/economia/2026/11/24/ley-de-economia-digital-enfrentara-resistencias-sugieren-incentivos-a-comercios-para-impulsar-pagos-electronicos",
+      "fecha": "24 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -46,33 +73,6 @@
       "resumen": "La economía avanzó menos que en el segundo trimestre, cuando creció 1.4%. A tasa anual, el PIB aumentó 3.3%, impulsado por el comercio y los servicios.",
       "link": "https://expansion.mx/economia/2026/11/23/pib-de-mexico-crece-0-9-tercer-trimestre-pierde-ritmo-inegi",
       "fecha": "23 Nov 2026, 06:20 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Empresas chinas piden al gobierno de Sheinbaum reglas claras para invertir en México",
-      "resumen": "Amapola Grijalva, de la Cámara de Comercio y Tecnología México-China, solicita que el gobierno precise qué evaluará por seguridad nacional antes de que las empresas asiáticas comprometan recursos.",
-      "link": "https://expansion.mx/economia/2026/11/23/sheinbaum-empresas-china-filtro-inversion-extranjera",
-      "fecha": "23 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "El plan de los empresarios para amortiguar el golpe de la inseguridad en Sinaloa",
-      "resumen": "Coparmex reporta la pérdida de 44,000 empleos y propone incentivos para reabrir negocios y medidas para investigar los delitos que afectan a las empresas.",
-      "link": "https://expansion.mx/economia/2026/11/21/plan-coparmex-sinaloa-inseguridad",
-      "fecha": "21 Nov 2026, 11:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasolina Magna se queda sin subsidio, Hacienda le cobrará 6.70 pesos de IEPS por litro",
-      "resumen": "Por segunda semana consecutiva, la gasolina Premium tampoco tendrá estímulo fiscal, mientras incrementa el IEPS para el diésel, después de 10 semanas de cuota cero.",
-      "link": "https://expansion.mx/economia/2026/11/20/gasolinas-magna-hacienda-quita-subsidio-sube-ieps-diesel",
-      "fecha": "20 Nov 2026, 18:25 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Rebasa IED  43 mil mdd:  se concentra  en reinversión",
-      "resumen": "De enero a septiembre la IED fue de 43 mil 90 millones de dólares, con lo que se apuntó un récord para un periodo similar, según la SE.",
-      "link": "https://www.reforma.com/rebasa-ied-43-mil-mdd-se-concentra-en-reinversion/ar3320524",
-      "fecha": "24 Nov 2026, 12:21 hrs"
+      "titulo": "Propondrán reglas de origen a Asia",
+      "resumen": "Secretario de Economía, Marcelo Ebrard informó que se propondrá la aplicación de reglas de origen entre los socios del TIPAT.",
+      "link": "https://www.reforma.com/propondran-reglas-de-origen-a-asia/ar3320896",
+      "fecha": "24 Nov 2026, 21:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Repunta inflación a 3.96% en primera quincena de noviembre",
-      "resumen": "Durante la primera quincena de noviembre, la inflación general en México se aceleró a 3.96%, más de lo previsto.",
-      "link": "https://www.reforma.com/repunta-inflacion-a-3-96-en-primera-quincena-de-noviembre/ar3320364",
-      "fecha": "24 Nov 2026, 07:29 hrs"
+      "titulo": "Liberan stickers con sonido en WhatsApp",
+      "resumen": "WhatsApp comenzó a liberar stickers que incorporan fragmentos de audio, aunque Meta aún no anuncia su disponibilidad general.",
+      "link": "https://www.reforma.com/liberan-stickers-con-sonido-en-whatsapp/ar3320918",
+      "fecha": "24 Nov 2026, 19:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Reprueba México en balance vida-trabajo",
-      "resumen": "En México, solo el 56.7 por ciento de los colaboradores siente que tiene un buen balance entre su vida y el trabajo, según Rankmi.",
-      "link": "https://www.reforma.com/reprueba-mexico-en-balance-vida-trabajo/ar3320475",
-      "fecha": "24 Nov 2026, 10:57 hrs"
+      "titulo": "Estima Sener se requieren 61 mil mdd para plan eléctrico",
+      "resumen": "Para llevar a cabo el nuevo plan eléctrico en el País, se requieren 61 mil millones de dólares, advierte Sener.",
+      "link": "https://www.reforma.com/estima-sener-se-requieren-61-mil-mdd-para-plan-electrico/ar3320891",
+      "fecha": "24 Nov 2026, 18:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Convoca USTR a formar paneles del Capítulo 10 de T-MEC",
-      "resumen": "La USTR invita a los interesados a postularse para formar parte de los paneles binacionales previstos en el Capítulo 10 del T-MEC.",
-      "link": "https://www.reforma.com/convoca-ustr-a-formar-paneles-del-capitulo-10-de-t-mec/ar3320560",
-      "fecha": "24 Nov 2026, 12:42 hrs"
+      "titulo": "Sufre peso peor nivel desde mayo de 2025",
+      "resumen": "El peso registró su peor nivel frente al dólar desde mayo de 2025 al cerrar este martes con una cotización de $19.41.",
+      "link": "https://www.reforma.com/sufre-peso-peor-nivel-desde-mayo-de-2025/ar3320867",
+      "fecha": "24 Nov 2026, 18:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte Coparmex NL de caída en patrones",
-      "resumen": "Al cierre de octubre, el número de registros patronales en NL se ubicó en 75 mil 754, dato menor en 972 patrones respecto al cierre de 2025.",
-      "link": "https://www.reforma.com/advierte-coparmex-nl-de-caida-en-patrones/ar3320541",
-      "fecha": "24 Nov 2026, 12:36 hrs"
+      "titulo": "Designa Santander a Ángel Alverde presidente de su Consejo",
+      "resumen": "Santander México anunció el nombramiento de Ángel Alverde Losada como nuevo presidente de su Consejo de Administración.",
+      "link": "https://www.reforma.com/designa-santander-a-angel-alverde-presidente-de-su-consejo/ar3320836",
+      "fecha": "24 Nov 2026, 17:30 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Alista EU nuevos aranceles contra China, UE y más países",
-      "resumen": "Estados Unidos anunciaría un aumento de los aranceles a bienes procedentes de China, la Unión Europea y más de una docena de otros países.",
-      "link": "https://www.reforma.com/alista-eu-nuevos-aranceles-contra-china-ue-y-mas-paises/ar3320479",
-      "fecha": "24 Nov 2026, 10:57 hrs"
+      "titulo": "Queda fuera CDMX de Vivienda para el Bienestar por tope",
+      "resumen": "El alto costo del suelo impide que la CDMX sea parte de Vivienda para el Bienestar, cuyo precio tope es de 627 mil pesos, dijo la Canadevi.",
+      "link": "https://www.reforma.com/queda-fuera-cdmx-de-vivienda-para-el-bienestar-por-tope/ar3320825",
+      "fecha": "24 Nov 2026, 17:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Baja 8% Nvidia tras repunte histórico por regreso de Huang",
-      "resumen": "Los títulos de Nvidia caían más de 8% después de que el regreso de Jensen Huang como CEO de la empresa provocara un fuerte repunte el lunes.",
-      "link": "https://www.reforma.com/baja-8-nvidia-tras-repunte-historico-por-regreso-de-huang/ar3320382",
-      "fecha": "24 Nov 2026, 08:11 hrs"
+      "titulo": "Se rezaga México en transición energética en región T-MEC",
+      "resumen": "Dentro de la región T-MEC, el País es el más rezagado en la transición energética, según el Imco y la Fundación Friedrich Naumann.",
+      "link": "https://www.reforma.com/se-rezaga-mexico-en-transicion-energetica-en-region-t-mec/ar3320751",
+      "fecha": "24 Nov 2026, 17:25 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cae Anthropic por debajo del precio de OPI de 83 dólares",
-      "resumen": "Las acciones de Anthropic caían más de 11% hasta los 77.29 dólares, situándose por debajo del precio de salida a bolsa de la compañía de IA.",
-      "link": "https://www.reforma.com/cae-anthropic-por-debajo-del-precio-de-opi-de-83-dolares/ar3320365",
-      "fecha": "24 Nov 2026, 07:29 hrs"
+      "titulo": "Regreso de Huang no logra disipar dudas y Nvidia cae 6%",
+      "resumen": "Tras dispararse más de un 30% el lunes después del regreso de Jensen Huang como CEO, las acciones de Nvidia bajaron 5.86% a 155.38 dólares.",
+      "link": "https://www.reforma.com/regreso-de-huang-no-logra-disipar-dudas-y-nvidia-cae-6/ar3320718",
+      "fecha": "24 Nov 2026, 15:14 hrs"
     }
   ]
 }
