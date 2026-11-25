@@ -1,7 +1,34 @@
 {
-  "actualizado": "24/11/2026 21:27 hrs",
+  "actualizado": "25/11/2026 07:55 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Banamex y XXI Banorte concentran más de un tercio de las ganancias de las Afore",
+      "resumen": "Las dos administradoras obtuvieron 5,325 millones de pesos entre enero y octubre. Los ingresos por comisiones, el crecimiento del ahorro y las inversiones impulsan su desempeño.",
+      "link": "https://expansion.mx/economia/2026/11/25/banamex-y-xxi-banorte-concentran-mas-de-un-tercio-de-las-ganancias-de-las-afore",
+      "fecha": "25 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El salario mínimo aún puede subir hasta 11%, estima Banamex",
+      "resumen": "De ser así, el ingreso pasaría de 9,451.2 a 10,490.7 pesos al mes en 2027, pero aún falta la decisión final de la Conasami",
+      "link": "https://expansion.mx/economia/2026/11/24/salario-minimo-2027-oferta-empresarial-inflacion-despensa",
+      "fecha": "24 Nov 2026, 17:35 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
+      "resumen": "El empresario mexicano sustituye a Laura Diez Barroso Azcárraga, quien estuvo en el cargo desde 2020, siendo la primera mujer en presidir un consejo de administración de un banco en México.",
+      "link": "https://expansion.mx/economia/2026/11/24/designa-santander-a-angel-alverde-losada-como-presidente-de-su-consejo-de-administracion",
+      "fecha": "24 Nov 2026, 15:46 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -49,30 +76,30 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Aranceles de EU afectan estructura de costos de 45% de empresas en México, dice encuesta de HSBC",
-      "resumen": "A pesar del impacto en la operación, las firmas nacionales son optimistas en el comercio bilateral, ya que un 90% confía en aumentar el intercambio de bienes en los próximos dos años",
-      "link": "https://expansion.mx/economia/2026/11/23/aranceles-de-eu-afectan-estructura-de-costos-de-45-de-empresas-en-mexico-dice-encuesta-de-hsbc",
-      "fecha": "23 Nov 2026, 13:13 hrs"
+      "titulo": "Grupo Salinas paga 40,400 mdp de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
+      "resumen": "Ricardo Salinas Pliego utiliza la cifra para defender el cumplimiento fiscal de su conglomerado y exigir al gobierno transparencia sobre el destino de los recursos públicos.",
+      "link": "https://expansion.mx/empresas/2026/11/24/grupo-salinas-pago-impuestos-40400-millones-pesos",
+      "fecha": "24 Nov 2026, 19:56 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Seguridad en México tardará más de 5 años en mejorar, dice sondeo empresarial de AmCham",
-      "resumen": "Una de cada cuatro compañías consultadas por el organismo suspendió operaciones en algún estado por inseguridad y 17% redujo sus inversiones en México.",
-      "link": "https://expansion.mx/economia/2026/11/23/empresas-seguridad-mexico-cinco-anos-amcham",
-      "fecha": "23 Nov 2026, 11:34 hrs"
+      "titulo": "Nestlé promete pagar el café por encima del mercado, pero no responde a la exigencia de los productores de Chiapas",
+      "resumen": "La empresa buscará elevar sus compras de café nacional y mantener los precios por encima de las referencias internacionales. La medida llega en medio de protestas de caficultores que denuncian pagos d…",
+      "link": "https://expansion.mx/empresas/2026/11/24/nestle-precios-cafe-mexico-productores-chiapas",
+      "fecha": "24 Nov 2026, 16:10 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "PIB de México crece 0.9% en el tercer trimestre, pero pierde ritmo",
-      "resumen": "La economía avanzó menos que en el segundo trimestre, cuando creció 1.4%. A tasa anual, el PIB aumentó 3.3%, impulsado por el comercio y los servicios.",
-      "link": "https://expansion.mx/economia/2026/11/23/pib-de-mexico-crece-0-9-tercer-trimestre-pierde-ritmo-inegi",
-      "fecha": "23 Nov 2026, 06:20 hrs"
+      "titulo": "El Nissan Versa es el rey de ventas en México, pero estos autos nuevos cuestan hasta 84,990 pesos menos",
+      "resumen": "Entre las alternativas para estrenar auto en México hay sedanes, hatchbacks y una SUV; algunos precios dependen de contratar financiamiento.",
+      "link": "https://expansion.mx/empresas/2026/11/24/autos-nuevos-accebles-que-nissan-versa-mexico-2026",
+      "fecha": "24 Nov 2026, 15:14 hrs"
     },
     {
       "fuente": "Expansión",
@@ -120,103 +147,76 @@
       "fecha": "21 Nov 2026, 14:13 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "La fábrica de chocolates de Carlos Slim en CDMX que pocos conocen y esconde un negocio histórico detrás de Sanborns",
-      "resumen": "Cacao de Tabasco, procesos manuales y una planta en plena Ciudad de México forman parte de la historia de este negocio de confitería del ingeniero.",
-      "link": "https://expansion.mx/empresas/2026/11/20/carlos-slim-y-su-fabrica-de-chocolate-en-sanborns",
-      "fecha": "20 Nov 2026, 15:56 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Telcel falla este viernes: usuarios reportan problemas para hacer llamadas y conectarse a internet",
-      "resumen": "La empresa explicó que el problema estivo asociado a una degradación en localidades de la región 9 que implican, CDMX, Morelos, entre otras. La red aún presenta intermitencias.",
-      "link": "https://expansion.mx/empresas/2026/11/20/telcel-falla-este-viernes-problemas-para-hacer-llamadas",
-      "fecha": "20 Nov 2026, 12:43 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "De criar 50 pollitas a tener 40 millones de gallinas: la historia detrás de Huevo San Juan y la familia Romo de Jalisco",
-      "resumen": "Manuel Romo Muñoz fundó PROAN en 1954. Siete décadas después, el grupo produce huevo, carne de cerdo, leche, panadería y alimentos para mascotas.",
-      "link": "https://expansion.mx/empresas/2026/11/20/huevo-san-juan-historia-familia-romo-y-su-imperio",
-      "fecha": "20 Nov 2026, 11:57 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Propone EU nuevos aranceles a 14 socios comerciales",
+      "resumen": "EU propuso nuevos aranceles a 14 socios comerciales para combatir el \"exceso de capacidad industrial\"; México queda fuera por ahora.",
+      "link": "https://www.reforma.com/propone-eu-nuevos-aranceles-a-14-socios-comerciales/ar3321145",
+      "fecha": "25 Nov 2026, 07:29 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Propondrán reglas de origen a Asia",
-      "resumen": "Secretario de Economía, Marcelo Ebrard informó que se propondrá la aplicación de reglas de origen entre los socios del TIPAT.",
-      "link": "https://www.reforma.com/propondran-reglas-de-origen-a-asia/ar3320896",
-      "fecha": "24 Nov 2026, 21:00 hrs"
+      "titulo": "Busca Costco instalar tienda en Santa Catarina",
+      "resumen": "Costco, la cadena tipo club de precios más grande del mundo, busca instalar su quinta tienda de NL en Santa Catarina.",
+      "link": "https://www.reforma.com/busca-costco-instalar-tienda-en-santa-catarina/ar3320961",
+      "fecha": "25 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Liberan stickers con sonido en WhatsApp",
-      "resumen": "WhatsApp comenzó a liberar stickers que incorporan fragmentos de audio, aunque Meta aún no anuncia su disponibilidad general.",
-      "link": "https://www.reforma.com/liberan-stickers-con-sonido-en-whatsapp/ar3320918",
-      "fecha": "24 Nov 2026, 19:15 hrs"
+      "titulo": "Sube IED 6.8% en NL",
+      "resumen": "La IED sigue al alza en NL y en enero-septiembre de este año subió 6.8% anual, a 4,431 mdd.",
+      "link": "https://www.reforma.com/sube-ied-6-8-en-nl/ar3320964",
+      "fecha": "25 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estima Sener se requieren 61 mil mdd para plan eléctrico",
-      "resumen": "Para llevar a cabo el nuevo plan eléctrico en el País, se requieren 61 mil millones de dólares, advierte Sener.",
-      "link": "https://www.reforma.com/estima-sener-se-requieren-61-mil-mdd-para-plan-electrico/ar3320891",
-      "fecha": "24 Nov 2026, 18:33 hrs"
+      "titulo": "Acapara Estado 35% de inversión coreana",
+      "resumen": "La inversión productiva de empresas de Corea del Sur en México tiene una marcada preferencia por Nuevo León.",
+      "link": "https://www.reforma.com/acapara-estado-35-de-inversion-coreana/ar3321005",
+      "fecha": "25 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Sufre peso peor nivel desde mayo de 2025",
-      "resumen": "El peso registró su peor nivel frente al dólar desde mayo de 2025 al cerrar este martes con una cotización de $19.41.",
-      "link": "https://www.reforma.com/sufre-peso-peor-nivel-desde-mayo-de-2025/ar3320867",
-      "fecha": "24 Nov 2026, 18:00 hrs"
+      "titulo": "Reciben estados 3.2% menos participaciones",
+      "resumen": "Las participaciones federales pagadas a los estados de enero a octubre sumaron 1.197 billones de pesos, un 3.2% inferior a lo programado.",
+      "link": "https://www.reforma.com/reciben-estados-3-2-menos-participaciones/ar3321053",
+      "fecha": "25 Nov 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Designa Santander a Ángel Alverde presidente de su Consejo",
-      "resumen": "Santander México anunció el nombramiento de Ángel Alverde Losada como nuevo presidente de su Consejo de Administración.",
-      "link": "https://www.reforma.com/designa-santander-a-angel-alverde-presidente-de-su-consejo/ar3320836",
-      "fecha": "24 Nov 2026, 17:30 hrs"
+      "titulo": "Urgen retener inversión con mejor red eléctrica",
+      "resumen": "México perderá la oportunidad de que lleguen nuevas empresas y sea rebasado por otros países si no moderniza su red eléctrica, advierte UP.",
+      "link": "https://www.reforma.com/urgen-retener-inversion-con-mejor-red-electrica/ar3321011",
+      "fecha": "25 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Queda fuera CDMX de Vivienda para el Bienestar por tope",
-      "resumen": "El alto costo del suelo impide que la CDMX sea parte de Vivienda para el Bienestar, cuyo precio tope es de 627 mil pesos, dijo la Canadevi.",
-      "link": "https://www.reforma.com/queda-fuera-cdmx-de-vivienda-para-el-bienestar-por-tope/ar3320825",
-      "fecha": "24 Nov 2026, 17:25 hrs"
+      "titulo": "70 millones de razones para mirar al norte",
+      "resumen": "Estados de EU, como California y Texas, deberían impulsar agenda más proactiva con México, para que Norteamérica compita por inversiones.",
+      "link": "https://www.reforma.com/70-millones-de-razones-para-mirar-al-norte/ar3320473",
+      "fecha": "25 Nov 2026, 07:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se rezaga México en transición energética en región T-MEC",
-      "resumen": "Dentro de la región T-MEC, el País es el más rezagado en la transición energética, según el Imco y la Fundación Friedrich Naumann.",
-      "link": "https://www.reforma.com/se-rezaga-mexico-en-transicion-energetica-en-region-t-mec/ar3320751",
-      "fecha": "24 Nov 2026, 17:25 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Regreso de Huang no logra disipar dudas y Nvidia cae 6%",
-      "resumen": "Tras dispararse más de un 30% el lunes después del regreso de Jensen Huang como CEO, las acciones de Nvidia bajaron 5.86% a 155.38 dólares.",
-      "link": "https://www.reforma.com/regreso-de-huang-no-logra-disipar-dudas-y-nvidia-cae-6/ar3320718",
-      "fecha": "24 Nov 2026, 15:14 hrs"
+      "titulo": "Revisan PIB de EU al alza; sube 4.3% en el tercer trimestre",
+      "resumen": "El Producto Interno Bruto de Estados Unidos subió un 4.3% en el tercer trimestre, frente al crecimiento de 3.4% de la primera estimación.",
+      "link": "https://www.reforma.com/revisan-pib-de-eu-al-alza-sube-4-3-en-el-tercer-trimestre/ar3321157",
+      "fecha": "25 Nov 2026, 07:52 hrs"
     }
   ]
 }
