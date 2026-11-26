@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/11/2026 16:57 hrs",
+  "actualizado": "25/11/2026 22:47 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Adultos mayores, los que más cancelan pólizas de gastos médicos por altos precios; AMIS dice colaborar con Diputados",
+      "resumen": "La iniciativa para regular los seguros de gastos médicos en México llegará este jueves a Diputados en un escenario de elevada inflación médica y caída en utilidades de aseguradoras",
+      "link": "https://expansion.mx/economia/2026/11/25/adultos-mayores-los-que-mas-cancelan-polizas-de-gastos-medicos-por-altos-precios-amis-mantiene-disposicion-a-colaborar",
+      "fecha": "25 Nov 2026, 18:31 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Rendimientos de las Cajitas de Nu bajarán a partir de esta fecha, pero el cambio no es para todas",
+      "resumen": "La fintech ajustará las tasas de sus herramientas de ahorro en diciembre, además puso una condición para conservar uno de los mayores rendimientos.",
+      "link": "https://expansion.mx/economia/2026/11/25/rendimientos-cajitas-nu-bajaran-fecha-no-todas",
+      "fecha": "25 Nov 2026, 18:08 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -58,27 +76,36 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "La inflación se acelera y llega a 3.96% en la quincena en que arrancó El Buen Fin",
-      "resumen": "La electricidad y las frutas y verduras impulsaron al índice de precios en los primeros 15 días de noviembre, mientras que las mercancías no alimenticias bajaron 0.46%.",
-      "link": "https://expansion.mx/economia/2026/11/24/la-inflacion-sube-a-3-96-en-la-quincena-en-que-arranco-el-buen-fin",
-      "fecha": "24 Nov 2026, 06:34 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Ley de Economía Digital enfrentará resistencias; sugieren incentivos a comercios para impulsar pagos electrónicos",
-      "resumen": "El presidente de la ABM, Emilio Romano, dice que se ha avanzado en infraestructura, pero reconoce retos como reducir la desconfianza en los bancos y aumentar la inclusión financiera del país.",
-      "link": "https://expansion.mx/economia/2026/11/24/ley-de-economia-digital-enfrentara-resistencias-sugieren-incentivos-a-comercios-para-impulsar-pagos-electronicos",
-      "fecha": "24 Nov 2026, 05:55 hrs"
+      "titulo": "BMW X7 2027 combina lujo, amplitud y tecnología en cada trayecto",
+      "resumen": "Con tres filas de asientos, motor Mild Hybrid de seis cilindros y tecnología de asistencia a la conducción, el BMW X7 xDrive40i 2027 reúne espacio, dinamismo y confort para distintos estilos de viaje.",
+      "link": "https://expansion.mx/empresas/2026/11/25/bmw-x7-2027-combina-lujo-y-tecnologia",
+      "fecha": "25 Nov 2026, 16:05 hrs"
     },
     {
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Grupo Salinas paga 40,400 mdp de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
+      "titulo": "Telcel bonificará megas gratis por fallas del 20 de noviembre: quién los recibirá y cuánto tiempo tendrá para usarlos",
+      "resumen": "Los datos móviles adicionales tendrán una vigencia de 30 días naturales y el momento en que se apliquen dependerá del tipo de servicio contratado.",
+      "link": "https://expansion.mx/empresas/2026/11/25/telcel-megas-gratis-bonificacion-fallas-20-noviembre-2026",
+      "fecha": "25 Nov 2026, 14:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Ni de Milán ni de Roma: Ferrioni es 100% chilanga y esta es la familia que la creó",
+      "resumen": "La marca nació en 1986 a partir de la Camisería Savoy, fundada por José Rión, y se consolidó como referente de elegancia casual.",
+      "link": "https://expansion.mx/empresas/2026/11/25/ferrioni-marca-mexicana-historia-perrito-terrier",
+      "fecha": "25 Nov 2026, 14:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
+      "titulo": "Grupo Salinas dice que paga 40,400 mdp de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
       "resumen": "Ricardo Salinas Pliego utiliza la cifra para defender el cumplimiento fiscal de su conglomerado y exigir al gobierno transparencia sobre el destino de los recursos públicos.",
       "link": "https://expansion.mx/empresas/2026/11/24/grupo-salinas-pago-impuestos-40400-millones-pesos",
       "fecha": "24 Nov 2026, 19:56 hrs"
@@ -120,85 +147,58 @@
       "fecha": "23 Nov 2026, 15:55 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El cardiólogo que se metió al mundo de los negocios y construyó Médica Sur, un imperio de 4,800 mdp",
-      "resumen": "Un grupo de 17 médicos comenzó el proyecto que daría origen a Médica Sur. Entre sus fundadores estuvo Jaime Jacobo Arriaga Gracia, quien participó en el desarrollo de un negocio multimillonario.",
-      "link": "https://expansion.mx/empresas/2026/11/23/doctor-negocios-construir-medica-sur-imperio-4-800-mdp",
-      "fecha": "23 Nov 2026, 13:57 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Enel Energía fortalece la sostenibilidad y eficiencia de los negocios",
-      "resumen": "Una estrategia energética a la medida optimiza las finanzas y la competitividad, para alcanzar las metas sostenibles en el entorno corporativo.",
-      "link": "https://expansion.mx/empresas/2026/11/23/enel-energia-fortalece-la-sostenibilidad-y-eficiencia-de-los-negocios",
-      "fecha": "23 Nov 2026, 08:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Dr. Simi lleva café y atención veterinaria a una misma esquina de Holbox",
-      "resumen": "El presidente de Farmacias Similares contó que la idea de abrir cafeterías y veterinarias surgió, en parte, de peticiones en redes sociales.",
-      "link": "https://expansion.mx/empresas/2026/11/21/cafe-simi-simipet-care-primera-veterinaria-holbox",
-      "fecha": "21 Nov 2026, 14:13 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se reúne SE con Singapur, Perú, Chile y UE en cumbre TIPAT",
+      "resumen": "El Secretario de Economía, Marcelo Ebrard se reunió con delegaciones de Singapur, Perú, Chile y la UE en el marco de la cumbre TIPAT.",
+      "link": "https://www.reforma.com/se-reune-se-con-singapur-peru-chile-y-ue-en-cumbre-tipat/ar3321802",
+      "fecha": "25 Nov 2026, 21:44 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Modera dólar avance; cierra en $19.58",
-      "resumen": "Luego de cotizar en hasta $19.84, nivel no visto desde abril de 2025, el dólar cerró en $19.58, con un avance de 1% frente al martes.",
-      "link": "https://www.reforma.com/modera-dolar-avance-cierra-en-19-58/ar3321541",
+      "titulo": "Construirán 460 mil viviendas, cifra no vista en 10 años",
+      "resumen": "Este año se prevé la construcción de 460 mil viviendas, cifra que no se veía desde hace 10 años, aseguró Canadevi.",
+      "link": "https://www.reforma.com/construiran-460-mil-viviendas-cifra-no-vista-en-10-anos/ar3321786",
+      "fecha": "25 Nov 2026, 21:15 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Asegura Sener que se han ahorrado 9,132 GWh",
+      "resumen": "Según la Sener, las acciones que implementó han generado hasta ahora un ahorro estimado de 9 mil 132 gigawatts hora (GWh).",
+      "link": "https://www.reforma.com/asegura-sener-que-se-han-ahorrado-9-132-gwh/ar3321611",
+      "fecha": "25 Nov 2026, 21:01 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Hila el peso sexta sesión a la baja: cierra dólar en $19.59",
+      "resumen": "Luego de cotizar hasta en 19.84 unidades, nivel no visto desde abril de 2025, el dólar cerró en 19.59 pesos en el mercado internacional.",
+      "link": "https://www.reforma.com/hila-el-peso-sexta-sesion-a-la-baja-cierra-dolar-en-19-59/ar3321541",
       "fecha": "25 Nov 2026, 15:48 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Acusan a Pemex de sugerir triangular pagos y elevar facturas",
-      "resumen": "Pemex implementó un mecanismo para contratar obras y servicios directamente a empresas que no están registradas en su padrón, dijo SCTPA.",
-      "link": "https://www.reforma.com/acusan-a-pemex-de-sugerir-triangular-pagos-y-elevar-facturas/ar3321359",
-      "fecha": "25 Nov 2026, 12:56 hrs"
+      "titulo": "Cierran Nasdaq y S&amp;P 500 a la baja; el Dow repunta",
+      "resumen": "El Nasdaq cedió 0.6% y el S&amp;P 500 perdió 0.3%, tras caer hasta 4.6% y 3.2%; el Dow Jones borró una pérdida de mil 100 puntos y subió 0.3%.",
+      "link": "https://www.reforma.com/cierran-nasdaq-y-s-p-500-a-la-baja-el-dow-repunta/ar3321512",
+      "fecha": "25 Nov 2026, 15:31 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Paraliza falla en sistema aduanero cruce en Nuevo Laredo",
-      "resumen": "Apagón en sistema aduanero afecta exportaciones y genera congestionamiento en el Puente Internacional del Comercio Mundial, en Nuevo Laredo.",
-      "link": "https://www.reforma.com/paraliza-falla-en-sistema-aduanero-cruce-en-nuevo-laredo/ar3321484",
-      "fecha": "25 Nov 2026, 15:11 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Es inviable alza al salario mínimo sin apoyos.- Concanaco",
-      "resumen": "El sector comercio y servicios aseguró que el incremento al salario mínimo no es viable en un contexto de bajo crecimiento.",
-      "link": "https://www.reforma.com/es-inviable-alza-al-salario-minimo-sin-apoyos-concanaco/ar3321394",
-      "fecha": "25 Nov 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Ven urgente reforma fiscal ante limitado margen de gasto",
-      "resumen": "México requiere una reforma fiscal para subir ingresos tributarios y ampliar el margen de maniobra del Gobierno, dijo México, ¿cómo vamos?",
-      "link": "https://www.reforma.com/ven-urgente-reforma-fiscal-ante-limitado-margen-de-gasto/ar3321388",
-      "fecha": "25 Nov 2026, 14:17 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Bonificará Telcel a usuarios afectados por falla en su red",
-      "resumen": "Telcel compensará con datos adicionales de navegación a los usuarios de prepago y pospago afectados por la interrupción de sus servicios.",
-      "link": "https://www.reforma.com/bonificara-telcel-a-usuarios-afectados-por-falla-en-su-red/ar3321413",
-      "fecha": "25 Nov 2026, 14:17 hrs"
+      "titulo": "Destaca Fed un crecimiento constante e inflación persistente",
+      "resumen": "Libro Beige de la Fed mostró que el crecimiento se mantuvo de \"leve a moderado\" en mayor parte de EU, mientras que la inflación persistía.",
+      "link": "https://www.reforma.com/destaca-fed-un-crecimiento-constante-e-inflacion-persistente/ar3321451",
+      "fecha": "25 Nov 2026, 14:46 hrs"
     },
     {
       "fuente": "Reforma",
@@ -213,10 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran Nasdaq y S&amp;P 500 a la baja; el Dow repunta",
-      "resumen": "El Nasdaq cedió 0.6% y el S&amp;P 500 perdió 0.3%, tras caer hasta 4.6% y 3.2%; el Dow Jones borró una pérdida de mil 100 puntos y subió 0.3%.",
-      "link": "https://www.reforma.com/cierran-nasdaq-y-s-p-500-a-la-baja-el-dow-repunta/ar3321512",
-      "fecha": "25 Nov 2026, 15:31 hrs"
+      "titulo": "Ataques en Medio Oriente hacen subir los precios del crudo",
+      "resumen": "El precio del barril de Brent ganó un 3.51% a 94.61 dólares, mientras que el barril de West Texas Intermediate avanzó 1.99% hasta los 83.68.",
+      "link": "https://www.reforma.com/ataques-en-medio-oriente-hacen-subir-los-precios-del-crudo/ar3321441",
+      "fecha": "25 Nov 2026, 14:26 hrs"
     }
   ]
 }
