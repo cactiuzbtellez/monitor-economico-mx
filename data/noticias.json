@@ -1,7 +1,25 @@
 {
-  "actualizado": "25/11/2026 22:47 hrs",
+  "actualizado": "26/11/2026 08:44 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Regulación a seguros de gastos médicos en México: puntos clave de la iniciativa que busca detener incrementos en pólizas",
+      "resumen": "La propuesta de Ricardo Monreal busca proteger a adultos mayores, limitar los márgenes de utilidad de las aseguradoras y las comisiones que reciben los agentes.",
+      "link": "https://expansion.mx/economia/2026/11/26/regulacion-a-seguros-de-gastos-medicos-en-mexico-puntos-clave-de-la-iniciativa-que-busca-detener-incrementos-en-polizas",
+      "fecha": "26 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Asia pisa el acelerador en México pese a Trump; le vende 106,000 mdd más que EU y Canadá",
+      "resumen": "Las importaciones provenientes de Asia crecieron 51.6% hasta septiembre, frente al avance de 9.6% de las compras a los socios del T-MEC.",
+      "link": "https://expansion.mx/economia/2026/11/26/asia-amplia-ventaja-norteamerica-proveedor-mexico",
+      "fecha": "26 Nov 2026, 05:55 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -55,24 +73,6 @@
       "resumen": "De ser así, el ingreso pasaría de 9,451.2 a 10,490.7 pesos al mes en 2027, pero aún falta la decisión final de la Conasami",
       "link": "https://expansion.mx/economia/2026/11/24/salario-minimo-2027-oferta-empresarial-inflacion-despensa",
       "fecha": "24 Nov 2026, 17:35 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Designa Santander a Ángel Alverde Losada como presidente de su Consejo de Administración",
-      "resumen": "El empresario mexicano sustituye a Laura Diez Barroso Azcárraga, quien estuvo en el cargo desde 2020, siendo la primera mujer en presidir un consejo de administración de un banco en México.",
-      "link": "https://expansion.mx/economia/2026/11/24/designa-santander-a-angel-alverde-losada-como-presidente-de-su-consejo-de-administracion",
-      "fecha": "24 Nov 2026, 15:46 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Inversión extranjera en México bate récord con 43,090 mdd, pero los nuevos capitales caen 42%",
-      "resumen": "La IED creció 5.3% entre enero y septiembre de 2026. Ocho de cada 10 dólares provinieron de utilidades que las empresas reinvirtieron en el país.",
-      "link": "https://expansion.mx/economia/2026/11/24/inversion-extranjera-en-mexico-bate-record-con-43-090-mdd-pero-los-nuevos-capitales-caen-42",
-      "fecha": "24 Nov 2026, 11:02 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se reúne SE con Singapur, Perú, Chile y UE en cumbre TIPAT",
-      "resumen": "El Secretario de Economía, Marcelo Ebrard se reunió con delegaciones de Singapur, Perú, Chile y la UE en el marco de la cumbre TIPAT.",
-      "link": "https://www.reforma.com/se-reune-se-con-singapur-peru-chile-y-ue-en-cumbre-tipat/ar3321802",
-      "fecha": "25 Nov 2026, 21:44 hrs"
+      "titulo": "Da EU señal favorable a México",
+      "resumen": "La decisión de no incluir a México en el nuevo paquete arancelario representa una señal favorable para la certidumbre empresarial.",
+      "link": "https://www.reforma.com/da-eu-senal-favorable-a-mexico/ar3321866",
+      "fecha": "26 Nov 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Construirán 460 mil viviendas, cifra no vista en 10 años",
-      "resumen": "Este año se prevé la construcción de 460 mil viviendas, cifra que no se veía desde hace 10 años, aseguró Canadevi.",
-      "link": "https://www.reforma.com/construiran-460-mil-viviendas-cifra-no-vista-en-10-anos/ar3321786",
-      "fecha": "25 Nov 2026, 21:15 hrs"
+      "titulo": "Perfila peso séptima sesión de pérdidas; dólar sube a $19.63",
+      "resumen": "El dólar se negocia en $19.63, con un descenso del 0.23% para la moneda mexicana, que se encaminaba a su séptima sesión seguida de pérdidas.",
+      "link": "https://www.reforma.com/perfila-peso-septima-sesion-de-perdidas-dolar-sube-a-19-63/ar3321985",
+      "fecha": "26 Nov 2026, 08:15 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Asegura Sener que se han ahorrado 9,132 GWh",
-      "resumen": "Según la Sener, las acciones que implementó han generado hasta ahora un ahorro estimado de 9 mil 132 gigawatts hora (GWh).",
-      "link": "https://www.reforma.com/asegura-sener-que-se-han-ahorrado-9-132-gwh/ar3321611",
-      "fecha": "25 Nov 2026, 21:01 hrs"
+      "titulo": "Trae repunte del dólar respiro a exportadores",
+      "resumen": "Repunte del dólar frente al peso favorece a industria manufacturera de exportación, destaca Felipe Villarreal, presidente de Index NL.",
+      "link": "https://www.reforma.com/trae-repunte-del-dolar-respiro-a-exportadores/ar3321828",
+      "fecha": "26 Nov 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Hila el peso sexta sesión a la baja: cierra dólar en $19.59",
-      "resumen": "Luego de cotizar hasta en 19.84 unidades, nivel no visto desde abril de 2025, el dólar cerró en 19.59 pesos en el mercado internacional.",
-      "link": "https://www.reforma.com/hila-el-peso-sexta-sesion-a-la-baja-cierra-dolar-en-19-59/ar3321541",
-      "fecha": "25 Nov 2026, 15:48 hrs"
+      "titulo": "Obligarían a negociar TUA con aerolíneas",
+      "resumen": "Plantean un mecanismo que ordenaría que los grupos aeroportuarios busquen acuerdos con las aerolíneas si éstas se oponen al alza de la TUA.",
+      "link": "https://www.reforma.com/obligarian-a-negociar-tua-con-aerolineas/ar3321847",
+      "fecha": "26 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cierran Nasdaq y S&amp;P 500 a la baja; el Dow repunta",
-      "resumen": "El Nasdaq cedió 0.6% y el S&amp;P 500 perdió 0.3%, tras caer hasta 4.6% y 3.2%; el Dow Jones borró una pérdida de mil 100 puntos y subió 0.3%.",
-      "link": "https://www.reforma.com/cierran-nasdaq-y-s-p-500-a-la-baja-el-dow-repunta/ar3321512",
-      "fecha": "25 Nov 2026, 15:31 hrs"
+      "titulo": "Apoyan remesas saldo externo",
+      "resumen": "Los ingresos por remesas que recibió México durante el tercer trimestre del año sumaron 16 mil 408 millones de dólares, reveló Banxico.",
+      "link": "https://www.reforma.com/apoyan-remesas-saldo-externo/ar3321842",
+      "fecha": "26 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Destaca Fed un crecimiento constante e inflación persistente",
-      "resumen": "Libro Beige de la Fed mostró que el crecimiento se mantuvo de \"leve a moderado\" en mayor parte de EU, mientras que la inflación persistía.",
-      "link": "https://www.reforma.com/destaca-fed-un-crecimiento-constante-e-inflacion-persistente/ar3321451",
-      "fecha": "25 Nov 2026, 14:46 hrs"
+      "titulo": "Prevén repunten en 2027 fusiones y adquisiciones",
+      "resumen": "Mayor certidumbre sobre T-MEC y reducción de tasas de interés podrían detonar fusiones y adquisiciones durante 2027.",
+      "link": "https://www.reforma.com/preven-repunten-en-2027-fusiones-y-adquisiciones/ar3321845",
+      "fecha": "26 Nov 2026, 05:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "70 millones de razones para mirar al norte",
-      "resumen": "Estados de EU, como California y Texas, deberían impulsar agenda más proactiva con México, para que Norteamérica compita por inversiones.",
-      "link": "https://www.reforma.com/70-millones-de-razones-para-mirar-al-norte/ar3320473",
-      "fecha": "25 Nov 2026, 07:01 hrs"
+      "titulo": "Rechazan socios comerciales de EU nuevos aranceles de Trump",
+      "resumen": "China, Japón y otros socios comerciales de EU respondieron a las acusaciones de que tienen un exceso de capacidad industrial.",
+      "link": "https://www.reforma.com/rechazan-socios-comerciales-de-eu-nuevos-aranceles-de-trump/ar3321971",
+      "fecha": "26 Nov 2026, 07:32 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Ataques en Medio Oriente hacen subir los precios del crudo",
-      "resumen": "El precio del barril de Brent ganó un 3.51% a 94.61 dólares, mientras que el barril de West Texas Intermediate avanzó 1.99% hasta los 83.68.",
-      "link": "https://www.reforma.com/ataques-en-medio-oriente-hacen-subir-los-precios-del-crudo/ar3321441",
-      "fecha": "25 Nov 2026, 14:26 hrs"
+      "titulo": "Elige BCE a Pablo Hernández de Cos como nuevo presidente",
+      "resumen": "El economista español Pablo Hernández de Cos será el próximo presidente del Banco Central Europeo a partir de febrero, según el FT.",
+      "link": "https://www.reforma.com/elige-bce-a-pablo-hernandez-de-cos-como-nuevo-presidente/ar3321979",
+      "fecha": "26 Nov 2026, 08:04 hrs"
     }
   ]
 }
