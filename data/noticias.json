@@ -1,7 +1,43 @@
 {
-  "actualizado": "26/11/2026 17:29 hrs",
+  "actualizado": "27/11/2026 00:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Agentes de seguros ven necesario mejorar las condiciones de gastos médicos tras un año difícil para renovar pólizas",
+      "resumen": "La Amasfac pide un análisis profundo por parte de las autoridades de la iniciativa del diputado Ricardo Monreal; aumentos en seguro de gastos médicos mantienen un promedio de 25%.",
+      "link": "https://expansion.mx/economia/2026/11/26/agentes-de-seguros-ven-necesario-mejorar-las-condiciones-de-gastos-medicos-tras-un-ano-dificil-para-renovar-polizas",
+      "fecha": "26 Nov 2026, 17:23 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gobernadora de Banxico descarta inicio de ciclo de reducciones en la tasa de referencia",
+      "resumen": "De acuerdo con Victoria Rodríguez, la decisión de la Junta de Gobierno de noviembre se sustentó en la continuación de un proceso de menor inflación en el país.",
+      "link": "https://expansion.mx/economia/2026/11/26/gobernadora-banxico-descarta-reducciones-tasa-interes",
+      "fecha": "26 Nov 2026, 16:15 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México registra su quinta mayor salida trimestral de inversión de cartera",
+      "resumen": "Si bien durante el tercer trimestre del año se reportó una salida de 11,696 mdd en inversiones de bonos y acciones; analistas atribuyen el ajuste al alza de tasas en EU y a que más mexicanos invirtier…",
+      "link": "https://expansion.mx/economia/2026/11/26/mexico-registra-su-quinta-mayor-salida-trimestral-de-inversion-de-cartera",
+      "fecha": "26 Nov 2026, 15:25 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "PIB de México crecerá más, Banxico sube expectativa a 1.9% para el cierre de 2026",
+      "resumen": "El banco central indicó que esta mejora se debió al crecimiento que mostró el sector de servicios y a la reactivación continua de las actividades industriales en el país",
+      "link": "https://expansion.mx/economia/2026/11/26/banxico-expectativa-pib-economia-2026-2027",
+      "fecha": "26 Nov 2026, 12:47 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,39 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Desempleo en México alcanza a 1.8 millones de personas; se incrementa más en las mujeres",
-      "resumen": "Al cierre de septiembre, más de 90 mil mujeres buscaron un nuevo trabajo sin tener éxito; mientras que 71,688 hombres lo hicieron sin tener suerte, de acuerdo con datos del Inegi",
-      "link": "https://expansion.mx/economia/2026/11/25/desempleo-en-mexico-alcanza-a-1-8-millones-de-personas-se-incrementa-mas-en-las-mujeres",
-      "fecha": "25 Nov 2026, 12:26 hrs"
+      "titulo": "El hospital del Tec de Monterrey que impulsó el empresario detrás de Cemex y atiende más de 100,000 pacientes",
+      "resumen": "Más allá de su trayectoria al frente de Cemex, Lorenzo Zambrano también participó en el impulso de proyectos educativos y médicos del Tecnológico de Monterrey.",
+      "link": "https://expansion.mx/empresas/2026/11/26/hospital-empresario-cemex-tec-monterrey-atiende-100-000",
+      "fecha": "26 Nov 2026, 17:02 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "México libra por ahora los aranceles que Trump propone a 14 economías por sobrecapacidad industrial",
-      "resumen": "La USTR  plantea tasas de 15% a 35%, con Vietnam en el extremo más alto. Dejó pendientes las resoluciones sobre México y Noruega.",
-      "link": "https://expansion.mx/economia/2026/11/25/eu-propone-aranceles-14-economias-mexico-queda-fuera",
-      "fecha": "25 Nov 2026, 08:48 hrs"
+      "titulo": "Tiendas 3B deja de lado los comerciales y apuesta por una publicidad difícil de comprar, que sus clientes la recomienden",
+      "resumen": "En lugar de pagar comerciales de televisión, radio o anuncios impresos, Tiendas 3B utiliza herramientas de bajo costo que lo ha llevado a abrir más de 3,000 tiendas en México.",
+      "link": "https://expansion.mx/empresas/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
+      "fecha": "26 Nov 2026, 15:21 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Banamex y XXI Banorte concentran más de un tercio de las ganancias de las Afore",
-      "resumen": "Las dos administradoras obtuvieron 5,325 millones de pesos entre enero y octubre. Los ingresos por comisiones, el crecimiento del ahorro y las inversiones impulsan su desempeño.",
-      "link": "https://expansion.mx/economia/2026/11/25/banamex-y-xxi-banorte-concentran-mas-de-un-tercio-de-las-ganancias-de-las-afore",
-      "fecha": "25 Nov 2026, 05:55 hrs"
+      "titulo": "CFE obtiene concesión para competir con Telcel, AT&T y Movistar en el mercado móvil",
+      "resumen": "La empresa estatal podrá ofrecer servicios de telefonía e internet con fines de lucro, bajo nuevas obligaciones de transparencia financiera, inversión y compartición de infraestructura.",
+      "link": "https://expansion.mx/empresas/2026/11/26/cfe-concesion-competir-telcel-mercado-movil",
+      "fecha": "26 Nov 2026, 11:57 hrs"
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "El salario mínimo aún puede subir hasta 11%, estima Banamex",
-      "resumen": "De ser así, el ingreso pasaría de 9,451.2 a 10,490.7 pesos al mes en 2027, pero aún falta la decisión final de la Conasami",
-      "link": "https://expansion.mx/economia/2026/11/24/salario-minimo-2027-oferta-empresarial-inflacion-despensa",
-      "fecha": "24 Nov 2026, 17:35 hrs"
+      "titulo": "Xcaret planea un hotel más económico para familias ante la menor ocupación en la Riviera Maya",
+      "resumen": "Miguel Quintana Pali planea un hotel donde seis personas paguen por una sola habitación y visiten los parques con horarios fijos, en un Caribe mexicano con menor ocupación hotelera.",
+      "link": "https://expansion.mx/empresas/2026/11/26/xcaret-evitar-efecto-tulum-abrira-hotel-barato",
+      "fecha": "26 Nov 2026, 10:45 hrs"
     },
     {
       "fuente": "Expansión",
@@ -111,55 +147,64 @@
       "fecha": "24 Nov 2026, 19:56 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Nestlé promete pagar el café por encima del mercado, pero no responde a la exigencia de los productores de Chiapas",
-      "resumen": "La empresa buscará elevar sus compras de café nacional y mantener los precios por encima de las referencias internacionales. La medida llega en medio de protestas de caficultores que denuncian pagos d…",
-      "link": "https://expansion.mx/empresas/2026/11/24/nestle-precios-cafe-mexico-productores-chiapas",
-      "fecha": "24 Nov 2026, 16:10 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "El Nissan Versa es el rey de ventas en México, pero estos autos nuevos cuestan hasta 84,990 pesos menos",
-      "resumen": "Entre las alternativas para estrenar auto en México hay sedanes, hatchbacks y una SUV; algunos precios dependen de contratar financiamiento.",
-      "link": "https://expansion.mx/empresas/2026/11/24/autos-nuevos-accebles-que-nissan-versa-mexico-2026",
-      "fecha": "24 Nov 2026, 15:14 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Ford busca conquistar a compradores de autos de lujo en México con precios de China",
-      "resumen": "El último ejemplo de esta estrategia es Lincoln Corsair, que llegará a México importado de China con un precio 20% inferior que el de modelos de marcas rivales, gracias a la alianza de manufactura ent…",
-      "link": "https://expansion.mx/empresas/2026/11/24/ford-lincoln-corsair-precio-mexico-importado-china",
-      "fecha": "24 Nov 2026, 13:16 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Un cheque sin fondos, Domino’s y Starbucks: así nació el negocio millonario de los hermanos Torrado en México",
-      "resumen": "Lo que comenzó con una apuesta arriesgada por Domino’s se convirtió en un grupo que opera Starbucks, Burger King, Vips, Chili’s y otras marcas en México y el extranjero.",
-      "link": "https://expansion.mx/empresas/2026/11/23/hermanos-torrado-cheque-sin-fondos-dominos-alsea",
-      "fecha": "23 Nov 2026, 15:55 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Plantean nueva estrategia para Pueblos Mágicos",
+      "resumen": "Sectur informó que implementará en 2027 una nueva estrategia para expandir el número de Pueblos Mágicos para 2028.",
+      "link": "https://www.reforma.com/plantean-nueva-estrategia-para-pueblos-magicos/ar3322549",
+      "fecha": "26 Nov 2026, 19:57 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Eleva Banxico a 1.9% previsión de crecimiento de PIB en 2026",
-      "resumen": "Banxico subió de 1.5% a 1.9% su proyección de crecimiento del PIB en 2026, pero también elevó su previsión para la inflación de 3.5% a 3.7%.",
-      "link": "https://www.reforma.com/eleva-banxico-a-1-9-prevision-de-crecimiento-de-pib-en-2026/ar3322240",
-      "fecha": "26 Nov 2026, 14:02 hrs"
+      "titulo": "Estiman insuficiente plan Pemex-Banobras para proveedores",
+      "resumen": "Programa de pagos que prepara Pemex con Banobras será insuficiente para solventar deuda con contratistas, aseguró Amespac.",
+      "link": "https://www.reforma.com/estiman-insuficiente-plan-pemex-banobras-para-proveedores/ar3322474",
+      "fecha": "26 Nov 2026, 18:22 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene peso su peor  racha bajista en 5 años",
+      "titulo": "Se unen Canirac y Euromonitor por estadística restaurantera",
+      "resumen": "Canirac y Euromonitor anunciaron una alianza estratégica orientada a fortalecer el conocimiento de la industria restaurantera en México.",
+      "link": "https://www.reforma.com/se-unen-canirac-y-euromonitor-por-estadistica-restaurantera/ar3322427",
+      "fecha": "26 Nov 2026, 18:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Analizan captar inversiones en centros de datos de EU",
+      "resumen": "MexDC señaló que México puede captar inversión en centros de datos de EU, pero retrasos en la red eléctrica podrían limitarla.",
+      "link": "https://www.reforma.com/analizan-captar-inversiones-en-centros-de-datos-de-eu/ar3322402",
+      "fecha": "26 Nov 2026, 18:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Confía IP en beneficio arancelario en diciembre",
+      "resumen": "CCE confía que durante la próxima reunión del G-20 en Florida se lograrán beneficios arancelarios en cuanto al acero, aluminio y automotriz.",
+      "link": "https://www.reforma.com/confia-ip-en-beneficio-arancelario-en-diciembre/ar3322375",
+      "fecha": "26 Nov 2026, 18:19 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Asignan 500 mdp a puente internacional en Tamaulipas",
+      "resumen": "Ampliación de puente entre Nuevo Laredo y Texas iniciará en enero de 2027 y tendrá un presupuesto de 500 millones de pesos.",
+      "link": "https://www.reforma.com/asignan-500-mdp-a-puente-internacional-en-tamaulipas/ar3322361",
+      "fecha": "26 Nov 2026, 17:52 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Tiene peso su peor racha bajista en 5 años",
       "resumen": "El tipo de cambio cerró en $19.70 por dólar, con lo que el peso hiló su séptima baja consecutiva, la racha negativa más larga en 5 años.",
       "link": "https://www.reforma.com/tiene-peso-su-peor-racha-bajista-en-5-anos/ar3322359",
       "fecha": "26 Nov 2026, 15:26 hrs"
@@ -168,55 +213,10 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Advierte IP deterioro en situación económica",
-      "resumen": "Para el 46% de los empresarios, la situación económica del País empeorará en los próximos 12 meses, según el IPADE.",
-      "link": "https://www.reforma.com/advierte-ip-deterioro-en-situacion-economica/ar3322119",
-      "fecha": "26 Nov 2026, 11:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Alzas al salario elevaron poco el costo laboral.- Conasami",
-      "resumen": "El alza del salario mínimo hizo que el costo laboral para las empresas sólo pasara del 30 al 32 por ciento de sus gastos, dijo la Conasami.",
-      "link": "https://www.reforma.com/alzas-al-salario-elevaron-poco-el-costo-laboral-conasami/ar3322268",
-      "fecha": "26 Nov 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Sube desocupación a 2.98% en octubre, mayor cifra en 4 años",
-      "resumen": "La Tasa de Desocupación nacional alcanzó su cifra más alta en 48 meses, al ubicarse en 2.98% durante octubre de 2026.",
-      "link": "https://www.reforma.com/sube-desocupacion-a-2-98-en-octubre-mayor-cifra-en-4-anos/ar3322175",
-      "fecha": "26 Nov 2026, 12:40 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Piden más participación de estados en proyectos energéticos",
-      "resumen": "Los estados deben recibir más facultades de verificación en proyectos energéticos, dijo la Secretaría de Desarrollo Energético de Tamaulipas",
-      "link": "https://www.reforma.com/piden-mas-participacion-de-estados-en-proyectos-energeticos/ar3322290",
-      "fecha": "26 Nov 2026, 14:58 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Inaugura Bachoco complejo con inversión de más de 100 mdd",
-      "resumen": "Bachoco inauguró en Jalisco una Planta Procesadora de Aves (PPA) y una Planta de Producto de Valor Agregado (PVA); invirtió más de 100 mdd.",
-      "link": "https://www.reforma.com/inaugura-bachoco-complejo-con-inversion-de-mas-de-100-mdd/ar3322225",
-      "fecha": "26 Nov 2026, 14:15 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Exige Trump investigación tras revisión de cifras del PIB",
-      "resumen": "El Presidente Trump acusó a su propia administración de realizar una maniobra \"deliberada\" para subestimar el crecimiento económico de EU.",
-      "link": "https://www.reforma.com/exige-trump-investigacion-tras-revision-de-cifras-del-pib/ar3322137",
-      "fecha": "26 Nov 2026, 11:33 hrs"
+      "titulo": "Urgen por fortalecer recursos a sanidad",
+      "resumen": "CNA pide atender el recorte al presupuesto de sanidad agropecuaria para que el campo enfrente mejor sus retos.",
+      "link": "https://www.reforma.com/urgen-por-fortalecer-recursos-a-sanidad/ar3322338",
+      "fecha": "26 Nov 2026, 15:10 hrs"
     }
   ]
 }
