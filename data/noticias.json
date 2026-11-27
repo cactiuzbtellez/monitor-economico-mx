@@ -1,7 +1,43 @@
 {
-  "actualizado": "27/11/2026 00:57 hrs",
+  "actualizado": "27/11/2026 11:19 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México supera en octubre sus exportaciones de todo 2025 y alcanza 713,203 mdd",
+      "resumen": "Las ventas al exterior crecieron 30.3% de enero a octubre, impulsadas por las manufacturas. México pasó del déficit a un superávit comercial de 9,552.5 mdd.",
+      "link": "https://expansion.mx/economia/2026/11/27/exportaciones-mexico-record-octubre-2026",
+      "fecha": "27 Nov 2026, 07:59 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "México gana primera batalla pero no la guerra en aranceles con Donald Trump",
+      "resumen": "Si bien la presidenta Sheinbaum busca cerrar un acuerdo con Donald Trump en Mar-a-Lago, Kenneth Smith recomienda pactar una exclusión de la Sección 232 para evitar nuevos aranceles por seguridad nacio…",
+      "link": "https://expansion.mx/economia/2026/11/27/mexico-blindar-t-mec-cheque-blanco-arancelario",
+      "fecha": "27 Nov 2026, 05:55 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Gasolineras y casetas ya no aceptarán efectivo, Hacienda publica actividades relevantes para pagos digitales",
+      "resumen": "Como parte de la Ley de Economía Digital, ahora las autoridades competentes de cada sector tienen 15 días hábiles para dar a conocer las condiciones y plazos para la transición a los pagos digitales y…",
+      "link": "https://expansion.mx/economia/2026/11/27/gasolineras-casetas-no-efectivo-hacienda-pagos-digitales",
+      "fecha": "27 Nov 2026, 05:05 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
+      "resumen": "Bradley C. Hanson retoma sus funciones como Presidente del Consejo; el regulador mexicano le negó tomar la totalidad del banco en febrero pasado",
+      "link": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
+      "fecha": "26 Nov 2026, 20:09 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -40,39 +76,12 @@
     },
     {
       "fuente": "Expansión",
-      "seccion": "Economía",
+      "seccion": "Empresas",
       "color": "#C8102E",
-      "titulo": "Regulación a seguros de gastos médicos en México: puntos clave de la iniciativa que busca detener incrementos en pólizas",
-      "resumen": "La propuesta de Ricardo Monreal busca proteger a adultos mayores, limitar los márgenes de utilidad de las aseguradoras y las comisiones que reciben los agentes.",
-      "link": "https://expansion.mx/economia/2026/11/26/regulacion-a-seguros-de-gastos-medicos-en-mexico-puntos-clave-de-la-iniciativa-que-busca-detener-incrementos-en-polizas",
-      "fecha": "26 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Asia pisa el acelerador en México pese a Trump; le vende 106,000 mdd más que EU y Canadá",
-      "resumen": "Las importaciones provenientes de Asia crecieron 51.6% hasta septiembre, frente al avance de 9.6% de las compras a los socios del T-MEC.",
-      "link": "https://expansion.mx/economia/2026/11/26/asia-amplia-ventaja-norteamerica-proveedor-mexico",
-      "fecha": "26 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Adultos mayores, los que más cancelan pólizas de gastos médicos por altos precios; AMIS dice colaborar con Diputados",
-      "resumen": "La iniciativa para regular los seguros de gastos médicos en México llegará este jueves a Diputados en un escenario de elevada inflación médica y caída en utilidades de aseguradoras",
-      "link": "https://expansion.mx/economia/2026/11/25/adultos-mayores-los-que-mas-cancelan-polizas-de-gastos-medicos-por-altos-precios-amis-mantiene-disposicion-a-colaborar",
-      "fecha": "25 Nov 2026, 18:31 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Rendimientos de las Cajitas de Nu bajarán a partir de esta fecha, pero el cambio no es para todas",
-      "resumen": "La fintech ajustará las tasas de sus herramientas de ahorro en diciembre, además puso una condición para conservar uno de los mayores rendimientos.",
-      "link": "https://expansion.mx/economia/2026/11/25/rendimientos-cajitas-nu-bajaran-fecha-no-todas",
-      "fecha": "25 Nov 2026, 18:08 hrs"
+      "titulo": "Dish recurre a concurso mercantil tras perder clientes en medio del avance del streaming",
+      "resumen": "La empresa busca reestructurar sus obligaciones financieras bajo supervisión judicial, luego de que sus ingresos cayeran 73.3% en cuatro años y su base de clientes descendiera por debajo del millón.",
+      "link": "https://expansion.mx/empresas/2026/11/27/dish-concurso-mercantil-caida-negocio-tv-satelital",
+      "fecha": "27 Nov 2026, 05:55 hrs"
     },
     {
       "fuente": "Expansión",
@@ -82,15 +91,6 @@
       "resumen": "Más allá de su trayectoria al frente de Cemex, Lorenzo Zambrano también participó en el impulso de proyectos educativos y médicos del Tecnológico de Monterrey.",
       "link": "https://expansion.mx/empresas/2026/11/26/hospital-empresario-cemex-tec-monterrey-atiende-100-000",
       "fecha": "26 Nov 2026, 17:02 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Tiendas 3B deja de lado los comerciales y apuesta por una publicidad difícil de comprar, que sus clientes la recomienden",
-      "resumen": "En lugar de pagar comerciales de televisión, radio o anuncios impresos, Tiendas 3B utiliza herramientas de bajo costo que lo ha llevado a abrir más de 3,000 tiendas en México.",
-      "link": "https://expansion.mx/empresas/2026/11/26/tiendas-3b-estrategia-competir-sin-gastar-comerciales",
-      "fecha": "26 Nov 2026, 15:21 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,73 +150,73 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Plantean nueva estrategia para Pueblos Mágicos",
-      "resumen": "Sectur informó que implementará en 2027 una nueva estrategia para expandir el número de Pueblos Mágicos para 2028.",
-      "link": "https://www.reforma.com/plantean-nueva-estrategia-para-pueblos-magicos/ar3322549",
-      "fecha": "26 Nov 2026, 19:57 hrs"
+      "titulo": "Es oficial: dirán adiós al efectivo en gasolineras y casetas",
+      "resumen": "SHCP determinó que en gasolineras y peajes sólo se aceptarán medios de pagos digitales y electrónicos, como parte de la 'ley cero efectivo'.",
+      "link": "https://www.reforma.com/es-oficial-diran-adios-al-efectivo-en-gasolineras-y-casetas/ar3322820",
+      "fecha": "27 Nov 2026, 10:00 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Estiman insuficiente plan Pemex-Banobras para proveedores",
-      "resumen": "Programa de pagos que prepara Pemex con Banobras será insuficiente para solventar deuda con contratistas, aseguró Amespac.",
-      "link": "https://www.reforma.com/estiman-insuficiente-plan-pemex-banobras-para-proveedores/ar3322474",
-      "fecha": "26 Nov 2026, 18:22 hrs"
+      "titulo": "Retrocede dólar hasta los $19.57",
+      "resumen": "El tipo de cambio se negocia en $19.57 por dólar, con una ganancia para la moneda mexicana de 0.64% frente al precio de cierre del jueves.",
+      "link": "https://www.reforma.com/retrocede-dolar-hasta-los-19-57/ar3322759",
+      "fecha": "27 Nov 2026, 08:10 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Se unen Canirac y Euromonitor por estadística restaurantera",
-      "resumen": "Canirac y Euromonitor anunciaron una alianza estratégica orientada a fortalecer el conocimiento de la industria restaurantera en México.",
-      "link": "https://www.reforma.com/se-unen-canirac-y-euromonitor-por-estadistica-restaurantera/ar3322427",
-      "fecha": "26 Nov 2026, 18:19 hrs"
+      "titulo": "Cuestionan capacidad de aduanas mexicanas",
+      "resumen": "Cuestionan organismos si aduanas del País cuentan con capacidad suficiente para atender creciente volumen de comercio exterior.",
+      "link": "https://www.reforma.com/cuestionan-capacidad-de-aduanas-mexicanas/ar3322623",
+      "fecha": "27 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Analizan captar inversiones en centros de datos de EU",
-      "resumen": "MexDC señaló que México puede captar inversión en centros de datos de EU, pero retrasos en la red eléctrica podrían limitarla.",
-      "link": "https://www.reforma.com/analizan-captar-inversiones-en-centros-de-datos-de-eu/ar3322402",
-      "fecha": "26 Nov 2026, 18:19 hrs"
+      "titulo": "Presionan carga fiscal y logística a manufactura",
+      "resumen": "Carga fiscal y logística del transporte fueron los rubros que más subieron entre los referidos por manufactureras de NL como un obstáculo.",
+      "link": "https://www.reforma.com/presionan-carga-fiscal-y-logistica-a-manufactura/ar3322617",
+      "fecha": "27 Nov 2026, 07:04 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Confía IP en beneficio arancelario en diciembre",
-      "resumen": "CCE confía que durante la próxima reunión del G-20 en Florida se lograrán beneficios arancelarios en cuanto al acero, aluminio y automotriz.",
-      "link": "https://www.reforma.com/confia-ip-en-beneficio-arancelario-en-diciembre/ar3322375",
-      "fecha": "26 Nov 2026, 18:19 hrs"
+      "titulo": "Niega AFAC obligar a negociar la TUA",
+      "resumen": "La AFAC negó haber planteado ante la OACI un mecanismo que ordenaría a los grupos aeroportuarios buscar acuerdos con las aerolíneas por TUA.",
+      "link": "https://www.reforma.com/niega-afac-obligar-a-negociar-la-tua/ar3322658",
+      "fecha": "27 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Asignan 500 mdp a puente internacional en Tamaulipas",
-      "resumen": "Ampliación de puente entre Nuevo Laredo y Texas iniciará en enero de 2027 y tendrá un presupuesto de 500 millones de pesos.",
-      "link": "https://www.reforma.com/asignan-500-mdp-a-puente-internacional-en-tamaulipas/ar3322361",
-      "fecha": "26 Nov 2026, 17:52 hrs"
+      "titulo": "Enfrentan retos para reducir la jornada",
+      "resumen": "Para 83% de los trabajadores, las empresas en México están poco o algo preparadas para la reducción de la jornada laboral, reveló OCC.",
+      "link": "https://www.reforma.com/enfrentan-retos-para-reducir-la-jornada/ar3322619",
+      "fecha": "27 Nov 2026, 05:02 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Tiene peso su peor racha bajista en 5 años",
-      "resumen": "El tipo de cambio cerró en $19.70 por dólar, con lo que el peso hiló su séptima baja consecutiva, la racha negativa más larga en 5 años.",
-      "link": "https://www.reforma.com/tiene-peso-su-peor-racha-bajista-en-5-anos/ar3322359",
-      "fecha": "26 Nov 2026, 15:26 hrs"
+      "titulo": "Operan mercados de EU con alza de más de 1%",
+      "resumen": "El promedio industrial Dow Jones subía 507 puntos, o un 1%; el S&amp;P 500 avanzaba un 1.2%, y el Nasdaq Composite experimentó un alza del 1.5%.",
+      "link": "https://www.reforma.com/operan-mercados-de-eu-con-alza-de-mas-de-1/ar3322784",
+      "fecha": "27 Nov 2026, 09:01 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Urgen por fortalecer recursos a sanidad",
-      "resumen": "CNA pide atender el recorte al presupuesto de sanidad agropecuaria para que el campo enfrente mejor sus retos.",
-      "link": "https://www.reforma.com/urgen-por-fortalecer-recursos-a-sanidad/ar3322338",
-      "fecha": "26 Nov 2026, 15:10 hrs"
+      "titulo": "Aparecen chips de Nvidia en empresa vinculada a Alice Huang",
+      "resumen": "Dos empresas chinas instalaron chips Blackwell de Nvidia en un centro de datos de Shanghai vinculado a Alice Huang, según Bloomberg.",
+      "link": "https://www.reforma.com/aparecen-chips-de-nvidia-en-empresa-vinculada-a-alice-huang/ar3322782",
+      "fecha": "27 Nov 2026, 08:54 hrs"
     }
   ]
 }
