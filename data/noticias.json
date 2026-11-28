@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/11/2026 19:09 hrs",
+  "actualizado": "28/11/2026 03:50 hrs",
   "total": 24,
   "noticias": [
     {
@@ -150,6 +150,24 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Anunciarán en 2027 ganador del Corredor del Golfo de México",
+      "resumen": "Empresa ganadora del proyecto carretero Corredor del Golfo de México será anunciada el próximo 7 de enero de 2027, informó Banobras.",
+      "link": "https://www.reforma.com/anunciaran-en-2027-ganador-del-corredor-del-golfo-de-mexico/ar3323188",
+      "fecha": "27 Nov 2026, 19:35 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Se cae sistema de cobro en Sam's y Walmart",
+      "resumen": "Se cae sistema de cobro con tarjetas bancarias en Sam's Club y Walmart, aparentemente en todo el País",
+      "link": "https://www.reforma.com/se-cae-sistema-de-cobro-en-sam-s-y-walmart/ar3323171",
+      "fecha": "27 Nov 2026, 19:09 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Cierra BMV semana con alza de 4.41%",
       "resumen": "La BMV cerró la semana con una ganancia acumulada de 4.41%, concluyendo el viernes en el nivel de 71 mil 657.88 unidades.",
       "link": "https://www.reforma.com/cierra-bmv-semana-con-alza-de-4-41/ar3323108",
@@ -199,24 +217,6 @@
       "resumen": "Grupo Aeroportuario del Pacífico recaudó 7 mil 800 mdp para un fideicomiso de energía e infraestructura, cifra inferior a la prevista.",
       "link": "https://www.reforma.com/recauda-gap-7-800-millones-para-fideicomiso-tipo-fibra/ar3323020",
       "fecha": "27 Nov 2026, 15:49 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Chocan Gobierno e IP por alza a salario mínimo",
-      "resumen": "Empresarios chocan con propuesta de alza de dos dígitos al salario mínimo en 2027, mientras Conasami analiza que sea entre 12 y 13%.",
-      "link": "https://www.reforma.com/chocan-gobierno-e-ip-por-alza-a-salario-minimo/ar3323012",
-      "fecha": "27 Nov 2026, 15:41 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Frena peso racha negativa; cierra dólar en $19.65",
-      "resumen": "El tipo de cambio cerró en $19.65 por dólar, con alza de 0.22% para la moneda mexicana, la cual acumuló un declive semanal de 2.6%.",
-      "link": "https://www.reforma.com/frena-peso-racha-negativa-cierra-dolar-en-19-65/ar3323011",
-      "fecha": "27 Nov 2026, 15:29 hrs"
     }
   ]
 }
