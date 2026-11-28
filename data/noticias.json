@@ -1,5 +1,5 @@
 {
-  "actualizado": "27/11/2026 11:19 hrs",
+  "actualizado": "27/11/2026 19:09 hrs",
   "total": 24,
   "noticias": [
     {
@@ -78,6 +78,15 @@
       "fuente": "Expansión",
       "seccion": "Empresas",
       "color": "#C8102E",
+      "titulo": "Suzuki resucita al Ignis, pero ahora con motor eléctrico",
+      "resumen": "Después de descontinuar mundialmente el modelo de combustión en 2025, la automotriz japonesa recupera su nombre para lanzar su primer vehículo eléctrico urbano, que llegará a distintos mercados en 202…",
+      "link": "https://expansion.mx/empresas/2026/11/27/suzuki-resucita-ignis-electrico-mexico-2027",
+      "fecha": "27 Nov 2026, 17:09 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Empresas",
+      "color": "#C8102E",
       "titulo": "Dish recurre a concurso mercantil tras perder clientes en medio del avance del streaming",
       "resumen": "La empresa busca reestructurar sus obligaciones financieras bajo supervisión judicial, luego de que sus ingresos cayeran 73.3% en cuatro años y su base de clientes descendiera por debajo del millón.",
       "link": "https://expansion.mx/empresas/2026/11/27/dish-concurso-mercantil-caida-negocio-tv-satelital",
@@ -138,85 +147,76 @@
       "fecha": "25 Nov 2026, 14:05 hrs"
     },
     {
-      "fuente": "Expansión",
-      "seccion": "Empresas",
-      "color": "#C8102E",
-      "titulo": "Grupo Salinas dice que paga 40,400 mdp de impuestos en 2026 y exhibe los comprobantes de Elektra y TV Azteca",
-      "resumen": "Ricardo Salinas Pliego utiliza la cifra para defender el cumplimiento fiscal de su conglomerado y exigir al gobierno transparencia sobre el destino de los recursos públicos.",
-      "link": "https://expansion.mx/empresas/2026/11/24/grupo-salinas-pago-impuestos-40400-millones-pesos",
-      "fecha": "24 Nov 2026, 19:56 hrs"
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Cierra BMV semana con alza de 4.41%",
+      "resumen": "La BMV cerró la semana con una ganancia acumulada de 4.41%, concluyendo el viernes en el nivel de 71 mil 657.88 unidades.",
+      "link": "https://www.reforma.com/cierra-bmv-semana-con-alza-de-4-41/ar3323108",
+      "fecha": "27 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Es oficial: dirán adiós al efectivo en gasolineras y casetas",
-      "resumen": "SHCP determinó que en gasolineras y peajes sólo se aceptarán medios de pagos digitales y electrónicos, como parte de la 'ley cero efectivo'.",
-      "link": "https://www.reforma.com/es-oficial-diran-adios-al-efectivo-en-gasolineras-y-casetas/ar3322820",
-      "fecha": "27 Nov 2026, 10:00 hrs"
+      "titulo": "Amplían un año más plazo para importar autos usados de EU",
+      "resumen": "El Gobierno federal extendió hasta noviembre de 2027 el plazo para importar vehículos usados procedentes de Estados Unidos.",
+      "link": "https://www.reforma.com/amplian-un-ano-mas-plazo-para-importar-autos-usados-de-eu/ar3323095",
+      "fecha": "27 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Retrocede dólar hasta los $19.57",
-      "resumen": "El tipo de cambio se negocia en $19.57 por dólar, con una ganancia para la moneda mexicana de 0.64% frente al precio de cierre del jueves.",
-      "link": "https://www.reforma.com/retrocede-dolar-hasta-los-19-57/ar3322759",
-      "fecha": "27 Nov 2026, 08:10 hrs"
+      "titulo": "Rechazan legalidad de investigaciones de EU en el agro",
+      "resumen": "EU busca proteger a un limitado número de productores agrícolas, sin cumplir con los requisitos, dijo Julio Berdegué ex titular de Sader.",
+      "link": "https://www.reforma.com/rechazan-legalidad-de-investigaciones-de-eu-en-el-agro/ar3323091",
+      "fecha": "27 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Cuestionan capacidad de aduanas mexicanas",
-      "resumen": "Cuestionan organismos si aduanas del País cuentan con capacidad suficiente para atender creciente volumen de comercio exterior.",
-      "link": "https://www.reforma.com/cuestionan-capacidad-de-aduanas-mexicanas/ar3322623",
-      "fecha": "27 Nov 2026, 05:02 hrs"
+      "titulo": "Concreta Fibra Mty venta de inmuebles por 911 mdp",
+      "resumen": "Fibra Mty vendió siete inmuebles, ubicados en Nuevo León y Chihuahua, por un monto de 911.4 millones de pesos más el IVA.",
+      "link": "https://www.reforma.com/concreta-fibra-mty-venta-de-inmuebles-por-911-mdp/ar3323073",
+      "fecha": "27 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Presionan carga fiscal y logística a manufactura",
-      "resumen": "Carga fiscal y logística del transporte fueron los rubros que más subieron entre los referidos por manufactureras de NL como un obstáculo.",
-      "link": "https://www.reforma.com/presionan-carga-fiscal-y-logistica-a-manufactura/ar3322617",
-      "fecha": "27 Nov 2026, 07:04 hrs"
+      "titulo": "Apuesta Hidalgo por tren para detonar logística",
+      "resumen": "Impulsado por el avance del proyecto ferroviario AIFA-Pachuca y su ubicación, Hidalgo se consolidaría como centro de distribución y carga.",
+      "link": "https://www.reforma.com/apuesta-hidalgo-por-tren-para-detonar-logistica/ar3323056",
+      "fecha": "27 Nov 2026, 17:33 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Niega AFAC obligar a negociar la TUA",
-      "resumen": "La AFAC negó haber planteado ante la OACI un mecanismo que ordenaría a los grupos aeroportuarios buscar acuerdos con las aerolíneas por TUA.",
-      "link": "https://www.reforma.com/niega-afac-obligar-a-negociar-la-tua/ar3322658",
-      "fecha": "27 Nov 2026, 05:02 hrs"
+      "titulo": "Recauda GAP $7,800 millones para fideicomiso tipo Fibra",
+      "resumen": "Grupo Aeroportuario del Pacífico recaudó 7 mil 800 mdp para un fideicomiso de energía e infraestructura, cifra inferior a la prevista.",
+      "link": "https://www.reforma.com/recauda-gap-7-800-millones-para-fideicomiso-tipo-fibra/ar3323020",
+      "fecha": "27 Nov 2026, 15:49 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Enfrentan retos para reducir la jornada",
-      "resumen": "Para 83% de los trabajadores, las empresas en México están poco o algo preparadas para la reducción de la jornada laboral, reveló OCC.",
-      "link": "https://www.reforma.com/enfrentan-retos-para-reducir-la-jornada/ar3322619",
-      "fecha": "27 Nov 2026, 05:02 hrs"
+      "titulo": "Chocan Gobierno e IP por alza a salario mínimo",
+      "resumen": "Empresarios chocan con propuesta de alza de dos dígitos al salario mínimo en 2027, mientras Conasami analiza que sea entre 12 y 13%.",
+      "link": "https://www.reforma.com/chocan-gobierno-e-ip-por-alza-a-salario-minimo/ar3323012",
+      "fecha": "27 Nov 2026, 15:41 hrs"
     },
     {
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
-      "titulo": "Operan mercados de EU con alza de más de 1%",
-      "resumen": "El promedio industrial Dow Jones subía 507 puntos, o un 1%; el S&amp;P 500 avanzaba un 1.2%, y el Nasdaq Composite experimentó un alza del 1.5%.",
-      "link": "https://www.reforma.com/operan-mercados-de-eu-con-alza-de-mas-de-1/ar3322784",
-      "fecha": "27 Nov 2026, 09:01 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Aparecen chips de Nvidia en empresa vinculada a Alice Huang",
-      "resumen": "Dos empresas chinas instalaron chips Blackwell de Nvidia en un centro de datos de Shanghai vinculado a Alice Huang, según Bloomberg.",
-      "link": "https://www.reforma.com/aparecen-chips-de-nvidia-en-empresa-vinculada-a-alice-huang/ar3322782",
-      "fecha": "27 Nov 2026, 08:54 hrs"
+      "titulo": "Frena peso racha negativa; cierra dólar en $19.65",
+      "resumen": "El tipo de cambio cerró en $19.65 por dólar, con alza de 0.22% para la moneda mexicana, la cual acumuló un declive semanal de 2.6%.",
+      "link": "https://www.reforma.com/frena-peso-racha-negativa-cierra-dolar-en-19-65/ar3323011",
+      "fecha": "27 Nov 2026, 15:29 hrs"
     }
   ]
 }
