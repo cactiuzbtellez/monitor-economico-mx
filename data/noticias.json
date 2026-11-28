@@ -1,7 +1,61 @@
 {
-  "actualizado": "28/11/2026 03:50 hrs",
+  "actualizado": "28/11/2026 11:57 hrs",
   "total": 24,
   "noticias": [
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Hacienda cobrará 6.70 pesos de IEPS a gasolina Magna; va por su segunda semana sin subsidio",
+      "resumen": "Por tercera semana consecutiva, la gasolina Premium no tendrá estímulo fiscal; se le cobrarán 5.66 pesos de IEPS por litro. Al diésel se le cobrará un IEPS doblemente mayor al que pagó hasta hoy viern…",
+      "link": "https://expansion.mx/economia/2026/11/27/gasolina-magna-premium-diesel-hacienda-subsidio-ieps",
+      "fecha": "27 Nov 2026, 18:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "El campo mexicano quiere evitar una guerra comercial si EU limita la fresa",
+      "resumen": "Productores alertan que el caso de la fresa de invierno podría provocar represalias. Tras las elecciones en EU, el CNA ve margen para negociar, aunque duda de que Trump ceda.",
+      "link": "https://expansion.mx/economia/2026/11/27/campo-mexicano-guerra-comercial-si-eu-limita-fresa",
+      "fecha": "27 Nov 2026, 15:08 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Más vigilancia y menos tiempos de espera motivan a Hacienda a eliminar el efectivo en gasolineras y casetas",
+      "resumen": "La SHCP detalló en el Diario Oficial de la Federación los motivos para agilizar y promover los pagos digitales y electrónicos para la venta de gasolinas y cobro de peajes.",
+      "link": "https://expansion.mx/economia/2026/11/27/motivos-hacienda-pagos-digitales-gasolineras-casetas",
+      "fecha": "27 Nov 2026, 14:30 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Tendencias globales que perfilan el futuro de las inversiones en México",
+      "resumen": "La transición hacia un mundo fragmentado, los ajustes en la política monetaria en Estados Unidos y el avance de la inteligencia artificial redefinen la gestión de portafolios en el entorno local.",
+      "link": "https://expansion.mx/economia/2026/11/27/tendencias-globales-que-perfilan-el-futuro-de-las-inversiones-en-mexico",
+      "fecha": "27 Nov 2026, 13:14 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Nu bajará los rendimientos de sus cajitas en diciembre, pero hay una forma de conservar el 13%",
+      "resumen": "La fintech ajustará las tasas de sus herramientas de ahorro en diciembre, además puso una condición para conservar uno de los mayores rendimientos.",
+      "link": "https://expansion.mx/economia/2026/11/27/nu-bajara-rendimientos-cajitas-diciembre",
+      "fecha": "27 Nov 2026, 13:02 hrs"
+    },
+    {
+      "fuente": "Expansión",
+      "seccion": "Economía",
+      "color": "#C8102E",
+      "titulo": "Ley de Economía Digital: Bancos y empresas alistan campaña nacional para impulsar pagos digitales y reducir comisiones",
+      "resumen": "Impulso a campñas de educación financiera en el país, así como promociones en compra de tags y terminales puntop de venta, son la apuesta de arranque para impulsar los pagos digitales",
+      "link": "https://expansion.mx/economia/2026/11/27/ley-de-economia-digital-bancos-y-empresas-alistan-campana-nacional-para-impulsar-pagos-digitales-y-reducir-comisiones",
+      "fecha": "27 Nov 2026, 12:47 hrs"
+    },
     {
       "fuente": "Expansión",
       "seccion": "Economía",
@@ -19,60 +73,6 @@
       "resumen": "Si bien la presidenta Sheinbaum busca cerrar un acuerdo con Donald Trump en Mar-a-Lago, Kenneth Smith recomienda pactar una exclusión de la Sección 232 para evitar nuevos aranceles por seguridad nacio…",
       "link": "https://expansion.mx/economia/2026/11/27/mexico-blindar-t-mec-cheque-blanco-arancelario",
       "fecha": "27 Nov 2026, 05:55 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gasolineras y casetas ya no aceptarán efectivo, Hacienda publica actividades relevantes para pagos digitales",
-      "resumen": "Como parte de la Ley de Economía Digital, ahora las autoridades competentes de cada sector tienen 15 días hábiles para dar a conocer las condiciones y plazos para la transición a los pagos digitales y…",
-      "link": "https://expansion.mx/economia/2026/11/27/gasolineras-casetas-no-efectivo-hacienda-pagos-digitales",
-      "fecha": "27 Nov 2026, 05:05 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Moisés Chaves deja Consejo de Bankaool ante imposibilidad de que CNBV autorice su cargo como dueño mayoritario",
-      "resumen": "Bradley C. Hanson retoma sus funciones como Presidente del Consejo; el regulador mexicano le negó tomar la totalidad del banco en febrero pasado",
-      "link": "https://expansion.mx/economia/2026/11/26/moises-chaves-deja-consejo-de-bankaool-ante-imposibilidad-de-que-cnbv-autorice-su-cargo-como-dueno-mayoritario",
-      "fecha": "26 Nov 2026, 20:09 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Agentes de seguros ven necesario mejorar las condiciones de gastos médicos tras un año difícil para renovar pólizas",
-      "resumen": "La Amasfac pide un análisis profundo por parte de las autoridades de la iniciativa del diputado Ricardo Monreal; aumentos en seguro de gastos médicos mantienen un promedio de 25%.",
-      "link": "https://expansion.mx/economia/2026/11/26/agentes-de-seguros-ven-necesario-mejorar-las-condiciones-de-gastos-medicos-tras-un-ano-dificil-para-renovar-polizas",
-      "fecha": "26 Nov 2026, 17:23 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "Gobernadora de Banxico descarta inicio de ciclo de reducciones en la tasa de referencia",
-      "resumen": "De acuerdo con Victoria Rodríguez, la decisión de la Junta de Gobierno de noviembre se sustentó en la continuación de un proceso de menor inflación en el país.",
-      "link": "https://expansion.mx/economia/2026/11/26/gobernadora-banxico-descarta-reducciones-tasa-interes",
-      "fecha": "26 Nov 2026, 16:15 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "México registra su quinta mayor salida trimestral de inversión de cartera",
-      "resumen": "Si bien durante el tercer trimestre del año se reportó una salida de 11,696 mdd en inversiones de bonos y acciones; analistas atribuyen el ajuste al alza de tasas en EU y a que más mexicanos invirtier…",
-      "link": "https://expansion.mx/economia/2026/11/26/mexico-registra-su-quinta-mayor-salida-trimestral-de-inversion-de-cartera",
-      "fecha": "26 Nov 2026, 15:25 hrs"
-    },
-    {
-      "fuente": "Expansión",
-      "seccion": "Economía",
-      "color": "#C8102E",
-      "titulo": "PIB de México crecerá más, Banxico sube expectativa a 1.9% para el cierre de 2026",
-      "resumen": "El banco central indicó que esta mejora se debió al crecimiento que mostró el sector de servicios y a la reactivación continua de las actividades industriales en el país",
-      "link": "https://expansion.mx/economia/2026/11/26/banxico-expectativa-pib-economia-2026-2027",
-      "fecha": "26 Nov 2026, 12:47 hrs"
     },
     {
       "fuente": "Expansión",
@@ -150,6 +150,33 @@
       "fuente": "Reforma",
       "seccion": "Negocios",
       "color": "#2563EB",
+      "titulo": "Pagan 29% de regios en efectivo en gasolineras",
+      "resumen": "Pagos sólo digitales en gasolineras y casetas complicarán a 29.1% de usuarios de Nuevo León que paga en efectivo, dice PetroIntelligence.",
+      "link": "https://www.reforma.com/pagan-29-de-regios-en-efectivo-en-gasolineras/ar3323284",
+      "fecha": "28 Nov 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "'Asusta' a empleados potencia de modelos de IA",
+      "resumen": "Reporta Axios que modelos internos de Anthropic y OpenAI son tan potentes que muchos empleados dudan de lanzarlos con seguridad.",
+      "link": "https://www.reforma.com/asusta-a-empleados-potencia-de-modelos-de-ia/ar3323289",
+      "fecha": "28 Nov 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
+      "titulo": "Epochal: la startup de IA que dice predecir el futuro",
+      "resumen": "Tres miembros fundadores de xAI se unieron para crear una compañía de IA con el ambicioso proyecto de predecir acontecimientos futuros.",
+      "link": "https://www.reforma.com/epochal-la-startup-de-ia-que-dice-predecir-el-futuro/ar3323291",
+      "fecha": "28 Nov 2026, 05:02 hrs"
+    },
+    {
+      "fuente": "Reforma",
+      "seccion": "Negocios",
+      "color": "#2563EB",
       "titulo": "Anunciarán en 2027 ganador del Corredor del Golfo de México",
       "resumen": "Empresa ganadora del proyecto carretero Corredor del Golfo de México será anunciada el próximo 7 de enero de 2027, informó Banobras.",
       "link": "https://www.reforma.com/anunciaran-en-2027-ganador-del-corredor-del-golfo-de-mexico/ar3323188",
@@ -190,33 +217,6 @@
       "resumen": "EU busca proteger a un limitado número de productores agrícolas, sin cumplir con los requisitos, dijo Julio Berdegué ex titular de Sader.",
       "link": "https://www.reforma.com/rechazan-legalidad-de-investigaciones-de-eu-en-el-agro/ar3323091",
       "fecha": "27 Nov 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Concreta Fibra Mty venta de inmuebles por 911 mdp",
-      "resumen": "Fibra Mty vendió siete inmuebles, ubicados en Nuevo León y Chihuahua, por un monto de 911.4 millones de pesos más el IVA.",
-      "link": "https://www.reforma.com/concreta-fibra-mty-venta-de-inmuebles-por-911-mdp/ar3323073",
-      "fecha": "27 Nov 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Apuesta Hidalgo por tren para detonar logística",
-      "resumen": "Impulsado por el avance del proyecto ferroviario AIFA-Pachuca y su ubicación, Hidalgo se consolidaría como centro de distribución y carga.",
-      "link": "https://www.reforma.com/apuesta-hidalgo-por-tren-para-detonar-logistica/ar3323056",
-      "fecha": "27 Nov 2026, 17:33 hrs"
-    },
-    {
-      "fuente": "Reforma",
-      "seccion": "Negocios",
-      "color": "#2563EB",
-      "titulo": "Recauda GAP $7,800 millones para fideicomiso tipo Fibra",
-      "resumen": "Grupo Aeroportuario del Pacífico recaudó 7 mil 800 mdp para un fideicomiso de energía e infraestructura, cifra inferior a la prevista.",
-      "link": "https://www.reforma.com/recauda-gap-7-800-millones-para-fideicomiso-tipo-fibra/ar3323020",
-      "fecha": "27 Nov 2026, 15:49 hrs"
     }
   ]
 }
